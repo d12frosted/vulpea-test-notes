@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6307ac68-5ab6-404a-96db-c3ebe53ab906
+:END:
+#+TITLE: Giih Udr Jzeyhfok Ndyckzdh NV - 1992-8-1
+
+- wine :: [[id:f424d25a-6637-439a-b1f6-99862f398e8e][Giih Udr Jzeyhfok Ndyckzdh]]
+- date :: 1992-8-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

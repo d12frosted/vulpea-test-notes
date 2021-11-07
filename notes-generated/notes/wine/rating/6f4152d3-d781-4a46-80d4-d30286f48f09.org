@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6f4152d3-d781-4a46-80d4-d30286f48f09
+:END:
+#+TITLE: Qay Ohn Yswbsz NV - 2013-3-9
+
+- wine :: [[id:59e9dc3a-1ac1-495d-992b-cd9e19b517d8][Qay Ohn Yswbsz]]
+- date :: 2013-3-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4baff7c3-3105-4914-8fa3-58f7cecc2b18
+:END:
+#+TITLE: Lrwk Jbaxrmn Hkwjwi Hjxeaj 2007
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Hkwjwi Hjxeaj
+- vintage :: 2007
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.9
+- sugar :: 4.29
+- price :: 37.13 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

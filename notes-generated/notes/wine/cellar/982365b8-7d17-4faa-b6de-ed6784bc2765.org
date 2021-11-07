@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     982365b8-7d17-4faa-b6de-ed6784bc2765
+:END:
+#+TITLE: Scf Elpezclx Npm 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Npm
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 10.14
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:c802d86a-884c-4a09-8ab1-353fd09bc026][Scf Elpezclx Npm NV - 2012-6-22]]
+
+

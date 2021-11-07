@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1e6991a0-34cc-4c44-b539-7645aaefcf74
+:END:
+#+TITLE: Jjkswvm Rcm Pspodwj 1935
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Pspodwj
+- vintage :: 1935
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 12.09
+- sugar :: 2.57
+- price :: 30.81 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

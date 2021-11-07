@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     103a9060-2333-4805-aec6-a74ed8b351ca
+:END:
+#+TITLE: Qay Ihqemql Fhbozk 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ihqemql Fhbozk
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.91
+- price :: 100.23 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

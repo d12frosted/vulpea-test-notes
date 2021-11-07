@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     09fe33e9-00dd-4bfd-bd57-76c84f3e97ec
+:END:
+#+TITLE: Nhozxqe Aldl Uaydd 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Uaydd
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 9.67
+- price :: 28.75 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.0
+- ratings :: [[id:54328485-2c52-4597-836d-815052bbd0c6][Nhozxqe Aldl Uaydd NV - 2011-6-25]]
+
+

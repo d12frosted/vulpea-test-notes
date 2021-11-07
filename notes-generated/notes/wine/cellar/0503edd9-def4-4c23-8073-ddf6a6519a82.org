@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0503edd9-def4-4c23-8073-ddf6a6519a82
+:END:
+#+TITLE: Yokf Gwhwycw Obs 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Obs
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 9.77
+- sugar :: 8.67
+- price :: 33.98 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:0275b0c4-103b-44ce-a0e2-a1ddf280df9b][Yokf Gwhwycw Obs NV - 1996-2-28]]
+
+

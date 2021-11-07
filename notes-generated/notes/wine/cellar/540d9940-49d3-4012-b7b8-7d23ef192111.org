@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     540d9940-49d3-4012-b7b8-7d23ef192111
+:END:
+#+TITLE: Cowhhax Upmqcgn Bfwhkq 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Bfwhkq
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.95
+- price :: 6.95 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA
+
+

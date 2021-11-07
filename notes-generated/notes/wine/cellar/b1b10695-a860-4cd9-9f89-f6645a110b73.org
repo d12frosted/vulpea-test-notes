@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b1b10695-a860-4cd9-9f89-f6645a110b73
+:END:
+#+TITLE: Lrwk Jbaxrmn Fiyng 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Fiyng
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 11.27
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:823c7d41-b4be-4b38-806b-90be948acf5a][Lrwk Jbaxrmn Fiyng NV - 1998-1-2]]
+
+

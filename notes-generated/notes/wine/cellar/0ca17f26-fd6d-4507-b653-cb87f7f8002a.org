@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0ca17f26-fd6d-4507-b653-cb87f7f8002a
+:END:
+#+TITLE: Giih Udr Zexfyxhn Rry 1976
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Zexfyxhn Rry
+- vintage :: 1976
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 10.129999999999999
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     002149e9-84b4-4a77-959a-496148dfb022
+:END:
+#+TITLE: Yokf Gwhwycw Qpbqc Jyif 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Qpbqc Jyif
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 9.5
+- price :: 72.92 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

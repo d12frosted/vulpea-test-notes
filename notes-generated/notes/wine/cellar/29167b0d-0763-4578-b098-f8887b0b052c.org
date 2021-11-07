@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     29167b0d-0763-4578-b098-f8887b0b052c
+:END:
+#+TITLE: Qay Aqyw Vxxr 1975
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Aqyw Vxxr
+- vintage :: 1975
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.8
+- price :: 4.78 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:16760546-241f-453d-b8c1-dda7067c36fb][Qay Aqyw Vxxr 1975 - 1998-7-12]]
+
+

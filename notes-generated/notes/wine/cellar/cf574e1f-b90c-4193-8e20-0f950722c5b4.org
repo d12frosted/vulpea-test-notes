@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     cf574e1f-b90c-4193-8e20-0f950722c5b4
+:END:
+#+TITLE: Lrwk Jbaxrmn Pjyuwtf Fpm 1983
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Pjyuwtf Fpm
+- vintage :: 1983
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 12.47
+- sugar :: 17.69
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

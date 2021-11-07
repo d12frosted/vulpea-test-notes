@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     377000de-1a9a-4491-8118-752e0b028de1
+:END:
+#+TITLE: Scf Elpezclx Vjndy Ahoft 1942 - 1991-2-18
+
+- wine :: [[id:3abdd39a-20e5-4111-b78d-2ee3d794c493][Scf Elpezclx Vjndy Ahoft 1942]]
+- date :: 1991-2-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

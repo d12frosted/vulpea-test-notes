@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     731daf14-1bd0-43e7-9ae3-807c511e1eb3
+:END:
+#+TITLE: Lrwk Jbaxrmn Qdwfuq Rgonsdr 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qdwfuq Rgonsdr
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 12.1
+- sugar :: 21.55
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:160afd61-8868-4dcc-a772-c9165662e795][Lrwk Jbaxrmn Qdwfuq Rgonsdr NV - 1999-3-28]]
+
+

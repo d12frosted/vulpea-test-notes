@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     34ff3dd0-68ce-44b2-a2f4-5e2eb6608515
+:END:
+#+TITLE: Scf Elpezclx Pwequ Kxeh 1946 - 2005-11-3
+
+- wine :: [[id:15a4844e-159f-4d69-9bcf-3fea71ebb477][Scf Elpezclx Pwequ Kxeh 1946]]
+- date :: 2005-11-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

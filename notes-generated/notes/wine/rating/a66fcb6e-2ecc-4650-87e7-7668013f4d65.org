@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a66fcb6e-2ecc-4650-87e7-7668013f4d65
+:END:
+#+TITLE: Yokf Gwhwycw Ojxnjfjk 2018 - 1997-10-26
+
+- wine :: [[id:e0804802-b474-4e78-b9b1-f8fc434d2c2b][Yokf Gwhwycw Ojxnjfjk 2018]]
+- date :: 1997-10-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

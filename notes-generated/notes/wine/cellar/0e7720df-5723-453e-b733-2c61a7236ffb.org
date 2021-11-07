@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     0e7720df-5723-453e-b733-2c61a7236ffb
+:END:
+#+TITLE: Qay Vmmxk Utyqh 1982
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Vmmxk Utyqh
+- vintage :: 1982
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.0
+- price :: 52.47 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 9.0
+- ratings :: [[id:b262e2dd-60cc-4845-85b9-2900c786717c][Qay Vmmxk Utyqh 1982 - 1992-6-18]]
+
+

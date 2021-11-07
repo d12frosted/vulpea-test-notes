@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c6d50253-beaf-490b-a0bc-f62343e02807
+:END:
+#+TITLE: Cowhhax Upmqcgn Upddib NV - 2005-8-10
+
+- wine :: [[id:3e7217c9-f6c6-49bb-bc26-613ccc373f59][Cowhhax Upmqcgn Upddib]]
+- date :: 2005-8-10
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

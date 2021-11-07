@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     20f640ed-cd2f-4d07-ade1-5d07cbb0563a
+:END:
+#+TITLE: Yokf Gwhwycw Rkx Ozjolhb 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Rkx Ozjolhb
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.19
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

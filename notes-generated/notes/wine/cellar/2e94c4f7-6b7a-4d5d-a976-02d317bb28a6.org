@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2e94c4f7-6b7a-4d5d-a976-02d317bb28a6
+:END:
+#+TITLE: Giih Udr Agal Zgfwut 1988
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Agal Zgfwut
+- vintage :: 1988
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 11.120000000000001
+- sugar :: 20.27
+- price :: 61.34 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

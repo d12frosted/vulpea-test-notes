@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1a85b757-2e31-40f5-b47c-5103d30e31ad
+:END:
+#+TITLE: Ecxknc Iepvhans Bogvqud Jnvlyw 1995 - 2014-3-7
+
+- wine :: [[id:a5366afb-1e2e-404a-9059-c8f151f1f3a8][Ecxknc Iepvhans Bogvqud Jnvlyw 1995]]
+- date :: 2014-3-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

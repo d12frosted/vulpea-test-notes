@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9af7a4a1-4388-4561-8a3b-3b0a3b7e4f35
+:END:
+#+TITLE: Ecxknc Iepvhans Fgt Dlhhcmn 1976
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Fgt Dlhhcmn
+- vintage :: 1976
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.21
+- sugar :: 20.93
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

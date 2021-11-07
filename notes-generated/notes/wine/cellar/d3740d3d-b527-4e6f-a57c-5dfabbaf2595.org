@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d3740d3d-b527-4e6f-a57c-5dfabbaf2595
+:END:
+#+TITLE: Jjkswvm Rcm Egljxssf Vveqmqu 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Egljxssf Vveqmqu
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 12.01
+- sugar :: 14.25
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:ea40da1b-43c6-490b-9cb0-dd9e7bee339b][Jjkswvm Rcm Egljxssf Vveqmqu NV - 2003-5-10]]
+
+

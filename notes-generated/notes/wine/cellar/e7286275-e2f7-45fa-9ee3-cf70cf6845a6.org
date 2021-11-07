@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e7286275-e2f7-45fa-9ee3-cf70cf6845a6
+:END:
+#+TITLE: Yjfq Txnsc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Txnsc
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 10.91
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA
+
+

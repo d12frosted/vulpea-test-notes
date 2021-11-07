@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7a2ac2c4-a6a4-4ae9-9d5a-1c6482ba579e
+:END:
+#+TITLE: Giih Udr Ocm Vzotbte 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ocm Vzotbte
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 10.21
+- price :: 69.01 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:5be63ebc-9c9e-420f-a664-8c2279c049d4][Giih Udr Ocm Vzotbte NV - 1993-1-21]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d6cd56e3-852b-40a0-a4f5-590df9fe922f
+:END:
+#+TITLE: Nhozxqe Aldl Zvdlec Zijl 2010
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Zvdlec Zijl
+- vintage :: 2010
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 12.04
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a0532640-57d1-4ca2-90c0-43b586f04415
+:END:
+#+TITLE: Jjkswvm Rcm Exgsmvm 1951
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Exgsmvm
+- vintage :: 1951
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.04
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:aefd56a4-95a7-4f27-b7fc-5e77d79380db][Jjkswvm Rcm Exgsmvm 1951 - 2021-6-25]]
+
+

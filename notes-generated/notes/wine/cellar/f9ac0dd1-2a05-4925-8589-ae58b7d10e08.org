@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f9ac0dd1-2a05-4925-8589-ae58b7d10e08
+:END:
+#+TITLE: Qay Wupmkfvt 1907
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Wupmkfvt
+- vintage :: 1907
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.71
+- price :: 86.84 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

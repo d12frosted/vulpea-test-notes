@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e4a07598-2e96-41fe-ac87-373253087064
+:END:
+#+TITLE: Lrwk Jbaxrmn Ucuek Iqu 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ucuek Iqu
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.39
+- sugar :: 0.38
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

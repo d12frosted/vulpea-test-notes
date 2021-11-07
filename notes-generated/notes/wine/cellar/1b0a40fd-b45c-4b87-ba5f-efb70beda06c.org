@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     1b0a40fd-b45c-4b87-ba5f-efb70beda06c
+:END:
+#+TITLE: Jjkswvm Rcm Igjxgiyc Qrnglkyf 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Igjxgiyc Qrnglkyf
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.0
+- sugar :: 0.71
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA
+
+

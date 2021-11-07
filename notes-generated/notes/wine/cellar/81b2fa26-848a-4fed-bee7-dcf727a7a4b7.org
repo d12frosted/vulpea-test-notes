@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     81b2fa26-848a-4fed-bee7-dcf727a7a4b7
+:END:
+#+TITLE: Cowhhax Upmqcgn Jfuuojxh 2009
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Jfuuojxh
+- vintage :: 2009
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.8
+- price :: 43.40 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

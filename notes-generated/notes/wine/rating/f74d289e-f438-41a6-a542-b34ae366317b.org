@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f74d289e-f438-41a6-a542-b34ae366317b
+:END:
+#+TITLE: Cowhhax Upmqcgn Lxymtn Icodc NV - 1997-12-9
+
+- wine :: [[id:58a5a33f-bb77-4ac0-8032-7d9c09b814be][Cowhhax Upmqcgn Lxymtn Icodc]]
+- date :: 1997-12-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

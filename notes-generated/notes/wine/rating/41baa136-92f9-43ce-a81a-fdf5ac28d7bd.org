@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     41baa136-92f9-43ce-a81a-fdf5ac28d7bd
+:END:
+#+TITLE: Qay Tpaews NV - 2008-12-1
+
+- wine :: [[id:2423f2f5-0186-4182-aec6-071fe52cbf45][Qay Tpaews]]
+- date :: 2008-12-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

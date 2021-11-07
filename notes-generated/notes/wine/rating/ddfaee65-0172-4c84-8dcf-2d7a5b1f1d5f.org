@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ddfaee65-0172-4c84-8dcf-2d7a5b1f1d5f
+:END:
+#+TITLE: Yokf Gwhwycw Nipc Fot NV - 2011-1-14
+
+- wine :: [[id:18aa8ff5-47da-44bb-881e-d75d83da5ef2][Yokf Gwhwycw Nipc Fot]]
+- date :: 2011-1-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

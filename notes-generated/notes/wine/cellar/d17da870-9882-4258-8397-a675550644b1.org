@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d17da870-9882-4258-8397-a675550644b1
+:END:
+#+TITLE: Ecxknc Iepvhans Nvudvg 1918
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Nvudvg
+- vintage :: 1918
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 10.629999999999999
+- price :: 98.33 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA
+
+

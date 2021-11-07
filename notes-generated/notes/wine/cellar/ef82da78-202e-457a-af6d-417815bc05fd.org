@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ef82da78-202e-457a-af6d-417815bc05fd
+:END:
+#+TITLE: Yokf Gwhwycw Xmcmi 1909
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Xmcmi
+- vintage :: 1909
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.99
+- sugar :: 18.8
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA
+
+

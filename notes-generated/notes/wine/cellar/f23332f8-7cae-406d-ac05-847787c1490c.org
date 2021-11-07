@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     f23332f8-7cae-406d-ac05-847787c1490c
+:END:
+#+TITLE: Jjkswvm Rcm Kuh Tayhxepl 2013
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Kuh Tayhxepl
+- vintage :: 2013
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 9.12
+- sugar :: 15.24
+- price :: 57.56 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

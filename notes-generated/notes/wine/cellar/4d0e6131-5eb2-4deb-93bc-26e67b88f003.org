@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4d0e6131-5eb2-4deb-93bc-26e67b88f003
+:END:
+#+TITLE: Yokf Gwhwycw Axob 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Axob
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 9.24
+- price :: 52.97 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

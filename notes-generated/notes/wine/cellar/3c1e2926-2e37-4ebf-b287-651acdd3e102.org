@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     3c1e2926-2e37-4ebf-b287-651acdd3e102
+:END:
+#+TITLE: Cowhhax Upmqcgn Nkcuqrl Ulnwhdg 2012
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Nkcuqrl Ulnwhdg
+- vintage :: 2012
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 12.59
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:35b0778c-fbab-43ef-8f91-81602d0692cd][Cowhhax Upmqcgn Nkcuqrl Ulnwhdg 2012 - 2012-6-28]]
+
+

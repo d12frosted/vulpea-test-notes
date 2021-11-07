@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5d8c9736-f191-48ae-8492-99069ffe3fe7
+:END:
+#+TITLE: Yjfq Mzdgjnhk NV - 1994-4-25
+
+- wine :: [[id:2a034ada-6d53-40df-badf-9e5ec036ecec][Yjfq Mzdgjnhk]]
+- date :: 1994-4-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

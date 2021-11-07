@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a468bfb9-c517-475d-8da8-447d413f4250
+:END:
+#+TITLE: Cowhhax Upmqcgn Xdgmkgt Etlykc 1982
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Xdgmkgt Etlykc
+- vintage :: 1982
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 12.39
+- price :: 41.71 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA
+
+

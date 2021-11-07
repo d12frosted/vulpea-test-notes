@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     30d3bffb-bbf5-48b6-8467-bdbe69b25aa0
+:END:
+#+TITLE: Yjfq Isyv 1976
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Isyv
+- vintage :: 1976
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 13.82
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

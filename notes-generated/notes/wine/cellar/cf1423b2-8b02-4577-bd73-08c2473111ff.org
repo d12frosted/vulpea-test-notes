@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     cf1423b2-8b02-4577-bd73-08c2473111ff
+:END:
+#+TITLE: Qay Lcn 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Lcn
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.940000000000001
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:5601918f-682a-4abe-82d0-7d730ab41fc0][Qay Lcn NV - 2020-2-18]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     495925f3-a8bc-41d6-8fce-e4f90c3a322a
+:END:
+#+TITLE: Yjfq Ttrdsu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ttrdsu
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.44
+- sugar :: 22.27
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

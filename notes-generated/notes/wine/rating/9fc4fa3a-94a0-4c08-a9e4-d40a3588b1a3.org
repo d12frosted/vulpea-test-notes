@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9fc4fa3a-94a0-4c08-a9e4-d40a3588b1a3
+:END:
+#+TITLE: Cowhhax Upmqcgn Qokphrfj Vnxya 1944 - 2012-1-28
+
+- wine :: [[id:6778c19e-60f3-4336-8d66-0a03064cca9f][Cowhhax Upmqcgn Qokphrfj Vnxya 1944]]
+- date :: 2012-1-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

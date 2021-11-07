@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     c5c5f7b5-497b-4f18-926e-54a5e2aba548
+:END:
+#+TITLE: Scf Elpezclx Xpf 1939
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Xpf
+- vintage :: 1939
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 9.46
+- price :: 54.38 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA
+
+

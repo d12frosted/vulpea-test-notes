@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b1204a08-7c72-41f6-be86-77395fc630b4
+:END:
+#+TITLE: Nhozxqe Aldl Ruunsq 1930 - 2003-7-7
+
+- wine :: [[id:bd93da09-c1d4-45b9-992a-3dbf803c777e][Nhozxqe Aldl Ruunsq 1930]]
+- date :: 2003-7-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

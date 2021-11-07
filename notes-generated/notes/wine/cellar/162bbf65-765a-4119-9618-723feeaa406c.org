@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     162bbf65-765a-4119-9618-723feeaa406c
+:END:
+#+TITLE: Nhozxqe Aldl Jaodpzpl Mdhfdi 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Jaodpzpl Mdhfdi
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.45
+- sugar :: 22.84
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:4d482256-ddb6-4cdb-9b35-721bf5682351][Nhozxqe Aldl Jaodpzpl Mdhfdi NV - 2014-9-24]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ee95cb78-d67d-473d-bc65-88db28832cf0
+:END:
+#+TITLE: Jjkswvm Rcm Vtxp Vcnxqbt 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Vtxp Vcnxqbt
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 13.0
+- sugar :: 20.62
+- price :: 85.60 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

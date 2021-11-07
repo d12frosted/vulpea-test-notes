@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bec9cab9-3dfa-4dcc-9913-1e8d7fd67aa0
+:END:
+#+TITLE: Yokf Gwhwycw Dacp Iic NV - 2022-9-17
+
+- wine :: [[id:88b84374-f0fe-4033-b8b8-5fbe73dfb0f1][Yokf Gwhwycw Dacp Iic]]
+- date :: 2022-9-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

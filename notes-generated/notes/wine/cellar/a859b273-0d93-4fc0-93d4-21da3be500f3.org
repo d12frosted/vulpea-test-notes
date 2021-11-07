@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     a859b273-0d93-4fc0-93d4-21da3be500f3
+:END:
+#+TITLE: Yokf Gwhwycw Ciwoyx 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ciwoyx
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.870000000000001
+- sugar :: 23.76
+- price :: 61.60 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

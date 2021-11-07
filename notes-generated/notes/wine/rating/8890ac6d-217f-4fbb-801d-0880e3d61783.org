@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8890ac6d-217f-4fbb-801d-0880e3d61783
+:END:
+#+TITLE: Yjfq Vwtgl 1912 - 2007-8-9
+
+- wine :: [[id:060ee690-a6eb-4787-bdc9-78322c8bf4f0][Yjfq Vwtgl 1912]]
+- date :: 2007-8-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8341ca80-dd49-4bab-a5a0-67ef3e6996cd
+:END:
+#+TITLE: Cowhhax Upmqcgn Pmewlg 2017
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Pmewlg
+- vintage :: 2017
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.6
+- price :: 92.10 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:1699c7e4-3e85-4961-bc02-7848e19a2757][Cowhhax Upmqcgn Pmewlg 2017 - 1994-3-12]]
+
+

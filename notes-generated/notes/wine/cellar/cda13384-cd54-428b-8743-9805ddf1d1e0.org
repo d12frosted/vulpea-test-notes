@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cda13384-cd54-428b-8743-9805ddf1d1e0
+:END:
+#+TITLE: Ecxknc Iepvhans Kadwcin 1905
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Kadwcin
+- vintage :: 1905
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.17
+- sugar :: 17.41
+- price :: 97.79 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

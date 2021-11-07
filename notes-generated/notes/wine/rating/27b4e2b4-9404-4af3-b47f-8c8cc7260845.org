@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     27b4e2b4-9404-4af3-b47f-8c8cc7260845
+:END:
+#+TITLE: Qay Apg Jgpoo 1981 - 2003-5-4
+
+- wine :: [[id:85ebb725-eeef-44df-b502-9affc2da99c3][Qay Apg Jgpoo 1981]]
+- date :: 2003-5-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

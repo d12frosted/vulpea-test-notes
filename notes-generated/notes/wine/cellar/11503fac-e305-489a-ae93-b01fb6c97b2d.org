@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     11503fac-e305-489a-ae93-b01fb6c97b2d
+:END:
+#+TITLE: Jjkswvm Rcm Ersitaa Nliie 1979
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ersitaa Nliie
+- vintage :: 1979
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.81
+- sugar :: 3.45
+- price :: 16.91 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:d1caddc2-96e6-4c14-8dce-70e8878038b4][Jjkswvm Rcm Ersitaa Nliie 1979 - 2014-7-9]]
+
+

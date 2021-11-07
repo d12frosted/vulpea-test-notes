@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     dd8e6bcb-0bd5-455f-9a41-9885ce911142
+:END:
+#+TITLE: Nhozxqe Aldl Qnibq 1930
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Qnibq
+- vintage :: 1930
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 12.03
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA
+
+

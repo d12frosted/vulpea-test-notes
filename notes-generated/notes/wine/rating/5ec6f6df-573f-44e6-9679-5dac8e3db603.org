@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5ec6f6df-573f-44e6-9679-5dac8e3db603
+:END:
+#+TITLE: Scf Elpezclx Jdt Vwv NV - 2017-4-4
+
+- wine :: [[id:be6b4fa9-edb7-4e23-813b-8f4cb1b99ba6][Scf Elpezclx Jdt Vwv]]
+- date :: 2017-4-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     bf699793-ff8f-459b-aecf-d4eee1000dbe
+:END:
+#+TITLE: Nhozxqe Aldl Acoiczjz 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Acoiczjz
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 10.75
+- sugar :: 23.23
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

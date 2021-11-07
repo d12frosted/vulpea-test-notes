@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     911cad67-49cc-40a8-b4a4-fbb5fd6d2bf3
+:END:
+#+TITLE: Ecxknc Iepvhans Lykiqrwz 1982
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Lykiqrwz
+- vintage :: 1982
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 10.94
+- sugar :: 16.81
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA
+
+

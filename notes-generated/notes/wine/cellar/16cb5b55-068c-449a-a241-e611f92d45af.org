@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     16cb5b55-068c-449a-a241-e611f92d45af
+:END:
+#+TITLE: Yjfq Yubf 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Yubf
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.4
+- sugar :: 19.43
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 2.5
+- ratings :: [[id:d517ddde-b3bf-4126-97c3-b6c518c92cce][Yjfq Yubf NV - 2009-11-16]]
+
+

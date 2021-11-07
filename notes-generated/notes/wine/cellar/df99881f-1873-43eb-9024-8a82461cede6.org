@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     df99881f-1873-43eb-9024-8a82461cede6
+:END:
+#+TITLE: Ecxknc Iepvhans But 1914
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: But
+- vintage :: 1914
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.39
+- price :: 58.25 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA
+
+

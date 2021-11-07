@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f7f97408-1871-41c5-af85-121d62efda2e
+:END:
+#+TITLE: Yokf Gwhwycw Nbbozovu Ugo 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Nbbozovu Ugo
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.82
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:d79ac232-9ff1-4512-9078-e2131bae6a3f][Yokf Gwhwycw Nbbozovu Ugo NV - 1999-7-6]]
+
+

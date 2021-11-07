@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3c05d4ef-5cbf-421d-b841-843f7b04446d
+:END:
+#+TITLE: Nhozxqe Aldl Ablj Lxq 2001
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ablj Lxq
+- vintage :: 2001
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 10.57
+- sugar :: 18.19
+- price :: 23.06 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:5febd974-3229-42f5-a42d-00f1b6e5406b][Nhozxqe Aldl Ablj Lxq 2001 - 1997-2-4]]
+
+

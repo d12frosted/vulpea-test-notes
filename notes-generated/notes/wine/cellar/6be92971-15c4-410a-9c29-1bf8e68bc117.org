@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6be92971-15c4-410a-9c29-1bf8e68bc117
+:END:
+#+TITLE: Qay Ftq Ppuw 1948
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ftq Ppuw
+- vintage :: 1948
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 12.56
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:3102bda9-9c07-4a5f-84d0-b8597e5ddaad][Qay Ftq Ppuw 1948 - 2001-8-14]]
+
+

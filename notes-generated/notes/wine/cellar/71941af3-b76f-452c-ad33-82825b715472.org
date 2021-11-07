@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     71941af3-b76f-452c-ad33-82825b715472
+:END:
+#+TITLE: Nhozxqe Aldl Xhph Zuvdb 1977
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xhph Zuvdb
+- vintage :: 1977
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 12.97
+- sugar :: 1.26
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:c43f438a-2307-4d34-8889-998aaa9989fc][Nhozxqe Aldl Xhph Zuvdb 1977 - 2005-3-11]]
+
+

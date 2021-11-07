@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     098965b7-1a83-4299-8370-9ee5ddecd7c9
+:END:
+#+TITLE: Yokf Gwhwycw Ioziwn 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ioziwn
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.64
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

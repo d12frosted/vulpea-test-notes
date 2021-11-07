@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     94781e44-ff76-430a-be13-6430145c6035
+:END:
+#+TITLE: Cowhhax Upmqcgn Welsu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Welsu
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 9.05
+- sugar :: 3.57
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:dc79aa76-298e-419f-8cef-d62c25a9438f][Cowhhax Upmqcgn Welsu NV - 2003-5-4]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3a8931ef-9511-4f88-bace-f56bf44cfad8
+:END:
+#+TITLE: Cowhhax Upmqcgn Eme Wpsfd 1980
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Eme Wpsfd
+- vintage :: 1980
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.78
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:4a1a9387-23a9-4338-b380-6be4a264da3f][Cowhhax Upmqcgn Eme Wpsfd 1980 - 1995-3-25]]
+
+

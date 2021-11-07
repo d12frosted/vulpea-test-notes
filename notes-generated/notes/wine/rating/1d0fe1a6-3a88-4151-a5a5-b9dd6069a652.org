@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1d0fe1a6-3a88-4151-a5a5-b9dd6069a652
+:END:
+#+TITLE: Ecxknc Iepvhans Onihvwub Dmcblwfz 1980 - 1997-7-18
+
+- wine :: [[id:22ba4d7e-47d2-46ab-b208-8cf64aa058fe][Ecxknc Iepvhans Onihvwub Dmcblwfz 1980]]
+- date :: 1997-7-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

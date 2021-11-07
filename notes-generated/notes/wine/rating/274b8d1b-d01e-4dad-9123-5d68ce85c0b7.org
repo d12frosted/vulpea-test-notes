@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     274b8d1b-d01e-4dad-9123-5d68ce85c0b7
+:END:
+#+TITLE: Scf Elpezclx Qfxp NV - 2008-9-15
+
+- wine :: [[id:13083694-8d44-47cf-8928-0fb26430bd84][Scf Elpezclx Qfxp]]
+- date :: 2008-9-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

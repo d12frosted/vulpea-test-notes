@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f7982c0f-8bcb-48bf-bb2d-55a42006226e
+:END:
+#+TITLE: Lrwk Jbaxrmn Tnx Ltrnt 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Tnx Ltrnt
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 9.12
+- sugar :: 6.13
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:34fe2f4a-9474-419f-89fa-aa38e295ec27][Lrwk Jbaxrmn Tnx Ltrnt NV - 2004-5-4]]
+
+

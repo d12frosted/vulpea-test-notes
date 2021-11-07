@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     43edfc9b-6df6-4739-8fe0-74c127234674
+:END:
+#+TITLE: Lrwk Jbaxrmn Uwaopyx Ewyiak 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Uwaopyx Ewyiak
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.59
+- sugar :: 19.02
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

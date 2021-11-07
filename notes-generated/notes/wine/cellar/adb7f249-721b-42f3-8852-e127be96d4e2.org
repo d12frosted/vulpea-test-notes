@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     adb7f249-721b-42f3-8852-e127be96d4e2
+:END:
+#+TITLE: Scf Elpezclx Gihrwxn Owtc 1942
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Gihrwxn Owtc
+- vintage :: 1942
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 10.5
+- price :: 54.48 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:b8356ed0-aad2-4f2c-bb0b-e347610bdf4e][Scf Elpezclx Gihrwxn Owtc 1942 - 2000-5-16]]
+
+

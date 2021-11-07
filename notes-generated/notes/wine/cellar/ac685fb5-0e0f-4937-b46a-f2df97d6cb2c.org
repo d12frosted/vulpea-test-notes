@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ac685fb5-0e0f-4937-b46a-f2df97d6cb2c
+:END:
+#+TITLE: Scf Elpezclx Cgppxpn 1918
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Cgppxpn
+- vintage :: 1918
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.77
+- sugar :: 16.91
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

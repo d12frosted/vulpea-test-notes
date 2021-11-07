@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b32ac1ff-fbc6-40c2-a49b-ce1d08f2de4c
+:END:
+#+TITLE: Ecxknc Iepvhans Dccitjcj Gesbo 2020
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Dccitjcj Gesbo
+- vintage :: 2020
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 10.31
+- sugar :: 9.38
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: wikipedia
+- rating :: NA
+
+

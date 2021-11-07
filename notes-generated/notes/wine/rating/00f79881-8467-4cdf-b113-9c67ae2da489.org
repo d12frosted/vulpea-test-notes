@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     00f79881-8467-4cdf-b113-9c67ae2da489
+:END:
+#+TITLE: Ecxknc Iepvhans Lkj Fmuhdyr NV - 2002-10-26
+
+- wine :: [[id:9f709152-55cb-4513-9ae2-2123170e80e5][Ecxknc Iepvhans Lkj Fmuhdyr]]
+- date :: 2002-10-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

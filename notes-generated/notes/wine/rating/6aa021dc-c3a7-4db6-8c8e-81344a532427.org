@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6aa021dc-c3a7-4db6-8c8e-81344a532427
+:END:
+#+TITLE: Qay Lnio Etj 2019 - 2003-6-27
+
+- wine :: [[id:07e11833-caae-4501-9b8c-bdbb7c1ee7cd][Qay Lnio Etj 2019]]
+- date :: 2003-6-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

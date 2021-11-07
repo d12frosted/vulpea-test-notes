@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     1d49a3c9-ec04-4e0c-bb84-64b1accd111d
+:END:
+#+TITLE: Scf Elpezclx Vrfcg Huqcdgy 1962
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Vrfcg Huqcdgy
+- vintage :: 1962
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.09
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA
+
+

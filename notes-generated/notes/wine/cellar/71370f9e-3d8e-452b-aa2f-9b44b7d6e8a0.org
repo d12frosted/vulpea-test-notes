@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     71370f9e-3d8e-452b-aa2f-9b44b7d6e8a0
+:END:
+#+TITLE: Lrwk Jbaxrmn Rkae 1957
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rkae
+- vintage :: 1957
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 12.3
+- sugar :: 20.87
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA
+
+

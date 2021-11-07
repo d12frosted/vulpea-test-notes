@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0f360534-4d46-421b-ba4d-63a05f341c59
+:END:
+#+TITLE: Ecxknc Iepvhans Rneugo 1912
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Rneugo
+- vintage :: 1912
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.25
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:86acbfa9-8a88-49b3-acb7-99e023609572][Ecxknc Iepvhans Rneugo 1912 - 2013-1-3]]
+
+

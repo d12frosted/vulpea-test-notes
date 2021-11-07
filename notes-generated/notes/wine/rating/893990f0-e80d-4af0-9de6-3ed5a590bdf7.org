@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     893990f0-e80d-4af0-9de6-3ed5a590bdf7
+:END:
+#+TITLE: Cowhhax Upmqcgn Qnk Spghvun NV - 2006-3-22
+
+- wine :: [[id:980d537c-3964-4e6b-95f4-f9a3ea1ad7b0][Cowhhax Upmqcgn Qnk Spghvun]]
+- date :: 2006-3-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

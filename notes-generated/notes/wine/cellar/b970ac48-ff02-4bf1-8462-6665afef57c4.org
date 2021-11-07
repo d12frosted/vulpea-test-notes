@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     b970ac48-ff02-4bf1-8462-6665afef57c4
+:END:
+#+TITLE: Scf Elpezclx Fdcqb Bhlmoddb 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Fdcqb Bhlmoddb
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.84
+- sugar :: 5.83
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

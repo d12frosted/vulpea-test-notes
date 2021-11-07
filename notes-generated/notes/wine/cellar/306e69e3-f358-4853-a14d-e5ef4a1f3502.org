@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     306e69e3-f358-4853-a14d-e5ef4a1f3502
+:END:
+#+TITLE: Scf Elpezclx Cew 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Cew
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 11.91
+- sugar :: 4.04
+- price :: 61.34 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

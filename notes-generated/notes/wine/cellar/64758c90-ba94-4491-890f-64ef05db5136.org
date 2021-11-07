@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     64758c90-ba94-4491-890f-64ef05db5136
+:END:
+#+TITLE: Nhozxqe Aldl Mvdifk Xfyeg 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Mvdifk Xfyeg
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 9.14
+- price :: 17.77 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5abbda20-25d1-497c-94b4-7dcc4463768e
+:END:
+#+TITLE: Ecxknc Iepvhans Qxvzcili Wshtbquf 1953 - 1995-3-20
+
+- wine :: [[id:b0441f63-c371-48c3-b388-e8eb7fa9cfc9][Ecxknc Iepvhans Qxvzcili Wshtbquf 1953]]
+- date :: 1995-3-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

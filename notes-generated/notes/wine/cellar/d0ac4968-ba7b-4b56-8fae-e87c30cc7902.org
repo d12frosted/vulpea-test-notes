@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d0ac4968-ba7b-4b56-8fae-e87c30cc7902
+:END:
+#+TITLE: Nhozxqe Aldl Irnqk Idh 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Irnqk Idh
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.379999999999999
+- sugar :: 3.01
+- price :: 61.23 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA
+
+

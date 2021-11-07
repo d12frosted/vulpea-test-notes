@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b08d7566-8064-4273-bdb3-1050892593a8
+:END:
+#+TITLE: Giih Udr Cpzyznnm 1996
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Cpzyznnm
+- vintage :: 1996
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 12.629999999999999
+- sugar :: 22.12
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 7.5
+- ratings :: [[id:cd0e1277-431d-407e-b51b-f567e1536878][Giih Udr Cpzyznnm 1996 - 2013-4-20]]
+
+

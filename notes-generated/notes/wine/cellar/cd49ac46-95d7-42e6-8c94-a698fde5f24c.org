@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cd49ac46-95d7-42e6-8c94-a698fde5f24c
+:END:
+#+TITLE: Nhozxqe Aldl Lmj Gjm 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Lmj Gjm
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.9
+- price :: 84.01 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 7.0
+- ratings :: [[id:5e386034-7921-429f-be86-ce7719c1681e][Nhozxqe Aldl Lmj Gjm NV - 2015-9-11]]
+
+

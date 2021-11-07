@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8cfb55b4-ee60-4d35-a8d9-1c16effb8a67
+:END:
+#+TITLE: Lrwk Jbaxrmn Ujfm 1978
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ujfm
+- vintage :: 1978
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 10.97
+- sugar :: 2.84
+- price :: 44.91 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA
+
+

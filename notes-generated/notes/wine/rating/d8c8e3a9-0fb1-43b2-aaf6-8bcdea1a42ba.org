@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d8c8e3a9-0fb1-43b2-aaf6-8bcdea1a42ba
+:END:
+#+TITLE: Lrwk Jbaxrmn Aeqeffvo Xlhuzbtd NV - 2012-4-23
+
+- wine :: [[id:5697bef9-6da7-45bd-961f-fe2ffba5a0b0][Lrwk Jbaxrmn Aeqeffvo Xlhuzbtd]]
+- date :: 2012-4-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

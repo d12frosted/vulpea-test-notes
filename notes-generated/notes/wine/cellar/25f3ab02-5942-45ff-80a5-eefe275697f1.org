@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     25f3ab02-5942-45ff-80a5-eefe275697f1
+:END:
+#+TITLE: Ecxknc Iepvhans Chpy 1981
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Chpy
+- vintage :: 1981
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.51
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 6.5
+- ratings :: [[id:b368b658-0db8-4edc-b697-6fd9d89d6b15][Ecxknc Iepvhans Chpy 1981 - 2001-10-10]]
+
+

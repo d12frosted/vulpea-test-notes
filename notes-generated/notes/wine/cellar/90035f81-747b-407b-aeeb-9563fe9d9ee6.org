@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     90035f81-747b-407b-aeeb-9563fe9d9ee6
+:END:
+#+TITLE: Ecxknc Iepvhans Dsib Pvvdnc 1947
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Dsib Pvvdnc
+- vintage :: 1947
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 10.92
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:0ba7835a-f852-4384-9986-980b43524aa5][Ecxknc Iepvhans Dsib Pvvdnc 1947 - 1997-12-4]]
+
+

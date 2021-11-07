@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7eefc73a-9b83-4abb-b1f9-795b75a2f4f4
+:END:
+#+TITLE: Cowhhax Upmqcgn Biw Kiny NV - 2017-7-8
+
+- wine :: [[id:6315336f-3ad7-4519-b1a8-fb358a6687a9][Cowhhax Upmqcgn Biw Kiny]]
+- date :: 2017-7-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c4d06b7f-59aa-4eda-bb46-6241fa19763f
+:END:
+#+TITLE: Cowhhax Upmqcgn Tdb Vfpeul 2016
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Tdb Vfpeul
+- vintage :: 2016
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.370000000000001
+- price :: 26.35 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

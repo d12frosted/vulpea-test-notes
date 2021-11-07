@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ab24f396-b849-4013-8037-548a15922775
+:END:
+#+TITLE: Lrwk Jbaxrmn Omp Xfmvszi 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Omp Xfmvszi
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.379999999999999
+- sugar :: 5.12
+- price :: 40.87 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     3240a167-084d-4116-a812-9b333a51862b
+:END:
+#+TITLE: Lrwk Jbaxrmn Xeuzvqqg Etpl 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xeuzvqqg Etpl
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.79
+- sugar :: 9.08
+- price :: 20.61 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:5a4b3486-63c5-43e6-bed1-7564cbc889be][Lrwk Jbaxrmn Xeuzvqqg Etpl NV - 2005-12-23]]
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     810ce9b8-b0cc-456d-860b-80a1bfd29956
+:END:
+#+TITLE: Yjfq Axb Yuovdiw 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Axb Yuovdiw
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.53
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA
+
+

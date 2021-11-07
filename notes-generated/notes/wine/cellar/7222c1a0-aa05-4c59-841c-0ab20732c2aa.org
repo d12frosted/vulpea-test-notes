@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     7222c1a0-aa05-4c59-841c-0ab20732c2aa
+:END:
+#+TITLE: Yjfq Cbv 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Cbv
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.120000000000001
+- sugar :: 6.99
+- price :: 32.98 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.5
+- ratings :: [[id:943d1f8c-48b7-4024-b15c-620a97c0afa0][Yjfq Cbv NV - 1998-1-11]]
+
+

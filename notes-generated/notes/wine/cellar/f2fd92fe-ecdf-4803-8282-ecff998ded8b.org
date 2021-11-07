@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     f2fd92fe-ecdf-4803-8282-ecff998ded8b
+:END:
+#+TITLE: Yokf Gwhwycw Fmfr Wnr 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Fmfr Wnr
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 12.86
+- sugar :: 16.15
+- price :: 86.14 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.0
+- ratings :: [[id:0c55263c-a19e-42db-8e9d-545df6c54d24][Yokf Gwhwycw Fmfr Wnr NV - 2003-12-24]]
+
+

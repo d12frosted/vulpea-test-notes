@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1c0e586d-f20b-4974-88ac-3b3f85fba9ed
+:END:
+#+TITLE: Qay Ffoz 2006
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ffoz
+- vintage :: 2006
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 13.469999999999999
+- sugar :: 20.83
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 3.0
+- ratings :: [[id:747ceb95-fe8d-4e43-a7df-b3ef666acd48][Qay Ffoz 2006 - 2004-12-13]]
+
+

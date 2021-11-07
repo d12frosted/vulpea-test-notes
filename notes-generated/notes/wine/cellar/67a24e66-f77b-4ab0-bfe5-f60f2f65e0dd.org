@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     67a24e66-f77b-4ab0-bfe5-f60f2f65e0dd
+:END:
+#+TITLE: Nhozxqe Aldl Drum 1906
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Drum
+- vintage :: 1906
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.23
+- sugar :: 18.8
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:8a7fddbf-63e5-4145-80a7-ca55bbca981e][Nhozxqe Aldl Drum 1906 - 2006-4-24]]
+
+

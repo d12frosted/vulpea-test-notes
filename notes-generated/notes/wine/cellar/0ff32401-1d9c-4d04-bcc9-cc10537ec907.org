@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0ff32401-1d9c-4d04-bcc9-cc10537ec907
+:END:
+#+TITLE: Jjkswvm Rcm Dem 1988
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Dem
+- vintage :: 1988
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.81
+- price :: 91.61 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:e846e358-51ac-4734-a8bb-2568e00112ff][Jjkswvm Rcm Dem 1988 - 2003-11-4]]
+
+

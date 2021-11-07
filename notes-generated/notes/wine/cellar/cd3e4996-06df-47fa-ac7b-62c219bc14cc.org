@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     cd3e4996-06df-47fa-ac7b-62c219bc14cc
+:END:
+#+TITLE: Jjkswvm Rcm Wjum 1906
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Wjum
+- vintage :: 1906
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.01
+- sugar :: 3.13
+- price :: 32.59 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6ccffbf6-d9db-4804-9d39-cadb2e790a7e
+:END:
+#+TITLE: Scf Elpezclx Lbkekij Wda 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Lbkekij Wda
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.82
+- sugar :: 19.44
+- price :: 23.51 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA
+
+

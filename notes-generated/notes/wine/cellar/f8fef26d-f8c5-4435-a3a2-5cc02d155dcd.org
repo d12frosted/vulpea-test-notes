@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f8fef26d-f8c5-4435-a3a2-5cc02d155dcd
+:END:
+#+TITLE: Yokf Gwhwycw Fqkczc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Fqkczc
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.92
+- sugar :: 18.31
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

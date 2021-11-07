@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     a8261d15-892c-4f06-85f9-ad9581b18443
+:END:
+#+TITLE: Lrwk Jbaxrmn Qrfoue 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qrfoue
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 11.73
+- sugar :: 9.76
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 8.0
+- ratings :: [[id:a1b1a337-1f74-4978-b32d-e9bc89042341][Lrwk Jbaxrmn Qrfoue NV - 2014-2-27]]
+
+

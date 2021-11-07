@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     91f2a518-0022-4d55-8fcf-5d078efd3ff3
+:END:
+#+TITLE: Yjfq Qrywlv NV - 2019-12-16
+
+- wine :: [[id:015fb546-3a32-4bb2-8019-343ad77291fa][Yjfq Qrywlv]]
+- date :: 2019-12-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

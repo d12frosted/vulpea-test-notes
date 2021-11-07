@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     c75cca35-d050-4f4c-8156-f6318c401992
+:END:
+#+TITLE: Giih Udr Syvpzz Knnczhp 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Syvpzz Knnczhp
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 12.85
+- sugar :: 15.95
+- price :: 99.53 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

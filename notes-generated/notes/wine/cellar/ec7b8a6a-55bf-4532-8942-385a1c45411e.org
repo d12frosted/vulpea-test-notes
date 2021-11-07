@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ec7b8a6a-55bf-4532-8942-385a1c45411e
+:END:
+#+TITLE: Ecxknc Iepvhans Gsobvq Sniv 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Gsobvq Sniv
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.97
+- sugar :: 0.8
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA
+
+

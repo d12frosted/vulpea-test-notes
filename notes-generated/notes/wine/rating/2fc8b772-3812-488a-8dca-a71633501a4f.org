@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2fc8b772-3812-488a-8dca-a71633501a4f
+:END:
+#+TITLE: Nhozxqe Aldl Atnidteb 1932 - 1993-1-27
+
+- wine :: [[id:968cf2c6-c471-4ab4-9d4f-1c7647230932][Nhozxqe Aldl Atnidteb 1932]]
+- date :: 1993-1-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

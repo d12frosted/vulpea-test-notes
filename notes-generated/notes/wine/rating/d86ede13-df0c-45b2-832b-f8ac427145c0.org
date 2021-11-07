@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d86ede13-df0c-45b2-832b-f8ac427145c0
+:END:
+#+TITLE: Yjfq Bgxgaf NV - 2011-4-14
+
+- wine :: [[id:98dd8fd4-9f05-4ac1-82e6-a397185ac162][Yjfq Bgxgaf]]
+- date :: 2011-4-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

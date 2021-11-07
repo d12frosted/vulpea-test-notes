@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     59cff81f-569b-4000-99e5-921b925ab1cb
+:END:
+#+TITLE: Nhozxqe Aldl Pfrxqqhb Swkw 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Pfrxqqhb Swkw
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 11.35
+- price :: 28.50 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.5
+- ratings :: [[id:9a86d62c-5c4b-4678-92ee-a5383de31ace][Nhozxqe Aldl Pfrxqqhb Swkw NV - 1999-4-26]]
+
+

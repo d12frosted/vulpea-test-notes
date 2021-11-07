@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     246d1f29-aede-4357-b913-9cefe62cc6c4
+:END:
+#+TITLE: Yokf Gwhwycw Wgheb 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Wgheb
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.54
+- price :: 25.03 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA
+
+

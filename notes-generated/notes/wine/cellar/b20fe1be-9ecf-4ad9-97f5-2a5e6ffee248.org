@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b20fe1be-9ecf-4ad9-97f5-2a5e6ffee248
+:END:
+#+TITLE: Yjfq Vdp Lqdoupku 1943
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Vdp Lqdoupku
+- vintage :: 1943
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 10.27
+- sugar :: 8.57
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

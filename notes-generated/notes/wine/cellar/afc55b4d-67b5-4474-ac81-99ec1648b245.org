@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     afc55b4d-67b5-4474-ac81-99ec1648b245
+:END:
+#+TITLE: Yjfq Lbcty Yydxwrk 1997
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Lbcty Yydxwrk
+- vintage :: 1997
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 12.86
+- sugar :: 2.72
+- price :: 101.54 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     bffe1cbb-5b3b-46d5-a1aa-73906ac52b58
+:END:
+#+TITLE: Giih Udr Uwxa Ajaxx 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Uwxa Ajaxx
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.84
+- price :: 76.20 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 2.5
+- ratings :: [[id:11d1e205-ed16-462b-985a-c08c101bdef6][Giih Udr Uwxa Ajaxx NV - 1995-1-3]]
+
+

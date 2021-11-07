@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e2a03212-27e4-4c5a-985a-800a9715acd4
+:END:
+#+TITLE: Lrwk Jbaxrmn Yna Xfnt 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Yna Xfnt
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 9.64
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:1596878c-e1f8-4f7e-a9d1-27f208066947][Lrwk Jbaxrmn Yna Xfnt NV - 2006-9-3]]
+
+

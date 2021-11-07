@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b890a163-9b80-48d6-ba91-23e51f07a304
+:END:
+#+TITLE: Ecxknc Iepvhans Qvnm Ghbwmikz 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Qvnm Ghbwmikz
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.81
+- price :: 28.84 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA
+
+

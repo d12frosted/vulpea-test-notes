@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     78efe30a-e57c-4e22-96bd-a53daa68d5c1
+:END:
+#+TITLE: Yjfq Npvt 1961 - 1998-5-22
+
+- wine :: [[id:08120105-8688-47fe-8c28-84cb8f601cff][Yjfq Npvt 1961]]
+- date :: 1998-5-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

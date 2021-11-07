@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ccc7ab83-dcc5-4493-b374-47d9387e06f0
+:END:
+#+TITLE: Yjfq Sdehbbw NV - 2024-7-16
+
+- wine :: [[id:36cf5d7d-0065-47af-b10c-92a2cb69ab66][Yjfq Sdehbbw]]
+- date :: 2024-7-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b48cacbf-2481-45b8-a284-68d8de06f87e
+:END:
+#+TITLE: Giih Udr Pkkfhq 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Pkkfhq
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.47
+- price :: 94.52 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     94e2d2c9-b813-4db7-a00d-20a8ec15ed62
+:END:
+#+TITLE: Nhozxqe Aldl Xdwxctx Wvlfxjsq 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xdwxctx Wvlfxjsq
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 11.54
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.5
+- ratings :: [[id:81cfaf9d-9456-43b0-916e-4e337be55021][Nhozxqe Aldl Xdwxctx Wvlfxjsq NV - 1994-6-27]]
+
+

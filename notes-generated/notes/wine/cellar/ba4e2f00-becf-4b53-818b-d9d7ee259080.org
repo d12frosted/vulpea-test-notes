@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ba4e2f00-becf-4b53-818b-d9d7ee259080
+:END:
+#+TITLE: Yjfq Apwrnch 1936
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Apwrnch
+- vintage :: 1936
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 10.32
+- sugar :: 11.28
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 7.0
+- ratings :: [[id:c45ca32d-6d36-4baf-853c-954702c94a3c][Yjfq Apwrnch 1936 - 2013-1-25]]
+
+

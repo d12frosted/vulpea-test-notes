@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     097ae659-fade-4572-af40-e40418dab9bd
+:END:
+#+TITLE: Lrwk Jbaxrmn Ush Wqpo 1935 - 2009-6-13
+
+- wine :: [[id:01d0f778-1677-4479-9ad3-f602b76a3edf][Lrwk Jbaxrmn Ush Wqpo 1935]]
+- date :: 2009-6-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

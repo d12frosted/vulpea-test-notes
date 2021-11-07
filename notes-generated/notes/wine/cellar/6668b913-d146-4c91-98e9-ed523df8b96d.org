@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6668b913-d146-4c91-98e9-ed523df8b96d
+:END:
+#+TITLE: Nhozxqe Aldl Ivvcv 1928
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ivvcv
+- vintage :: 1928
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 9.78
+- sugar :: 4.72
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a6a730eb-2430-4b56-9ba9-d2a49c6e8768
+:END:
+#+TITLE: Yokf Gwhwycw Msnsivk NV - 2012-12-6
+
+- wine :: [[id:50e7e01d-5971-4422-9155-7bf242d6a4e1][Yokf Gwhwycw Msnsivk]]
+- date :: 2012-12-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

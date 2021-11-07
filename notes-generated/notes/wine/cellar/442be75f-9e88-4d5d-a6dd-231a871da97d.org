@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     442be75f-9e88-4d5d-a6dd-231a871da97d
+:END:
+#+TITLE: Scf Elpezclx Fntjqdi Sirij 2007
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Fntjqdi Sirij
+- vintage :: 2007
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 10.33
+- price :: 8.31 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

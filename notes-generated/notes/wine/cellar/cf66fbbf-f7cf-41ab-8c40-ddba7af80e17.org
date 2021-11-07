@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     cf66fbbf-f7cf-41ab-8c40-ddba7af80e17
+:END:
+#+TITLE: Yjfq Qaega Jysndjfl 2011
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Qaega Jysndjfl
+- vintage :: 2011
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 9.87
+- sugar :: 17.3
+- price :: 102.72 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

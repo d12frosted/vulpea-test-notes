@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     add9277f-b0a9-4524-9e8d-f10b30567cc4
+:END:
+#+TITLE: Qay Qxpetqmx Eecqlo 1910 - 1996-4-25
+
+- wine :: [[id:476e6c21-79bd-4a71-8844-b9536188c71a][Qay Qxpetqmx Eecqlo 1910]]
+- date :: 1996-4-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

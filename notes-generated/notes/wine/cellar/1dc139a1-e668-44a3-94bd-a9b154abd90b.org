@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1dc139a1-e668-44a3-94bd-a9b154abd90b
+:END:
+#+TITLE: Ecxknc Iepvhans Hsmfrl 1905
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Hsmfrl
+- vintage :: 1905
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.530000000000001
+- sugar :: 16.31
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:34163091-bdd2-4c62-a070-b3b305704093][Ecxknc Iepvhans Hsmfrl 1905 - 2013-6-18]]
+
+

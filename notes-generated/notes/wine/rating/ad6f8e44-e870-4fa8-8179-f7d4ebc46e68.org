@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ad6f8e44-e870-4fa8-8179-f7d4ebc46e68
+:END:
+#+TITLE: Jjkswvm Rcm Chnpbjd Etbbyc 1962 - 2002-8-19
+
+- wine :: [[id:97ae4ac4-cef1-4820-b32c-868a8b24a5ec][Jjkswvm Rcm Chnpbjd Etbbyc 1962]]
+- date :: 2002-8-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f6c040c7-4451-4451-ac12-5634b848d823
+:END:
+#+TITLE: Yjfq Lgimiqf Mttw NV - 1992-1-1
+
+- wine :: [[id:f29d449a-d68a-4828-81a5-029fca9bd9f8][Yjfq Lgimiqf Mttw]]
+- date :: 1992-1-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

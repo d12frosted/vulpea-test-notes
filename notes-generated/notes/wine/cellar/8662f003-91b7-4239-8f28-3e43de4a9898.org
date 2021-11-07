@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     8662f003-91b7-4239-8f28-3e43de4a9898
+:END:
+#+TITLE: Giih Udr Hkynteg Bwoewv 1963
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Hkynteg Bwoewv
+- vintage :: 1963
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.15
+- price :: 87.17 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA
+
+

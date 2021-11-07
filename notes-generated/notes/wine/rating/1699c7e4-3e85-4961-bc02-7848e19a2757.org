@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1699c7e4-3e85-4961-bc02-7848e19a2757
+:END:
+#+TITLE: Cowhhax Upmqcgn Pmewlg 2017 - 1994-3-12
+
+- wine :: [[id:8341ca80-dd49-4bab-a5a0-67ef3e6996cd][Cowhhax Upmqcgn Pmewlg 2017]]
+- date :: 1994-3-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

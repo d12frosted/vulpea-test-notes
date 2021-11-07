@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4656e5c5-3900-4087-9cf4-57b894d4d876
+:END:
+#+TITLE: Scf Elpezclx Dfasdlr 1942
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Dfasdlr
+- vintage :: 1942
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 9.92
+- sugar :: 16.09
+- price :: 82.94 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 6.5
+- ratings :: [[id:16abb580-d55e-4995-8109-6c4a3ec83d3c][Scf Elpezclx Dfasdlr 1942 - 1998-7-8]]
+
+

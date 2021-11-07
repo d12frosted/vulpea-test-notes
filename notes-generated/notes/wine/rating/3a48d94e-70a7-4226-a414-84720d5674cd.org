@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3a48d94e-70a7-4226-a414-84720d5674cd
+:END:
+#+TITLE: Yjfq Kbeesp Umsdiocv NV - 2022-7-14
+
+- wine :: [[id:be023565-4b87-430f-a598-902b5273b2c4][Yjfq Kbeesp Umsdiocv]]
+- date :: 2022-7-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

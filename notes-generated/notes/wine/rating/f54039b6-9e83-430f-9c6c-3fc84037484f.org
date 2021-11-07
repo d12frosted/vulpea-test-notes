@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f54039b6-9e83-430f-9c6c-3fc84037484f
+:END:
+#+TITLE: Yokf Gwhwycw Cjy Fsmu NV - 2021-3-4
+
+- wine :: [[id:09ce2ffb-8901-4f63-9d62-dfe0f7517cec][Yokf Gwhwycw Cjy Fsmu]]
+- date :: 2021-3-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8019baec-d79a-4aa1-812f-39f70baad3a2
+:END:
+#+TITLE: Cowhhax Upmqcgn Spr Pppi 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Spr Pppi
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.09
+- price :: 9.47 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA
+
+

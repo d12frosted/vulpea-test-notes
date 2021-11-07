@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b3853eff-2104-4d79-a7a7-ac6fbb6ab7ce
+:END:
+#+TITLE: Scf Elpezclx Rfmamlu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Rfmamlu
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.76
+- sugar :: 19.97
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.5
+- ratings :: [[id:f40b90e9-6f21-481f-ac2e-94f15301964c][Scf Elpezclx Rfmamlu NV - 2011-1-3]]
+
+

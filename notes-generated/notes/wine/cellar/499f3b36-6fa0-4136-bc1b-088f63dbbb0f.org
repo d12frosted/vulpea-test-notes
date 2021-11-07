@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     499f3b36-6fa0-4136-bc1b-088f63dbbb0f
+:END:
+#+TITLE: Scf Elpezclx Bei 1920
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Bei
+- vintage :: 1920
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.120000000000001
+- sugar :: 9.43
+- price :: 89.04 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

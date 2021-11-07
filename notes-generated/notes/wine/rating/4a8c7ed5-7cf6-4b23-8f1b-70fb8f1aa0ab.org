@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4a8c7ed5-7cf6-4b23-8f1b-70fb8f1aa0ab
+:END:
+#+TITLE: Scf Elpezclx Ruswib NV - 2023-9-11
+
+- wine :: [[id:ae865071-ead8-4aed-8186-cbcb0c5bc095][Scf Elpezclx Ruswib]]
+- date :: 2023-9-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

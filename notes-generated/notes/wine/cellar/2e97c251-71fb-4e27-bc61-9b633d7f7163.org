@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2e97c251-71fb-4e27-bc61-9b633d7f7163
+:END:
+#+TITLE: Yokf Gwhwycw Exx 1946
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Exx
+- vintage :: 1946
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.27
+- sugar :: 1.31
+- price :: 81.96 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:bd90c1f4-623e-43b6-b063-cb51fd5b42f8][Yokf Gwhwycw Exx 1946 - 2020-7-5]]
+
+

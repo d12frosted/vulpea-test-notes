@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     84966ef2-968c-4044-a9ca-bb20e581ca42
+:END:
+#+TITLE: Cowhhax Upmqcgn Lpi 1990 - 2011-11-14
+
+- wine :: [[id:2907259b-ea89-4161-a45f-f72c634a3424][Cowhhax Upmqcgn Lpi 1990]]
+- date :: 2011-11-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     ecd7a67a-fd3c-407f-806c-fb22729a2209
+:END:
+#+TITLE: Yokf Gwhwycw Qck Lbjwkh 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Qck Lbjwkh
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.15
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     25a42a10-0d5b-4ca3-a5cf-24c643fd2681
+:END:
+#+TITLE: Jjkswvm Rcm Mzcpa Zpjmipc 2001
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Mzcpa Zpjmipc
+- vintage :: 2001
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 9.52
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: 2.0
+- ratings :: [[id:dc4d91a3-906d-4d3c-b075-8fd4a7722bb2][Jjkswvm Rcm Mzcpa Zpjmipc 2001 - 2008-4-24]]
+
+

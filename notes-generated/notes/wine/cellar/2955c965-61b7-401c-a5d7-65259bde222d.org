@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     2955c965-61b7-401c-a5d7-65259bde222d
+:END:
+#+TITLE: Lrwk Jbaxrmn Bcw Tomodgz 1963
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Bcw Tomodgz
+- vintage :: 1963
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 12.33
+- price :: 20.71 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:0679f5a7-becf-47fe-8e16-405efec99770][Lrwk Jbaxrmn Bcw Tomodgz 1963 - 2024-2-22]]
+
+

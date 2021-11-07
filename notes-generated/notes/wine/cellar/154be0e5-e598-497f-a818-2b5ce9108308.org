@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     154be0e5-e598-497f-a818-2b5ce9108308
+:END:
+#+TITLE: Nhozxqe Aldl Rsembqkt 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Rsembqkt
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 11.68
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

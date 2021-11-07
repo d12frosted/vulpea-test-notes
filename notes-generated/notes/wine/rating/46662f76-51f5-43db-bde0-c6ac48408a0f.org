@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     46662f76-51f5-43db-bde0-c6ac48408a0f
+:END:
+#+TITLE: Yjfq Akbxonx NV - 2011-8-2
+
+- wine :: [[id:170b0364-2b72-4e42-8cdf-57eba7f7446b][Yjfq Akbxonx]]
+- date :: 2011-8-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

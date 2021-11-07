@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1a2d24e1-3ddb-417d-a29f-5d0e05fc8e77
+:END:
+#+TITLE: Qay Uohvaji Wflvokv 2006
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Uohvaji Wflvokv
+- vintage :: 2006
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.79
+- price :: 55.57 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

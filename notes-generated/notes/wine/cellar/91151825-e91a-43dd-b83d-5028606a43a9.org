@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     91151825-e91a-43dd-b83d-5028606a43a9
+:END:
+#+TITLE: Qay Cengrep 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Cengrep
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 11.01
+- sugar :: 8.47
+- price :: 52.39 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 2.5
+- ratings :: [[id:57f0b637-9f1a-48a5-b494-e895189795d4][Qay Cengrep NV - 1997-4-7]]
+
+

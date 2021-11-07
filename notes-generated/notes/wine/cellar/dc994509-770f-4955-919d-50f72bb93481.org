@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     dc994509-770f-4955-919d-50f72bb93481
+:END:
+#+TITLE: Ecxknc Iepvhans Qlltlk Tqyhh 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Qlltlk Tqyhh
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 11.28
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

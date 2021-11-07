@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ba3636ce-2402-4c04-944f-9ad0717b11ce
+:END:
+#+TITLE: Yokf Gwhwycw Pmb 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Pmb
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 10.5
+- sugar :: 18.95
+- price :: 31.48 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:42ed1ddb-6c71-40f5-8f0f-012c0f9f2384][Yokf Gwhwycw Pmb NV - 2015-6-17]]
+
+

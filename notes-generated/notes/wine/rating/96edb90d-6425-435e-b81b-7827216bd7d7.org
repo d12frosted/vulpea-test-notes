@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     96edb90d-6425-435e-b81b-7827216bd7d7
+:END:
+#+TITLE: Cowhhax Upmqcgn Caepguy NV - 1991-7-20
+
+- wine :: [[id:ac4f2d3f-55be-49af-9913-38053414cb11][Cowhhax Upmqcgn Caepguy]]
+- date :: 1991-7-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

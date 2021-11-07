@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f5017f94-c4ce-43ce-84ac-2b7986c0c7d4
+:END:
+#+TITLE: Yjfq Sqcxhzb 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Sqcxhzb
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 10.72
+- sugar :: 6.65
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:f4c6e805-b580-4f5f-81bf-65f9ee7bc1b7][Yjfq Sqcxhzb NV - 2023-1-12]]
+
+

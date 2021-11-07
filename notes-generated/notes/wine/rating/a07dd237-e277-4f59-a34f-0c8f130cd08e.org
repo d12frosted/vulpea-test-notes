@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a07dd237-e277-4f59-a34f-0c8f130cd08e
+:END:
+#+TITLE: Yokf Gwhwycw Iwdgh 1901 - 1996-10-9
+
+- wine :: [[id:590393fc-0701-4cf5-a91a-86d51367c98b][Yokf Gwhwycw Iwdgh 1901]]
+- date :: 1996-10-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

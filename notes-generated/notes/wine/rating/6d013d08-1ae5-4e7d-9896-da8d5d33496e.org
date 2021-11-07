@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6d013d08-1ae5-4e7d-9896-da8d5d33496e
+:END:
+#+TITLE: Yokf Gwhwycw Gqgu 1981 - 2014-3-22
+
+- wine :: [[id:d4b1faf6-42ec-43fd-a3e3-0c2ca0af04f7][Yokf Gwhwycw Gqgu 1981]]
+- date :: 2014-3-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

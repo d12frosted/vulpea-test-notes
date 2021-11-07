@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     083cc8cc-a271-46d3-be0c-c1a9fabefe15
+:END:
+#+TITLE: Yokf Gwhwycw Yjkkx 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Yjkkx
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 12.02
+- price :: 79.20 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

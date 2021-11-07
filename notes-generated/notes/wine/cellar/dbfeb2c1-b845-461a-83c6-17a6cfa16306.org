@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     dbfeb2c1-b845-461a-83c6-17a6cfa16306
+:END:
+#+TITLE: Nhozxqe Aldl Ypuxh Rortkxl 1912
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ypuxh Rortkxl
+- vintage :: 1912
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 9.4
+- price :: 41.89 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:d5abdcd8-2495-423e-8bc4-fad6fa270396][Nhozxqe Aldl Ypuxh Rortkxl 1912 - 1991-8-11]]
+
+

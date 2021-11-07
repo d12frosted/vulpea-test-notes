@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e19c2299-bdc5-4bec-a326-f47b4503d975
+:END:
+#+TITLE: Ecxknc Iepvhans Qjxvp Pvtlyu 1982
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Qjxvp Pvtlyu
+- vintage :: 1982
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 10.09
+- sugar :: 0.13
+- price :: 95.01 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

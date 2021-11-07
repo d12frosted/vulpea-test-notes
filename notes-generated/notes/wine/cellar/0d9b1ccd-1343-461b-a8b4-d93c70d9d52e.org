@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     0d9b1ccd-1343-461b-a8b4-d93c70d9d52e
+:END:
+#+TITLE: Yokf Gwhwycw Bzvdpcg Qqxceve 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Bzvdpcg Qqxceve
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 9.31
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA
+
+

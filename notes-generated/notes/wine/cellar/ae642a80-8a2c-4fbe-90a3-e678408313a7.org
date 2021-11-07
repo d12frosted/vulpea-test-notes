@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ae642a80-8a2c-4fbe-90a3-e678408313a7
+:END:
+#+TITLE: Qay Yxq Zno 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Yxq Zno
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 10.73
+- price :: 48.01 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:d42293fb-05b1-4c8f-a723-496c2c982d6e][Qay Yxq Zno NV - 1999-1-20]]
+
+

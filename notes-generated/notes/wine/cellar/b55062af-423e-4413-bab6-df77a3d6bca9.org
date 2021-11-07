@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b55062af-423e-4413-bab6-df77a3d6bca9
+:END:
+#+TITLE: Jjkswvm Rcm Jvtt Ovt 1918
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Jvtt Ovt
+- vintage :: 1918
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.15
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ad523788-2020-410c-b386-543cecad9f48
+:END:
+#+TITLE: Yokf Gwhwycw Kcluag 2001
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Kcluag
+- vintage :: 2001
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 12.93
+- sugar :: 13.99
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

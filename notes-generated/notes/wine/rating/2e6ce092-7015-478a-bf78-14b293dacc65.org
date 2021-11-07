@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2e6ce092-7015-478a-bf78-14b293dacc65
+:END:
+#+TITLE: Yjfq Rtj Wwqpqbc 1942 - 2006-8-1
+
+- wine :: [[id:dc6cf350-1b0b-41b7-9984-3a2f2f04ab9f][Yjfq Rtj Wwqpqbc 1942]]
+- date :: 2006-8-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

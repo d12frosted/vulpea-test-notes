@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e1cb1998-d204-4160-bcac-e0ad42ea7167
+:END:
+#+TITLE: Yokf Gwhwycw Kcuje Znbbppak 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Kcuje Znbbppak
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.02
+- price :: 45.05 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

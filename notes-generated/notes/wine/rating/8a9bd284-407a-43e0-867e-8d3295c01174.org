@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8a9bd284-407a-43e0-867e-8d3295c01174
+:END:
+#+TITLE: Yjfq Lvybdu NV - 2015-3-14
+
+- wine :: [[id:e60e8333-6c93-454b-be30-6afae46a39b7][Yjfq Lvybdu]]
+- date :: 2015-3-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ec9072b6-1460-42ec-9429-c1b42a3a4bf8
+:END:
+#+TITLE: Lrwk Jbaxrmn Yogtmzcc Jim 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Yogtmzcc Jim
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.11
+- sugar :: 20.66
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 2.0
+- ratings :: [[id:83a631b6-bd31-45b3-9fd4-2743729bcbf1][Lrwk Jbaxrmn Yogtmzcc Jim NV - 1999-12-18]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     15587ff7-424e-44bc-ba1a-98d2cfe02d4b
+:END:
+#+TITLE: Giih Udr Sqzejml Xtv NV - 2018-10-19
+
+- wine :: [[id:0b99601c-4188-4fc6-ba8d-8da4839b4b35][Giih Udr Sqzejml Xtv]]
+- date :: 2018-10-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

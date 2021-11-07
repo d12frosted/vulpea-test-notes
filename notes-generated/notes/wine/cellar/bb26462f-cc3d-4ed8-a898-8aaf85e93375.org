@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     bb26462f-cc3d-4ed8-a898-8aaf85e93375
+:END:
+#+TITLE: Nhozxqe Aldl Xqswhg 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xqswhg
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.53
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:7704802e-89f7-44f3-a411-a093417f397c][Nhozxqe Aldl Xqswhg NV - 1990-5-8]]
+
+

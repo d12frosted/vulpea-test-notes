@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     8c33423d-9e0b-42e1-b983-4f820b682e58
+:END:
+#+TITLE: Cowhhax Upmqcgn Nfftcil 1976
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Nfftcil
+- vintage :: 1976
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.24
+- sugar :: 15.37
+- price :: 23.23 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:f139153a-cdb3-4152-a6b7-487d96a43215][Cowhhax Upmqcgn Nfftcil 1976 - 2013-8-18]]
+
+

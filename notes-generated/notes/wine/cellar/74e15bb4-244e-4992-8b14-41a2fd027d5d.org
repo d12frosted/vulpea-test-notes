@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     74e15bb4-244e-4992-8b14-41a2fd027d5d
+:END:
+#+TITLE: Yokf Gwhwycw Euleud 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Euleud
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.629999999999999
+- price :: 32.51 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:00f75552-700d-4665-8652-11c559298dea][Yokf Gwhwycw Euleud NV - 1991-3-14]]
+
+

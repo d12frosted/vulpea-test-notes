@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a741e6a2-e112-4546-93de-26465332c478
+:END:
+#+TITLE: Yjfq Qydsra Somfv 1930 - 2000-4-21
+
+- wine :: [[id:cfa5f93d-7317-4770-8f3f-9c413dbd38c8][Yjfq Qydsra Somfv 1930]]
+- date :: 2000-4-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

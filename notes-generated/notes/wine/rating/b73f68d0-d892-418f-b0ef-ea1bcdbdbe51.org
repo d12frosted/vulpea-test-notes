@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b73f68d0-d892-418f-b0ef-ea1bcdbdbe51
+:END:
+#+TITLE: Qay Jpfoup Vsqgp NV - 1990-1-16
+
+- wine :: [[id:30e5ffa8-71a9-4eab-b2b6-3a7965cefc54][Qay Jpfoup Vsqgp]]
+- date :: 1990-1-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

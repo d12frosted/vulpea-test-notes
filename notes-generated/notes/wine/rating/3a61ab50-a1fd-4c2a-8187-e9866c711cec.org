@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3a61ab50-a1fd-4c2a-8187-e9866c711cec
+:END:
+#+TITLE: Cowhhax Upmqcgn Ckty Yrt NV - 1991-10-4
+
+- wine :: [[id:5cdacf96-1166-49d6-b6b1-0821ade4c2b2][Cowhhax Upmqcgn Ckty Yrt]]
+- date :: 1991-10-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

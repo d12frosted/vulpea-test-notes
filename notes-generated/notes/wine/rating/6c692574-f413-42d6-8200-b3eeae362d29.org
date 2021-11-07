@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6c692574-f413-42d6-8200-b3eeae362d29
+:END:
+#+TITLE: Nhozxqe Aldl Miiccirc Hwqi 1989 - 2023-11-7
+
+- wine :: [[id:b8a7e9df-ba95-47d7-8f30-71ddf551d210][Nhozxqe Aldl Miiccirc Hwqi 1989]]
+- date :: 2023-11-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

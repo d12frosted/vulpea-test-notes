@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2b11ac9a-a9e4-45eb-b144-fde0b1383df3
+:END:
+#+TITLE: Yjfq Ndjyhma 1919 - 2009-8-11
+
+- wine :: [[id:8cabdd8e-c2a3-4750-a0bc-fa1446561d60][Yjfq Ndjyhma 1919]]
+- date :: 2009-8-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1114436f-44e1-4c51-908f-e532e1e93322
+:END:
+#+TITLE: Jjkswvm Rcm Kfrd Pvhj 1953 - 2014-10-14
+
+- wine :: [[id:2901bc3d-0048-467a-bd4b-d873520cff6a][Jjkswvm Rcm Kfrd Pvhj 1953]]
+- date :: 2014-10-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

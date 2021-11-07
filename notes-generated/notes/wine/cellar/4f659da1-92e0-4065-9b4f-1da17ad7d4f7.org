@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4f659da1-92e0-4065-9b4f-1da17ad7d4f7
+:END:
+#+TITLE: Lrwk Jbaxrmn Exdazavl Xocyhczr 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Exdazavl Xocyhczr
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.09
+- price :: 65.26 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:95ea659e-6a10-4c5d-b012-6aca1f801361][Lrwk Jbaxrmn Exdazavl Xocyhczr NV - 2007-9-9]]
+
+

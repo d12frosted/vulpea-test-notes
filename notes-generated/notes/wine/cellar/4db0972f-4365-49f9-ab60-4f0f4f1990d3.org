@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4db0972f-4365-49f9-ab60-4f0f4f1990d3
+:END:
+#+TITLE: Giih Udr Hggkqp Yujrep 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Hggkqp Yujrep
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.16
+- sugar :: 21.52
+- price :: 7.66 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

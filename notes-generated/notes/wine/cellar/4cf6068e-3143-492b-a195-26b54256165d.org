@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     4cf6068e-3143-492b-a195-26b54256165d
+:END:
+#+TITLE: Yjfq Uyynewr Bbtsc 1962
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Uyynewr Bbtsc
+- vintage :: 1962
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.91
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA
+
+

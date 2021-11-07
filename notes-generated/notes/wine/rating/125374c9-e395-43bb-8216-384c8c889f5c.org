@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     125374c9-e395-43bb-8216-384c8c889f5c
+:END:
+#+TITLE: Yokf Gwhwycw Ttcgy 1929 - 2017-7-22
+
+- wine :: [[id:77bf5ab3-15e3-4941-973a-605bf89c3eab][Yokf Gwhwycw Ttcgy 1929]]
+- date :: 2017-7-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

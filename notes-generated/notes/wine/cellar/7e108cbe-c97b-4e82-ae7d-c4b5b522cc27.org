@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7e108cbe-c97b-4e82-ae7d-c4b5b522cc27
+:END:
+#+TITLE: Yokf Gwhwycw Ztyvar Hwbf 2012
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ztyvar Hwbf
+- vintage :: 2012
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 12.2
+- price :: 46.02 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f1758d02-9148-433e-87ef-818bc57d9163
+:END:
+#+TITLE: Nhozxqe Aldl Eqb 1962
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Eqb
+- vintage :: 1962
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 12.86
+- sugar :: 14.76
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

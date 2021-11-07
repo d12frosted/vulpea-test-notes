@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d5ee917f-e06b-4666-a8b6-ac014fd43566
+:END:
+#+TITLE: Cowhhax Upmqcgn Xlhbhrl Somyjji 1978 - 2023-4-23
+
+- wine :: [[id:db0ab080-c5ce-420c-9c87-e70880ccee4a][Cowhhax Upmqcgn Xlhbhrl Somyjji 1978]]
+- date :: 2023-4-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c439281e-04b7-4bdb-94ae-4267baae49be
+:END:
+#+TITLE: Yjfq Lky Iuyqpkrd 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Lky Iuyqpkrd
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 12.94
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:5372b565-ae01-4b9e-883b-802ca9c94032][Yjfq Lky Iuyqpkrd NV - 1998-10-23]]
+
+

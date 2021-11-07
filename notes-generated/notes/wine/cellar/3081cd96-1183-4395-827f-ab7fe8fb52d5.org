@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3081cd96-1183-4395-827f-ab7fe8fb52d5
+:END:
+#+TITLE: Jjkswvm Rcm Vejfw Aage 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Vejfw Aage
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.0
+- price :: 49.45 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: 2.5
+- ratings :: [[id:0bc68d6d-e317-486e-ad4b-b98b0e485e3a][Jjkswvm Rcm Vejfw Aage NV - 1997-1-1]]
+
+

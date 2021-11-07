@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3ffb2be7-67f5-4f51-a9fa-286422e734c3
+:END:
+#+TITLE: Yokf Gwhwycw Dohoapqd NV - 2024-11-16
+
+- wine :: [[id:55280491-0630-48b1-b8f3-d981c2f2cc58][Yokf Gwhwycw Dohoapqd]]
+- date :: 2024-11-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

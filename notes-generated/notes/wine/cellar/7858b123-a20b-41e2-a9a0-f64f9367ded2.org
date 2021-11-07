@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7858b123-a20b-41e2-a9a0-f64f9367ded2
+:END:
+#+TITLE: Lrwk Jbaxrmn Tytvol 1902
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Tytvol
+- vintage :: 1902
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.26
+- sugar :: 20.21
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:f76826a9-876b-4dca-ad9f-28f7d979c839][Lrwk Jbaxrmn Tytvol 1902 - 2015-6-3]]
+
+

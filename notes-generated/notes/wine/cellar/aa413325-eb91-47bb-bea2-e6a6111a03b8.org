@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     aa413325-eb91-47bb-bea2-e6a6111a03b8
+:END:
+#+TITLE: Yjfq Uuq Eznwlaex 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Uuq Eznwlaex
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 9.64
+- sugar :: 1.65
+- price :: 98.72 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 2.5
+- ratings :: [[id:15d79230-a180-4dc6-8712-9bc40f186f11][Yjfq Uuq Eznwlaex NV - 1995-10-5]]
+
+

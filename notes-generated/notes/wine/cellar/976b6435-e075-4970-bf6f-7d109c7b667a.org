@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     976b6435-e075-4970-bf6f-7d109c7b667a
+:END:
+#+TITLE: Ecxknc Iepvhans Kavcvua 1977
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Kavcvua
+- vintage :: 1977
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 12.67
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e285c5fd-9790-43c3-b1cd-91519c334354
+:END:
+#+TITLE: Lrwk Jbaxrmn Xajut 1985 - 1997-1-7
+
+- wine :: [[id:5fe94d86-7f17-4985-968a-5a0dc5776a5b][Lrwk Jbaxrmn Xajut 1985]]
+- date :: 1997-1-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

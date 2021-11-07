@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     29db159b-6b5c-4244-8c34-4fc467a44e11
+:END:
+#+TITLE: Jjkswvm Rcm Ary 1922
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ary
+- vintage :: 1922
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.7
+- price :: 16.70 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     936f8627-fa59-449e-894d-420e679acb27
+:END:
+#+TITLE: Jjkswvm Rcm Egedxpv Dzsz 1942
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Egedxpv Dzsz
+- vintage :: 1942
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.719999999999999
+- price :: 51.02 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.5
+- ratings :: [[id:014a0db4-da20-4a26-a46a-325c7e5d50c5][Jjkswvm Rcm Egedxpv Dzsz 1942 - 2015-10-25]]
+
+

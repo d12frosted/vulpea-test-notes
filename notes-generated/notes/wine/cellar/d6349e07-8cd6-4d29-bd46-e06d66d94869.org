@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d6349e07-8cd6-4d29-bd46-e06d66d94869
+:END:
+#+TITLE: Yokf Gwhwycw Yndj Qutx 1996
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Yndj Qutx
+- vintage :: 1996
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.86
+- price :: 20.58 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:6be691ef-fda9-4c58-b024-725008ae9594][Yokf Gwhwycw Yndj Qutx 1996 - 2005-9-2]]
+
+

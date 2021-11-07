@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     105c388a-e1f5-4c1d-862f-2d39a4c98819
+:END:
+#+TITLE: Scf Elpezclx Vpt Rshhzze 1933 - 2014-9-27
+
+- wine :: [[id:5bff5371-094e-4e26-b976-c854739b1f9d][Scf Elpezclx Vpt Rshhzze 1933]]
+- date :: 2014-9-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

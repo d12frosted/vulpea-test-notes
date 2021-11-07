@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     dd36d033-0e8e-4d15-a0e0-0a8344128c2e
+:END:
+#+TITLE: Qay Tqwa Flxwcjy 1902
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Tqwa Flxwcjy
+- vintage :: 1902
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 12.36
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4752b219-3361-4a5c-b72a-2eb0eafd719c
+:END:
+#+TITLE: Giih Udr Qvpjpqu 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Qvpjpqu
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.9
+- price :: 33.70 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.0
+- ratings :: [[id:45b1a212-5422-44b7-9872-02e54f4b22c0][Giih Udr Qvpjpqu NV - 2019-7-26]]
+
+

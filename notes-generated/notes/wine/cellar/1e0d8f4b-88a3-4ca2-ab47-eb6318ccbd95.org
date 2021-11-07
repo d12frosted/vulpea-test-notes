@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1e0d8f4b-88a3-4ca2-ab47-eb6318ccbd95
+:END:
+#+TITLE: Cowhhax Upmqcgn Semfixue Ncg 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Semfixue Ncg
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 12.33
+- price :: 75.79 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 1.5
+- ratings :: [[id:07b1f8e8-505a-46b3-b34c-9a109b94140d][Cowhhax Upmqcgn Semfixue Ncg NV - 1996-12-26]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a270973f-73eb-4eab-83ea-b50d09cd845a
+:END:
+#+TITLE: Yjfq Tci Uigfdr NV - 1995-7-26
+
+- wine :: [[id:bcbc1fd2-ab3a-4797-8a82-3fa9ae7134c4][Yjfq Tci Uigfdr]]
+- date :: 1995-7-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

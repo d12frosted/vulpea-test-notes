@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d5e4a0c5-8a5b-475c-b59a-311cb2b903b2
+:END:
+#+TITLE: Jjkswvm Rcm Gfigb 1968
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Gfigb
+- vintage :: 1968
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.94
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:21c55f25-d9de-495f-bf2b-33ea579d7df8][Jjkswvm Rcm Gfigb 1968 - 1990-7-9]]
+
+

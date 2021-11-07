@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d3440678-ddd2-494c-9d36-17a9fde0ea9e
+:END:
+#+TITLE: Qay Cuowpxiz 2008
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Cuowpxiz
+- vintage :: 2008
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 11.81
+- sugar :: 14.9
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:14a25d03-ee39-45ad-b757-02cb74c73fc6][Qay Cuowpxiz 2008 - 2003-10-7]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4a88fcc6-9378-4fb7-8b4a-8b62fb9562f6
+:END:
+#+TITLE: Qay Prgeezt Cbdt 1933
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Prgeezt Cbdt
+- vintage :: 1933
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.030000000000001
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

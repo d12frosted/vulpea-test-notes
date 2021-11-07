@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d72bbb6a-47fb-4d33-8422-d2a781701f9d
+:END:
+#+TITLE: Lrwk Jbaxrmn Lxywmt Vinxcnr 1936
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Lxywmt Vinxcnr
+- vintage :: 1936
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 10.85
+- sugar :: 6.09
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: wikipedia
+- rating :: NA
+
+

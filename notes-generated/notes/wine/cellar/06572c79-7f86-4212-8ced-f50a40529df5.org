@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     06572c79-7f86-4212-8ced-f50a40529df5
+:END:
+#+TITLE: Giih Udr Zhlevzo 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Zhlevzo
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.74
+- price :: 28.20 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:2fcff0d1-8039-416e-8043-852ad330c698][Giih Udr Zhlevzo NV - 2019-5-8]]
+
+

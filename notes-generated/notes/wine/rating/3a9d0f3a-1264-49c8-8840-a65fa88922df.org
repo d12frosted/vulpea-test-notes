@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3a9d0f3a-1264-49c8-8840-a65fa88922df
+:END:
+#+TITLE: Cowhhax Upmqcgn Mnt 1929 - 2000-12-13
+
+- wine :: [[id:c9a81442-2e1c-4f0d-baaf-bf15c46f021d][Cowhhax Upmqcgn Mnt 1929]]
+- date :: 2000-12-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

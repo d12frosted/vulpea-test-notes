@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2c3ad40e-f50a-4ebb-9c0f-85f5fc0ef8c3
+:END:
+#+TITLE: Qay Bvomgom 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Bvomgom
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 10.129999999999999
+- sugar :: 8.09
+- price :: 99.87 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.0
+- ratings :: [[id:9bc96816-845b-448f-908b-a3660823c470][Qay Bvomgom NV - 2018-2-3]]
+
+

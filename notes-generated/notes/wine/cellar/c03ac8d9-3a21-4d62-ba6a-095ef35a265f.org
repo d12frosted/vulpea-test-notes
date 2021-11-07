@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c03ac8d9-3a21-4d62-ba6a-095ef35a265f
+:END:
+#+TITLE: Yjfq Hkb 1985
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Hkb
+- vintage :: 1985
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 10.07
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.0
+- ratings :: [[id:f4f738f7-5f13-481d-ae29-cdbcedeb1a0e][Yjfq Hkb 1985 - 2016-7-22]]
+
+

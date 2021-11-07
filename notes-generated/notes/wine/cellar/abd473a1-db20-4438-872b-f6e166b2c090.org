@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     abd473a1-db20-4438-872b-f6e166b2c090
+:END:
+#+TITLE: Ecxknc Iepvhans Ycxbx Xxon 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ycxbx Xxon
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.34
+- sugar :: 4.82
+- price :: 9.65 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: 7.0
+- ratings :: [[id:c064a242-275d-40d5-a3b8-f00c93da2cee][Ecxknc Iepvhans Ycxbx Xxon NV - 2020-4-6]]
+
+

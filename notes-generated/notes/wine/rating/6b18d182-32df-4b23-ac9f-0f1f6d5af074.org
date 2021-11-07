@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6b18d182-32df-4b23-ac9f-0f1f6d5af074
+:END:
+#+TITLE: Jjkswvm Rcm Vxp Hsanm 1957 - 2003-3-18
+
+- wine :: [[id:54bdb70e-3448-4682-864d-4498913cdfb1][Jjkswvm Rcm Vxp Hsanm 1957]]
+- date :: 2003-3-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

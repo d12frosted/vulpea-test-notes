@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3a144c85-9acd-4e83-85e6-3a6b421e95ef
+:END:
+#+TITLE: Giih Udr Rbxfmju Agz 1982 - 1993-1-26
+
+- wine :: [[id:5b5156ce-ac18-4d29-bbe2-0445f76fa331][Giih Udr Rbxfmju Agz 1982]]
+- date :: 1993-1-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

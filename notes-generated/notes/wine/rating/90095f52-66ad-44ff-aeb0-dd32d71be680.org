@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     90095f52-66ad-44ff-aeb0-dd32d71be680
+:END:
+#+TITLE: Yokf Gwhwycw Vwcgp Ddmqdzq 1916 - 1994-7-22
+
+- wine :: [[id:b30688e0-2442-4c50-af36-f268dcace186][Yokf Gwhwycw Vwcgp Ddmqdzq 1916]]
+- date :: 1994-7-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

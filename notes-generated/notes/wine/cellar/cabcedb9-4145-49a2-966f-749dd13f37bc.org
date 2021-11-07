@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cabcedb9-4145-49a2-966f-749dd13f37bc
+:END:
+#+TITLE: Lrwk Jbaxrmn Jqahjzxr 1931
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Jqahjzxr
+- vintage :: 1931
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 12.79
+- sugar :: 9.12
+- price :: 69.21 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:c06603e5-f126-4922-a8bf-042e73a25226][Lrwk Jbaxrmn Jqahjzxr 1931 - 1995-5-9]]
+
+

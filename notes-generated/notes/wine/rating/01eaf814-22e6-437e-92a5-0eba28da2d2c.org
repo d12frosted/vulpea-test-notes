@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     01eaf814-22e6-437e-92a5-0eba28da2d2c
+:END:
+#+TITLE: Cowhhax Upmqcgn Vslghr Lcqq 1960 - 2019-9-16
+
+- wine :: [[id:ad55d4db-b0d4-4d74-89de-3b3a6198adf6][Cowhhax Upmqcgn Vslghr Lcqq 1960]]
+- date :: 2019-9-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

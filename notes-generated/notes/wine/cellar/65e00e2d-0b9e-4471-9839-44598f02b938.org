@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     65e00e2d-0b9e-4471-9839-44598f02b938
+:END:
+#+TITLE: Scf Elpezclx Qmtbc Plhj 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Qmtbc Plhj
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.2
+- sugar :: 13.45
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 3.0
+- ratings :: [[id:7b12da4b-faef-4f13-8877-ec40fac790fa][Scf Elpezclx Qmtbc Plhj NV - 2008-12-13]]
+
+

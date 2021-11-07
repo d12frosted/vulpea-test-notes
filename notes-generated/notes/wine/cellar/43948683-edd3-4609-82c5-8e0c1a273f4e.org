@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     43948683-edd3-4609-82c5-8e0c1a273f4e
+:END:
+#+TITLE: Jjkswvm Rcm Ugekmto Rctyhuz 1961
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ugekmto Rctyhuz
+- vintage :: 1961
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 9.72
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

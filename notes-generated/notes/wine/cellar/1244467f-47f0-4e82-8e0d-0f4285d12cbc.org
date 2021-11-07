@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1244467f-47f0-4e82-8e0d-0f4285d12cbc
+:END:
+#+TITLE: Lrwk Jbaxrmn Mrh Sykjwz 2004
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Mrh Sykjwz
+- vintage :: 2004
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 12.16
+- sugar :: 12.79
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b8ffd1f4-f0ae-4351-9d79-6065992124e8
+:END:
+#+TITLE: Cowhhax Upmqcgn Yitzifu 1926 - 2018-4-11
+
+- wine :: [[id:4f0425ff-6848-44ff-ab65-d82f14056454][Cowhhax Upmqcgn Yitzifu 1926]]
+- date :: 2018-4-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

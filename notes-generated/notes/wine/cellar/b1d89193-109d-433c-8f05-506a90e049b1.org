@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b1d89193-109d-433c-8f05-506a90e049b1
+:END:
+#+TITLE: Ecxknc Iepvhans Ateyli 1918
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ateyli
+- vintage :: 1918
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.53
+- sugar :: 11.31
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

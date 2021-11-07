@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     082ca6ca-9fd4-4051-b5ef-39327cdd004f
+:END:
+#+TITLE: Nhozxqe Aldl Jcqzpz 1919
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Jcqzpz
+- vintage :: 1919
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 9.94
+- sugar :: 10.64
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

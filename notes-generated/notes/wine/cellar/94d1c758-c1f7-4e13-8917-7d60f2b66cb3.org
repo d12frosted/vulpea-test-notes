@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     94d1c758-c1f7-4e13-8917-7d60f2b66cb3
+:END:
+#+TITLE: Cowhhax Upmqcgn Ogiyige Fjigl 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ogiyige Fjigl
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 10.27
+- price :: 11.79 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:40f06a60-8900-4c77-8702-fc1df5b8e994][Cowhhax Upmqcgn Ogiyige Fjigl NV - 2002-1-27]]
+
+

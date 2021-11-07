@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cde08819-9459-4ae0-8431-a44d0f36ce49
+:END:
+#+TITLE: Nhozxqe Aldl Izz Hjkqsk NV - 1997-6-16
+
+- wine :: [[id:0fe8a621-c8a8-4c11-9c5c-40624e9e198e][Nhozxqe Aldl Izz Hjkqsk]]
+- date :: 1997-6-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

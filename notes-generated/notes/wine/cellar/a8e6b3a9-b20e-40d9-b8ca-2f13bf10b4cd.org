@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a8e6b3a9-b20e-40d9-b8ca-2f13bf10b4cd
+:END:
+#+TITLE: Jjkswvm Rcm Qssdk 1918
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qssdk
+- vintage :: 1918
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 11.81
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA
+
+

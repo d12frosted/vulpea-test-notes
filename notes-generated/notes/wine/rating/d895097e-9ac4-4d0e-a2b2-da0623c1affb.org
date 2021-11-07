@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d895097e-9ac4-4d0e-a2b2-da0623c1affb
+:END:
+#+TITLE: Lrwk Jbaxrmn Qepotaq 1948 - 2023-4-18
+
+- wine :: [[id:ffd6a55c-ca0b-40dd-be60-261d5dfb14db][Lrwk Jbaxrmn Qepotaq 1948]]
+- date :: 2023-4-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     73c21b76-abd0-4a78-89a9-967f04a19454
+:END:
+#+TITLE: Qay Jtwrj Eouq NV - 1993-8-21
+
+- wine :: [[id:bd4b4102-bb03-4bff-8147-ec974f88ae58][Qay Jtwrj Eouq]]
+- date :: 1993-8-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

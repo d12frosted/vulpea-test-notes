@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1b454afd-53c6-4db2-98ef-48ca8d9104e9
+:END:
+#+TITLE: Cowhhax Upmqcgn Msucs NV - 2009-5-22
+
+- wine :: [[id:6ecc8c8e-b23c-4d5a-85eb-9da83405835f][Cowhhax Upmqcgn Msucs]]
+- date :: 2009-5-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

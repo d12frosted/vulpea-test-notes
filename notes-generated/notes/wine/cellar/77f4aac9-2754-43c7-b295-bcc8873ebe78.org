@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     77f4aac9-2754-43c7-b295-bcc8873ebe78
+:END:
+#+TITLE: Yokf Gwhwycw Owl 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Owl
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 9.15
+- price :: 93.69 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.5
+- ratings :: [[id:29ddf6ce-ebda-467a-a070-0bedfc2b1bf6][Yokf Gwhwycw Owl NV - 1991-5-21]]
+
+

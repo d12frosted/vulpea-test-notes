@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     923f41b5-e4d6-4b65-b855-b41b2b132e41
+:END:
+#+TITLE: Jjkswvm Rcm Ywb Qjon 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ywb Qjon
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 12.4
+- sugar :: 17.67
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA
+
+

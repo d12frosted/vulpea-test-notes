@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     099501b0-0344-431e-bc73-16833f27b814
+:END:
+#+TITLE: Cowhhax Upmqcgn Zsgxj NV - 2007-5-6
+
+- wine :: [[id:e3f53505-0647-4d08-bb7a-0dd2d6462fa3][Cowhhax Upmqcgn Zsgxj]]
+- date :: 2007-5-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

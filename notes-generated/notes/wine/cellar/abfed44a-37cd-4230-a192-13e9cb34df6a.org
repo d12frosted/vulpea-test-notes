@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     abfed44a-37cd-4230-a192-13e9cb34df6a
+:END:
+#+TITLE: Giih Udr Mun 2019
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Mun
+- vintage :: 2019
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.56
+- price :: 28.71 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 2.5
+- ratings :: [[id:c0596cca-fe66-4035-be96-f93e0600bed2][Giih Udr Mun 2019 - 1998-7-12]]
+
+

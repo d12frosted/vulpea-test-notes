@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     95f7c5e3-05ad-4085-bc06-92833c402a61
+:END:
+#+TITLE: Qay Uenufnd NV - 2016-8-7
+
+- wine :: [[id:19f6503e-4839-4dbb-a9c0-fc0f1ce8c99b][Qay Uenufnd]]
+- date :: 2016-8-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

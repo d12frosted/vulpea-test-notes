@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     8075e9ed-2343-4174-8b38-de630bfa8866
+:END:
+#+TITLE: Scf Elpezclx Dpdnpb 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Dpdnpb
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 13.18
+- sugar :: 23.7
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     876cfc40-edd1-43b0-a7cb-d61b9828c2a1
+:END:
+#+TITLE: Ecxknc Iepvhans Ynlyn Cjfboc 1915 - 2020-7-16
+
+- wine :: [[id:336ddabd-d776-403f-9933-23508c190cdc][Ecxknc Iepvhans Ynlyn Cjfboc 1915]]
+- date :: 2020-7-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

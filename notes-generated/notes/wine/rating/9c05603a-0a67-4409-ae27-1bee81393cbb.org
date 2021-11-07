@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9c05603a-0a67-4409-ae27-1bee81393cbb
+:END:
+#+TITLE: Scf Elpezclx Mxpszt 1929 - 2017-3-13
+
+- wine :: [[id:19da60a3-bf4e-489a-bdf7-68b716ba5645][Scf Elpezclx Mxpszt 1929]]
+- date :: 2017-3-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

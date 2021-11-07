@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     369faec5-7a71-48ba-a721-be66a0e03240
+:END:
+#+TITLE: Yokf Gwhwycw Lqmaart 1900
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Lqmaart
+- vintage :: 1900
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 12.58
+- sugar :: 19.15
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

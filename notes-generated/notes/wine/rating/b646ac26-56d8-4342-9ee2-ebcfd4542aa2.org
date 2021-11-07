@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b646ac26-56d8-4342-9ee2-ebcfd4542aa2
+:END:
+#+TITLE: Nhozxqe Aldl Ezuo 1990 - 2023-2-24
+
+- wine :: [[id:d288d001-ccf1-4a1d-87cc-2287e3c3b0ec][Nhozxqe Aldl Ezuo 1990]]
+- date :: 2023-2-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

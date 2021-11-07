@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     74ce7c1c-7375-4f88-b7a6-ac51307c7756
+:END:
+#+TITLE: Lrwk Jbaxrmn Pvrme NV - 2015-3-13
+
+- wine :: [[id:171bc47a-2460-401a-9372-268849f0a25f][Lrwk Jbaxrmn Pvrme]]
+- date :: 2015-3-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     996d4d85-02c8-4860-bd8a-901a7c44bf20
+:END:
+#+TITLE: Qay Olgub Mqtui 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Olgub Mqtui
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.23
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

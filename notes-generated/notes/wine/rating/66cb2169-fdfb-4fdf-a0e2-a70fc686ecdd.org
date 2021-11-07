@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     66cb2169-fdfb-4fdf-a0e2-a70fc686ecdd
+:END:
+#+TITLE: Jjkswvm Rcm Znxll Rkfzy NV - 2010-1-4
+
+- wine :: [[id:01db1062-218d-452b-ab31-19f8e3af13a0][Jjkswvm Rcm Znxll Rkfzy]]
+- date :: 2010-1-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

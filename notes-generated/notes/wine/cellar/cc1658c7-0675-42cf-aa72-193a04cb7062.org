@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     cc1658c7-0675-42cf-aa72-193a04cb7062
+:END:
+#+TITLE: Jjkswvm Rcm Hpcdffcf 2020
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Hpcdffcf
+- vintage :: 2020
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.12
+- sugar :: 11.43
+- price :: 10.00 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA
+
+

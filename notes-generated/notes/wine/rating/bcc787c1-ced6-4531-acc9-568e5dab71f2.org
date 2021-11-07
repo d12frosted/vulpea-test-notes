@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bcc787c1-ced6-4531-acc9-568e5dab71f2
+:END:
+#+TITLE: Jjkswvm Rcm Dyfugbq Dfjqx NV - 1999-9-20
+
+- wine :: [[id:c86f08af-4304-4eec-8733-18e4e40fe5f7][Jjkswvm Rcm Dyfugbq Dfjqx]]
+- date :: 1999-9-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

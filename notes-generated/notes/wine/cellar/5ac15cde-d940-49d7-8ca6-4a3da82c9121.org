@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     5ac15cde-d940-49d7-8ca6-4a3da82c9121
+:END:
+#+TITLE: Ecxknc Iepvhans Yqytxahq 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Yqytxahq
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 10.29
+- sugar :: 4.9
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:9b57459c-6baa-49dd-b2bd-842659f47565][Ecxknc Iepvhans Yqytxahq NV - 2012-8-21]]
+
+

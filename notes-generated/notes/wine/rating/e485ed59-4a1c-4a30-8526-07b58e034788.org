@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e485ed59-4a1c-4a30-8526-07b58e034788
+:END:
+#+TITLE: Nhozxqe Aldl Rvqv NV - 2014-4-5
+
+- wine :: [[id:9b199bae-ae0d-4aa0-bcef-7e9282dcf45f][Nhozxqe Aldl Rvqv]]
+- date :: 2014-4-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

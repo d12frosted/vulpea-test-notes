@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     c115f71f-0d39-4477-8181-275b68428247
+:END:
+#+TITLE: Yokf Gwhwycw Gkhei Onf 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Gkhei Onf
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 10.26
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 4.0
+- ratings :: [[id:34dc14e8-137a-4d07-9229-f73b5c926e53][Yokf Gwhwycw Gkhei Onf NV - 1997-10-10]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9b199bae-ae0d-4aa0-bcef-7e9282dcf45f
+:END:
+#+TITLE: Nhozxqe Aldl Rvqv 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Rvqv
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 12.77
+- sugar :: 22.9
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:e485ed59-4a1c-4a30-8526-07b58e034788][Nhozxqe Aldl Rvqv NV - 2014-4-5]]
+
+

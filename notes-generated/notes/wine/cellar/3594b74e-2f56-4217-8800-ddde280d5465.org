@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     3594b74e-2f56-4217-8800-ddde280d5465
+:END:
+#+TITLE: Lrwk Jbaxrmn Vbecryi 1907
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Vbecryi
+- vintage :: 1907
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 13.08
+- sugar :: 6.74
+- price :: 90.36 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:ea1a83e8-5370-4c02-b5d5-c7e1fcf766de][Lrwk Jbaxrmn Vbecryi 1907 - 2007-9-11]]
+
+

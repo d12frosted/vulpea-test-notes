@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     364b2a7d-4a72-4e41-a70f-5f75dfe29afc
+:END:
+#+TITLE: Jjkswvm Rcm Hgtby 1993 - 1992-1-12
+
+- wine :: [[id:b5e4ca04-da34-4f5e-8a60-1af15e0db1db][Jjkswvm Rcm Hgtby 1993]]
+- date :: 1992-1-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

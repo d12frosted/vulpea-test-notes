@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3af6584c-be49-404a-a337-2ff68ba438ae
+:END:
+#+TITLE: Ecxknc Iepvhans Zrr 1933
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Zrr
+- vintage :: 1933
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 11.82
+- sugar :: 21.43
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:ee5dff56-a6a2-4ff9-b0b5-c8e6c26a6005][Ecxknc Iepvhans Zrr 1933 - 2012-4-1]]
+
+

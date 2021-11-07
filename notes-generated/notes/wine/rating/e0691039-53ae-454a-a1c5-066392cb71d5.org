@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e0691039-53ae-454a-a1c5-066392cb71d5
+:END:
+#+TITLE: Yokf Gwhwycw Fneyeos NV - 2012-5-21
+
+- wine :: [[id:dba4fb99-df95-456b-a7c4-7c4f5609b34c][Yokf Gwhwycw Fneyeos]]
+- date :: 2012-5-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

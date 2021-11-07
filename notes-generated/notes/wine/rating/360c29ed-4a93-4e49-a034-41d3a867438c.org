@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     360c29ed-4a93-4e49-a034-41d3a867438c
+:END:
+#+TITLE: Lrwk Jbaxrmn Vapnhq 1956 - 2020-6-18
+
+- wine :: [[id:e40d5ff9-3469-4e30-893a-738d417665a7][Lrwk Jbaxrmn Vapnhq 1956]]
+- date :: 2020-6-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

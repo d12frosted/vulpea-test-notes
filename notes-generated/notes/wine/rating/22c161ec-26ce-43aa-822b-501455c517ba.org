@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     22c161ec-26ce-43aa-822b-501455c517ba
+:END:
+#+TITLE: Giih Udr Tuu NV - 1993-7-15
+
+- wine :: [[id:63cb95e7-eb92-4b04-94d8-3e6b81566a59][Giih Udr Tuu]]
+- date :: 1993-7-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

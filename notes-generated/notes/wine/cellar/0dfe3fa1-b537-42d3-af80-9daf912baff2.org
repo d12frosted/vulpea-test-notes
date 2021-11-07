@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     0dfe3fa1-b537-42d3-af80-9daf912baff2
+:END:
+#+TITLE: Cowhhax Upmqcgn Mcfp Vex 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Mcfp Vex
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.67
+- sugar :: 9.06
+- price :: 48.14 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:0ef2935a-5427-487f-b0ec-e7e0dadc80d4][Cowhhax Upmqcgn Mcfp Vex NV - 1995-4-22]]
+
+

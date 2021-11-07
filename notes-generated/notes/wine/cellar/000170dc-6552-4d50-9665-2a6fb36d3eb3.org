@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     000170dc-6552-4d50-9665-2a6fb36d3eb3
+:END:
+#+TITLE: Giih Udr Rarobx 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Rarobx
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 13.41
+- price :: 23.70 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     71c9c13e-0f08-4c12-8ec0-590f0a8c9ede
+:END:
+#+TITLE: Nhozxqe Aldl Dpzeqxd Uni 1968
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Dpzeqxd Uni
+- vintage :: 1968
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 13.4
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 9.0
+- ratings :: [[id:3e64fb1c-4b5b-40fb-94d7-c4d0195cd49a][Nhozxqe Aldl Dpzeqxd Uni 1968 - 1992-9-25]]
+
+

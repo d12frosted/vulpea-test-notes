@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d77079e2-6453-4ce1-bcec-c47a80cfe7f4
+:END:
+#+TITLE: Nhozxqe Aldl Tzrjnhfu 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Tzrjnhfu
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 11.76
+- price :: 100.09 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

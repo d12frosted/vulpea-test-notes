@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     036bc6e1-b445-4e62-bcdc-24e7502c0c60
+:END:
+#+TITLE: Qay Eoamziz Axcy 1969
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Eoamziz Axcy
+- vintage :: 1969
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.24
+- sugar :: 22.71
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:0dfbf185-6eac-4c87-bd96-a9845aa1e089][Qay Eoamziz Axcy 1969 - 2006-8-2]]
+
+

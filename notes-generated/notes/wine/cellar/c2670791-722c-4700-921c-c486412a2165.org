@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c2670791-722c-4700-921c-c486412a2165
+:END:
+#+TITLE: Ecxknc Iepvhans Yxckb 1949
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Yxckb
+- vintage :: 1949
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 13.29
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:aadc6e29-4402-43db-8bfd-845b2ba397a6][Ecxknc Iepvhans Yxckb 1949 - 1992-1-8]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f181fec0-ccdd-47f4-a0ce-b31bcb34dfc8
+:END:
+#+TITLE: Jjkswvm Rcm Gcb Qlffbcm 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Gcb Qlffbcm
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 9.41
+- sugar :: 16.0
+- price :: 62.29 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 8.0
+- ratings :: [[id:bfa904eb-ef2b-4c37-816e-62324f278d58][Jjkswvm Rcm Gcb Qlffbcm NV - 1997-12-26]]
+
+

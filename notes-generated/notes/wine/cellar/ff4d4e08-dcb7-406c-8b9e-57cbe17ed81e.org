@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ff4d4e08-dcb7-406c-8b9e-57cbe17ed81e
+:END:
+#+TITLE: Yjfq Gbfqo 2015
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gbfqo
+- vintage :: 2015
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.73
+- sugar :: 0.92
+- price :: 74.67 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA
+
+

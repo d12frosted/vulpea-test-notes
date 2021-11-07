@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     61f97a8e-d1a1-466b-816c-d4f45f2bbfef
+:END:
+#+TITLE: Nhozxqe Aldl Izb Uangr NV - 2003-10-11
+
+- wine :: [[id:1f31046f-8529-4116-bbec-9e16b0888faa][Nhozxqe Aldl Izb Uangr]]
+- date :: 2003-10-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

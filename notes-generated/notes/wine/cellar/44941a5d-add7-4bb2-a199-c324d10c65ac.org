@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     44941a5d-add7-4bb2-a199-c324d10c65ac
+:END:
+#+TITLE: Qay Iavs 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Iavs
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.79
+- sugar :: 16.76
+- price :: 5.92 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

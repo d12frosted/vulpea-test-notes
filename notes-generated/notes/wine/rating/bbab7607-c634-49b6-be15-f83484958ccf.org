@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bbab7607-c634-49b6-be15-f83484958ccf
+:END:
+#+TITLE: Lrwk Jbaxrmn Slozk 1934 - 2013-3-14
+
+- wine :: [[id:8cb34cf3-21f7-494c-8c94-dfe71be43a26][Lrwk Jbaxrmn Slozk 1934]]
+- date :: 2013-3-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

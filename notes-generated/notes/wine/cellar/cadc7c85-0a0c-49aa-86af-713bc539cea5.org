@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cadc7c85-0a0c-49aa-86af-713bc539cea5
+:END:
+#+TITLE: Lrwk Jbaxrmn Alugo 1996
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Alugo
+- vintage :: 1996
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 12.99
+- sugar :: 16.86
+- price :: 57.42 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA
+
+

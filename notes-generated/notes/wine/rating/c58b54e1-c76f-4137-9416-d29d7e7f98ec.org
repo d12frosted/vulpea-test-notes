@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c58b54e1-c76f-4137-9416-d29d7e7f98ec
+:END:
+#+TITLE: Nhozxqe Aldl Skg Clsvb 1949 - 2006-7-21
+
+- wine :: [[id:d353565b-cc4b-476f-9dc6-ec28ff9bdac4][Nhozxqe Aldl Skg Clsvb 1949]]
+- date :: 2006-7-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

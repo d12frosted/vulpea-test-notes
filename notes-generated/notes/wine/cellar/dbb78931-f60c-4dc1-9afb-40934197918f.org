@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dbb78931-f60c-4dc1-9afb-40934197918f
+:END:
+#+TITLE: Qay Otbvcth 1975
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Otbvcth
+- vintage :: 1975
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.6
+- price :: 18.97 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     abf89ad2-b81b-4892-9f7d-31805eff49e5
+:END:
+#+TITLE: Jjkswvm Rcm Kyvtawdb Ujfmcwfk 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Kyvtawdb Ujfmcwfk
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 13.870000000000001
+- price :: 44.35 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

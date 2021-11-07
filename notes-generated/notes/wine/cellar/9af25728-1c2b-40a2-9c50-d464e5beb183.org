@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9af25728-1c2b-40a2-9c50-d464e5beb183
+:END:
+#+TITLE: Yjfq Zbeblob Zxwbb 1997
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Zbeblob Zxwbb
+- vintage :: 1997
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 12.35
+- sugar :: 8.9
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:45131fc6-809b-48e5-92b6-1bf8c665a7ba][Yjfq Zbeblob Zxwbb 1997 - 2009-9-18]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     2dfb4fb2-b5e3-473d-93d1-fec16bd6a7bc
+:END:
+#+TITLE: Nhozxqe Aldl Obbg Nqlrqim 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Obbg Nqlrqim
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 11.9
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

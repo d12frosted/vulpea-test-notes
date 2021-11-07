@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ac4f2d3f-55be-49af-9913-38053414cb11
+:END:
+#+TITLE: Cowhhax Upmqcgn Caepguy 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Caepguy
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.65
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:96edb90d-6425-435e-b81b-7827216bd7d7][Cowhhax Upmqcgn Caepguy NV - 1991-7-20]]
+
+

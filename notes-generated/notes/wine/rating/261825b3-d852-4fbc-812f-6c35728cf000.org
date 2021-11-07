@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     261825b3-d852-4fbc-812f-6c35728cf000
+:END:
+#+TITLE: Scf Elpezclx Habbbi Rcjtlo NV - 2007-11-7
+
+- wine :: [[id:cbc073aa-f1a3-4023-9a82-ac7b26baefbb][Scf Elpezclx Habbbi Rcjtlo]]
+- date :: 2007-11-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

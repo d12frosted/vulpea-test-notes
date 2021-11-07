@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     36f39fbe-0805-4822-a88a-f77c373818eb
+:END:
+#+TITLE: Ecxknc Iepvhans Psiw 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Psiw
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.57
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 7.5
+- ratings :: [[id:78a3333c-3a81-4f30-a087-24fab8c0eeae][Ecxknc Iepvhans Psiw NV - 2020-6-19]]
+
+

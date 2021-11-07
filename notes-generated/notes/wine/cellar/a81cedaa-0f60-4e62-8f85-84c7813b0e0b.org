@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     a81cedaa-0f60-4e62-8f85-84c7813b0e0b
+:END:
+#+TITLE: Jjkswvm Rcm Zyclh Gfzboq 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zyclh Gfzboq
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 13.61
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

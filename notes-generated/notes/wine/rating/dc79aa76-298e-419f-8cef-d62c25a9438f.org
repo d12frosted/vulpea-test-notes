@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dc79aa76-298e-419f-8cef-d62c25a9438f
+:END:
+#+TITLE: Cowhhax Upmqcgn Welsu NV - 2003-5-4
+
+- wine :: [[id:94781e44-ff76-430a-be13-6430145c6035][Cowhhax Upmqcgn Welsu]]
+- date :: 2003-5-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

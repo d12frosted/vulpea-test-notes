@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     21bcf06a-8d9a-4c4f-b996-b3a1fe0ce082
+:END:
+#+TITLE: Ecxknc Iepvhans Huquulwt 1992 - 2016-11-3
+
+- wine :: [[id:5d57340e-7ed1-4885-a87b-0afb66813672][Ecxknc Iepvhans Huquulwt 1992]]
+- date :: 2016-11-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

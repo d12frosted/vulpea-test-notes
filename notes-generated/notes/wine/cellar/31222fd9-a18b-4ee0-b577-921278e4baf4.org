@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     31222fd9-a18b-4ee0-b577-921278e4baf4
+:END:
+#+TITLE: Qay Jhyem 1971
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Jhyem
+- vintage :: 1971
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 9.99
+- price :: 101.70 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 2.0
+- ratings :: [[id:4023bf22-a65b-4561-a432-596e4baa8633][Qay Jhyem 1971 - 2004-2-24]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a1a8c1a8-4ff4-4d51-bc5c-18eb17cb9c0c
+:END:
+#+TITLE: Lrwk Jbaxrmn Unrx 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Unrx
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 10.83
+- sugar :: 0.1
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:3c873ed2-9884-47f5-8910-ab59e2ef1220][Lrwk Jbaxrmn Unrx NV - 2019-1-11]]
+
+

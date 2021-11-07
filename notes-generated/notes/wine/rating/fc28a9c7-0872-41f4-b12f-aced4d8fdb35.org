@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fc28a9c7-0872-41f4-b12f-aced4d8fdb35
+:END:
+#+TITLE: Cowhhax Upmqcgn Yjbe Bqnznw NV - 2009-7-23
+
+- wine :: [[id:c7810256-7462-4adf-966b-d5bc241ab5dd][Cowhhax Upmqcgn Yjbe Bqnznw]]
+- date :: 2009-7-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

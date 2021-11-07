@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     173d4252-b026-478f-9019-04ffe8e2a1de
+:END:
+#+TITLE: Lrwk Jbaxrmn Pdsudzi Dpywbjk 1903
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Pdsudzi Dpywbjk
+- vintage :: 1903
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 11.51
+- sugar :: 6.4
+- price :: 60.88 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f19e60d3-7871-482c-8870-dfadeac75603
+:END:
+#+TITLE: Qay Bszy 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Bszy
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 9.83
+- sugar :: 1.21
+- price :: 83.16 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:d2b918d0-0ec2-44c7-abcd-62a32199572c][Qay Bszy NV - 2012-6-1]]
+
+

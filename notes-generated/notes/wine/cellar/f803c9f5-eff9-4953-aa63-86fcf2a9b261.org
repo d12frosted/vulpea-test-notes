@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f803c9f5-eff9-4953-aa63-86fcf2a9b261
+:END:
+#+TITLE: Cowhhax Upmqcgn Eqifklju Ebk 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Eqifklju Ebk
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.92
+- sugar :: 23.95
+- price :: 68.21 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

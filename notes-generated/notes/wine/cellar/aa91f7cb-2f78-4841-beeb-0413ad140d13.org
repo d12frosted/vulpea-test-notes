@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     aa91f7cb-2f78-4841-beeb-0413ad140d13
+:END:
+#+TITLE: Qay Nschnlmy 1948
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Nschnlmy
+- vintage :: 1948
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.92
+- price :: 20.90 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:d46124c3-74cf-481a-807c-760e4a554e57][Qay Nschnlmy 1948 - 2014-4-19]]
+
+

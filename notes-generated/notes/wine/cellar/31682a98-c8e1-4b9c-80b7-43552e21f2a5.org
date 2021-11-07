@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     31682a98-c8e1-4b9c-80b7-43552e21f2a5
+:END:
+#+TITLE: Lrwk Jbaxrmn Htuqe 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Htuqe
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 9.71
+- sugar :: 22.64
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:303c7aa7-a8a7-431d-bb11-f14641671e59][Lrwk Jbaxrmn Htuqe NV - 2003-10-14]]
+
+

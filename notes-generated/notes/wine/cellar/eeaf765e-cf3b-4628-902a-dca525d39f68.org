@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     eeaf765e-cf3b-4628-902a-dca525d39f68
+:END:
+#+TITLE: Yjfq Benfyu 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Benfyu
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 13.04
+- price :: 63.65 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

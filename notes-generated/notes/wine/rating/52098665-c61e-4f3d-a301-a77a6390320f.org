@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     52098665-c61e-4f3d-a301-a77a6390320f
+:END:
+#+TITLE: Jjkswvm Rcm Pxr Fhxtkdg 1956 - 2006-5-7
+
+- wine :: [[id:d48bf5d8-74a2-4f36-9b8f-154067101f31][Jjkswvm Rcm Pxr Fhxtkdg 1956]]
+- date :: 2006-5-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

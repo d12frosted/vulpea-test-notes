@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e4d0dee3-0b6d-4313-9e29-661e40c25dc6
+:END:
+#+TITLE: Yokf Gwhwycw Scd Jldo 1998
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Scd Jldo
+- vintage :: 1998
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.0
+- sugar :: 6.24
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.5
+- ratings :: [[id:3b825ca1-76e9-4cbe-bd70-f9edc54a899f][Yokf Gwhwycw Scd Jldo 1998 - 1991-12-15]]
+
+

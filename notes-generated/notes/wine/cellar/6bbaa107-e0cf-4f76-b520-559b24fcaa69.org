@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6bbaa107-e0cf-4f76-b520-559b24fcaa69
+:END:
+#+TITLE: Giih Udr Ujsads Vkvtvrcd 1962
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ujsads Vkvtvrcd
+- vintage :: 1962
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.44
+- sugar :: 3.04
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

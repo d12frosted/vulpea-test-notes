@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d504bb2e-7cbe-4a20-8b56-a4a30183aef8
+:END:
+#+TITLE: Jjkswvm Rcm Iuxvchgw Zxotg 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Iuxvchgw Zxotg
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.64
+- sugar :: 3.78
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

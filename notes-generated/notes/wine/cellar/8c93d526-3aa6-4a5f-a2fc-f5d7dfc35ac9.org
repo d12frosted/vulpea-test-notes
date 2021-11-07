@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8c93d526-3aa6-4a5f-a2fc-f5d7dfc35ac9
+:END:
+#+TITLE: Ecxknc Iepvhans Ubj Cqdaxsnf 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ubj Cqdaxsnf
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 13.54
+- sugar :: 3.75
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 3.0
+- ratings :: [[id:f1ce71aa-2cd8-4c59-9fdf-ce8f450f2e16][Ecxknc Iepvhans Ubj Cqdaxsnf NV - 2002-2-3]]
+
+

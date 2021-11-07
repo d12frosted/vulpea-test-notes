@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7ab2daf9-b706-4c27-8f91-971fa8fad197
+:END:
+#+TITLE: Giih Udr Csglcjz 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Csglcjz
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.870000000000001
+- sugar :: 9.23
+- price :: 5.68 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:26a39f08-f263-4fde-b543-e210b11fe302][Giih Udr Csglcjz NV - 1993-1-19]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2112fc44-54f4-41bd-b30a-b6d491551a47
+:END:
+#+TITLE: Giih Udr Gep Zvj 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Gep Zvj
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.78
+- sugar :: 19.22
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 7.0
+- ratings :: [[id:bf829cb8-ddf3-4d02-9053-78c07018ae6d][Giih Udr Gep Zvj NV - 1995-3-5]]
+
+

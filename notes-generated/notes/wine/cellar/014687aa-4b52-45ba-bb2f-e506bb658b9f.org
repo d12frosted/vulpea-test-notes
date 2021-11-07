@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     014687aa-4b52-45ba-bb2f-e506bb658b9f
+:END:
+#+TITLE: Cowhhax Upmqcgn Idfhyvpm 1976
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Idfhyvpm
+- vintage :: 1976
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.82
+- sugar :: 12.79
+- price :: 92.56 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

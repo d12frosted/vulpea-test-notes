@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9b7b5c59-aaa8-4f86-9557-d290fe23085c
+:END:
+#+TITLE: Cowhhax Upmqcgn Bhn NV - 2004-10-7
+
+- wine :: [[id:8c1079f0-0728-4311-ae96-ef9f3e86c428][Cowhhax Upmqcgn Bhn]]
+- date :: 2004-10-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

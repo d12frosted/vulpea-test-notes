@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     be53632d-a36d-493b-978b-1fef1df97188
+:END:
+#+TITLE: Lrwk Jbaxrmn Ifreglms 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ifreglms
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.51
+- sugar :: 7.39
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 8.5
+- ratings :: [[id:b6831538-7549-4c1d-9d65-23b9905104da][Lrwk Jbaxrmn Ifreglms NV - 1990-1-6]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     74bc9136-aa8e-4e34-9ee4-2da7b8aeacf4
+:END:
+#+TITLE: Jjkswvm Rcm Yprkc 2009 - 2021-2-2
+
+- wine :: [[id:fbd353e5-1a8e-4779-98f6-721eee2e78c8][Jjkswvm Rcm Yprkc 2009]]
+- date :: 2021-2-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

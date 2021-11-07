@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6552df3a-a0a9-4ebc-9a0a-15dbf4183a2e
+:END:
+#+TITLE: Yokf Gwhwycw Numhckcn Kzuvhzt NV - 2018-9-7
+
+- wine :: [[id:e88a3a69-c167-4116-8d45-92d1ae93c6c3][Yokf Gwhwycw Numhckcn Kzuvhzt]]
+- date :: 2018-9-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

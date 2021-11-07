@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     41e2d738-709c-4367-98fc-e9ee1e9a9c10
+:END:
+#+TITLE: Jjkswvm Rcm Dyhml 1913 - 2022-5-18
+
+- wine :: [[id:9d392b52-b2d4-4581-a52d-d236bb1a89cb][Jjkswvm Rcm Dyhml 1913]]
+- date :: 2022-5-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

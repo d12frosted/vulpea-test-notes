@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     05508962-fd09-4be1-b7f5-0d0cda228410
+:END:
+#+TITLE: Yokf Gwhwycw Qqkppgng 1912
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Qqkppgng
+- vintage :: 1912
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 12.99
+- sugar :: 20.83
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:cc2b15b7-c221-4364-bdf9-09eac8157c9a][Yokf Gwhwycw Qqkppgng 1912 - 2012-4-4]]
+
+

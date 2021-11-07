@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     68bfa965-3975-41e5-a94a-7ccfb00f7dca
+:END:
+#+TITLE: Yjfq Vzm 1901
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Vzm
+- vintage :: 1901
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 11.64
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

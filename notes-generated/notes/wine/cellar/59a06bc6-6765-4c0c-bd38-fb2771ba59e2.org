@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     59a06bc6-6765-4c0c-bd38-fb2771ba59e2
+:END:
+#+TITLE: Qay Yrvtj Wfqfz 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Yrvtj Wfqfz
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 10.55
+- price :: 30.20 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

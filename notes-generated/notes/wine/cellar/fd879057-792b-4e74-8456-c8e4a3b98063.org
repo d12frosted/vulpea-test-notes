@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fd879057-792b-4e74-8456-c8e4a3b98063
+:END:
+#+TITLE: Nhozxqe Aldl Kgrkkaiy Wyrx 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Kgrkkaiy Wyrx
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.34
+- sugar :: 18.39
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:4cd590f7-efb8-4e3c-8828-823477bee0f5][Nhozxqe Aldl Kgrkkaiy Wyrx NV - 1995-2-7]]
+
+

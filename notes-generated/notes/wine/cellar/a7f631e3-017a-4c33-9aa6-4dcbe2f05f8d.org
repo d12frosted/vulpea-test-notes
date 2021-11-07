@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     a7f631e3-017a-4c33-9aa6-4dcbe2f05f8d
+:END:
+#+TITLE: Ecxknc Iepvhans Smmuzol 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Smmuzol
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 9.26
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

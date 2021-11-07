@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f3c428e7-a17f-4e3e-ad9e-65014a8a314e
+:END:
+#+TITLE: Ecxknc Iepvhans Mnt Bffdt 1920
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Mnt Bffdt
+- vintage :: 1920
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.35
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:bb27e60f-be31-4607-87f9-3916f9f36f25][Ecxknc Iepvhans Mnt Bffdt 1920 - 2024-8-4]]
+
+

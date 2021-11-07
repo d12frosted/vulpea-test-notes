@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     63857d36-869b-4f20-805e-f9a7438b6be9
+:END:
+#+TITLE: Nhozxqe Aldl Lwocxfm Wemre 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Lwocxfm Wemre
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.24
+- sugar :: 19.45
+- price :: 85.90 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 3.0
+- ratings :: [[id:da43cf5e-9d43-41af-8f03-aaa07e802328][Nhozxqe Aldl Lwocxfm Wemre NV - 2019-7-5]]
+
+

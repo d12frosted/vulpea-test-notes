@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     ba17e683-7da8-4af8-b611-3817dd8e4cda
+:END:
+#+TITLE: Jjkswvm Rcm Bvjbay 2013
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Bvjbay
+- vintage :: 2013
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.74
+- sugar :: 16.86
+- price :: 94.34 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

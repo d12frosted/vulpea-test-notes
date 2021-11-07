@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fe9a9f04-382e-4350-ab03-a38f22939591
+:END:
+#+TITLE: Yokf Gwhwycw Jiuxvs Kkfkkykr NV - 1991-6-4
+
+- wine :: [[id:fa049fd7-69ef-477b-b155-7f9b3d11fbe5][Yokf Gwhwycw Jiuxvs Kkfkkykr]]
+- date :: 1991-6-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

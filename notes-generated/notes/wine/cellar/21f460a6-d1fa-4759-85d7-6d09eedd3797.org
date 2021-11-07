@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     21f460a6-d1fa-4759-85d7-6d09eedd3797
+:END:
+#+TITLE: Ecxknc Iepvhans Bshog Dysfhyq 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Bshog Dysfhyq
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 12.11
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

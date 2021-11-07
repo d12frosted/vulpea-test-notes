@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b4b8363d-937c-48df-98fb-c06e31627bff
+:END:
+#+TITLE: Nhozxqe Aldl Xgh NV - 2016-2-22
+
+- wine :: [[id:ec3fb263-44ab-4edc-996d-7735408f933e][Nhozxqe Aldl Xgh]]
+- date :: 2016-2-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

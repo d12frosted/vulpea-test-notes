@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     75187b63-32dd-4266-a2be-144034665463
+:END:
+#+TITLE: Qay Mtsqe 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Mtsqe
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.74
+- price :: 30.79 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 5.5
+- ratings :: [[id:8c8c1eb4-d791-42c1-b2a5-ebe48067813c][Qay Mtsqe NV - 1999-3-5]]
+
+

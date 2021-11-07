@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     eec348d7-805a-4a16-ad6e-add5c3797037
+:END:
+#+TITLE: Lrwk Jbaxrmn Ytqsi Dcrrpt 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ytqsi Dcrrpt
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 9.01
+- sugar :: 8.97
+- price :: 102.83 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:14c399e4-a823-4822-b595-b5015018f6de][Lrwk Jbaxrmn Ytqsi Dcrrpt NV - 2008-2-18]]
+
+

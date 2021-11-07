@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c2c9ed57-fec6-431c-a8b2-840cf7c2615d
+:END:
+#+TITLE: Yokf Gwhwycw Zfdqk 1941
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Zfdqk
+- vintage :: 1941
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 9.0
+- price :: 78.28 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.5
+- ratings :: [[id:7f801ac1-bc81-4ab5-bfb5-df7934844fda][Yokf Gwhwycw Zfdqk 1941 - 2020-6-20]]
+
+

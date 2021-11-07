@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     53feb4ed-ec87-414f-8901-7e30e4e07ff9
+:END:
+#+TITLE: Cowhhax Upmqcgn Wtub Fssyr 1939 - 2023-12-26
+
+- wine :: [[id:473dbdd4-b2ee-452a-9d93-d6d6a3cc054f][Cowhhax Upmqcgn Wtub Fssyr 1939]]
+- date :: 2023-12-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

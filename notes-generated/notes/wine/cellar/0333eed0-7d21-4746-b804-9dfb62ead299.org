@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0333eed0-7d21-4746-b804-9dfb62ead299
+:END:
+#+TITLE: Nhozxqe Aldl Mjsrzri Zfp 1918
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Mjsrzri Zfp
+- vintage :: 1918
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.33
+- sugar :: 12.93
+- price :: 38.45 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:0f07da1e-3140-463e-a2e8-78429ec52b0a][Nhozxqe Aldl Mjsrzri Zfp 1918 - 1992-8-7]]
+
+

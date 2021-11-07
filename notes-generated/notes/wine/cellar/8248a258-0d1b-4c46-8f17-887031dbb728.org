@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8248a258-0d1b-4c46-8f17-887031dbb728
+:END:
+#+TITLE: Lrwk Jbaxrmn Kmmqo 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Kmmqo
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.29
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:4c0bf12b-8816-4906-b423-bc3d121bb3fe][Lrwk Jbaxrmn Kmmqo NV - 2002-3-23]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6663c300-b025-480a-b4a8-6d9d3cf163fd
+:END:
+#+TITLE: Giih Udr Qhtbued 1905
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Qhtbued
+- vintage :: 1905
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 11.56
+- sugar :: 8.75
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:4961fa9d-ba24-4327-8405-d9d09c1facfe][Giih Udr Qhtbued 1905 - 2002-6-23]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5a29de16-a848-45d9-8fa1-17651ae3448c
+:END:
+#+TITLE: Scf Elpezclx Hgo Drg 1981 - 2019-4-15
+
+- wine :: [[id:105bcf98-6e37-44e0-af60-0909b8257146][Scf Elpezclx Hgo Drg 1981]]
+- date :: 2019-4-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

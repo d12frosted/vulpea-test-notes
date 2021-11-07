@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9010b9da-71a3-4db8-8e2c-54daa85b0d75
+:END:
+#+TITLE: Ecxknc Iepvhans Hty NV - 2008-8-21
+
+- wine :: [[id:1ace81ba-90a7-435c-90af-fffc96be6abd][Ecxknc Iepvhans Hty]]
+- date :: 2008-8-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ecf8c762-3247-4a2a-9dbc-ebdd0bef480a
+:END:
+#+TITLE: Cowhhax Upmqcgn Aulwrspz Sdeynwmm 1982 - 1997-9-15
+
+- wine :: [[id:782f00dd-5c5a-4d1d-a377-350f15bbc2d8][Cowhhax Upmqcgn Aulwrspz Sdeynwmm 1982]]
+- date :: 1997-9-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

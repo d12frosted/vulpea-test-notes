@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4a7e9738-877c-4b49-9e10-7a9cc9c4b0e8
+:END:
+#+TITLE: Yjfq Ouarlj Cds 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ouarlj Cds
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.66
+- price :: 31.89 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

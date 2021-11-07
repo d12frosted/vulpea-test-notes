@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b68696ab-52a0-46e9-90fa-ecaf18ae159a
+:END:
+#+TITLE: Ecxknc Iepvhans Zyiguee 1968
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Zyiguee
+- vintage :: 1968
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 11.9
+- price :: 8.61 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA
+
+

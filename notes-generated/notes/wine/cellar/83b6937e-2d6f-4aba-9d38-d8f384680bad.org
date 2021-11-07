@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     83b6937e-2d6f-4aba-9d38-d8f384680bad
+:END:
+#+TITLE: Qay Ituzi Ztbp 1918
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ituzi Ztbp
+- vintage :: 1918
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.15
+- sugar :: 4.39
+- price :: 70.85 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA
+
+

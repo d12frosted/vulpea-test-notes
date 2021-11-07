@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9ccee80f-1c81-4176-b4cd-d253e8aa0720
+:END:
+#+TITLE: Lrwk Jbaxrmn Ozjo Fbtfncpl 1945
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ozjo Fbtfncpl
+- vintage :: 1945
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 13.719999999999999
+- price :: 28.77 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

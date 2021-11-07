@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f1cd294e-cff4-46bd-ac74-f135d928192b
+:END:
+#+TITLE: Jjkswvm Rcm Jrgepkee 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Jrgepkee
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 12.370000000000001
+- sugar :: 5.98
+- price :: 7.21 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 3.0
+- ratings :: [[id:1bdafdd8-3ec6-4eb2-a794-834c34de0bf3][Jjkswvm Rcm Jrgepkee NV - 2011-12-1]]
+
+

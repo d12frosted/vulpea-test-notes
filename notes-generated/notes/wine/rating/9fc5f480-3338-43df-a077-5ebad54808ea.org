@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9fc5f480-3338-43df-a077-5ebad54808ea
+:END:
+#+TITLE: Nhozxqe Aldl Jhfgd Vgq NV - 2015-5-15
+
+- wine :: [[id:37372dc5-169d-4b6b-823b-c70fd2e6710d][Nhozxqe Aldl Jhfgd Vgq]]
+- date :: 2015-5-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

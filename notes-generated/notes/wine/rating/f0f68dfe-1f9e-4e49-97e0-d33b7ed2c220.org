@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f0f68dfe-1f9e-4e49-97e0-d33b7ed2c220
+:END:
+#+TITLE: Jjkswvm Rcm Wvwzow Hsoqmnbd NV - 2000-1-4
+
+- wine :: [[id:063afbc4-6960-4e02-9ec6-640d8336ac1f][Jjkswvm Rcm Wvwzow Hsoqmnbd]]
+- date :: 2000-1-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

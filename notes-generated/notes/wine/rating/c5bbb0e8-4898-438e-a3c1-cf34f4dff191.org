@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c5bbb0e8-4898-438e-a3c1-cf34f4dff191
+:END:
+#+TITLE: Ecxknc Iepvhans Jriygwnw Qgi NV - 1991-10-15
+
+- wine :: [[id:08e193b3-3934-4896-aa98-f32873b9662b][Ecxknc Iepvhans Jriygwnw Qgi]]
+- date :: 1991-10-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

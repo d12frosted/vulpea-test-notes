@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e846e358-51ac-4734-a8bb-2568e00112ff
+:END:
+#+TITLE: Jjkswvm Rcm Dem 1988 - 2003-11-4
+
+- wine :: [[id:0ff32401-1d9c-4d04-bcc9-cc10537ec907][Jjkswvm Rcm Dem 1988]]
+- date :: 2003-11-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

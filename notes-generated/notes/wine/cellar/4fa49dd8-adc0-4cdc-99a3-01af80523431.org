@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4fa49dd8-adc0-4cdc-99a3-01af80523431
+:END:
+#+TITLE: Yjfq Iubzkp Fqci 1959
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Iubzkp Fqci
+- vintage :: 1959
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 9.9
+- sugar :: 15.77
+- price :: 93.85 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 2.5
+- ratings :: [[id:8c436015-b3aa-4947-b744-a69b0e8c90b0][Yjfq Iubzkp Fqci 1959 - 2005-7-14]]
+
+

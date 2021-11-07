@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     cc5a94be-15fb-47f2-8b6b-1c347e82cf9a
+:END:
+#+TITLE: Cowhhax Upmqcgn Wgzuef 1986
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Wgzuef
+- vintage :: 1986
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.559999999999999
+- sugar :: 18.22
+- price :: 86.76 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:10ee2844-bbe8-47f3-89a3-1b29fa3b219c][Cowhhax Upmqcgn Wgzuef 1986 - 2007-10-18]]
+
+

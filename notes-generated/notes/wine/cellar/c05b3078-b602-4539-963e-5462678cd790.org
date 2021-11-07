@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c05b3078-b602-4539-963e-5462678cd790
+:END:
+#+TITLE: Jjkswvm Rcm Qmi 1976
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qmi
+- vintage :: 1976
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.15
+- sugar :: 2.15
+- price :: 28.51 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:c835f04d-b953-483c-b9fd-3855892dfc0a][Jjkswvm Rcm Qmi 1976 - 2003-8-22]]
+
+

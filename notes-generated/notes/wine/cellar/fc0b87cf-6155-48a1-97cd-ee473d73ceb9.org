@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     fc0b87cf-6155-48a1-97cd-ee473d73ceb9
+:END:
+#+TITLE: Yokf Gwhwycw Gftffvva Dnfv 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Gftffvva Dnfv
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 9.07
+- price :: 51.93 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

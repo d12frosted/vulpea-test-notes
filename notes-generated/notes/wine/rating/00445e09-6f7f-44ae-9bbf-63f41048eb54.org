@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     00445e09-6f7f-44ae-9bbf-63f41048eb54
+:END:
+#+TITLE: Qay Iry NV - 1998-1-18
+
+- wine :: [[id:5b8b8319-901b-4cf2-9eb8-2fb2f2b61a61][Qay Iry]]
+- date :: 1998-1-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

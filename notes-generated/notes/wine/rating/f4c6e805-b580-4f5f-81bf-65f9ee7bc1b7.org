@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f4c6e805-b580-4f5f-81bf-65f9ee7bc1b7
+:END:
+#+TITLE: Yjfq Sqcxhzb NV - 2023-1-12
+
+- wine :: [[id:f5017f94-c4ce-43ce-84ac-2b7986c0c7d4][Yjfq Sqcxhzb]]
+- date :: 2023-1-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

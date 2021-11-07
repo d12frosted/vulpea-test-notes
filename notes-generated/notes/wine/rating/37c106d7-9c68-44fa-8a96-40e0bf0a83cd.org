@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     37c106d7-9c68-44fa-8a96-40e0bf0a83cd
+:END:
+#+TITLE: Ecxknc Iepvhans Qdehfrhv NV - 1990-7-9
+
+- wine :: [[id:1736cc96-e958-4bc3-a707-407fb49a3f6d][Ecxknc Iepvhans Qdehfrhv]]
+- date :: 1990-7-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

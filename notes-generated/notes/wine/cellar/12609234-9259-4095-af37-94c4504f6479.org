@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     12609234-9259-4095-af37-94c4504f6479
+:END:
+#+TITLE: Scf Elpezclx Isml Gtvde 2011
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Isml Gtvde
+- vintage :: 2011
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.53
+- sugar :: 8.48
+- price :: 7.74 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5560de34-36b6-4f7f-9d39-dcadcab62c96
+:END:
+#+TITLE: Qay Odmwylm 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Odmwylm
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 12.58
+- sugar :: 2.56
+- price :: 64.88 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 0.0
+- ratings :: [[id:a04874b2-d010-42e0-a965-69549f9dcd4f][Qay Odmwylm NV - 1999-8-3]]
+
+

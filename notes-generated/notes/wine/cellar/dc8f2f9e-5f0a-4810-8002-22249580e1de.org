@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     dc8f2f9e-5f0a-4810-8002-22249580e1de
+:END:
+#+TITLE: Yjfq Ryjtuh 1961
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ryjtuh
+- vintage :: 1961
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.71
+- sugar :: 9.21
+- price :: 6.64 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:c49199c4-cbd3-411f-bab2-ac83b56f7d43][Yjfq Ryjtuh 1961 - 2008-12-14]]
+
+

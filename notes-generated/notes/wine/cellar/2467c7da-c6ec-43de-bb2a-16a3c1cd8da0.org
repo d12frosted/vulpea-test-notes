@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     2467c7da-c6ec-43de-bb2a-16a3c1cd8da0
+:END:
+#+TITLE: Yjfq Cwf Vwmtca 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Cwf Vwmtca
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 11.85
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:ffef81f1-2bc4-454a-b6d4-cac755cc0f01][Yjfq Cwf Vwmtca NV - 1990-12-19]]
+
+

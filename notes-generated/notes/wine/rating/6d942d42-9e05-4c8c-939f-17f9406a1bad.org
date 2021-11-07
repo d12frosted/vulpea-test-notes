@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6d942d42-9e05-4c8c-939f-17f9406a1bad
+:END:
+#+TITLE: Jjkswvm Rcm Rcf Svd 1900 - 2018-7-23
+
+- wine :: [[id:968cae0d-e78f-4095-80dc-bc2d4e5891f8][Jjkswvm Rcm Rcf Svd 1900]]
+- date :: 2018-7-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

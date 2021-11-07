@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ef821a10-1d21-48ae-a6d5-f1745fbc91b4
+:END:
+#+TITLE: Jjkswvm Rcm Fqczlcox Mfsucphh 1926
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Fqczlcox Mfsucphh
+- vintage :: 1926
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 10.53
+- sugar :: 2.65
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.5
+- ratings :: [[id:a79d33d3-d817-4d1f-85ab-d177aacae8dc][Jjkswvm Rcm Fqczlcox Mfsucphh 1926 - 2019-4-21]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     36493d7c-17e2-46e4-9ea2-a585982c1171
+:END:
+#+TITLE: Jjkswvm Rcm Fhaliue Xhrldz 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Fhaliue Xhrldz
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 12.53
+- sugar :: 21.67
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA
+
+

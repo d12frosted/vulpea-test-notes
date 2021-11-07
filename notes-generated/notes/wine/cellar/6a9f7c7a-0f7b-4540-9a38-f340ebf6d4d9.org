@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6a9f7c7a-0f7b-4540-9a38-f340ebf6d4d9
+:END:
+#+TITLE: Giih Udr Aupdj Xnbzu 1922
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Aupdj Xnbzu
+- vintage :: 1922
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.07
+- sugar :: 21.84
+- price :: 99.06 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:9c68294d-7e36-4d62-a8fb-cb23e1a00bf8][Giih Udr Aupdj Xnbzu 1922 - 2009-10-1]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4f2cda36-8a12-47fa-bb75-b257d87d8394
+:END:
+#+TITLE: Scf Elpezclx Thdefnp Fndhlu NV - 2007-3-26
+
+- wine :: [[id:81a2be37-853c-4bfb-9d37-b222180bd026][Scf Elpezclx Thdefnp Fndhlu]]
+- date :: 2007-3-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

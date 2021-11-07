@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     171ae70c-7f68-4ded-89b0-baf5a4d86b4c
+:END:
+#+TITLE: Cowhhax Upmqcgn Myygckhv Nxdmqym 2005
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Myygckhv Nxdmqym
+- vintage :: 2005
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.370000000000001
+- price :: 75.91 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

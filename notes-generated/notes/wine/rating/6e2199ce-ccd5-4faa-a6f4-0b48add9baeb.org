@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6e2199ce-ccd5-4faa-a6f4-0b48add9baeb
+:END:
+#+TITLE: Yjfq Vsor Lwgxs NV - 2007-1-8
+
+- wine :: [[id:e0c56f93-8edd-444c-987b-fec820d71265][Yjfq Vsor Lwgxs]]
+- date :: 2007-1-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1ed3267f-bc3d-4a1f-afbe-fdcb7dbd168e
+:END:
+#+TITLE: Qay Hjovv 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Hjovv
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 11.2
+- price :: 81.35 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.0
+- ratings :: [[id:7b680183-7e36-4341-8995-4d0f8565f6a0][Qay Hjovv NV - 2010-3-5]]
+
+

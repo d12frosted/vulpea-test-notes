@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e2fb903c-84fb-4f17-a43b-c2508eb5d870
+:END:
+#+TITLE: Nhozxqe Aldl Ohde 1935 - 1999-5-27
+
+- wine :: [[id:dc57b4fe-78ef-4406-9eb8-6352677393fe][Nhozxqe Aldl Ohde 1935]]
+- date :: 1999-5-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

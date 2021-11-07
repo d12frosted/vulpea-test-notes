@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ccddf274-6008-47e0-8ef4-1fa788683fa5
+:END:
+#+TITLE: Yokf Gwhwycw Zixebp 1978
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Zixebp
+- vintage :: 1978
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.96
+- sugar :: 2.48
+- price :: 39.83 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

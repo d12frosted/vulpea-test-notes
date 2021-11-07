@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3f63a069-3fb6-45aa-a73f-82ae8a8fe515
+:END:
+#+TITLE: Nhozxqe Aldl Mzqqeiz Hbkmu 1918
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Mzqqeiz Hbkmu
+- vintage :: 1918
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.59
+- price :: 13.31 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA
+
+

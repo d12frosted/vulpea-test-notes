@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6723a961-0dd4-4378-ada4-4b844974c902
+:END:
+#+TITLE: Yokf Gwhwycw Wzdrmi Ejtny 1975
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Wzdrmi Ejtny
+- vintage :: 1975
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.17
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.5
+- ratings :: [[id:9502c67f-c317-463a-b212-ceccffe4dfc5][Yokf Gwhwycw Wzdrmi Ejtny 1975 - 1991-7-15]]
+
+

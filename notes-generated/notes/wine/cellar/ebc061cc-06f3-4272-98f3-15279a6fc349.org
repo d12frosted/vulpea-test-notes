@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ebc061cc-06f3-4272-98f3-15279a6fc349
+:END:
+#+TITLE: Ecxknc Iepvhans Nfjrusrr 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Nfjrusrr
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 9.56
+- price :: 86.67 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

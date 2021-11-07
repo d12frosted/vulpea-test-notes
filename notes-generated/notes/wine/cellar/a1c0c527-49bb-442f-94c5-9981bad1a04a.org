@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     a1c0c527-49bb-442f-94c5-9981bad1a04a
+:END:
+#+TITLE: Yjfq Lvdhcuzr Bxcznq 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Lvdhcuzr Bxcznq
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 11.72
+- sugar :: 16.06
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA
+
+

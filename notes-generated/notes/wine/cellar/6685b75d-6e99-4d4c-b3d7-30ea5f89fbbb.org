@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6685b75d-6e99-4d4c-b3d7-30ea5f89fbbb
+:END:
+#+TITLE: Lrwk Jbaxrmn Xtapjr 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xtapjr
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 10.15
+- sugar :: 8.39
+- price :: 25.64 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.5
+- ratings :: [[id:a06b2cc6-36cc-47d0-ba01-fa0f29f8ba33][Lrwk Jbaxrmn Xtapjr NV - 2008-12-8]]
+
+

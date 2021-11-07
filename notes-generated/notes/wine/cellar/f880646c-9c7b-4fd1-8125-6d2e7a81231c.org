@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     f880646c-9c7b-4fd1-8125-6d2e7a81231c
+:END:
+#+TITLE: Yokf Gwhwycw Fwu 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Fwu
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 9.53
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

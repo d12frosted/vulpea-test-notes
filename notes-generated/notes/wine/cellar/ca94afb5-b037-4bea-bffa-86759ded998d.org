@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ca94afb5-b037-4bea-bffa-86759ded998d
+:END:
+#+TITLE: Lrwk Jbaxrmn Rxlpiv Gfxlla 1909
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rxlpiv Gfxlla
+- vintage :: 1909
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.84
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:8a82651c-0fb8-457c-b557-74a80e7af7ba][Lrwk Jbaxrmn Rxlpiv Gfxlla 1909 - 2018-12-22]]
+
+

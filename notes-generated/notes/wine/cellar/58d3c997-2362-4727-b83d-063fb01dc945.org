@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     58d3c997-2362-4727-b83d-063fb01dc945
+:END:
+#+TITLE: Qay Bkuc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Bkuc
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.65
+- price :: 33.60 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA
+
+

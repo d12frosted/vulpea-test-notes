@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     33963423-28ac-4d89-b992-c35612c749c5
+:END:
+#+TITLE: Jjkswvm Rcm Ivrbtf 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ivrbtf
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 13.2
+- price :: 35.84 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 2.5
+- ratings :: [[id:9f08aa10-36df-4d27-b6f1-ae421f4eaf36][Jjkswvm Rcm Ivrbtf NV - 2020-12-15]]
+
+

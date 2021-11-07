@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     77bf5ab3-15e3-4941-973a-605bf89c3eab
+:END:
+#+TITLE: Yokf Gwhwycw Ttcgy 1929
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ttcgy
+- vintage :: 1929
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.129999999999999
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 8.0
+- ratings :: [[id:125374c9-e395-43bb-8216-384c8c889f5c][Yokf Gwhwycw Ttcgy 1929 - 2017-7-22]]
+
+

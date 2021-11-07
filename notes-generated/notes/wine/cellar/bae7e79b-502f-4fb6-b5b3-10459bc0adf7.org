@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     bae7e79b-502f-4fb6-b5b3-10459bc0adf7
+:END:
+#+TITLE: Giih Udr Vthpirn 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Vthpirn
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.36
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA
+
+

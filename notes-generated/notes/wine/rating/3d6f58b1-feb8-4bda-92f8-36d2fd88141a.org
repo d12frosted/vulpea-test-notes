@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3d6f58b1-feb8-4bda-92f8-36d2fd88141a
+:END:
+#+TITLE: Ecxknc Iepvhans Ixcdky 1983 - 2012-2-25
+
+- wine :: [[id:33c54618-48a9-411f-b547-b040c2886d72][Ecxknc Iepvhans Ixcdky 1983]]
+- date :: 2012-2-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     55804ea1-3c67-4391-a1f6-a0a7a8d0ca7e
+:END:
+#+TITLE: Nhozxqe Aldl Armsvnq 1953 - 2002-1-11
+
+- wine :: [[id:7130c1ff-8c19-46c5-a5ef-42515c5b7239][Nhozxqe Aldl Armsvnq 1953]]
+- date :: 2002-1-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

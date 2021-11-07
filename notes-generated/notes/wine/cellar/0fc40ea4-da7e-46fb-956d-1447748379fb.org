@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0fc40ea4-da7e-46fb-956d-1447748379fb
+:END:
+#+TITLE: Nhozxqe Aldl Cmhh Rhs 1996
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Cmhh Rhs
+- vintage :: 1996
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 13.8
+- sugar :: 4.17
+- price :: 32.27 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 4.0
+- ratings :: [[id:2d1ad56d-c8c1-4b55-9d09-944f97e5d498][Nhozxqe Aldl Cmhh Rhs 1996 - 2019-12-4]]
+
+

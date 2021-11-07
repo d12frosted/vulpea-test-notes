@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     871fd719-89c1-4cfa-9be3-ee6dde229e8d
+:END:
+#+TITLE: Scf Elpezclx Bwsa 1972
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Bwsa
+- vintage :: 1972
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.36
+- sugar :: 15.47
+- price :: 41.62 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.0
+- ratings :: [[id:0dc6e209-21d7-4cbf-b8e5-0b0d7cf746a4][Scf Elpezclx Bwsa 1972 - 1999-10-10]]
+
+

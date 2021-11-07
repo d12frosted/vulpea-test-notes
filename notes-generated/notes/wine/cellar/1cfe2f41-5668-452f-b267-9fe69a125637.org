@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1cfe2f41-5668-452f-b267-9fe69a125637
+:END:
+#+TITLE: Ecxknc Iepvhans Vuvstoau 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Vuvstoau
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.86
+- sugar :: 16.04
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 7.5
+- ratings :: [[id:225285fd-ae1e-4417-ab24-d90924a64038][Ecxknc Iepvhans Vuvstoau NV - 2015-11-13]]
+
+

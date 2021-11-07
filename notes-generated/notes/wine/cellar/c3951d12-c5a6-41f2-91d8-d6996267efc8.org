@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     c3951d12-c5a6-41f2-91d8-d6996267efc8
+:END:
+#+TITLE: Yjfq Wifpnkl Ont 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Wifpnkl Ont
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 13.16
+- sugar :: 15.49
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

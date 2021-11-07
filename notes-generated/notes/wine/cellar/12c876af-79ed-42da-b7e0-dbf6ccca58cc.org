@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     12c876af-79ed-42da-b7e0-dbf6ccca58cc
+:END:
+#+TITLE: Yjfq Rzjdbdu Ztyvs 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Rzjdbdu Ztyvs
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.99
+- sugar :: 17.46
+- price :: 38.84 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA
+
+

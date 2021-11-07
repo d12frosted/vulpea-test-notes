@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     57f951b8-425b-4295-b1ff-cbb75956e2d0
+:END:
+#+TITLE: Jjkswvm Rcm Anix 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Anix
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.43
+- sugar :: 11.74
+- price :: 14.49 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:fa00fe95-3aac-4c9d-a904-91507a0a5a7c][Jjkswvm Rcm Anix NV - 2020-12-20]]
+
+

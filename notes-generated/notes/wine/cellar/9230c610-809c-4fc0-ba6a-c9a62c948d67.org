@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9230c610-809c-4fc0-ba6a-c9a62c948d67
+:END:
+#+TITLE: Qay Givyju Hbvgb 1992
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Givyju Hbvgb
+- vintage :: 1992
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 9.85
+- price :: 25.16 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:ed163e88-b17a-48cd-8361-b301ba005e02][Qay Givyju Hbvgb 1992 - 2005-7-19]]
+
+

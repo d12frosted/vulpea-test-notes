@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     5b9ad407-684b-420b-8475-48d40a4b2e00
+:END:
+#+TITLE: Yokf Gwhwycw Timkrdk 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Timkrdk
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.28
+- price :: 36.91 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:0d643dff-1fca-4263-b1dd-b9feee2c736e][Yokf Gwhwycw Timkrdk NV - 2004-8-14]]
+
+

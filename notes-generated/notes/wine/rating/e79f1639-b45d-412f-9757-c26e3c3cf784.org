@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e79f1639-b45d-412f-9757-c26e3c3cf784
+:END:
+#+TITLE: Ecxknc Iepvhans Ariizi Pwz NV - 1992-3-14
+
+- wine :: [[id:e44df3d5-f1ad-4abb-8495-587558f325aa][Ecxknc Iepvhans Ariizi Pwz]]
+- date :: 1992-3-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

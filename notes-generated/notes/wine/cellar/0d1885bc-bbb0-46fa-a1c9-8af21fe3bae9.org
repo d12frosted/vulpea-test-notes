@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     0d1885bc-bbb0-46fa-a1c9-8af21fe3bae9
+:END:
+#+TITLE: Yokf Gwhwycw Rtvo Eiaaq 1928
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Rtvo Eiaaq
+- vintage :: 1928
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.1
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA
+
+

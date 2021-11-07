@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     c22b4dba-160f-49e1-9b83-6b755f176b94
+:END:
+#+TITLE: Ecxknc Iepvhans Iqrrl Zfy 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Iqrrl Zfy
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.48
+- price :: 35.93 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:8bd062b7-afd7-40e2-bbbf-41526d759d35][Ecxknc Iepvhans Iqrrl Zfy NV - 1996-1-27]]
+
+

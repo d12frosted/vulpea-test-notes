@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     10d2daa6-c588-4d3e-808c-aaab7403850a
+:END:
+#+TITLE: Cowhhax Upmqcgn Vmkt Nrnxrv 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Vmkt Nrnxrv
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 9.7
+- sugar :: 19.1
+- price :: 44.30 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

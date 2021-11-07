@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e934be32-1afc-4698-a8a1-644f5317d660
+:END:
+#+TITLE: Yokf Gwhwycw Gpe 1917 - 2023-10-24
+
+- wine :: [[id:52a2b86d-bab5-4ca4-b1a1-77a7d601f5d3][Yokf Gwhwycw Gpe 1917]]
+- date :: 2023-10-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

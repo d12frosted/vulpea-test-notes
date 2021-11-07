@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9fb7c349-1f38-42a4-a646-2a2a9da15b1b
+:END:
+#+TITLE: Yjfq Uluev Pphhwazm 2016
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Uluev Pphhwazm
+- vintage :: 2016
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 9.17
+- sugar :: 3.88
+- price :: 76.65 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

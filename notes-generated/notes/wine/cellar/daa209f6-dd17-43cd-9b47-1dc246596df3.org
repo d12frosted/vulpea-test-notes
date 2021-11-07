@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     daa209f6-dd17-43cd-9b47-1dc246596df3
+:END:
+#+TITLE: Nhozxqe Aldl Tijyiwa 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Tijyiwa
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.07
+- price :: 21.22 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:3d1a0f71-b8b0-40d6-b31c-e71f7c025708][Nhozxqe Aldl Tijyiwa NV - 1992-10-3]]
+
+

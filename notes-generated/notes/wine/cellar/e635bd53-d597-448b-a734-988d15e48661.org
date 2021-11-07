@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e635bd53-d597-448b-a734-988d15e48661
+:END:
+#+TITLE: Qay Wmlwoee 1926
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Wmlwoee
+- vintage :: 1926
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 13.7
+- sugar :: 16.5
+- price :: 45.78 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     62a8a7c0-79ea-486e-9440-a1ea9b67d653
+:END:
+#+TITLE: Giih Udr Vuxrpbgn Wjeit 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Vuxrpbgn Wjeit
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 12.59
+- sugar :: 2.43
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:7803da6f-403d-460f-a4e1-6126eaa96897][Giih Udr Vuxrpbgn Wjeit NV - 1997-10-9]]
+
+

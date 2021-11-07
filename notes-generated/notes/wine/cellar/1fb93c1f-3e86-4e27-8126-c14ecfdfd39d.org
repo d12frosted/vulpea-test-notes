@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1fb93c1f-3e86-4e27-8126-c14ecfdfd39d
+:END:
+#+TITLE: Cowhhax Upmqcgn Deb Jboqz 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Deb Jboqz
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.78
+- sugar :: 16.05
+- price :: 92.70 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 1.5
+- ratings :: [[id:d6def82b-f8c2-49aa-b5c5-b131dba68cee][Cowhhax Upmqcgn Deb Jboqz NV - 1992-5-12]]
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     9359ad34-36c2-4a3e-8131-e7f466303f7a
+:END:
+#+TITLE: Yokf Gwhwycw Uvdh Umkvz 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Uvdh Umkvz
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.51
+- sugar :: 14.82
+- price :: 101.45 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 7.0
+- ratings :: [[id:919c0c17-657c-4f3f-a298-3c71eeb3b092][Yokf Gwhwycw Uvdh Umkvz NV - 2003-6-15]]
+
+

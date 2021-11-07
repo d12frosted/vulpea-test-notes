@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cb189b4e-4c29-4c3a-a211-1bbe2a0586e3
+:END:
+#+TITLE: Yokf Gwhwycw Rqecwi Ewbggyuh 1988 - 2000-7-28
+
+- wine :: [[id:715186c1-2e15-4b55-8e51-1b8021898376][Yokf Gwhwycw Rqecwi Ewbggyuh 1988]]
+- date :: 2000-7-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

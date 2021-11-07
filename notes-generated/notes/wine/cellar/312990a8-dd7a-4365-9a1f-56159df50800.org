@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     312990a8-dd7a-4365-9a1f-56159df50800
+:END:
+#+TITLE: Giih Udr Riqfv Xopaz 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Riqfv Xopaz
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 11.95
+- sugar :: 7.53
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:79a065a5-217b-4522-b9f6-e705f24755e3][Giih Udr Riqfv Xopaz NV - 2001-4-4]]
+
+

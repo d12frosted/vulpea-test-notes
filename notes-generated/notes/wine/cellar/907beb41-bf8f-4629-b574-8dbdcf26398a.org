@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     907beb41-bf8f-4629-b574-8dbdcf26398a
+:END:
+#+TITLE: Yokf Gwhwycw Mxhg Jszc 1910
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Mxhg Jszc
+- vintage :: 1910
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.15
+- price :: 52.29 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:051fe7dd-7033-4f0b-880f-075aa85a3e45][Yokf Gwhwycw Mxhg Jszc 1910 - 1999-10-17]]
+
+

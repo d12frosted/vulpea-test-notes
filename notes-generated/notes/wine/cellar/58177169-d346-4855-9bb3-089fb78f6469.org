@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     58177169-d346-4855-9bb3-089fb78f6469
+:END:
+#+TITLE: Jjkswvm Rcm Eqyy Fkofvip 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Eqyy Fkofvip
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.8
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

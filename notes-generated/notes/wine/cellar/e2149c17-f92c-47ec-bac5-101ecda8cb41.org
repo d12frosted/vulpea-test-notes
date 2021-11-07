@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     e2149c17-f92c-47ec-bac5-101ecda8cb41
+:END:
+#+TITLE: Qay Zfhbncqs 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Zfhbncqs
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 9.1
+- price :: 30.08 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA
+
+

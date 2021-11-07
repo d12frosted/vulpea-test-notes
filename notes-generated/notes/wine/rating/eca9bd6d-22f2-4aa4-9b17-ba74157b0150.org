@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     eca9bd6d-22f2-4aa4-9b17-ba74157b0150
+:END:
+#+TITLE: Qay Zdlguer 1960 - 1990-5-8
+
+- wine :: [[id:7e08532a-4c36-4e6d-a4c1-0b7154ab3f3e][Qay Zdlguer 1960]]
+- date :: 1990-5-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

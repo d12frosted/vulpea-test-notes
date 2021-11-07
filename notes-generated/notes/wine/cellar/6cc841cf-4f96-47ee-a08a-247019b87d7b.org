@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6cc841cf-4f96-47ee-a08a-247019b87d7b
+:END:
+#+TITLE: Qay Anbyzs Jsanxcx 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Anbyzs Jsanxcx
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.29
+- sugar :: 10.02
+- price :: 55.84 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

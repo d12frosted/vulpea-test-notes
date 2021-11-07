@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ea082370-6284-4c9f-ac26-29c18c01244f
+:END:
+#+TITLE: Yokf Gwhwycw Vxkqy Otlhjode 1914
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vxkqy Otlhjode
+- vintage :: 1914
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 13.68
+- price :: 90.93 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 1.5
+- ratings :: [[id:12d40e79-e7ce-4a4e-bb48-e964d583e684][Yokf Gwhwycw Vxkqy Otlhjode 1914 - 2013-2-16]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     41c88078-9057-43f3-81ed-1ac1e28f7fbb
+:END:
+#+TITLE: Qay Xdoq 1907
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Xdoq
+- vintage :: 1907
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 13.11
+- sugar :: 2.99
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 2.0
+- ratings :: [[id:a7a24d92-4d74-4b52-9ba1-dd809273bcf8][Qay Xdoq 1907 - 2023-5-1]]
+
+

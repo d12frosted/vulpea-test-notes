@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4e7bb6d4-1478-4939-8228-26f261ba95e2
+:END:
+#+TITLE: Jjkswvm Rcm Ukcg Glc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ukcg Glc
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.07
+- sugar :: 5.31
+- price :: 30.99 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

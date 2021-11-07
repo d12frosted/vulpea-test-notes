@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f7ace4a8-6879-4ef5-a690-78d37c6faf15
+:END:
+#+TITLE: Yokf Gwhwycw Cbaljw Hiardqhu 2005
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Cbaljw Hiardqhu
+- vintage :: 2005
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 9.34
+- price :: 56.68 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

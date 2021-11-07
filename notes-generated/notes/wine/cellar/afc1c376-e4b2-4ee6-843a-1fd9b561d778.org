@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     afc1c376-e4b2-4ee6-843a-1fd9b561d778
+:END:
+#+TITLE: Yokf Gwhwycw Owqtz Scbmowqp 1950
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Owqtz Scbmowqp
+- vintage :: 1950
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 10.05
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:eb5dfa3f-54fa-434f-80a7-af56cec4b2d6][Yokf Gwhwycw Owqtz Scbmowqp 1950 - 2014-6-4]]
+
+

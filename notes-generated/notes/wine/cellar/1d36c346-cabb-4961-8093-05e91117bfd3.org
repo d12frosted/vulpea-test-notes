@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1d36c346-cabb-4961-8093-05e91117bfd3
+:END:
+#+TITLE: Qay Dozh 1951
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Dozh
+- vintage :: 1951
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 13.8
+- sugar :: 1.53
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6b96975c-4b07-4d8e-baac-58df2229b71c
+:END:
+#+TITLE: Lrwk Jbaxrmn Lddivvb Ymazpz 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Lddivvb Ymazpz
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 12.91
+- price :: 27.44 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

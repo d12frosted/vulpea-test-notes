@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5194e328-68ba-4cb7-a3f4-5a5c2b4b73f2
+:END:
+#+TITLE: Yokf Gwhwycw Jehiyux Hych 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Jehiyux Hych
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.92
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:9579dce5-9dc8-4b41-bd13-c286d08af313][Yokf Gwhwycw Jehiyux Hych NV - 2010-7-28]]
+
+

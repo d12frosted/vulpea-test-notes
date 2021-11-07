@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c04be711-a625-4d96-8b9b-e1b3486d4e2e
+:END:
+#+TITLE: Scf Elpezclx Wmr NV - 2020-1-2
+
+- wine :: [[id:e12b8823-3939-463e-8627-152b2e3b1688][Scf Elpezclx Wmr]]
+- date :: 2020-1-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

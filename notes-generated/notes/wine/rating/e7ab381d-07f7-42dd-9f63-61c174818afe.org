@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e7ab381d-07f7-42dd-9f63-61c174818afe
+:END:
+#+TITLE: Ecxknc Iepvhans Cauprfk Gzvbezd NV - 1994-1-18
+
+- wine :: [[id:5934666f-aa15-4f53-9d93-e018d0e452dd][Ecxknc Iepvhans Cauprfk Gzvbezd]]
+- date :: 1994-1-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

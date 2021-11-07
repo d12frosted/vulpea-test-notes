@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d8256486-b2e8-4e5d-a5e8-831bf18d9031
+:END:
+#+TITLE: Lrwk Jbaxrmn Xuj 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xuj
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.91
+- sugar :: 16.37
+- price :: 49.66 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

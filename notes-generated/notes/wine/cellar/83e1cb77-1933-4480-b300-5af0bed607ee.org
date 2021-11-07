@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     83e1cb77-1933-4480-b300-5af0bed607ee
+:END:
+#+TITLE: Cowhhax Upmqcgn Whnbuq Pnfrz 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Whnbuq Pnfrz
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.129999999999999
+- price :: 56.43 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 4.0
+- ratings :: [[id:46e9e7c4-70d2-4c04-92d5-eaf10c0daee7][Cowhhax Upmqcgn Whnbuq Pnfrz NV - 1990-6-6]]
+
+

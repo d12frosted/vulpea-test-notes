@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bcffce3d-27f5-44ce-a626-61a689280154
+:END:
+#+TITLE: Giih Udr Avpzeo 1996 - 1997-6-10
+
+- wine :: [[id:53255df0-ef23-4294-ad5b-9f1975cd1881][Giih Udr Avpzeo 1996]]
+- date :: 1997-6-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

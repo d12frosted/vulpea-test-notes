@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     34cc3baf-43f4-4dc7-af06-6dfd26022788
+:END:
+#+TITLE: Lrwk Jbaxrmn Gxxdti 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Gxxdti
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 13.5
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

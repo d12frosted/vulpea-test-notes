@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b12cb809-6bf5-4909-928c-2ae0309c00f0
+:END:
+#+TITLE: Jjkswvm Rcm Xqciqavc 1984
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Xqciqavc
+- vintage :: 1984
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 13.969999999999999
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: duckduckgo
+- rating :: 9.0
+- ratings :: [[id:d99769ac-98c9-42f0-9613-9d365dfa8e73][Jjkswvm Rcm Xqciqavc 1984 - 1990-9-25]]
+
+

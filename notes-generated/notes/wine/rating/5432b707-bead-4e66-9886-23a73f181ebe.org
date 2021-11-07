@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5432b707-bead-4e66-9886-23a73f181ebe
+:END:
+#+TITLE: Jjkswvm Rcm Ewllned NV - 2012-12-20
+
+- wine :: [[id:7ec199d4-e8e3-448f-b44e-c8108a7ee150][Jjkswvm Rcm Ewllned]]
+- date :: 2012-12-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

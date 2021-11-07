@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     bd0aba00-938f-4529-9f28-e7772ca27cc0
+:END:
+#+TITLE: Cowhhax Upmqcgn Upng 1986
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Upng
+- vintage :: 1986
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 10.7
+- sugar :: 2.27
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

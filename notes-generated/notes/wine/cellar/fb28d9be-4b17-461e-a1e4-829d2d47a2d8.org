@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fb28d9be-4b17-461e-a1e4-829d2d47a2d8
+:END:
+#+TITLE: Jjkswvm Rcm Fziu Shyt 1945
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Fziu Shyt
+- vintage :: 1945
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 11.29
+- sugar :: 8.29
+- price :: 45.59 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:cdcbf624-85e8-4551-a48b-aead86bb453e][Jjkswvm Rcm Fziu Shyt 1945 - 1995-6-22]]
+
+

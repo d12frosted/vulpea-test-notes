@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f7bd110e-69d9-48e9-b042-dec1aa0d6f7e
+:END:
+#+TITLE: Yokf Gwhwycw Obxrr 1910
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Obxrr
+- vintage :: 1910
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 13.309999999999999
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:8ec05bd1-0137-4570-9fd5-f88954cb311e][Yokf Gwhwycw Obxrr 1910 - 1997-9-15]]
+
+

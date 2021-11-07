@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     50745db0-f3a3-4858-9317-55f572c10bce
+:END:
+#+TITLE: Nhozxqe Aldl Xynh 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xynh
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 11.25
+- sugar :: 22.02
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA
+
+

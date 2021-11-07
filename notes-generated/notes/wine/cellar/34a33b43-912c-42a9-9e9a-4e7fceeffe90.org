@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     34a33b43-912c-42a9-9e9a-4e7fceeffe90
+:END:
+#+TITLE: Ecxknc Iepvhans Bdulw 1966
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Bdulw
+- vintage :: 1966
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 12.56
+- sugar :: 8.29
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

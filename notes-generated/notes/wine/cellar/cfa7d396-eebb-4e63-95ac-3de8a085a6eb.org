@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     cfa7d396-eebb-4e63-95ac-3de8a085a6eb
+:END:
+#+TITLE: Yjfq Ogk 2019
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ogk
+- vintage :: 2019
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 13.96
+- price :: 56.25 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.5
+- ratings :: [[id:37f476b0-cbf0-46fd-870b-6aec088939af][Yjfq Ogk 2019 - 2005-7-20]]
+
+

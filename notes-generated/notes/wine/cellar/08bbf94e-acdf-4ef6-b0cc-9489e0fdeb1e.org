@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     08bbf94e-acdf-4ef6-b0cc-9489e0fdeb1e
+:END:
+#+TITLE: Ecxknc Iepvhans Bxfijk Grlbm 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Bxfijk Grlbm
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.54
+- price :: 48.74 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA
+
+

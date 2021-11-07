@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     07f328e2-9f54-47b9-b487-1487e3444db6
+:END:
+#+TITLE: Cowhhax Upmqcgn Gyjuxs Xkeigc 1921
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Gyjuxs Xkeigc
+- vintage :: 1921
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.620000000000001
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:40e8b15c-3b16-4172-bb30-67c12dea0d06][Cowhhax Upmqcgn Gyjuxs Xkeigc 1921 - 1999-6-9]]
+
+

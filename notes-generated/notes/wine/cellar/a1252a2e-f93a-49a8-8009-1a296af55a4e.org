@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a1252a2e-f93a-49a8-8009-1a296af55a4e
+:END:
+#+TITLE: Nhozxqe Aldl Myxaigj Zkw 1996
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Myxaigj Zkw
+- vintage :: 1996
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.14
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:bd8c9d11-12c7-4ba4-8ecd-0d1d1a2043ce][Nhozxqe Aldl Myxaigj Zkw 1996 - 1998-9-8]]
+
+

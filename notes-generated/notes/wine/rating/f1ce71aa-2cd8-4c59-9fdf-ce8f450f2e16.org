@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f1ce71aa-2cd8-4c59-9fdf-ce8f450f2e16
+:END:
+#+TITLE: Ecxknc Iepvhans Ubj Cqdaxsnf NV - 2002-2-3
+
+- wine :: [[id:8c93d526-3aa6-4a5f-a2fc-f5d7dfc35ac9][Ecxknc Iepvhans Ubj Cqdaxsnf]]
+- date :: 2002-2-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

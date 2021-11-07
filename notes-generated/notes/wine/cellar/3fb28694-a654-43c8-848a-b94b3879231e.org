@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3fb28694-a654-43c8-848a-b94b3879231e
+:END:
+#+TITLE: Nhozxqe Aldl Mov Qbgo 1952
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Mov Qbgo
+- vintage :: 1952
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.030000000000001
+- sugar :: 12.31
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 1.5
+- ratings :: [[id:031d6b4a-179c-407c-84f9-aa1764f689ca][Nhozxqe Aldl Mov Qbgo 1952 - 1998-9-23]]
+
+

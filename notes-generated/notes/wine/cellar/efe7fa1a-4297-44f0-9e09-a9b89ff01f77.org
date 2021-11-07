@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     efe7fa1a-4297-44f0-9e09-a9b89ff01f77
+:END:
+#+TITLE: Qay Tnvp 1973
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Tnvp
+- vintage :: 1973
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 12.86
+- sugar :: 0.56
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: wikipedia
+- rating :: NA
+
+

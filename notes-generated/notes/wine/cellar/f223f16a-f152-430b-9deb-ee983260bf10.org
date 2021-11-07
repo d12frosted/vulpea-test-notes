@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     f223f16a-f152-430b-9deb-ee983260bf10
+:END:
+#+TITLE: Ecxknc Iepvhans Ngxwdj 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ngxwdj
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 13.120000000000001
+- price :: 42.65 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA
+
+

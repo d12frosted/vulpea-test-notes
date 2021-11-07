@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     eff6a76e-abf7-45f6-955e-d2e99772eef7
+:END:
+#+TITLE: Ecxknc Iepvhans Ufvmll 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ufvmll
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 9.88
+- sugar :: 0.42
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

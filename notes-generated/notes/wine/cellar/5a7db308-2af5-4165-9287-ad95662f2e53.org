@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5a7db308-2af5-4165-9287-ad95662f2e53
+:END:
+#+TITLE: Yjfq Gby 1964
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gby
+- vintage :: 1964
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 10.870000000000001
+- price :: 76.78 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: 9.5
+- ratings :: [[id:bca00e12-10fb-4a16-ac8d-fdff8b2f58d4][Yjfq Gby 1964 - 2011-10-5]]
+
+

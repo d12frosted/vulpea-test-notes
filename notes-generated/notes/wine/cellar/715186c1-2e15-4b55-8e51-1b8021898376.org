@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     715186c1-2e15-4b55-8e51-1b8021898376
+:END:
+#+TITLE: Yokf Gwhwycw Rqecwi Ewbggyuh 1988
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Rqecwi Ewbggyuh
+- vintage :: 1988
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.3
+- sugar :: 8.49
+- price :: 53.32 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:cb189b4e-4c29-4c3a-a211-1bbe2a0586e3][Yokf Gwhwycw Rqecwi Ewbggyuh 1988 - 2000-7-28]]
+
+

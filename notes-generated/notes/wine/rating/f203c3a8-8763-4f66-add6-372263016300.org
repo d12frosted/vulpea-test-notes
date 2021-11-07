@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f203c3a8-8763-4f66-add6-372263016300
+:END:
+#+TITLE: Giih Udr Vfskkjp NV - 2023-3-6
+
+- wine :: [[id:f345977b-47a5-4ae8-a3e3-d98774572b5c][Giih Udr Vfskkjp]]
+- date :: 2023-3-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

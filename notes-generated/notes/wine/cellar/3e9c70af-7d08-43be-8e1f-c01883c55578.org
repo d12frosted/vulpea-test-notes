@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3e9c70af-7d08-43be-8e1f-c01883c55578
+:END:
+#+TITLE: Ecxknc Iepvhans Ytspws 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ytspws
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 11.94
+- sugar :: 12.92
+- price :: 27.05 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 6.5
+- ratings :: [[id:caaad74c-029e-4af8-816e-d2961a4b1a90][Ecxknc Iepvhans Ytspws NV - 1991-11-2]]
+
+

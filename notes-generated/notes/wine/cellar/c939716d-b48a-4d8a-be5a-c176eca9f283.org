@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c939716d-b48a-4d8a-be5a-c176eca9f283
+:END:
+#+TITLE: Jjkswvm Rcm Eyjl Yjvvvhb 2009
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Eyjl Yjvvvhb
+- vintage :: 2009
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 11.97
+- sugar :: 20.63
+- price :: 26.10 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

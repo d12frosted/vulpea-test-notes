@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e2833623-1957-43b6-bbdc-af602d9e8937
+:END:
+#+TITLE: Lrwk Jbaxrmn Ztwbx 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ztwbx
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.65
+- price :: 42.83 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

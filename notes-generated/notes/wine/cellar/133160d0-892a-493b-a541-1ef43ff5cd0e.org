@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     133160d0-892a-493b-a541-1ef43ff5cd0e
+:END:
+#+TITLE: Qay Yijt Mdkeghq 1917
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Yijt Mdkeghq
+- vintage :: 1917
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 10.28
+- price :: 31.09 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: 3.5
+- ratings :: [[id:18d626f5-8085-46cd-8a29-3f63038ff673][Qay Yijt Mdkeghq 1917 - 2020-7-23]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7ccc5fa5-707e-494c-8040-284657e44511
+:END:
+#+TITLE: Qay Yvmvtzr 1911 - 1991-4-22
+
+- wine :: [[id:5fd203c9-4074-46f0-ae00-24d59a988996][Qay Yvmvtzr 1911]]
+- date :: 1991-4-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

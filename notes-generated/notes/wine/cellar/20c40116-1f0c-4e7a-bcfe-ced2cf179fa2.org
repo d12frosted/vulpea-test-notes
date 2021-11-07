@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     20c40116-1f0c-4e7a-bcfe-ced2cf179fa2
+:END:
+#+TITLE: Yjfq Oallqsdi Cbiuqnme 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Oallqsdi Cbiuqnme
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 9.2
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 5.5
+- ratings :: [[id:0fd050f0-c2ae-4c4b-aead-34606169e93c][Yjfq Oallqsdi Cbiuqnme NV - 2002-8-3]]
+
+

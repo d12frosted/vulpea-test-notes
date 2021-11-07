@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4425b9b7-6721-45a6-b7da-37535e93a3b4
+:END:
+#+TITLE: Cowhhax Upmqcgn Gilrr Hnid 2008
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Gilrr Hnid
+- vintage :: 2008
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 9.77
+- sugar :: 20.62
+- price :: 65.43 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

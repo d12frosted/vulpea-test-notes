@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7f1cab3e-81a5-43b3-a3f6-865b8a76386a
+:END:
+#+TITLE: Scf Elpezclx Clqtoizg 1953
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Clqtoizg
+- vintage :: 1953
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.379999999999999
+- price :: 92.24 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:9f63a576-8f03-4c98-98f6-cf31551fce1a][Scf Elpezclx Clqtoizg 1953 - 2005-8-27]]
+
+

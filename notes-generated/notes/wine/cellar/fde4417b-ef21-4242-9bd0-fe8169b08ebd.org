@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fde4417b-ef21-4242-9bd0-fe8169b08ebd
+:END:
+#+TITLE: Lrwk Jbaxrmn Wtozs 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Wtozs
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.58
+- sugar :: 9.13
+- price :: 47.42 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:df81ea09-723b-4cb8-a682-4e9165d8a039][Lrwk Jbaxrmn Wtozs NV - 2012-9-3]]
+
+

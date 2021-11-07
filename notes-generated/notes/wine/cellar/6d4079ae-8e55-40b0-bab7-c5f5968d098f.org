@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6d4079ae-8e55-40b0-bab7-c5f5968d098f
+:END:
+#+TITLE: Yokf Gwhwycw Nzshivd Wlt 2004
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Nzshivd Wlt
+- vintage :: 2004
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 12.48
+- price :: 74.66 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

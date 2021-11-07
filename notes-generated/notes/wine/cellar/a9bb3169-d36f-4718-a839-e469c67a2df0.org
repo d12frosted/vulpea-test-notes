@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a9bb3169-d36f-4718-a839-e469c67a2df0
+:END:
+#+TITLE: Nhozxqe Aldl Sqias Qochbnu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Sqias Qochbnu
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.25
+- price :: 29.24 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:429ffc6a-cf7c-42fd-aace-153fdf3d3b58][Nhozxqe Aldl Sqias Qochbnu NV - 1999-7-7]]
+
+

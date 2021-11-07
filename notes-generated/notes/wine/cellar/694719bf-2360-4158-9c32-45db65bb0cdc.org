@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     694719bf-2360-4158-9c32-45db65bb0cdc
+:END:
+#+TITLE: Ecxknc Iepvhans Ift Xgb 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ift Xgb
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.78
+- sugar :: 13.35
+- price :: 6.69 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 8.0
+- ratings :: [[id:b9ede19f-560b-472d-b502-40c9518456a9][Ecxknc Iepvhans Ift Xgb NV - 2001-5-12]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7dfc0c81-c1a3-45ec-80c5-e24dca1be867
+:END:
+#+TITLE: Cowhhax Upmqcgn Pezwkuga Tfldvtw NV - 2009-8-17
+
+- wine :: [[id:d8fe899f-58dd-40ff-9513-27c8fedffcbd][Cowhhax Upmqcgn Pezwkuga Tfldvtw]]
+- date :: 2009-8-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

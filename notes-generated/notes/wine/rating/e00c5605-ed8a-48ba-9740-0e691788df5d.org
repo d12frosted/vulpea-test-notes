@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e00c5605-ed8a-48ba-9740-0e691788df5d
+:END:
+#+TITLE: Nhozxqe Aldl Gazk NV - 2003-12-24
+
+- wine :: [[id:55748e29-0b7d-467f-8aad-6e8efa1a177a][Nhozxqe Aldl Gazk]]
+- date :: 2003-12-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

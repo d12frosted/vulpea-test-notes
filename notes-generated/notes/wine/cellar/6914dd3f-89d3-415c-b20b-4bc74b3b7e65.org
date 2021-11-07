@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6914dd3f-89d3-415c-b20b-4bc74b3b7e65
+:END:
+#+TITLE: Giih Udr Orpzgik 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Orpzgik
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 13.309999999999999
+- price :: 69.02 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:d7cab943-f43e-4f8e-be4e-a8de34d27aea][Giih Udr Orpzgik NV - 2020-4-24]]
+
+

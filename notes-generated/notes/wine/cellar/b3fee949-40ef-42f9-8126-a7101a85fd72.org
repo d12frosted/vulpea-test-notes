@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b3fee949-40ef-42f9-8126-a7101a85fd72
+:END:
+#+TITLE: Yjfq Idd 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Idd
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 10.7
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:c64505b4-b5e9-4cca-83b6-fb704964354e][Yjfq Idd NV - 2009-8-13]]
+
+

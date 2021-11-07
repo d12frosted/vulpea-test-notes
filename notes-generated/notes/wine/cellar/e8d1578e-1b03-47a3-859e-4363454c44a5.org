@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e8d1578e-1b03-47a3-859e-4363454c44a5
+:END:
+#+TITLE: Cowhhax Upmqcgn Vcl Izzyvir 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Vcl Izzyvir
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 11.72
+- price :: 63.61 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.5
+- ratings :: [[id:9644f33f-a384-4a91-9b01-61ed8c88a408][Cowhhax Upmqcgn Vcl Izzyvir NV - 2023-9-2]]
+
+

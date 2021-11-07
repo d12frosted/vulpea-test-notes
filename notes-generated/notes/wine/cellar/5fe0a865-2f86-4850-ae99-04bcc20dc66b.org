@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     5fe0a865-2f86-4850-ae99-04bcc20dc66b
+:END:
+#+TITLE: Yjfq Acdy 1924
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Acdy
+- vintage :: 1924
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 9.07
+- sugar :: 3.91
+- price :: 88.14 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:699eda53-441a-4b17-a698-240e155de31f][Yjfq Acdy 1924 - 2008-12-21]]
+
+

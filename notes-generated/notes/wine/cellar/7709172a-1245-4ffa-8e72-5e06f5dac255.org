@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7709172a-1245-4ffa-8e72-5e06f5dac255
+:END:
+#+TITLE: Ecxknc Iepvhans Blspf 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Blspf
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 9.54
+- price :: 59.36 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:370bfcfe-a6b1-462b-94c5-d6461ebe7514][Ecxknc Iepvhans Blspf NV - 2019-5-27]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6cafea13-7322-4d25-b619-6f20bad4ccf8
+:END:
+#+TITLE: Giih Udr Zzpuyydd 1955
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Zzpuyydd
+- vintage :: 1955
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 9.7
+- sugar :: 12.42
+- price :: 72.40 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

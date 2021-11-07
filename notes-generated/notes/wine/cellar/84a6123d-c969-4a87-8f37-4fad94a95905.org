@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     84a6123d-c969-4a87-8f37-4fad94a95905
+:END:
+#+TITLE: Yjfq Ceowe Nhxdfpn 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ceowe Nhxdfpn
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.81
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

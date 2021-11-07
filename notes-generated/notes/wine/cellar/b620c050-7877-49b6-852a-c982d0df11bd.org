@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b620c050-7877-49b6-852a-c982d0df11bd
+:END:
+#+TITLE: Lrwk Jbaxrmn Heysne Ummds 2017
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Heysne Ummds
+- vintage :: 2017
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 13.8
+- sugar :: 5.7
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:33f3b99b-e958-4601-acab-ba606b8c607f][Lrwk Jbaxrmn Heysne Ummds 2017 - 1995-1-2]]
+
+

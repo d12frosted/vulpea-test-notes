@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9c3971d8-9c35-493d-a4cd-82562d607347
+:END:
+#+TITLE: Jjkswvm Rcm Ubnneut 1940 - 2014-12-19
+
+- wine :: [[id:ceab948e-3f3d-4c1b-a06e-a995c28f723f][Jjkswvm Rcm Ubnneut 1940]]
+- date :: 2014-12-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 19
+- score_max :: 20
+- total :: 9.5
+
+

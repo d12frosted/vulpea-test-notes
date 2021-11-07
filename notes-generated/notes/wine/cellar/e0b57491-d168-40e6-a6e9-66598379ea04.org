@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e0b57491-d168-40e6-a6e9-66598379ea04
+:END:
+#+TITLE: Yjfq Qzb 1997
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Qzb
+- vintage :: 1997
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.99
+- sugar :: 1.34
+- price :: 92.55 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA
+
+

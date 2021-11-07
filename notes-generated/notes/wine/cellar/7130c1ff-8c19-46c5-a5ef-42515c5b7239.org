@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     7130c1ff-8c19-46c5-a5ef-42515c5b7239
+:END:
+#+TITLE: Nhozxqe Aldl Armsvnq 1953
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Armsvnq
+- vintage :: 1953
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.93
+- sugar :: 0.11
+- price :: 57.43 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 2.0
+- ratings :: [[id:55804ea1-3c67-4391-a1f6-a0a7a8d0ca7e][Nhozxqe Aldl Armsvnq 1953 - 2002-1-11]]
+
+

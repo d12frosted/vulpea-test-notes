@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f99f7c2c-3c71-4d81-be3f-42e22873da81
+:END:
+#+TITLE: Cowhhax Upmqcgn Hkdvoe 1928
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Hkdvoe
+- vintage :: 1928
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.559999999999999
+- price :: 42.43 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:8b307485-3789-4bf2-8e84-5a3f20ede750][Cowhhax Upmqcgn Hkdvoe 1928 - 2016-4-22]]
+
+

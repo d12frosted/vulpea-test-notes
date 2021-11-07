@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     4c09715a-ea47-4825-9461-ce673da09eb2
+:END:
+#+TITLE: Ecxknc Iepvhans Kdqqexe Duyuo 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Kdqqexe Duyuo
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.02
+- sugar :: 19.28
+- price :: 17.19 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.5
+- ratings :: [[id:9738f2d9-ffa6-47bf-9352-fe6af685f06b][Ecxknc Iepvhans Kdqqexe Duyuo NV - 1991-8-13]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     65a8628d-373b-41b7-be1e-a5a7648c24d1
+:END:
+#+TITLE: Lrwk Jbaxrmn Qdggms 1969
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qdggms
+- vintage :: 1969
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.36
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:e124630d-3bef-4f13-b9b6-bee3d463817c][Lrwk Jbaxrmn Qdggms 1969 - 2017-9-2]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     bae9befd-b6bf-4fb6-8004-bc2d2d1a8be7
+:END:
+#+TITLE: Lrwk Jbaxrmn Rpzf 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rpzf
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.48
+- sugar :: 2.47
+- price :: 76.76 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:93ded6be-ebd6-4b8b-a430-3b73957e7d0d][Lrwk Jbaxrmn Rpzf NV - 2019-6-27]]
+
+

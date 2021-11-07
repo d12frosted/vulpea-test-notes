@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     f41c11eb-4653-45b7-add2-dce02f718675
+:END:
+#+TITLE: Qay Xrnrtpuu 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Xrnrtpuu
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 11.629999999999999
+- sugar :: 0.6
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA
+
+

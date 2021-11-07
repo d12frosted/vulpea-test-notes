@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     64cba860-3e24-4e2c-92b6-cc3bd19f8657
+:END:
+#+TITLE: Yjfq Yxmgzxo Tfa 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Yxmgzxo Tfa
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.15
+- price :: 65.98 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.0
+- ratings :: [[id:42ff73a7-9116-49d9-8d2e-817a7e1beac9][Yjfq Yxmgzxo Tfa NV - 2018-5-5]]
+
+

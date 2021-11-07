@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1898f001-0d3c-43d1-b805-4086eb287474
+:END:
+#+TITLE: Nhozxqe Aldl Iogowqzx Epe 2007
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Iogowqzx Epe
+- vintage :: 2007
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.25
+- sugar :: 3.87
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA
+
+

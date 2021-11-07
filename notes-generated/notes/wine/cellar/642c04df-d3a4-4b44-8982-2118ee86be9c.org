@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     642c04df-d3a4-4b44-8982-2118ee86be9c
+:END:
+#+TITLE: Lrwk Jbaxrmn Sjsduz 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Sjsduz
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.26
+- sugar :: 18.88
+- price :: 77.19 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:988c85c4-8fc7-4c0b-8dbb-62b96293519a][Lrwk Jbaxrmn Sjsduz NV - 1998-7-19]]
+
+

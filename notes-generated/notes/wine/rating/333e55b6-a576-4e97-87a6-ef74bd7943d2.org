@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     333e55b6-a576-4e97-87a6-ef74bd7943d2
+:END:
+#+TITLE: Cowhhax Upmqcgn Wupuh NV - 2021-11-15
+
+- wine :: [[id:f01c05a1-9ee8-457d-a2f8-10cbad0f6371][Cowhhax Upmqcgn Wupuh]]
+- date :: 2021-11-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

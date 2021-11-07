@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     1af730c3-d46e-4dc8-a9e7-4f1f07d01005
+:END:
+#+TITLE: Ecxknc Iepvhans Oeqa 2018
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Oeqa
+- vintage :: 2018
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 10.79
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:5c615016-7ecb-4397-a03b-e1294c193c37][Ecxknc Iepvhans Oeqa 2018 - 1992-1-23]]
+
+

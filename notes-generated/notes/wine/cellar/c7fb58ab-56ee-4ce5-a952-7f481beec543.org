@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c7fb58ab-56ee-4ce5-a952-7f481beec543
+:END:
+#+TITLE: Giih Udr Hmspkbg Sslq 1900
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Hmspkbg Sslq
+- vintage :: 1900
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.16
+- sugar :: 22.18
+- price :: 26.19 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

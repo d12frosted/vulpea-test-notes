@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8b9260b9-f224-4798-af0e-0fff0b90df3c
+:END:
+#+TITLE: Yokf Gwhwycw Mrcx 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Mrcx
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.9
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.5
+- ratings :: [[id:48d7ac35-abf8-4ace-9cfd-20c0c145bb12][Yokf Gwhwycw Mrcx NV - 1999-5-14]]
+
+

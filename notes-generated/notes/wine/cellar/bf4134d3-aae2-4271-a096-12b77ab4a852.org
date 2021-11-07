@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     bf4134d3-aae2-4271-a096-12b77ab4a852
+:END:
+#+TITLE: Ecxknc Iepvhans Flytyrqn 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Flytyrqn
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 10.56
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

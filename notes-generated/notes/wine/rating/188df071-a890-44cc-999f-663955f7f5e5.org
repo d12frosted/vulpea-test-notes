@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     188df071-a890-44cc-999f-663955f7f5e5
+:END:
+#+TITLE: Giih Udr Ctda 1973 - 1998-11-18
+
+- wine :: [[id:bebfa9f5-e8d1-4451-897a-abca2e099959][Giih Udr Ctda 1973]]
+- date :: 1998-11-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

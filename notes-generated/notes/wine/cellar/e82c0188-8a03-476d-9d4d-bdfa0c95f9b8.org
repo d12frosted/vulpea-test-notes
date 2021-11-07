@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e82c0188-8a03-476d-9d4d-bdfa0c95f9b8
+:END:
+#+TITLE: Lrwk Jbaxrmn Oioxvgl Mdrhkr 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Oioxvgl Mdrhkr
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 12.05
+- price :: 95.96 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:9ea9aa62-5cec-474a-8350-aa0d07b795af][Lrwk Jbaxrmn Oioxvgl Mdrhkr NV - 2018-11-5]]
+
+

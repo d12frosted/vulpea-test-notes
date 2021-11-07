@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     43334311-b88b-4c72-97c1-bdefbe1bcac0
+:END:
+#+TITLE: Lrwk Jbaxrmn Tbj 1915 - 1993-4-14
+
+- wine :: [[id:98001eee-ba7c-4e30-b2d0-6f07f47b14b6][Lrwk Jbaxrmn Tbj 1915]]
+- date :: 1993-4-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

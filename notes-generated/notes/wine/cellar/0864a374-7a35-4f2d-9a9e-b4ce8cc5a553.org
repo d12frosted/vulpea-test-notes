@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0864a374-7a35-4f2d-9a9e-b4ce8cc5a553
+:END:
+#+TITLE: Yokf Gwhwycw Nbbmt Bqxvam 1942
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Nbbmt Bqxvam
+- vintage :: 1942
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 10.91
+- sugar :: 23.97
+- price :: 83.34 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA
+
+

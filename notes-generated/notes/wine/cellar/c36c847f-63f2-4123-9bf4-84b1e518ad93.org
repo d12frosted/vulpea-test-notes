@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c36c847f-63f2-4123-9bf4-84b1e518ad93
+:END:
+#+TITLE: Jjkswvm Rcm Qgznfiy 1972
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qgznfiy
+- vintage :: 1972
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 10.49
+- price :: 49.92 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:7543185e-c17c-440e-8bff-9b99a57f7465][Jjkswvm Rcm Qgznfiy 1972 - 2019-9-1]]
+
+

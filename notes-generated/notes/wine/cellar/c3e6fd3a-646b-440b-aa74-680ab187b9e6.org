@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c3e6fd3a-646b-440b-aa74-680ab187b9e6
+:END:
+#+TITLE: Lrwk Jbaxrmn Uphqoo Fvdftml 1928
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Uphqoo Fvdftml
+- vintage :: 1928
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.46
+- sugar :: 1.6
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA
+
+

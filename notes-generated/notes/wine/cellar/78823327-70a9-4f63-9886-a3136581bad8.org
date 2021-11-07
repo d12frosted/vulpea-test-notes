@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     78823327-70a9-4f63-9886-a3136581bad8
+:END:
+#+TITLE: Scf Elpezclx Aaff 1994
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Aaff
+- vintage :: 1994
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.129999999999999
+- price :: 65.06 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:344e1ab9-4633-4b23-90da-abff144f552b][Scf Elpezclx Aaff 1994 - 1995-2-13]]
+
+

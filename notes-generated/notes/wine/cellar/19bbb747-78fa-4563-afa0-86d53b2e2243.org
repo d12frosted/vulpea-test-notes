@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     19bbb747-78fa-4563-afa0-86d53b2e2243
+:END:
+#+TITLE: Qay Tvds Gohqtmk 1909
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Tvds Gohqtmk
+- vintage :: 1909
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 11.81
+- sugar :: 19.36
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:91524543-ec5f-4e5c-8a6c-63b712c19b5e][Qay Tvds Gohqtmk 1909 - 2017-8-1]]
+
+

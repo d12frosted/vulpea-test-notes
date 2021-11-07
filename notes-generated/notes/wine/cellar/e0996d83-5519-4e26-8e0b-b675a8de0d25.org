@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e0996d83-5519-4e26-8e0b-b675a8de0d25
+:END:
+#+TITLE: Jjkswvm Rcm Jkmwlq 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Jkmwlq
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.0
+- price :: 9.60 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:8f482301-cf1f-44b6-9e1c-95907151ec35][Jjkswvm Rcm Jkmwlq NV - 2001-12-16]]
+
+

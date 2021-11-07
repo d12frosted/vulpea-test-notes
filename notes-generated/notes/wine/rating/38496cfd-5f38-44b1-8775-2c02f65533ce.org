@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     38496cfd-5f38-44b1-8775-2c02f65533ce
+:END:
+#+TITLE: Nhozxqe Aldl Poqwktow NV - 1998-10-13
+
+- wine :: [[id:8980f1fe-c9bf-4448-8c80-7986112b72fa][Nhozxqe Aldl Poqwktow]]
+- date :: 1998-10-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

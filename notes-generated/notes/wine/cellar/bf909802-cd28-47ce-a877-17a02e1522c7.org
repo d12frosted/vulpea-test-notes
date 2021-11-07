@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     bf909802-cd28-47ce-a877-17a02e1522c7
+:END:
+#+TITLE: Cowhhax Upmqcgn Pmgms 1913
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Pmgms
+- vintage :: 1913
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.86
+- price :: 101.66 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:28e07b0a-6502-4e8f-9616-30cc00b9449b][Cowhhax Upmqcgn Pmgms 1913 - 2014-8-22]]
+
+

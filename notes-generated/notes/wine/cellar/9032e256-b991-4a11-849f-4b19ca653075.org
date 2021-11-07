@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9032e256-b991-4a11-849f-4b19ca653075
+:END:
+#+TITLE: Ecxknc Iepvhans Yxroid Rijxw 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Yxroid Rijxw
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.48
+- sugar :: 6.58
+- price :: 50.15 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:aafed6ca-86ca-488b-8b97-72f27d83b0ad][Ecxknc Iepvhans Yxroid Rijxw NV - 1999-4-4]]
+
+

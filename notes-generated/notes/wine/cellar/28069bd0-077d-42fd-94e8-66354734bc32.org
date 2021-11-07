@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     28069bd0-077d-42fd-94e8-66354734bc32
+:END:
+#+TITLE: Qay Uhtsvgy Pcyspa 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Uhtsvgy Pcyspa
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.04
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA
+
+

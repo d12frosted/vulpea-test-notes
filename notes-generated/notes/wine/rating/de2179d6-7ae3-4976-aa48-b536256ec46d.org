@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     de2179d6-7ae3-4976-aa48-b536256ec46d
+:END:
+#+TITLE: Cowhhax Upmqcgn Tabtome NV - 1991-4-17
+
+- wine :: [[id:998dc8c4-e942-4974-9c29-73ae649f1cb7][Cowhhax Upmqcgn Tabtome]]
+- date :: 1991-4-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

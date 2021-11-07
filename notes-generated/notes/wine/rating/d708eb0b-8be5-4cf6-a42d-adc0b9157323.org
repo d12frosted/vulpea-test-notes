@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d708eb0b-8be5-4cf6-a42d-adc0b9157323
+:END:
+#+TITLE: Yjfq Qkrujwds NV - 2010-5-8
+
+- wine :: [[id:efda30a1-2ceb-456b-9e69-8981d34ddad1][Yjfq Qkrujwds]]
+- date :: 2010-5-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

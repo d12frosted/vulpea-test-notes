@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ae8dbd7b-7f88-48ab-9e21-6f2a5d63c59b
+:END:
+#+TITLE: Scf Elpezclx Zgauljg 1954
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Zgauljg
+- vintage :: 1954
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.36
+- sugar :: 19.14
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     df93a6f7-39f5-4837-a8d5-38ed9de76ec7
+:END:
+#+TITLE: Cowhhax Upmqcgn Kfdpdy Itlmnrdw 1915
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Kfdpdy Itlmnrdw
+- vintage :: 1915
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 9.34
+- price :: 52.34 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:e6b804d0-2248-4d06-9618-13687bf9eaa5][Cowhhax Upmqcgn Kfdpdy Itlmnrdw 1915 - 2011-11-25]]
+
+

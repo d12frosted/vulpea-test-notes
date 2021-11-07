@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4b1e98c1-beb8-4d32-a04d-9308dd792967
+:END:
+#+TITLE: Yjfq Iam Xqgcor 1922 - 2022-5-26
+
+- wine :: [[id:88ba0803-7740-4370-8447-3776cdb415bd][Yjfq Iam Xqgcor 1922]]
+- date :: 2022-5-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

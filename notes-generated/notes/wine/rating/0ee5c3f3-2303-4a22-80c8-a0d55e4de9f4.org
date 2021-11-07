@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0ee5c3f3-2303-4a22-80c8-a0d55e4de9f4
+:END:
+#+TITLE: Yjfq Fzv Odfe NV - 2022-8-18
+
+- wine :: [[id:93b925a2-5731-4b97-8204-e464fdd606c3][Yjfq Fzv Odfe]]
+- date :: 2022-8-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

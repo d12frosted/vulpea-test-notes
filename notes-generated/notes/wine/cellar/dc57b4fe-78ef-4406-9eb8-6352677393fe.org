@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     dc57b4fe-78ef-4406-9eb8-6352677393fe
+:END:
+#+TITLE: Nhozxqe Aldl Ohde 1935
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ohde
+- vintage :: 1935
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.26
+- price :: 30.96 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 7.0
+- ratings :: [[id:e2fb903c-84fb-4f17-a43b-c2508eb5d870][Nhozxqe Aldl Ohde 1935 - 1999-5-27]]
+
+

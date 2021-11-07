@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7681ff76-c6f8-4c46-af55-31b26c1e90eb
+:END:
+#+TITLE: Yjfq Fubumvea NV - 2014-10-10
+
+- wine :: [[id:6e7b9ded-6772-4059-b5c7-c772883f894b][Yjfq Fubumvea]]
+- date :: 2014-10-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

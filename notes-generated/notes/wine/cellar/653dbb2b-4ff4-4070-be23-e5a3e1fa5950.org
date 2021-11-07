@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     653dbb2b-4ff4-4070-be23-e5a3e1fa5950
+:END:
+#+TITLE: Nhozxqe Aldl Whts Ikd 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Whts Ikd
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 11.46
+- price :: 37.37 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:f41bea19-7a79-442b-a765-dc90b19eb72c][Nhozxqe Aldl Whts Ikd NV - 1990-9-8]]
+
+

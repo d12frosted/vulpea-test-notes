@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     60f98882-4178-4767-b571-9a0636dcb18b
+:END:
+#+TITLE: Qay Jyn Yrkqg NV - 2018-7-17
+
+- wine :: [[id:d4d7c8e1-d0b3-4903-8260-15a50c0bcecb][Qay Jyn Yrkqg]]
+- date :: 2018-7-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

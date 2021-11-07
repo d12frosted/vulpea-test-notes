@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6bfe0357-b5c4-478a-ae98-e38bdf7f282e
+:END:
+#+TITLE: Scf Elpezclx Muglpmx Xrtqzahz 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Muglpmx Xrtqzahz
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.73
+- sugar :: 9.07
+- price :: 64.96 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

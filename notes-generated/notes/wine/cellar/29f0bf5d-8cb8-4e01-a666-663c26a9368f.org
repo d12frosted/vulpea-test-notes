@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     29f0bf5d-8cb8-4e01-a666-663c26a9368f
+:END:
+#+TITLE: Nhozxqe Aldl Tnwcamr Yzhb 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Tnwcamr Yzhb
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 9.79
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

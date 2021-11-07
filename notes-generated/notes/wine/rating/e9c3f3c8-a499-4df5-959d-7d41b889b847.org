@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e9c3f3c8-a499-4df5-959d-7d41b889b847
+:END:
+#+TITLE: Yokf Gwhwycw Btmdr NV - 2007-10-1
+
+- wine :: [[id:bdefeeae-47a2-43e5-8615-bc267ee27fd9][Yokf Gwhwycw Btmdr]]
+- date :: 2007-10-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

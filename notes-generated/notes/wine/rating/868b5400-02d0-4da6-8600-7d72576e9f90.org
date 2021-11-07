@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     868b5400-02d0-4da6-8600-7d72576e9f90
+:END:
+#+TITLE: Nhozxqe Aldl Gwct 1909 - 2007-8-9
+
+- wine :: [[id:5c460c14-db5b-4a67-b999-c7b3d3965956][Nhozxqe Aldl Gwct 1909]]
+- date :: 2007-8-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

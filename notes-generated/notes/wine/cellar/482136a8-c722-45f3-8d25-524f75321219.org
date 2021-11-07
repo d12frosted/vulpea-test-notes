@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     482136a8-c722-45f3-8d25-524f75321219
+:END:
+#+TITLE: Qay Srmw Ylidnw 1988
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Srmw Ylidnw
+- vintage :: 1988
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.79
+- price :: 18.05 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:b0da238d-ec66-401f-9ceb-374e42f28334][Qay Srmw Ylidnw 1988 - 2000-10-28]]
+
+

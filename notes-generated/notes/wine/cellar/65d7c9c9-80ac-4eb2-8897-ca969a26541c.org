@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     65d7c9c9-80ac-4eb2-8897-ca969a26541c
+:END:
+#+TITLE: Jjkswvm Rcm Figit 1956
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Figit
+- vintage :: 1956
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 9.77
+- sugar :: 2.25
+- price :: 26.90 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:0ccd668f-8a3a-4ff6-817e-49515c146c7f][Jjkswvm Rcm Figit 1956 - 2020-11-26]]
+
+

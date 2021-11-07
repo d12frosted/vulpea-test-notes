@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7f323cbe-a47e-4f1d-b9fc-0bed6c24a23b
+:END:
+#+TITLE: Nhozxqe Aldl Ewxnrkxt 1945
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ewxnrkxt
+- vintage :: 1945
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 12.5
+- sugar :: 11.79
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:ad42d92b-16cd-4d45-afc8-955d785d1c9f][Nhozxqe Aldl Ewxnrkxt 1945 - 1999-11-17]]
+
+

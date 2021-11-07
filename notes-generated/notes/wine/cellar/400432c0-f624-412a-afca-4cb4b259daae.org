@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     400432c0-f624-412a-afca-4cb4b259daae
+:END:
+#+TITLE: Lrwk Jbaxrmn Hcp Knm 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Hcp Knm
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 11.629999999999999
+- price :: 7.87 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:baf89f50-d468-4363-bee3-0154f8f1db2e][Lrwk Jbaxrmn Hcp Knm NV - 2015-12-16]]
+
+

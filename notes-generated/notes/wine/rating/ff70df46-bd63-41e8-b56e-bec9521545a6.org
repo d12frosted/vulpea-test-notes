@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ff70df46-bd63-41e8-b56e-bec9521545a6
+:END:
+#+TITLE: Nhozxqe Aldl Uvmzyqqy Cord NV - 2011-11-16
+
+- wine :: [[id:b8b8a4a1-2094-4880-88c2-98efd1aed434][Nhozxqe Aldl Uvmzyqqy Cord]]
+- date :: 2011-11-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

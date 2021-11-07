@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     233199e2-b550-449b-8d5d-d68c88482615
+:END:
+#+TITLE: Cowhhax Upmqcgn Dagcuw Funljz 1924
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Dagcuw Funljz
+- vintage :: 1924
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 13.35
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

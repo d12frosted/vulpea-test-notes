@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ee35388e-3573-4e89-b77c-cd76e2db5232
+:END:
+#+TITLE: Cowhhax Upmqcgn Acfflyi 1922
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Acfflyi
+- vintage :: 1922
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 10.33
+- sugar :: 7.65
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

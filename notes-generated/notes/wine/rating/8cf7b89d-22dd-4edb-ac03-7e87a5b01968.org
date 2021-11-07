@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8cf7b89d-22dd-4edb-ac03-7e87a5b01968
+:END:
+#+TITLE: Giih Udr Zchogrpc Gtwsc NV - 2016-9-9
+
+- wine :: [[id:6cd1adc7-c4e2-4622-a898-69c7fc1b1cdd][Giih Udr Zchogrpc Gtwsc]]
+- date :: 2016-9-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

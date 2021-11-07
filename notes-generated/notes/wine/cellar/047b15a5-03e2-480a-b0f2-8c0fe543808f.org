@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     047b15a5-03e2-480a-b0f2-8c0fe543808f
+:END:
+#+TITLE: Yokf Gwhwycw Qakiogf 1947
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Qakiogf
+- vintage :: 1947
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.59
+- sugar :: 7.09
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA
+
+

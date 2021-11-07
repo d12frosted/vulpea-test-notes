@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f8f6dd09-e1da-42f9-a675-21b9a5a1e9ea
+:END:
+#+TITLE: Cowhhax Upmqcgn Qckf Gbv 2015 - 2018-2-4
+
+- wine :: [[id:80192772-572e-4c5a-9499-6dd4b4bdd9b6][Cowhhax Upmqcgn Qckf Gbv 2015]]
+- date :: 2018-2-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

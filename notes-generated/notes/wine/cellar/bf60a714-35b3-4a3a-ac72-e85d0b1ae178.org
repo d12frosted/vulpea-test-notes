@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     bf60a714-35b3-4a3a-ac72-e85d0b1ae178
+:END:
+#+TITLE: Cowhhax Upmqcgn Jjuvsdgn 1904
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Jjuvsdgn
+- vintage :: 1904
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.37
+- sugar :: 13.4
+- price :: 6.47 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

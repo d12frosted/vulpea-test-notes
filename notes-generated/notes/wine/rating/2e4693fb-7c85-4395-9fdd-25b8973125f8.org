@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2e4693fb-7c85-4395-9fdd-25b8973125f8
+:END:
+#+TITLE: Jjkswvm Rcm Rdz Ptj NV - 2016-12-15
+
+- wine :: [[id:bc544df9-a0b5-4525-9bd6-bd7434718e9a][Jjkswvm Rcm Rdz Ptj]]
+- date :: 2016-12-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

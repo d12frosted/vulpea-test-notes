@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     49a30c92-fa7d-4738-b563-2b6e2bf6ec6c
+:END:
+#+TITLE: Jjkswvm Rcm Cdhsd 1941 - 2010-8-11
+
+- wine :: [[id:55040f56-99b3-418e-b7fd-a35b8a11a6e4][Jjkswvm Rcm Cdhsd 1941]]
+- date :: 2010-8-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

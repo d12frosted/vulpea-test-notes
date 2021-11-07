@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c06603e5-f126-4922-a8bf-042e73a25226
+:END:
+#+TITLE: Lrwk Jbaxrmn Jqahjzxr 1931 - 1995-5-9
+
+- wine :: [[id:cabcedb9-4145-49a2-966f-749dd13f37bc][Lrwk Jbaxrmn Jqahjzxr 1931]]
+- date :: 1995-5-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

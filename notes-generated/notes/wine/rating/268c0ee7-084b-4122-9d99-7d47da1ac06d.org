@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     268c0ee7-084b-4122-9d99-7d47da1ac06d
+:END:
+#+TITLE: Jjkswvm Rcm Ztpi NV - 2000-5-11
+
+- wine :: [[id:78e86a9c-5fca-422f-93a6-127c18d12ed5][Jjkswvm Rcm Ztpi]]
+- date :: 2000-5-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

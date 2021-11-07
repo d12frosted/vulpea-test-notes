@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     54266d68-42e2-46f0-901c-c6e1137021e3
+:END:
+#+TITLE: Lrwk Jbaxrmn Mdi 1993 - 2014-3-23
+
+- wine :: [[id:269d4cda-77b2-4873-a7e1-3c2774fa9dae][Lrwk Jbaxrmn Mdi 1993]]
+- date :: 2014-3-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

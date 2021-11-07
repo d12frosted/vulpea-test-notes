@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     eed6fb4a-0886-4070-a9f5-a2cbff7fe236
+:END:
+#+TITLE: Lrwk Jbaxrmn Baqfqqwo Gnewdab 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Baqfqqwo Gnewdab
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 9.58
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA
+
+

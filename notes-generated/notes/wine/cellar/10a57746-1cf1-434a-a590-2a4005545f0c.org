@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     10a57746-1cf1-434a-a590-2a4005545f0c
+:END:
+#+TITLE: Lrwk Jbaxrmn Qibsvpa 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qibsvpa
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 12.09
+- sugar :: 0.74
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

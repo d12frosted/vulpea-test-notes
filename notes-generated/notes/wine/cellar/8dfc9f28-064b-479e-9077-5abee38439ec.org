@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8dfc9f28-064b-479e-9077-5abee38439ec
+:END:
+#+TITLE: Lrwk Jbaxrmn Wwttvsdj Otvf 1977
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Wwttvsdj Otvf
+- vintage :: 1977
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 13.27
+- sugar :: 2.34
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:01e840c4-4d8b-4d5c-88af-e3034db66280][Lrwk Jbaxrmn Wwttvsdj Otvf 1977 - 2001-12-15]]
+
+

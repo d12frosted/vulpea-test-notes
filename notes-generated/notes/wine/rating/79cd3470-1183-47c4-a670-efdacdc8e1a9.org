@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     79cd3470-1183-47c4-a670-efdacdc8e1a9
+:END:
+#+TITLE: Yokf Gwhwycw Dunl 1956 - 2000-5-8
+
+- wine :: [[id:7d5a44ee-9f54-46d1-ac31-e305a9de6fec][Yokf Gwhwycw Dunl 1956]]
+- date :: 2000-5-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

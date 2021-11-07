@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     66103fea-256a-4b19-a369-f5426298898b
+:END:
+#+TITLE: Ecxknc Iepvhans Ckjq Taluoqmh 1905
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ckjq Taluoqmh
+- vintage :: 1905
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.06
+- sugar :: 22.76
+- price :: 73.73 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:eb1ff08c-bb9f-4d09-8715-93685f393082][Ecxknc Iepvhans Ckjq Taluoqmh 1905 - 2017-4-5]]
+
+

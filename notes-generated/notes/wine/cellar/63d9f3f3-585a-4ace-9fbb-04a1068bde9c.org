@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     63d9f3f3-585a-4ace-9fbb-04a1068bde9c
+:END:
+#+TITLE: Cowhhax Upmqcgn Kgwxc 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Kgwxc
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.73
+- sugar :: 4.95
+- price :: 48.91 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:8d6dd91d-12f2-4fb0-8381-52050c8de002][Cowhhax Upmqcgn Kgwxc NV - 2002-5-22]]
+
+

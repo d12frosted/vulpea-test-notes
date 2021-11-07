@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     568a4fb4-5707-4ff9-8ecc-aa92b5bcdd1d
+:END:
+#+TITLE: Scf Elpezclx Aehh Vgfobkje NV - 1999-4-16
+
+- wine :: [[id:7efca9b9-4eab-403e-aa26-a5fa86debd1b][Scf Elpezclx Aehh Vgfobkje]]
+- date :: 1999-4-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

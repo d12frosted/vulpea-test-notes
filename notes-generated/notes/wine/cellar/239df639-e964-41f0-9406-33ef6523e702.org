@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     239df639-e964-41f0-9406-33ef6523e702
+:END:
+#+TITLE: Cowhhax Upmqcgn Swexnj Grosfl 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Swexnj Grosfl
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 10.95
+- sugar :: 18.87
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 2.5
+- ratings :: [[id:58f7f3e6-1807-4120-a278-c685c13c2161][Cowhhax Upmqcgn Swexnj Grosfl NV - 1992-11-22]]
+
+

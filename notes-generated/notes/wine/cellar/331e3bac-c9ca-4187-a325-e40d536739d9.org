@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     331e3bac-c9ca-4187-a325-e40d536739d9
+:END:
+#+TITLE: Lrwk Jbaxrmn Dflvhh 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Dflvhh
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 9.87
+- sugar :: 7.61
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:94fc5e86-c1c1-4a90-9995-88e45209c7c9][Lrwk Jbaxrmn Dflvhh NV - 2017-4-25]]
+
+

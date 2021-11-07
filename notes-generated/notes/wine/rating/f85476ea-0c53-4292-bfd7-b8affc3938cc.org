@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f85476ea-0c53-4292-bfd7-b8affc3938cc
+:END:
+#+TITLE: Nhozxqe Aldl Zudpzdo Woqi 2015 - 2018-3-15
+
+- wine :: [[id:08d91d0d-72fd-4514-822e-0c409663256c][Nhozxqe Aldl Zudpzdo Woqi 2015]]
+- date :: 2018-3-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

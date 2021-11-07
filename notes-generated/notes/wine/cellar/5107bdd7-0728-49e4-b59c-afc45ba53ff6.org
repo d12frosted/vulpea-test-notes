@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     5107bdd7-0728-49e4-b59c-afc45ba53ff6
+:END:
+#+TITLE: Yokf Gwhwycw Gtz 1999
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Gtz
+- vintage :: 1999
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 9.52
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

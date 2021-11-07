@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     8048c016-01fb-4764-a64a-3f58c4f94b46
+:END:
+#+TITLE: Ecxknc Iepvhans Wmw 1973
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Wmw
+- vintage :: 1973
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.94
+- sugar :: 17.52
+- price :: 32.33 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:889df987-8487-4eb3-a4ca-eb97e9e4af15][Ecxknc Iepvhans Wmw 1973 - 1993-6-22]]
+
+

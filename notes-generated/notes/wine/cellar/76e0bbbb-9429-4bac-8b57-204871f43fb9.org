@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     76e0bbbb-9429-4bac-8b57-204871f43fb9
+:END:
+#+TITLE: Qay Ewle Fxtwlo 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ewle Fxtwlo
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 12.75
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     fceb399a-20c8-41df-b8ca-7014111217c6
+:END:
+#+TITLE: Qay Uyxgdla 2014
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Uyxgdla
+- vintage :: 2014
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.64
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:221441da-2f06-45ef-8157-5900002c742e][Qay Uyxgdla 2014 - 1997-12-27]]
+
+

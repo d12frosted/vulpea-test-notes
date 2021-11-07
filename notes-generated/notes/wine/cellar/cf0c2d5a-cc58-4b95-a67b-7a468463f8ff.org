@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     cf0c2d5a-cc58-4b95-a67b-7a468463f8ff
+:END:
+#+TITLE: Jjkswvm Rcm Qveaap 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qveaap
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 10.3
+- sugar :: 18.83
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: wikipedia
+- rating :: 7.5
+- ratings :: [[id:5f2f2b13-04e0-4d60-9bbe-02b8779aede0][Jjkswvm Rcm Qveaap NV - 2014-4-11]]
+
+

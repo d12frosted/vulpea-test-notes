@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     69cff724-e3d2-4103-ac20-4a771b75048b
+:END:
+#+TITLE: Lrwk Jbaxrmn Ndcdnb 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ndcdnb
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 12.379999999999999
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

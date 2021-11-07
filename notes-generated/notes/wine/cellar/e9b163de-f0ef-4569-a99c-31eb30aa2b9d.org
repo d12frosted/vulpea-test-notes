@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e9b163de-f0ef-4569-a99c-31eb30aa2b9d
+:END:
+#+TITLE: Nhozxqe Aldl Yxkhd Unzvecl 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Yxkhd Unzvecl
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.71
+- sugar :: 8.88
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 7.5
+- ratings :: [[id:a65f7213-5905-4c17-9851-29ee68d7a4ce][Nhozxqe Aldl Yxkhd Unzvecl NV - 1999-5-14]]
+
+

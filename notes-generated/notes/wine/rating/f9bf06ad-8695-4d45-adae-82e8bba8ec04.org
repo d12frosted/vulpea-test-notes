@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f9bf06ad-8695-4d45-adae-82e8bba8ec04
+:END:
+#+TITLE: Nhozxqe Aldl Tdobqet 1975 - 2023-8-13
+
+- wine :: [[id:fa8eb92e-d982-46e9-915a-8beab16d1453][Nhozxqe Aldl Tdobqet 1975]]
+- date :: 2023-8-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     aee8f351-d286-47c8-864c-c4154dd025f0
+:END:
+#+TITLE: Jjkswvm Rcm Yzxa Ajqethg 1938 - 1990-10-5
+
+- wine :: [[id:7771cbff-7fa5-46ab-996b-f191ced085f5][Jjkswvm Rcm Yzxa Ajqethg 1938]]
+- date :: 1990-10-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     53255df0-ef23-4294-ad5b-9f1975cd1881
+:END:
+#+TITLE: Giih Udr Avpzeo 1996
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Avpzeo
+- vintage :: 1996
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 12.76
+- price :: 52.09 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:bcffce3d-27f5-44ce-a626-61a689280154][Giih Udr Avpzeo 1996 - 1997-6-10]]
+
+

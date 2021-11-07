@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3e1f8862-bbe0-4adb-8bf9-f632543a5450
+:END:
+#+TITLE: Cowhhax Upmqcgn Psngqulm 1966 - 2000-10-10
+
+- wine :: [[id:cb17c0b1-29c7-4d40-8ac9-cf79f8fb1348][Cowhhax Upmqcgn Psngqulm 1966]]
+- date :: 2000-10-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

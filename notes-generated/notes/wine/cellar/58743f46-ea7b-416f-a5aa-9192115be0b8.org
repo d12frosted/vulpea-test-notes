@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     58743f46-ea7b-416f-a5aa-9192115be0b8
+:END:
+#+TITLE: Qay Etyqmbry 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Etyqmbry
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.120000000000001
+- price :: 49.18 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: duckduckgo
+- rating :: NA
+
+

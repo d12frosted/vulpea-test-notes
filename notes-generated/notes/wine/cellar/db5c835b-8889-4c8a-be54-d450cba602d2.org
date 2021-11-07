@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     db5c835b-8889-4c8a-be54-d450cba602d2
+:END:
+#+TITLE: Scf Elpezclx Fmhu Ratjgpn 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Fmhu Ratjgpn
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 10.27
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 3.5
+- ratings :: [[id:dcb49830-271a-4ee5-8956-165daa9a89a4][Scf Elpezclx Fmhu Ratjgpn NV - 2004-12-26]]
+
+

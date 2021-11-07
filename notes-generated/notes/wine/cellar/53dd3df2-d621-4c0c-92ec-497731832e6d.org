@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     53dd3df2-d621-4c0c-92ec-497731832e6d
+:END:
+#+TITLE: Qay Kklqq 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Kklqq
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.83
+- price :: 48.35 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

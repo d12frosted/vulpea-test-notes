@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     451c2a52-f0f0-4f1f-a275-4fdba461163e
+:END:
+#+TITLE: Yjfq Rsbmyl 1976 - 2004-11-17
+
+- wine :: [[id:7eb690e4-8c32-447c-bc66-0318b7edef71][Yjfq Rsbmyl 1976]]
+- date :: 2004-11-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

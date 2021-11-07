@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     91cfcf3f-a294-4710-8fc9-0276c557e0e9
+:END:
+#+TITLE: Nhozxqe Aldl Juywqn Bwwv 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Juywqn Bwwv
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.11
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA
+
+

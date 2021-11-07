@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     75cf660e-fb55-43bd-889e-84f9b3c22168
+:END:
+#+TITLE: Jjkswvm Rcm Manwzpp 1928
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Manwzpp
+- vintage :: 1928
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.440000000000001
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: wikipedia
+- rating :: NA
+
+

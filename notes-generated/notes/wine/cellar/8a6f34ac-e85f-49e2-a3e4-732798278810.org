@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8a6f34ac-e85f-49e2-a3e4-732798278810
+:END:
+#+TITLE: Cowhhax Upmqcgn Xoksk 2010
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Xoksk
+- vintage :: 2010
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.559999999999999
+- sugar :: 4.64
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 7.5
+- ratings :: [[id:04ad5502-e1f1-4ba3-bcec-f232f02ef4e7][Cowhhax Upmqcgn Xoksk 2010 - 2012-11-3]]
+
+

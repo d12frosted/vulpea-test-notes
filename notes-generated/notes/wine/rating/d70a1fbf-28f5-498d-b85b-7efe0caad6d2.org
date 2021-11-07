@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d70a1fbf-28f5-498d-b85b-7efe0caad6d2
+:END:
+#+TITLE: Lrwk Jbaxrmn Jmzcrw 2019 - 2014-7-2
+
+- wine :: [[id:d4b64564-1735-4e01-852a-bf160a1e92ff][Lrwk Jbaxrmn Jmzcrw 2019]]
+- date :: 2014-7-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0757e4f6-a558-4389-b2f9-938fd73d4806
+:END:
+#+TITLE: Lrwk Jbaxrmn Mzfqaco NV - 2016-10-12
+
+- wine :: [[id:7e3d95e3-0abc-4461-85a4-0eddfec03e8c][Lrwk Jbaxrmn Mzfqaco]]
+- date :: 2016-10-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

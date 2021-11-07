@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     ebdf272c-7a3d-4997-922a-44ee6343ad24
+:END:
+#+TITLE: Giih Udr Rfedoxga Byoaw 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Rfedoxga Byoaw
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.99
+- price :: 52.35 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

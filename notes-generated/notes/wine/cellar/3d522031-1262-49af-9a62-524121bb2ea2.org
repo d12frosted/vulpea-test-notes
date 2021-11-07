@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3d522031-1262-49af-9a62-524121bb2ea2
+:END:
+#+TITLE: Scf Elpezclx Iaoaq 1936
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Iaoaq
+- vintage :: 1936
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 11.1
+- price :: 35.66 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

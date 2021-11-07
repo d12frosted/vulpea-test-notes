@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     aea902d2-0e15-4b38-b05b-b7e261a5133e
+:END:
+#+TITLE: Yokf Gwhwycw Nnbmgewp Pjcijct 1960
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Nnbmgewp Pjcijct
+- vintage :: 1960
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 12.27
+- price :: 73.46 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:59dc4c06-400d-406d-9e1d-fabfc3ca4d84][Yokf Gwhwycw Nnbmgewp Pjcijct 1960 - 1990-2-24]]
+
+

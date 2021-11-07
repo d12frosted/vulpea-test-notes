@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7fd5122d-0ce1-49d4-b605-bcc3666a0751
+:END:
+#+TITLE: Qay Ovjbbb 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ovjbbb
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 11.04
+- sugar :: 7.31
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:6f08f318-4ba0-484e-b1d7-dd41fd34d6ea][Qay Ovjbbb NV - 2017-8-26]]
+
+

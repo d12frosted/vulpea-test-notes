@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1a8f3ec0-e4ea-4681-8ce5-f606bff3b319
+:END:
+#+TITLE: Yokf Gwhwycw Jxx 1933
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Jxx
+- vintage :: 1933
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.23
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: 4.0
+- ratings :: [[id:922fa79a-a48d-4060-a4d0-1cf97b982e77][Yokf Gwhwycw Jxx 1933 - 2022-10-22]]
+
+

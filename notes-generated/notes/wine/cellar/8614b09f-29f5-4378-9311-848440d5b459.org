@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     8614b09f-29f5-4378-9311-848440d5b459
+:END:
+#+TITLE: Giih Udr Ledmobql Vmazup 1935
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ledmobql Vmazup
+- vintage :: 1935
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.09
+- sugar :: 1.52
+- price :: 42.66 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:fd8f7c9f-1dc1-4fdc-96de-87e2189a2d84][Giih Udr Ledmobql Vmazup 1935 - 2016-8-8]]
+
+

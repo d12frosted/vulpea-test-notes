@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1d5c8a3b-7989-41a0-b242-7edc2cee96a0
+:END:
+#+TITLE: Giih Udr Fiamjmys 1935
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Fiamjmys
+- vintage :: 1935
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 11.31
+- sugar :: 1.64
+- price :: 3.95 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

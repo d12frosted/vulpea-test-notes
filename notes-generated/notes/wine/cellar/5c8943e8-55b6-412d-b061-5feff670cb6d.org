@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     5c8943e8-55b6-412d-b061-5feff670cb6d
+:END:
+#+TITLE: Qay Bvcip 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Bvcip
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 9.26
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA
+
+

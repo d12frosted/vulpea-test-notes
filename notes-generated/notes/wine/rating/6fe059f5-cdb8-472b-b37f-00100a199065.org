@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6fe059f5-cdb8-472b-b37f-00100a199065
+:END:
+#+TITLE: Jjkswvm Rcm Ncwzdw NV - 2016-9-16
+
+- wine :: [[id:015f14c7-b802-4510-b3e2-d013c5a484ee][Jjkswvm Rcm Ncwzdw]]
+- date :: 2016-9-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

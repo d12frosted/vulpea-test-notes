@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1066476c-59d8-4a77-ad91-507d6215fb3f
+:END:
+#+TITLE: Nhozxqe Aldl Vrl Ojzjfw 1995
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Vrl Ojzjfw
+- vintage :: 1995
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 11.27
+- price :: 70.31 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA
+
+

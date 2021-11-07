@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     2254abb9-ba9e-4e41-8c42-6b40aa94417d
+:END:
+#+TITLE: Lrwk Jbaxrmn Qui Admt 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qui Admt
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 13.129999999999999
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA
+
+

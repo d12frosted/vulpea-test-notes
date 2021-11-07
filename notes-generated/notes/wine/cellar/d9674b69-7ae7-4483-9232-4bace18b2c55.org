@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d9674b69-7ae7-4483-9232-4bace18b2c55
+:END:
+#+TITLE: Yokf Gwhwycw Vir 1903
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vir
+- vintage :: 1903
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.370000000000001
+- sugar :: 9.84
+- price :: 11.24 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: wikipedia
+- rating :: NA
+
+

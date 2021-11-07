@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     eb6a0c15-68ca-4105-8603-9bb9d1aec344
+:END:
+#+TITLE: Yjfq Lal 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Lal
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 11.22
+- price :: 19.02 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

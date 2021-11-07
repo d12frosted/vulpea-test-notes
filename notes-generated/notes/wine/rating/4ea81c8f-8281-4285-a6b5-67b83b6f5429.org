@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4ea81c8f-8281-4285-a6b5-67b83b6f5429
+:END:
+#+TITLE: Giih Udr Curg NV - 1999-8-19
+
+- wine :: [[id:5fe26e2b-fb97-4e7b-b9c2-159ad8f5b755][Giih Udr Curg]]
+- date :: 1999-8-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

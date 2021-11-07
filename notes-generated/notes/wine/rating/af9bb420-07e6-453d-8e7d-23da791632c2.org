@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     af9bb420-07e6-453d-8e7d-23da791632c2
+:END:
+#+TITLE: Cowhhax Upmqcgn Mzy NV - 2013-1-21
+
+- wine :: [[id:9aaf07b8-52e6-41a6-a1bf-29982c1974c4][Cowhhax Upmqcgn Mzy]]
+- date :: 2013-1-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

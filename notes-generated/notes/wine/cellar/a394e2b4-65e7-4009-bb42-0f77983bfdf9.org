@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a394e2b4-65e7-4009-bb42-0f77983bfdf9
+:END:
+#+TITLE: Lrwk Jbaxrmn Hnsqi 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Hnsqi
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 12.52
+- sugar :: 14.42
+- price :: 48.12 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:c2863769-3433-42b6-a7fa-57a559195321][Lrwk Jbaxrmn Hnsqi NV - 2006-2-23]]
+
+

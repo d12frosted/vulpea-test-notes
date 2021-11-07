@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e7e82e61-46ed-46ae-b13a-d80b1c070f3f
+:END:
+#+TITLE: Ecxknc Iepvhans Kpmfiqo 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Kpmfiqo
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 12.77
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:ac35fd07-3a8c-42ec-af7d-c48cde544013][Ecxknc Iepvhans Kpmfiqo NV - 2014-12-3]]
+
+

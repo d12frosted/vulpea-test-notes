@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7e4bf8d4-8456-41cf-a19a-943529f2a6a5
+:END:
+#+TITLE: Nhozxqe Aldl Atyfb Ffpzngm 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Atyfb Ffpzngm
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.629999999999999
+- sugar :: 19.21
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:024f544e-ea74-4e20-92f5-379e5e4b5354][Nhozxqe Aldl Atyfb Ffpzngm NV - 2013-3-14]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     edb106e7-d532-4761-9bd3-d5b3f1ff9bf1
+:END:
+#+TITLE: Jjkswvm Rcm Wrxib 1943
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Wrxib
+- vintage :: 1943
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.99
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA
+
+

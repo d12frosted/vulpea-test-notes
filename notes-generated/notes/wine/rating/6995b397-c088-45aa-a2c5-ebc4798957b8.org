@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6995b397-c088-45aa-a2c5-ebc4798957b8
+:END:
+#+TITLE: Scf Elpezclx Rurcz NV - 1996-6-13
+
+- wine :: [[id:c543cfea-ebf3-4e9d-9a8b-04c2d3d18ee3][Scf Elpezclx Rurcz]]
+- date :: 1996-6-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

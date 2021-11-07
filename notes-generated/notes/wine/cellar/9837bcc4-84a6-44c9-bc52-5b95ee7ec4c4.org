@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     9837bcc4-84a6-44c9-bc52-5b95ee7ec4c4
+:END:
+#+TITLE: Qay Cyqgy Ektj 1956
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Cyqgy Ektj
+- vintage :: 1956
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.43
+- price :: 61.89 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 7.0
+- ratings :: [[id:8b3b93c7-ceeb-46c5-9d5c-75ad92c2f106][Qay Cyqgy Ektj 1956 - 2019-7-23]]
+
+

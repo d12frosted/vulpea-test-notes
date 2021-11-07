@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     475fd2d9-b207-44b4-b044-4c20c03b98a4
+:END:
+#+TITLE: Ecxknc Iepvhans Dllwxb 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Dllwxb
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 11.32
+- price :: 55.48 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

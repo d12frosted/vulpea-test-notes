@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2a6cc06b-7ba3-479f-aa3d-b3f6b4469c7a
+:END:
+#+TITLE: Scf Elpezclx Rucvws NV - 1999-5-10
+
+- wine :: [[id:957bf6b2-d157-4033-bc96-0bcda54f79f1][Scf Elpezclx Rucvws]]
+- date :: 1999-5-10
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dbe6bf74-178c-47b9-bb10-4143a5b00796
+:END:
+#+TITLE: Jjkswvm Rcm Iihiamg Cpyalxfo 1927 - 1990-4-15
+
+- wine :: [[id:ed448484-7191-4be6-bb2b-ed3657ad400d][Jjkswvm Rcm Iihiamg Cpyalxfo 1927]]
+- date :: 1990-4-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

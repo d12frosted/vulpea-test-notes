@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     57153dbd-2ff7-4c4c-9702-851f4617026f
+:END:
+#+TITLE: Yjfq Nyujwc 1938
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Nyujwc
+- vintage :: 1938
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.879999999999999
+- price :: 41.19 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.0
+- ratings :: [[id:5fcd15e4-df0c-43f0-90a3-02e5be2fa932][Yjfq Nyujwc 1938 - 2015-1-3]]
+
+

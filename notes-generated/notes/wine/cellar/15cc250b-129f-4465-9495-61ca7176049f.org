@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     15cc250b-129f-4465-9495-61ca7176049f
+:END:
+#+TITLE: Yjfq Zswobf 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Zswobf
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.059999999999999
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:d2127473-e410-4aad-bda0-855302470138][Yjfq Zswobf NV - 2009-1-2]]
+
+

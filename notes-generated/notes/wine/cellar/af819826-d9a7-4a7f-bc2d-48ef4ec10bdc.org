@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     af819826-d9a7-4a7f-bc2d-48ef4ec10bdc
+:END:
+#+TITLE: Giih Udr Klw 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Klw
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.79
+- sugar :: 17.88
+- price :: 77.74 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA
+
+

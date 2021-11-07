@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9562ab29-8817-4aa6-ac6f-da960a78e895
+:END:
+#+TITLE: Yokf Gwhwycw Vunr 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vunr
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 11.53
+- sugar :: 1.86
+- price :: 65.02 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.0
+- ratings :: [[id:79ea5373-b715-4b76-83c5-1948548882cb][Yokf Gwhwycw Vunr NV - 2020-4-6]]
+
+

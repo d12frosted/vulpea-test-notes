@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f4519fa4-f974-4436-bd2e-2b41f4c834f4
+:END:
+#+TITLE: Yjfq Rbkmc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Rbkmc
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 10.33
+- sugar :: 16.94
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA
+
+

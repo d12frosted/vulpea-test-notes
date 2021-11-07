@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9ef165c7-3abd-40a2-94ca-90a937696380
+:END:
+#+TITLE: Scf Elpezclx Dtwo Ozlualrv 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Dtwo Ozlualrv
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.23
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: duckduckgo
+- rating :: 0.5
+- ratings :: [[id:12ea2f6f-fa62-44c1-856b-298fbea1755a][Scf Elpezclx Dtwo Ozlualrv NV - 1995-4-9]]
+
+

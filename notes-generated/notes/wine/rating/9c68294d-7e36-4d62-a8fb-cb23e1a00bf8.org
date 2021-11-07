@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9c68294d-7e36-4d62-a8fb-cb23e1a00bf8
+:END:
+#+TITLE: Giih Udr Aupdj Xnbzu 1922 - 2009-10-1
+
+- wine :: [[id:6a9f7c7a-0f7b-4540-9a38-f340ebf6d4d9][Giih Udr Aupdj Xnbzu 1922]]
+- date :: 2009-10-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a9d3a5a7-66e1-4150-8327-eaf9507df408
+:END:
+#+TITLE: Yjfq Qmxs Jtpckyk 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Qmxs Jtpckyk
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 11.120000000000001
+- sugar :: 21.99
+- price :: 12.66 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1bf60677-17f3-4a73-9089-09504a8f9b54
+:END:
+#+TITLE: Lrwk Jbaxrmn Anv Kqow 1989
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Anv Kqow
+- vintage :: 1989
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 10.7
+- sugar :: 8.09
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

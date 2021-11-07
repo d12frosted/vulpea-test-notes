@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     eba07c3d-fe0a-4096-91fa-90e2679b4ee0
+:END:
+#+TITLE: Yokf Gwhwycw Vhvi Afhchnjm 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vhvi Afhchnjm
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 10.6
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 7.5
+- ratings :: [[id:1e80f77d-85e4-4caa-aff7-d31952eba4a1][Yokf Gwhwycw Vhvi Afhchnjm NV - 1997-1-7]]
+
+

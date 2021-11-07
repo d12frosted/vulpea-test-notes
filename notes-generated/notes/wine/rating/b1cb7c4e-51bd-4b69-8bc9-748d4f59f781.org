@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b1cb7c4e-51bd-4b69-8bc9-748d4f59f781
+:END:
+#+TITLE: Lrwk Jbaxrmn Exjkvl NV - 2023-7-23
+
+- wine :: [[id:ae3baa9b-ca5e-4a62-891c-96a381990c99][Lrwk Jbaxrmn Exjkvl]]
+- date :: 2023-7-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

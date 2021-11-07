@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     bd1f325f-ec35-42c9-a299-76c1cf5552c2
+:END:
+#+TITLE: Scf Elpezclx Hti Hmd 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Hti Hmd
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 9.28
+- price :: 73.18 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     158506f2-56fe-457b-8b3c-a99e0ba49776
+:END:
+#+TITLE: Jjkswvm Rcm Ulj 2015
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ulj
+- vintage :: 2015
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.56
+- price :: 38.84 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:60469f0b-50f6-4632-8771-27f1392b649f][Jjkswvm Rcm Ulj 2015 - 2005-5-8]]
+
+

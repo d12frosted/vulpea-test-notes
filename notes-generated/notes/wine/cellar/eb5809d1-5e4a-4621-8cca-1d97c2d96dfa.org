@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     eb5809d1-5e4a-4621-8cca-1d97c2d96dfa
+:END:
+#+TITLE: Giih Udr Lpmsk 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Lpmsk
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.79
+- sugar :: 19.25
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.5
+- ratings :: [[id:8418e955-372d-46c6-96c3-bae380d167b6][Giih Udr Lpmsk NV - 2002-2-2]]
+
+

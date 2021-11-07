@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     952b9bdc-d1fe-4a7a-b231-3fb349c4dc04
+:END:
+#+TITLE: Nhozxqe Aldl Vrmrldtz 1969
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Vrmrldtz
+- vintage :: 1969
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 10.67
+- sugar :: 4.36
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.0
+- ratings :: [[id:58b137b6-0c09-4fe7-b141-4a716566ace6][Nhozxqe Aldl Vrmrldtz 1969 - 2017-10-4]]
+
+

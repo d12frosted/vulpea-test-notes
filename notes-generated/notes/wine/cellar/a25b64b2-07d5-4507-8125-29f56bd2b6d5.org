@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     a25b64b2-07d5-4507-8125-29f56bd2b6d5
+:END:
+#+TITLE: Giih Udr Wgjay 1969
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Wgjay
+- vintage :: 1969
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 9.05
+- price :: 47.85 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

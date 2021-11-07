@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b756e7a1-c8e2-42ee-a23d-8553512a0062
+:END:
+#+TITLE: Cowhhax Upmqcgn Vwvgvd 1970
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Vwvgvd
+- vintage :: 1970
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 11.18
+- sugar :: 3.96
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:8cbdb92e-21e9-4010-be3e-236bfb2124f6][Cowhhax Upmqcgn Vwvgvd 1970 - 1991-7-10]]
+
+

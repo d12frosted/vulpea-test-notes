@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f58f35b6-116e-4443-b1a4-3ea85c28748d
+:END:
+#+TITLE: Yokf Gwhwycw Zhlvbwu 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Zhlvbwu
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 13.030000000000001
+- sugar :: 13.32
+- price :: 78.80 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:0cd3c035-76c5-476f-a11d-6e7960f08b7a][Yokf Gwhwycw Zhlvbwu NV - 1992-4-14]]
+
+

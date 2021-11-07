@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a65f7213-5905-4c17-9851-29ee68d7a4ce
+:END:
+#+TITLE: Nhozxqe Aldl Yxkhd Unzvecl NV - 1999-5-14
+
+- wine :: [[id:e9b163de-f0ef-4569-a99c-31eb30aa2b9d][Nhozxqe Aldl Yxkhd Unzvecl]]
+- date :: 1999-5-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

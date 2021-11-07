@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a1a1e64b-ec0c-44de-ba55-863f82ae486d
+:END:
+#+TITLE: Yjfq Ksyyzxc NV - 2022-1-21
+
+- wine :: [[id:36e414da-de23-4104-92e5-c57462d08598][Yjfq Ksyyzxc]]
+- date :: 2022-1-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

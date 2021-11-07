@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     49e01014-b0b2-49d8-8bd0-023bea1ab00c
+:END:
+#+TITLE: Jjkswvm Rcm Igga Nih NV - 2007-10-10
+
+- wine :: [[id:de3ce8cd-eb7a-4a27-a0ad-6b63fbfe0bdb][Jjkswvm Rcm Igga Nih]]
+- date :: 2007-10-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d7643e5c-9f48-451b-9e95-6130fdd788f9
+:END:
+#+TITLE: Lrwk Jbaxrmn Hgxyrpr Ovkppvmw 2008 - 2022-8-3
+
+- wine :: [[id:9c0fe951-d8f4-438a-b6da-b3d120269bdc][Lrwk Jbaxrmn Hgxyrpr Ovkppvmw 2008]]
+- date :: 2022-8-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

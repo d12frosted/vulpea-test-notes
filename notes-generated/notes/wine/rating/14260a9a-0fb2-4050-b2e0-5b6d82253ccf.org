@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     14260a9a-0fb2-4050-b2e0-5b6d82253ccf
+:END:
+#+TITLE: Lrwk Jbaxrmn Mjyw NV - 2015-11-13
+
+- wine :: [[id:450bcc3c-0afb-48ca-a9f0-c4f19ee8b3ca][Lrwk Jbaxrmn Mjyw]]
+- date :: 2015-11-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

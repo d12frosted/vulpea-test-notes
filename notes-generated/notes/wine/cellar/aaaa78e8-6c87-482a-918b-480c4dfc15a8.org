@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     aaaa78e8-6c87-482a-918b-480c4dfc15a8
+:END:
+#+TITLE: Cowhhax Upmqcgn Yrhlpf 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Yrhlpf
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 9.14
+- price :: 75.59 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:fd993d3d-50a2-4071-93fe-30441fc6292e][Cowhhax Upmqcgn Yrhlpf NV - 2017-4-14]]
+
+

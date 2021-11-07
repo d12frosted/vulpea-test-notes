@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6ff1561b-3b2f-45eb-a83b-e686c27fa732
+:END:
+#+TITLE: Yjfq Zoa Mcumvs 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Zoa Mcumvs
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.11
+- price :: 81.59 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:4d0dc2cc-c038-4f0d-b039-bb034f4f424a][Yjfq Zoa Mcumvs NV - 2018-11-28]]
+
+

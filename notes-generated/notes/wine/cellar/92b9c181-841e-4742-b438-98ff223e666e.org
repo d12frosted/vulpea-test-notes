@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     92b9c181-841e-4742-b438-98ff223e666e
+:END:
+#+TITLE: Lrwk Jbaxrmn Ajlxir Dkdflaqv 1938
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ajlxir Dkdflaqv
+- vintage :: 1938
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.21
+- sugar :: 10.12
+- price :: 101.69 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a65b8b3d-c79e-458a-8f4e-c1662b5353d7
+:END:
+#+TITLE: Nhozxqe Aldl Djz Qrxnz 1912 - 2020-5-13
+
+- wine :: [[id:6375a588-a900-4bd3-ad1c-79f0eb4c81f8][Nhozxqe Aldl Djz Qrxnz 1912]]
+- date :: 2020-5-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

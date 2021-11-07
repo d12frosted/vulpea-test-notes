@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     e79bb1ac-8144-4e96-bcd3-686623994b08
+:END:
+#+TITLE: Qay Cfsr Hkiodwii 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Cfsr Hkiodwii
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 10.36
+- sugar :: 15.69
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

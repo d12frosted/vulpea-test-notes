@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     d49080d9-4623-49c8-b0ea-8c783393f6d8
+:END:
+#+TITLE: Jjkswvm Rcm Tlblz 2008
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Tlblz
+- vintage :: 2008
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.52
+- sugar :: 3.14
+- price :: 62.52 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:0a6c04ff-4c33-42eb-b143-621075236026][Jjkswvm Rcm Tlblz 2008 - 2001-1-28]]
+
+

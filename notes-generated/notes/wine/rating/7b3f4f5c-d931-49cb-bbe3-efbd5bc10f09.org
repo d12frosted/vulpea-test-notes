@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7b3f4f5c-d931-49cb-bbe3-efbd5bc10f09
+:END:
+#+TITLE: Yokf Gwhwycw Sxuz Inv 1985 - 2011-4-3
+
+- wine :: [[id:b5ac4fea-b419-4096-a2df-4584d6fb5a98][Yokf Gwhwycw Sxuz Inv 1985]]
+- date :: 2011-4-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

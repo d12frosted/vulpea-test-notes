@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     943d1f8c-48b7-4024-b15c-620a97c0afa0
+:END:
+#+TITLE: Yjfq Cbv NV - 1998-1-11
+
+- wine :: [[id:7222c1a0-aa05-4c59-841c-0ab20732c2aa][Yjfq Cbv]]
+- date :: 1998-1-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     316a4264-5073-43e8-8393-3bb3639bb2cf
+:END:
+#+TITLE: Jjkswvm Rcm Rrgp 2003
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Rrgp
+- vintage :: 2003
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 9.13
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA
+
+

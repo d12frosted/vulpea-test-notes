@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     caa0a0ba-9d0e-4390-916e-62b217c44dce
+:END:
+#+TITLE: Nhozxqe Aldl Avtjvv 2018
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Avtjvv
+- vintage :: 2018
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.32
+- sugar :: 6.3
+- price :: 89.10 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:434f110b-84ea-4984-a7a5-c6ee1597840e][Nhozxqe Aldl Avtjvv 2018 - 1995-8-10]]
+
+

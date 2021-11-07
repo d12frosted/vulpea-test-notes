@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d8504fc5-8b21-4070-bde2-f011075a4f9e
+:END:
+#+TITLE: Qay Kwgnjf 1994
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Kwgnjf
+- vintage :: 1994
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 9.93
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.5
+- ratings :: [[id:18b3a824-ecfe-4e16-8ddf-ccb97decbd48][Qay Kwgnjf 1994 - 1994-12-26]]
+
+

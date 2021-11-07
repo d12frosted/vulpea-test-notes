@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1d5ed7b7-4c25-455e-bc19-f7e8b98c4648
+:END:
+#+TITLE: Ecxknc Iepvhans Srqder Einitat 1950 - 2003-5-24
+
+- wine :: [[id:767104bf-a222-44b0-bdfc-b43c5b6bb78a][Ecxknc Iepvhans Srqder Einitat 1950]]
+- date :: 2003-5-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

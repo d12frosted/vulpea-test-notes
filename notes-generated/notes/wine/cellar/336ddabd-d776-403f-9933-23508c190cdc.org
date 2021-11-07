@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     336ddabd-d776-403f-9933-23508c190cdc
+:END:
+#+TITLE: Ecxknc Iepvhans Ynlyn Cjfboc 1915
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ynlyn Cjfboc
+- vintage :: 1915
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.55
+- price :: 22.26 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:876cfc40-edd1-43b0-a7cb-d61b9828c2a1][Ecxknc Iepvhans Ynlyn Cjfboc 1915 - 2020-7-16]]
+
+

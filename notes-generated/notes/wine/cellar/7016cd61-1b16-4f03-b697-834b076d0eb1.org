@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7016cd61-1b16-4f03-b697-834b076d0eb1
+:END:
+#+TITLE: Nhozxqe Aldl Sczzrwol 2009
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Sczzrwol
+- vintage :: 2009
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.68
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: wikipedia
+- rating :: NA
+
+

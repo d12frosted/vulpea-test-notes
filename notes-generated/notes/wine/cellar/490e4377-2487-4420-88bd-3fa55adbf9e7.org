@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     490e4377-2487-4420-88bd-3fa55adbf9e7
+:END:
+#+TITLE: Ecxknc Iepvhans Unra 1933
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Unra
+- vintage :: 1933
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 11.03
+- price :: 18.42 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

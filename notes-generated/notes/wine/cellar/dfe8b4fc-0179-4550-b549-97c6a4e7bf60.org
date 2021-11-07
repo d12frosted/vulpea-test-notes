@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     dfe8b4fc-0179-4550-b549-97c6a4e7bf60
+:END:
+#+TITLE: Ecxknc Iepvhans Yxskan 2015
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Yxskan
+- vintage :: 2015
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 9.33
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

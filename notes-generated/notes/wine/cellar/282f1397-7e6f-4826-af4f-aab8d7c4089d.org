@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     282f1397-7e6f-4826-af4f-aab8d7c4089d
+:END:
+#+TITLE: Ecxknc Iepvhans Jhmdaqaf 1902
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Jhmdaqaf
+- vintage :: 1902
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.97
+- sugar :: 6.92
+- price :: 70.12 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:f10cf79b-2793-448f-a43d-45d73cbad7ba][Ecxknc Iepvhans Jhmdaqaf 1902 - 2021-12-4]]
+
+

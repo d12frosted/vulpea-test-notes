@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6eee0e8a-fb0a-4ba2-964b-8457ea20de12
+:END:
+#+TITLE: Nhozxqe Aldl Gyx Bpkbxixa NV - 1994-7-28
+
+- wine :: [[id:84386204-eba2-45c1-984f-e587468cc0b2][Nhozxqe Aldl Gyx Bpkbxixa]]
+- date :: 1994-7-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

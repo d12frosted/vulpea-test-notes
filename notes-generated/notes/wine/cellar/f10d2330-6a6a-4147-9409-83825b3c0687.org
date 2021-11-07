@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f10d2330-6a6a-4147-9409-83825b3c0687
+:END:
+#+TITLE: Qay Ehqmpt Paxshu 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ehqmpt Paxshu
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.57
+- sugar :: 7.46
+- price :: 50.05 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 3.5
+- ratings :: [[id:861c1284-d844-478d-8ca0-641d6d01169f][Qay Ehqmpt Paxshu NV - 1994-3-14]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fb389b28-f7f0-4de0-98fd-f110d9e3358b
+:END:
+#+TITLE: Yjfq Abgnbwmo 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Abgnbwmo
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 9.71
+- sugar :: 5.35
+- price :: 44.94 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.5
+- ratings :: [[id:886fee4f-63d2-4ccf-a05e-c77146b8753d][Yjfq Abgnbwmo NV - 2022-3-25]]
+
+

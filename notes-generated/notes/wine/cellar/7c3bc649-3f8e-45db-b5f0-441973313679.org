@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7c3bc649-3f8e-45db-b5f0-441973313679
+:END:
+#+TITLE: Qay Gpthrhqy 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Gpthrhqy
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.47
+- price :: 78.53 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 8.0
+- ratings :: [[id:c89408b8-1f81-422f-add4-490225a1b4be][Qay Gpthrhqy NV - 2018-9-17]]
+
+

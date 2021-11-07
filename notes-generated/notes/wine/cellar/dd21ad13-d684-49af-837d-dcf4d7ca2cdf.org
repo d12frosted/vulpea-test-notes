@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     dd21ad13-d684-49af-837d-dcf4d7ca2cdf
+:END:
+#+TITLE: Qay Ssdplrif Gqpp 1950
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ssdplrif Gqpp
+- vintage :: 1950
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 13.629999999999999
+- sugar :: 19.09
+- price :: 9.60 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 3.5
+- ratings :: [[id:686c3591-7174-430b-941b-e592cab2bcd2][Qay Ssdplrif Gqpp 1950 - 2019-1-26]]
+
+

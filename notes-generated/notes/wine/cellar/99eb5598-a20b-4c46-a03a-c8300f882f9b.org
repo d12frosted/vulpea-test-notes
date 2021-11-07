@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     99eb5598-a20b-4c46-a03a-c8300f882f9b
+:END:
+#+TITLE: Ecxknc Iepvhans Rnwn 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Rnwn
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.13
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:3afe2687-94af-455e-a426-0f4403861f18][Ecxknc Iepvhans Rnwn NV - 2018-6-15]]
+
+

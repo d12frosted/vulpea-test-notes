@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f5bac715-e0cf-4042-9c96-5611e55c56af
+:END:
+#+TITLE: Jjkswvm Rcm Ikvndytx Euou 1964 - 2004-9-14
+
+- wine :: [[id:156af018-ceee-4355-a5dd-379a3f276e88][Jjkswvm Rcm Ikvndytx Euou 1964]]
+- date :: 2004-9-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

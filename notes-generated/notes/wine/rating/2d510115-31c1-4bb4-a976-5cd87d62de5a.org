@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2d510115-31c1-4bb4-a976-5cd87d62de5a
+:END:
+#+TITLE: Nhozxqe Aldl Vzhjxo 1991 - 2000-9-18
+
+- wine :: [[id:dd724464-bfc3-401b-af41-b014a5a3b8ea][Nhozxqe Aldl Vzhjxo 1991]]
+- date :: 2000-9-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

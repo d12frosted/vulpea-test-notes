@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7190203a-7acd-4e97-a778-8a77a8f703fb
+:END:
+#+TITLE: Yjfq Dpzkun Nga NV - 2014-11-17
+
+- wine :: [[id:212fc5fb-8daa-4894-a14b-37d3394e61cc][Yjfq Dpzkun Nga]]
+- date :: 2014-11-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

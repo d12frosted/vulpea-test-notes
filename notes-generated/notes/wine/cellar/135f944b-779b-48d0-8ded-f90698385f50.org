@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     135f944b-779b-48d0-8ded-f90698385f50
+:END:
+#+TITLE: Giih Udr Oxhgo Xljartmm 1903
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Oxhgo Xljartmm
+- vintage :: 1903
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.18
+- sugar :: 15.16
+- price :: 83.18 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA
+
+

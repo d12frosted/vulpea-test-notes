@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0ffb3e52-bb32-4df8-b941-b35e0d70f423
+:END:
+#+TITLE: Yokf Gwhwycw Ofmnll 2010 - 2004-6-22
+
+- wine :: [[id:865bbc38-43ae-4ae0-b0c7-930571b2730e][Yokf Gwhwycw Ofmnll 2010]]
+- date :: 2004-6-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     3f334528-34bd-44ac-8ac3-f33c9ecaa216
+:END:
+#+TITLE: Qay Wnplr 2006
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Wnplr
+- vintage :: 2006
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 9.13
+- sugar :: 9.47
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

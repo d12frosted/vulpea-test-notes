@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     84552f9f-bc53-4f19-ae22-d9601ea1bd06
+:END:
+#+TITLE: Scf Elpezclx Zdi Ecpxz 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Zdi Ecpxz
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.2
+- sugar :: 4.0
+- price :: 100.52 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:39976f55-6b7e-4876-aed2-d40d9d7a4c7e][Scf Elpezclx Zdi Ecpxz NV - 1990-10-1]]
+
+

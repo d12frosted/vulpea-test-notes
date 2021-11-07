@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6ad549e2-0b19-4e18-937c-735e8d595dee
+:END:
+#+TITLE: Lrwk Jbaxrmn Jiyry Dohxlry 1928 - 2012-5-1
+
+- wine :: [[id:4a8a1975-99dd-4c0c-b808-4a6717e8de3b][Lrwk Jbaxrmn Jiyry Dohxlry 1928]]
+- date :: 2012-5-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

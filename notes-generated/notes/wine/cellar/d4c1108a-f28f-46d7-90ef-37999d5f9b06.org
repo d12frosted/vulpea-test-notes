@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d4c1108a-f28f-46d7-90ef-37999d5f9b06
+:END:
+#+TITLE: Qay Gzibye 1988
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Gzibye
+- vintage :: 1988
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 11.48
+- price :: 9.36 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.5
+- ratings :: [[id:19e5299b-a0aa-4a50-b1f3-e6d178242ad7][Qay Gzibye 1988 - 2006-1-18]]
+
+

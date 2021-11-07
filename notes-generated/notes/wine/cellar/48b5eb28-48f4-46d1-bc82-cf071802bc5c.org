@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     48b5eb28-48f4-46d1-bc82-cf071802bc5c
+:END:
+#+TITLE: Jjkswvm Rcm Hyyua 1939
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Hyyua
+- vintage :: 1939
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.87
+- price :: 29.90 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

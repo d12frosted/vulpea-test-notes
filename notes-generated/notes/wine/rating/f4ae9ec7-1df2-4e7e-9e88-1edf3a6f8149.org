@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f4ae9ec7-1df2-4e7e-9e88-1edf3a6f8149
+:END:
+#+TITLE: Jjkswvm Rcm Xvdmj 2008 - 1995-12-3
+
+- wine :: [[id:2b7299f7-99d9-4c7b-9df2-99913147ba01][Jjkswvm Rcm Xvdmj 2008]]
+- date :: 1995-12-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

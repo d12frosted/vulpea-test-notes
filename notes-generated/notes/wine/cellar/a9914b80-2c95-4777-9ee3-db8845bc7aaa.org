@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a9914b80-2c95-4777-9ee3-db8845bc7aaa
+:END:
+#+TITLE: Yjfq Eyxe 1964
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Eyxe
+- vintage :: 1964
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 11.61
+- sugar :: 6.94
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:de951660-aaf1-436b-8641-d7dd94359263][Yjfq Eyxe 1964 - 1996-11-13]]
+
+

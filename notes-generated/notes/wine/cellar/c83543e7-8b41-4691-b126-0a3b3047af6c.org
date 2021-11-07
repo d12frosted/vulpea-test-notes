@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c83543e7-8b41-4691-b126-0a3b3047af6c
+:END:
+#+TITLE: Nhozxqe Aldl Yciuwgye 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Yciuwgye
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.879999999999999
+- sugar :: 0.98
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

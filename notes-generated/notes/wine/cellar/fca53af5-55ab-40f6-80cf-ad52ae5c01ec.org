@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fca53af5-55ab-40f6-80cf-ad52ae5c01ec
+:END:
+#+TITLE: Nhozxqe Aldl Aenjfp 1993
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Aenjfp
+- vintage :: 1993
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.85
+- price :: 55.34 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA
+
+

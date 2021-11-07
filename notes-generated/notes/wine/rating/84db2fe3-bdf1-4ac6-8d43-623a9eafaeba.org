@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     84db2fe3-bdf1-4ac6-8d43-623a9eafaeba
+:END:
+#+TITLE: Ecxknc Iepvhans Hfbpa 1941 - 2014-1-5
+
+- wine :: [[id:baefbaa2-9026-494e-9685-8f97e17b7a57][Ecxknc Iepvhans Hfbpa 1941]]
+- date :: 2014-1-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

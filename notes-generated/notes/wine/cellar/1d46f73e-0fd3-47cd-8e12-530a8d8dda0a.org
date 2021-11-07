@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1d46f73e-0fd3-47cd-8e12-530a8d8dda0a
+:END:
+#+TITLE: Lrwk Jbaxrmn Ehfs Xjkx 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ehfs Xjkx
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 10.96
+- price :: 6.27 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:8c9991cd-ba75-4a10-babf-739e35b12946][Lrwk Jbaxrmn Ehfs Xjkx NV - 2001-8-22]]
+
+

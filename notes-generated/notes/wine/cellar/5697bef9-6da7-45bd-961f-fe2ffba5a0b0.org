@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5697bef9-6da7-45bd-961f-fe2ffba5a0b0
+:END:
+#+TITLE: Lrwk Jbaxrmn Aeqeffvo Xlhuzbtd 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Aeqeffvo Xlhuzbtd
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.81
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.5
+- ratings :: [[id:d8c8e3a9-0fb1-43b2-aaf6-8bcdea1a42ba][Lrwk Jbaxrmn Aeqeffvo Xlhuzbtd NV - 2012-4-23]]
+
+

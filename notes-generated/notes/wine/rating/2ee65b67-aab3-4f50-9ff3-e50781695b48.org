@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2ee65b67-aab3-4f50-9ff3-e50781695b48
+:END:
+#+TITLE: Ecxknc Iepvhans Mhz Jynobw NV - 2013-3-16
+
+- wine :: [[id:789b1604-31ba-429e-8aa2-0e6ee8cce58b][Ecxknc Iepvhans Mhz Jynobw]]
+- date :: 2013-3-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

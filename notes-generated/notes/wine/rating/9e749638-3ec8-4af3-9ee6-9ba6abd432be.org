@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9e749638-3ec8-4af3-9ee6-9ba6abd432be
+:END:
+#+TITLE: Qay Niikkskr Concs 1900 - 2018-7-10
+
+- wine :: [[id:14f9211e-8ad4-4b8c-a25c-30514268503e][Qay Niikkskr Concs 1900]]
+- date :: 2018-7-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

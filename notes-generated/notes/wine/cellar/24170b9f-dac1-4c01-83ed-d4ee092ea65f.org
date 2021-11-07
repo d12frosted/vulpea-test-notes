@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     24170b9f-dac1-4c01-83ed-d4ee092ea65f
+:END:
+#+TITLE: Lrwk Jbaxrmn Zwvhmx Vjl 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Zwvhmx Vjl
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.129999999999999
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 2.5
+- ratings :: [[id:a7cea70b-929d-4dd3-8407-3717e991a176][Lrwk Jbaxrmn Zwvhmx Vjl NV - 2010-12-16]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     1a722900-5d8c-4917-86f7-2c41920dd1d5
+:END:
+#+TITLE: Qay Xjnp 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Xjnp
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.32
+- sugar :: 10.0
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

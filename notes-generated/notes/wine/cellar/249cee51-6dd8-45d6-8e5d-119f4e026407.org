@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     249cee51-6dd8-45d6-8e5d-119f4e026407
+:END:
+#+TITLE: Cowhhax Upmqcgn Qycpylhu 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Qycpylhu
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 12.72
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA
+
+

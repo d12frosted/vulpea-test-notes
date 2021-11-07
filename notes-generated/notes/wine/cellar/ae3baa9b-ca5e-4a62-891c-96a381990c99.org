@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ae3baa9b-ca5e-4a62-891c-96a381990c99
+:END:
+#+TITLE: Lrwk Jbaxrmn Exjkvl 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Exjkvl
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 10.44
+- sugar :: 17.04
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: 8.0
+- ratings :: [[id:b1cb7c4e-51bd-4b69-8bc9-748d4f59f781][Lrwk Jbaxrmn Exjkvl NV - 2023-7-23]]
+
+

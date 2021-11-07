@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ff25bc40-a3a6-4595-b634-468ce9b7185c
+:END:
+#+TITLE: Yjfq Seoi Qdkskpdx 2020
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Seoi Qdkskpdx
+- vintage :: 2020
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.73
+- sugar :: 5.09
+- price :: 77.89 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: wikipedia
+- rating :: NA
+
+

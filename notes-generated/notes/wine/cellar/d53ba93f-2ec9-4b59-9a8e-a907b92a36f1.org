@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     d53ba93f-2ec9-4b59-9a8e-a907b92a36f1
+:END:
+#+TITLE: Yjfq Gqae Ekf 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gqae Ekf
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.89
+- sugar :: 5.26
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

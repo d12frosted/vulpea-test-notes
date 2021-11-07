@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b82a0800-5b5e-491d-83fc-312a21b3fb18
+:END:
+#+TITLE: Yjfq Uoz Yfjhel 1993 - 2023-8-18
+
+- wine :: [[id:c20e85be-c9dd-41b0-bc54-cc663792c30c][Yjfq Uoz Yfjhel 1993]]
+- date :: 2023-8-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

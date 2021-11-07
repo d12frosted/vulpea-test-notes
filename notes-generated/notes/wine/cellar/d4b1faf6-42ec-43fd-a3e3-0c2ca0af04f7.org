@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d4b1faf6-42ec-43fd-a3e3-0c2ca0af04f7
+:END:
+#+TITLE: Yokf Gwhwycw Gqgu 1981
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Gqgu
+- vintage :: 1981
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 11.03
+- sugar :: 23.07
+- price :: 18.99 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.0
+- ratings :: [[id:6d013d08-1ae5-4e7d-9896-da8d5d33496e][Yokf Gwhwycw Gqgu 1981 - 2014-3-22]]
+
+

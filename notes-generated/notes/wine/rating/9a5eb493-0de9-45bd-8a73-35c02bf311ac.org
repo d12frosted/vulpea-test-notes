@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9a5eb493-0de9-45bd-8a73-35c02bf311ac
+:END:
+#+TITLE: Lrwk Jbaxrmn Ijvno NV - 2017-1-17
+
+- wine :: [[id:93b27ade-4d17-4071-ae62-7c7cf79325f0][Lrwk Jbaxrmn Ijvno]]
+- date :: 2017-1-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

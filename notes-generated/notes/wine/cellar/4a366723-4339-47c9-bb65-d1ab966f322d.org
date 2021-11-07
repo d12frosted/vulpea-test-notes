@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4a366723-4339-47c9-bb65-d1ab966f322d
+:END:
+#+TITLE: Yokf Gwhwycw Ykbnoa Mmdfjew 1917
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ykbnoa Mmdfjew
+- vintage :: 1917
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.05
+- sugar :: 10.51
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     61c7b28b-3972-42eb-aa13-d8edddfa417f
+:END:
+#+TITLE: Nhozxqe Aldl Myff Gwxbk 1953 - 1997-5-12
+
+- wine :: [[id:f66923b8-0933-4418-9238-ebe0bacc548c][Nhozxqe Aldl Myff Gwxbk 1953]]
+- date :: 1997-5-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

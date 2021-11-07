@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     90dc1d74-f610-4205-86c6-2fad1458fb90
+:END:
+#+TITLE: Lrwk Jbaxrmn Ktvyom 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ktvyom
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.14
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

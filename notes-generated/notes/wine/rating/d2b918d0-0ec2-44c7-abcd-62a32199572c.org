@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d2b918d0-0ec2-44c7-abcd-62a32199572c
+:END:
+#+TITLE: Qay Bszy NV - 2012-6-1
+
+- wine :: [[id:f19e60d3-7871-482c-8870-dfadeac75603][Qay Bszy]]
+- date :: 2012-6-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

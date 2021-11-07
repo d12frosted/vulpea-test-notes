@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c9c08a32-3498-43c5-840c-44c0d4004346
+:END:
+#+TITLE: Cowhhax Upmqcgn Xjhutzey 2003 - 1997-7-15
+
+- wine :: [[id:d6d05b4b-c7db-47c4-b46d-e5ebc03b06c8][Cowhhax Upmqcgn Xjhutzey 2003]]
+- date :: 1997-7-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

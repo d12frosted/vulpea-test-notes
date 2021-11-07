@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     eadd3bb0-6e00-4384-940c-25cbc65a89a7
+:END:
+#+TITLE: Jjkswvm Rcm Vegig 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Vegig
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 10.69
+- sugar :: 16.88
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 3.5
+- ratings :: [[id:192627c2-73d6-4712-a076-b8be59edb023][Jjkswvm Rcm Vegig NV - 2012-12-27]]
+
+

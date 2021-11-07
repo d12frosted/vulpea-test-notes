@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     18ce0343-a6ca-4886-9642-a971614c9019
+:END:
+#+TITLE: Ecxknc Iepvhans Dopwqj Tue 2001
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Dopwqj Tue
+- vintage :: 2001
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 11.66
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:2c7e26e4-0277-4354-a3da-f5d4636328fb][Ecxknc Iepvhans Dopwqj Tue 2001 - 1990-5-18]]
+
+

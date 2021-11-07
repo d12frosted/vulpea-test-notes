@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f26e7ebd-e0ae-41b3-81b5-14604f136a17
+:END:
+#+TITLE: Qay Sihju Zuddgwg 2020
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Sihju Zuddgwg
+- vintage :: 2020
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 12.66
+- price :: 61.16 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4ee2a713-a3f8-4638-b774-87704ddf763b
+:END:
+#+TITLE: Giih Udr Eikb 1907
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Eikb
+- vintage :: 1907
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.92
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

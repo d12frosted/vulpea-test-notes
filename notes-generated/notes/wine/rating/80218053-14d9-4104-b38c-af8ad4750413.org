@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     80218053-14d9-4104-b38c-af8ad4750413
+:END:
+#+TITLE: Qay Dga Vfcpya 1901 - 1998-6-20
+
+- wine :: [[id:e3f9c98e-a8d5-44d4-8db0-dff152171be0][Qay Dga Vfcpya 1901]]
+- date :: 1998-6-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

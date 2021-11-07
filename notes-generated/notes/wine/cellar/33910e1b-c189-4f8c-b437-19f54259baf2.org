@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     33910e1b-c189-4f8c-b437-19f54259baf2
+:END:
+#+TITLE: Qay Ehlqq Zdftbl 1998
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ehlqq Zdftbl
+- vintage :: 1998
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.06
+- price :: 99.77 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:1bc27604-16e6-46b7-8420-fb06951abee1][Qay Ehlqq Zdftbl 1998 - 2021-7-4]]
+
+

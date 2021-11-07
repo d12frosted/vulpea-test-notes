@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3cb10935-e645-4ea0-8df4-0aaded7cd9bc
+:END:
+#+TITLE: Nhozxqe Aldl Tgstkb Dwpgre 1976 - 2002-12-16
+
+- wine :: [[id:e7533b6e-3980-4916-bc6f-05eb151fbff3][Nhozxqe Aldl Tgstkb Dwpgre 1976]]
+- date :: 2002-12-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

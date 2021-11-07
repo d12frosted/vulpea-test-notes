@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     02d8bf3d-adce-43c3-b51b-0e5ac9398159
+:END:
+#+TITLE: Jjkswvm Rcm Wfphs Zkdx 1911
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Wfphs Zkdx
+- vintage :: 1911
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.030000000000001
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:9aa1e325-554e-4ae7-a16c-5253c798a16a][Jjkswvm Rcm Wfphs Zkdx 1911 - 2019-3-18]]
+
+

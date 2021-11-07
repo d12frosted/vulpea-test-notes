@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2fc4dc76-1db8-4f1b-a5df-5af77c7005a1
+:END:
+#+TITLE: Ecxknc Iepvhans Zsc 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Zsc
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 9.59
+- sugar :: 11.06
+- price :: 7.20 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 9.0
+- ratings :: [[id:ff8cead6-ffcd-4c50-82d8-a5a53d3e6553][Ecxknc Iepvhans Zsc NV - 2014-4-8]]
+
+

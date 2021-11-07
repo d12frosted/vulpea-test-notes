@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     49412553-c8fa-49d3-b015-02ba0865d161
+:END:
+#+TITLE: Qay Eestph NV - 2015-2-25
+
+- wine :: [[id:fc1d8785-2041-4daf-9cfd-a3e84c307830][Qay Eestph]]
+- date :: 2015-2-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

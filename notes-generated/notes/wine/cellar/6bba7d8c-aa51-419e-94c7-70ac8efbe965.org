@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6bba7d8c-aa51-419e-94c7-70ac8efbe965
+:END:
+#+TITLE: Yokf Gwhwycw Mlruz 1908
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Mlruz
+- vintage :: 1908
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.94
+- price :: 59.36 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:c20642c0-2284-4ee3-98d5-8c533c680bd7][Yokf Gwhwycw Mlruz 1908 - 2006-4-5]]
+
+

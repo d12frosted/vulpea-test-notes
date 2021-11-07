@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f66923b8-0933-4418-9238-ebe0bacc548c
+:END:
+#+TITLE: Nhozxqe Aldl Myff Gwxbk 1953
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Myff Gwxbk
+- vintage :: 1953
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 11.48
+- price :: 52.04 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.5
+- ratings :: [[id:61c7b28b-3972-42eb-aa13-d8edddfa417f][Nhozxqe Aldl Myff Gwxbk 1953 - 1997-5-12]]
+
+

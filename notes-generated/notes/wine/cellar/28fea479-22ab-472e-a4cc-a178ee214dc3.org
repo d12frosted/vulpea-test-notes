@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     28fea479-22ab-472e-a4cc-a178ee214dc3
+:END:
+#+TITLE: Ecxknc Iepvhans Idtgn 1933
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Idtgn
+- vintage :: 1933
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.36
+- sugar :: 8.59
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

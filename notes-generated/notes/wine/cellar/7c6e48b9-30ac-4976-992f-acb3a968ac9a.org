@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7c6e48b9-30ac-4976-992f-acb3a968ac9a
+:END:
+#+TITLE: Lrwk Jbaxrmn Djeqf Nzi 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Djeqf Nzi
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.129999999999999
+- sugar :: 16.36
+- price :: 43.94 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

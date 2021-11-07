@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     e44df3d5-f1ad-4abb-8495-587558f325aa
+:END:
+#+TITLE: Ecxknc Iepvhans Ariizi Pwz 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ariizi Pwz
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 12.84
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 2.5
+- ratings :: [[id:e79f1639-b45d-412f-9757-c26e3c3cf784][Ecxknc Iepvhans Ariizi Pwz NV - 1992-3-14]]
+
+

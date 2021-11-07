@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     cb503ca4-52ff-4c14-91b1-9dcfd434445a
+:END:
+#+TITLE: Giih Udr Izwusrr 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Izwusrr
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.98
+- price :: 82.24 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:21be0438-b403-45e2-8243-53bdd5ef50e3][Giih Udr Izwusrr NV - 2008-9-1]]
+
+

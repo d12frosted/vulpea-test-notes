@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     15ceada8-cae0-4070-9dfa-047957c6945e
+:END:
+#+TITLE: Yokf Gwhwycw Hrb 1979
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Hrb
+- vintage :: 1979
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 13.55
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:4ad80805-ecc7-492a-8116-a15e066d6461][Yokf Gwhwycw Hrb 1979 - 2000-5-15]]
+
+

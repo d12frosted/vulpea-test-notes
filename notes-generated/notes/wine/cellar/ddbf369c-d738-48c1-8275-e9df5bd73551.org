@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ddbf369c-d738-48c1-8275-e9df5bd73551
+:END:
+#+TITLE: Jjkswvm Rcm Nsslb Tbmpvb 1926
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Nsslb Tbmpvb
+- vintage :: 1926
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.620000000000001
+- price :: 93.62 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f4bde5af-15b4-4f4b-935d-9e1132ac911c
+:END:
+#+TITLE: Giih Udr Mouptyu Ubzl 2011 - 2018-5-10
+
+- wine :: [[id:fae09f29-f100-466b-a6e0-dfbb557ed070][Giih Udr Mouptyu Ubzl 2011]]
+- date :: 2018-5-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

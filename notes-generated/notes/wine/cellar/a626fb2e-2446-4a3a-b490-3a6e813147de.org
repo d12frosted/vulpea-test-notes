@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     a626fb2e-2446-4a3a-b490-3a6e813147de
+:END:
+#+TITLE: Scf Elpezclx Wblq Bouxzbf 2019
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Wblq Bouxzbf
+- vintage :: 2019
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.68
+- sugar :: 9.36
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

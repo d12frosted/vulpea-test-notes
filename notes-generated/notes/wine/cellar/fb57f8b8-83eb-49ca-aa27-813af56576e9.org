@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fb57f8b8-83eb-49ca-aa27-813af56576e9
+:END:
+#+TITLE: Scf Elpezclx Qogya 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Qogya
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.59
+- price :: 69.07 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 8.5
+- ratings :: [[id:3d735ff5-7d2d-4f33-a59e-1942c024d805][Scf Elpezclx Qogya NV - 1995-4-19]]
+
+

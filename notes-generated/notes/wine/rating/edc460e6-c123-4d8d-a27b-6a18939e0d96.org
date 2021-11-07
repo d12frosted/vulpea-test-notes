@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     edc460e6-c123-4d8d-a27b-6a18939e0d96
+:END:
+#+TITLE: Yokf Gwhwycw Vccanu 1981 - 2018-8-6
+
+- wine :: [[id:75bdf29b-f505-445e-b421-9de11b6339cd][Yokf Gwhwycw Vccanu 1981]]
+- date :: 2018-8-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 2
+- score_max :: 20
+- total :: 1.0
+
+

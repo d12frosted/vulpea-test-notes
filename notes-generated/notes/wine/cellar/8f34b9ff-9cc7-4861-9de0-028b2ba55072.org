@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8f34b9ff-9cc7-4861-9de0-028b2ba55072
+:END:
+#+TITLE: Yokf Gwhwycw Okmv 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Okmv
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.77
+- sugar :: 20.51
+- price :: 47.72 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:9696d83d-e385-4d72-8b18-68af8ab80621][Yokf Gwhwycw Okmv NV - 1995-10-9]]
+
+

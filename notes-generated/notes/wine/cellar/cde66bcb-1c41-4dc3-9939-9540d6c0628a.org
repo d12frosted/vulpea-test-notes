@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     cde66bcb-1c41-4dc3-9939-9540d6c0628a
+:END:
+#+TITLE: Qay Xvync Wma 1903
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Xvync Wma
+- vintage :: 1903
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 12.97
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:3f8a1c0f-d1d2-420b-b2c7-27e76b766cd6][Qay Xvync Wma 1903 - 1999-7-26]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5575573f-c05d-4cb7-a721-39267b5b2883
+:END:
+#+TITLE: Cowhhax Upmqcgn Vovfy Oko 2004
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Vovfy Oko
+- vintage :: 2004
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.43
+- price :: 84.22 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 4.0
+- ratings :: [[id:60b97ed1-48b4-4c66-a21b-35516f74d588][Cowhhax Upmqcgn Vovfy Oko 2004 - 2021-7-17]]
+
+

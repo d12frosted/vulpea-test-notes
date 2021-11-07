@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     857dc55f-3f85-43cb-95c3-21e5e12c96bc
+:END:
+#+TITLE: Yjfq Xzjpjg 1981
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Xzjpjg
+- vintage :: 1981
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 9.12
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

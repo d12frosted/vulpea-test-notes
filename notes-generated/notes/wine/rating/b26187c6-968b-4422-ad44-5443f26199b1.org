@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b26187c6-968b-4422-ad44-5443f26199b1
+:END:
+#+TITLE: Scf Elpezclx Bzwvevmg Bqudsn NV - 1990-2-8
+
+- wine :: [[id:302dc22a-3618-4e0a-b263-bd168a49e15d][Scf Elpezclx Bzwvevmg Bqudsn]]
+- date :: 1990-2-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

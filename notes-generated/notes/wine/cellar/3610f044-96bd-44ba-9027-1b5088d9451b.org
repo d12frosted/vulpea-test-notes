@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     3610f044-96bd-44ba-9027-1b5088d9451b
+:END:
+#+TITLE: Nhozxqe Aldl Fkolg Evk 1943
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Fkolg Evk
+- vintage :: 1943
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 12.45
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

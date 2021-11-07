@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f8dc23fa-e27f-4777-b31e-30592157f70a
+:END:
+#+TITLE: Qay Ildut 1982
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ildut
+- vintage :: 1982
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.0
+- sugar :: 18.85
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:a0aae111-21a0-4e2b-82ac-66f89d9847b4][Qay Ildut 1982 - 2012-12-8]]
+
+

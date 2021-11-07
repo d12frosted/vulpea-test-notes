@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     560aefb2-5f7e-44cd-b449-d872018f20ba
+:END:
+#+TITLE: Cowhhax Upmqcgn Ttuqdnx Adglz 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ttuqdnx Adglz
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.58
+- price :: 30.10 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:1dc86c62-b885-452f-b7b2-4858d67b9686][Cowhhax Upmqcgn Ttuqdnx Adglz NV - 2024-10-19]]
+
+

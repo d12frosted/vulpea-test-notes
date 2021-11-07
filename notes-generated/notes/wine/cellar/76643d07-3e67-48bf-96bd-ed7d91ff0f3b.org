@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     76643d07-3e67-48bf-96bd-ed7d91ff0f3b
+:END:
+#+TITLE: Qay Kyhc 1905
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Kyhc
+- vintage :: 1905
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.58
+- price :: 8.19 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:7ce0dc94-a882-4de1-b5aa-1b0947c9921f][Qay Kyhc 1905 - 2013-12-14]]
+
+

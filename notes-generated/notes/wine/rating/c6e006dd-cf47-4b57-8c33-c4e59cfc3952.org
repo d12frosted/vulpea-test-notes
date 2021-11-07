@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c6e006dd-cf47-4b57-8c33-c4e59cfc3952
+:END:
+#+TITLE: Scf Elpezclx Nfrsgn NV - 1996-1-27
+
+- wine :: [[id:e9a7f8c6-7a5c-4fbf-80db-8b22168e09bd][Scf Elpezclx Nfrsgn]]
+- date :: 1996-1-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

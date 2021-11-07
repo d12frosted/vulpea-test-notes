@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4fbf4e92-c130-4e2c-bab7-0f71bf1aa3b3
+:END:
+#+TITLE: Qay Dhgcvlh 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Dhgcvlh
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 12.59
+- sugar :: 3.59
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: 2.5
+- ratings :: [[id:b74de6a2-b75f-466e-bdff-831b47849666][Qay Dhgcvlh NV - 2005-5-27]]
+
+

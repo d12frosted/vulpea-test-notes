@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     64a6d34a-f867-47c2-85fa-1db16d97c38b
+:END:
+#+TITLE: Lrwk Jbaxrmn Fqvk 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Fqvk
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 13.67
+- sugar :: 23.32
+- price :: 59.90 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA
+
+

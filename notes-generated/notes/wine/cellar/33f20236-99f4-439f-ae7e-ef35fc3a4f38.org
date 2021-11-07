@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     33f20236-99f4-439f-ae7e-ef35fc3a4f38
+:END:
+#+TITLE: Qay Drlousxd Xedtdssw 2005
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Drlousxd Xedtdssw
+- vintage :: 2005
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 9.71
+- price :: 35.99 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:e1e776de-8a6f-4bf2-b73a-e48315e41cbe][Qay Drlousxd Xedtdssw 2005 - 2009-1-11]]
+
+

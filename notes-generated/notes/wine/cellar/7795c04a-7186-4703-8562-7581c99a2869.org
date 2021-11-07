@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7795c04a-7186-4703-8562-7581c99a2869
+:END:
+#+TITLE: Qay Bxordkf 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Bxordkf
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 9.05
+- sugar :: 2.5
+- price :: 99.25 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

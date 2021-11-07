@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     69c9df6a-4a4e-423f-8264-6a1ccee2ea66
+:END:
+#+TITLE: Scf Elpezclx Eoearjmc Jmlcry 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Eoearjmc Jmlcry
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 11.59
+- sugar :: 17.75
+- price :: 49.62 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     8dbf51e7-1678-4e33-97fe-6032d90717fa
+:END:
+#+TITLE: Jjkswvm Rcm Yojyaldz 1996
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Yojyaldz
+- vintage :: 1996
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 13.9
+- price :: 11.19 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA
+
+

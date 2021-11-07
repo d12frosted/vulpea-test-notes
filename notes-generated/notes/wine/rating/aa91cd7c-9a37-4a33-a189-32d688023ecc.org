@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     aa91cd7c-9a37-4a33-a189-32d688023ecc
+:END:
+#+TITLE: Qay Zfyzn NV - 1995-2-11
+
+- wine :: [[id:e03c3356-c6bd-482c-a675-de52ba80de3d][Qay Zfyzn]]
+- date :: 1995-2-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

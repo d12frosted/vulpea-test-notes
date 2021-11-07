@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5c16e7e5-5a0a-4e38-b75c-8acb78813cda
+:END:
+#+TITLE: Ecxknc Iepvhans Fzq 1941
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Fzq
+- vintage :: 1941
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.809999999999999
+- price :: 23.26 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:01d7eb0e-0bbc-477d-b8f2-3d320fbb8d4c][Ecxknc Iepvhans Fzq 1941 - 2019-8-7]]
+
+

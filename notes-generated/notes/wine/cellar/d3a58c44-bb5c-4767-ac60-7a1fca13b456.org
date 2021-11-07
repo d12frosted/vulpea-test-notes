@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     d3a58c44-bb5c-4767-ac60-7a1fca13b456
+:END:
+#+TITLE: Scf Elpezclx Fwwp 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Fwwp
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.66
+- sugar :: 3.61
+- price :: 17.76 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:8e40e673-a4d5-4e58-98a7-c2018939c165][Scf Elpezclx Fwwp NV - 2008-1-11]]
+
+

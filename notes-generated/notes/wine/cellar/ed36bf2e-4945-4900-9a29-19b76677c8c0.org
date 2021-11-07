@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ed36bf2e-4945-4900-9a29-19b76677c8c0
+:END:
+#+TITLE: Scf Elpezclx Cqjf Nwwah 1959
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Cqjf Nwwah
+- vintage :: 1959
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 9.36
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 8.5
+- ratings :: [[id:009b3e4b-57c7-43c3-8a0c-d65c205b13e0][Scf Elpezclx Cqjf Nwwah 1959 - 2022-6-10]]
+
+

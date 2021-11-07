@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     983bb955-f830-4b7a-9b65-fd5875811859
+:END:
+#+TITLE: Ecxknc Iepvhans Xwu 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Xwu
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 12.51
+- price :: 76.12 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:90874ec6-4675-4674-8ed0-863d9a631871][Ecxknc Iepvhans Xwu NV - 2010-1-24]]
+
+

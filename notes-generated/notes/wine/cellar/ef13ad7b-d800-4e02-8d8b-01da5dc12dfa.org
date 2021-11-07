@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     ef13ad7b-d800-4e02-8d8b-01da5dc12dfa
+:END:
+#+TITLE: Yokf Gwhwycw Kytkloy Cdbaug 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Kytkloy Cdbaug
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 13.98
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 8.0
+- ratings :: [[id:b9b26c9b-c8db-4256-add8-5cbb9ebc8040][Yokf Gwhwycw Kytkloy Cdbaug NV - 2020-4-5]]
+
+

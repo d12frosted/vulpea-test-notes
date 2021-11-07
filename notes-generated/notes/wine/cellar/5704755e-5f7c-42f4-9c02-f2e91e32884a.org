@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     5704755e-5f7c-42f4-9c02-f2e91e32884a
+:END:
+#+TITLE: Yjfq Isxfhn Yxq 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Isxfhn Yxq
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 9.87
+- sugar :: 23.18
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:b068876a-205e-4aee-b116-83ae93ffe4a7][Yjfq Isxfhn Yxq NV - 2008-5-9]]
+
+

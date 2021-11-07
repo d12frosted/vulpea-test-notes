@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e9ca25e9-daa7-4a8c-a1bf-68dd5a254cc7
+:END:
+#+TITLE: Yjfq Qmaimpq Xoh 1920
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Qmaimpq Xoh
+- vintage :: 1920
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.870000000000001
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2815297f-4f12-4493-8173-b66c0588949a
+:END:
+#+TITLE: Yokf Gwhwycw Olcr 1950 - 1996-11-4
+
+- wine :: [[id:13846fb8-4266-4415-b9ab-e28dcc95c706][Yokf Gwhwycw Olcr 1950]]
+- date :: 1996-11-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

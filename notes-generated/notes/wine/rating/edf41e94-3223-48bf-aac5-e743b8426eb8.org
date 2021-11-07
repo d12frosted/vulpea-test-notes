@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     edf41e94-3223-48bf-aac5-e743b8426eb8
+:END:
+#+TITLE: Yjfq Jpvpr Ikukzw NV - 1993-6-25
+
+- wine :: [[id:95bfeeb5-a52f-454e-8472-f85816f22727][Yjfq Jpvpr Ikukzw]]
+- date :: 1993-6-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

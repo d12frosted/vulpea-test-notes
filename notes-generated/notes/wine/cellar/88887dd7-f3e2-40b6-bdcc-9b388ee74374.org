@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     88887dd7-f3e2-40b6-bdcc-9b388ee74374
+:END:
+#+TITLE: Cowhhax Upmqcgn Gmnxcr Feg 1917
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Gmnxcr Feg
+- vintage :: 1917
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 12.91
+- price :: 23.24 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:8151569f-df75-4729-aa95-b193f62d76fb][Cowhhax Upmqcgn Gmnxcr Feg 1917 - 2011-11-15]]
+
+

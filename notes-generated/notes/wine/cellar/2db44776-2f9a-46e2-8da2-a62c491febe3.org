@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2db44776-2f9a-46e2-8da2-a62c491febe3
+:END:
+#+TITLE: Scf Elpezclx Lcjcv Xmqakd 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Lcjcv Xmqakd
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 9.81
+- price :: 51.93 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 1.5
+- ratings :: [[id:e7331a30-f536-4d0a-b43c-1c40637bab34][Scf Elpezclx Lcjcv Xmqakd NV - 2005-1-24]]
+
+

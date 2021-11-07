@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     eafefd8d-fcbd-4818-af57-a6028a9eed0a
+:END:
+#+TITLE: Yokf Gwhwycw Utp 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Utp
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.91
+- sugar :: 7.52
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:aef78a53-9ecb-405c-bb29-8dbd4129ea4e][Yokf Gwhwycw Utp NV - 1991-4-6]]
+
+

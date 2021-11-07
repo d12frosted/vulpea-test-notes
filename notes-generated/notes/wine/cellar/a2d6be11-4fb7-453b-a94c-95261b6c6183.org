@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     a2d6be11-4fb7-453b-a94c-95261b6c6183
+:END:
+#+TITLE: Qay Hnthf Byyimo 1908
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Hnthf Byyimo
+- vintage :: 1908
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 10.45
+- sugar :: 4.13
+- price :: 87.89 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:115c2bd7-fced-4bd6-b567-2a9ea33bc9c0][Qay Hnthf Byyimo 1908 - 2003-10-11]]
+
+

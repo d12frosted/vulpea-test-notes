@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     dec14623-1892-492b-9bb5-a3deb66fd401
+:END:
+#+TITLE: Nhozxqe Aldl Rep 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Rep
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.44
+- sugar :: 1.33
+- price :: 44.06 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e215a242-ed4c-46b8-b4d6-53f7a1d258e3
+:END:
+#+TITLE: Cowhhax Upmqcgn Nvhxyhdt Jboume 1900
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Nvhxyhdt Jboume
+- vintage :: 1900
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.06
+- price :: 62.99 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 2.5
+- ratings :: [[id:3487a7ef-39a2-42d2-befa-91f7e0ed1e11][Cowhhax Upmqcgn Nvhxyhdt Jboume 1900 - 1995-11-24]]
+
+

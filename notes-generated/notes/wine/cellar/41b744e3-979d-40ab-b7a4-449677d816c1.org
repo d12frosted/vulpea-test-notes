@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     41b744e3-979d-40ab-b7a4-449677d816c1
+:END:
+#+TITLE: Yokf Gwhwycw Rahj Xjlvzsdj 1933
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Rahj Xjlvzsdj
+- vintage :: 1933
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.870000000000001
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA
+
+

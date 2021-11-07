@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ed3bfa25-012c-434b-8595-2658d936ff7c
+:END:
+#+TITLE: Qay Kgn Plelu 1933
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Kgn Plelu
+- vintage :: 1933
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 11.91
+- price :: 45.77 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA
+
+

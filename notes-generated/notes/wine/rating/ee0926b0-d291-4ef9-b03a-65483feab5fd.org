@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ee0926b0-d291-4ef9-b03a-65483feab5fd
+:END:
+#+TITLE: Lrwk Jbaxrmn Onv Tuxoqaj 1988 - 2004-8-7
+
+- wine :: [[id:47296636-9279-46a1-9b6a-0aa221f92e8c][Lrwk Jbaxrmn Onv Tuxoqaj 1988]]
+- date :: 2004-8-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

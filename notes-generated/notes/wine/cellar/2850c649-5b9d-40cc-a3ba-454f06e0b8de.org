@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     2850c649-5b9d-40cc-a3ba-454f06e0b8de
+:END:
+#+TITLE: Cowhhax Upmqcgn Swb 1931
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Swb
+- vintage :: 1931
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 11.41
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

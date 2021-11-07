@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     599867a8-44af-436f-9539-c5ce3cdc738f
+:END:
+#+TITLE: Yjfq Zuee 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Zuee
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 9.7
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:adec4c1f-b064-479d-be0e-77b9836a573f][Yjfq Zuee NV - 2018-3-4]]
+
+

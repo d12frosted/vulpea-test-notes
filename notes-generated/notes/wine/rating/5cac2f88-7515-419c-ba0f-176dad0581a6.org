@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5cac2f88-7515-419c-ba0f-176dad0581a6
+:END:
+#+TITLE: Qay Qjjgaw 1922 - 2007-7-22
+
+- wine :: [[id:d0d3711c-92ea-4000-ac93-1986b4b34548][Qay Qjjgaw 1922]]
+- date :: 2007-7-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     e3d4ec4b-bae7-4e6c-b447-f465a8b0c41f
+:END:
+#+TITLE: Yokf Gwhwycw Dmnzbc Eulm 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Dmnzbc Eulm
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.059999999999999
+- price :: 22.63 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c5b21a93-3f12-40c2-a0b9-6bf4bf2e2e9c
+:END:
+#+TITLE: Lrwk Jbaxrmn Qgz 1984
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qgz
+- vintage :: 1984
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 10.620000000000001
+- price :: 9.40 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA
+
+

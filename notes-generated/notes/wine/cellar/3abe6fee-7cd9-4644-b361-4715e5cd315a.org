@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     3abe6fee-7cd9-4644-b361-4715e5cd315a
+:END:
+#+TITLE: Lrwk Jbaxrmn Jgy Ykxl 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Jgy Ykxl
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.18
+- sugar :: 18.14
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

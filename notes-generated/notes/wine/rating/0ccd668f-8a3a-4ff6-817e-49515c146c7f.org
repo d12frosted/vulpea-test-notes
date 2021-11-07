@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0ccd668f-8a3a-4ff6-817e-49515c146c7f
+:END:
+#+TITLE: Jjkswvm Rcm Figit 1956 - 2020-11-26
+
+- wine :: [[id:65d7c9c9-80ac-4eb2-8897-ca969a26541c][Jjkswvm Rcm Figit 1956]]
+- date :: 2020-11-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

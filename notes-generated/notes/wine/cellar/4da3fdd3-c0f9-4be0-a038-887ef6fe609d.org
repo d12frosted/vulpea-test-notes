@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     4da3fdd3-c0f9-4be0-a038-887ef6fe609d
+:END:
+#+TITLE: Nhozxqe Aldl Hjwumh Wyjjuwj 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hjwumh Wyjjuwj
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.97
+- sugar :: 18.89
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:5790a2c8-9caa-4850-9e92-e5b1e58ce28a][Nhozxqe Aldl Hjwumh Wyjjuwj NV - 1993-2-15]]
+
+

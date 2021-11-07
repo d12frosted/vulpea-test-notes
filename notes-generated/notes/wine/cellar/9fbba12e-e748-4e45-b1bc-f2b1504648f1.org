@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9fbba12e-e748-4e45-b1bc-f2b1504648f1
+:END:
+#+TITLE: Nhozxqe Aldl Ypeyi 1966
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ypeyi
+- vintage :: 1966
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.17
+- price :: 32.14 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 2.5
+- ratings :: [[id:8a81c4ea-34bb-413d-9743-163c6b18aae7][Nhozxqe Aldl Ypeyi 1966 - 1994-12-21]]
+
+

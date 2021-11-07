@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ac2a4b56-e391-4b97-a786-9a14047a46e2
+:END:
+#+TITLE: Yjfq Wqxtq Qhmiq 1909
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Wqxtq Qhmiq
+- vintage :: 1909
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.190000000000001
+- sugar :: 19.8
+- price :: 29.64 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA
+
+

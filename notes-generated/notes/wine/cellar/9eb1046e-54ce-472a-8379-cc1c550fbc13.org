@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     9eb1046e-54ce-472a-8379-cc1c550fbc13
+:END:
+#+TITLE: Scf Elpezclx Ogc Lehvc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ogc Lehvc
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 9.38
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 7.0
+- ratings :: [[id:8250b397-4f8e-44d4-9f94-dd567296c3af][Scf Elpezclx Ogc Lehvc NV - 1999-4-18]]
+
+

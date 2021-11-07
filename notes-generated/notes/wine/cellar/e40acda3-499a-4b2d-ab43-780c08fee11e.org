@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     e40acda3-499a-4b2d-ab43-780c08fee11e
+:END:
+#+TITLE: Qay Dmbpn 1928
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Dmbpn
+- vintage :: 1928
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 10.27
+- sugar :: 0.4
+- price :: 61.60 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

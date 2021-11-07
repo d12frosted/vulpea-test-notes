@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     159bd2cc-5213-48ba-948e-0b5a69045c67
+:END:
+#+TITLE: Jjkswvm Rcm Rgdkdph 1972 - 2001-10-17
+
+- wine :: [[id:d8686131-78a9-4e24-95ef-d161e245667f][Jjkswvm Rcm Rgdkdph 1972]]
+- date :: 2001-10-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

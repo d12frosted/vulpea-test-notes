@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     81a2be37-853c-4bfb-9d37-b222180bd026
+:END:
+#+TITLE: Scf Elpezclx Thdefnp Fndhlu 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Thdefnp Fndhlu
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.85
+- sugar :: 7.19
+- price :: 90.83 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:4f2cda36-8a12-47fa-bb75-b257d87d8394][Scf Elpezclx Thdefnp Fndhlu NV - 2007-3-26]]
+
+

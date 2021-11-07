@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c6be9bb3-8b93-4101-8f6c-c8766dd5021a
+:END:
+#+TITLE: Cowhhax Upmqcgn Cvoi 2006
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Cvoi
+- vintage :: 2006
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.34
+- sugar :: 9.01
+- price :: 88.22 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:5d8553f6-4810-4628-bc06-0b2932b0f29a][Cowhhax Upmqcgn Cvoi 2006 - 2022-6-5]]
+
+

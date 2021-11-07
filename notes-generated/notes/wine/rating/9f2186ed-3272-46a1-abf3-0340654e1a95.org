@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9f2186ed-3272-46a1-abf3-0340654e1a95
+:END:
+#+TITLE: Giih Udr Yyfjh Vyfvq 1980 - 2002-5-28
+
+- wine :: [[id:f4e6f33f-3b77-414f-99b7-54e0d3746efa][Giih Udr Yyfjh Vyfvq 1980]]
+- date :: 2002-5-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

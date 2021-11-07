@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ac53d217-5ef8-47a2-9068-d5ed465c92c7
+:END:
+#+TITLE: Scf Elpezclx Jhx 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Jhx
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.0
+- price :: 83.35 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

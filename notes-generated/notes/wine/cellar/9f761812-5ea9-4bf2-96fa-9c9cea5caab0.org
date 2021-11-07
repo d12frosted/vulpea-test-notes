@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9f761812-5ea9-4bf2-96fa-9c9cea5caab0
+:END:
+#+TITLE: Cowhhax Upmqcgn Sufypkv 1900
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Sufypkv
+- vintage :: 1900
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.17
+- price :: 93.03 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

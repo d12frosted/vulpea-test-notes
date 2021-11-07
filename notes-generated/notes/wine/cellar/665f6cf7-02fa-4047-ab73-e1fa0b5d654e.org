@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     665f6cf7-02fa-4047-ab73-e1fa0b5d654e
+:END:
+#+TITLE: Lrwk Jbaxrmn Wpl Ojsriv 2019
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Wpl Ojsriv
+- vintage :: 2019
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.47
+- price :: 41.12 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

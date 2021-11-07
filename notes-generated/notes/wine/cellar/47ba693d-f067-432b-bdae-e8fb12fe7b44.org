@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     47ba693d-f067-432b-bdae-e8fb12fe7b44
+:END:
+#+TITLE: Cowhhax Upmqcgn Gnv 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Gnv
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.47
+- sugar :: 7.91
+- price :: 21.29 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:e714f941-9a33-4f41-a6c9-ab2dea9778cd][Cowhhax Upmqcgn Gnv NV - 2003-6-12]]
+
+

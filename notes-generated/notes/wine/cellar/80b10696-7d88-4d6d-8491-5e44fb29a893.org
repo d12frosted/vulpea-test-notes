@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     80b10696-7d88-4d6d-8491-5e44fb29a893
+:END:
+#+TITLE: Jjkswvm Rcm Txbdhow 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Txbdhow
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 13.620000000000001
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:3f4cb747-c3d1-4c72-b1b3-c87481b8c019][Jjkswvm Rcm Txbdhow NV - 1999-7-1]]
+
+

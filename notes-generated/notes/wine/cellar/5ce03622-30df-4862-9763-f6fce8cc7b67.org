@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5ce03622-30df-4862-9763-f6fce8cc7b67
+:END:
+#+TITLE: Yokf Gwhwycw Rtlogovs 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Rtlogovs
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.95
+- sugar :: 8.49
+- price :: 14.74 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:e4d9ecaa-61e4-4dc0-85d0-49992ef5c507][Yokf Gwhwycw Rtlogovs NV - 1994-10-14]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f6099d43-315f-452b-b540-85f6d688458b
+:END:
+#+TITLE: Jjkswvm Rcm Ywn Lhx NV - 2020-4-27
+
+- wine :: [[id:fb3da754-7de9-4f84-826d-2b0f8941fa9b][Jjkswvm Rcm Ywn Lhx]]
+- date :: 2020-4-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

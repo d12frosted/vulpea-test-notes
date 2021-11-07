@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a0ee1a9e-5cc9-43b8-a40f-85d44b983bb0
+:END:
+#+TITLE: Lrwk Jbaxrmn Azarg NV - 2003-1-24
+
+- wine :: [[id:40d35218-3d64-40d9-abd3-31c893994358][Lrwk Jbaxrmn Azarg]]
+- date :: 2003-1-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

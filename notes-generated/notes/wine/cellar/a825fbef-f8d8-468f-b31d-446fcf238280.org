@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a825fbef-f8d8-468f-b31d-446fcf238280
+:END:
+#+TITLE: Qay Yfstvs 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Yfstvs
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 13.65
+- sugar :: 16.19
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:d89f7ef8-fbf8-4a14-ba2b-7c30f443ee97][Qay Yfstvs NV - 2022-11-27]]
+
+

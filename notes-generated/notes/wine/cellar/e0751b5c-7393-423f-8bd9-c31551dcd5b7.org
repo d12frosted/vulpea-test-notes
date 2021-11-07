@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e0751b5c-7393-423f-8bd9-c31551dcd5b7
+:END:
+#+TITLE: Scf Elpezclx Jbobd 1929
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Jbobd
+- vintage :: 1929
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.15
+- sugar :: 0.83
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

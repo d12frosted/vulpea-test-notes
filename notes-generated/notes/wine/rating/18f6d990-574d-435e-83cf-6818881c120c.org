@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     18f6d990-574d-435e-83cf-6818881c120c
+:END:
+#+TITLE: Jjkswvm Rcm Zamipecu Wao NV - 2013-5-12
+
+- wine :: [[id:2ef3338d-5769-44e3-9907-3066fd2b2cc2][Jjkswvm Rcm Zamipecu Wao]]
+- date :: 2013-5-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

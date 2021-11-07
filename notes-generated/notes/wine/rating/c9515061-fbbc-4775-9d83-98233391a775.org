@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c9515061-fbbc-4775-9d83-98233391a775
+:END:
+#+TITLE: Jjkswvm Rcm Gkfrd 1902 - 1998-3-27
+
+- wine :: [[id:f526ff81-ffd2-49cb-8237-dd8d9f4876a3][Jjkswvm Rcm Gkfrd 1902]]
+- date :: 1998-3-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

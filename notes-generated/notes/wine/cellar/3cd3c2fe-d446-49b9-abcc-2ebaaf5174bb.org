@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3cd3c2fe-d446-49b9-abcc-2ebaaf5174bb
+:END:
+#+TITLE: Jjkswvm Rcm Ytb Gblop 1911
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ytb Gblop
+- vintage :: 1911
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.75
+- price :: 42.01 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:c24b4d4a-b79d-4ce6-994e-123c3f45830b][Jjkswvm Rcm Ytb Gblop 1911 - 2005-9-8]]
+
+

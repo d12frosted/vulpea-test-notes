@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     88ff6ff8-dfee-4c8b-8330-91955e959635
+:END:
+#+TITLE: Cowhhax Upmqcgn Ruqln NV - 2006-8-28
+
+- wine :: [[id:f6def581-e2c5-470a-8d17-2bcb82e5f341][Cowhhax Upmqcgn Ruqln]]
+- date :: 2006-8-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

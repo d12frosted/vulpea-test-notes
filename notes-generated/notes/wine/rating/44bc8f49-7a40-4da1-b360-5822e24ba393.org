@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     44bc8f49-7a40-4da1-b360-5822e24ba393
+:END:
+#+TITLE: Jjkswvm Rcm Epxnhv NV - 2015-2-28
+
+- wine :: [[id:3fac1507-9621-4076-aadd-39553a44a0c4][Jjkswvm Rcm Epxnhv]]
+- date :: 2015-2-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

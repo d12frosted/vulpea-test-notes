@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     793556d3-07ec-4188-9355-222365177e6d
+:END:
+#+TITLE: Jjkswvm Rcm Tuwjxkhy Liu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Tuwjxkhy Liu
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 11.67
+- sugar :: 18.15
+- price :: 91.18 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:b6a92903-46a4-473d-9805-1e0e382f5fab][Jjkswvm Rcm Tuwjxkhy Liu NV - 2016-7-27]]
+
+

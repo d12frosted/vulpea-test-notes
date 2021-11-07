@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d896683d-f09e-4f8e-b171-a43fb575b5d3
+:END:
+#+TITLE: Yokf Gwhwycw Evshpq Znpzlbi 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Evshpq Znpzlbi
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 9.67
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 7.0
+- ratings :: [[id:7dfd27f7-87d8-4ecb-a905-ea21d41b95e8][Yokf Gwhwycw Evshpq Znpzlbi NV - 2022-9-5]]
+
+

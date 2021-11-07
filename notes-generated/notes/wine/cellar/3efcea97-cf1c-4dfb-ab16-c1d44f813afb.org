@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3efcea97-cf1c-4dfb-ab16-c1d44f813afb
+:END:
+#+TITLE: Jjkswvm Rcm Sxxwnzu 1923
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Sxxwnzu
+- vintage :: 1923
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.42
+- sugar :: 10.31
+- price :: 72.47 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:41df3ea0-bb75-4635-b0b6-8771ef5388c8][Jjkswvm Rcm Sxxwnzu 1923 - 2023-1-17]]
+
+

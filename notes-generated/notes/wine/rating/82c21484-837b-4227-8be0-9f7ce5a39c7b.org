@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     82c21484-837b-4227-8be0-9f7ce5a39c7b
+:END:
+#+TITLE: Cowhhax Upmqcgn Vbpn Mmaxlcz NV - 2017-4-1
+
+- wine :: [[id:22da2be0-1f54-4e70-81a8-c11e73012935][Cowhhax Upmqcgn Vbpn Mmaxlcz]]
+- date :: 2017-4-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

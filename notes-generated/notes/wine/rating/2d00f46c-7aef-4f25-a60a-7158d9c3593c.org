@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2d00f46c-7aef-4f25-a60a-7158d9c3593c
+:END:
+#+TITLE: Yjfq Yad Tryqi 1928 - 2024-9-13
+
+- wine :: [[id:008548cc-6c83-4eb1-b766-a9dc335751df][Yjfq Yad Tryqi 1928]]
+- date :: 2024-9-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

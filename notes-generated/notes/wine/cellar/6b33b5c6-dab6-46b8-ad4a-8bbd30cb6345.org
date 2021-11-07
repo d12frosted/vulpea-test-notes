@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6b33b5c6-dab6-46b8-ad4a-8bbd30cb6345
+:END:
+#+TITLE: Ecxknc Iepvhans Wcwcausb 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Wcwcausb
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 11.48
+- sugar :: 7.29
+- price :: 95.30 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:6d7b3bd1-d68c-452d-92c6-b75fbdfb5478][Ecxknc Iepvhans Wcwcausb NV - 2005-1-3]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d9cdbc0f-7194-4a23-8e42-fd4b6bd6072b
+:END:
+#+TITLE: Lrwk Jbaxrmn Fqeuih 1948
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Fqeuih
+- vintage :: 1948
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 9.8
+- price :: 46.18 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:75b174f3-c466-4ebe-8382-183ab6c3fe76][Lrwk Jbaxrmn Fqeuih 1948 - 2023-2-17]]
+
+

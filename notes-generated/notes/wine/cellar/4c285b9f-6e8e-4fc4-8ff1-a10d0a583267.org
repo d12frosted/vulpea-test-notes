@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4c285b9f-6e8e-4fc4-8ff1-a10d0a583267
+:END:
+#+TITLE: Yjfq Sqt Xkabp 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Sqt Xkabp
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.14
+- price :: 96.08 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

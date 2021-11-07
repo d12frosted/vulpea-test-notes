@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     38c998b5-893b-48cd-92f2-659988f73102
+:END:
+#+TITLE: Yokf Gwhwycw Psimo 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Psimo
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 11.01
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:faa82e96-30d5-43f6-a536-fd3d0bbd4e82][Yokf Gwhwycw Psimo NV - 2007-10-3]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1e64a317-0872-4311-a7c0-6abd4ef652ba
+:END:
+#+TITLE: Giih Udr Zxemlhpt 1946
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Zxemlhpt
+- vintage :: 1946
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 13.73
+- sugar :: 9.77
+- price :: 51.85 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.0
+- ratings :: [[id:c4b050c4-7730-4711-a3a1-77539afc115a][Giih Udr Zxemlhpt 1946 - 2004-4-23]]
+
+

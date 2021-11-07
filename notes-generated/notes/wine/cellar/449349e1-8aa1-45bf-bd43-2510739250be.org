@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     449349e1-8aa1-45bf-bd43-2510739250be
+:END:
+#+TITLE: Yjfq Emgjdthx Syhfgk 1991
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Emgjdthx Syhfgk
+- vintage :: 1991
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 12.59
+- price :: 62.53 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

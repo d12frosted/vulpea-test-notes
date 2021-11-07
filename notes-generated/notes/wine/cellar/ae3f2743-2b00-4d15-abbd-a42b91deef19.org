@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     ae3f2743-2b00-4d15-abbd-a42b91deef19
+:END:
+#+TITLE: Scf Elpezclx Pln 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Pln
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 12.79
+- price :: 87.89 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

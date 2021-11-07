@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f04e03bf-4117-4cce-bf8b-7870f8ed057a
+:END:
+#+TITLE: Ecxknc Iepvhans Zzznnjq 1960 - 2009-8-24
+
+- wine :: [[id:580ba289-3382-46a4-b8ec-7b406ea5523c][Ecxknc Iepvhans Zzznnjq 1960]]
+- date :: 2009-8-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

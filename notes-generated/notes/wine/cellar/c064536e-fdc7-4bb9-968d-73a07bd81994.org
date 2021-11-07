@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     c064536e-fdc7-4bb9-968d-73a07bd81994
+:END:
+#+TITLE: Cowhhax Upmqcgn Rjibbb Kgutlph 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Rjibbb Kgutlph
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.37
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

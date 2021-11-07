@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9244883b-629c-440c-8e66-cebc348a7197
+:END:
+#+TITLE: Qay Chhdw Cqwich 1966 - 2006-2-10
+
+- wine :: [[id:1808d0b3-2299-4d00-a209-858866eac9c0][Qay Chhdw Cqwich 1966]]
+- date :: 2006-2-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

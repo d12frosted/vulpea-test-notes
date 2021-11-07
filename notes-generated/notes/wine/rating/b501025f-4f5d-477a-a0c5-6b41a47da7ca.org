@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b501025f-4f5d-477a-a0c5-6b41a47da7ca
+:END:
+#+TITLE: Yjfq Svi NV - 2023-11-9
+
+- wine :: [[id:f0f9d4dc-d6a9-457b-aaab-b8d50700a7ee][Yjfq Svi]]
+- date :: 2023-11-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

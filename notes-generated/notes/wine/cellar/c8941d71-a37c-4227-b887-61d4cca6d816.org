@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c8941d71-a37c-4227-b887-61d4cca6d816
+:END:
+#+TITLE: Jjkswvm Rcm Gbrql Bihvkqb 1953
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Gbrql Bihvkqb
+- vintage :: 1953
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 9.69
+- price :: 32.73 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

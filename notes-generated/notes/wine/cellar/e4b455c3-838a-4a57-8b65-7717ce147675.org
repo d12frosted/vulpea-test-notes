@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e4b455c3-838a-4a57-8b65-7717ce147675
+:END:
+#+TITLE: Lrwk Jbaxrmn Wzgmzj Jerxqwfz 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Wzgmzj Jerxqwfz
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.3
+- sugar :: 18.59
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:840f8506-130a-42ff-9993-672b3f9ac82d][Lrwk Jbaxrmn Wzgmzj Jerxqwfz NV - 2021-6-27]]
+
+

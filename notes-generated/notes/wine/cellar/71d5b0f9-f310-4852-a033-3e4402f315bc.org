@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     71d5b0f9-f310-4852-a033-3e4402f315bc
+:END:
+#+TITLE: Jjkswvm Rcm Iayjr 1902
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Iayjr
+- vintage :: 1902
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 11.71
+- sugar :: 9.94
+- price :: 29.64 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 5.5
+- ratings :: [[id:a19c7ad9-6f7b-4897-80be-875e5d9b781a][Jjkswvm Rcm Iayjr 1902 - 2017-3-17]]
+
+

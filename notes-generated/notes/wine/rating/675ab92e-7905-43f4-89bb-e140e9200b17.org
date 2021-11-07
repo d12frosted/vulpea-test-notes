@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     675ab92e-7905-43f4-89bb-e140e9200b17
+:END:
+#+TITLE: Qay Jvsdvk NV - 1991-3-19
+
+- wine :: [[id:3bb2dc0a-47c1-4af1-b165-62a1e5470169][Qay Jvsdvk]]
+- date :: 1991-3-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

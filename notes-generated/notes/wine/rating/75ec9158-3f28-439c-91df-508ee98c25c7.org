@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     75ec9158-3f28-439c-91df-508ee98c25c7
+:END:
+#+TITLE: Lrwk Jbaxrmn Fas NV - 1993-1-23
+
+- wine :: [[id:b762847a-42e6-432f-94bb-6f5c9ff1c6c0][Lrwk Jbaxrmn Fas]]
+- date :: 1993-1-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     e40d5ff9-3469-4e30-893a-738d417665a7
+:END:
+#+TITLE: Lrwk Jbaxrmn Vapnhq 1956
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Vapnhq
+- vintage :: 1956
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 10.29
+- sugar :: 10.3
+- price :: 45.57 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 7.5
+- ratings :: [[id:360c29ed-4a93-4e49-a034-41d3a867438c][Lrwk Jbaxrmn Vapnhq 1956 - 2020-6-18]]
+
+

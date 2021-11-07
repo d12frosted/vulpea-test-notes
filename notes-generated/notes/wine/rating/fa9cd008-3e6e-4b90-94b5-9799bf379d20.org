@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fa9cd008-3e6e-4b90-94b5-9799bf379d20
+:END:
+#+TITLE: Giih Udr Dwxobnxs 1961 - 2004-9-2
+
+- wine :: [[id:43dcaade-5f9c-4263-aab8-1642084c7e29][Giih Udr Dwxobnxs 1961]]
+- date :: 2004-9-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

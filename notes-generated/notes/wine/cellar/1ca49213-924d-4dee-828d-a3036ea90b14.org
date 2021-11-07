@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1ca49213-924d-4dee-828d-a3036ea90b14
+:END:
+#+TITLE: Yokf Gwhwycw Pkhovu 1981
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Pkhovu
+- vintage :: 1981
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 13.89
+- sugar :: 17.17
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:79fdda76-04ca-4a5e-bc77-27b6e5756a3f][Yokf Gwhwycw Pkhovu 1981 - 2009-8-7]]
+
+

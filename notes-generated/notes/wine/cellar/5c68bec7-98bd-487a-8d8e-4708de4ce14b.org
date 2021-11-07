@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5c68bec7-98bd-487a-8d8e-4708de4ce14b
+:END:
+#+TITLE: Yjfq Ipmdbiek Cfufsc 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ipmdbiek Cfufsc
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 11.3
+- sugar :: 16.89
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:8d01615b-b916-41ee-8f0b-b3003b4e9a83][Yjfq Ipmdbiek Cfufsc NV - 2022-10-10]]
+
+

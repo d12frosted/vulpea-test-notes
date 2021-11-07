@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e88a3a69-c167-4116-8d45-92d1ae93c6c3
+:END:
+#+TITLE: Yokf Gwhwycw Numhckcn Kzuvhzt 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Numhckcn Kzuvhzt
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.65
+- sugar :: 3.45
+- price :: 83.26 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:6552df3a-a0a9-4ebc-9a0a-15dbf4183a2e][Yokf Gwhwycw Numhckcn Kzuvhzt NV - 2018-9-7]]
+
+

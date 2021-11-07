@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7be63362-d642-4f33-ac40-eaa48cf1c72f
+:END:
+#+TITLE: Giih Udr Yeft 2003 - 1994-2-13
+
+- wine :: [[id:fa817ad2-2daf-4134-8b24-e7c3b4e6f2c9][Giih Udr Yeft 2003]]
+- date :: 1994-2-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

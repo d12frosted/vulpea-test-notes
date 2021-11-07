@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     dbe918b0-fc5a-475f-ba29-7898f8ef5b3d
+:END:
+#+TITLE: Cowhhax Upmqcgn Kzmcwg Vucvt 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Kzmcwg Vucvt
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.75
+- sugar :: 13.48
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA
+
+

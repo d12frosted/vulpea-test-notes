@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     f279f4f0-7fb6-4446-b8bf-94a51f4cefa2
+:END:
+#+TITLE: Lrwk Jbaxrmn Kirci Pve 1997
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Kirci Pve
+- vintage :: 1997
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 12.34
+- sugar :: 21.36
+- price :: 57.98 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 7.0
+- ratings :: [[id:7ee230f6-fd08-4094-b48a-770cb0c5e569][Lrwk Jbaxrmn Kirci Pve 1997 - 2009-7-26]]
+
+

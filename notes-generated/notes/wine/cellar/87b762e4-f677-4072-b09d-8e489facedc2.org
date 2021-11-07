@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     87b762e4-f677-4072-b09d-8e489facedc2
+:END:
+#+TITLE: Qay Nhj 1945
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Nhj
+- vintage :: 1945
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.03
+- price :: 79.23 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.0
+- ratings :: [[id:712bf5e1-2eaa-4a00-8a84-692875d67c81][Qay Nhj 1945 - 1999-5-3]]
+
+

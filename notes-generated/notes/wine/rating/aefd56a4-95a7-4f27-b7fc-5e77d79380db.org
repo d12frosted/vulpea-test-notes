@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     aefd56a4-95a7-4f27-b7fc-5e77d79380db
+:END:
+#+TITLE: Jjkswvm Rcm Exgsmvm 1951 - 2021-6-25
+
+- wine :: [[id:a0532640-57d1-4ca2-90c0-43b586f04415][Jjkswvm Rcm Exgsmvm 1951]]
+- date :: 2021-6-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

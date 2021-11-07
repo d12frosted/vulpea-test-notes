@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7c464d49-1f45-4efc-9a7b-9abc065d0548
+:END:
+#+TITLE: Scf Elpezclx Axtkqyp 1997
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Axtkqyp
+- vintage :: 1997
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.52
+- price :: 17.07 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

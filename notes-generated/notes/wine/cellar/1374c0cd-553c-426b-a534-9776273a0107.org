@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1374c0cd-553c-426b-a534-9776273a0107
+:END:
+#+TITLE: Ecxknc Iepvhans Ipdqb Xfre 1967
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ipdqb Xfre
+- vintage :: 1967
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.93
+- price :: 75.55 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

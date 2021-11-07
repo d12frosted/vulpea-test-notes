@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7efca9b9-4eab-403e-aa26-a5fa86debd1b
+:END:
+#+TITLE: Scf Elpezclx Aehh Vgfobkje 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Aehh Vgfobkje
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 13.39
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:568a4fb4-5707-4ff9-8ecc-aa92b5bcdd1d][Scf Elpezclx Aehh Vgfobkje NV - 1999-4-16]]
+
+

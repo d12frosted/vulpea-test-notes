@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0ed4dab3-0e1a-4a75-960b-20c6d5fc89c0
+:END:
+#+TITLE: Qay Fney Wpzokwk NV - 2021-6-27
+
+- wine :: [[id:bacc636f-8f46-4394-ba9e-8547dca334b1][Qay Fney Wpzokwk]]
+- date :: 2021-6-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

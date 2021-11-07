@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b0da4df7-be21-4146-927c-1f7746ce70c7
+:END:
+#+TITLE: Yjfq Had Zfgcq 2004
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Had Zfgcq
+- vintage :: 2004
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.59
+- sugar :: 22.18
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:164e2adf-15ee-4622-9f9c-1ec5f4696263][Yjfq Had Zfgcq 2004 - 2017-9-23]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     03d2d95c-7ed4-4f76-b09e-d882f425b432
+:END:
+#+TITLE: Scf Elpezclx Zmbkkhp Svkqdgy NV - 2010-12-22
+
+- wine :: [[id:e483d4bf-7856-4f59-90ba-279b20b21066][Scf Elpezclx Zmbkkhp Svkqdgy]]
+- date :: 2010-12-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

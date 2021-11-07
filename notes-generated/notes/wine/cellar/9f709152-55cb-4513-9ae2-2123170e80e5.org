@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9f709152-55cb-4513-9ae2-2123170e80e5
+:END:
+#+TITLE: Ecxknc Iepvhans Lkj Fmuhdyr 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Lkj Fmuhdyr
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 11.09
+- price :: 26.45 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:00f79881-8467-4cdf-b113-9c67ae2da489][Ecxknc Iepvhans Lkj Fmuhdyr NV - 2002-10-26]]
+
+

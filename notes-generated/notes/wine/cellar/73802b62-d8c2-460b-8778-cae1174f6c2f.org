@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     73802b62-d8c2-460b-8778-cae1174f6c2f
+:END:
+#+TITLE: Ecxknc Iepvhans Xlfvgczk 1943
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Xlfvgczk
+- vintage :: 1943
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.2
+- price :: 91.52 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:99123f77-bcc7-42f0-b1b0-93e3a5032d21][Ecxknc Iepvhans Xlfvgczk 1943 - 1999-11-3]]
+
+

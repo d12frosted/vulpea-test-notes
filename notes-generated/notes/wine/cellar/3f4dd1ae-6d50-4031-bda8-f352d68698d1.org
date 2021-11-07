@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     3f4dd1ae-6d50-4031-bda8-f352d68698d1
+:END:
+#+TITLE: Jjkswvm Rcm Ytv Vasxa 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ytv Vasxa
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 9.39
+- sugar :: 12.61
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

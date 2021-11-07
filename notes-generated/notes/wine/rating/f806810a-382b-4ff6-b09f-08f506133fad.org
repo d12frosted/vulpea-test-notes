@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f806810a-382b-4ff6-b09f-08f506133fad
+:END:
+#+TITLE: Nhozxqe Aldl Usac 1949 - 2011-11-12
+
+- wine :: [[id:8be0af6b-bdcd-4f8a-9bd5-273fc04ee1ad][Nhozxqe Aldl Usac 1949]]
+- date :: 2011-11-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

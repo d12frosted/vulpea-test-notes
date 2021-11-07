@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e7f160da-f2c8-4ebc-a0af-5d24a4294840
+:END:
+#+TITLE: Qay Ees Fwmkxdm 1962
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ees Fwmkxdm
+- vintage :: 1962
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 11.4
+- sugar :: 13.03
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA
+
+

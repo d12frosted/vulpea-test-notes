@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3c5ffdc9-8746-4bc3-930d-c6023f1c8c57
+:END:
+#+TITLE: Scf Elpezclx Muesmogf Pufiyv 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Muesmogf Pufiyv
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 11.03
+- sugar :: 18.05
+- price :: 64.23 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:45477002-fa8e-409b-8c5c-232e0e00077c][Scf Elpezclx Muesmogf Pufiyv NV - 2010-11-25]]
+
+

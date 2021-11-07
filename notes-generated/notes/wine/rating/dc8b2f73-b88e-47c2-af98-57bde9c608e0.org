@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dc8b2f73-b88e-47c2-af98-57bde9c608e0
+:END:
+#+TITLE: Giih Udr Kxqt Hawfd 1939 - 2004-11-3
+
+- wine :: [[id:53695f93-26c7-4b6f-83b8-ebe4a829b187][Giih Udr Kxqt Hawfd 1939]]
+- date :: 2004-11-3
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

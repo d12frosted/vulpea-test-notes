@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     c8021349-dcdd-443b-a78b-7b8587192bf5
+:END:
+#+TITLE: Cowhhax Upmqcgn Oqw Fhmzkude 1951
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Oqw Fhmzkude
+- vintage :: 1951
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.09
+- sugar :: 4.77
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 2.0
+- ratings :: [[id:187927b9-583d-4080-9aef-2b21a0281dc6][Cowhhax Upmqcgn Oqw Fhmzkude 1951 - 2023-12-5]]
+
+

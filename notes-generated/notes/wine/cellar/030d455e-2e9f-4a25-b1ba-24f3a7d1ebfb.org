@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     030d455e-2e9f-4a25-b1ba-24f3a7d1ebfb
+:END:
+#+TITLE: Jjkswvm Rcm Fdzuc Agftdg 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Fdzuc Agftdg
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 9.03
+- sugar :: 8.37
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:de7087d8-4535-4856-b2b8-8e73d07ccf70][Jjkswvm Rcm Fdzuc Agftdg NV - 2020-10-22]]
+
+

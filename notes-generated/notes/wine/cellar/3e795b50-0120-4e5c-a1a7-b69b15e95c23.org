@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3e795b50-0120-4e5c-a1a7-b69b15e95c23
+:END:
+#+TITLE: Lrwk Jbaxrmn Xkq 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xkq
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.620000000000001
+- sugar :: 7.4
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA
+
+

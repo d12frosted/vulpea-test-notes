@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     450559ba-2f22-42f4-9164-fee84e3d1049
+:END:
+#+TITLE: Nhozxqe Aldl Hgvad 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hgvad
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.89
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA
+
+

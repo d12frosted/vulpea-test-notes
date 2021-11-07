@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b66fdbf8-6446-41c4-8296-4f35d8df81d3
+:END:
+#+TITLE: Qay Bdcq Bpzg NV - 1998-10-22
+
+- wine :: [[id:29c8da97-2241-40f8-9484-2c6d49605a0d][Qay Bdcq Bpzg]]
+- date :: 1998-10-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

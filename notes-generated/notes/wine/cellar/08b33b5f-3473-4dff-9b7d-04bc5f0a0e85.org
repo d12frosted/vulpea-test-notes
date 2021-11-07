@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     08b33b5f-3473-4dff-9b7d-04bc5f0a0e85
+:END:
+#+TITLE: Nhozxqe Aldl Xmqyvutb Knnzit 2003
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xmqyvutb Knnzit
+- vintage :: 2003
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.74
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA
+
+

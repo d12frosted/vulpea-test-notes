@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4414b572-3050-4e36-9883-d19b8e426f8a
+:END:
+#+TITLE: Scf Elpezclx Brjvoa Riahrj 1919 - 2011-10-8
+
+- wine :: [[id:6d8222d1-6e13-4912-b5ff-ab8a4266beec][Scf Elpezclx Brjvoa Riahrj 1919]]
+- date :: 2011-10-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

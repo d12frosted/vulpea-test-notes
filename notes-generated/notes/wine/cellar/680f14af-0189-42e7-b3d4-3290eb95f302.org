@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     680f14af-0189-42e7-b3d4-3290eb95f302
+:END:
+#+TITLE: Qay Izbr Ilbumcx 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Izbr Ilbumcx
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.58
+- sugar :: 9.1
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 2.5
+- ratings :: [[id:d6da9a71-c325-42f1-b570-da3b9d6b5847][Qay Izbr Ilbumcx NV - 1993-6-23]]
+
+

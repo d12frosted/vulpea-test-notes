@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f740f4d4-cd19-4e21-b26e-de0069d9a64a
+:END:
+#+TITLE: Scf Elpezclx Vecoana 1923 - 2006-12-20
+
+- wine :: [[id:29556f5f-6e1d-466f-94b5-1f92e143f0d8][Scf Elpezclx Vecoana 1923]]
+- date :: 2006-12-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

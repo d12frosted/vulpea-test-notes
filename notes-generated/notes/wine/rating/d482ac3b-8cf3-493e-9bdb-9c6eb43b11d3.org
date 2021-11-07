@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d482ac3b-8cf3-493e-9bdb-9c6eb43b11d3
+:END:
+#+TITLE: Cowhhax Upmqcgn Mxnvrhqn 1931 - 2017-4-2
+
+- wine :: [[id:58c3f808-3081-49db-a3dd-b27766c71d5c][Cowhhax Upmqcgn Mxnvrhqn 1931]]
+- date :: 2017-4-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0d196fc8-54ff-429e-b569-8c87daa59a93
+:END:
+#+TITLE: Giih Udr Sqv Rkp NV - 2018-7-25
+
+- wine :: [[id:39142776-4fb0-49ab-b084-d387bcdea08e][Giih Udr Sqv Rkp]]
+- date :: 2018-7-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

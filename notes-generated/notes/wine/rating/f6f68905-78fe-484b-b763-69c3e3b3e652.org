@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f6f68905-78fe-484b-b763-69c3e3b3e652
+:END:
+#+TITLE: Yokf Gwhwycw Csdnto Qefda 1914 - 2009-3-8
+
+- wine :: [[id:6ba4aad1-5394-43e3-a1dd-4041721816ae][Yokf Gwhwycw Csdnto Qefda 1914]]
+- date :: 2009-3-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

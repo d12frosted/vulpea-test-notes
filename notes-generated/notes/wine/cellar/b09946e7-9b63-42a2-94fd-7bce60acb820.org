@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b09946e7-9b63-42a2-94fd-7bce60acb820
+:END:
+#+TITLE: Yjfq Wxtbbej 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Wxtbbej
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 10.56
+- price :: 83.64 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

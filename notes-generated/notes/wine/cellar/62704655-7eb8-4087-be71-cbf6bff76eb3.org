@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     62704655-7eb8-4087-be71-cbf6bff76eb3
+:END:
+#+TITLE: Qay Pmopke Zklckdmx 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Pmopke Zklckdmx
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 9.55
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 8.0
+- ratings :: [[id:114e250a-32e8-4601-ad07-5f529a5e9830][Qay Pmopke Zklckdmx NV - 1990-4-25]]
+
+

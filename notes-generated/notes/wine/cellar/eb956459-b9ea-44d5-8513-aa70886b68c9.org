@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     eb956459-b9ea-44d5-8513-aa70886b68c9
+:END:
+#+TITLE: Jjkswvm Rcm Uyjaztds 1950
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Uyjaztds
+- vintage :: 1950
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.95
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 7.0
+- ratings :: [[id:533f29ba-868f-4fc4-b01a-fa1cb1d1b735][Jjkswvm Rcm Uyjaztds 1950 - 2015-5-14]]
+
+

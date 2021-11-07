@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b2bd6f5e-0dc6-460e-a6a9-4611b35aa824
+:END:
+#+TITLE: Qay Teat 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Teat
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.02
+- sugar :: 10.24
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

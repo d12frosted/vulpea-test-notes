@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ca550c37-30b1-4941-87cf-d7fbf97d4ec3
+:END:
+#+TITLE: Jjkswvm Rcm Vsew Lyfiqo 1966
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Vsew Lyfiqo
+- vintage :: 1966
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.71
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:7aa7683d-4cfe-4e8d-919e-0a20999cab4f][Jjkswvm Rcm Vsew Lyfiqo 1966 - 2006-11-9]]
+
+

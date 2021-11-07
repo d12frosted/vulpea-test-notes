@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     785cde16-2579-4d6f-b5cb-2e39c2f15c95
+:END:
+#+TITLE: Ecxknc Iepvhans Yvyumg Chrmvjc 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Yvyumg Chrmvjc
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.73
+- price :: 77.59 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 8.5
+- ratings :: [[id:49c7c416-9820-42ce-ba2b-ef5ef1300faf][Ecxknc Iepvhans Yvyumg Chrmvjc NV - 1992-8-28]]
+
+

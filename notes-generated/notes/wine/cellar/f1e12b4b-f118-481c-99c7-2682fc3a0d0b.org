@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f1e12b4b-f118-481c-99c7-2682fc3a0d0b
+:END:
+#+TITLE: Ecxknc Iepvhans Ngay Trynuk 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ngay Trynuk
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 11.2
+- sugar :: 0.29
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:f40e7534-6a8b-4434-8a2b-afeb3015f836][Ecxknc Iepvhans Ngay Trynuk NV - 2023-9-11]]
+
+

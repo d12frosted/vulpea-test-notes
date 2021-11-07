@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7b14fd07-03e9-44f4-ad1f-c911938ad9d4
+:END:
+#+TITLE: Lrwk Jbaxrmn Pgtvwcqq Rryo 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Pgtvwcqq Rryo
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.25
+- sugar :: 2.92
+- price :: 36.62 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA
+
+

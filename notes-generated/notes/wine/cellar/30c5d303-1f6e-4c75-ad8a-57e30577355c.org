@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     30c5d303-1f6e-4c75-ad8a-57e30577355c
+:END:
+#+TITLE: Nhozxqe Aldl Soyhp Qqivtp 1962
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Soyhp Qqivtp
+- vintage :: 1962
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 12.02
+- sugar :: 7.84
+- price :: 75.70 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

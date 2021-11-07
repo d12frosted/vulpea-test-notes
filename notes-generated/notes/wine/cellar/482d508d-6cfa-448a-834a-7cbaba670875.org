@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     482d508d-6cfa-448a-834a-7cbaba670875
+:END:
+#+TITLE: Yokf Gwhwycw Kohl 1931
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Kohl
+- vintage :: 1931
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 9.16
+- price :: 70.43 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.0
+- ratings :: [[id:030f41ca-074b-4e16-9de9-4bb6897d58e4][Yokf Gwhwycw Kohl 1931 - 1998-10-24]]
+
+

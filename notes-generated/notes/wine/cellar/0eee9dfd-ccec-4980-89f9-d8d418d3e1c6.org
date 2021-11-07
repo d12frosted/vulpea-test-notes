@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0eee9dfd-ccec-4980-89f9-d8d418d3e1c6
+:END:
+#+TITLE: Nhozxqe Aldl Veyyugm 1947
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Veyyugm
+- vintage :: 1947
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.26
+- price :: 73.89 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:79e4d899-f1f4-4416-9b17-56baf3b974f9][Nhozxqe Aldl Veyyugm 1947 - 2005-9-21]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0d2cb53b-c167-4356-9f16-83b30467504e
+:END:
+#+TITLE: Yokf Gwhwycw Tquj Pdscib 1919
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Tquj Pdscib
+- vintage :: 1919
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.309999999999999
+- sugar :: 10.62
+- price :: 16.93 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA
+
+

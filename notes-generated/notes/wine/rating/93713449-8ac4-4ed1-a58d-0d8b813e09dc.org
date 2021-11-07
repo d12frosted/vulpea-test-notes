@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     93713449-8ac4-4ed1-a58d-0d8b813e09dc
+:END:
+#+TITLE: Lrwk Jbaxrmn Bqfhu Iqmk NV - 2003-11-23
+
+- wine :: [[id:b986ba40-8df4-469a-8fc9-3ad294a508f3][Lrwk Jbaxrmn Bqfhu Iqmk]]
+- date :: 2003-11-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     74434c00-8456-4fae-a017-ae16435068ef
+:END:
+#+TITLE: Nhozxqe Aldl Ntkh Myrwykh 1944
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ntkh Myrwykh
+- vintage :: 1944
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 13.16
+- sugar :: 7.7
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:31d3dea2-7d6d-466b-a93b-8b0c4cc50978][Nhozxqe Aldl Ntkh Myrwykh 1944 - 2000-5-24]]
+
+

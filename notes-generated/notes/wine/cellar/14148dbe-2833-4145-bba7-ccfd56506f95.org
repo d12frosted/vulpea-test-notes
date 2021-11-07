@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     14148dbe-2833-4145-bba7-ccfd56506f95
+:END:
+#+TITLE: Nhozxqe Aldl Mhofpn Rcexwqet 1942
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Mhofpn Rcexwqet
+- vintage :: 1942
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.04
+- sugar :: 10.28
+- price :: 5.20 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:fac9a16e-b468-4336-9e88-f6f40560ecb9][Nhozxqe Aldl Mhofpn Rcexwqet 1942 - 2017-4-27]]
+
+

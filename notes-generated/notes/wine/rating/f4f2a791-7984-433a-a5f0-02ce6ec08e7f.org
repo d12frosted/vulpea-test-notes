@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f4f2a791-7984-433a-a5f0-02ce6ec08e7f
+:END:
+#+TITLE: Nhozxqe Aldl Ntm Rdldq 1931 - 2000-1-19
+
+- wine :: [[id:bd908329-8423-4c43-9a94-4dc4daf53e02][Nhozxqe Aldl Ntm Rdldq 1931]]
+- date :: 2000-1-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 19
+- score_max :: 20
+- total :: 9.5
+
+

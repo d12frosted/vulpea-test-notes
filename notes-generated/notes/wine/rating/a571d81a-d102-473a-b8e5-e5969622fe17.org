@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a571d81a-d102-473a-b8e5-e5969622fe17
+:END:
+#+TITLE: Yokf Gwhwycw Dsdow Ppidy NV - 2019-7-4
+
+- wine :: [[id:6c553faf-77da-4b68-aeff-eb52cc61b320][Yokf Gwhwycw Dsdow Ppidy]]
+- date :: 2019-7-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

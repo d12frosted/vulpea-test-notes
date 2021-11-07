@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     e27190bf-c758-4f58-a544-20220c66bc6c
+:END:
+#+TITLE: Cowhhax Upmqcgn Czphqpqd Zbzevf 1946
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Czphqpqd Zbzevf
+- vintage :: 1946
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 11.21
+- sugar :: 9.6
+- price :: 19.26 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 3.5
+- ratings :: [[id:0cb72ada-13fc-4abc-8a6b-844b9183630f][Cowhhax Upmqcgn Czphqpqd Zbzevf 1946 - 2024-2-4]]
+
+

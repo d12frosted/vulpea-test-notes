@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     e539bbe7-9193-47a8-a406-dbc2749b56d5
+:END:
+#+TITLE: Cowhhax Upmqcgn Qqgvqs Pesd 1983
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Qqgvqs Pesd
+- vintage :: 1983
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.21
+- sugar :: 21.4
+- price :: 18.74 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:0bfeeae4-f8d1-4e71-a1c2-b1116005c522][Cowhhax Upmqcgn Qqgvqs Pesd 1983 - 2002-10-12]]
+
+

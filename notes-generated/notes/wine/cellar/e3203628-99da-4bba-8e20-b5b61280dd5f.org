@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e3203628-99da-4bba-8e20-b5b61280dd5f
+:END:
+#+TITLE: Yjfq Idu 1956
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Idu
+- vintage :: 1956
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.75
+- sugar :: 10.07
+- price :: 45.98 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

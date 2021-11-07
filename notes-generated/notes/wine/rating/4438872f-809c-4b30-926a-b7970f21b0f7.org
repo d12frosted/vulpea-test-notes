@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4438872f-809c-4b30-926a-b7970f21b0f7
+:END:
+#+TITLE: Scf Elpezclx Vzkv Szvvkbw 1985 - 2004-9-24
+
+- wine :: [[id:ebee8ee3-bf46-43b3-9d3e-0443f35b81dd][Scf Elpezclx Vzkv Szvvkbw 1985]]
+- date :: 2004-9-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 18
+- score_max :: 20
+- total :: 9.0
+
+

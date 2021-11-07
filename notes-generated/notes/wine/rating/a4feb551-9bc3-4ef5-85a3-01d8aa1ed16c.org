@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a4feb551-9bc3-4ef5-85a3-01d8aa1ed16c
+:END:
+#+TITLE: Yokf Gwhwycw Gyovcg Kqt 1978 - 2016-6-17
+
+- wine :: [[id:362f4e77-ba60-42e6-bdf4-4e540b8d1c3b][Yokf Gwhwycw Gyovcg Kqt 1978]]
+- date :: 2016-6-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

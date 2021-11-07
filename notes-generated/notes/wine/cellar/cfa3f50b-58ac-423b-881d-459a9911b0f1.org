@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     cfa3f50b-58ac-423b-881d-459a9911b0f1
+:END:
+#+TITLE: Jjkswvm Rcm Ngsfwq 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ngsfwq
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.879999999999999
+- sugar :: 16.08
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     32f35a5b-b989-45dd-a565-f0b0f8e144af
+:END:
+#+TITLE: Ecxknc Iepvhans Kdrzmkm Zobnwd NV - 2019-6-4
+
+- wine :: [[id:6c87238c-da56-4123-a7ed-0d4d01f7b552][Ecxknc Iepvhans Kdrzmkm Zobnwd]]
+- date :: 2019-6-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

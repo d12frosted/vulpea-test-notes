@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     3d730cce-b00f-4626-8239-e64010a08635
+:END:
+#+TITLE: Qay Cweoqo Lydnvqq 2020
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Cweoqo Lydnvqq
+- vintage :: 2020
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 12.129999999999999
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:18103cf6-a2f6-40c5-906e-a8d4abee7ec0][Qay Cweoqo Lydnvqq 2020 - 2003-10-2]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0979774b-47c6-446f-99de-0e0e468d4061
+:END:
+#+TITLE: Jjkswvm Rcm Bfxe 1914 - 2014-1-13
+
+- wine :: [[id:1922fb04-f4c8-4ad3-a67c-ac2107867e60][Jjkswvm Rcm Bfxe 1914]]
+- date :: 2014-1-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

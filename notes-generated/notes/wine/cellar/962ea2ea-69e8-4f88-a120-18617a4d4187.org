@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     962ea2ea-69e8-4f88-a120-18617a4d4187
+:END:
+#+TITLE: Giih Udr Ciybk Mys 1923
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ciybk Mys
+- vintage :: 1923
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.61
+- sugar :: 9.96
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.0
+- ratings :: [[id:3ac68cde-8a8b-41b9-8dda-9aa81c2513d0][Giih Udr Ciybk Mys 1923 - 2024-11-24]]
+
+

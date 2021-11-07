@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6bb7ddfa-3c1e-4eb2-81d8-a2a06818e5a5
+:END:
+#+TITLE: Cowhhax Upmqcgn Mqchbfee Qojfip NV - 2020-4-8
+
+- wine :: [[id:3caf1bfc-8cba-4bff-8f0d-87c6bf732b85][Cowhhax Upmqcgn Mqchbfee Qojfip]]
+- date :: 2020-4-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     72d1ff90-ab5f-437b-9484-6420912a0555
+:END:
+#+TITLE: Giih Udr Kbpcbeyq 2019 - 1993-3-26
+
+- wine :: [[id:2ff67ddd-b08e-40a2-a040-f480d895c1d3][Giih Udr Kbpcbeyq 2019]]
+- date :: 1993-3-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

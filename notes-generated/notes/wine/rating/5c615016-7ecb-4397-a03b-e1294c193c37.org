@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5c615016-7ecb-4397-a03b-e1294c193c37
+:END:
+#+TITLE: Ecxknc Iepvhans Oeqa 2018 - 1992-1-23
+
+- wine :: [[id:1af730c3-d46e-4dc8-a9e7-4f1f07d01005][Ecxknc Iepvhans Oeqa 2018]]
+- date :: 1992-1-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

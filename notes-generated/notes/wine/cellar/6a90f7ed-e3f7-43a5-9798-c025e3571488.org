@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     6a90f7ed-e3f7-43a5-9798-c025e3571488
+:END:
+#+TITLE: Qay Iaodsx Tkdv 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Iaodsx Tkdv
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 11.94
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

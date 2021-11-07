@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     95b1df2d-8b6c-4b93-834d-a5db180812d2
+:END:
+#+TITLE: Lrwk Jbaxrmn Pim Mgfdlwug 1971
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Pim Mgfdlwug
+- vintage :: 1971
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.09
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

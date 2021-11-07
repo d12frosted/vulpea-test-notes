@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a8c7e3f3-eade-4e7b-a244-83282f07245b
+:END:
+#+TITLE: Lrwk Jbaxrmn Bvsvyd Sfidmc 1913
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Bvsvyd Sfidmc
+- vintage :: 1913
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.78
+- sugar :: 17.49
+- price :: 77.96 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA
+
+

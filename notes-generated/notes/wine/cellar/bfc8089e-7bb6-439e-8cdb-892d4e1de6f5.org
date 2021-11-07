@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     bfc8089e-7bb6-439e-8cdb-892d4e1de6f5
+:END:
+#+TITLE: Yokf Gwhwycw Wyvwwy Fvxcxm 1933
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Wyvwwy Fvxcxm
+- vintage :: 1933
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.69
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:93ac69c9-7c84-4651-9a75-b1e27d893bb9][Yokf Gwhwycw Wyvwwy Fvxcxm 1933 - 1999-10-16]]
+
+

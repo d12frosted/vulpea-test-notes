@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f69085de-f966-448a-ba4e-28bfa5c07892
+:END:
+#+TITLE: Yjfq Vlmf Xdbynl NV - 2022-2-18
+
+- wine :: [[id:e5a3890d-0f61-48cb-bd1f-d3fc4310736a][Yjfq Vlmf Xdbynl]]
+- date :: 2022-2-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

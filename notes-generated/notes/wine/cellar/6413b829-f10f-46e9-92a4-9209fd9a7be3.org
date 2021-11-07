@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6413b829-f10f-46e9-92a4-9209fd9a7be3
+:END:
+#+TITLE: Jjkswvm Rcm Ypxhbk 1957
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ypxhbk
+- vintage :: 1957
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.34
+- sugar :: 21.89
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:6489e0e6-163a-41f5-853d-47825bb7942f][Jjkswvm Rcm Ypxhbk 1957 - 1999-4-15]]
+
+

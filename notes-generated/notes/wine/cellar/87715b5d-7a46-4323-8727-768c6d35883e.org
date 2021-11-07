@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     87715b5d-7a46-4323-8727-768c6d35883e
+:END:
+#+TITLE: Nhozxqe Aldl Nirqts Nqdizjs 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Nirqts Nqdizjs
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.26
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 7.5
+- ratings :: [[id:bf6c9a65-3624-4847-a5dd-5bd86c4bb56e][Nhozxqe Aldl Nirqts Nqdizjs NV - 2002-11-5]]
+
+

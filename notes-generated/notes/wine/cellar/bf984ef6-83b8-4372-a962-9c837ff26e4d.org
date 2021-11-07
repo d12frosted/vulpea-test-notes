@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     bf984ef6-83b8-4372-a962-9c837ff26e4d
+:END:
+#+TITLE: Ecxknc Iepvhans Rvs Xbx 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Rvs Xbx
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 12.370000000000001
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:2b9833c9-16cc-4012-aa7b-1f04d4cef19f][Ecxknc Iepvhans Rvs Xbx NV - 2006-11-7]]
+
+

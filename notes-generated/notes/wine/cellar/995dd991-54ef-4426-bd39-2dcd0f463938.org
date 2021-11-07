@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     995dd991-54ef-4426-bd39-2dcd0f463938
+:END:
+#+TITLE: Qay Iuqbne Wwedm 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Iuqbne Wwedm
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 10.26
+- sugar :: 13.36
+- price :: 27.56 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dd7c978f-86b3-4469-8f39-341109533d07
+:END:
+#+TITLE: Yjfq Tqhtsitz NV - 2011-11-27
+
+- wine :: [[id:ae1c57c3-a42f-48ae-80a7-cd59a00dea52][Yjfq Tqhtsitz]]
+- date :: 2011-11-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

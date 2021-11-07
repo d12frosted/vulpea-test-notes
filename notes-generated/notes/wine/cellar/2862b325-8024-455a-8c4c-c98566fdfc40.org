@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     2862b325-8024-455a-8c4c-c98566fdfc40
+:END:
+#+TITLE: Qay Dnr Rxfui 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Dnr Rxfui
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.15
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA
+
+

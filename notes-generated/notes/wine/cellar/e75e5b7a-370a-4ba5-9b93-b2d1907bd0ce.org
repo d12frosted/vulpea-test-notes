@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e75e5b7a-370a-4ba5-9b93-b2d1907bd0ce
+:END:
+#+TITLE: Nhozxqe Aldl Yjjjhhi Iaw 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Yjjjhhi Iaw
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 13.85
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:490b4bba-0701-490c-8c1b-6a16923eb35c][Nhozxqe Aldl Yjjjhhi Iaw NV - 2024-7-11]]
+
+

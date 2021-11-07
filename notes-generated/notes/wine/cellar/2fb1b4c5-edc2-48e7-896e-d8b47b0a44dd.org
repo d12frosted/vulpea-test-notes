@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2fb1b4c5-edc2-48e7-896e-d8b47b0a44dd
+:END:
+#+TITLE: Yjfq Gaghabik Zeht 1919
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gaghabik Zeht
+- vintage :: 1919
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 9.43
+- price :: 53.27 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

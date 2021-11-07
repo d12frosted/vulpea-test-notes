@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     dd3eeec9-50f4-44cb-8928-251e1a8c7c8d
+:END:
+#+TITLE: Giih Udr Uvfj Nsqwjrai 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Uvfj Nsqwjrai
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 9.29
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

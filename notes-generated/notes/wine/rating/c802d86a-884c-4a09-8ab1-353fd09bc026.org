@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c802d86a-884c-4a09-8ab1-353fd09bc026
+:END:
+#+TITLE: Scf Elpezclx Npm NV - 2012-6-22
+
+- wine :: [[id:982365b8-7d17-4faa-b6de-ed6784bc2765][Scf Elpezclx Npm]]
+- date :: 2012-6-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

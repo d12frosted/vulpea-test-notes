@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     33b39125-cf32-4e72-b83c-cbb5b46fee7d
+:END:
+#+TITLE: Cowhhax Upmqcgn Rwaawave 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Rwaawave
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.42
+- price :: 5.69 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA
+
+

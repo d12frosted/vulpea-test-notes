@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     dc5718dd-d077-4d78-867e-da2ed829c29b
+:END:
+#+TITLE: Jjkswvm Rcm Cxf 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Cxf
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.33
+- price :: 5.93 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:f47d3320-cab4-45db-8809-e5b5d45ff0f1][Jjkswvm Rcm Cxf NV - 2000-6-9]]
+
+

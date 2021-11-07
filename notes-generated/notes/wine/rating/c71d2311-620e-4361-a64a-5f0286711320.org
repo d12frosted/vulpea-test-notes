@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c71d2311-620e-4361-a64a-5f0286711320
+:END:
+#+TITLE: Ecxknc Iepvhans Hnvqw NV - 2015-4-21
+
+- wine :: [[id:9401e274-8620-495c-abac-88974421ccc0][Ecxknc Iepvhans Hnvqw]]
+- date :: 2015-4-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

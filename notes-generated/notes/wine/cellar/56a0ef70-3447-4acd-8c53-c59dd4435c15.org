@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     56a0ef70-3447-4acd-8c53-c59dd4435c15
+:END:
+#+TITLE: Ecxknc Iepvhans Oashrlh 2017
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Oashrlh
+- vintage :: 2017
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.31
+- sugar :: 12.19
+- price :: 50.22 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

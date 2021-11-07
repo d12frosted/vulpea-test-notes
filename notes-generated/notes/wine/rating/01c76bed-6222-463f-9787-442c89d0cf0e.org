@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     01c76bed-6222-463f-9787-442c89d0cf0e
+:END:
+#+TITLE: Cowhhax Upmqcgn Jzj Tpixkkr 1970 - 2011-1-10
+
+- wine :: [[id:afc6f06b-3e45-425b-a634-d27866d85376][Cowhhax Upmqcgn Jzj Tpixkkr 1970]]
+- date :: 2011-1-10
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     982b4b2a-9894-487d-9020-2c215e964021
+:END:
+#+TITLE: Qay Dkbg Sxhynsb 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Dkbg Sxhynsb
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 11.51
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:388be905-bc48-4877-8153-d61ee2e79d21][Qay Dkbg Sxhynsb NV - 1991-2-12]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     405a963e-e95f-4c30-94b3-e0ad67ea572e
+:END:
+#+TITLE: Giih Udr Cyvwoe Fwt NV - 1998-2-4
+
+- wine :: [[id:ac4d153a-860c-4908-9cda-4d95d9b63d6e][Giih Udr Cyvwoe Fwt]]
+- date :: 1998-2-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

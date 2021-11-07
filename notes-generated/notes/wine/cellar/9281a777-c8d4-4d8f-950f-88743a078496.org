@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9281a777-c8d4-4d8f-950f-88743a078496
+:END:
+#+TITLE: Giih Udr Ozxqnrs 1936
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ozxqnrs
+- vintage :: 1936
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 12.76
+- sugar :: 22.82
+- price :: 7.79 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:1edc5159-6504-4106-80e5-2d1243ba8510][Giih Udr Ozxqnrs 1936 - 1990-2-4]]
+
+

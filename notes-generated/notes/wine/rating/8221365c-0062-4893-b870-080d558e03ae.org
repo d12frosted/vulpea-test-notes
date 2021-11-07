@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8221365c-0062-4893-b870-080d558e03ae
+:END:
+#+TITLE: Giih Udr Bhhoohf 1995 - 2021-4-9
+
+- wine :: [[id:a6c61dc5-262d-43ac-95a1-210e566c1213][Giih Udr Bhhoohf 1995]]
+- date :: 2021-4-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

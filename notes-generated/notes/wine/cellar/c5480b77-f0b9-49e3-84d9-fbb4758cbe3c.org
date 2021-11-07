@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     c5480b77-f0b9-49e3-84d9-fbb4758cbe3c
+:END:
+#+TITLE: Yokf Gwhwycw Joxg Esuyixo 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Joxg Esuyixo
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 12.96
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 3.0
+- ratings :: [[id:c029af29-a322-4185-bd6d-d7532ed29073][Yokf Gwhwycw Joxg Esuyixo NV - 1998-2-18]]
+
+

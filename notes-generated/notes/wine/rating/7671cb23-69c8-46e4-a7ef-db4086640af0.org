@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7671cb23-69c8-46e4-a7ef-db4086640af0
+:END:
+#+TITLE: Yjfq Ate Zsrcy 1923 - 2003-12-13
+
+- wine :: [[id:9c67a6c7-83e7-46d5-9449-0f5d00a9822d][Yjfq Ate Zsrcy 1923]]
+- date :: 2003-12-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

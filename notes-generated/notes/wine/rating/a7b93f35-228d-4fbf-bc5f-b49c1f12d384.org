@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a7b93f35-228d-4fbf-bc5f-b49c1f12d384
+:END:
+#+TITLE: Ecxknc Iepvhans Fsmfagb Jtdady 2013 - 2002-11-13
+
+- wine :: [[id:da9d52c9-e6cc-4047-9efe-7567750c2330][Ecxknc Iepvhans Fsmfagb Jtdady 2013]]
+- date :: 2002-11-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

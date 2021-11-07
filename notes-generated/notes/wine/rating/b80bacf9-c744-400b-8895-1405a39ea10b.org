@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b80bacf9-c744-400b-8895-1405a39ea10b
+:END:
+#+TITLE: Nhozxqe Aldl Yppc 2004 - 2018-4-25
+
+- wine :: [[id:8d8df7d7-9d4e-4647-83e3-2657df6cdbdc][Nhozxqe Aldl Yppc 2004]]
+- date :: 2018-4-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

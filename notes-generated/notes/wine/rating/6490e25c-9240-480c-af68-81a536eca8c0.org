@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6490e25c-9240-480c-af68-81a536eca8c0
+:END:
+#+TITLE: Jjkswvm Rcm Enngio Ibxjvzc 1968 - 1990-11-23
+
+- wine :: [[id:732a86ae-d971-48a5-a08b-8d9c21002e35][Jjkswvm Rcm Enngio Ibxjvzc 1968]]
+- date :: 1990-11-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

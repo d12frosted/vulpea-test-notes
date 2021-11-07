@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     55e8c863-3b33-4af9-934d-d0653c577126
+:END:
+#+TITLE: Jjkswvm Rcm Jloic Cpea 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Jloic Cpea
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 10.41
+- sugar :: 8.69
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:4bc5e378-3bf1-4ecb-a4fe-0088f118676f][Jjkswvm Rcm Jloic Cpea NV - 2020-5-20]]
+
+

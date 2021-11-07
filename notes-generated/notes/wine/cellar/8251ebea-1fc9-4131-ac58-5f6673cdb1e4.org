@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     8251ebea-1fc9-4131-ac58-5f6673cdb1e4
+:END:
+#+TITLE: Qay Ycg 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ycg
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 13.059999999999999
+- sugar :: 19.91
+- price :: 10.73 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     26bd5f44-e5a8-4842-a8b8-edcae7d9a213
+:END:
+#+TITLE: Qay Dujpovc 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Dujpovc
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.93
+- sugar :: 3.03
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 7.5
+- ratings :: [[id:bc69e042-8a27-4b90-8cb1-4fd3a5a99600][Qay Dujpovc NV - 2010-1-16]]
+
+

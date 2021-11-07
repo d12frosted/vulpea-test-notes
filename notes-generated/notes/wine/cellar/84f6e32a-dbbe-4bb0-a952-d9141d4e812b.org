@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     84f6e32a-dbbe-4bb0-a952-d9141d4e812b
+:END:
+#+TITLE: Qay Haim Rbtbly 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Haim Rbtbly
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 12.91
+- sugar :: 1.1
+- price :: 91.42 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 2.5
+- ratings :: [[id:b5f71552-4560-4166-ba31-096713b4a149][Qay Haim Rbtbly NV - 2007-2-19]]
+
+

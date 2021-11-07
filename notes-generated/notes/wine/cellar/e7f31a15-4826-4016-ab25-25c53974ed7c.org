@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e7f31a15-4826-4016-ab25-25c53974ed7c
+:END:
+#+TITLE: Nhozxqe Aldl Olejrqc 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Olejrqc
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 11.94
+- price :: 69.67 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:bae82975-dbe1-4348-bef9-005ad3e5ab7d][Nhozxqe Aldl Olejrqc NV - 2019-3-22]]
+
+

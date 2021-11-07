@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f85474ef-889e-4cff-af1c-0502cd22a3f0
+:END:
+#+TITLE: Nhozxqe Aldl Btgg Lubr 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Btgg Lubr
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 10.76
+- sugar :: 14.95
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA
+
+

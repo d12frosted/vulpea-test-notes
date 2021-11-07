@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     957bf6b2-d157-4033-bc96-0bcda54f79f1
+:END:
+#+TITLE: Scf Elpezclx Rucvws 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Rucvws
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.190000000000001
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 3.0
+- ratings :: [[id:2a6cc06b-7ba3-479f-aa3d-b3f6b4469c7a][Scf Elpezclx Rucvws NV - 1999-5-10]]
+
+

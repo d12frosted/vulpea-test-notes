@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     785a9a21-3e1f-4462-9b50-b26a6926633d
+:END:
+#+TITLE: Cowhhax Upmqcgn Tmnhxt Zpiqkhy 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Tmnhxt Zpiqkhy
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 11.91
+- sugar :: 5.03
+- price :: 51.94 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

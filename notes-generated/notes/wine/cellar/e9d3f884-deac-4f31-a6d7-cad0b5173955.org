@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e9d3f884-deac-4f31-a6d7-cad0b5173955
+:END:
+#+TITLE: Jjkswvm Rcm Zftgbr 1932
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zftgbr
+- vintage :: 1932
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 12.19
+- sugar :: 16.93
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:e8c5e872-5202-49ca-891f-ef2c0e171ecd][Jjkswvm Rcm Zftgbr 1932 - 2016-2-20]]
+
+

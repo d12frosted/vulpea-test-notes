@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6f992a52-e7a6-47f3-b2f3-d2bc4b7b7e61
+:END:
+#+TITLE: Lrwk Jbaxrmn Srtl Vdhwjfq 1943 - 2011-4-2
+
+- wine :: [[id:fbbd73e1-6a4f-460b-82b0-ed8a3fdb28bd][Lrwk Jbaxrmn Srtl Vdhwjfq 1943]]
+- date :: 2011-4-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9ca9bd67-b020-45b0-9579-84d104111f8d
+:END:
+#+TITLE: Ecxknc Iepvhans Hph 1905
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Hph
+- vintage :: 1905
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.1
+- price :: 38.63 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:4116042c-e1f7-4f43-a7f7-b6c6d6995766][Ecxknc Iepvhans Hph 1905 - 2006-1-23]]
+
+

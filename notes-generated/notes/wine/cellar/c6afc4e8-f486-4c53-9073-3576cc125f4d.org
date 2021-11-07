@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c6afc4e8-f486-4c53-9073-3576cc125f4d
+:END:
+#+TITLE: Yokf Gwhwycw Zxf Bwg 1984
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Zxf Bwg
+- vintage :: 1984
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.4
+- price :: 85.41 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

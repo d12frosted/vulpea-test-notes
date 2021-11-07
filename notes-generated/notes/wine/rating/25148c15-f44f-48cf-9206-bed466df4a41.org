@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     25148c15-f44f-48cf-9206-bed466df4a41
+:END:
+#+TITLE: Yjfq Ammgzlu NV - 2001-11-3
+
+- wine :: [[id:07260c66-6191-485f-b898-da5b9e10480e][Yjfq Ammgzlu]]
+- date :: 2001-11-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

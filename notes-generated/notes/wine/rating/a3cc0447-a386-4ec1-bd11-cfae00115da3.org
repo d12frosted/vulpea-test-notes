@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a3cc0447-a386-4ec1-bd11-cfae00115da3
+:END:
+#+TITLE: Scf Elpezclx Mgcyrq Vior 1904 - 1991-9-22
+
+- wine :: [[id:27410b4f-9be7-4808-8b9c-fe93f9c8ce52][Scf Elpezclx Mgcyrq Vior 1904]]
+- date :: 1991-9-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

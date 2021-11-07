@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b8cfb2e2-adc3-4dd0-bb5d-e9f4003407ab
+:END:
+#+TITLE: Ecxknc Iepvhans Gzm Jpkjq 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Gzm Jpkjq
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.88
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

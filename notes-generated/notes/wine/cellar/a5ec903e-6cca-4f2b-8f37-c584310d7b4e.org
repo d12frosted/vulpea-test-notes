@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a5ec903e-6cca-4f2b-8f37-c584310d7b4e
+:END:
+#+TITLE: Scf Elpezclx Bhhxdabx Zoyof 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Bhhxdabx Zoyof
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 10.08
+- sugar :: 1.92
+- price :: 91.71 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:6d2c3809-55b6-4667-bb48-21e889444205][Scf Elpezclx Bhhxdabx Zoyof NV - 1997-5-11]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8acf8de7-f09f-4654-83d0-86891bfc5eae
+:END:
+#+TITLE: Scf Elpezclx Movyp 1966
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Movyp
+- vintage :: 1966
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.19
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

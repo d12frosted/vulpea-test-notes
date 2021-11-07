@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4c6ed3b9-a05f-467e-9131-ccbdd06d53a7
+:END:
+#+TITLE: Jjkswvm Rcm Fjppfd NV - 2003-3-23
+
+- wine :: [[id:9adcc61a-beab-453a-9012-e7a74cdd6143][Jjkswvm Rcm Fjppfd]]
+- date :: 2003-3-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0f2ca52c-393a-44d5-9e0c-61b8ad4abffb
+:END:
+#+TITLE: Giih Udr Lsayelf 1982
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Lsayelf
+- vintage :: 1982
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 13.83
+- price :: 93.97 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:456d4861-ea55-4eec-98b3-0612f336edb4][Giih Udr Lsayelf 1982 - 2020-9-27]]
+
+

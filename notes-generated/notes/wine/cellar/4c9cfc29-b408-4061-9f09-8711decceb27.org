@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     4c9cfc29-b408-4061-9f09-8711decceb27
+:END:
+#+TITLE: Lrwk Jbaxrmn Wmz 1901
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Wmz
+- vintage :: 1901
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 13.45
+- sugar :: 3.84
+- price :: 16.05 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.0
+- ratings :: [[id:d3314ec1-730e-4171-bf44-024194b7c913][Lrwk Jbaxrmn Wmz 1901 - 1999-7-24]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c96fae1d-5885-470b-8f05-8e253284091e
+:END:
+#+TITLE: Scf Elpezclx Xlsfpopx NV - 2012-1-4
+
+- wine :: [[id:7fade5e2-5a7c-46bc-8642-376c0a304559][Scf Elpezclx Xlsfpopx]]
+- date :: 2012-1-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

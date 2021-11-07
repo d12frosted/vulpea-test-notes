@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2d465c72-c980-492f-98a9-0d89f10bd774
+:END:
+#+TITLE: Lrwk Jbaxrmn Epor Sxjy NV - 2021-4-2
+
+- wine :: [[id:e6b81e57-622f-443d-9684-e53fd2172b81][Lrwk Jbaxrmn Epor Sxjy]]
+- date :: 2021-4-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

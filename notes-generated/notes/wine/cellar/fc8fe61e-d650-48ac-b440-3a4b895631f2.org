@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fc8fe61e-d650-48ac-b440-3a4b895631f2
+:END:
+#+TITLE: Jjkswvm Rcm Squxpmc 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Squxpmc
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.68
+- sugar :: 3.33
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.5
+- ratings :: [[id:d37b09ac-7d56-4ad0-8c98-c00c068c6997][Jjkswvm Rcm Squxpmc NV - 2016-9-22]]
+
+

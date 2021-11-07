@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bf456fad-8fb1-4c80-81e0-5a2ad49855a5
+:END:
+#+TITLE: Scf Elpezclx Gosxdplz Xyhwsuw 1999
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Gosxdplz Xyhwsuw
+- vintage :: 1999
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.64
+- price :: 51.09 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:da909ae8-f833-4f6e-869e-4df99a57b44f][Scf Elpezclx Gosxdplz Xyhwsuw 1999 - 2012-2-26]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     914815be-aef2-4f89-9801-ba551fd5deb3
+:END:
+#+TITLE: Lrwk Jbaxrmn Bvbfxt Lnxh NV - 2021-4-18
+
+- wine :: [[id:e139780d-dba0-4edb-b03d-5b99f3faf916][Lrwk Jbaxrmn Bvbfxt Lnxh]]
+- date :: 2021-4-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

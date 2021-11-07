@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     de9cde60-7942-4473-9d5e-9aeeae69d788
+:END:
+#+TITLE: Scf Elpezclx Lcpwjqxb Enpgp 2001
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Lcpwjqxb Enpgp
+- vintage :: 2001
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.15
+- sugar :: 22.15
+- price :: 77.28 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 6.5
+- ratings :: [[id:d26e70b0-5b39-4f24-8425-204607faecd0][Scf Elpezclx Lcpwjqxb Enpgp 2001 - 2021-5-5]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6f482160-7b27-4010-8e0e-e8f60eb1c2b2
+:END:
+#+TITLE: Jjkswvm Rcm Dwplujcb 1940
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Dwplujcb
+- vintage :: 1940
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 10.23
+- price :: 45.50 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:0d18e033-4e92-4e57-b946-4c867312251f][Jjkswvm Rcm Dwplujcb 1940 - 1991-5-27]]
+
+

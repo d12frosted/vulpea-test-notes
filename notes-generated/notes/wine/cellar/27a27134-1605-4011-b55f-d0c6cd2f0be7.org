@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     27a27134-1605-4011-b55f-d0c6cd2f0be7
+:END:
+#+TITLE: Yokf Gwhwycw Umkwzxdz 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Umkwzxdz
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 12.78
+- price :: 29.09 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

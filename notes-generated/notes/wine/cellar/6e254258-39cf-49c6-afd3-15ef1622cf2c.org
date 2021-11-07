@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6e254258-39cf-49c6-afd3-15ef1622cf2c
+:END:
+#+TITLE: Ecxknc Iepvhans Vrpfext Bmtlooh 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Vrpfext Bmtlooh
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.01
+- sugar :: 10.04
+- price :: 7.82 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.5
+- ratings :: [[id:81df3ef7-a14a-43f1-a744-cfe0f71ff8d0][Ecxknc Iepvhans Vrpfext Bmtlooh NV - 2003-10-25]]
+
+

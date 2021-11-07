@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     54740b2f-58cc-4a8e-b23f-06e512a88f42
+:END:
+#+TITLE: Qay Xzbkbs Lpxkziui 1955
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Xzbkbs Lpxkziui
+- vintage :: 1955
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 11.15
+- price :: 62.87 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:70dc3fc8-22f6-4eeb-8020-5d2b02ca96aa][Qay Xzbkbs Lpxkziui 1955 - 1999-8-8]]
+
+

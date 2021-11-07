@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     98068f2b-90b5-47e8-bebe-9c4bba47c41c
+:END:
+#+TITLE: Scf Elpezclx Lgkekvjz 1962
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Lgkekvjz
+- vintage :: 1962
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.02
+- price :: 10.94 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     beea8c88-a6b1-4bec-96f7-5d7cd283cd1e
+:END:
+#+TITLE: Nhozxqe Aldl Hipfzr Fszraj 1993 - 1990-12-28
+
+- wine :: [[id:dbbb2bb0-71fe-4322-b845-8210bee46ed8][Nhozxqe Aldl Hipfzr Fszraj 1993]]
+- date :: 1990-12-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     2f135228-4f24-4594-aabf-9a486aaae617
+:END:
+#+TITLE: Qay Zjvdmqjt Cglcr 1933
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Zjvdmqjt Cglcr
+- vintage :: 1933
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 10.69
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

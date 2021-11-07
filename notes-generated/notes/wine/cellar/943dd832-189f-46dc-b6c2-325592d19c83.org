@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     943dd832-189f-46dc-b6c2-325592d19c83
+:END:
+#+TITLE: Yokf Gwhwycw Qbtqjevi Awlzpirs 1913
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Qbtqjevi Awlzpirs
+- vintage :: 1913
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 12.83
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5790a2c8-9caa-4850-9e92-e5b1e58ce28a
+:END:
+#+TITLE: Nhozxqe Aldl Hjwumh Wyjjuwj NV - 1993-2-15
+
+- wine :: [[id:4da3fdd3-c0f9-4be0-a038-887ef6fe609d][Nhozxqe Aldl Hjwumh Wyjjuwj]]
+- date :: 1993-2-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

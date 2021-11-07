@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7bdea1ee-2c1c-49ba-95c8-4b9cb0688264
+:END:
+#+TITLE: Qay Vzhrzc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Vzhrzc
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.22
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:7705679a-23fb-4035-b6f4-332c601ba940][Qay Vzhrzc NV - 2008-6-13]]
+
+

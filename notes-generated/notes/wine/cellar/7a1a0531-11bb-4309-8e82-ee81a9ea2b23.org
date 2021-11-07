@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7a1a0531-11bb-4309-8e82-ee81a9ea2b23
+:END:
+#+TITLE: Scf Elpezclx Hyjrboeg Rvi 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Hyjrboeg Rvi
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.93
+- sugar :: 9.43
+- price :: 89.83 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

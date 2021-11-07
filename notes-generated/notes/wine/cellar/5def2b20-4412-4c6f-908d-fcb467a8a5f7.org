@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5def2b20-4412-4c6f-908d-fcb467a8a5f7
+:END:
+#+TITLE: Jjkswvm Rcm Mcwef Hnewk 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Mcwef Hnewk
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.29
+- sugar :: 5.73
+- price :: 22.40 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA
+
+

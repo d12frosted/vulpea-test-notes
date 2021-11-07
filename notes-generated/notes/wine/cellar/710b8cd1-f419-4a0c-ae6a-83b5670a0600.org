@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     710b8cd1-f419-4a0c-ae6a-83b5670a0600
+:END:
+#+TITLE: Giih Udr Xsyo Lmi 1914
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Xsyo Lmi
+- vintage :: 1914
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 9.84
+- sugar :: 6.86
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b7d48a25-13a0-4a6c-9563-57ef99b6f119
+:END:
+#+TITLE: Yokf Gwhwycw Xeunc 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Xeunc
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.530000000000001
+- price :: 3.49 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

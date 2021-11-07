@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ce8077a0-add2-4365-a255-dc18e855060d
+:END:
+#+TITLE: Ecxknc Iepvhans Jybni 1967 - 2021-12-5
+
+- wine :: [[id:700d1c7d-fbd4-4bed-8434-5b117f0311be][Ecxknc Iepvhans Jybni 1967]]
+- date :: 2021-12-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c0fb0780-f7d9-42a9-a7a9-88081f246ac6
+:END:
+#+TITLE: Giih Udr Ltkdrcvo Vyietrr 1920 - 1998-7-14
+
+- wine :: [[id:d1564285-940f-4741-99c1-c4600aab1ebd][Giih Udr Ltkdrcvo Vyietrr 1920]]
+- date :: 1998-7-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

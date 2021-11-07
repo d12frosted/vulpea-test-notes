@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     04b1de6d-eca9-465e-bc01-ad171fa6ea47
+:END:
+#+TITLE: Lrwk Jbaxrmn Nnjz Jkgxqkxs 1974
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Nnjz Jkgxqkxs
+- vintage :: 1974
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.45
+- sugar :: 17.69
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: wikipedia
+- rating :: NA
+
+

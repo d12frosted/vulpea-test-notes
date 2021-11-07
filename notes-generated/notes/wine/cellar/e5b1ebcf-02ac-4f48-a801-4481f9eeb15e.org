@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e5b1ebcf-02ac-4f48-a801-4481f9eeb15e
+:END:
+#+TITLE: Ecxknc Iepvhans Otks 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Otks
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 11.29
+- price :: 93.98 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

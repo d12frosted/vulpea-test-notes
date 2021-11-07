@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b8356ed0-aad2-4f2c-bb0b-e347610bdf4e
+:END:
+#+TITLE: Scf Elpezclx Gihrwxn Owtc 1942 - 2000-5-16
+
+- wine :: [[id:adb7f249-721b-42f3-8852-e127be96d4e2][Scf Elpezclx Gihrwxn Owtc 1942]]
+- date :: 2000-5-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

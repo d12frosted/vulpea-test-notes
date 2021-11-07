@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4a745b48-6a28-4d2b-ad07-9dcd46336531
+:END:
+#+TITLE: Yokf Gwhwycw Jhqoa Wuvmn 1996
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Jhqoa Wuvmn
+- vintage :: 1996
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.26
+- sugar :: 13.25
+- price :: 83.64 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     798acea3-cbce-414b-96be-d5875a24816b
+:END:
+#+TITLE: Yokf Gwhwycw Wbmb Clsq 1908
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Wbmb Clsq
+- vintage :: 1908
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.86
+- sugar :: 11.36
+- price :: 67.70 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:08eb98df-c323-4d0e-aeb7-3d0a81cf0c90][Yokf Gwhwycw Wbmb Clsq 1908 - 1999-10-13]]
+
+

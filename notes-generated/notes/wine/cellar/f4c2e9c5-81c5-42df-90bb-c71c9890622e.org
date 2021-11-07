@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f4c2e9c5-81c5-42df-90bb-c71c9890622e
+:END:
+#+TITLE: Jjkswvm Rcm Ebtfvwj Oevkyk 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ebtfvwj Oevkyk
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.23
+- sugar :: 9.65
+- price :: 89.25 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

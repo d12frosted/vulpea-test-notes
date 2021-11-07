@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     bdf15d0c-374c-4466-9ab1-fe7aaaa520a6
+:END:
+#+TITLE: Qay Ltqtfgq Hysmajd 1954
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ltqtfgq Hysmajd
+- vintage :: 1954
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 10.870000000000001
+- price :: 78.65 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 7.5
+- ratings :: [[id:77deee51-8e4d-4e80-8081-e86a1b130052][Qay Ltqtfgq Hysmajd 1954 - 1992-2-2]]
+
+

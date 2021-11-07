@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d3b7553b-86fa-49e2-8395-6f2c6f40d70d
+:END:
+#+TITLE: Qay Iwqtyvv Bajt 1936 - 1999-3-7
+
+- wine :: [[id:852db0f6-24e4-4ff7-863e-b1a3b398d3e5][Qay Iwqtyvv Bajt 1936]]
+- date :: 1999-3-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

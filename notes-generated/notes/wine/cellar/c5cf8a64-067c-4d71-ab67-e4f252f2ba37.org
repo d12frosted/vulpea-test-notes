@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     c5cf8a64-067c-4d71-ab67-e4f252f2ba37
+:END:
+#+TITLE: Yokf Gwhwycw Mev 1988
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Mev
+- vintage :: 1988
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.3
+- sugar :: 2.96
+- price :: 72.19 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

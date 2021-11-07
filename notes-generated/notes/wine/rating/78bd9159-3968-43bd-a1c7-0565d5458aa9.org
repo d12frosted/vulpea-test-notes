@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     78bd9159-3968-43bd-a1c7-0565d5458aa9
+:END:
+#+TITLE: Yjfq Nkss Tqflvns NV - 1991-1-13
+
+- wine :: [[id:5ebf936d-5f56-4d96-a702-59c0a01e4263][Yjfq Nkss Tqflvns]]
+- date :: 1991-1-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     cc5cc821-ef71-43cf-b5ed-802f70a77319
+:END:
+#+TITLE: Yokf Gwhwycw Erf 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Erf
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.3
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA
+
+

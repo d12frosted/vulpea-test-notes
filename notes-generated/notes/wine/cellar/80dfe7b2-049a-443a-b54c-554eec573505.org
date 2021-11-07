@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     80dfe7b2-049a-443a-b54c-554eec573505
+:END:
+#+TITLE: Ecxknc Iepvhans Uya Laifhbio 2005
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Uya Laifhbio
+- vintage :: 2005
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 13.17
+- sugar :: 23.53
+- price :: 101.69 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     627ef131-c0c0-4ece-9295-62a89d648cc5
+:END:
+#+TITLE: Ecxknc Iepvhans Uhrqem Gdtzmkgw 1984
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Uhrqem Gdtzmkgw
+- vintage :: 1984
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.86
+- sugar :: 14.74
+- price :: 63.86 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.5
+- ratings :: [[id:831acaad-8db6-427c-a283-d4cd70b01abe][Ecxknc Iepvhans Uhrqem Gdtzmkgw 1984 - 2004-2-7]]
+
+

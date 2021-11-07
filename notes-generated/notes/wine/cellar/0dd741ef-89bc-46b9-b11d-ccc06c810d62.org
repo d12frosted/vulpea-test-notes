@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0dd741ef-89bc-46b9-b11d-ccc06c810d62
+:END:
+#+TITLE: Giih Udr Ugcoxl 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ugcoxl
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 11.45
+- sugar :: 0.6
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:ce41a460-8161-49e9-a50a-62745876a2c0][Giih Udr Ugcoxl NV - 2014-7-28]]
+
+

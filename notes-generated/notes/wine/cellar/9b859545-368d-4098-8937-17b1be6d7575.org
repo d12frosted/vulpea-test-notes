@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     9b859545-368d-4098-8937-17b1be6d7575
+:END:
+#+TITLE: Ecxknc Iepvhans Phoqt 1978
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Phoqt
+- vintage :: 1978
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.52
+- sugar :: 6.35
+- price :: 53.92 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

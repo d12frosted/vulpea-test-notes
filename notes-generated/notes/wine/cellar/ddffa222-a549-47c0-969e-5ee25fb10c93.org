@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ddffa222-a549-47c0-969e-5ee25fb10c93
+:END:
+#+TITLE: Yokf Gwhwycw Iejrmfo Drkgt 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Iejrmfo Drkgt
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 12.48
+- sugar :: 20.21
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 7.0
+- ratings :: [[id:334c2a70-dd7b-43e7-84e3-e8fd515b680b][Yokf Gwhwycw Iejrmfo Drkgt NV - 1992-5-25]]
+
+

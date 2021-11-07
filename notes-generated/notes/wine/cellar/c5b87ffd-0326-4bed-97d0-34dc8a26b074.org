@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     c5b87ffd-0326-4bed-97d0-34dc8a26b074
+:END:
+#+TITLE: Ecxknc Iepvhans Ewyz 1976
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ewyz
+- vintage :: 1976
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.23
+- sugar :: 6.66
+- price :: 24.30 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 8.0
+- ratings :: [[id:1dd6f265-ef0e-4685-b7bd-1f72e3d34ee7][Ecxknc Iepvhans Ewyz 1976 - 2024-2-24]]
+
+

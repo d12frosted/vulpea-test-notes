@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     060b07ce-b53e-4d97-98a0-d14e23d3aaae
+:END:
+#+TITLE: Lrwk Jbaxrmn Rimqnw Hgignjz 1968
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rimqnw Hgignjz
+- vintage :: 1968
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 12.55
+- sugar :: 22.76
+- price :: 14.38 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:7a205a20-79de-468c-b25d-fcbe7d00e200][Lrwk Jbaxrmn Rimqnw Hgignjz 1968 - 2016-8-18]]
+
+

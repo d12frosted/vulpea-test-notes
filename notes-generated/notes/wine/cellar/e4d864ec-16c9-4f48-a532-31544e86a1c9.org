@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e4d864ec-16c9-4f48-a532-31544e86a1c9
+:END:
+#+TITLE: Jjkswvm Rcm Xkqgvbl Znhcm 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Xkqgvbl Znhcm
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 10.59
+- sugar :: 10.5
+- price :: 73.06 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:a7773de5-6c5a-40e2-942e-c86e8b815f4b][Jjkswvm Rcm Xkqgvbl Znhcm NV - 2002-8-23]]
+
+

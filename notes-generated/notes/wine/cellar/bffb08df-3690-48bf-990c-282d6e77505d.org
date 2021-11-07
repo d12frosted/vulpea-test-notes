@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     bffb08df-3690-48bf-990c-282d6e77505d
+:END:
+#+TITLE: Cowhhax Upmqcgn Xmp 1982
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Xmp
+- vintage :: 1982
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.2
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 1.5
+- ratings :: [[id:1c155e8e-ba44-4b8e-b587-4959473747cc][Cowhhax Upmqcgn Xmp 1982 - 2020-4-11]]
+
+

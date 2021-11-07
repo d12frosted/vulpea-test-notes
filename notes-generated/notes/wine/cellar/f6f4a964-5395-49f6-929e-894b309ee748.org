@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f6f4a964-5395-49f6-929e-894b309ee748
+:END:
+#+TITLE: Qay Hmd 1957
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Hmd
+- vintage :: 1957
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.25
+- price :: 68.70 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

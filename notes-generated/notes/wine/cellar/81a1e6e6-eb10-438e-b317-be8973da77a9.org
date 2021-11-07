@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     81a1e6e6-eb10-438e-b317-be8973da77a9
+:END:
+#+TITLE: Qay Ebkbwtoj 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ebkbwtoj
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 9.59
+- price :: 90.34 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.0
+- ratings :: [[id:4697e2b1-a476-4337-be9d-1d529425375e][Qay Ebkbwtoj NV - 1991-12-13]]
+
+

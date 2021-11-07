@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     283b3f5b-77dc-4305-b5f0-beccadb9c19b
+:END:
+#+TITLE: Nhozxqe Aldl Dgmu 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Dgmu
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.67
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     11c90098-d117-4ab0-bb98-06b594dc9e8b
+:END:
+#+TITLE: Nhozxqe Aldl Gegvqdn 1937 - 2001-10-2
+
+- wine :: [[id:d918e60f-9633-4762-8d49-222007018b39][Nhozxqe Aldl Gegvqdn 1937]]
+- date :: 2001-10-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     83d16b77-5fdf-4232-9c0c-edf002f3b0cc
+:END:
+#+TITLE: Jjkswvm Rcm Wgaln Sxc NV - 2001-2-25
+
+- wine :: [[id:529ad848-9ea0-4e59-9ad4-d7329b8c95ad][Jjkswvm Rcm Wgaln Sxc]]
+- date :: 2001-2-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

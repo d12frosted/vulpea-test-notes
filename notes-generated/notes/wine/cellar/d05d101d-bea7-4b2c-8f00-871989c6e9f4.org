@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     d05d101d-bea7-4b2c-8f00-871989c6e9f4
+:END:
+#+TITLE: Scf Elpezclx Rqju Cxtcqmba 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Rqju Cxtcqmba
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 11.43
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

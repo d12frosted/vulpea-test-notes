@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e4dd88d4-5632-4e17-a95f-455686fce820
+:END:
+#+TITLE: Qay Cisr Wxtf NV - 1995-4-25
+
+- wine :: [[id:0fdf5e3c-481e-40b3-9ed5-997911875baf][Qay Cisr Wxtf]]
+- date :: 1995-4-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

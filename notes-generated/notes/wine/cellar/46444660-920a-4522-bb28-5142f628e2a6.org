@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     46444660-920a-4522-bb28-5142f628e2a6
+:END:
+#+TITLE: Lrwk Jbaxrmn Byuklem Uxiimjgx 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Byuklem Uxiimjgx
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 12.21
+- sugar :: 2.35
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 3.0
+- ratings :: [[id:f9614588-7a52-44aa-b5d3-7fddffdfd623][Lrwk Jbaxrmn Byuklem Uxiimjgx NV - 1996-4-21]]
+
+

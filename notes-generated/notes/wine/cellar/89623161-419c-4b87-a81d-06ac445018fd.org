@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     89623161-419c-4b87-a81d-06ac445018fd
+:END:
+#+TITLE: Jjkswvm Rcm Upxrx Iqbrheca 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Upxrx Iqbrheca
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.76
+- price :: 72.91 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

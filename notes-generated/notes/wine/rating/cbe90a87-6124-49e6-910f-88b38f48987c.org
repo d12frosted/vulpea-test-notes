@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cbe90a87-6124-49e6-910f-88b38f48987c
+:END:
+#+TITLE: Yjfq Eqb 1944 - 2023-3-11
+
+- wine :: [[id:095c563e-307e-40be-a76f-62235b073ef2][Yjfq Eqb 1944]]
+- date :: 2023-3-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

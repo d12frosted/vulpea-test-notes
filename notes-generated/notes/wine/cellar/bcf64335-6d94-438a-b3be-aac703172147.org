@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     bcf64335-6d94-438a-b3be-aac703172147
+:END:
+#+TITLE: Qay Bqisbjh 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Bqisbjh
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.72
+- sugar :: 11.07
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: duckduckgo
+- rating :: NA
+
+

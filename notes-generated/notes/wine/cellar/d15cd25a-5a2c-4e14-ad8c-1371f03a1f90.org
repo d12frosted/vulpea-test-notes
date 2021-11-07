@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d15cd25a-5a2c-4e14-ad8c-1371f03a1f90
+:END:
+#+TITLE: Scf Elpezclx Nukgp Xsgp 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Nukgp Xsgp
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 13.89
+- sugar :: 4.41
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:2d854bd7-f070-4535-8210-acc7106af13a][Scf Elpezclx Nukgp Xsgp NV - 2003-1-23]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     959b919f-0926-46c7-b8eb-b5dc490f27bd
+:END:
+#+TITLE: Giih Udr Ljwf NV - 1994-8-16
+
+- wine :: [[id:b76c5784-eb2f-4fc9-9968-f5eb2eea5cab][Giih Udr Ljwf]]
+- date :: 1994-8-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

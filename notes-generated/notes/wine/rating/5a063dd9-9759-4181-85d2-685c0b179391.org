@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5a063dd9-9759-4181-85d2-685c0b179391
+:END:
+#+TITLE: Jjkswvm Rcm Ncnx 1985 - 2000-3-25
+
+- wine :: [[id:427b585d-ac1c-43e0-9ae9-2b8dd7df2437][Jjkswvm Rcm Ncnx 1985]]
+- date :: 2000-3-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

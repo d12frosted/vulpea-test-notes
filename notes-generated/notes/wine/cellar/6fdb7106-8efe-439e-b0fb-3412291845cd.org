@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     6fdb7106-8efe-439e-b0fb-3412291845cd
+:END:
+#+TITLE: Giih Udr Bttfklqu 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Bttfklqu
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.95
+- price :: 98.23 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     89f4f690-040a-48a0-94ff-fa7c201e4164
+:END:
+#+TITLE: Cowhhax Upmqcgn Xwx Mzrs 1981 - 2009-1-4
+
+- wine :: [[id:aa57f6bf-44e5-4bff-9aa5-164e561128dc][Cowhhax Upmqcgn Xwx Mzrs 1981]]
+- date :: 2009-1-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

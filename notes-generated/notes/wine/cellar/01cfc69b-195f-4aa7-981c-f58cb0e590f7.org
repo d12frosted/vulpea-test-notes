@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     01cfc69b-195f-4aa7-981c-f58cb0e590f7
+:END:
+#+TITLE: Scf Elpezclx Uomubuq Png 2012
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Uomubuq Png
+- vintage :: 2012
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 11.42
+- sugar :: 22.65
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.5
+- ratings :: [[id:9900de51-4b4d-4c02-95ba-23a835624729][Scf Elpezclx Uomubuq Png 2012 - 2018-4-14]]
+
+

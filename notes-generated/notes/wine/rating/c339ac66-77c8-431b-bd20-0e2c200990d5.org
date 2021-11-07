@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c339ac66-77c8-431b-bd20-0e2c200990d5
+:END:
+#+TITLE: Nhozxqe Aldl Laq 1952 - 2008-8-1
+
+- wine :: [[id:a8c2c71f-d400-45fb-a62e-7eb802f8f0f0][Nhozxqe Aldl Laq 1952]]
+- date :: 2008-8-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

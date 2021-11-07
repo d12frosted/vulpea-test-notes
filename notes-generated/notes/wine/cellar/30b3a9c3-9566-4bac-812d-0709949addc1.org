@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     30b3a9c3-9566-4bac-812d-0709949addc1
+:END:
+#+TITLE: Lrwk Jbaxrmn Aextna 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Aextna
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.42
+- sugar :: 16.21
+- price :: 98.05 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:989e5642-1e19-41cd-a612-50939fbd2ff5][Lrwk Jbaxrmn Aextna NV - 2014-10-11]]
+
+

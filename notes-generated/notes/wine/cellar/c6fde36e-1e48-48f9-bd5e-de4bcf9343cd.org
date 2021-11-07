@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c6fde36e-1e48-48f9-bd5e-de4bcf9343cd
+:END:
+#+TITLE: Lrwk Jbaxrmn Kcdsfsce 1915
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Kcdsfsce
+- vintage :: 1915
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.89
+- sugar :: 2.43
+- price :: 56.94 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

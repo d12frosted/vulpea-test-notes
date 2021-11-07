@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     160afd61-8868-4dcc-a772-c9165662e795
+:END:
+#+TITLE: Lrwk Jbaxrmn Qdwfuq Rgonsdr NV - 1999-3-28
+
+- wine :: [[id:731daf14-1bd0-43e7-9ae3-807c511e1eb3][Lrwk Jbaxrmn Qdwfuq Rgonsdr]]
+- date :: 1999-3-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

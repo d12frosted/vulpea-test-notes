@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2f91b97f-4edf-4e05-b48c-4fd8f686ac5c
+:END:
+#+TITLE: Ecxknc Iepvhans Tyaie 1919
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Tyaie
+- vintage :: 1919
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.61
+- sugar :: 10.19
+- price :: 8.38 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:2d9028cb-4e17-4060-b686-0d1a4ec4f0c9][Ecxknc Iepvhans Tyaie 1919 - 2007-1-18]]
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     d4dfb290-3428-460a-b5e7-d9a3d7ea6865
+:END:
+#+TITLE: Nhozxqe Aldl Qpj Wnwro 1948
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Qpj Wnwro
+- vintage :: 1948
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.43
+- price :: 11.39 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.5
+- ratings :: [[id:626d5f24-c3ee-4933-b281-9a2a4994388e][Nhozxqe Aldl Qpj Wnwro 1948 - 2016-11-13]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0ac1fbd1-55db-47dd-b3f8-acc473931aaf
+:END:
+#+TITLE: Ecxknc Iepvhans Dkgxalwc Puponu 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Dkgxalwc Puponu
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.39
+- price :: 82.16 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA
+
+

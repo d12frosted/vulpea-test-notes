@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     988c85c4-8fc7-4c0b-8dbb-62b96293519a
+:END:
+#+TITLE: Lrwk Jbaxrmn Sjsduz NV - 1998-7-19
+
+- wine :: [[id:642c04df-d3a4-4b44-8982-2118ee86be9c][Lrwk Jbaxrmn Sjsduz]]
+- date :: 1998-7-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

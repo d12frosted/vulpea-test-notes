@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e03934f1-692f-4bca-9465-0f7758bf0a87
+:END:
+#+TITLE: Ecxknc Iepvhans Wnw 1908
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Wnw
+- vintage :: 1908
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.14
+- sugar :: 10.53
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

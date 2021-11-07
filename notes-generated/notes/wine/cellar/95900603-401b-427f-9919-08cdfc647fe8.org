@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     95900603-401b-427f-9919-08cdfc647fe8
+:END:
+#+TITLE: Yokf Gwhwycw Mnmdf 1962
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Mnmdf
+- vintage :: 1962
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.01
+- sugar :: 0.65
+- price :: 83.40 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

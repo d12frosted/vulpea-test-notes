@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     5e5dad1a-18cf-43bc-8ac5-432f222c857a
+:END:
+#+TITLE: Ecxknc Iepvhans Dybvehfh 2005
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Dybvehfh
+- vintage :: 2005
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.75
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

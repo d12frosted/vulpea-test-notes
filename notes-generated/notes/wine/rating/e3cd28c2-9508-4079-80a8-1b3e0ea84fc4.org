@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e3cd28c2-9508-4079-80a8-1b3e0ea84fc4
+:END:
+#+TITLE: Lrwk Jbaxrmn Ztkfnoav 1989 - 2009-11-16
+
+- wine :: [[id:006531ed-ad20-4133-ad2d-30e0f4522c46][Lrwk Jbaxrmn Ztkfnoav 1989]]
+- date :: 2009-11-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

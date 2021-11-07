@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     69d4c464-9363-4dc6-b224-d4b30b22eb94
+:END:
+#+TITLE: Jjkswvm Rcm Hgu Tftcwwwa 1988 - 2021-5-10
+
+- wine :: [[id:a613dd88-41b3-4d7e-84b6-9606a4a2b4db][Jjkswvm Rcm Hgu Tftcwwwa 1988]]
+- date :: 2021-5-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cafda666-da9e-4bb9-9f89-909cee5722ae
+:END:
+#+TITLE: Jjkswvm Rcm Klrodlp NV - 1993-9-2
+
+- wine :: [[id:844c1438-cc96-4815-ac57-04bb8b2e9900][Jjkswvm Rcm Klrodlp]]
+- date :: 1993-9-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

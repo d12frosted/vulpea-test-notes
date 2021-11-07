@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     be39e747-904b-415a-a01f-c75f16a6f364
+:END:
+#+TITLE: Ecxknc Iepvhans Cihrmu Svxgx 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Cihrmu Svxgx
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.23
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:47676b1c-9a8b-44b9-9833-061b623518f2][Ecxknc Iepvhans Cihrmu Svxgx NV - 2014-1-14]]
+
+

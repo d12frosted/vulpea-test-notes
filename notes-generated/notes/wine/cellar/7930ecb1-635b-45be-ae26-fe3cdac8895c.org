@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7930ecb1-635b-45be-ae26-fe3cdac8895c
+:END:
+#+TITLE: Giih Udr Timhioh 1994
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Timhioh
+- vintage :: 1994
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 13.24
+- sugar :: 2.12
+- price :: 60.64 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

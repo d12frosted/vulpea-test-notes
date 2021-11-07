@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a9bfaf14-7acb-452f-9c55-56890eea76cf
+:END:
+#+TITLE: Jjkswvm Rcm Jgzucmvf NV - 1994-7-16
+
+- wine :: [[id:10e0f6d1-a0ba-40db-addf-7a8edbcb6471][Jjkswvm Rcm Jgzucmvf]]
+- date :: 1994-7-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

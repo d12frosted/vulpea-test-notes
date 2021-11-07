@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c61a0c62-cf85-4b15-8998-4b874a8726a0
+:END:
+#+TITLE: Yjfq Xfw NV - 1996-2-7
+
+- wine :: [[id:aa0fd145-9be5-4fee-9982-c6ccb86d76d8][Yjfq Xfw]]
+- date :: 1996-2-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

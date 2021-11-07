@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c1894c4d-9635-4d7c-ad79-b9d11a82067d
+:END:
+#+TITLE: Giih Udr Cfzzkel Avlf 1935
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Cfzzkel Avlf
+- vintage :: 1935
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 12.78
+- sugar :: 12.51
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

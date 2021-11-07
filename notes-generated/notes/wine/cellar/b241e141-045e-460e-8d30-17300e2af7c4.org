@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b241e141-045e-460e-8d30-17300e2af7c4
+:END:
+#+TITLE: Nhozxqe Aldl Lfn Yurm 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Lfn Yurm
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 12.23
+- sugar :: 12.54
+- price :: 10.01 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:8afa4be0-432e-4e36-b196-15e6def59b95][Nhozxqe Aldl Lfn Yurm NV - 1998-11-3]]
+
+

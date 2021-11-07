@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     5959f266-f5d6-4db1-a2ab-4b4f9130eb8a
+:END:
+#+TITLE: Lrwk Jbaxrmn Opy 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Opy
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.629999999999999
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:44cbe71b-1ddb-48a2-99bd-7b5994aed6ad][Lrwk Jbaxrmn Opy NV - 2014-9-2]]
+
+

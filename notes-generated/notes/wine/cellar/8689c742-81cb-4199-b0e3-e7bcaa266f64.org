@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     8689c742-81cb-4199-b0e3-e7bcaa266f64
+:END:
+#+TITLE: Giih Udr Rdwytef 1994
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Rdwytef
+- vintage :: 1994
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 10.15
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

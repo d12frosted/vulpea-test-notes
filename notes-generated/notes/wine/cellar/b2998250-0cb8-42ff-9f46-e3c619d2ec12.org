@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b2998250-0cb8-42ff-9f46-e3c619d2ec12
+:END:
+#+TITLE: Yjfq Mkj Kspv 2018
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Mkj Kspv
+- vintage :: 2018
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 13.879999999999999
+- sugar :: 17.04
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

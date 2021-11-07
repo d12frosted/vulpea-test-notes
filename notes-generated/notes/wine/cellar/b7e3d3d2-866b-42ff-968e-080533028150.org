@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b7e3d3d2-866b-42ff-968e-080533028150
+:END:
+#+TITLE: Cowhhax Upmqcgn Bhaf 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Bhaf
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 13.0
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.5
+- ratings :: [[id:65673539-1748-413d-a7ff-2c36f337124c][Cowhhax Upmqcgn Bhaf NV - 2008-11-21]]
+
+

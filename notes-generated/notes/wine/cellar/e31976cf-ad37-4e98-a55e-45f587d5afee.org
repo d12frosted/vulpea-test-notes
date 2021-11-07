@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e31976cf-ad37-4e98-a55e-45f587d5afee
+:END:
+#+TITLE: Nhozxqe Aldl Zwy Fcwces 1948
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Zwy Fcwces
+- vintage :: 1948
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 10.14
+- price :: 10.90 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: wikipedia
+- rating :: NA
+
+

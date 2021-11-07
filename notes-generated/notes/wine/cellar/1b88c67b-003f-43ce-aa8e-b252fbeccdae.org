@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1b88c67b-003f-43ce-aa8e-b252fbeccdae
+:END:
+#+TITLE: Nhozxqe Aldl Stakskxe 1948
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Stakskxe
+- vintage :: 1948
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.309999999999999
+- sugar :: 16.69
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0d18e033-4e92-4e57-b946-4c867312251f
+:END:
+#+TITLE: Jjkswvm Rcm Dwplujcb 1940 - 1991-5-27
+
+- wine :: [[id:6f482160-7b27-4010-8e0e-e8f60eb1c2b2][Jjkswvm Rcm Dwplujcb 1940]]
+- date :: 1991-5-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

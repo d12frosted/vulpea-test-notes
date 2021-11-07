@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     04e75459-a877-4828-a227-7371c835ea4e
+:END:
+#+TITLE: Lrwk Jbaxrmn Hvudmth Fjzgz 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Hvudmth Fjzgz
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.66
+- sugar :: 2.3
+- price :: 72.43 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

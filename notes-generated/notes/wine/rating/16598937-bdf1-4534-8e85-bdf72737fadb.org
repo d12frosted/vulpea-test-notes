@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     16598937-bdf1-4534-8e85-bdf72737fadb
+:END:
+#+TITLE: Lrwk Jbaxrmn Twaep NV - 1990-6-9
+
+- wine :: [[id:fc076757-07d7-4001-9d0a-bb037a86bdc7][Lrwk Jbaxrmn Twaep]]
+- date :: 1990-6-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

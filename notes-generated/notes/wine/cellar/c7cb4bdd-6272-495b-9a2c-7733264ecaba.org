@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     c7cb4bdd-6272-495b-9a2c-7733264ecaba
+:END:
+#+TITLE: Cowhhax Upmqcgn Ufajbj 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ufajbj
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.379999999999999
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

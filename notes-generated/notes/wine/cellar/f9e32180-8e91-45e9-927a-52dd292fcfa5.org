@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     f9e32180-8e91-45e9-927a-52dd292fcfa5
+:END:
+#+TITLE: Ecxknc Iepvhans Aolel Zfmqna 1900
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Aolel Zfmqna
+- vintage :: 1900
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 13.5
+- sugar :: 17.3
+- price :: 50.72 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 6.5
+- ratings :: [[id:ab21e049-a61c-4779-b2bf-58405489805d][Ecxknc Iepvhans Aolel Zfmqna 1900 - 2013-11-11]]
+
+

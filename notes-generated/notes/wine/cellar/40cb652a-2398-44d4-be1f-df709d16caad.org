@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     40cb652a-2398-44d4-be1f-df709d16caad
+:END:
+#+TITLE: Yokf Gwhwycw Pgzswvst Pvczo 2018
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Pgzswvst Pvczo
+- vintage :: 2018
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.53
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:898ed4ad-3ef6-499b-b26a-7270c59cc77c][Yokf Gwhwycw Pgzswvst Pvczo 2018 - 2019-11-9]]
+
+

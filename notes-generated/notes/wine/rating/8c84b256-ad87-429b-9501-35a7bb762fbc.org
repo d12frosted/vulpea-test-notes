@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8c84b256-ad87-429b-9501-35a7bb762fbc
+:END:
+#+TITLE: Ecxknc Iepvhans Nubao 1950 - 2015-10-5
+
+- wine :: [[id:d0538e61-75b0-4582-868c-0aee576bf96a][Ecxknc Iepvhans Nubao 1950]]
+- date :: 2015-10-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

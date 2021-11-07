@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bf2d2f80-dd5e-47b1-b6ee-1b170cb50fd2
+:END:
+#+TITLE: Yokf Gwhwycw Wcjz Bgrvpxri 1906
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Wcjz Bgrvpxri
+- vintage :: 1906
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.9
+- sugar :: 13.06
+- price :: 58.70 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

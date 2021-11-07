@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     12336091-5e09-49f9-9676-19ad9fd86d90
+:END:
+#+TITLE: Lrwk Jbaxrmn Rfqnlu NV - 2019-4-18
+
+- wine :: [[id:a6839771-42bc-447e-ada6-4f2b64d436da][Lrwk Jbaxrmn Rfqnlu]]
+- date :: 2019-4-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

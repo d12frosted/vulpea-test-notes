@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b8b8a4a1-2094-4880-88c2-98efd1aed434
+:END:
+#+TITLE: Nhozxqe Aldl Uvmzyqqy Cord 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Uvmzyqqy Cord
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.08
+- price :: 89.85 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.0
+- ratings :: [[id:ff70df46-bd63-41e8-b56e-bec9521545a6][Nhozxqe Aldl Uvmzyqqy Cord NV - 2011-11-16]]
+
+

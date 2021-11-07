@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6c0098d8-f4dd-4494-a537-8f794ca5833e
+:END:
+#+TITLE: Lrwk Jbaxrmn Bkg Xapghnym NV - 1994-11-12
+
+- wine :: [[id:82832aa8-c3e0-462b-ad26-d83f95daa9ce][Lrwk Jbaxrmn Bkg Xapghnym]]
+- date :: 1994-11-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

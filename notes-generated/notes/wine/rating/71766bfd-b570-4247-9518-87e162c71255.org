@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     71766bfd-b570-4247-9518-87e162c71255
+:END:
+#+TITLE: Cowhhax Upmqcgn Oayqf 2008 - 2011-2-25
+
+- wine :: [[id:a3f6c1d4-1bc9-4031-a29a-460741be8759][Cowhhax Upmqcgn Oayqf 2008]]
+- date :: 2011-2-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     81541f39-bb57-4246-8b2c-f7a22ab52672
+:END:
+#+TITLE: Giih Udr Xfl Zqu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Xfl Zqu
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 13.030000000000001
+- sugar :: 21.34
+- price :: 97.21 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA
+
+

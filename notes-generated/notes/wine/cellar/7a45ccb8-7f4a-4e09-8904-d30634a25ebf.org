@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7a45ccb8-7f4a-4e09-8904-d30634a25ebf
+:END:
+#+TITLE: Jjkswvm Rcm Iahwe Exluq 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Iahwe Exluq
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.4
+- sugar :: 17.38
+- price :: 9.83 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA
+
+

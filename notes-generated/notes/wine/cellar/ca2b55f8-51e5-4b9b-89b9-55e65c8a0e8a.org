@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ca2b55f8-51e5-4b9b-89b9-55e65c8a0e8a
+:END:
+#+TITLE: Yokf Gwhwycw Uojl Rzp 1981
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Uojl Rzp
+- vintage :: 1981
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 13.379999999999999
+- sugar :: 15.81
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

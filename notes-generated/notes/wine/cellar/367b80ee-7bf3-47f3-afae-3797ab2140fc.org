@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     367b80ee-7bf3-47f3-afae-3797ab2140fc
+:END:
+#+TITLE: Ecxknc Iepvhans Jqgbccq 1954
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Jqgbccq
+- vintage :: 1954
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.96
+- sugar :: 5.88
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA
+
+

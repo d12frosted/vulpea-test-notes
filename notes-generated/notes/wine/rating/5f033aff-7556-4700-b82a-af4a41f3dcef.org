@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5f033aff-7556-4700-b82a-af4a41f3dcef
+:END:
+#+TITLE: Cowhhax Upmqcgn Vof Ndeodv 1972 - 1998-3-6
+
+- wine :: [[id:43cc14cf-2240-4678-b55c-2a18cb840ffb][Cowhhax Upmqcgn Vof Ndeodv 1972]]
+- date :: 1998-3-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

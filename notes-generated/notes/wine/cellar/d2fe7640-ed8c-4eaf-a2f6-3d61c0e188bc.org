@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d2fe7640-ed8c-4eaf-a2f6-3d61c0e188bc
+:END:
+#+TITLE: Qay Djh Tgkyqv 1971
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Djh Tgkyqv
+- vintage :: 1971
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 9.55
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:fcbbfb84-ab49-4d3f-80ed-ecce65321a65][Qay Djh Tgkyqv 1971 - 2020-2-12]]
+
+

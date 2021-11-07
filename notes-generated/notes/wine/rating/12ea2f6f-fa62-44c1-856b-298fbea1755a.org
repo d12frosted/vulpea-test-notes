@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     12ea2f6f-fa62-44c1-856b-298fbea1755a
+:END:
+#+TITLE: Scf Elpezclx Dtwo Ozlualrv NV - 1995-4-9
+
+- wine :: [[id:9ef165c7-3abd-40a2-94ca-90a937696380][Scf Elpezclx Dtwo Ozlualrv]]
+- date :: 1995-4-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 1
+- score_max :: 20
+- total :: 0.5
+
+

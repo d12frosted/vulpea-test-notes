@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     41b66d75-7577-4a88-8f06-2e77555e8948
+:END:
+#+TITLE: Nhozxqe Aldl Vnfofwu Euiowu 1929
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Vnfofwu Euiowu
+- vintage :: 1929
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.29
+- sugar :: 8.46
+- price :: 29.18 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:70984cc7-db74-479d-9f51-864c015ea413][Nhozxqe Aldl Vnfofwu Euiowu 1929 - 2007-11-3]]
+
+

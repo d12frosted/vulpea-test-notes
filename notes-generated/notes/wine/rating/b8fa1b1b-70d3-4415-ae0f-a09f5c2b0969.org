@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b8fa1b1b-70d3-4415-ae0f-a09f5c2b0969
+:END:
+#+TITLE: Giih Udr Gdel Wbqhxmbf NV - 2018-7-13
+
+- wine :: [[id:f3745222-42c3-469f-a124-6ef50b2e35dc][Giih Udr Gdel Wbqhxmbf]]
+- date :: 2018-7-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

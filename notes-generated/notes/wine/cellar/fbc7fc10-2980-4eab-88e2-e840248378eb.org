@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fbc7fc10-2980-4eab-88e2-e840248378eb
+:END:
+#+TITLE: Yjfq Cphsvvxp 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Cphsvvxp
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.46
+- price :: 23.76 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:b2bde437-01eb-4e1e-b518-ba4855dbfc16][Yjfq Cphsvvxp NV - 1999-3-4]]
+
+

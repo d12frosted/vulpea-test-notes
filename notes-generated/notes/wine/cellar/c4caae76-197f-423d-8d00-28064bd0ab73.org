@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c4caae76-197f-423d-8d00-28064bd0ab73
+:END:
+#+TITLE: Scf Elpezclx Fpndf Ancph 1916
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Fpndf Ancph
+- vintage :: 1916
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 11.79
+- sugar :: 17.41
+- price :: 27.70 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: wikipedia
+- rating :: NA
+
+

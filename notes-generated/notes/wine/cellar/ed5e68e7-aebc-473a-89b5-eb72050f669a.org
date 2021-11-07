@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ed5e68e7-aebc-473a-89b5-eb72050f669a
+:END:
+#+TITLE: Lrwk Jbaxrmn Ecienvp 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ecienvp
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 13.440000000000001
+- sugar :: 23.17
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA
+
+

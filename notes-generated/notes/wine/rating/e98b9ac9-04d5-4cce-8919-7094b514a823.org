@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e98b9ac9-04d5-4cce-8919-7094b514a823
+:END:
+#+TITLE: Nhozxqe Aldl Abnzhqp Byygecyo 1932 - 2021-5-4
+
+- wine :: [[id:640cf429-edc9-4106-9941-4df99fa5592c][Nhozxqe Aldl Abnzhqp Byygecyo 1932]]
+- date :: 2021-5-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

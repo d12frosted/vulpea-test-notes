@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     89c8c9ac-9fcd-40e3-82e9-3d06aa24b4a1
+:END:
+#+TITLE: Lrwk Jbaxrmn Rpjdvuag Elhg 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rpjdvuag Elhg
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 9.25
+- sugar :: 20.43
+- price :: 28.52 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:62630aaf-8b1b-4c3a-93d4-5b0aaa76f5dc][Lrwk Jbaxrmn Rpjdvuag Elhg NV - 1997-1-16]]
+
+

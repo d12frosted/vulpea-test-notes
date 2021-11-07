@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b7f862cd-d021-45a8-ad06-3ac1faa50ba3
+:END:
+#+TITLE: Giih Udr Otthcfq Sdjjzs 2018
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Otthcfq Sdjjzs
+- vintage :: 2018
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.7
+- sugar :: 14.7
+- price :: 76.97 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

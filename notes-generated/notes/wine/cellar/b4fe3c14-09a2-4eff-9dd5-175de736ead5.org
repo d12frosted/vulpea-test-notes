@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b4fe3c14-09a2-4eff-9dd5-175de736ead5
+:END:
+#+TITLE: Lrwk Jbaxrmn Kgfhu Etextg 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Kgfhu Etextg
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 12.23
+- sugar :: 16.13
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

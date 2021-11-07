@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8d8df7d7-9d4e-4647-83e3-2657df6cdbdc
+:END:
+#+TITLE: Nhozxqe Aldl Yppc 2004
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Yppc
+- vintage :: 2004
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.46
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:b80bacf9-c744-400b-8895-1405a39ea10b][Nhozxqe Aldl Yppc 2004 - 2018-4-25]]
+
+

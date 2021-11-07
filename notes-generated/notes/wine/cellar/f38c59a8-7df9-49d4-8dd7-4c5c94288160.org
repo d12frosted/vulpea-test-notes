@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f38c59a8-7df9-49d4-8dd7-4c5c94288160
+:END:
+#+TITLE: Jjkswvm Rcm Qsuoayx Wvxdo 1958
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qsuoayx Wvxdo
+- vintage :: 1958
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 13.91
+- sugar :: 20.32
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA
+
+

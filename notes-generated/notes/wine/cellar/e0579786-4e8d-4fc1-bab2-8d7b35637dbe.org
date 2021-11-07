@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e0579786-4e8d-4fc1-bab2-8d7b35637dbe
+:END:
+#+TITLE: Scf Elpezclx Evqzx 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Evqzx
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 10.4
+- price :: 16.47 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:ff443831-7c11-4695-a4e4-cdbae1317e2f][Scf Elpezclx Evqzx NV - 2012-8-27]]
+
+

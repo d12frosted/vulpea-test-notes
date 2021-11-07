@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     334c2a70-dd7b-43e7-84e3-e8fd515b680b
+:END:
+#+TITLE: Yokf Gwhwycw Iejrmfo Drkgt NV - 1992-5-25
+
+- wine :: [[id:ddffa222-a549-47c0-969e-5ee25fb10c93][Yokf Gwhwycw Iejrmfo Drkgt]]
+- date :: 1992-5-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

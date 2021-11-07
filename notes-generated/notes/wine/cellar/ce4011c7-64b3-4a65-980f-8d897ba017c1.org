@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     ce4011c7-64b3-4a65-980f-8d897ba017c1
+:END:
+#+TITLE: Scf Elpezclx Hphfbju 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Hphfbju
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 12.21
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

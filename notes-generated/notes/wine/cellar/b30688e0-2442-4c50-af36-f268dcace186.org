@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b30688e0-2442-4c50-af36-f268dcace186
+:END:
+#+TITLE: Yokf Gwhwycw Vwcgp Ddmqdzq 1916
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vwcgp Ddmqdzq
+- vintage :: 1916
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 10.79
+- sugar :: 16.93
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:90095f52-66ad-44ff-aeb0-dd32d71be680][Yokf Gwhwycw Vwcgp Ddmqdzq 1916 - 1994-7-22]]
+
+

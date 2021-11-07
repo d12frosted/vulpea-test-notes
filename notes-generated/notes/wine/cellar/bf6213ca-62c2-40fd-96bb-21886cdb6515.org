@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bf6213ca-62c2-40fd-96bb-21886cdb6515
+:END:
+#+TITLE: Cowhhax Upmqcgn Jsvoxnxw 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Jsvoxnxw
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.01
+- sugar :: 19.55
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: 7.0
+- ratings :: [[id:393197d3-1172-4cbb-8ff5-018590b8626d][Cowhhax Upmqcgn Jsvoxnxw NV - 2008-3-4]]
+
+

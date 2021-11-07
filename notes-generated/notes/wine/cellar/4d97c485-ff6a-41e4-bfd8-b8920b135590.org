@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4d97c485-ff6a-41e4-bfd8-b8920b135590
+:END:
+#+TITLE: Lrwk Jbaxrmn Gwfmtk Mwv 1916
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Gwfmtk Mwv
+- vintage :: 1916
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 13.09
+- price :: 14.49 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA
+
+

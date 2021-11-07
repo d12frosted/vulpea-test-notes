@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     84745882-0771-4aae-b31a-137c61c12ea2
+:END:
+#+TITLE: Jjkswvm Rcm Cqdb Rrh 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Cqdb Rrh
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.870000000000001
+- sugar :: 19.63
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA
+
+

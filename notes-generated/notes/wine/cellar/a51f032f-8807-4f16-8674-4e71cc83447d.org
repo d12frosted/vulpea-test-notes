@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     a51f032f-8807-4f16-8674-4e71cc83447d
+:END:
+#+TITLE: Yjfq Bjsey Daqhtxz 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Bjsey Daqhtxz
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.39
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:232805cc-1150-4d0c-aae1-a74b7696a1e7][Yjfq Bjsey Daqhtxz NV - 2022-5-16]]
+
+

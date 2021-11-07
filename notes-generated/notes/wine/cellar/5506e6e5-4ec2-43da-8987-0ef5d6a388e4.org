@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5506e6e5-4ec2-43da-8987-0ef5d6a388e4
+:END:
+#+TITLE: Cowhhax Upmqcgn Aoyi 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Aoyi
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.6
+- sugar :: 15.91
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 3.5
+- ratings :: [[id:1c82987d-13b6-4129-8fc5-17f175c85318][Cowhhax Upmqcgn Aoyi NV - 2016-6-4]]
+
+

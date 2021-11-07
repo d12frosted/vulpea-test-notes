@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3c873ed2-9884-47f5-8910-ab59e2ef1220
+:END:
+#+TITLE: Lrwk Jbaxrmn Unrx NV - 2019-1-11
+
+- wine :: [[id:a1a8c1a8-4ff4-4d51-bc5c-18eb17cb9c0c][Lrwk Jbaxrmn Unrx]]
+- date :: 2019-1-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

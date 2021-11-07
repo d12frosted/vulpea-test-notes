@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     461fa78b-90f1-42b9-ab99-182516d521de
+:END:
+#+TITLE: Lrwk Jbaxrmn Ermnl Prrpotz 1910
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ermnl Prrpotz
+- vintage :: 1910
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 11.69
+- price :: 13.64 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

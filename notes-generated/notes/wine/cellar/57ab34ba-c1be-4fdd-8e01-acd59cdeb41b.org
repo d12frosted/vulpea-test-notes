@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     57ab34ba-c1be-4fdd-8e01-acd59cdeb41b
+:END:
+#+TITLE: Giih Udr Ggh Qpz 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ggh Qpz
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.45
+- sugar :: 17.05
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

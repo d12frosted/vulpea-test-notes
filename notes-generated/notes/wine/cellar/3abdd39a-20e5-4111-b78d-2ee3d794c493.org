@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3abdd39a-20e5-4111-b78d-2ee3d794c493
+:END:
+#+TITLE: Scf Elpezclx Vjndy Ahoft 1942
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Vjndy Ahoft
+- vintage :: 1942
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 13.48
+- price :: 27.79 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:377000de-1a9a-4491-8118-752e0b028de1][Scf Elpezclx Vjndy Ahoft 1942 - 1991-2-18]]
+
+

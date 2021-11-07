@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d006c491-1c40-46da-87ea-6d31e758ebe0
+:END:
+#+TITLE: Jjkswvm Rcm Qawabqtv Kivw 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qawabqtv Kivw
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 10.27
+- price :: 92.87 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:129876e3-5b0f-46c6-bb8e-d44c022eb545][Jjkswvm Rcm Qawabqtv Kivw NV - 2004-6-14]]
+
+

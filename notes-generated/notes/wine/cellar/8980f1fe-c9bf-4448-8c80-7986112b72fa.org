@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8980f1fe-c9bf-4448-8c80-7986112b72fa
+:END:
+#+TITLE: Nhozxqe Aldl Poqwktow 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Poqwktow
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 11.08
+- sugar :: 16.19
+- price :: 32.38 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:38496cfd-5f38-44b1-8775-2c02f65533ce][Nhozxqe Aldl Poqwktow NV - 1998-10-13]]
+
+

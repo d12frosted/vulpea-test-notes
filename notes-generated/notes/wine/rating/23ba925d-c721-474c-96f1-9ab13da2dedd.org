@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     23ba925d-c721-474c-96f1-9ab13da2dedd
+:END:
+#+TITLE: Scf Elpezclx Qgqer 1990 - 2022-7-26
+
+- wine :: [[id:fc349c9d-fc5a-4d26-828b-d1671a0e0684][Scf Elpezclx Qgqer 1990]]
+- date :: 2022-7-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

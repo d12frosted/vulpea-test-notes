@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9dde3a19-1322-4a51-a960-a80b16c1712f
+:END:
+#+TITLE: Giih Udr Sro Gkhmkqj 1929 - 2014-10-13
+
+- wine :: [[id:c3fc3dcc-5941-49c9-8862-f5662e68d4e6][Giih Udr Sro Gkhmkqj 1929]]
+- date :: 2014-10-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

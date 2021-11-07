@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8482d0ad-6ca7-49bc-aa7f-c3057df96c24
+:END:
+#+TITLE: Giih Udr Camd Ihbdxu NV - 1991-11-26
+
+- wine :: [[id:d26e131e-ef50-499b-aa8e-73529c5a211b][Giih Udr Camd Ihbdxu]]
+- date :: 1991-11-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e8c5e872-5202-49ca-891f-ef2c0e171ecd
+:END:
+#+TITLE: Jjkswvm Rcm Zftgbr 1932 - 2016-2-20
+
+- wine :: [[id:e9d3f884-deac-4f31-a6d7-cad0b5173955][Jjkswvm Rcm Zftgbr 1932]]
+- date :: 2016-2-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

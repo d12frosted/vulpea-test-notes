@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     799f86fd-aad3-48cc-a43a-b1986d5718a0
+:END:
+#+TITLE: Yjfq Ccr Vfp NV - 2017-9-4
+
+- wine :: [[id:00105f80-3828-4a06-85ab-157a09555adf][Yjfq Ccr Vfp]]
+- date :: 2017-9-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     88063b6c-7698-4ffe-b0b6-9eae0e08f5fa
+:END:
+#+TITLE: Giih Udr Mbexxsn Xxxfulc NV - 2002-10-23
+
+- wine :: [[id:fb5cb07e-fa5d-46e5-9f46-837683a016c1][Giih Udr Mbexxsn Xxxfulc]]
+- date :: 2002-10-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

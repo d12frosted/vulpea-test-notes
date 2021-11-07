@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e08e06b2-6d49-4182-aed4-1ff42f5b6dd0
+:END:
+#+TITLE: Scf Elpezclx Qecexxlw NV - 1992-3-17
+
+- wine :: [[id:e6f3af6e-bc7b-4eeb-b347-788e1dbd82ab][Scf Elpezclx Qecexxlw]]
+- date :: 1992-3-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

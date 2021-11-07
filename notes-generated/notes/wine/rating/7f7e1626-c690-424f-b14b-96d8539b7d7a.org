@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7f7e1626-c690-424f-b14b-96d8539b7d7a
+:END:
+#+TITLE: Yjfq Dkg 1907 - 2016-1-26
+
+- wine :: [[id:c3855688-a4c9-4f7d-909b-5306c37f6083][Yjfq Dkg 1907]]
+- date :: 2016-1-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

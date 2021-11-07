@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c08e492e-9d94-40f7-b502-ac6f458ecdfb
+:END:
+#+TITLE: Giih Udr Ywsen 1984 - 2011-1-18
+
+- wine :: [[id:741abac6-186e-4145-b8de-36daeb1990c8][Giih Udr Ywsen 1984]]
+- date :: 2011-1-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

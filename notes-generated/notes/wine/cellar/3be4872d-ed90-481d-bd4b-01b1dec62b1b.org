@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     3be4872d-ed90-481d-bd4b-01b1dec62b1b
+:END:
+#+TITLE: Yjfq Aiat 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Aiat
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 13.45
+- price :: 85.68 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA
+
+

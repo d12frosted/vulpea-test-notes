@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fc004b75-1306-491e-b801-03b768e981e2
+:END:
+#+TITLE: Lrwk Jbaxrmn Qcmlqltr 1954 - 2012-8-5
+
+- wine :: [[id:2d47a894-bbf9-4d5d-8005-ca597782e37e][Lrwk Jbaxrmn Qcmlqltr 1954]]
+- date :: 2012-8-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

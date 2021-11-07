@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cde8d792-11d9-4a31-a0b3-7ebcb7762e8f
+:END:
+#+TITLE: Nhozxqe Aldl Ryd Fepvygd 1984
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ryd Fepvygd
+- vintage :: 1984
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 11.14
+- sugar :: 0.57
+- price :: 46.74 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:16b8fb9c-34bb-4b08-b740-67e16c47825e][Nhozxqe Aldl Ryd Fepvygd 1984 - 2023-12-24]]
+
+

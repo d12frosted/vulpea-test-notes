@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7326561c-f642-4926-8186-14cf7d2dda11
+:END:
+#+TITLE: Lrwk Jbaxrmn Obllk Sxuvmbxk 1991
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Obllk Sxuvmbxk
+- vintage :: 1991
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 10.4
+- sugar :: 14.92
+- price :: 80.96 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.0
+- ratings :: [[id:4f99aa04-09f9-4986-92ce-a4c58bf0ac6b][Lrwk Jbaxrmn Obllk Sxuvmbxk 1991 - 2020-3-26]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0beaf67b-6a5b-4ec8-ae4f-28e94945508f
+:END:
+#+TITLE: Lrwk Jbaxrmn Ebkdmcsu 2003
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ebkdmcsu
+- vintage :: 2003
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 10.06
+- price :: 41.44 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:086e3f68-f670-4fa3-9b15-b9304b4ec366][Lrwk Jbaxrmn Ebkdmcsu 2003 - 2017-7-25]]
+
+

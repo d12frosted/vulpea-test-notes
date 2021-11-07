@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     358f9248-7d23-40a8-8d0a-3f6ac78e2f6d
+:END:
+#+TITLE: Ecxknc Iepvhans Npveyj 1954
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Npveyj
+- vintage :: 1954
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 12.21
+- sugar :: 8.45
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 8.0
+- ratings :: [[id:96952ff7-8ac2-4ac0-be5f-15670c214459][Ecxknc Iepvhans Npveyj 1954 - 2022-1-18]]
+
+

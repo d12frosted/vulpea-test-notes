@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     625af046-e64d-4db2-a08b-d81970666ad8
+:END:
+#+TITLE: Giih Udr Ltwamjk Pixsagu NV - 2023-9-18
+
+- wine :: [[id:a48db8c8-b805-4b24-85d1-601b3bfa62be][Giih Udr Ltwamjk Pixsagu]]
+- date :: 2023-9-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

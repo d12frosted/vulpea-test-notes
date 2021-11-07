@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e1393a95-bd41-43db-98be-f4c105307e12
+:END:
+#+TITLE: Giih Udr Fscjtv Sgaga NV - 1992-2-4
+
+- wine :: [[id:ab46ae63-b943-4cdc-95fd-7208fb3fe5e7][Giih Udr Fscjtv Sgaga]]
+- date :: 1992-2-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

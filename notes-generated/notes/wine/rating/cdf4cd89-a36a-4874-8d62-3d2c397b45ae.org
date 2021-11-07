@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cdf4cd89-a36a-4874-8d62-3d2c397b45ae
+:END:
+#+TITLE: Giih Udr Nxu 1997 - 2014-10-28
+
+- wine :: [[id:d2d424fd-e5c2-4c48-9878-64714de4b733][Giih Udr Nxu 1997]]
+- date :: 2014-10-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8cf340ad-e2fc-42f4-b180-b095dc850d29
+:END:
+#+TITLE: Cowhhax Upmqcgn Ofblfkia Yts NV - 2024-10-11
+
+- wine :: [[id:c2aaeda6-4b43-4101-ae0e-756185897848][Cowhhax Upmqcgn Ofblfkia Yts]]
+- date :: 2024-10-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

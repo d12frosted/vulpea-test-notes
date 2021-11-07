@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7137576e-bc08-4f9e-aabe-da98ed5a7f26
+:END:
+#+TITLE: Qay Arx Lrfkqq 1986
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Arx Lrfkqq
+- vintage :: 1986
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 12.48
+- sugar :: 16.74
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA
+
+

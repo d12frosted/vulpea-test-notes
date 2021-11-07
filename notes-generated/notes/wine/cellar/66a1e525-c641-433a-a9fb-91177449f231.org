@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     66a1e525-c641-433a-a9fb-91177449f231
+:END:
+#+TITLE: Ecxknc Iepvhans Nwzobkxk Oszfpty 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Nwzobkxk Oszfpty
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.9
+- sugar :: 6.06
+- price :: 63.79 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4f87c0ec-4e54-4aae-b6a8-a16942e13188
+:END:
+#+TITLE: Cowhhax Upmqcgn Ettkk NV - 2003-4-22
+
+- wine :: [[id:01d77e29-082c-44f2-9281-d68cb64b03be][Cowhhax Upmqcgn Ettkk]]
+- date :: 2003-4-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     54fcf5d2-efb3-4e75-b01e-1f97e5379c2b
+:END:
+#+TITLE: Yjfq Omlpbuxq Oyksrqrl 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Omlpbuxq Oyksrqrl
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.54
+- sugar :: 18.4
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:9cc39940-220e-4a44-b1d6-a461d8787c77][Yjfq Omlpbuxq Oyksrqrl NV - 2002-2-12]]
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     544b9eca-1b15-4e16-a961-85faa1e13496
+:END:
+#+TITLE: Ecxknc Iepvhans Ojlpxsl Womlk 1916
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ojlpxsl Womlk
+- vintage :: 1916
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 10.25
+- sugar :: 6.98
+- price :: 71.11 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

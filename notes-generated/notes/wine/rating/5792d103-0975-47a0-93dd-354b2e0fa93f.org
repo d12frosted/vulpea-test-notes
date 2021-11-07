@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5792d103-0975-47a0-93dd-354b2e0fa93f
+:END:
+#+TITLE: Yjfq Mtscqa NV - 2018-10-4
+
+- wine :: [[id:119c3b28-f9a1-45da-83a9-868d54e0a543][Yjfq Mtscqa]]
+- date :: 2018-10-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

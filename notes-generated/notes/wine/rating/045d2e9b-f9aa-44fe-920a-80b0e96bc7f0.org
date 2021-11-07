@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     045d2e9b-f9aa-44fe-920a-80b0e96bc7f0
+:END:
+#+TITLE: Yokf Gwhwycw Sfuc NV - 2001-5-25
+
+- wine :: [[id:6be6ffc9-dde5-40cb-999c-fd162a7628b9][Yokf Gwhwycw Sfuc]]
+- date :: 2001-5-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

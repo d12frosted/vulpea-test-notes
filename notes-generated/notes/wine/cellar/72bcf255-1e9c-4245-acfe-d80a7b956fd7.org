@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     72bcf255-1e9c-4245-acfe-d80a7b956fd7
+:END:
+#+TITLE: Yokf Gwhwycw Fjdfwm 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Fjdfwm
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.74
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA
+
+

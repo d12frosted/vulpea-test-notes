@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     530f80e7-296c-484b-a2f0-17f2777de298
+:END:
+#+TITLE: Cowhhax Upmqcgn Rhc Cbjveh NV - 2019-2-14
+
+- wine :: [[id:c8fd2a7b-481c-405c-a17f-8199f450b2b5][Cowhhax Upmqcgn Rhc Cbjveh]]
+- date :: 2019-2-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d0cb5fbb-e553-4b05-8734-c102cf2e399d
+:END:
+#+TITLE: Yjfq Lkxiqmj Mwxmnlg NV - 2022-12-7
+
+- wine :: [[id:6bafccd8-cbf6-40d1-9491-4513be4e9dad][Yjfq Lkxiqmj Mwxmnlg]]
+- date :: 2022-12-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

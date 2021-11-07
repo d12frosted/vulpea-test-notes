@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     75c733ef-f4ba-44ba-8b6b-6d9343916c45
+:END:
+#+TITLE: Yjfq Tggwm 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Tggwm
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 13.89
+- sugar :: 6.46
+- price :: 15.42 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA
+
+

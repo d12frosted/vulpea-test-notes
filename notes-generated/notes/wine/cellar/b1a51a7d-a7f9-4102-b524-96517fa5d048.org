@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     b1a51a7d-a7f9-4102-b524-96517fa5d048
+:END:
+#+TITLE: Lrwk Jbaxrmn Xrxqupb Uhsfofnt 1964
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xrxqupb Uhsfofnt
+- vintage :: 1964
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.13
+- sugar :: 16.5
+- price :: 33.42 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 4.5
+- ratings :: [[id:265e7278-47fc-4174-813d-48c8e49cc377][Lrwk Jbaxrmn Xrxqupb Uhsfofnt 1964 - 2020-8-18]]
+
+

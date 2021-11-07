@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d5cff738-8ee5-4eef-98cb-29ee58de6b66
+:END:
+#+TITLE: Giih Udr Umlw Zwrjnt NV - 2005-5-8
+
+- wine :: [[id:692e99d5-23ab-4a3a-a56d-558260e0c69e][Giih Udr Umlw Zwrjnt]]
+- date :: 2005-5-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

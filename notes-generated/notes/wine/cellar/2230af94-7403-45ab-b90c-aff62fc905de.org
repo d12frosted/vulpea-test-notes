@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     2230af94-7403-45ab-b90c-aff62fc905de
+:END:
+#+TITLE: Scf Elpezclx Kfjdeyww 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Kfjdeyww
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 12.620000000000001
+- sugar :: 14.96
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

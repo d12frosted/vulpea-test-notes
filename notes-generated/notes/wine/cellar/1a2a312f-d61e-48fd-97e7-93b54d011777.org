@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1a2a312f-d61e-48fd-97e7-93b54d011777
+:END:
+#+TITLE: Jjkswvm Rcm Jwxvf 1900
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Jwxvf
+- vintage :: 1900
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.07
+- price :: 69.81 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:06115e9b-ff54-4a9e-8ec1-9a69564563f9][Jjkswvm Rcm Jwxvf 1900 - 2005-10-25]]
+
+

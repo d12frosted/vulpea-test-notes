@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     bc70e64e-660e-4e6f-b0d8-9b9402a635cd
+:END:
+#+TITLE: Giih Udr Bcli Nyhjvqs 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Bcli Nyhjvqs
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.58
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 3.5
+- ratings :: [[id:cf36f389-34ec-4359-a337-4ecefbd01a04][Giih Udr Bcli Nyhjvqs NV - 2018-1-23]]
+
+

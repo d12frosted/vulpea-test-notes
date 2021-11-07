@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     41b90127-7f91-42ff-91b6-e6ac3d5e0c39
+:END:
+#+TITLE: Cowhhax Upmqcgn Rajtiui 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Rajtiui
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 9.11
+- price :: 84.64 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:644e2426-46ab-4089-a58d-e5dd4fb23022][Cowhhax Upmqcgn Rajtiui NV - 1998-12-24]]
+
+

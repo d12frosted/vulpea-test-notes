@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     98d51578-409f-4233-875a-ab4dbbd540cb
+:END:
+#+TITLE: Nhozxqe Aldl Puff Ese 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Puff Ese
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.24
+- sugar :: 14.85
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

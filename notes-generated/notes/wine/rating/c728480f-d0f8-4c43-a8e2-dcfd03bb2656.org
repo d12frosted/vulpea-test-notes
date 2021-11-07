@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c728480f-d0f8-4c43-a8e2-dcfd03bb2656
+:END:
+#+TITLE: Giih Udr Shwmp Idur 1990 - 2005-9-3
+
+- wine :: [[id:470d1cbc-0af6-49ce-950a-e13256a66b51][Giih Udr Shwmp Idur 1990]]
+- date :: 2005-9-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

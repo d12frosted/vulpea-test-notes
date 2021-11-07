@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d07ba38a-824a-4ecd-b2f6-8c60f72cb7ea
+:END:
+#+TITLE: Cowhhax Upmqcgn Rtzfhjx Aio 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Rtzfhjx Aio
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 12.74
+- price :: 34.72 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

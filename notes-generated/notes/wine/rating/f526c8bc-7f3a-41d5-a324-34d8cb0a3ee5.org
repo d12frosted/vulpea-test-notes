@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f526c8bc-7f3a-41d5-a324-34d8cb0a3ee5
+:END:
+#+TITLE: Yokf Gwhwycw Shldn NV - 2022-7-12
+
+- wine :: [[id:d37f4243-deb7-4d83-b68c-216352c170bb][Yokf Gwhwycw Shldn]]
+- date :: 2022-7-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

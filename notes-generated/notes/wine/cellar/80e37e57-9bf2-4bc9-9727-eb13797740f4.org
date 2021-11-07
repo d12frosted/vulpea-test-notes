@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     80e37e57-9bf2-4bc9-9727-eb13797740f4
+:END:
+#+TITLE: Yokf Gwhwycw Knbfjge 1964
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Knbfjge
+- vintage :: 1964
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.04
+- price :: 45.40 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: 7.5
+- ratings :: [[id:aef67b7c-355b-4a23-9a49-579303199dfe][Yokf Gwhwycw Knbfjge 1964 - 2004-11-14]]
+
+

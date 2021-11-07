@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     10e0f6d1-a0ba-40db-addf-7a8edbcb6471
+:END:
+#+TITLE: Jjkswvm Rcm Jgzucmvf 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Jgzucmvf
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 9.14
+- price :: 86.09 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:a9bfaf14-7acb-452f-9c55-56890eea76cf][Jjkswvm Rcm Jgzucmvf NV - 1994-7-16]]
+
+

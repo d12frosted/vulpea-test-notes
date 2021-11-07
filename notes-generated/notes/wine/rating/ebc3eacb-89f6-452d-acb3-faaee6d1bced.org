@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ebc3eacb-89f6-452d-acb3-faaee6d1bced
+:END:
+#+TITLE: Scf Elpezclx Hedbdjog Oofspg NV - 2003-2-6
+
+- wine :: [[id:63278879-129e-491d-893f-bcc9d7188db6][Scf Elpezclx Hedbdjog Oofspg]]
+- date :: 2003-2-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

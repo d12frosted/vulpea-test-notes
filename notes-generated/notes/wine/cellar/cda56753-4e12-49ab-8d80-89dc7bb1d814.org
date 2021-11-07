@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     cda56753-4e12-49ab-8d80-89dc7bb1d814
+:END:
+#+TITLE: Lrwk Jbaxrmn Qlr 1993
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qlr
+- vintage :: 1993
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 11.21
+- price :: 52.21 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bd60a20c-c9a0-47df-9d85-244c7e938680
+:END:
+#+TITLE: Giih Udr Ekowy Xtdb 2003 - 2012-9-9
+
+- wine :: [[id:7f4c46c3-87c8-440f-b9d9-c5eaf2e61be8][Giih Udr Ekowy Xtdb 2003]]
+- date :: 2012-9-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

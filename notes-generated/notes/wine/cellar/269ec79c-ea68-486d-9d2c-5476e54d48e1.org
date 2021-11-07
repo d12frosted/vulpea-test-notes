@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     269ec79c-ea68-486d-9d2c-5476e54d48e1
+:END:
+#+TITLE: Cowhhax Upmqcgn Fmhuhc 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Fmhuhc
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 10.49
+- sugar :: 13.58
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:038ce5cb-8b92-483a-9d52-1eb6af938c95][Cowhhax Upmqcgn Fmhuhc NV - 1995-9-24]]
+
+

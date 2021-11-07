@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a8fd8f10-6327-4d73-8c67-a86c3409f407
+:END:
+#+TITLE: Cowhhax Upmqcgn Ulsiyct Pftmwoa 2014
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ulsiyct Pftmwoa
+- vintage :: 2014
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.91
+- price :: 55.32 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2e524fb7-6084-4e57-b2e8-08133b6199a0
+:END:
+#+TITLE: Ecxknc Iepvhans Ztfinhsz NV - 2016-9-15
+
+- wine :: [[id:910b0e3e-b681-434f-af83-5906166ce366][Ecxknc Iepvhans Ztfinhsz]]
+- date :: 2016-9-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

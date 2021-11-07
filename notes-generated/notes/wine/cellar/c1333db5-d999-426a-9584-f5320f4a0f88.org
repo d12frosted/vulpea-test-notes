@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c1333db5-d999-426a-9584-f5320f4a0f88
+:END:
+#+TITLE: Lrwk Jbaxrmn Wezglmw 2006
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Wezglmw
+- vintage :: 2006
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.95
+- sugar :: 21.15
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

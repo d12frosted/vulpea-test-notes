@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     5a092d7f-a389-4908-a682-c95cb379f923
+:END:
+#+TITLE: Jjkswvm Rcm Jton Uox 1922
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Jton Uox
+- vintage :: 1922
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 10.4
+- sugar :: 15.49
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:3b6c4f26-29fe-4000-b161-3fd0615940ad][Jjkswvm Rcm Jton Uox 1922 - 2010-7-4]]
+
+

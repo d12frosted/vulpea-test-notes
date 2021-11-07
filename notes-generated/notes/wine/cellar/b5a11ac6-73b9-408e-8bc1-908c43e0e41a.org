@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b5a11ac6-73b9-408e-8bc1-908c43e0e41a
+:END:
+#+TITLE: Cowhhax Upmqcgn Lelgqic Uqbgy 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Lelgqic Uqbgy
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.11
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:413137e5-5905-4738-9193-f9dfb9fcfe40][Cowhhax Upmqcgn Lelgqic Uqbgy NV - 2007-6-15]]
+
+

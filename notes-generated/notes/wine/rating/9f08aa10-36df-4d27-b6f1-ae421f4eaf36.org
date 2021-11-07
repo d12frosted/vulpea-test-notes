@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9f08aa10-36df-4d27-b6f1-ae421f4eaf36
+:END:
+#+TITLE: Jjkswvm Rcm Ivrbtf NV - 2020-12-15
+
+- wine :: [[id:33963423-28ac-4d89-b992-c35612c749c5][Jjkswvm Rcm Ivrbtf]]
+- date :: 2020-12-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

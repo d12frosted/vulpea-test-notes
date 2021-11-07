@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fb27b4ab-8ff7-41ef-982b-bd6b829f5b37
+:END:
+#+TITLE: Giih Udr Tgczofqa Nmcdwax NV - 2007-11-12
+
+- wine :: [[id:376d3a52-3e11-4aeb-9d51-5c21da64951a][Giih Udr Tgczofqa Nmcdwax]]
+- date :: 2007-11-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

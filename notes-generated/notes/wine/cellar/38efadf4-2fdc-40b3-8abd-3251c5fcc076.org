@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     38efadf4-2fdc-40b3-8abd-3251c5fcc076
+:END:
+#+TITLE: Scf Elpezclx Pmpcmd 1900
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Pmpcmd
+- vintage :: 1900
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.04
+- sugar :: 22.68
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:4ecba494-5353-4614-bd2a-a6d815fb0745][Scf Elpezclx Pmpcmd 1900 - 2023-5-21]]
+
+

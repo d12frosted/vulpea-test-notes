@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     5f8ff44f-48df-4734-933e-d64f8c44c92b
+:END:
+#+TITLE: Giih Udr Jjvvj Qnz 1961
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Jjvvj Qnz
+- vintage :: 1961
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.5
+- sugar :: 8.11
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

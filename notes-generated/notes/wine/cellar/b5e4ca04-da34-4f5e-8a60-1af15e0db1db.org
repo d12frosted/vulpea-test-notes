@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b5e4ca04-da34-4f5e-8a60-1af15e0db1db
+:END:
+#+TITLE: Jjkswvm Rcm Hgtby 1993
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Hgtby
+- vintage :: 1993
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 12.44
+- sugar :: 0.38
+- price :: 40.23 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:364b2a7d-4a72-4e41-a70f-5f75dfe29afc][Jjkswvm Rcm Hgtby 1993 - 1992-1-12]]
+
+

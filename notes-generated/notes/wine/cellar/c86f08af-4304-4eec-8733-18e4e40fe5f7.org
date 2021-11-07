@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c86f08af-4304-4eec-8733-18e4e40fe5f7
+:END:
+#+TITLE: Jjkswvm Rcm Dyfugbq Dfjqx 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Dyfugbq Dfjqx
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.95
+- price :: 76.72 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:bcc787c1-ced6-4531-acc9-568e5dab71f2][Jjkswvm Rcm Dyfugbq Dfjqx NV - 1999-9-20]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4a72ea04-8e42-45ef-95b4-1291532ea316
+:END:
+#+TITLE: Giih Udr Jjswwjb 2018
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Jjswwjb
+- vintage :: 2018
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.46
+- sugar :: 13.72
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:e46c641d-d1ee-4b58-a966-a5daf9210350][Giih Udr Jjswwjb 2018 - 2008-8-25]]
+
+

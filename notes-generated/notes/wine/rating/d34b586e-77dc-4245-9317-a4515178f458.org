@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d34b586e-77dc-4245-9317-a4515178f458
+:END:
+#+TITLE: Lrwk Jbaxrmn Lreydl 1958 - 2014-9-9
+
+- wine :: [[id:a1e1a494-0a8f-4f93-b202-f7a309b47c61][Lrwk Jbaxrmn Lreydl 1958]]
+- date :: 2014-9-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

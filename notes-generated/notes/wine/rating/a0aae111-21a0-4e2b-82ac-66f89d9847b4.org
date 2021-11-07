@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a0aae111-21a0-4e2b-82ac-66f89d9847b4
+:END:
+#+TITLE: Qay Ildut 1982 - 2012-12-8
+
+- wine :: [[id:f8dc23fa-e27f-4777-b31e-30592157f70a][Qay Ildut 1982]]
+- date :: 2012-12-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

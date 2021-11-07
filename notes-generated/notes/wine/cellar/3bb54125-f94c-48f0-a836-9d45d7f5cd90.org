@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3bb54125-f94c-48f0-a836-9d45d7f5cd90
+:END:
+#+TITLE: Scf Elpezclx Rtiv 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Rtiv
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.67
+- price :: 94.35 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA
+
+

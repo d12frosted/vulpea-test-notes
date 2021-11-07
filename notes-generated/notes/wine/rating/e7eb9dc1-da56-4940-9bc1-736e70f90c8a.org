@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e7eb9dc1-da56-4940-9bc1-736e70f90c8a
+:END:
+#+TITLE: Yjfq Jiaji Kjdkefv NV - 1993-1-24
+
+- wine :: [[id:dc7f6832-395b-4a3e-b0d1-669a8a7948f9][Yjfq Jiaji Kjdkefv]]
+- date :: 1993-1-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

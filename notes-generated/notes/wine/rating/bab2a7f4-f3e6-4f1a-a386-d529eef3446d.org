@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bab2a7f4-f3e6-4f1a-a386-d529eef3446d
+:END:
+#+TITLE: Qay Wqjv Njytsg 1934 - 1992-8-22
+
+- wine :: [[id:995fb952-be3b-46c7-b678-050551767680][Qay Wqjv Njytsg 1934]]
+- date :: 1992-8-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

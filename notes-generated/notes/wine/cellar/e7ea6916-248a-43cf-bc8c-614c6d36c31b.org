@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e7ea6916-248a-43cf-bc8c-614c6d36c31b
+:END:
+#+TITLE: Qay Ztqeha Ngb 1930
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ztqeha Ngb
+- vintage :: 1930
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.370000000000001
+- sugar :: 4.22
+- price :: 36.39 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:10213eb2-7e45-420f-9e77-b5c396656fbd][Qay Ztqeha Ngb 1930 - 2024-10-21]]
+
+

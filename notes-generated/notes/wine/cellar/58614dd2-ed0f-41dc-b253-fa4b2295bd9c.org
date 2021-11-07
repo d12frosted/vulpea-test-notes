@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     58614dd2-ed0f-41dc-b253-fa4b2295bd9c
+:END:
+#+TITLE: Cowhhax Upmqcgn Dkmguz 1956
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Dkmguz
+- vintage :: 1956
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 9.75
+- sugar :: 15.51
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:0e892dad-9107-4149-a52f-0cb7c9bd7eec][Cowhhax Upmqcgn Dkmguz 1956 - 2024-7-19]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9e1a153f-7550-45e2-881f-91f82f717c49
+:END:
+#+TITLE: Yjfq Mnco Renq 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Mnco Renq
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.58
+- price :: 51.70 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:ebe0aba4-fdca-4a6c-913b-a82106ff6319][Yjfq Mnco Renq NV - 2010-11-3]]
+
+

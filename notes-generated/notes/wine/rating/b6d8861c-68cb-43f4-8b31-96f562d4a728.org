@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b6d8861c-68cb-43f4-8b31-96f562d4a728
+:END:
+#+TITLE: Giih Udr Xrgqds 1923 - 1997-1-8
+
+- wine :: [[id:b2b648f5-28b4-4569-8217-8ba0b26f502f][Giih Udr Xrgqds 1923]]
+- date :: 1997-1-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

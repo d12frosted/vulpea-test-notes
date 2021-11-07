@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     54463dbd-c26e-478d-9020-fcb465f0e79c
+:END:
+#+TITLE: Yokf Gwhwycw Qzj Wmq 2001
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Qzj Wmq
+- vintage :: 2001
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.11
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:df5377eb-65ea-43dd-8a07-c328cd9a92e3][Yokf Gwhwycw Qzj Wmq 2001 - 1998-2-25]]
+
+

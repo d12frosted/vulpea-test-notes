@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dd4c2052-489f-4307-be07-83ac60776c58
+:END:
+#+TITLE: Yjfq Ouv Lthqpr 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ouv Lthqpr
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.530000000000001
+- sugar :: 15.22
+- price :: 36.62 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5d9044cf-567e-4c2e-bb96-8ff0af5d5e71
+:END:
+#+TITLE: Lrwk Jbaxrmn Fdmxqrx 2005 - 2012-6-20
+
+- wine :: [[id:66abcd18-148f-427e-b8ce-6f125f90c3d3][Lrwk Jbaxrmn Fdmxqrx 2005]]
+- date :: 2012-6-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

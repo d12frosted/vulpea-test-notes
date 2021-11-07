@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dfbf22b6-0f0f-47e2-8b67-d08e5afe4780
+:END:
+#+TITLE: Qay Aasyla NV - 2019-10-16
+
+- wine :: [[id:144e158d-c91f-457b-99bc-df50fa4e0811][Qay Aasyla]]
+- date :: 2019-10-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

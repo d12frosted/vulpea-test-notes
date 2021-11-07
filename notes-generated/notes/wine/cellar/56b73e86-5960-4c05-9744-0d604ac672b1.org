@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     56b73e86-5960-4c05-9744-0d604ac672b1
+:END:
+#+TITLE: Qay Zrrhj 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Zrrhj
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.08
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ea81de41-65ce-44de-af88-3b0049400cb8
+:END:
+#+TITLE: Cowhhax Upmqcgn War 1925
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: War
+- vintage :: 1925
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.8
+- sugar :: 4.58
+- price :: 61.19 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 8.0
+- ratings :: [[id:dfe0bf44-8b03-41f8-bacb-bb101aeb7383][Cowhhax Upmqcgn War 1925 - 2019-4-25]]
+
+

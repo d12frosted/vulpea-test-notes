@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     36769054-1314-460a-bf9a-7f21e09a1671
+:END:
+#+TITLE: Jjkswvm Rcm Rkxs Jrij NV - 1998-8-9
+
+- wine :: [[id:fbd3506d-fef5-42ae-8d30-d41cf115e457][Jjkswvm Rcm Rkxs Jrij]]
+- date :: 1998-8-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

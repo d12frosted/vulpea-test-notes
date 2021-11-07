@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7acb7ee2-ea15-461f-91a5-bc4122dea5a5
+:END:
+#+TITLE: Giih Udr Sff Awipmzs 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Sff Awipmzs
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.34
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 0.5
+- ratings :: [[id:adcadaa6-30df-42e0-8f9c-f66f07a16412][Giih Udr Sff Awipmzs NV - 2015-3-5]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0f0b9389-d05f-442f-9fa2-fea45b28f456
+:END:
+#+TITLE: Ecxknc Iepvhans Yqpp 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Yqpp
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.27
+- price :: 31.58 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA
+
+

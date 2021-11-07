@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     bec47b38-3400-488a-9276-615c1a6c8ba2
+:END:
+#+TITLE: Yjfq Nqr Oojilee 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Nqr Oojilee
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 12.78
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:2f1e386c-51a6-4196-9b51-80213725f15d][Yjfq Nqr Oojilee NV - 2009-1-20]]
+
+

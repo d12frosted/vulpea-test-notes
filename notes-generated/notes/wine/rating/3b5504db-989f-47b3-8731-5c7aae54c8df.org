@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3b5504db-989f-47b3-8731-5c7aae54c8df
+:END:
+#+TITLE: Jjkswvm Rcm Sqk Ogyvb NV - 1992-6-5
+
+- wine :: [[id:f9bf5f5a-1861-46b4-aac3-24ec6486a2dd][Jjkswvm Rcm Sqk Ogyvb]]
+- date :: 1992-6-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

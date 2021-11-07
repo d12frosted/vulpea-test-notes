@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3916f920-3f70-4d8e-aa6d-4b3eb524e6ae
+:END:
+#+TITLE: Qay Ycrveqr Uhthd 1993
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ycrveqr Uhthd
+- vintage :: 1993
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 9.66
+- price :: 3.05 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.5
+- ratings :: [[id:c75c08e2-fd1d-44d7-8f52-b6b62604d57b][Qay Ycrveqr Uhthd 1993 - 1994-12-18]]
+
+

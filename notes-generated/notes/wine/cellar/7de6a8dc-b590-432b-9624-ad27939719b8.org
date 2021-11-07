@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7de6a8dc-b590-432b-9624-ad27939719b8
+:END:
+#+TITLE: Cowhhax Upmqcgn Iopz Njgal 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Iopz Njgal
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.57
+- sugar :: 16.01
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.0
+- ratings :: [[id:a01a033d-39da-4cf7-b1e7-a6fda86b0000][Cowhhax Upmqcgn Iopz Njgal NV - 2019-12-23]]
+
+

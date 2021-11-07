@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     c15a16de-f46c-4570-be8e-8b9589834f1f
+:END:
+#+TITLE: Giih Udr Kxtyvvc 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Kxtyvvc
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.85
+- price :: 75.16 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA
+
+

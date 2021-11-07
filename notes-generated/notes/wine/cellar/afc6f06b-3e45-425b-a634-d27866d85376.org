@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     afc6f06b-3e45-425b-a634-d27866d85376
+:END:
+#+TITLE: Cowhhax Upmqcgn Jzj Tpixkkr 1970
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Jzj Tpixkkr
+- vintage :: 1970
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 9.12
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:01c76bed-6222-463f-9787-442c89d0cf0e][Cowhhax Upmqcgn Jzj Tpixkkr 1970 - 2011-1-10]]
+
+

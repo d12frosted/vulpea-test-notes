@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7621fd3f-e727-440e-992b-c6c9afc9733c
+:END:
+#+TITLE: Cowhhax Upmqcgn Qcc 1930
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Qcc
+- vintage :: 1930
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.76
+- sugar :: 6.3
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 5.5
+- ratings :: [[id:89c8b3ad-2885-4f98-8438-fc6cccd78a79][Cowhhax Upmqcgn Qcc 1930 - 2023-4-8]]
+
+

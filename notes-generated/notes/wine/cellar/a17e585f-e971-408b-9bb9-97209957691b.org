@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     a17e585f-e971-408b-9bb9-97209957691b
+:END:
+#+TITLE: Yokf Gwhwycw Scyzekwr 1917
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Scyzekwr
+- vintage :: 1917
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 10.69
+- sugar :: 14.93
+- price :: 9.72 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: 5.5
+- ratings :: [[id:79c18580-f8f5-4742-b510-97d353965830][Yokf Gwhwycw Scyzekwr 1917 - 1998-7-7]]
+
+

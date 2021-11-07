@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     98cd6edb-9720-4c68-ae15-fcc529dee648
+:END:
+#+TITLE: Qay Sgrdeh 1931
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Sgrdeh
+- vintage :: 1931
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 10.77
+- price :: 41.36 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

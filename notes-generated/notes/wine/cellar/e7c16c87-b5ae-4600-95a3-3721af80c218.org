@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e7c16c87-b5ae-4600-95a3-3721af80c218
+:END:
+#+TITLE: Yokf Gwhwycw Eywaz 1971
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Eywaz
+- vintage :: 1971
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 11.14
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:a099267a-ef60-47d2-a5f6-d1ab8f9e9cb1][Yokf Gwhwycw Eywaz 1971 - 1996-2-26]]
+
+

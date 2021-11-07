@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     988c63dd-d55c-492a-b4e3-db91ece62901
+:END:
+#+TITLE: Jjkswvm Rcm Qdbqxged 1922
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qdbqxged
+- vintage :: 1922
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 10.370000000000001
+- sugar :: 5.03
+- price :: 6.36 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

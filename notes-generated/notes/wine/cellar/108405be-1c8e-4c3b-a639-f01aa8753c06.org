@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     108405be-1c8e-4c3b-a639-f01aa8753c06
+:END:
+#+TITLE: Jjkswvm Rcm Egn Rkvnn 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Egn Rkvnn
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 12.120000000000001
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.0
+- ratings :: [[id:192375f7-daad-4f7f-9dc0-4966aaec3064][Jjkswvm Rcm Egn Rkvnn NV - 1993-6-5]]
+
+

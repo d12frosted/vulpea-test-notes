@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     db58d9f2-bdec-4111-982e-763076d672f1
+:END:
+#+TITLE: Jjkswvm Rcm Yuhapv 1964 - 2015-2-12
+
+- wine :: [[id:c2a9d746-e8fe-430c-97bb-e8c1f490521b][Jjkswvm Rcm Yuhapv 1964]]
+- date :: 2015-2-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

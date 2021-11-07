@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     11444bdf-ba3b-4773-a7f6-cc90c84aed34
+:END:
+#+TITLE: Jjkswvm Rcm Cvwkzb 1926 - 1999-3-10
+
+- wine :: [[id:2f606d7b-0e3a-463f-8da6-4bae560b914a][Jjkswvm Rcm Cvwkzb 1926]]
+- date :: 1999-3-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

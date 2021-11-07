@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4e021b0b-e6e1-46e5-a349-a6c85721a9be
+:END:
+#+TITLE: Scf Elpezclx Wug Iqf 2001 - 1998-4-4
+
+- wine :: [[id:be6b13ff-a0f7-4fd7-a455-d64a1d7f0fd4][Scf Elpezclx Wug Iqf 2001]]
+- date :: 1998-4-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

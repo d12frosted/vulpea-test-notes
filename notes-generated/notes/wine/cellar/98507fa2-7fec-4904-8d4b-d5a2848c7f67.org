@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     98507fa2-7fec-4904-8d4b-d5a2848c7f67
+:END:
+#+TITLE: Ecxknc Iepvhans Fpg Eujztin 1919
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Fpg Eujztin
+- vintage :: 1919
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 10.85
+- sugar :: 17.8
+- price :: 75.35 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

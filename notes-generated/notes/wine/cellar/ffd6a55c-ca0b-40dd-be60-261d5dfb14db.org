@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ffd6a55c-ca0b-40dd-be60-261d5dfb14db
+:END:
+#+TITLE: Lrwk Jbaxrmn Qepotaq 1948
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qepotaq
+- vintage :: 1948
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 10.82
+- sugar :: 9.13
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:d895097e-9ac4-4d0e-a2b2-da0623c1affb][Lrwk Jbaxrmn Qepotaq 1948 - 2023-4-18]]
+
+

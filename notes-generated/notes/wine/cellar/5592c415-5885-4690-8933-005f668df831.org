@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     5592c415-5885-4690-8933-005f668df831
+:END:
+#+TITLE: Nhozxqe Aldl Zzvxgvjs 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Zzvxgvjs
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 10.18
+- sugar :: 15.41
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA
+
+

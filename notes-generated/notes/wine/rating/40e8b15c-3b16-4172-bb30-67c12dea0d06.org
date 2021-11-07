@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     40e8b15c-3b16-4172-bb30-67c12dea0d06
+:END:
+#+TITLE: Cowhhax Upmqcgn Gyjuxs Xkeigc 1921 - 1999-6-9
+
+- wine :: [[id:07f328e2-9f54-47b9-b487-1487e3444db6][Cowhhax Upmqcgn Gyjuxs Xkeigc 1921]]
+- date :: 1999-6-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

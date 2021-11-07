@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e8a01843-f069-480f-a6e4-f6971ea281a1
+:END:
+#+TITLE: Yokf Gwhwycw Eufp 1961
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Eufp
+- vintage :: 1961
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 10.86
+- sugar :: 15.52
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:6915e9b7-709a-49fd-80ba-8db7cae197c1][Yokf Gwhwycw Eufp 1961 - 2000-8-13]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a4702020-116c-48f1-bdfe-f88b04a47f0e
+:END:
+#+TITLE: Jjkswvm Rcm Ihuvyk 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ihuvyk
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 9.23
+- price :: 13.09 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:2a3d6a2f-226c-4a8a-8866-dc897d96f3e0][Jjkswvm Rcm Ihuvyk NV - 2000-2-20]]
+
+

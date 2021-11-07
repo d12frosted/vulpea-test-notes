@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     485c41fb-3e47-467e-9b76-93fd9088e4f3
+:END:
+#+TITLE: Nhozxqe Aldl Fadgv 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Fadgv
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 10.85
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 1.0
+- ratings :: [[id:818137b6-a192-4222-a8c5-3a7012f12709][Nhozxqe Aldl Fadgv NV - 1990-1-4]]
+
+

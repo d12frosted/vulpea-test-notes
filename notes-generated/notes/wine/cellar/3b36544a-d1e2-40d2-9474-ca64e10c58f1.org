@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     3b36544a-d1e2-40d2-9474-ca64e10c58f1
+:END:
+#+TITLE: Ecxknc Iepvhans Xpwiq Imsew 2004
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Xpwiq Imsew
+- vintage :: 2004
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 13.15
+- price :: 34.90 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

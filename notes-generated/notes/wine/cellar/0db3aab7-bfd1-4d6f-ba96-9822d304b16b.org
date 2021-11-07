@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     0db3aab7-bfd1-4d6f-ba96-9822d304b16b
+:END:
+#+TITLE: Ecxknc Iepvhans Fnicirc Qiinafo 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Fnicirc Qiinafo
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.65
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:b4754d22-0f70-4245-a037-e923f0a6305e][Ecxknc Iepvhans Fnicirc Qiinafo NV - 2007-4-4]]
+
+

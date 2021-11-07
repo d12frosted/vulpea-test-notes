@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fbd6403f-df24-4858-940d-25f4cb1c1f61
+:END:
+#+TITLE: Lrwk Jbaxrmn Bniqrd 2015 - 1992-12-1
+
+- wine :: [[id:5d0e5804-27cc-47a8-8e12-b8f9d661ef21][Lrwk Jbaxrmn Bniqrd 2015]]
+- date :: 1992-12-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

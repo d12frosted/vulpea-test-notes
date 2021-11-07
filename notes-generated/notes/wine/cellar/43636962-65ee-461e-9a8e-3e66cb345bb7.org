@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     43636962-65ee-461e-9a8e-3e66cb345bb7
+:END:
+#+TITLE: Scf Elpezclx Hbcw Ozpn 2019
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Hbcw Ozpn
+- vintage :: 2019
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.42
+- sugar :: 0.27
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:a61992e3-f3ea-4718-a34f-03a64140f05e][Scf Elpezclx Hbcw Ozpn 2019 - 2023-12-5]]
+
+

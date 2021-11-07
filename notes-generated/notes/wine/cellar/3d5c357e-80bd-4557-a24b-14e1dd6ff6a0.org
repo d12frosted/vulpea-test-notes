@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3d5c357e-80bd-4557-a24b-14e1dd6ff6a0
+:END:
+#+TITLE: Cowhhax Upmqcgn Jmlmnsq 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Jmlmnsq
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.469999999999999
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:c63d7b6c-c5a4-4895-b64e-3012aa4250cb][Cowhhax Upmqcgn Jmlmnsq NV - 1991-2-21]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3f4cb747-c3d1-4c72-b1b3-c87481b8c019
+:END:
+#+TITLE: Jjkswvm Rcm Txbdhow NV - 1999-7-1
+
+- wine :: [[id:80b10696-7d88-4d6d-8491-5e44fb29a893][Jjkswvm Rcm Txbdhow]]
+- date :: 1999-7-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

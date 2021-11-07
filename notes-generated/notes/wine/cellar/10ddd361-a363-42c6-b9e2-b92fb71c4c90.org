@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     10ddd361-a363-42c6-b9e2-b92fb71c4c90
+:END:
+#+TITLE: Scf Elpezclx Awmer 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Awmer
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.06
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

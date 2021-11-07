@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c6f2882c-a769-4148-a330-20ec5afb2a0b
+:END:
+#+TITLE: Qay Lsaa 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Lsaa
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.61
+- sugar :: 0.46
+- price :: 51.24 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

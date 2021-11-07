@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     0084432b-47c9-4ebf-a6de-c21014c15b0b
+:END:
+#+TITLE: Yjfq Brdkz 1996
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Brdkz
+- vintage :: 1996
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 13.49
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA
+
+

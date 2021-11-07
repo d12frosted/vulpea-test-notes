@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d470cbe6-8d65-4539-98dc-48d65ce9c331
+:END:
+#+TITLE: Lrwk Jbaxrmn Zreik 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Zreik
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.4
+- sugar :: 20.54
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA
+
+

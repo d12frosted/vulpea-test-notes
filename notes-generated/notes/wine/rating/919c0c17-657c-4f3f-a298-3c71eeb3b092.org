@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     919c0c17-657c-4f3f-a298-3c71eeb3b092
+:END:
+#+TITLE: Yokf Gwhwycw Uvdh Umkvz NV - 2003-6-15
+
+- wine :: [[id:9359ad34-36c2-4a3e-8131-e7f466303f7a][Yokf Gwhwycw Uvdh Umkvz]]
+- date :: 2003-6-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

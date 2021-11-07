@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b0da238d-ec66-401f-9ceb-374e42f28334
+:END:
+#+TITLE: Qay Srmw Ylidnw 1988 - 2000-10-28
+
+- wine :: [[id:482136a8-c722-45f3-8d25-524f75321219][Qay Srmw Ylidnw 1988]]
+- date :: 2000-10-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     189255b7-f951-4460-842d-a9d826ec3f23
+:END:
+#+TITLE: Lrwk Jbaxrmn Uimjyq Lktro 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Uimjyq Lktro
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 12.58
+- sugar :: 13.66
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

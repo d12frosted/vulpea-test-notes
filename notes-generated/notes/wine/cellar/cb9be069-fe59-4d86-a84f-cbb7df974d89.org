@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     cb9be069-fe59-4d86-a84f-cbb7df974d89
+:END:
+#+TITLE: Yokf Gwhwycw Vnljffqt Anjb 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vnljffqt Anjb
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 10.69
+- price :: 37.71 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 3.0
+- ratings :: [[id:d9f5aa17-5709-4b53-baa1-61b0a3cf697c][Yokf Gwhwycw Vnljffqt Anjb NV - 1990-12-18]]
+
+

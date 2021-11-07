@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     244a0c1b-a148-4604-b3ba-88e451f190dd
+:END:
+#+TITLE: Cowhhax Upmqcgn Juzm Fqrrjoq 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Juzm Fqrrjoq
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 11.07
+- price :: 22.92 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

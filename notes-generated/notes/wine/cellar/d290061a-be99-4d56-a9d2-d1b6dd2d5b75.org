@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d290061a-be99-4d56-a9d2-d1b6dd2d5b75
+:END:
+#+TITLE: Cowhhax Upmqcgn Fvigdfha 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Fvigdfha
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.0
+- sugar :: 6.02
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA
+
+

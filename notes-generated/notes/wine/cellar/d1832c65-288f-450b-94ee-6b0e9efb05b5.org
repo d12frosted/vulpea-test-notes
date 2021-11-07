@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d1832c65-288f-450b-94ee-6b0e9efb05b5
+:END:
+#+TITLE: Yjfq Sbtvfldh 1974
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Sbtvfldh
+- vintage :: 1974
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 9.6
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 7.5
+- ratings :: [[id:8f1573af-552f-4f3f-916d-c01bce480ec0][Yjfq Sbtvfldh 1974 - 2015-7-15]]
+
+

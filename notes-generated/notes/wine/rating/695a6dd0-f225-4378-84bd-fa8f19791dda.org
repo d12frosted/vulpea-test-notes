@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     695a6dd0-f225-4378-84bd-fa8f19791dda
+:END:
+#+TITLE: Jjkswvm Rcm Hrsvi NV - 2021-10-24
+
+- wine :: [[id:c407fc08-0e79-40c4-b67a-32cb1d577d6b][Jjkswvm Rcm Hrsvi]]
+- date :: 2021-10-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

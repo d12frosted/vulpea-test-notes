@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6bafccd8-cbf6-40d1-9491-4513be4e9dad
+:END:
+#+TITLE: Yjfq Lkxiqmj Mwxmnlg 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Lkxiqmj Mwxmnlg
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.72
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:d0cb5fbb-e553-4b05-8734-c102cf2e399d][Yjfq Lkxiqmj Mwxmnlg NV - 2022-12-7]]
+
+

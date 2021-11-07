@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6efe85c7-ff50-4989-b0c2-8c72055d18ef
+:END:
+#+TITLE: Giih Udr Cwm Afmnbm 2016
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Cwm Afmnbm
+- vintage :: 2016
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 13.2
+- sugar :: 14.6
+- price :: 65.06 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:d07edf80-6bfd-464c-bf30-dcf57c6a8d17][Giih Udr Cwm Afmnbm 2016 - 1990-12-25]]
+
+

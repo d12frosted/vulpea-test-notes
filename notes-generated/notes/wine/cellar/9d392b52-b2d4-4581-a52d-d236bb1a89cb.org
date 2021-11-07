@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9d392b52-b2d4-4581-a52d-d236bb1a89cb
+:END:
+#+TITLE: Jjkswvm Rcm Dyhml 1913
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Dyhml
+- vintage :: 1913
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.98
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 8.0
+- ratings :: [[id:41e2d738-709c-4367-98fc-e9ee1e9a9c10][Jjkswvm Rcm Dyhml 1913 - 2022-5-18]]
+
+

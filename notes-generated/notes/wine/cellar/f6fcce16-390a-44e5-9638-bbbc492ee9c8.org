@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f6fcce16-390a-44e5-9638-bbbc492ee9c8
+:END:
+#+TITLE: Yokf Gwhwycw Wvl Sfqmgsl 1946
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Wvl Sfqmgsl
+- vintage :: 1946
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 11.58
+- price :: 6.24 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA
+
+

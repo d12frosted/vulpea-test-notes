@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     853a1a16-9b06-4a16-adb9-a4f3a8a13db1
+:END:
+#+TITLE: Ecxknc Iepvhans Kywjsjwu Fogde 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Kywjsjwu Fogde
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.35
+- sugar :: 0.16
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:6ba85f8d-3af6-4adf-b35f-7abbf99d1ff9][Ecxknc Iepvhans Kywjsjwu Fogde NV - 2003-4-19]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     75cbed0c-92fd-42cf-8d0e-8a9544d1169a
+:END:
+#+TITLE: Qay Mfnrbyst 1979
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Mfnrbyst
+- vintage :: 1979
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 12.55
+- price :: 65.75 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:b5d1c533-5635-465e-b120-f0b3bcaa9769][Qay Mfnrbyst 1979 - 2008-4-28]]
+
+

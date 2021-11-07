@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f070d827-7254-4e13-ab23-f5c33776c89b
+:END:
+#+TITLE: Scf Elpezclx Jptu 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Jptu
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 12.620000000000001
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:60fad316-939e-4959-9eca-af1802fb09b9][Scf Elpezclx Jptu NV - 2011-12-8]]
+
+

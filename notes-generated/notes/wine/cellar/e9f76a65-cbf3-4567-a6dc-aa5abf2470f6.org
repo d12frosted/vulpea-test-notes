@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e9f76a65-cbf3-4567-a6dc-aa5abf2470f6
+:END:
+#+TITLE: Yjfq Pavy 2011
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Pavy
+- vintage :: 2011
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.49
+- sugar :: 20.94
+- price :: 14.94 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

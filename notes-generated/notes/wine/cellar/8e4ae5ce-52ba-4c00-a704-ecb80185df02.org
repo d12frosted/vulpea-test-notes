@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8e4ae5ce-52ba-4c00-a704-ecb80185df02
+:END:
+#+TITLE: Ecxknc Iepvhans Mmtvavmf Opbtov 1999
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Mmtvavmf Opbtov
+- vintage :: 1999
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 12.85
+- sugar :: 7.15
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 9.5
+- ratings :: [[id:3326ac01-24e3-428b-a029-a870fe083df6][Ecxknc Iepvhans Mmtvavmf Opbtov 1999 - 2020-7-12]]
+
+

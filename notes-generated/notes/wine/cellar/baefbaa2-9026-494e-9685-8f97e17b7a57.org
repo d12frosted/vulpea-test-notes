@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     baefbaa2-9026-494e-9685-8f97e17b7a57
+:END:
+#+TITLE: Ecxknc Iepvhans Hfbpa 1941
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Hfbpa
+- vintage :: 1941
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.49
+- sugar :: 5.34
+- price :: 9.11 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:84db2fe3-bdf1-4ac6-8d43-623a9eafaeba][Ecxknc Iepvhans Hfbpa 1941 - 2014-1-5]]
+
+

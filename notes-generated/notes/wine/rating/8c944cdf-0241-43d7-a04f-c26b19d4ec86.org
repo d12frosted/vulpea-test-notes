@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8c944cdf-0241-43d7-a04f-c26b19d4ec86
+:END:
+#+TITLE: Jjkswvm Rcm Crjvz Mavryr NV - 2000-6-26
+
+- wine :: [[id:63781f27-442e-4fd0-b53d-0e447b1527bf][Jjkswvm Rcm Crjvz Mavryr]]
+- date :: 2000-6-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

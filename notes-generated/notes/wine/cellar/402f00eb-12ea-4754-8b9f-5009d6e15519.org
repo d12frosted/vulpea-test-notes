@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     402f00eb-12ea-4754-8b9f-5009d6e15519
+:END:
+#+TITLE: Qay Upv Wxbb 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Upv Wxbb
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.59
+- sugar :: 17.6
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f809c4d4-653a-458f-98e9-893662b48a17
+:END:
+#+TITLE: Lrwk Jbaxrmn Drtyivo NV - 2022-12-14
+
+- wine :: [[id:3a1502b9-5b1d-48b6-b0d7-99a353a895cd][Lrwk Jbaxrmn Drtyivo]]
+- date :: 2022-12-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     375105da-c1c6-4f90-bbf9-7e2f63e4aecb
+:END:
+#+TITLE: Lrwk Jbaxrmn Nonopup 1952
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Nonopup
+- vintage :: 1952
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 9.67
+- price :: 86.00 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

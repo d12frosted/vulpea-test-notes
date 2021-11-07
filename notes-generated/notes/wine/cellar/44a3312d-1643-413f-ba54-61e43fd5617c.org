@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     44a3312d-1643-413f-ba54-61e43fd5617c
+:END:
+#+TITLE: Giih Udr Xxhzrup Mncwwjo 1962
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Xxhzrup Mncwwjo
+- vintage :: 1962
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 10.68
+- sugar :: 6.61
+- price :: 13.87 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA
+
+

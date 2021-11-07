@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3c8ad603-33eb-4e20-a933-956298add0a7
+:END:
+#+TITLE: Jjkswvm Rcm Tysm Pqbltn 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Tysm Pqbltn
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.8
+- sugar :: 19.59
+- price :: 11.76 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:419d71b1-c7da-4866-96ab-6a218b1c9e42][Jjkswvm Rcm Tysm Pqbltn NV - 2005-2-17]]
+
+

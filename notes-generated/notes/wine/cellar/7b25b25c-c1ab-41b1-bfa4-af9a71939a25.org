@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     7b25b25c-c1ab-41b1-bfa4-af9a71939a25
+:END:
+#+TITLE: Jjkswvm Rcm Oddkz 1953
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Oddkz
+- vintage :: 1953
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.18
+- price :: 89.70 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:d41b538c-f92f-4762-b8d1-7d02d76aaed8][Jjkswvm Rcm Oddkz 1953 - 2001-6-25]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0ae77294-5de3-455e-be18-5f677ab7ef01
+:END:
+#+TITLE: Lrwk Jbaxrmn Don Xwneo 1921
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Don Xwneo
+- vintage :: 1921
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.27
+- sugar :: 8.11
+- price :: 27.76 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

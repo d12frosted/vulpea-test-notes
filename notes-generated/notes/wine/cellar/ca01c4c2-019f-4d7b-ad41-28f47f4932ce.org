@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ca01c4c2-019f-4d7b-ad41-28f47f4932ce
+:END:
+#+TITLE: Yjfq Ebbsk Sufxxs 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ebbsk Sufxxs
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 9.61
+- sugar :: 10.35
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.5
+- ratings :: [[id:bfc22492-bdb6-400b-895c-4e22759d54fa][Yjfq Ebbsk Sufxxs NV - 2024-1-13]]
+
+

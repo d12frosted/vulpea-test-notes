@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7581cb33-397f-4cef-9840-81da0ce4c623
+:END:
+#+TITLE: Nhozxqe Aldl Fpzqfnyj Yinpubp 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Fpzqfnyj Yinpubp
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.4
+- sugar :: 4.62
+- price :: 34.79 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

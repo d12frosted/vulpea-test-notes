@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a9a4f0c3-7dc8-421a-8e62-90de8bf3d9e0
+:END:
+#+TITLE: Cowhhax Upmqcgn Taaklk NV - 2018-5-1
+
+- wine :: [[id:c818e003-a5ff-47ec-a205-17e0b19d2c68][Cowhhax Upmqcgn Taaklk]]
+- date :: 2018-5-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

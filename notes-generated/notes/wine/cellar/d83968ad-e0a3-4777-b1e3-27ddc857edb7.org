@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     d83968ad-e0a3-4777-b1e3-27ddc857edb7
+:END:
+#+TITLE: Cowhhax Upmqcgn Ajwucwk 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ajwucwk
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 10.61
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 5.5
+- ratings :: [[id:805b3560-6bbf-4301-ac82-882cb68bfc19][Cowhhax Upmqcgn Ajwucwk NV - 2019-7-11]]
+
+

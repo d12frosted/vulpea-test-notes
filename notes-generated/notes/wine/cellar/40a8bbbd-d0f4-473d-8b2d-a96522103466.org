@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     40a8bbbd-d0f4-473d-8b2d-a96522103466
+:END:
+#+TITLE: Cowhhax Upmqcgn Yubp Bpgtes 1977
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Yubp Bpgtes
+- vintage :: 1977
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.83
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 6.5
+- ratings :: [[id:e01ef883-2b4b-437b-9c6c-061c689d4301][Cowhhax Upmqcgn Yubp Bpgtes 1977 - 2006-10-23]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1cbf825d-b1ac-459f-a1e8-7a174e2e35bc
+:END:
+#+TITLE: Scf Elpezclx Tsrxmusx 1901 - 2012-10-9
+
+- wine :: [[id:db5d1798-b24d-4bb4-bb0f-d919c904a6d4][Scf Elpezclx Tsrxmusx 1901]]
+- date :: 2012-10-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

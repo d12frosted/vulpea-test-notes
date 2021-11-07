@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d42806c2-be62-48a2-aa70-da36ba95399c
+:END:
+#+TITLE: Yokf Gwhwycw Oyujpr Nljp NV - 2009-3-19
+
+- wine :: [[id:59167b46-3d3c-4a1b-86d8-55a44141dea9][Yokf Gwhwycw Oyujpr Nljp]]
+- date :: 2009-3-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

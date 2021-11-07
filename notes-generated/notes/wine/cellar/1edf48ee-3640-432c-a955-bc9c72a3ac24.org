@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1edf48ee-3640-432c-a955-bc9c72a3ac24
+:END:
+#+TITLE: Yokf Gwhwycw Lgvfmfy Yvf 1931
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Lgvfmfy Yvf
+- vintage :: 1931
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.27
+- price :: 14.33 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:0bf16bc7-611c-483b-8f3a-3e97075cb7f3][Yokf Gwhwycw Lgvfmfy Yvf 1931 - 2000-1-2]]
+
+

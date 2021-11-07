@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3e5b54f7-e8a4-4a2a-8eef-45c49ff77fe9
+:END:
+#+TITLE: Nhozxqe Aldl Cea Yazhpoeq 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Cea Yazhpoeq
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.94
+- price :: 59.64 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 2.5
+- ratings :: [[id:4ff8fa8f-a1fc-4d0d-a797-c9410a40d0e1][Nhozxqe Aldl Cea Yazhpoeq NV - 1992-9-8]]
+
+

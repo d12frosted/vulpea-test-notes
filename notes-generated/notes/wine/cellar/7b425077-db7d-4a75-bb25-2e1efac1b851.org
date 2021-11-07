@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7b425077-db7d-4a75-bb25-2e1efac1b851
+:END:
+#+TITLE: Qay Ocatj 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ocatj
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.34
+- sugar :: 13.01
+- price :: 88.62 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.0
+- ratings :: [[id:fd1f7a57-5b69-4b89-9602-a6aaa04618cb][Qay Ocatj NV - 2011-1-20]]
+
+

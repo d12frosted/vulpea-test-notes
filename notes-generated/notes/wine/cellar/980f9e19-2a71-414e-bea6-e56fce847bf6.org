@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     980f9e19-2a71-414e-bea6-e56fce847bf6
+:END:
+#+TITLE: Ecxknc Iepvhans Hzedyghs Wgw 1985
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Hzedyghs Wgw
+- vintage :: 1985
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 9.77
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:6609d7e7-6916-498d-abf1-ba60f7cc64d4][Ecxknc Iepvhans Hzedyghs Wgw 1985 - 2004-1-7]]
+
+

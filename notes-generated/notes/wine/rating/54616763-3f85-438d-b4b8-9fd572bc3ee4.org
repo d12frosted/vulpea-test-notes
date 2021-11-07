@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     54616763-3f85-438d-b4b8-9fd572bc3ee4
+:END:
+#+TITLE: Cowhhax Upmqcgn Yxur Qyp 1911 - 2011-4-15
+
+- wine :: [[id:d0aa696b-5463-43e0-8412-057c8451ab3d][Cowhhax Upmqcgn Yxur Qyp 1911]]
+- date :: 2011-4-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

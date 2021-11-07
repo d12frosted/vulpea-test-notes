@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f8938ff1-3b9c-43e7-8fe1-cbbf969a5c2b
+:END:
+#+TITLE: Jjkswvm Rcm Zocy 1942
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zocy
+- vintage :: 1942
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.96
+- sugar :: 18.94
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:c7c6c3fc-d0a7-46c4-99d7-8b3d26127cca][Jjkswvm Rcm Zocy 1942 - 2012-9-26]]
+
+

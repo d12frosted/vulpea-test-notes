@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     db8756b1-1648-4f7f-925f-4271b0444842
+:END:
+#+TITLE: Nhozxqe Aldl Slu Uqhni 2005
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Slu Uqhni
+- vintage :: 2005
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 12.75
+- sugar :: 0.69
+- price :: 52.46 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f6e64080-7c8d-409c-9eb4-36c2fe63fb52
+:END:
+#+TITLE: Ecxknc Iepvhans Zluhap Lssut 1915 - 2020-6-18
+
+- wine :: [[id:33ee7b53-ca6f-4694-b3f7-2f44396891db][Ecxknc Iepvhans Zluhap Lssut 1915]]
+- date :: 2020-6-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     99e5d8d8-b9f1-41f7-960a-d00d13ca2816
+:END:
+#+TITLE: Qay Xdrysyi Vjboh 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Xdrysyi Vjboh
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.43
+- price :: 32.83 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

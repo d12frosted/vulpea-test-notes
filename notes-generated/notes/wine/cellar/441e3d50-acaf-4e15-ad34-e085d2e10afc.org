@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     441e3d50-acaf-4e15-ad34-e085d2e10afc
+:END:
+#+TITLE: Scf Elpezclx Rlxa 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Rlxa
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.32
+- sugar :: 5.77
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA
+
+

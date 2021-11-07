@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     332ef883-9af4-4079-89de-e610be1b2d02
+:END:
+#+TITLE: Yokf Gwhwycw Xksnwanr 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Xksnwanr
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 10.9
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:35488b64-5a85-45ff-a9a3-e9a5f0389665][Yokf Gwhwycw Xksnwanr NV - 2002-12-4]]
+
+

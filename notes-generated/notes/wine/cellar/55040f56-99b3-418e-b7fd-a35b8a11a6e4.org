@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     55040f56-99b3-418e-b7fd-a35b8a11a6e4
+:END:
+#+TITLE: Jjkswvm Rcm Cdhsd 1941
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Cdhsd
+- vintage :: 1941
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.620000000000001
+- price :: 52.61 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 3.5
+- ratings :: [[id:49a30c92-fa7d-4738-b563-2b6e2bf6ec6c][Jjkswvm Rcm Cdhsd 1941 - 2010-8-11]]
+
+

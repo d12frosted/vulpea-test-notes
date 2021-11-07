@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ea1a83e8-5370-4c02-b5d5-c7e1fcf766de
+:END:
+#+TITLE: Lrwk Jbaxrmn Vbecryi 1907 - 2007-9-11
+
+- wine :: [[id:3594b74e-2f56-4217-8800-ddde280d5465][Lrwk Jbaxrmn Vbecryi 1907]]
+- date :: 2007-9-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

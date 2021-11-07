@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3045a2a0-f7e6-4e9b-91fb-ad807432496e
+:END:
+#+TITLE: Scf Elpezclx Xco 1913 - 2010-9-12
+
+- wine :: [[id:c734f33a-7a90-4591-9345-14dc9dc1dd19][Scf Elpezclx Xco 1913]]
+- date :: 2010-9-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     5373b6da-f22e-4b98-a11f-f5f7ffe1cdde
+:END:
+#+TITLE: Qay Qtihmdk Jncefu 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Qtihmdk Jncefu
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 11.85
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:8d83209f-162d-434a-b073-6b0842a0e9dd][Qay Qtihmdk Jncefu NV - 2009-1-5]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6c68496f-c9bc-4cf7-8c4d-46b7d1d96909
+:END:
+#+TITLE: Giih Udr Tfxmmj Elrjv 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Tfxmmj Elrjv
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.07
+- sugar :: 6.17
+- price :: 10.04 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

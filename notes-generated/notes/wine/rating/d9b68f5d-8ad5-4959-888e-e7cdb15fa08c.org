@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d9b68f5d-8ad5-4959-888e-e7cdb15fa08c
+:END:
+#+TITLE: Cowhhax Upmqcgn Uayjplx Qok 1994 - 1994-5-9
+
+- wine :: [[id:1f2b8c06-cc65-4b5d-b72d-9b35aa04bef8][Cowhhax Upmqcgn Uayjplx Qok 1994]]
+- date :: 1994-5-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

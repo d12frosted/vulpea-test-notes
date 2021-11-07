@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b7fb370f-199b-46d5-b1f0-f4e1414dd60f
+:END:
+#+TITLE: Nhozxqe Aldl Vjabqzq Kdokac 1971
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Vjabqzq Kdokac
+- vintage :: 1971
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 11.73
+- sugar :: 18.26
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

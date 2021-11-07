@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     817997b4-bece-4327-bd45-604fed84fa68
+:END:
+#+TITLE: Ecxknc Iepvhans Isdvp 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Isdvp
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.72
+- sugar :: 4.36
+- price :: 66.84 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

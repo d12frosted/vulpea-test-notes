@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     35368769-c95c-4806-80b0-58a6f52f0000
+:END:
+#+TITLE: Lrwk Jbaxrmn Rvv Ucrh 1929
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rvv Ucrh
+- vintage :: 1929
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.28
+- sugar :: 5.86
+- price :: 86.46 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:9910d5d4-974d-452c-b8b1-d2eb5bd6b3b5][Lrwk Jbaxrmn Rvv Ucrh 1929 - 2005-4-13]]
+
+

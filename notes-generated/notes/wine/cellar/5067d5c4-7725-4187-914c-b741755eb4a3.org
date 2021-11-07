@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5067d5c4-7725-4187-914c-b741755eb4a3
+:END:
+#+TITLE: Giih Udr Mvrxdlyq 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Mvrxdlyq
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 10.2
+- price :: 99.00 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

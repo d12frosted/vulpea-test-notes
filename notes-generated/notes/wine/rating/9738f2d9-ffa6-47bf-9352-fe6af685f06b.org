@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9738f2d9-ffa6-47bf-9352-fe6af685f06b
+:END:
+#+TITLE: Ecxknc Iepvhans Kdqqexe Duyuo NV - 1991-8-13
+
+- wine :: [[id:4c09715a-ea47-4825-9461-ce673da09eb2][Ecxknc Iepvhans Kdqqexe Duyuo]]
+- date :: 1991-8-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

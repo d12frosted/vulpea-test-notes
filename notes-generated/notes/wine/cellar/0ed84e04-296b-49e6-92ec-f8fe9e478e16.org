@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0ed84e04-296b-49e6-92ec-f8fe9e478e16
+:END:
+#+TITLE: Ecxknc Iepvhans Ctpslc Vhzduykz 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ctpslc Vhzduykz
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.74
+- price :: 82.86 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:3418dc3b-127f-482a-ad74-a64449faa285][Ecxknc Iepvhans Ctpslc Vhzduykz NV - 2010-4-18]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a6c61dc5-262d-43ac-95a1-210e566c1213
+:END:
+#+TITLE: Giih Udr Bhhoohf 1995
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Bhhoohf
+- vintage :: 1995
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.5
+- sugar :: 23.07
+- price :: 21.74 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 4.5
+- ratings :: [[id:8221365c-0062-4893-b870-080d558e03ae][Giih Udr Bhhoohf 1995 - 2021-4-9]]
+
+

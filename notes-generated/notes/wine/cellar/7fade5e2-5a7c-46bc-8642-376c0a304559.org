@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7fade5e2-5a7c-46bc-8642-376c0a304559
+:END:
+#+TITLE: Scf Elpezclx Xlsfpopx 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Xlsfpopx
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 9.15
+- sugar :: 23.62
+- price :: 72.75 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 2.0
+- ratings :: [[id:c96fae1d-5885-470b-8f05-8e253284091e][Scf Elpezclx Xlsfpopx NV - 2012-1-4]]
+
+

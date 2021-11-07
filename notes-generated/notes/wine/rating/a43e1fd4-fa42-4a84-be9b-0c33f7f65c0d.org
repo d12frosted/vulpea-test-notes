@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a43e1fd4-fa42-4a84-be9b-0c33f7f65c0d
+:END:
+#+TITLE: Jjkswvm Rcm Rcva Msk 1963 - 2018-7-9
+
+- wine :: [[id:284910e3-5765-49ae-86ec-0c45dd8f9378][Jjkswvm Rcm Rcva Msk 1963]]
+- date :: 2018-7-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

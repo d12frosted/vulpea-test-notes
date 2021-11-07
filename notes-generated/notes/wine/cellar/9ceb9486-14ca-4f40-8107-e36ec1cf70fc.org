@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9ceb9486-14ca-4f40-8107-e36ec1cf70fc
+:END:
+#+TITLE: Nhozxqe Aldl Wspyqiq Xjshs 2015
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Wspyqiq Xjshs
+- vintage :: 2015
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 13.33
+- price :: 87.36 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA
+
+

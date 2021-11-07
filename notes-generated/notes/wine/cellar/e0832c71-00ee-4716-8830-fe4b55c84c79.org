@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e0832c71-00ee-4716-8830-fe4b55c84c79
+:END:
+#+TITLE: Scf Elpezclx Cwdj 1928
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Cwdj
+- vintage :: 1928
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.71
+- sugar :: 14.9
+- price :: 42.20 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 7.5
+- ratings :: [[id:d9c7ff99-862b-4b28-8993-8cfa79a39e18][Scf Elpezclx Cwdj 1928 - 2006-12-2]]
+
+

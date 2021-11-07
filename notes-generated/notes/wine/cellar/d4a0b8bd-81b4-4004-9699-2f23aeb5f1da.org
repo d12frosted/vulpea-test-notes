@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d4a0b8bd-81b4-4004-9699-2f23aeb5f1da
+:END:
+#+TITLE: Jjkswvm Rcm Rsvfo 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Rsvfo
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 12.32
+- price :: 90.80 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

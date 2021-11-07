@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     41d5d03a-a22c-49b2-bb24-d6f81dec24fb
+:END:
+#+TITLE: Giih Udr Gitjcyko Hjbmxvfk NV - 2009-11-11
+
+- wine :: [[id:0341abab-88c0-46ec-9fc3-65eea8657df1][Giih Udr Gitjcyko Hjbmxvfk]]
+- date :: 2009-11-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

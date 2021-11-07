@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     49f06b12-3a10-4a8d-9a53-a0bce410896c
+:END:
+#+TITLE: Lrwk Jbaxrmn Nbqm NV - 2014-2-16
+
+- wine :: [[id:03ee0ee8-bb8d-42a1-a171-d7ea8a66b99f][Lrwk Jbaxrmn Nbqm]]
+- date :: 2014-2-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f2df4888-78ba-4081-9bd9-36c685ca7650
+:END:
+#+TITLE: Ecxknc Iepvhans Yahyhsq Mfkl 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Yahyhsq Mfkl
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 12.71
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:394b53b1-829c-423e-b6f5-89a2576a343a][Ecxknc Iepvhans Yahyhsq Mfkl NV - 2015-6-7]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f79b95b1-c205-4662-8b5a-7f3999260427
+:END:
+#+TITLE: Ecxknc Iepvhans Sxuu Tsswgr NV - 2024-2-20
+
+- wine :: [[id:6b39d197-0d76-4610-896d-23f661922861][Ecxknc Iepvhans Sxuu Tsswgr]]
+- date :: 2024-2-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

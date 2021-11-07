@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     55748e29-0b7d-467f-8aad-6e8efa1a177a
+:END:
+#+TITLE: Nhozxqe Aldl Gazk 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Gazk
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.4
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:e00c5605-ed8a-48ba-9740-0e691788df5d][Nhozxqe Aldl Gazk NV - 2003-12-24]]
+
+

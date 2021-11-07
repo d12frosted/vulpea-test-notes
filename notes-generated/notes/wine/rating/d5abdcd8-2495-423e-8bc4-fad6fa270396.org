@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d5abdcd8-2495-423e-8bc4-fad6fa270396
+:END:
+#+TITLE: Nhozxqe Aldl Ypuxh Rortkxl 1912 - 1991-8-11
+
+- wine :: [[id:dbfeb2c1-b845-461a-83c6-17a6cfa16306][Nhozxqe Aldl Ypuxh Rortkxl 1912]]
+- date :: 1991-8-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

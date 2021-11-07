@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f2d88207-0b0b-430e-b83f-fa7ca5030978
+:END:
+#+TITLE: Giih Udr Fivym Fushbfr NV - 2014-5-16
+
+- wine :: [[id:93ab3316-00a2-4c32-8994-beb13513c01c][Giih Udr Fivym Fushbfr]]
+- date :: 2014-5-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

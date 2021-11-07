@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     815e102e-ffcd-46d5-80e7-c326c97ee0c0
+:END:
+#+TITLE: Ecxknc Iepvhans Lghow Phznwfxr 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Lghow Phznwfxr
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 13.41
+- sugar :: 14.68
+- price :: 87.51 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:2986e5d2-dd43-4287-90d7-463885bced41][Ecxknc Iepvhans Lghow Phznwfxr NV - 2009-3-17]]
+
+

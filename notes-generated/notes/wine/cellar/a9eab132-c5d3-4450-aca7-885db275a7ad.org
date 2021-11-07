@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     a9eab132-c5d3-4450-aca7-885db275a7ad
+:END:
+#+TITLE: Giih Udr Sdvj Tvzq 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Sdvj Tvzq
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 10.68
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

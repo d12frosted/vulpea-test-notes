@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7d6a4d69-0441-4d1a-b914-75a5634a66c5
+:END:
+#+TITLE: Nhozxqe Aldl Oxokdrlx Svfue 1941
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Oxokdrlx Svfue
+- vintage :: 1941
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 10.58
+- sugar :: 13.2
+- price :: 47.17 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:538e34fd-6885-47c9-b0c1-bdb783be6f0d][Nhozxqe Aldl Oxokdrlx Svfue 1941 - 2008-12-20]]
+
+

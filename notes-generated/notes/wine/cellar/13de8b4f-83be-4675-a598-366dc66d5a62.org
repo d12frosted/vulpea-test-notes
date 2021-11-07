@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     13de8b4f-83be-4675-a598-366dc66d5a62
+:END:
+#+TITLE: Ecxknc Iepvhans Vxcpjqiu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Vxcpjqiu
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 11.14
+- sugar :: 10.62
+- price :: 17.64 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.5
+- ratings :: [[id:156e52c7-fa82-4065-8065-fee9623e0fb0][Ecxknc Iepvhans Vxcpjqiu NV - 1994-4-4]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d79302b6-168b-45c6-8fed-5311ceaf18ed
+:END:
+#+TITLE: Nhozxqe Aldl Yhabh 1999
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Yhabh
+- vintage :: 1999
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.66
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 7.0
+- ratings :: [[id:1735b5e5-59be-499e-a4b0-5f148762ad3a][Nhozxqe Aldl Yhabh 1999 - 2005-7-19]]
+
+

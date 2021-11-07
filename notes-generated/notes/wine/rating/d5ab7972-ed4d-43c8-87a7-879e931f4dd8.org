@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d5ab7972-ed4d-43c8-87a7-879e931f4dd8
+:END:
+#+TITLE: Yokf Gwhwycw Eganj Qpposmr NV - 2023-12-15
+
+- wine :: [[id:3fe2e195-44a7-4ea2-a089-416b6eccc134][Yokf Gwhwycw Eganj Qpposmr]]
+- date :: 2023-12-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

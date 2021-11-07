@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ab6ac913-d8b0-4b85-86c0-d351542514e0
+:END:
+#+TITLE: Nhozxqe Aldl Nft NV - 2003-4-17
+
+- wine :: [[id:1577e1e2-389f-4178-a660-af99337c219a][Nhozxqe Aldl Nft]]
+- date :: 2003-4-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e938c859-1ff8-4e1b-942f-d20357670ad4
+:END:
+#+TITLE: Jjkswvm Rcm Kmaaadhy 1911
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Kmaaadhy
+- vintage :: 1911
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.88
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:3b21e01b-fadd-47a3-ab3d-e7127e40ae6a][Jjkswvm Rcm Kmaaadhy 1911 - 2021-1-3]]
+
+

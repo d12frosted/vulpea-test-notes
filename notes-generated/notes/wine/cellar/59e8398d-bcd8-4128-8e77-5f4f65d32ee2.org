@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     59e8398d-bcd8-4128-8e77-5f4f65d32ee2
+:END:
+#+TITLE: Yokf Gwhwycw Ggn 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ggn
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 12.51
+- sugar :: 23.87
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:9be0a0b8-a7dc-4cbc-8f87-b55817e56373][Yokf Gwhwycw Ggn NV - 2004-12-8]]
+
+

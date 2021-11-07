@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     2f03f5e5-69d4-45a3-9f05-8a3bcddfa4c2
+:END:
+#+TITLE: Giih Udr Lqryizyc Uqyjqv 1924
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Lqryizyc Uqyjqv
+- vintage :: 1924
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.04
+- price :: 26.45 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA
+
+

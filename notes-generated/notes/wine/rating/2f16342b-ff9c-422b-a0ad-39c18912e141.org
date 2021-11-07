@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2f16342b-ff9c-422b-a0ad-39c18912e141
+:END:
+#+TITLE: Qay Sifpfgz NV - 2023-5-13
+
+- wine :: [[id:8080a30b-d854-4066-b975-417dcdb3f2d8][Qay Sifpfgz]]
+- date :: 2023-5-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

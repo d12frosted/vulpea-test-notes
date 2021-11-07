@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     c210be36-e597-4eb0-bd31-22fa9cde784e
+:END:
+#+TITLE: Nhozxqe Aldl Eegd 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Eegd
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 10.86
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 3.5
+- ratings :: [[id:f35fb1c1-8c99-4c3c-b62f-7ef27f7df47d][Nhozxqe Aldl Eegd NV - 1993-2-8]]
+
+

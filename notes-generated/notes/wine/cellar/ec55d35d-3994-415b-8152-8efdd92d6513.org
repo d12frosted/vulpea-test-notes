@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ec55d35d-3994-415b-8152-8efdd92d6513
+:END:
+#+TITLE: Cowhhax Upmqcgn Madfwhqn 1919
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Madfwhqn
+- vintage :: 1919
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 10.39
+- sugar :: 3.88
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 2.5
+- ratings :: [[id:f65e13d2-6120-4cb6-b819-45bc106b116f][Cowhhax Upmqcgn Madfwhqn 1919 - 2018-1-5]]
+
+

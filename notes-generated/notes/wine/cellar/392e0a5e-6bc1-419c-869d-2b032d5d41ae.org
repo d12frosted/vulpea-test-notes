@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     392e0a5e-6bc1-419c-869d-2b032d5d41ae
+:END:
+#+TITLE: Yokf Gwhwycw Tegyfk 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Tegyfk
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.39
+- sugar :: 4.38
+- price :: 6.82 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

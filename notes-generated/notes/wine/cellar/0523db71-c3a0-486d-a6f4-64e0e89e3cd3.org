@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0523db71-c3a0-486d-a6f4-64e0e89e3cd3
+:END:
+#+TITLE: Yjfq Lexorsm Gdvjct 1930
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Lexorsm Gdvjct
+- vintage :: 1930
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.44
+- price :: 53.36 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:ff916520-ea05-4941-b960-4ce75ac80ed3][Yjfq Lexorsm Gdvjct 1930 - 2002-8-27]]
+
+

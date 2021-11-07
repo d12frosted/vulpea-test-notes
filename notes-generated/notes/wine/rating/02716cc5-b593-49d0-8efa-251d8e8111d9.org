@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     02716cc5-b593-49d0-8efa-251d8e8111d9
+:END:
+#+TITLE: Ecxknc Iepvhans Xwrrun NV - 2016-8-25
+
+- wine :: [[id:ec1ba67b-eb45-4d90-80b7-0014c7b1294f][Ecxknc Iepvhans Xwrrun]]
+- date :: 2016-8-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a25a4f35-36b9-4e1d-84b9-e733215be72d
+:END:
+#+TITLE: Yjfq Tqrht Prvgl 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Tqrht Prvgl
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 9.05
+- price :: 33.29 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

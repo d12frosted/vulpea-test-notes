@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     85004466-0a82-4cfc-a461-ad563c8fe91f
+:END:
+#+TITLE: Lrwk Jbaxrmn Fny Zajso 1938
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Fny Zajso
+- vintage :: 1938
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.879999999999999
+- sugar :: 20.87
+- price :: 86.19 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 7.5
+- ratings :: [[id:02f629cc-cc05-452d-ba25-6b6191eb8291][Lrwk Jbaxrmn Fny Zajso 1938 - 2024-12-9]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b8d0aa61-52b9-4d8b-a961-f6ff0fe13a2a
+:END:
+#+TITLE: Ecxknc Iepvhans Ncthzhqg Rvrarbt 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ncthzhqg Rvrarbt
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.27
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:0885b2b4-6027-4003-993b-8fcff7bd1af9][Ecxknc Iepvhans Ncthzhqg Rvrarbt NV - 2020-4-10]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     57fa6fa1-218f-4fe6-a478-88adea88b84a
+:END:
+#+TITLE: Nhozxqe Aldl Rnywduk Iskz 1906
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Rnywduk Iskz
+- vintage :: 1906
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 11.02
+- price :: 67.41 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f40b90e9-6f21-481f-ac2e-94f15301964c
+:END:
+#+TITLE: Scf Elpezclx Rfmamlu NV - 2011-1-3
+
+- wine :: [[id:b3853eff-2104-4d79-a7a7-ac6fbb6ab7ce][Scf Elpezclx Rfmamlu]]
+- date :: 2011-1-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

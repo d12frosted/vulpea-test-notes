@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     00d2bbae-d3d6-4a30-9b77-85578032fa6c
+:END:
+#+TITLE: Qay Qepmt Fhjne NV - 1999-3-12
+
+- wine :: [[id:89582aa2-aa7d-429f-b893-4ea53abd83b3][Qay Qepmt Fhjne]]
+- date :: 1999-3-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

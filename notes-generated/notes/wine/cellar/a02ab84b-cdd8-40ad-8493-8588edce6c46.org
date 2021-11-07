@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     a02ab84b-cdd8-40ad-8493-8588edce6c46
+:END:
+#+TITLE: Qay Mxizu Eugbzld 1974
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Mxizu Eugbzld
+- vintage :: 1974
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 10.96
+- sugar :: 8.57
+- price :: 77.89 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:965960b9-525d-4575-8d45-f7a70d43438f][Qay Mxizu Eugbzld 1974 - 2023-12-1]]
+
+

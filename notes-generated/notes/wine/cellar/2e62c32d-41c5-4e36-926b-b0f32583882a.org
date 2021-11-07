@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     2e62c32d-41c5-4e36-926b-b0f32583882a
+:END:
+#+TITLE: Giih Udr Jshdhgyp Kozovs 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Jshdhgyp Kozovs
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.53
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: duckduckgo
+- rating :: 2.5
+- ratings :: [[id:60f68ae3-f508-40a5-a204-f21e508b5ab2][Giih Udr Jshdhgyp Kozovs NV - 2016-12-4]]
+
+

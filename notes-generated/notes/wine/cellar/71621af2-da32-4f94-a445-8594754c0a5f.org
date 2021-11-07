@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     71621af2-da32-4f94-a445-8594754c0a5f
+:END:
+#+TITLE: Nhozxqe Aldl Hcqbjojn 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hcqbjojn
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 11.34
+- price :: 13.44 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6dcce616-42cd-48f1-8cba-3c4e663ceb6d
+:END:
+#+TITLE: Qay Iqrpcvy Mqz 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Iqrpcvy Mqz
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 11.21
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:6d501822-c249-4b80-a133-c089ba98b48a][Qay Iqrpcvy Mqz NV - 2011-10-23]]
+
+

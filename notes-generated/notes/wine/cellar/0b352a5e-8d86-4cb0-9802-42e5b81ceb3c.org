@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0b352a5e-8d86-4cb0-9802-42e5b81ceb3c
+:END:
+#+TITLE: Yokf Gwhwycw Wlbzt Aor 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Wlbzt Aor
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 9.56
+- sugar :: 13.62
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 2.0
+- ratings :: [[id:0f2dd411-b59b-4c52-8a53-7af62a990f3b][Yokf Gwhwycw Wlbzt Aor NV - 2013-11-27]]
+
+

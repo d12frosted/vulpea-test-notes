@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ff93079d-55cc-4fb5-ada7-e716998e763d
+:END:
+#+TITLE: Yokf Gwhwycw Uabfb Vcfqpd NV - 2000-3-8
+
+- wine :: [[id:6daac9b6-f02e-4f97-b8a3-1abc0896d1ec][Yokf Gwhwycw Uabfb Vcfqpd]]
+- date :: 2000-3-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

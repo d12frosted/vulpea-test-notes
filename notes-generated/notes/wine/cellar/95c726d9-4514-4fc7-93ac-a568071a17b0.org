@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     95c726d9-4514-4fc7-93ac-a568071a17b0
+:END:
+#+TITLE: Lrwk Jbaxrmn Cjfsb 1951
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Cjfsb
+- vintage :: 1951
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.57
+- sugar :: 13.29
+- price :: 46.32 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA
+
+

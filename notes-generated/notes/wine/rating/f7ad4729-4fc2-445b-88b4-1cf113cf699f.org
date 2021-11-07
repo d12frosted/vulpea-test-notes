@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f7ad4729-4fc2-445b-88b4-1cf113cf699f
+:END:
+#+TITLE: Giih Udr Lealumpo Tegti 1924 - 2020-11-5
+
+- wine :: [[id:f2692f48-63ae-458a-86ce-695510430cc7][Giih Udr Lealumpo Tegti 1924]]
+- date :: 2020-11-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

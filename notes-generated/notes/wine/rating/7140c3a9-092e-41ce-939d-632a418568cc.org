@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7140c3a9-092e-41ce-939d-632a418568cc
+:END:
+#+TITLE: Scf Elpezclx Qqj 1992 - 2017-9-25
+
+- wine :: [[id:9b377d5c-ab20-473b-b227-5202e0fcbc5c][Scf Elpezclx Qqj 1992]]
+- date :: 2017-9-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

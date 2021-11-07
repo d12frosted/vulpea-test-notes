@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     fcbe46ac-0102-442e-8e97-d3c97e2e9419
+:END:
+#+TITLE: Qay Yrrhse 2018
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Yrrhse
+- vintage :: 2018
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 9.23
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:30937644-d6c8-4dad-930b-ddfc8d831ffc][Qay Yrrhse 2018 - 1996-11-1]]
+
+

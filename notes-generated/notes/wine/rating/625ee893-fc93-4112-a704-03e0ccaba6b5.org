@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     625ee893-fc93-4112-a704-03e0ccaba6b5
+:END:
+#+TITLE: Qay Qsid 1967 - 1998-3-4
+
+- wine :: [[id:caf02844-4eb9-4747-b5d5-6f43d0b2c18b][Qay Qsid 1967]]
+- date :: 1998-3-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

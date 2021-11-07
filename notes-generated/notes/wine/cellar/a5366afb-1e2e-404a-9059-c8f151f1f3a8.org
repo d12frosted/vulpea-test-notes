@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     a5366afb-1e2e-404a-9059-c8f151f1f3a8
+:END:
+#+TITLE: Ecxknc Iepvhans Bogvqud Jnvlyw 1995
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Bogvqud Jnvlyw
+- vintage :: 1995
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 13.01
+- price :: 64.99 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.5
+- ratings :: [[id:1a85b757-2e31-40f5-b47c-5103d30e31ad][Ecxknc Iepvhans Bogvqud Jnvlyw 1995 - 2014-3-7]]
+
+

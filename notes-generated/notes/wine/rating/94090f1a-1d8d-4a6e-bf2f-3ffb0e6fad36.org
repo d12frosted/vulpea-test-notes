@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     94090f1a-1d8d-4a6e-bf2f-3ffb0e6fad36
+:END:
+#+TITLE: Scf Elpezclx Zpuiavd Fnql 1976 - 1996-9-15
+
+- wine :: [[id:3b058d38-f74d-4171-b835-9b53b9a21ed6][Scf Elpezclx Zpuiavd Fnql 1976]]
+- date :: 1996-9-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

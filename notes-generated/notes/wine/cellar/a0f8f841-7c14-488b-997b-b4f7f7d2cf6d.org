@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a0f8f841-7c14-488b-997b-b4f7f7d2cf6d
+:END:
+#+TITLE: Jjkswvm Rcm Svlycni 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Svlycni
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.11
+- price :: 53.30 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

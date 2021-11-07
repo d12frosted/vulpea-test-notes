@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7f3c60d3-23ef-47d9-a226-2d5f3cdda225
+:END:
+#+TITLE: Ecxknc Iepvhans Wlk Ctdp 1973 - 2001-6-10
+
+- wine :: [[id:8478fc55-35e4-45cf-b62b-de86c6ba2d76][Ecxknc Iepvhans Wlk Ctdp 1973]]
+- date :: 2001-6-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

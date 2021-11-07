@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f75a02e6-5ae2-4113-8956-5bbbf5b29667
+:END:
+#+TITLE: Yokf Gwhwycw Safae 1970 - 1998-11-3
+
+- wine :: [[id:cc6b562b-4f88-43f5-91ae-3027609cafbc][Yokf Gwhwycw Safae 1970]]
+- date :: 1998-11-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

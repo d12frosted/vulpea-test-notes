@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     708074ba-be19-40d3-ac4f-5e95119f9013
+:END:
+#+TITLE: Qay Mgpnl 1969 - 1996-9-4
+
+- wine :: [[id:b5aacf0e-4ade-4f80-aeec-4533bf640dc8][Qay Mgpnl 1969]]
+- date :: 1996-9-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

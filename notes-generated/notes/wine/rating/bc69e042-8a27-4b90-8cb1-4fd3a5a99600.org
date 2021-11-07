@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bc69e042-8a27-4b90-8cb1-4fd3a5a99600
+:END:
+#+TITLE: Qay Dujpovc NV - 2010-1-16
+
+- wine :: [[id:26bd5f44-e5a8-4842-a8b8-edcae7d9a213][Qay Dujpovc]]
+- date :: 2010-1-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

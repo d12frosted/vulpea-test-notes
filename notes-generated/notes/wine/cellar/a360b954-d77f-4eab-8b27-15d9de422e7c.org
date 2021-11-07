@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a360b954-d77f-4eab-8b27-15d9de422e7c
+:END:
+#+TITLE: Yjfq Loxaj 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Loxaj
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.83
+- sugar :: 18.58
+- price :: 96.54 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:34fb9e9f-78cf-4a19-bd42-e17cfd70f37f][Yjfq Loxaj NV - 2003-6-28]]
+
+

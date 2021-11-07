@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fbfa752c-60b1-4655-b0cd-1e0ec91559b5
+:END:
+#+TITLE: Cowhhax Upmqcgn Qxvcsea Qdf 1936 - 2021-9-21
+
+- wine :: [[id:10e1b138-b65c-4079-99da-4002afcd3225][Cowhhax Upmqcgn Qxvcsea Qdf 1936]]
+- date :: 2021-9-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

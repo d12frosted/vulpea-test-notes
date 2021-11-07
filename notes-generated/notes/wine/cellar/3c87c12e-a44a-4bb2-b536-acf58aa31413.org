@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     3c87c12e-a44a-4bb2-b536-acf58aa31413
+:END:
+#+TITLE: Nhozxqe Aldl Cpgwkv Geh 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Cpgwkv Geh
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.82
+- sugar :: 8.97
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA
+
+

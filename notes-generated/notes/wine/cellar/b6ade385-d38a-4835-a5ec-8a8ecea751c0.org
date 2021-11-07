@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b6ade385-d38a-4835-a5ec-8a8ecea751c0
+:END:
+#+TITLE: Scf Elpezclx Yajn 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Yajn
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 10.65
+- sugar :: 4.25
+- price :: 60.70 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:48437d9b-ed3e-4bba-bb83-3190ec40a67a][Scf Elpezclx Yajn NV - 2023-2-8]]
+
+

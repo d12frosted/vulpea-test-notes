@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0c7afe56-8f32-4bed-bff3-503f03680534
+:END:
+#+TITLE: Qay Zmerbn Exfypic 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Zmerbn Exfypic
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.06
+- sugar :: 20.26
+- price :: 41.20 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

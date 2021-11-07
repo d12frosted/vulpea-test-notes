@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     db2714db-852e-431b-8322-f475f6086563
+:END:
+#+TITLE: Yjfq Ppxjcien 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ppxjcien
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 13.89
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 7.0
+- ratings :: [[id:3762610e-87e8-47d8-8350-4ca13821a6e4][Yjfq Ppxjcien NV - 2020-9-25]]
+
+

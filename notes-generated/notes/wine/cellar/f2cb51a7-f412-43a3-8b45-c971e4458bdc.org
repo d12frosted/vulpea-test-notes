@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f2cb51a7-f412-43a3-8b45-c971e4458bdc
+:END:
+#+TITLE: Jjkswvm Rcm Mie 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Mie
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.27
+- sugar :: 11.85
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA
+
+

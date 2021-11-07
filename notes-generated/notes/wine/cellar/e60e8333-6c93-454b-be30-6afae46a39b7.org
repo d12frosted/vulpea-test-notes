@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e60e8333-6c93-454b-be30-6afae46a39b7
+:END:
+#+TITLE: Yjfq Lvybdu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Lvybdu
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 12.24
+- sugar :: 19.09
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:8a9bd284-407a-43e0-867e-8d3295c01174][Yjfq Lvybdu NV - 2015-3-14]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ef3bfc45-d823-4f61-9e05-a17a411ad73c
+:END:
+#+TITLE: Jjkswvm Rcm Fedmymy Oqyi 1927 - 2016-10-14
+
+- wine :: [[id:bc18bcd9-f12e-4192-8dac-64ff438b2cb7][Jjkswvm Rcm Fedmymy Oqyi 1927]]
+- date :: 2016-10-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

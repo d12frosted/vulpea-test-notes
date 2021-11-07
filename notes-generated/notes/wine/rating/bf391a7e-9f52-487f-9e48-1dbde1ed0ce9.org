@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bf391a7e-9f52-487f-9e48-1dbde1ed0ce9
+:END:
+#+TITLE: Cowhhax Upmqcgn Iyax Surzv NV - 1996-8-21
+
+- wine :: [[id:0ca0e358-c498-4106-97c7-8babc5f57922][Cowhhax Upmqcgn Iyax Surzv]]
+- date :: 1996-8-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

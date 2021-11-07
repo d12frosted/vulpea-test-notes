@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     40a4853e-3677-4af4-ad57-165f8f82d6dd
+:END:
+#+TITLE: Yjfq Enbc Gzjj 1961 - 2001-8-6
+
+- wine :: [[id:8717678b-1e1f-4a4f-b93a-4a5a0fde16a9][Yjfq Enbc Gzjj 1961]]
+- date :: 2001-8-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

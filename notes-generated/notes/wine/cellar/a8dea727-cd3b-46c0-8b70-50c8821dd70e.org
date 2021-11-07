@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     a8dea727-cd3b-46c0-8b70-50c8821dd70e
+:END:
+#+TITLE: Cowhhax Upmqcgn Gfhu Uzkdrjs 2004
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Gfhu Uzkdrjs
+- vintage :: 2004
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.04
+- sugar :: 5.7
+- price :: 75.14 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA
+
+

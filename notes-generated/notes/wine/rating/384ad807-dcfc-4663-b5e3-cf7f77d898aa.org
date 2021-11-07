@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     384ad807-dcfc-4663-b5e3-cf7f77d898aa
+:END:
+#+TITLE: Scf Elpezclx Ijcnfru Ixbuag NV - 2013-8-20
+
+- wine :: [[id:fae4285a-1776-4da1-89dc-81cfbff5a796][Scf Elpezclx Ijcnfru Ixbuag]]
+- date :: 2013-8-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     95e86459-1297-4ebc-856a-2ee991a75311
+:END:
+#+TITLE: Lrwk Jbaxrmn Smd 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Smd
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 10.52
+- sugar :: 3.13
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 7.5
+- ratings :: [[id:c111ab0a-9f0d-417f-8bed-d299b14daadd][Lrwk Jbaxrmn Smd NV - 2002-3-6]]
+
+

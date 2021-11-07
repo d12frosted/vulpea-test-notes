@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4db9720f-c7df-40cd-a07f-e1def307170a
+:END:
+#+TITLE: Lrwk Jbaxrmn Beqp Tkhbo 1938
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Beqp Tkhbo
+- vintage :: 1938
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 10.01
+- sugar :: 22.48
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:dec79e67-3bb8-49e7-bfc5-25a3b78125ac][Lrwk Jbaxrmn Beqp Tkhbo 1938 - 2012-1-18]]
+
+

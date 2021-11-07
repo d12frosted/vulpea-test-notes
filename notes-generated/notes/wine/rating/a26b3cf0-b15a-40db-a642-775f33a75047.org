@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a26b3cf0-b15a-40db-a642-775f33a75047
+:END:
+#+TITLE: Qay Kfqqzm Dvgudigx 2002 - 2016-7-11
+
+- wine :: [[id:6b4f219a-1a92-41fe-856a-2d278fab16e0][Qay Kfqqzm Dvgudigx 2002]]
+- date :: 2016-7-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

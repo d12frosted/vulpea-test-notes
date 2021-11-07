@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ac35fd07-3a8c-42ec-af7d-c48cde544013
+:END:
+#+TITLE: Ecxknc Iepvhans Kpmfiqo NV - 2014-12-3
+
+- wine :: [[id:e7e82e61-46ed-46ae-b13a-d80b1c070f3f][Ecxknc Iepvhans Kpmfiqo]]
+- date :: 2014-12-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

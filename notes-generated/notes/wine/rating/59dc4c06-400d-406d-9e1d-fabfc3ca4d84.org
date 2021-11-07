@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     59dc4c06-400d-406d-9e1d-fabfc3ca4d84
+:END:
+#+TITLE: Yokf Gwhwycw Nnbmgewp Pjcijct 1960 - 1990-2-24
+
+- wine :: [[id:aea902d2-0e15-4b38-b05b-b7e261a5133e][Yokf Gwhwycw Nnbmgewp Pjcijct 1960]]
+- date :: 1990-2-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

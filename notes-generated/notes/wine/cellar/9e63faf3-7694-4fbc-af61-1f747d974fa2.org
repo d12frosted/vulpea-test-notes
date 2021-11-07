@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9e63faf3-7694-4fbc-af61-1f747d974fa2
+:END:
+#+TITLE: Scf Elpezclx Zaejcumo 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Zaejcumo
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.65
+- sugar :: 9.66
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:b162d60e-630d-415f-bb65-afd40b310c86][Scf Elpezclx Zaejcumo NV - 1993-1-21]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9843bcf5-b8eb-4908-b134-953ae74f47be
+:END:
+#+TITLE: Yokf Gwhwycw Uyeialu Tivm 1980
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Uyeialu Tivm
+- vintage :: 1980
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.370000000000001
+- price :: 49.12 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

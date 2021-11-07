@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b4031fe8-35a1-433f-aada-2af73375df82
+:END:
+#+TITLE: Giih Udr Fwxhdr Mke 1916 - 2021-1-4
+
+- wine :: [[id:e9501bd1-7b5f-4ed0-b240-4ab4bb0b865e][Giih Udr Fwxhdr Mke 1916]]
+- date :: 2021-1-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7ce795bb-9df4-4213-852c-652b063d926a
+:END:
+#+TITLE: Yokf Gwhwycw Ojscdgzp Eaivjifi 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ojscdgzp Eaivjifi
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.43
+- price :: 53.50 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:9221418b-66e2-47ec-b525-7964a6a6182c][Yokf Gwhwycw Ojscdgzp Eaivjifi NV - 2018-7-7]]
+
+

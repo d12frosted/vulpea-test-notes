@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     dd1ff15e-fd4a-4066-8a0d-ecd0d630e098
+:END:
+#+TITLE: Scf Elpezclx Yliopjn 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Yliopjn
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.83
+- sugar :: 20.96
+- price :: 3.35 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:bfa65f73-18e2-47ee-997f-a533f972a16d][Scf Elpezclx Yliopjn NV - 1991-1-4]]
+
+

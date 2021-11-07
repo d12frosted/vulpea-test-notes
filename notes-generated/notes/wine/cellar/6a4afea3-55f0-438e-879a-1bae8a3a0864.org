@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6a4afea3-55f0-438e-879a-1bae8a3a0864
+:END:
+#+TITLE: Lrwk Jbaxrmn Flgvpxkw Qtytzhx 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Flgvpxkw Qtytzhx
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.41
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: 6.0
+- ratings :: [[id:f486a3f1-4c38-43da-b017-60de0b5acf3d][Lrwk Jbaxrmn Flgvpxkw Qtytzhx NV - 2009-6-19]]
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     1b7ede05-9472-48e6-9ff4-3c949af3b359
+:END:
+#+TITLE: Jjkswvm Rcm Xcnprq Qaozuteu 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Xcnprq Qaozuteu
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 11.56
+- sugar :: 8.03
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

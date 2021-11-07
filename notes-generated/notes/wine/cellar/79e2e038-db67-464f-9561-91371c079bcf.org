@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     79e2e038-db67-464f-9561-91371c079bcf
+:END:
+#+TITLE: Lrwk Jbaxrmn Hyqxvk Mxr 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Hyqxvk Mxr
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 13.440000000000001
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA
+
+

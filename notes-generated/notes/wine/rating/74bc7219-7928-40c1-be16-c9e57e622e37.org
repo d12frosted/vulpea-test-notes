@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     74bc7219-7928-40c1-be16-c9e57e622e37
+:END:
+#+TITLE: Jjkswvm Rcm Dlwkhip Azccj 1950 - 1998-9-25
+
+- wine :: [[id:beb69303-800d-46f5-9848-15599af141cf][Jjkswvm Rcm Dlwkhip Azccj 1950]]
+- date :: 1998-9-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

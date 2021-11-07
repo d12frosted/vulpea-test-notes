@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d06069e9-5609-4ed3-a4db-919c9c67fe05
+:END:
+#+TITLE: Yjfq Cvkwvjxa 2007
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Cvkwvjxa
+- vintage :: 2007
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.16
+- sugar :: 4.85
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA
+
+

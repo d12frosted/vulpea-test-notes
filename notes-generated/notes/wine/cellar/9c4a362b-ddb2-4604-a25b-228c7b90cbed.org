@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9c4a362b-ddb2-4604-a25b-228c7b90cbed
+:END:
+#+TITLE: Yjfq Uexgp 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Uexgp
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.25
+- sugar :: 1.32
+- price :: 29.00 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA
+
+

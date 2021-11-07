@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8be0af6b-bdcd-4f8a-9bd5-273fc04ee1ad
+:END:
+#+TITLE: Nhozxqe Aldl Usac 1949
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Usac
+- vintage :: 1949
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.48
+- price :: 40.29 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:f806810a-382b-4ff6-b09f-08f506133fad][Nhozxqe Aldl Usac 1949 - 2011-11-12]]
+
+

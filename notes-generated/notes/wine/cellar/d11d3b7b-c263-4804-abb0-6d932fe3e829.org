@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     d11d3b7b-c263-4804-abb0-6d932fe3e829
+:END:
+#+TITLE: Yjfq Gsizcq Bgvgbzw 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gsizcq Bgvgbzw
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 13.35
+- price :: 101.93 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

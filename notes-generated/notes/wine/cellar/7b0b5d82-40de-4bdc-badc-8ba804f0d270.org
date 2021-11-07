@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7b0b5d82-40de-4bdc-badc-8ba804f0d270
+:END:
+#+TITLE: Jjkswvm Rcm Ypok 1909
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ypok
+- vintage :: 1909
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.44
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: wikipedia
+- rating :: NA
+
+

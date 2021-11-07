@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     26eb8af5-322d-42b7-adec-bb099eb72b89
+:END:
+#+TITLE: Scf Elpezclx Iwzyh Klfdjaof 1957
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Iwzyh Klfdjaof
+- vintage :: 1957
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 9.53
+- sugar :: 3.01
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.5
+- ratings :: [[id:f8131452-3c51-4a82-842e-880da4e1e3d5][Scf Elpezclx Iwzyh Klfdjaof 1957 - 2006-2-27]]
+
+

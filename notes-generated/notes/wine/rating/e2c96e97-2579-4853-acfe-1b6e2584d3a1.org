@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e2c96e97-2579-4853-acfe-1b6e2584d3a1
+:END:
+#+TITLE: Scf Elpezclx Recik Hfokkyh 1908 - 2004-6-8
+
+- wine :: [[id:778c13f6-f5d8-4a95-a8b2-c91a13abcfbd][Scf Elpezclx Recik Hfokkyh 1908]]
+- date :: 2004-6-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

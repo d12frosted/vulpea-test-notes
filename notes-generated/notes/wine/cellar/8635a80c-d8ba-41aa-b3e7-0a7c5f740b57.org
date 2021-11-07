@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8635a80c-d8ba-41aa-b3e7-0a7c5f740b57
+:END:
+#+TITLE: Scf Elpezclx Gomi Rzoi 1965
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Gomi Rzoi
+- vintage :: 1965
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.69
+- price :: 72.42 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:385d8605-6fdc-4b9b-8f7f-c1d0e0424a7d][Scf Elpezclx Gomi Rzoi 1965 - 2020-11-1]]
+
+

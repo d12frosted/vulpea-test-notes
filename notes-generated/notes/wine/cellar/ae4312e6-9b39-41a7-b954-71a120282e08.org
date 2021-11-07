@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ae4312e6-9b39-41a7-b954-71a120282e08
+:END:
+#+TITLE: Yokf Gwhwycw Temkgy Laovyu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Temkgy Laovyu
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 10.05
+- sugar :: 0.77
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.5
+- ratings :: [[id:29309a67-fa1c-4de5-8876-4663ae50a4ee][Yokf Gwhwycw Temkgy Laovyu NV - 2003-10-13]]
+
+

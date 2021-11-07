@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     878c9a7e-7a20-45e7-a238-0bb35fd24ece
+:END:
+#+TITLE: Qay Bbfprz NV - 1993-2-28
+
+- wine :: [[id:36a8f65f-aeb5-4604-841f-a8f8f95c6421][Qay Bbfprz]]
+- date :: 1993-2-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 2
+- score_max :: 20
+- total :: 1.0
+
+

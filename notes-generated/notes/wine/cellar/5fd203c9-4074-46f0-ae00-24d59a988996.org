@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5fd203c9-4074-46f0-ae00-24d59a988996
+:END:
+#+TITLE: Qay Yvmvtzr 1911
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Yvmvtzr
+- vintage :: 1911
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 11.18
+- price :: 98.46 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:7ccc5fa5-707e-494c-8040-284657e44511][Qay Yvmvtzr 1911 - 1991-4-22]]
+
+

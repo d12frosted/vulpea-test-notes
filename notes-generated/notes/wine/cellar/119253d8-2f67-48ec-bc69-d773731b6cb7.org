@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     119253d8-2f67-48ec-bc69-d773731b6cb7
+:END:
+#+TITLE: Qay Naq 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Naq
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 12.08
+- sugar :: 12.14
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 3.0
+- ratings :: [[id:c57dbf7d-a631-477d-9f6d-22644874e103][Qay Naq NV - 2015-1-19]]
+
+

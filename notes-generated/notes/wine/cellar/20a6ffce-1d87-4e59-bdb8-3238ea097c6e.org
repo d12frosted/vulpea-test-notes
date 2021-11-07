@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     20a6ffce-1d87-4e59-bdb8-3238ea097c6e
+:END:
+#+TITLE: Yokf Gwhwycw Lputseq Ttbi 1912
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Lputseq Ttbi
+- vintage :: 1912
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 13.5
+- sugar :: 6.18
+- price :: 15.90 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA
+
+

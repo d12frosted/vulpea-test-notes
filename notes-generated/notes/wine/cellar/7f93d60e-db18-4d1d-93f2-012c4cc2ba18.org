@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     7f93d60e-db18-4d1d-93f2-012c4cc2ba18
+:END:
+#+TITLE: Qay Irgsqibx 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Irgsqibx
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 11.0
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:246d4bc6-c872-4446-982f-49a03c034898][Qay Irgsqibx NV - 1992-1-27]]
+
+

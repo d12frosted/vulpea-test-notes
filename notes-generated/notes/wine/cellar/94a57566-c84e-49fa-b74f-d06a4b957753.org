@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     94a57566-c84e-49fa-b74f-d06a4b957753
+:END:
+#+TITLE: Lrwk Jbaxrmn Rxcn Njwmp 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rxcn Njwmp
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.35
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:32209cb0-de66-498d-930f-42e8ad81a8ab][Lrwk Jbaxrmn Rxcn Njwmp NV - 2010-9-26]]
+
+

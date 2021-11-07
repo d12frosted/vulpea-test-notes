@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0a985a6c-73ad-47d1-8112-fcffa01e74fb
+:END:
+#+TITLE: Giih Udr Pmmhvd 2000
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Pmmhvd
+- vintage :: 2000
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 13.11
+- sugar :: 10.53
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: wikipedia
+- rating :: NA
+
+

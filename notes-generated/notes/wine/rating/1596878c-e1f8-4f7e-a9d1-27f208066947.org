@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1596878c-e1f8-4f7e-a9d1-27f208066947
+:END:
+#+TITLE: Lrwk Jbaxrmn Yna Xfnt NV - 2006-9-3
+
+- wine :: [[id:e2a03212-27e4-4c5a-985a-800a9715acd4][Lrwk Jbaxrmn Yna Xfnt]]
+- date :: 2006-9-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

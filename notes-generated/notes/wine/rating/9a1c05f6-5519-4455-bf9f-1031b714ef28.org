@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9a1c05f6-5519-4455-bf9f-1031b714ef28
+:END:
+#+TITLE: Scf Elpezclx Rmnn Wza 1945 - 2023-4-5
+
+- wine :: [[id:0153be45-786a-47e3-9bed-f2dc1947f983][Scf Elpezclx Rmnn Wza 1945]]
+- date :: 2023-4-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ae1c11e3-9be7-4d18-96c8-1f8daae18547
+:END:
+#+TITLE: Giih Udr Zcu Ite 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Zcu Ite
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 10.07
+- sugar :: 13.47
+- price :: 12.03 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

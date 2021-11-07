@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     913d8293-5f15-4da3-b8af-f14de6168675
+:END:
+#+TITLE: Yokf Gwhwycw Iqjl 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Iqjl
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 13.940000000000001
+- sugar :: 20.9
+- price :: 47.05 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

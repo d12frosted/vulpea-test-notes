@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     83c0d552-9d9d-4b1e-9ed3-a915a5aa55cc
+:END:
+#+TITLE: Yokf Gwhwycw Zwcnctw NV - 2004-1-2
+
+- wine :: [[id:da2215b4-57c3-42bd-9129-24a445f4799d][Yokf Gwhwycw Zwcnctw]]
+- date :: 2004-1-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

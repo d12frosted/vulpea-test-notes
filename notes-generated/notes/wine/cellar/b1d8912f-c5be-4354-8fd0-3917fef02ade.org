@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     b1d8912f-c5be-4354-8fd0-3917fef02ade
+:END:
+#+TITLE: Ecxknc Iepvhans Okbon Kpukiuto 2019
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Okbon Kpukiuto
+- vintage :: 2019
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.94
+- sugar :: 3.19
+- price :: 4.20 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.5
+- ratings :: [[id:af57bd2e-7e87-488e-befc-61d7aaef2d47][Ecxknc Iepvhans Okbon Kpukiuto 2019 - 2009-3-3]]
+
+

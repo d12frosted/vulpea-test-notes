@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     09f17741-4047-43d0-a92e-aae11f9062e5
+:END:
+#+TITLE: Yjfq Gqmhvw Zhxz 1930 - 2014-10-2
+
+- wine :: [[id:4db0fe8c-9e89-472d-8795-9446791e9c64][Yjfq Gqmhvw Zhxz 1930]]
+- date :: 2014-10-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     34879002-740f-40c5-a132-78bc3bd28be2
+:END:
+#+TITLE: Lrwk Jbaxrmn Ljs 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ljs
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.58
+- sugar :: 4.34
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA
+
+

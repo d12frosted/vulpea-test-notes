@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0f5203cf-37a4-4412-9d42-c5b1145337b2
+:END:
+#+TITLE: Lrwk Jbaxrmn Amxtd 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Amxtd
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.07
+- price :: 52.56 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

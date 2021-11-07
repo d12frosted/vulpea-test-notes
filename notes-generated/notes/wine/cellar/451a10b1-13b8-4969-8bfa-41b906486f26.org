@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     451a10b1-13b8-4969-8bfa-41b906486f26
+:END:
+#+TITLE: Jjkswvm Rcm Geexy 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Geexy
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 9.6
+- price :: 38.75 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:ef98f4ec-3305-4b83-b693-82d3b3f5d203][Jjkswvm Rcm Geexy NV - 2016-9-3]]
+
+

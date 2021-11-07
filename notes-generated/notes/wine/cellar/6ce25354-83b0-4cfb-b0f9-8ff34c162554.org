@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6ce25354-83b0-4cfb-b0f9-8ff34c162554
+:END:
+#+TITLE: Jjkswvm Rcm Unwaefes 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Unwaefes
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.93
+- price :: 45.89 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA
+
+

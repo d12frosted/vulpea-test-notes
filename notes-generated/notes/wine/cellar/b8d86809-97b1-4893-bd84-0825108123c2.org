@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b8d86809-97b1-4893-bd84-0825108123c2
+:END:
+#+TITLE: Yokf Gwhwycw Hyvxr 2001
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Hyvxr
+- vintage :: 2001
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 9.79
+- price :: 94.19 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:f13a4b7a-ba95-456b-97e6-b0be9bcf4157][Yokf Gwhwycw Hyvxr 2001 - 2023-8-26]]
+
+

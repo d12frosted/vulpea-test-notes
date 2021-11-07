@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     61ca1969-63da-494b-ae50-e15bb3a1d3f7
+:END:
+#+TITLE: Yjfq Zebp Vioqv 1935 - 1991-3-21
+
+- wine :: [[id:44ddfcf6-2b6a-418b-92e0-c058b2864e99][Yjfq Zebp Vioqv 1935]]
+- date :: 1991-3-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

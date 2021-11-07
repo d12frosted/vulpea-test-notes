@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3aec15e0-5bd8-42ea-bc2e-a5c701886240
+:END:
+#+TITLE: Jjkswvm Rcm Xggrqy NV - 2002-3-16
+
+- wine :: [[id:0f43ec44-b2ce-4b46-835f-e7db73a20467][Jjkswvm Rcm Xggrqy]]
+- date :: 2002-3-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

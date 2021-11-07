@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b1dc8486-11e4-4ca9-b86a-76fc4d4a2977
+:END:
+#+TITLE: Qay Eudiy 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Eudiy
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 9.74
+- sugar :: 6.89
+- price :: 13.28 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e1b1ec2f-5eb4-4576-8319-17dafa1d7ddd
+:END:
+#+TITLE: Cowhhax Upmqcgn Pnbi 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Pnbi
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 11.629999999999999
+- sugar :: 18.27
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:e773f214-c7fc-4ef4-a41b-4cf865bdb124][Cowhhax Upmqcgn Pnbi NV - 2007-11-20]]
+
+

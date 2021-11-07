@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     b12eb774-3fa7-4ed2-acdb-3f3134f06e80
+:END:
+#+TITLE: Yokf Gwhwycw Nhv 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Nhv
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 12.49
+- sugar :: 7.76
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

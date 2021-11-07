@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4348c74f-ca97-4e62-a74d-c3b12e5bca59
+:END:
+#+TITLE: Ecxknc Iepvhans Ijeukf 1977 - 1993-1-6
+
+- wine :: [[id:0d01fb23-250c-4860-919c-0cfe912f5218][Ecxknc Iepvhans Ijeukf 1977]]
+- date :: 1993-1-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

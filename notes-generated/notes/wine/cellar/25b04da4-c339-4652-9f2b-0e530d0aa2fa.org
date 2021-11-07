@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     25b04da4-c339-4652-9f2b-0e530d0aa2fa
+:END:
+#+TITLE: Nhozxqe Aldl Mbc Lqrwx 2002
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Mbc Lqrwx
+- vintage :: 2002
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 10.15
+- sugar :: 6.95
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: wikipedia
+- rating :: NA
+
+

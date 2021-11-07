@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     641bface-7d58-4030-a8f2-fc82fbbd79fd
+:END:
+#+TITLE: Jjkswvm Rcm Kpr Fynh 1981
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Kpr Fynh
+- vintage :: 1981
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.06
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA
+
+

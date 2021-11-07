@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d024f085-9a13-4136-a22f-45f0e9b99c92
+:END:
+#+TITLE: Giih Udr Vmbij 1946 - 2022-9-2
+
+- wine :: [[id:56af8221-4b4a-4b26-bf15-65c2abac5f16][Giih Udr Vmbij 1946]]
+- date :: 2022-9-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

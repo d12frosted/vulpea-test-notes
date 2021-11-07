@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0a262fbc-d7e9-44c4-b69d-bd068395974c
+:END:
+#+TITLE: Giih Udr Qok Pfkduexv 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Qok Pfkduexv
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.44
+- price :: 57.42 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

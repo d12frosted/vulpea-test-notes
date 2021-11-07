@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b8e50227-0bc5-4138-bb29-34228a0a30e1
+:END:
+#+TITLE: Scf Elpezclx Fhiu 2005
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Fhiu
+- vintage :: 2005
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.05
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA
+
+

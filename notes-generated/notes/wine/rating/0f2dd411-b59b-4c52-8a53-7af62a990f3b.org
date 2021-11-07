@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0f2dd411-b59b-4c52-8a53-7af62a990f3b
+:END:
+#+TITLE: Yokf Gwhwycw Wlbzt Aor NV - 2013-11-27
+
+- wine :: [[id:0b352a5e-8d86-4cb0-9802-42e5b81ceb3c][Yokf Gwhwycw Wlbzt Aor]]
+- date :: 2013-11-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

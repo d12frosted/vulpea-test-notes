@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     be9dde79-98fd-4485-9d75-5422d48f748b
+:END:
+#+TITLE: Giih Udr Etjk 1915 - 2024-12-6
+
+- wine :: [[id:488f73fe-04ae-4797-ba42-5b91ab140cfd][Giih Udr Etjk 1915]]
+- date :: 2024-12-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

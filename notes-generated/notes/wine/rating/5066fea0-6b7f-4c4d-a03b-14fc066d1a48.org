@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5066fea0-6b7f-4c4d-a03b-14fc066d1a48
+:END:
+#+TITLE: Yokf Gwhwycw Xpjt NV - 1992-3-2
+
+- wine :: [[id:a4d72649-2e7c-47d7-972a-261385fc44c3][Yokf Gwhwycw Xpjt]]
+- date :: 1992-3-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

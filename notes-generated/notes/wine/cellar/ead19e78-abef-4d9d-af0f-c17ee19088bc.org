@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ead19e78-abef-4d9d-af0f-c17ee19088bc
+:END:
+#+TITLE: Lrwk Jbaxrmn Lqc 1981
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Lqc
+- vintage :: 1981
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 9.58
+- price :: 86.14 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA
+
+

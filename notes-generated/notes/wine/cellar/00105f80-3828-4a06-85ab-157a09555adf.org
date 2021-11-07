@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     00105f80-3828-4a06-85ab-157a09555adf
+:END:
+#+TITLE: Yjfq Ccr Vfp 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ccr Vfp
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 10.61
+- sugar :: 7.01
+- price :: 33.15 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 4.0
+- ratings :: [[id:799f86fd-aad3-48cc-a43a-b1986d5718a0][Yjfq Ccr Vfp NV - 2017-9-4]]
+
+

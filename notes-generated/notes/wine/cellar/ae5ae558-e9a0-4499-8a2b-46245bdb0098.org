@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ae5ae558-e9a0-4499-8a2b-46245bdb0098
+:END:
+#+TITLE: Nhozxqe Aldl Xjmb Svwvnte 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xjmb Svwvnte
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.44
+- sugar :: 7.59
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:2e00a3a5-4a4a-48a0-a201-bf98fc4a0a31][Nhozxqe Aldl Xjmb Svwvnte NV - 1993-7-13]]
+
+

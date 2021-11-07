@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3d320190-a4a4-4d4f-bad5-e3d6e3aa7f6b
+:END:
+#+TITLE: Nhozxqe Aldl Fzd 1989
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Fzd
+- vintage :: 1989
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 13.39
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 7.0
+- ratings :: [[id:abdc1128-5425-476b-af65-d63807d82563][Nhozxqe Aldl Fzd 1989 - 2024-5-4]]
+
+

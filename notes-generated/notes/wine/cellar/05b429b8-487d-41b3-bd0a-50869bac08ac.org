@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     05b429b8-487d-41b3-bd0a-50869bac08ac
+:END:
+#+TITLE: Scf Elpezclx Mbkqcr 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Mbkqcr
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 9.77
+- sugar :: 4.99
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.0
+- ratings :: [[id:21d18f04-475e-4183-bdce-efcb45a9933d][Scf Elpezclx Mbkqcr NV - 1994-2-15]]
+
+

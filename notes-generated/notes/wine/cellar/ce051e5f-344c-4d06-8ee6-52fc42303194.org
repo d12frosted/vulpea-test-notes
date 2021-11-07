@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ce051e5f-344c-4d06-8ee6-52fc42303194
+:END:
+#+TITLE: Giih Udr Gteiazb Xlr 1935
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Gteiazb Xlr
+- vintage :: 1935
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 12.74
+- price :: 72.11 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA
+
+

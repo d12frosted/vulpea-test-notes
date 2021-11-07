@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ea9a6a64-af0b-4eba-b584-986a96a15eca
+:END:
+#+TITLE: Yokf Gwhwycw Ryltqs Dvrmfhzu NV - 1996-8-19
+
+- wine :: [[id:5057ae9d-71c9-49df-9799-53c2c1934ae2][Yokf Gwhwycw Ryltqs Dvrmfhzu]]
+- date :: 1996-8-19
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

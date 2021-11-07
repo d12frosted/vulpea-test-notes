@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     75bdf29b-f505-445e-b421-9de11b6339cd
+:END:
+#+TITLE: Yokf Gwhwycw Vccanu 1981
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vccanu
+- vintage :: 1981
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 10.68
+- price :: 6.26 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 1.0
+- ratings :: [[id:edc460e6-c123-4d8d-a27b-6a18939e0d96][Yokf Gwhwycw Vccanu 1981 - 2018-8-6]]
+
+

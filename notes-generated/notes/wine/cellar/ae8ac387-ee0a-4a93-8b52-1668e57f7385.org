@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ae8ac387-ee0a-4a93-8b52-1668e57f7385
+:END:
+#+TITLE: Yokf Gwhwycw Tuyradng Mtr 1963
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Tuyradng Mtr
+- vintage :: 1963
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.82
+- sugar :: 2.9
+- price :: 56.35 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:b9f863b3-17a5-48fe-978d-b279c734b88b][Yokf Gwhwycw Tuyradng Mtr 1963 - 2023-3-20]]
+
+

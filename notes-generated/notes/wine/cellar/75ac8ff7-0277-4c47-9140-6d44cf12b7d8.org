@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     75ac8ff7-0277-4c47-9140-6d44cf12b7d8
+:END:
+#+TITLE: Ecxknc Iepvhans Purvbhn 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Purvbhn
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.03
+- sugar :: 20.97
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:7db00180-8e70-4266-9809-687bb0e626bc][Ecxknc Iepvhans Purvbhn NV - 2021-1-4]]
+
+

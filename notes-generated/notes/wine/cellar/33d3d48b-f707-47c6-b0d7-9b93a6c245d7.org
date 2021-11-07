@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     33d3d48b-f707-47c6-b0d7-9b93a6c245d7
+:END:
+#+TITLE: Nhozxqe Aldl Lhtgycvh 1989
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Lhtgycvh
+- vintage :: 1989
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.76
+- sugar :: 10.42
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.0
+- ratings :: [[id:376acdb2-e002-426f-867e-9e1f47fa71fd][Nhozxqe Aldl Lhtgycvh 1989 - 2016-2-13]]
+
+

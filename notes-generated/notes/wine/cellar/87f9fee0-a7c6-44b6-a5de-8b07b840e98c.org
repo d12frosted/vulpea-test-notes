@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     87f9fee0-a7c6-44b6-a5de-8b07b840e98c
+:END:
+#+TITLE: Scf Elpezclx Poc 1915
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Poc
+- vintage :: 1915
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 11.26
+- sugar :: 8.79
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:fdb188ea-9e1e-48d4-81ab-f66ee54efe72][Scf Elpezclx Poc 1915 - 2022-6-12]]
+
+

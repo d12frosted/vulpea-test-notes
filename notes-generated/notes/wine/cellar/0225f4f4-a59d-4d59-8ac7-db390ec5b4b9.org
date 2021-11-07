@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0225f4f4-a59d-4d59-8ac7-db390ec5b4b9
+:END:
+#+TITLE: Giih Udr Auoahie Iiyq 2008
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Auoahie Iiyq
+- vintage :: 2008
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 13.190000000000001
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.5
+- ratings :: [[id:b9aa3269-4fb7-46ec-aa48-8de2425a2227][Giih Udr Auoahie Iiyq 2008 - 2010-10-26]]
+
+

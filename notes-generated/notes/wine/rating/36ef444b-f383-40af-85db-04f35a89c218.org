@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     36ef444b-f383-40af-85db-04f35a89c218
+:END:
+#+TITLE: Yokf Gwhwycw Nfjxf NV - 2021-3-5
+
+- wine :: [[id:4901fc49-536d-4687-a626-4a3569b1de11][Yokf Gwhwycw Nfjxf]]
+- date :: 2021-3-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

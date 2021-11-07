@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c9e98873-f35d-4cb9-bfe7-5727bf3f3e40
+:END:
+#+TITLE: Yokf Gwhwycw Iovx NV - 1999-10-23
+
+- wine :: [[id:a963dc30-6f8a-4544-9fe9-720e9c285beb][Yokf Gwhwycw Iovx]]
+- date :: 1999-10-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

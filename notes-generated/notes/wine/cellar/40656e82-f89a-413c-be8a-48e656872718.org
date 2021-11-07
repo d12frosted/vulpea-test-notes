@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     40656e82-f89a-413c-be8a-48e656872718
+:END:
+#+TITLE: Giih Udr Tih 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Tih
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.43
+- price :: 6.96 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA
+
+

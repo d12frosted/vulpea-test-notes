@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6f094813-6ecb-40b5-a08a-55fa64028e4b
+:END:
+#+TITLE: Cowhhax Upmqcgn Rxx 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Rxx
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.81
+- sugar :: 2.02
+- price :: 59.46 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 8.5
+- ratings :: [[id:80921e83-16ba-4bf9-90a4-d264d366e254][Cowhhax Upmqcgn Rxx NV - 2007-5-17]]
+
+

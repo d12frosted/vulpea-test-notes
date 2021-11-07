@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     dfa970aa-070c-45c6-ab9a-229eb9e38eb3
+:END:
+#+TITLE: Cowhhax Upmqcgn Xhthpmmw Dqttpvki 1959
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Xhthpmmw Dqttpvki
+- vintage :: 1959
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 11.57
+- price :: 86.43 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

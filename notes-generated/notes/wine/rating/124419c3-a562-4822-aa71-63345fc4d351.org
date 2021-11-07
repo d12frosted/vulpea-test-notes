@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     124419c3-a562-4822-aa71-63345fc4d351
+:END:
+#+TITLE: Scf Elpezclx Muwjl Tuvc 1965 - 2009-11-15
+
+- wine :: [[id:cf0612f6-05c8-4180-9714-1a23eaf3477a][Scf Elpezclx Muwjl Tuvc 1965]]
+- date :: 2009-11-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

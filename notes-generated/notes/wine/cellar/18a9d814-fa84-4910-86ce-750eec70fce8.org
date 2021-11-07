@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     18a9d814-fa84-4910-86ce-750eec70fce8
+:END:
+#+TITLE: Ecxknc Iepvhans Tiypxx 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Tiypxx
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 10.31
+- sugar :: 7.36
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:a081424c-0164-490b-99f2-b7806aa6463f][Ecxknc Iepvhans Tiypxx NV - 2009-2-19]]
+
+

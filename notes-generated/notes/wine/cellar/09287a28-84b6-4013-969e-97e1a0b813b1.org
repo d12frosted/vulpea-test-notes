@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     09287a28-84b6-4013-969e-97e1a0b813b1
+:END:
+#+TITLE: Yjfq Eecsx 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Eecsx
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.08
+- sugar :: 21.2
+- price :: 84.34 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

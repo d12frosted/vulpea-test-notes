@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e460690b-3363-4f13-a309-70ef1e778289
+:END:
+#+TITLE: Qay Jvs Vvcouf 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Jvs Vvcouf
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 12.7
+- price :: 100.91 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:2938bf18-b2fe-498e-bb06-6200dd93842c][Qay Jvs Vvcouf NV - 2017-3-21]]
+
+

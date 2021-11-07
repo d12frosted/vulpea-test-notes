@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1c4d96ca-ec97-4e71-a74b-03dc4d61e6b3
+:END:
+#+TITLE: Ecxknc Iepvhans Zwnbvjrb 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Zwnbvjrb
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.120000000000001
+- price :: 42.40 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 3.0
+- ratings :: [[id:1a9fae6a-d591-49a7-89a6-fa8f764f9ffa][Ecxknc Iepvhans Zwnbvjrb NV - 1997-3-24]]
+
+

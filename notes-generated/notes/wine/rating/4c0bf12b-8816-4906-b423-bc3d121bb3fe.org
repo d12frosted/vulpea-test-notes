@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4c0bf12b-8816-4906-b423-bc3d121bb3fe
+:END:
+#+TITLE: Lrwk Jbaxrmn Kmmqo NV - 2002-3-23
+
+- wine :: [[id:8248a258-0d1b-4c46-8f17-887031dbb728][Lrwk Jbaxrmn Kmmqo]]
+- date :: 2002-3-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a7da0c7b-6660-4405-aff0-330cd515c03d
+:END:
+#+TITLE: Jjkswvm Rcm Drtt 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Drtt
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 11.65
+- sugar :: 9.41
+- price :: 66.62 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA
+
+

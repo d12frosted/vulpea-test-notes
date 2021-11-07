@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     66ded33f-6c5f-4a2b-9477-33c890b7824d
+:END:
+#+TITLE: Jjkswvm Rcm Akxo 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Akxo
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 12.04
+- sugar :: 4.82
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA
+
+

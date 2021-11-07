@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6e6a2f52-f307-4a62-99a4-c899c0d691fc
+:END:
+#+TITLE: Jjkswvm Rcm Kqfyir Avvope 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Kqfyir Avvope
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 10.49
+- sugar :: 10.43
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:a65b1665-1a1a-40c5-b8d6-42b1849777cd][Jjkswvm Rcm Kqfyir Avvope NV - 1991-2-15]]
+
+

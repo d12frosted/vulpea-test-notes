@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6133d926-f1a7-4a8a-b028-ee1393fe115b
+:END:
+#+TITLE: Yokf Gwhwycw Denyixa Aur 1901
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Denyixa Aur
+- vintage :: 1901
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.4
+- sugar :: 18.14
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

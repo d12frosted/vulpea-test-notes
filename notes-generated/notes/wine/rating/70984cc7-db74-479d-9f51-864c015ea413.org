@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     70984cc7-db74-479d-9f51-864c015ea413
+:END:
+#+TITLE: Nhozxqe Aldl Vnfofwu Euiowu 1929 - 2007-11-3
+
+- wine :: [[id:41b66d75-7577-4a88-8f06-2e77555e8948][Nhozxqe Aldl Vnfofwu Euiowu 1929]]
+- date :: 2007-11-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

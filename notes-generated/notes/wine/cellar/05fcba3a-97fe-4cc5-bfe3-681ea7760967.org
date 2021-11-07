@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     05fcba3a-97fe-4cc5-bfe3-681ea7760967
+:END:
+#+TITLE: Scf Elpezclx Jlio 1921
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Jlio
+- vintage :: 1921
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 9.26
+- sugar :: 0.69
+- price :: 63.70 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: wikipedia
+- rating :: NA
+
+

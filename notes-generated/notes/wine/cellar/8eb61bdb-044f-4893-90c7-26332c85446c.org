@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     8eb61bdb-044f-4893-90c7-26332c85446c
+:END:
+#+TITLE: Yjfq Ovcprcga 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ovcprcga
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 11.98
+- sugar :: 7.68
+- price :: 57.39 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

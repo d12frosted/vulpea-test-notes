@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     302dc22a-3618-4e0a-b263-bd168a49e15d
+:END:
+#+TITLE: Scf Elpezclx Bzwvevmg Bqudsn 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Bzwvevmg Bqudsn
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 13.76
+- price :: 57.96 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 8.5
+- ratings :: [[id:b26187c6-968b-4422-ad44-5443f26199b1][Scf Elpezclx Bzwvevmg Bqudsn NV - 1990-2-8]]
+
+

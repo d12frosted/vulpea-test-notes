@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9b49b4f4-d5c6-4a34-9c51-798504e46080
+:END:
+#+TITLE: Nhozxqe Aldl Qtkw 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Qtkw
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 13.92
+- sugar :: 23.05
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:0f9a3ca3-75ab-45d0-8544-897c8df96a23][Nhozxqe Aldl Qtkw NV - 2008-8-15]]
+
+

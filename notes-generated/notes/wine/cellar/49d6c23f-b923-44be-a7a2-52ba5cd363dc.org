@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     49d6c23f-b923-44be-a7a2-52ba5cd363dc
+:END:
+#+TITLE: Giih Udr Aynwg 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Aynwg
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 11.23
+- sugar :: 15.29
+- price :: 56.37 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 2.5
+- ratings :: [[id:4026d26d-419d-4426-bba0-06395d0b190e][Giih Udr Aynwg NV - 2004-4-6]]
+
+

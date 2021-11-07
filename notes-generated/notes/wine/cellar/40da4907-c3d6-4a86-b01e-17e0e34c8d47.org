@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     40da4907-c3d6-4a86-b01e-17e0e34c8d47
+:END:
+#+TITLE: Ecxknc Iepvhans Dts 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Dts
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.41
+- sugar :: 4.68
+- price :: 47.40 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

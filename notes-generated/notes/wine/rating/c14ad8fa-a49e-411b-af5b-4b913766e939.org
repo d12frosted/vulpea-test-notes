@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c14ad8fa-a49e-411b-af5b-4b913766e939
+:END:
+#+TITLE: Giih Udr Cpe NV - 2011-8-6
+
+- wine :: [[id:b990f9c0-9ce6-4686-a35c-7d19dca4ae42][Giih Udr Cpe]]
+- date :: 2011-8-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

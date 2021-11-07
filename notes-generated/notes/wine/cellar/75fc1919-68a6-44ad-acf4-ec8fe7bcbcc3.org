@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     75fc1919-68a6-44ad-acf4-ec8fe7bcbcc3
+:END:
+#+TITLE: Jjkswvm Rcm Eqnwpvle Vuitkb 1965
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Eqnwpvle Vuitkb
+- vintage :: 1965
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 10.75
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

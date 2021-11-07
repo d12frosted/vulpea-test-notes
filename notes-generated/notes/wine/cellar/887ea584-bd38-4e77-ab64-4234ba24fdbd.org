@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     887ea584-bd38-4e77-ab64-4234ba24fdbd
+:END:
+#+TITLE: Qay Mrcsghz Svhp 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Mrcsghz Svhp
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 13.559999999999999
+- sugar :: 19.93
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:18d6f314-0452-4546-8915-58646d09a065][Qay Mrcsghz Svhp NV - 2018-6-4]]
+
+

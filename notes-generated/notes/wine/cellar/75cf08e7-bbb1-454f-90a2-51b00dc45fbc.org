@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     75cf08e7-bbb1-454f-90a2-51b00dc45fbc
+:END:
+#+TITLE: Lrwk Jbaxrmn Xsezdu Yicetpiy 1970
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xsezdu Yicetpiy
+- vintage :: 1970
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 10.69
+- sugar :: 13.84
+- price :: 34.21 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:5949167d-0527-4734-98f2-e55c2204d321][Lrwk Jbaxrmn Xsezdu Yicetpiy 1970 - 2002-1-25]]
+
+

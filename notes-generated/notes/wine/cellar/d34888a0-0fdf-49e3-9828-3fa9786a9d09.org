@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d34888a0-0fdf-49e3-9828-3fa9786a9d09
+:END:
+#+TITLE: Nhozxqe Aldl Stau Yzpdb 1949
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Stau Yzpdb
+- vintage :: 1949
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.74
+- sugar :: 8.38
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA
+
+

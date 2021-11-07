@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     40e08a8b-ec26-42db-bc23-caaf6352b70c
+:END:
+#+TITLE: Scf Elpezclx Iegqlq 1921
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Iegqlq
+- vintage :: 1921
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 10.120000000000001
+- sugar :: 11.14
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:441b5cda-5a04-4f53-a503-642eaf5eab86][Scf Elpezclx Iegqlq 1921 - 2012-10-5]]
+
+

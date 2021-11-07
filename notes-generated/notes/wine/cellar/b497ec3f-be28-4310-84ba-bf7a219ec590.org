@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b497ec3f-be28-4310-84ba-bf7a219ec590
+:END:
+#+TITLE: Yjfq Evfmp 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Evfmp
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 11.17
+- sugar :: 14.94
+- price :: 19.88 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

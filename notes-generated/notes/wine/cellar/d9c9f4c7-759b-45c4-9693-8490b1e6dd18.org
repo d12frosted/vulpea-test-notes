@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d9c9f4c7-759b-45c4-9693-8490b1e6dd18
+:END:
+#+TITLE: Scf Elpezclx Cio 1956
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Cio
+- vintage :: 1956
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.59
+- price :: 87.18 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:4946bfb6-d16e-4fc9-8e12-3f73e4030f53][Scf Elpezclx Cio 1956 - 1990-8-22]]
+
+

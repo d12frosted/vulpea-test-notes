@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ef48ca82-0ff7-41cf-8a78-6ec155cb3f64
+:END:
+#+TITLE: Giih Udr Kkykay 1944 - 2002-9-17
+
+- wine :: [[id:9e79b6d0-c6f4-46d0-8df9-8acf5f25f5d2][Giih Udr Kkykay 1944]]
+- date :: 2002-9-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

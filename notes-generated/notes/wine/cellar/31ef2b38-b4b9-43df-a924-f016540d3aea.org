@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     31ef2b38-b4b9-43df-a924-f016540d3aea
+:END:
+#+TITLE: Ecxknc Iepvhans Lzuxgzg 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Lzuxgzg
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 10.52
+- sugar :: 15.69
+- price :: 38.66 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:7e4f2082-8594-49ca-b9da-3ea0fa0ddfc2][Ecxknc Iepvhans Lzuxgzg NV - 2019-3-17]]
+
+

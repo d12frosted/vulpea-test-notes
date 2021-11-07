@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     89f353bc-6be2-4545-9bfd-8f46469aefa3
+:END:
+#+TITLE: Qay Cmwx 2018
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Cmwx
+- vintage :: 2018
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 13.04
+- sugar :: 5.37
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 0.5
+- ratings :: [[id:ca86a3ee-2606-4fc9-b4b3-04df4e9050ac][Qay Cmwx 2018 - 1998-3-10]]
+
+

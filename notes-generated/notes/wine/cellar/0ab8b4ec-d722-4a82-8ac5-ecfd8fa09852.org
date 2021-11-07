@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     0ab8b4ec-d722-4a82-8ac5-ecfd8fa09852
+:END:
+#+TITLE: Giih Udr Kya Bqswr 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Kya Bqswr
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.01
+- sugar :: 9.25
+- price :: 25.44 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 9.5
+- ratings :: [[id:9ec7135a-7943-494a-8ffb-ffc8a94d7e94][Giih Udr Kya Bqswr NV - 2010-2-5]]
+
+

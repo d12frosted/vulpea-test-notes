@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     20a6cbef-2e2a-4d1e-a530-ed124363761a
+:END:
+#+TITLE: Qay Susbzs Iak 1932
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Susbzs Iak
+- vintage :: 1932
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.79
+- sugar :: 22.44
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.5
+- ratings :: [[id:23881534-2254-4800-b554-01890cf8138c][Qay Susbzs Iak 1932 - 2014-8-1]]
+
+

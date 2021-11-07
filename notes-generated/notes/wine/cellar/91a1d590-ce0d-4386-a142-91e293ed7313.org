@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     91a1d590-ce0d-4386-a142-91e293ed7313
+:END:
+#+TITLE: Nhozxqe Aldl Xfhbwkhr Ntnp 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xfhbwkhr Ntnp
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 11.35
+- sugar :: 19.97
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:b8f76d99-e055-4056-b771-cef791b89a73][Nhozxqe Aldl Xfhbwkhr Ntnp NV - 2017-8-25]]
+
+

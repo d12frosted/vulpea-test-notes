@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4ebb95c4-774d-46ba-8ffd-9629ec0b461f
+:END:
+#+TITLE: Jjkswvm Rcm Yyekin 1957 - 1991-3-15
+
+- wine :: [[id:1927a781-98b9-47bb-acb3-1c2dd3052ae3][Jjkswvm Rcm Yyekin 1957]]
+- date :: 1991-3-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

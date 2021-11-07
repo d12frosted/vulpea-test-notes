@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     62c03583-d811-490c-8fb8-f60dc4050b35
+:END:
+#+TITLE: Qay Bfbitpyd Dzisdyc NV - 2020-8-20
+
+- wine :: [[id:f553b660-dcb4-4ee4-aad5-5da081252b1c][Qay Bfbitpyd Dzisdyc]]
+- date :: 2020-8-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

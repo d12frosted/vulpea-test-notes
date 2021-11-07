@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     94eadf2f-de48-451c-9335-3447a2d5fe5d
+:END:
+#+TITLE: Yjfq Ynpzgiv 1993 - 2012-7-22
+
+- wine :: [[id:64d365c9-2a89-443d-899b-360e55dbeab0][Yjfq Ynpzgiv 1993]]
+- date :: 2012-7-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

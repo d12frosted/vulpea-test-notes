@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7bac309b-4603-4628-abe5-5a8bb81be8af
+:END:
+#+TITLE: Scf Elpezclx Uoyntc Kwylunjk NV - 2009-3-8
+
+- wine :: [[id:3659e575-8779-4492-b2f9-4dd217eeb72f][Scf Elpezclx Uoyntc Kwylunjk]]
+- date :: 2009-3-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     040bd6fb-d2a3-4e51-81fc-319b9723578d
+:END:
+#+TITLE: Lrwk Jbaxrmn Xxkawklz Ouwjo 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xxkawklz Ouwjo
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.15
+- price :: 80.15 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:6bbc6995-c49a-473d-b8eb-d158a1a4e266][Lrwk Jbaxrmn Xxkawklz Ouwjo NV - 1996-3-15]]
+
+

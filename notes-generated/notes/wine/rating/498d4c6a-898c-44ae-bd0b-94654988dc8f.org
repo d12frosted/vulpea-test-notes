@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     498d4c6a-898c-44ae-bd0b-94654988dc8f
+:END:
+#+TITLE: Ecxknc Iepvhans Nuhb Gsvylaju NV - 2024-4-9
+
+- wine :: [[id:7b53fc45-bef1-48ef-b3e4-3469939721de][Ecxknc Iepvhans Nuhb Gsvylaju]]
+- date :: 2024-4-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

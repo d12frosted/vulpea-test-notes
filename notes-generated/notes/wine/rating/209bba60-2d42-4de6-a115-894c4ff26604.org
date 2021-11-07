@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     209bba60-2d42-4de6-a115-894c4ff26604
+:END:
+#+TITLE: Yjfq Oktmxzxr Vooo NV - 2002-5-2
+
+- wine :: [[id:3cba2ffe-75b7-42cb-abb0-de0e652d3458][Yjfq Oktmxzxr Vooo]]
+- date :: 2002-5-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

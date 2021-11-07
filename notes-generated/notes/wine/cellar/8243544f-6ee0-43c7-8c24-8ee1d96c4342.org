@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8243544f-6ee0-43c7-8c24-8ee1d96c4342
+:END:
+#+TITLE: Nhozxqe Aldl Mflabzsv Ryg 1933
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Mflabzsv Ryg
+- vintage :: 1933
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.629999999999999
+- sugar :: 22.91
+- price :: 83.60 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:0f7ab7ab-1a39-448d-8f3b-cab52c2d8037][Nhozxqe Aldl Mflabzsv Ryg 1933 - 2020-11-3]]
+
+

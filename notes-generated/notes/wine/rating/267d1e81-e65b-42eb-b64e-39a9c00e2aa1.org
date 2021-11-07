@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     267d1e81-e65b-42eb-b64e-39a9c00e2aa1
+:END:
+#+TITLE: Jjkswvm Rcm Acnl Uhki 1929 - 1995-12-20
+
+- wine :: [[id:0400b29d-6dfe-4efa-918d-3f83df5c7c1b][Jjkswvm Rcm Acnl Uhki 1929]]
+- date :: 1995-12-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

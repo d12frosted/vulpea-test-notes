@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     da49eb83-d349-4821-9d58-159f7eec47d0
+:END:
+#+TITLE: Nhozxqe Aldl Ucxgfvvc Mlpf 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ucxgfvvc Mlpf
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 13.68
+- sugar :: 17.69
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:3b7d030c-10d7-47f1-b3e8-2c6102a037ca][Nhozxqe Aldl Ucxgfvvc Mlpf NV - 2022-5-21]]
+
+

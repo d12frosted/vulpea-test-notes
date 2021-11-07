@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     290c8f9f-e283-4861-9007-8441455f6585
+:END:
+#+TITLE: Qay Uoahazam Flmhvqi NV - 2009-3-8
+
+- wine :: [[id:88084fd8-5b79-4081-baa5-cb2c588d9776][Qay Uoahazam Flmhvqi]]
+- date :: 2009-3-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     1e2da899-9286-4e19-a88a-af7858438b7d
+:END:
+#+TITLE: Yjfq Mkof 2015
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Mkof
+- vintage :: 2015
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 9.78
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:a62100d3-76d0-459c-bf72-62a54b0eeace][Yjfq Mkof 2015 - 2015-6-14]]
+
+

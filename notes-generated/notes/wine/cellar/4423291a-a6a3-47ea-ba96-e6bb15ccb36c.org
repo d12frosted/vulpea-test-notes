@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     4423291a-a6a3-47ea-ba96-e6bb15ccb36c
+:END:
+#+TITLE: Qay Wlqfmott 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Wlqfmott
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.34
+- sugar :: 20.21
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

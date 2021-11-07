@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     24e0ed73-3bb2-4010-96ba-0979a53eeda6
+:END:
+#+TITLE: Nhozxqe Aldl Rywcs Ijl 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Rywcs Ijl
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.33
+- sugar :: 22.89
+- price :: 60.62 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

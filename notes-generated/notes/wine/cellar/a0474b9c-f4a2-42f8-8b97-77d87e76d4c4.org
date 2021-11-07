@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a0474b9c-f4a2-42f8-8b97-77d87e76d4c4
+:END:
+#+TITLE: Yokf Gwhwycw Acgpeghg Vgqsyq 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Acgpeghg Vgqsyq
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.63
+- price :: 11.08 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:96b58099-5e33-4203-b0c5-4f96dde08eb8][Yokf Gwhwycw Acgpeghg Vgqsyq NV - 2001-7-1]]
+
+

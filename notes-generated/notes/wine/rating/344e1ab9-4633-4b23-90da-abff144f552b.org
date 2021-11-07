@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     344e1ab9-4633-4b23-90da-abff144f552b
+:END:
+#+TITLE: Scf Elpezclx Aaff 1994 - 1995-2-13
+
+- wine :: [[id:78823327-70a9-4f63-9886-a3136581bad8][Scf Elpezclx Aaff 1994]]
+- date :: 1995-2-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

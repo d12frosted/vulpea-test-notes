@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     faa6e538-cf83-4d7b-8dbf-317c042de948
+:END:
+#+TITLE: Nhozxqe Aldl Ixiqw 1940 - 2003-1-9
+
+- wine :: [[id:92b57447-695c-4bd9-8ac8-4588b4e1d424][Nhozxqe Aldl Ixiqw 1940]]
+- date :: 2003-1-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

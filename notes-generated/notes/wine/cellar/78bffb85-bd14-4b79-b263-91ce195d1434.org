@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     78bffb85-bd14-4b79-b263-91ce195d1434
+:END:
+#+TITLE: Nhozxqe Aldl Wfy 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Wfy
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 11.15
+- sugar :: 18.8
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:2aed9111-a73f-4948-b977-3c568e644d8a][Nhozxqe Aldl Wfy NV - 2022-4-21]]
+
+

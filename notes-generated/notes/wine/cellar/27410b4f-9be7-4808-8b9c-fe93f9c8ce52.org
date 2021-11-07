@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     27410b4f-9be7-4808-8b9c-fe93f9c8ce52
+:END:
+#+TITLE: Scf Elpezclx Mgcyrq Vior 1904
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Mgcyrq Vior
+- vintage :: 1904
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 12.77
+- price :: 16.23 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 2.0
+- ratings :: [[id:a3cc0447-a386-4ec1-bd11-cfae00115da3][Scf Elpezclx Mgcyrq Vior 1904 - 1991-9-22]]
+
+

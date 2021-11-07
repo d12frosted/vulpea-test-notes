@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     9e8ae23a-2d63-4a00-bc3e-5035db41b7c1
+:END:
+#+TITLE: Lrwk Jbaxrmn Meyq 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Meyq
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.96
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     adf7d07a-53a5-41c8-9ee2-a4a254ff7874
+:END:
+#+TITLE: Yokf Gwhwycw Xidyyai Wuig 2019
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Xidyyai Wuig
+- vintage :: 2019
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.7
+- sugar :: 20.97
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

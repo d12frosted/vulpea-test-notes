@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3f8a1c0f-d1d2-420b-b2c7-27e76b766cd6
+:END:
+#+TITLE: Qay Xvync Wma 1903 - 1999-7-26
+
+- wine :: [[id:cde66bcb-1c41-4dc3-9939-9540d6c0628a][Qay Xvync Wma 1903]]
+- date :: 1999-7-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     decf7729-8b63-4924-add0-2e492f0d35e8
+:END:
+#+TITLE: Scf Elpezclx Bdue NV - 1994-8-18
+
+- wine :: [[id:dfd84961-f396-43d0-b861-e06faf10b54f][Scf Elpezclx Bdue]]
+- date :: 1994-8-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

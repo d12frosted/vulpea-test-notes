@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     9c1195ab-6847-4d98-906c-c6c63d4fa6d5
+:END:
+#+TITLE: Lrwk Jbaxrmn Mvzsmryv Dctef 1963
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Mvzsmryv Dctef
+- vintage :: 1963
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 11.08
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:4331f431-b54d-4eba-9b84-706686df51cb][Lrwk Jbaxrmn Mvzsmryv Dctef 1963 - 2007-6-12]]
+
+

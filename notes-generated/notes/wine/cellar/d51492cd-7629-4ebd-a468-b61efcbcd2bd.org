@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d51492cd-7629-4ebd-a468-b61efcbcd2bd
+:END:
+#+TITLE: Giih Udr Btvqpgk 1971
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Btvqpgk
+- vintage :: 1971
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.53
+- price :: 5.68 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: wikipedia
+- rating :: NA
+
+

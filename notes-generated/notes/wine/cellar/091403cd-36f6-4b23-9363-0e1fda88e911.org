@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     091403cd-36f6-4b23-9363-0e1fda88e911
+:END:
+#+TITLE: Yjfq Nzl Yru 1922
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Nzl Yru
+- vintage :: 1922
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 10.8
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:2ef7e787-8b18-478e-92d5-85e957974e8a][Yjfq Nzl Yru 1922 - 1997-11-16]]
+
+

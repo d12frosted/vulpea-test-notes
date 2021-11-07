@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c57382ad-e88e-48c2-9cd5-ce4961d2ed7f
+:END:
+#+TITLE: Jjkswvm Rcm Szyq 1983 - 2019-11-4
+
+- wine :: [[id:735bb03d-6825-4da6-aa9c-3f7d7c63126f][Jjkswvm Rcm Szyq 1983]]
+- date :: 2019-11-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

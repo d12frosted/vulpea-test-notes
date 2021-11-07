@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c069d0c7-4130-4475-ae60-142c83f55d3c
+:END:
+#+TITLE: Ecxknc Iepvhans Jbrlpyew 1975
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Jbrlpyew
+- vintage :: 1975
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.28
+- price :: 50.38 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

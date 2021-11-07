@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     45c7fbbe-2603-4410-841c-1ca8658ce833
+:END:
+#+TITLE: Scf Elpezclx Dzz 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Dzz
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.25
+- price :: 8.53 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:d223e6c6-140d-42e8-a2f7-7d1b49554c02][Scf Elpezclx Dzz NV - 1997-2-11]]
+
+

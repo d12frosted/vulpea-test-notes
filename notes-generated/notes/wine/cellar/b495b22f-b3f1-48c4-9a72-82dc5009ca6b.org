@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b495b22f-b3f1-48c4-9a72-82dc5009ca6b
+:END:
+#+TITLE: Lrwk Jbaxrmn Mit 1938
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Mit
+- vintage :: 1938
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 9.63
+- price :: 56.66 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:7fd20c0a-6824-462b-9407-8e385d40fbfc][Lrwk Jbaxrmn Mit 1938 - 2018-7-22]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bd4bd154-81ce-4ea8-a71b-49d2b73d8f34
+:END:
+#+TITLE: Ecxknc Iepvhans Vlujtk 1957 - 2023-1-12
+
+- wine :: [[id:4a7aa448-797c-4eb4-965d-4fd7ef3f580c][Ecxknc Iepvhans Vlujtk 1957]]
+- date :: 2023-1-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

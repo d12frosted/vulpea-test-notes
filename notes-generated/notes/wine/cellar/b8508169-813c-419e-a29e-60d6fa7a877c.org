@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b8508169-813c-419e-a29e-60d6fa7a877c
+:END:
+#+TITLE: Yokf Gwhwycw Byqq Vrqmasua 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Byqq Vrqmasua
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.58
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

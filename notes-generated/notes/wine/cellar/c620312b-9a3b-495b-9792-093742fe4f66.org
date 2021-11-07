@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c620312b-9a3b-495b-9792-093742fe4f66
+:END:
+#+TITLE: Giih Udr Bydyb 1957
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Bydyb
+- vintage :: 1957
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.44
+- price :: 9.37 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 3.5
+- ratings :: [[id:7ed4e928-fd07-42fa-b94b-994a1853c938][Giih Udr Bydyb 1957 - 1999-4-26]]
+
+

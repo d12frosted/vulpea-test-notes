@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4cc0389c-03b6-4b4f-b2b2-55cbb2651c57
+:END:
+#+TITLE: Ecxknc Iepvhans Bem 2016
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Bem
+- vintage :: 2016
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.21
+- sugar :: 8.66
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:cbd2c64c-5578-48b8-8b1f-ee92c8412340][Ecxknc Iepvhans Bem 2016 - 2005-8-1]]
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     55a3cdff-9b10-42e7-825a-a239e6a8ae68
+:END:
+#+TITLE: Nhozxqe Aldl Giboseag Yxbcuqz 1995
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Giboseag Yxbcuqz
+- vintage :: 1995
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.13
+- price :: 69.40 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:da47a203-a01b-4a56-908c-14125446b341][Nhozxqe Aldl Giboseag Yxbcuqz 1995 - 2000-4-22]]
+
+

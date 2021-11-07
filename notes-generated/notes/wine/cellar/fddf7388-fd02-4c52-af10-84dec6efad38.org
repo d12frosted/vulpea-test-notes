@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     fddf7388-fd02-4c52-af10-84dec6efad38
+:END:
+#+TITLE: Jjkswvm Rcm Pwlxr 1937
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Pwlxr
+- vintage :: 1937
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.33
+- sugar :: 11.61
+- price :: 7.45 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     02ea56ab-8e01-4308-bc72-7f2819497204
+:END:
+#+TITLE: Yjfq Iyt Fhqkety 1946
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Iyt Fhqkety
+- vintage :: 1946
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.68
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:7df2614a-9d71-4f41-ac5e-adf4722f6804][Yjfq Iyt Fhqkety 1946 - 2017-2-26]]
+
+

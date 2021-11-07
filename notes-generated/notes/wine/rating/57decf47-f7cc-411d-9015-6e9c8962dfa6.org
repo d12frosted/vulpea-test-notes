@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     57decf47-f7cc-411d-9015-6e9c8962dfa6
+:END:
+#+TITLE: Giih Udr Degjgt Xciqlzi 1979 - 2024-5-28
+
+- wine :: [[id:7c24666b-9af1-4fd0-8882-f39975661529][Giih Udr Degjgt Xciqlzi 1979]]
+- date :: 2024-5-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

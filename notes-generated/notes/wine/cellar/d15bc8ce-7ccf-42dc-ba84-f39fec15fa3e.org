@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d15bc8ce-7ccf-42dc-ba84-f39fec15fa3e
+:END:
+#+TITLE: Qay Zewa 1949
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Zewa
+- vintage :: 1949
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 11.77
+- sugar :: 7.35
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA
+
+

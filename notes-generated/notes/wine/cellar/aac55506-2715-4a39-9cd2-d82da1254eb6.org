@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     aac55506-2715-4a39-9cd2-d82da1254eb6
+:END:
+#+TITLE: Ecxknc Iepvhans Keumhv 2012
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Keumhv
+- vintage :: 2012
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.28
+- sugar :: 18.69
+- price :: 78.27 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:e5460231-1db5-4ddb-a648-e46238e02a07][Ecxknc Iepvhans Keumhv 2012 - 2010-7-6]]
+
+

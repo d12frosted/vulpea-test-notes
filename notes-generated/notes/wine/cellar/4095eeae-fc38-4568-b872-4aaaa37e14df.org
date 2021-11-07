@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     4095eeae-fc38-4568-b872-4aaaa37e14df
+:END:
+#+TITLE: Giih Udr Cdixf Xefp 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Cdixf Xefp
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 12.85
+- price :: 9.40 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

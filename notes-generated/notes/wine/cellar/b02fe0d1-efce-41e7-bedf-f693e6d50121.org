@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b02fe0d1-efce-41e7-bedf-f693e6d50121
+:END:
+#+TITLE: Giih Udr Qib Cwwex 2012
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Qib Cwwex
+- vintage :: 2012
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 9.15
+- price :: 74.46 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

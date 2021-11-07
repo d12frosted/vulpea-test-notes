@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     238ef7c3-09da-4430-b0a7-c44a3bb5d60e
+:END:
+#+TITLE: Lrwk Jbaxrmn Uxvgfe Aoghpf 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Uxvgfe Aoghpf
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 10.7
+- sugar :: 8.66
+- price :: 34.31 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

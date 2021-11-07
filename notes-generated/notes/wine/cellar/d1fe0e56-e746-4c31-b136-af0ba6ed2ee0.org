@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d1fe0e56-e746-4c31-b136-af0ba6ed2ee0
+:END:
+#+TITLE: Qay Ecg 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ecg
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.18
+- sugar :: 15.35
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:bf64894c-d330-4353-9c4f-13f87a2a17e1][Qay Ecg NV - 1993-12-3]]
+
+

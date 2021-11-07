@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b096f530-23c5-4182-8d24-b5646955bf0b
+:END:
+#+TITLE: Yjfq Uwesfo Monc 1990 - 2024-6-13
+
+- wine :: [[id:4d961558-d21c-409b-9c25-117e1f494ed4][Yjfq Uwesfo Monc 1990]]
+- date :: 2024-6-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

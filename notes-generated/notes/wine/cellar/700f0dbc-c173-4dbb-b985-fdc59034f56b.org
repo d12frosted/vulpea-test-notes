@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     700f0dbc-c173-4dbb-b985-fdc59034f56b
+:END:
+#+TITLE: Lrwk Jbaxrmn Pmu Pahbklr 1975
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Pmu Pahbklr
+- vintage :: 1975
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.67
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:55a1c800-ff41-40cc-9506-99e7b322bf41][Lrwk Jbaxrmn Pmu Pahbklr 1975 - 2014-10-16]]
+
+

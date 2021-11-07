@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     21681073-5844-4ebc-a8e4-4719f700552f
+:END:
+#+TITLE: Qay Eldn Fjexnzd 1997 - 2008-10-15
+
+- wine :: [[id:06bcfa7f-88e9-40d9-976c-dd6a38d26f35][Qay Eldn Fjexnzd 1997]]
+- date :: 2008-10-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

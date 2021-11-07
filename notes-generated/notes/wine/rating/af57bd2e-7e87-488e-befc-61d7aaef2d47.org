@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     af57bd2e-7e87-488e-befc-61d7aaef2d47
+:END:
+#+TITLE: Ecxknc Iepvhans Okbon Kpukiuto 2019 - 2009-3-3
+
+- wine :: [[id:b1d8912f-c5be-4354-8fd0-3917fef02ade][Ecxknc Iepvhans Okbon Kpukiuto 2019]]
+- date :: 2009-3-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

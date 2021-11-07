@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     adcd62a1-75c8-4cbd-826a-4f21881a3cb0
+:END:
+#+TITLE: Jjkswvm Rcm Ppzl 1946
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ppzl
+- vintage :: 1946
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.96
+- price :: 76.61 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 2.5
+- ratings :: [[id:f10c82aa-382b-4f22-8160-8b1b0d258230][Jjkswvm Rcm Ppzl 1946 - 2009-1-23]]
+
+

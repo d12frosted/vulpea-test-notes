@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f5a88388-84cb-4015-b5fd-58c3469f435b
+:END:
+#+TITLE: Ecxknc Iepvhans Ijzz 1943
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ijzz
+- vintage :: 1943
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.04
+- price :: 87.76 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA
+
+

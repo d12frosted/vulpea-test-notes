@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     76243308-d8b3-46a6-835f-27340639547d
+:END:
+#+TITLE: Lrwk Jbaxrmn Liitxu 2004
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Liitxu
+- vintage :: 2004
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.41
+- price :: 42.06 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA
+
+

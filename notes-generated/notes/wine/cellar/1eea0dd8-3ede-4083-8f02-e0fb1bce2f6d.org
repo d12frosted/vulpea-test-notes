@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     1eea0dd8-3ede-4083-8f02-e0fb1bce2f6d
+:END:
+#+TITLE: Nhozxqe Aldl Szjl Qkqwn 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Szjl Qkqwn
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 12.08
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

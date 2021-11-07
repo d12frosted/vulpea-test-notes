@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f526ff81-ffd2-49cb-8237-dd8d9f4876a3
+:END:
+#+TITLE: Jjkswvm Rcm Gkfrd 1902
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Gkfrd
+- vintage :: 1902
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 13.66
+- sugar :: 5.02
+- price :: 3.64 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:c9515061-fbbc-4775-9d83-98233391a775][Jjkswvm Rcm Gkfrd 1902 - 1998-3-27]]
+
+

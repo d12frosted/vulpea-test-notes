@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     915fba0f-ef59-4b7e-a530-c42578ab5ac8
+:END:
+#+TITLE: Lrwk Jbaxrmn Wbm 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Wbm
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.27
+- price :: 91.51 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.0
+- ratings :: [[id:0f4adef0-9c33-4808-a1aa-a6ae8b8c0883][Lrwk Jbaxrmn Wbm NV - 2000-9-15]]
+
+

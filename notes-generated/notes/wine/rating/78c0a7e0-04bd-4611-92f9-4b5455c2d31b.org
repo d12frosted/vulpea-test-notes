@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     78c0a7e0-04bd-4611-92f9-4b5455c2d31b
+:END:
+#+TITLE: Giih Udr Rwzze NV - 1998-6-11
+
+- wine :: [[id:82384063-97be-4bb2-b637-834848fce195][Giih Udr Rwzze]]
+- date :: 1998-6-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

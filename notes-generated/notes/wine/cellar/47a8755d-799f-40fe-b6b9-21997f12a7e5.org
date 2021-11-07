@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     47a8755d-799f-40fe-b6b9-21997f12a7e5
+:END:
+#+TITLE: Qay Njxxmtiq Prdqqxo 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Njxxmtiq Prdqqxo
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 12.66
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 3.0
+- ratings :: [[id:5632400c-8530-4a93-b92e-1640dcd87f04][Qay Njxxmtiq Prdqqxo NV - 1992-1-28]]
+
+

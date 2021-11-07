@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e9a18000-f38b-4767-9530-4de25948947a
+:END:
+#+TITLE: Ecxknc Iepvhans Sees Irjgxuf 1921
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Sees Irjgxuf
+- vintage :: 1921
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 11.56
+- price :: 63.79 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:73e0e903-fb77-4852-ad6b-5bcd46c64ef5][Ecxknc Iepvhans Sees Irjgxuf 1921 - 2011-11-5]]
+
+

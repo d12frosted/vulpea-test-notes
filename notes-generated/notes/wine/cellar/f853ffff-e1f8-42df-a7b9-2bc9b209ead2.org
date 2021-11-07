@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f853ffff-e1f8-42df-a7b9-2bc9b209ead2
+:END:
+#+TITLE: Scf Elpezclx Ydfl Zmc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ydfl Zmc
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.95
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

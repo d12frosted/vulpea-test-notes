@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     faf4d7c8-d946-475a-99a5-c89f1dfa7c33
+:END:
+#+TITLE: Qay Wdbxuc Hdhvt 1912
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Wdbxuc Hdhvt
+- vintage :: 1912
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.67
+- price :: 57.90 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

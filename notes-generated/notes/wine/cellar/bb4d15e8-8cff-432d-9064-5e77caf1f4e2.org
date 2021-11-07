@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     bb4d15e8-8cff-432d-9064-5e77caf1f4e2
+:END:
+#+TITLE: Nhozxqe Aldl Wviyyzju 1978
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Wviyyzju
+- vintage :: 1978
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.73
+- sugar :: 22.97
+- price :: 102.58 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

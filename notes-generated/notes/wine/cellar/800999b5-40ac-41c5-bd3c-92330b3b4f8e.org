@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     800999b5-40ac-41c5-bd3c-92330b3b4f8e
+:END:
+#+TITLE: Qay Qewrugs 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Qewrugs
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.75
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.0
+- ratings :: [[id:c2eec9fc-e6c5-42ad-97d8-f7434b286c90][Qay Qewrugs NV - 1998-3-25]]
+
+

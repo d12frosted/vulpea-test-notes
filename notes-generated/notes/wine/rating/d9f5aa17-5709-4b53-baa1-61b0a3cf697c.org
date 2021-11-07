@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d9f5aa17-5709-4b53-baa1-61b0a3cf697c
+:END:
+#+TITLE: Yokf Gwhwycw Vnljffqt Anjb NV - 1990-12-18
+
+- wine :: [[id:cb9be069-fe59-4d86-a84f-cbb7df974d89][Yokf Gwhwycw Vnljffqt Anjb]]
+- date :: 1990-12-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

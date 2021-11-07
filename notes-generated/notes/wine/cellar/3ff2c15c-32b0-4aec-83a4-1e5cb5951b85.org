@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3ff2c15c-32b0-4aec-83a4-1e5cb5951b85
+:END:
+#+TITLE: Cowhhax Upmqcgn Orbyxg 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Orbyxg
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 9.49
+- sugar :: 20.06
+- price :: 26.07 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.5
+- ratings :: [[id:5c0a298d-c398-4e8a-bdf5-dc4e797d6cce][Cowhhax Upmqcgn Orbyxg NV - 1992-7-11]]
+
+

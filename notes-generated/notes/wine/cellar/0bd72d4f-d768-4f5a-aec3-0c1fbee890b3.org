@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0bd72d4f-d768-4f5a-aec3-0c1fbee890b3
+:END:
+#+TITLE: Scf Elpezclx Beiv Uuhsspl 1939
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Beiv Uuhsspl
+- vintage :: 1939
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.129999999999999
+- price :: 31.73 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

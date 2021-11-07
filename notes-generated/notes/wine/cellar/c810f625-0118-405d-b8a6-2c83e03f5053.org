@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c810f625-0118-405d-b8a6-2c83e03f5053
+:END:
+#+TITLE: Cowhhax Upmqcgn Kfzjs Oqqxjpf 1924
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Kfzjs Oqqxjpf
+- vintage :: 1924
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 13.5
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

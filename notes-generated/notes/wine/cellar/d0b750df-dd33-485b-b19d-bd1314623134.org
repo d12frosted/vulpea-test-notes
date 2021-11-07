@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d0b750df-dd33-485b-b19d-bd1314623134
+:END:
+#+TITLE: Giih Udr Idqfbc Jczeuu 1907
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Idqfbc Jczeuu
+- vintage :: 1907
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.09
+- sugar :: 8.24
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA
+
+

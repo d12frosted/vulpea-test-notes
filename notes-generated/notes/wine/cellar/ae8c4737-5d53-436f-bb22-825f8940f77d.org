@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ae8c4737-5d53-436f-bb22-825f8940f77d
+:END:
+#+TITLE: Nhozxqe Aldl Eqovjwg Vlwuasr 1993
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Eqovjwg Vlwuasr
+- vintage :: 1993
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 12.92
+- price :: 36.73 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:5e7d2a2f-63e1-4c90-8907-48c3f3930eda][Nhozxqe Aldl Eqovjwg Vlwuasr 1993 - 2010-8-24]]
+
+

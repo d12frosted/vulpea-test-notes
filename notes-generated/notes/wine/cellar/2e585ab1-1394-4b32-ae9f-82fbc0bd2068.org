@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     2e585ab1-1394-4b32-ae9f-82fbc0bd2068
+:END:
+#+TITLE: Yjfq Wdf 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Wdf
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.35
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:20d5ce14-1cef-4700-87bc-6780023288c1][Yjfq Wdf NV - 2010-11-21]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2437d7ed-d71c-4762-b797-6103da366495
+:END:
+#+TITLE: Ecxknc Iepvhans Ndmg Vnynh 1969
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ndmg Vnynh
+- vintage :: 1969
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.8
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:ab11db6c-c97f-4618-98c5-8f05ac9c5efa][Ecxknc Iepvhans Ndmg Vnynh 1969 - 2022-1-14]]
+
+

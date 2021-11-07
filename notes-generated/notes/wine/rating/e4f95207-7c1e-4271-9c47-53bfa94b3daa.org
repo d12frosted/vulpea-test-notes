@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e4f95207-7c1e-4271-9c47-53bfa94b3daa
+:END:
+#+TITLE: Scf Elpezclx Wgrkym Rgsh 1928 - 2019-12-7
+
+- wine :: [[id:ec69a834-c3c6-4260-bef9-197ae79e436d][Scf Elpezclx Wgrkym Rgsh 1928]]
+- date :: 2019-12-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

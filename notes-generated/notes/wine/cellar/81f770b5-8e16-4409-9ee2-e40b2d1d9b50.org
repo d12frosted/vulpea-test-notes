@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     81f770b5-8e16-4409-9ee2-e40b2d1d9b50
+:END:
+#+TITLE: Yokf Gwhwycw Zoi Rnhwycac 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Zoi Rnhwycac
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.870000000000001
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:5cddc332-0ae8-436a-92cf-3c915d7d31c0][Yokf Gwhwycw Zoi Rnhwycac NV - 2003-3-26]]
+
+

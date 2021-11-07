@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     c57c5537-9400-4cba-8ad0-aa8baf725f4c
+:END:
+#+TITLE: Jjkswvm Rcm Zfy Etlxar 1983
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zfy Etlxar
+- vintage :: 1983
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 12.69
+- sugar :: 3.15
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

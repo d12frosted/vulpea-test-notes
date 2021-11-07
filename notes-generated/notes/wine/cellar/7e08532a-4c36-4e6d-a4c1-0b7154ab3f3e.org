@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7e08532a-4c36-4e6d-a4c1-0b7154ab3f3e
+:END:
+#+TITLE: Qay Zdlguer 1960
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Zdlguer
+- vintage :: 1960
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 13.54
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 8.5
+- ratings :: [[id:eca9bd6d-22f2-4aa4-9b17-ba74157b0150][Qay Zdlguer 1960 - 1990-5-8]]
+
+

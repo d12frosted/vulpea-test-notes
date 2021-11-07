@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     703211a8-6b78-4cf5-9cfb-3d4b77ddd0d1
+:END:
+#+TITLE: Giih Udr Ruwgd NV - 2015-7-8
+
+- wine :: [[id:10856e55-4fdf-49f3-9bb0-3c9c1a1feb03][Giih Udr Ruwgd]]
+- date :: 2015-7-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

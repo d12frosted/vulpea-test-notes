@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3a979eda-d652-4e15-8e4b-bc410da8c8e1
+:END:
+#+TITLE: Lrwk Jbaxrmn Sfveete 1947
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Sfveete
+- vintage :: 1947
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.52
+- price :: 12.70 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:27d340ad-57ba-4ef2-9c05-dc6af9c2f0dd][Lrwk Jbaxrmn Sfveete 1947 - 2008-11-10]]
+
+

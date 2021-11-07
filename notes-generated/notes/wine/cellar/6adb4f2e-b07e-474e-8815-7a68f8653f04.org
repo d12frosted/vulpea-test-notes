@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6adb4f2e-b07e-474e-8815-7a68f8653f04
+:END:
+#+TITLE: Jjkswvm Rcm Vemlkm Nlogt 1924
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Vemlkm Nlogt
+- vintage :: 1924
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 10.22
+- sugar :: 12.77
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA
+
+

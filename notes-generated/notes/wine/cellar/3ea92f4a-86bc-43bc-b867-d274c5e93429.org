@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     3ea92f4a-86bc-43bc-b867-d274c5e93429
+:END:
+#+TITLE: Giih Udr Iszmlxu 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Iszmlxu
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 9.82
+- price :: 27.19 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

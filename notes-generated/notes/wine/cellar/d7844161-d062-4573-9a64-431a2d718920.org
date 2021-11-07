@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d7844161-d062-4573-9a64-431a2d718920
+:END:
+#+TITLE: Ecxknc Iepvhans Czy 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Czy
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.08
+- price :: 27.87 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:d8834d1b-3ebc-4fba-9570-869ccad9d557][Ecxknc Iepvhans Czy NV - 1999-7-9]]
+
+

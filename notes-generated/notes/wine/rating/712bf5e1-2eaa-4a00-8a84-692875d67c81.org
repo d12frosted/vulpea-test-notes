@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     712bf5e1-2eaa-4a00-8a84-692875d67c81
+:END:
+#+TITLE: Qay Nhj 1945 - 1999-5-3
+
+- wine :: [[id:87b762e4-f677-4072-b09d-8e489facedc2][Qay Nhj 1945]]
+- date :: 1999-5-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

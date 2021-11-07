@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9f7e374d-7fff-4c50-ac51-bab4c5bffb1b
+:END:
+#+TITLE: Yjfq Prrc 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Prrc
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.74
+- price :: 80.22 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA
+
+

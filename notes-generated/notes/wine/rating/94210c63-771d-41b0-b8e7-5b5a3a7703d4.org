@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     94210c63-771d-41b0-b8e7-5b5a3a7703d4
+:END:
+#+TITLE: Giih Udr Xvxio NV - 2000-2-18
+
+- wine :: [[id:add1c6a6-0f59-4f88-9b84-7495fc234820][Giih Udr Xvxio]]
+- date :: 2000-2-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

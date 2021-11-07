@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a7b6b0e1-674c-4873-a1a8-f27918432516
+:END:
+#+TITLE: Nhozxqe Aldl Qmsy Hgunr 1950
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Qmsy Hgunr
+- vintage :: 1950
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 9.05
+- sugar :: 4.05
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

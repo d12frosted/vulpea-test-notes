@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bd43fed9-44a2-4ca6-91ae-f2c67dc4db2f
+:END:
+#+TITLE: Scf Elpezclx Xwfpfh Trnrjx 1904 - 2012-1-2
+
+- wine :: [[id:33366433-72f7-490e-8899-777a49a0bf26][Scf Elpezclx Xwfpfh Trnrjx 1904]]
+- date :: 2012-1-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     26a83979-2380-47d6-9011-c67965a39506
+:END:
+#+TITLE: Qay Yxrr 1973
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Yxrr
+- vintage :: 1973
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 13.45
+- sugar :: 23.73
+- price :: 16.41 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 1.0
+- ratings :: [[id:39bd7d0a-8d58-428a-a220-c41d381dd956][Qay Yxrr 1973 - 2012-2-17]]
+
+

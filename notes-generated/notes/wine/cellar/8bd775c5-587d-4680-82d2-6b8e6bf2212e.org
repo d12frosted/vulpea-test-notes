@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8bd775c5-587d-4680-82d2-6b8e6bf2212e
+:END:
+#+TITLE: Yjfq Pns Tti 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Pns Tti
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 9.86
+- price :: 77.14 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:2f76f5a4-3b90-4598-8c02-b048cb1440ae][Yjfq Pns Tti NV - 2005-10-16]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1d308f68-7f1e-4786-b531-14b74c29519c
+:END:
+#+TITLE: Ecxknc Iepvhans Qjvsvgqd 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Qjvsvgqd
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.86
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:1e881779-c391-46d1-8353-1921e56d98cb][Ecxknc Iepvhans Qjvsvgqd NV - 2007-3-18]]
+
+

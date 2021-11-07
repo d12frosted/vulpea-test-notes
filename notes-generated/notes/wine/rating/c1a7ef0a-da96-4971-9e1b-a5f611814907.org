@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c1a7ef0a-da96-4971-9e1b-a5f611814907
+:END:
+#+TITLE: Scf Elpezclx Qcdphkoj 1946 - 1999-3-17
+
+- wine :: [[id:147d76b6-c74c-4dce-b93a-f1e753a51595][Scf Elpezclx Qcdphkoj 1946]]
+- date :: 1999-3-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f63ace48-8139-445f-bca3-354528b842e7
+:END:
+#+TITLE: Yjfq Qxhi Hudwx 1979 - 1996-3-18
+
+- wine :: [[id:d8453fd2-1f5b-41cc-ab26-f0fe5ff8c3da][Yjfq Qxhi Hudwx 1979]]
+- date :: 1996-3-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

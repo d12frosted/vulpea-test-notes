@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     52241d2d-7793-40a8-b1ca-ee757cdf4fa5
+:END:
+#+TITLE: Qay Sqbrjs 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Sqbrjs
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.74
+- sugar :: 6.57
+- price :: 45.56 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:38eff878-f21a-4641-baa0-ac0810e80e7f][Qay Sqbrjs NV - 1996-6-15]]
+
+

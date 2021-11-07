@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     13f6f277-2da0-4aff-b563-e670bb2c5727
+:END:
+#+TITLE: Cowhhax Upmqcgn Ygunrhu Gkwkoiy 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ygunrhu Gkwkoiy
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 9.18
+- sugar :: 20.86
+- price :: 16.03 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: wikipedia
+- rating :: NA
+
+

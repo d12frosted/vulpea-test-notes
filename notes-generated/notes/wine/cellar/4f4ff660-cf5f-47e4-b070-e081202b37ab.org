@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4f4ff660-cf5f-47e4-b070-e081202b37ab
+:END:
+#+TITLE: Yjfq Fbk 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Fbk
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.39
+- price :: 19.11 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: duckduckgo
+- rating :: 3.0
+- ratings :: [[id:46de1903-522b-419a-bf0b-445c7d54e436][Yjfq Fbk NV - 2024-11-12]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     284910e3-5765-49ae-86ec-0c45dd8f9378
+:END:
+#+TITLE: Jjkswvm Rcm Rcva Msk 1963
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Rcva Msk
+- vintage :: 1963
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.1
+- sugar :: 8.96
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 8.0
+- ratings :: [[id:a43e1fd4-fa42-4a84-be9b-0c33f7f65c0d][Jjkswvm Rcm Rcva Msk 1963 - 2018-7-9]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     618613b4-58ec-4e67-b00a-c899aa50a4fd
+:END:
+#+TITLE: Qay Gnf Tfjz 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Gnf Tfjz
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 10.2
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA
+
+

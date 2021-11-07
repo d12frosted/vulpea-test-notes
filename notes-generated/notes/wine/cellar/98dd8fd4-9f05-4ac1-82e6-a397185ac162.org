@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     98dd8fd4-9f05-4ac1-82e6-a397185ac162
+:END:
+#+TITLE: Yjfq Bgxgaf 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Bgxgaf
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.77
+- sugar :: 9.23
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 1.5
+- ratings :: [[id:d86ede13-df0c-45b2-832b-f8ac427145c0][Yjfq Bgxgaf NV - 2011-4-14]]
+
+

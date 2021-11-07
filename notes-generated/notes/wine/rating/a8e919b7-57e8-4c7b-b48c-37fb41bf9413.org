@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a8e919b7-57e8-4c7b-b48c-37fb41bf9413
+:END:
+#+TITLE: Nhozxqe Aldl Mdi Gotfr NV - 2009-7-17
+
+- wine :: [[id:74e893a2-5c21-41a1-91b2-e34572db2dca][Nhozxqe Aldl Mdi Gotfr]]
+- date :: 2009-7-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

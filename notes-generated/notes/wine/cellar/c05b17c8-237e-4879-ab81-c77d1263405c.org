@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     c05b17c8-237e-4879-ab81-c77d1263405c
+:END:
+#+TITLE: Yokf Gwhwycw Orb 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Orb
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 12.0
+- sugar :: 21.7
+- price :: 84.20 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA
+
+

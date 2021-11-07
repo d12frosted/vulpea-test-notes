@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     cc72d415-702d-4430-862f-65e368085c8c
+:END:
+#+TITLE: Ecxknc Iepvhans Xiezr Erlljdnl 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Xiezr Erlljdnl
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.95
+- sugar :: 11.67
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA
+
+

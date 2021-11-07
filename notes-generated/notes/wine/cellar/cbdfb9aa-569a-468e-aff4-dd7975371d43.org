@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     cbdfb9aa-569a-468e-aff4-dd7975371d43
+:END:
+#+TITLE: Yjfq Izte Mkfrvw 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Izte Mkfrvw
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 13.26
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

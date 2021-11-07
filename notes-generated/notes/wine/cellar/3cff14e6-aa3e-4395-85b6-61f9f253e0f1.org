@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3cff14e6-aa3e-4395-85b6-61f9f253e0f1
+:END:
+#+TITLE: Nhozxqe Aldl Dtvfohp Qrzxxlnu 1933
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Dtvfohp Qrzxxlnu
+- vintage :: 1933
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 12.83
+- sugar :: 10.02
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA
+
+

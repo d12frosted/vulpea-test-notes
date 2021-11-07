@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fdb188ea-9e1e-48d4-81ab-f66ee54efe72
+:END:
+#+TITLE: Scf Elpezclx Poc 1915 - 2022-6-12
+
+- wine :: [[id:87f9fee0-a7c6-44b6-a5de-8b07b840e98c][Scf Elpezclx Poc 1915]]
+- date :: 2022-6-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

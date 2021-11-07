@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8a59f06b-0512-403e-890b-5e2f78d15867
+:END:
+#+TITLE: Cowhhax Upmqcgn Mvsb Vppzw 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Mvsb Vppzw
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.4
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:c50f734d-0a7c-4ae7-8ea4-73fd1c79714a][Cowhhax Upmqcgn Mvsb Vppzw NV - 1998-9-27]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f94e2598-5c51-41ec-aaf1-92628e7b3dbb
+:END:
+#+TITLE: Scf Elpezclx Mhrnk Hgibn 2009 - 2019-10-22
+
+- wine :: [[id:468c797a-57b7-4e44-9466-c4d9146a4a20][Scf Elpezclx Mhrnk Hgibn 2009]]
+- date :: 2019-10-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

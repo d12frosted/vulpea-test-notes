@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4a18ad3c-5abc-4182-b4ad-aae3947a9904
+:END:
+#+TITLE: Qay Cfd 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Cfd
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 9.31
+- sugar :: 7.58
+- price :: 22.40 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:a771ce52-d1cc-41d6-a470-ffe0225550ca][Qay Cfd NV - 1992-12-3]]
+
+

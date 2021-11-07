@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     484c6fae-b12b-41e2-b2a7-699ef860aa08
+:END:
+#+TITLE: Yokf Gwhwycw Kkdm Xxsubi 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Kkdm Xxsubi
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.27
+- sugar :: 7.56
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 8.0
+- ratings :: [[id:005173e5-e9e1-4b3f-96c9-6457bb059d57][Yokf Gwhwycw Kkdm Xxsubi NV - 1998-6-20]]
+
+

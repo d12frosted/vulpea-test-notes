@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b8e14fb7-3f57-4639-8f71-352b45d78333
+:END:
+#+TITLE: Nhozxqe Aldl Ttancu Wkfohfz 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ttancu Wkfohfz
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.71
+- sugar :: 5.45
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:c2ba0e90-f94c-4862-801a-7b8a92adbf74][Nhozxqe Aldl Ttancu Wkfohfz NV - 2003-5-22]]
+
+

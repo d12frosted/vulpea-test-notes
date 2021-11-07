@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     564a8f73-9b34-469d-94d2-aa43b8c1e3fa
+:END:
+#+TITLE: Lrwk Jbaxrmn Hcl Pktkr NV - 2016-5-25
+
+- wine :: [[id:b250bd85-8293-4302-942b-ccfb735e9208][Lrwk Jbaxrmn Hcl Pktkr]]
+- date :: 2016-5-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

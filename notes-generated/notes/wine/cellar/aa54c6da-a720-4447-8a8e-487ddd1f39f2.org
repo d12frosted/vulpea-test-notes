@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     aa54c6da-a720-4447-8a8e-487ddd1f39f2
+:END:
+#+TITLE: Cowhhax Upmqcgn Wtmpk Wobox 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Wtmpk Wobox
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.02
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:11b6d737-8d49-4334-b0fe-5a8c9540ac95][Cowhhax Upmqcgn Wtmpk Wobox NV - 2000-2-1]]
+
+

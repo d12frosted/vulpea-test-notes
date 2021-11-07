@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ab81fd64-6482-4dde-bb80-24ab68d4181d
+:END:
+#+TITLE: Giih Udr Hgptpyl 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Hgptpyl
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 10.94
+- price :: 27.62 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:65de8d36-b05f-4875-9a79-45cdcfbaa72b][Giih Udr Hgptpyl NV - 1993-1-20]]
+
+

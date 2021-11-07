@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a47ed574-1161-4826-8037-47e4102f8455
+:END:
+#+TITLE: Yokf Gwhwycw Dyjcp 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Dyjcp
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 9.85
+- price :: 23.71 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: wikipedia
+- rating :: 8.5
+- ratings :: [[id:cbcf254a-db33-4276-9f71-b272782ce4b9][Yokf Gwhwycw Dyjcp NV - 2012-4-22]]
+
+

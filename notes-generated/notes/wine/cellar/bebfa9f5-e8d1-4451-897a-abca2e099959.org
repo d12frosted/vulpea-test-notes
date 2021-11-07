@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     bebfa9f5-e8d1-4451-897a-abca2e099959
+:END:
+#+TITLE: Giih Udr Ctda 1973
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ctda
+- vintage :: 1973
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.01
+- price :: 14.68 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:188df071-a890-44cc-999f-663955f7f5e5][Giih Udr Ctda 1973 - 1998-11-18]]
+
+

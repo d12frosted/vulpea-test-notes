@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8b3b93c7-ceeb-46c5-9d5c-75ad92c2f106
+:END:
+#+TITLE: Qay Cyqgy Ektj 1956 - 2019-7-23
+
+- wine :: [[id:9837bcc4-84a6-44c9-bc52-5b95ee7ec4c4][Qay Cyqgy Ektj 1956]]
+- date :: 2019-7-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     82783c3b-7e24-4803-8325-7b9aa14808f4
+:END:
+#+TITLE: Yokf Gwhwycw Puadpbxl Zxogjj 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Puadpbxl Zxogjj
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 13.620000000000001
+- sugar :: 20.95
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:677ee3f8-ef14-4f63-b320-15d9ae63da0d][Yokf Gwhwycw Puadpbxl Zxogjj NV - 2012-4-12]]
+
+

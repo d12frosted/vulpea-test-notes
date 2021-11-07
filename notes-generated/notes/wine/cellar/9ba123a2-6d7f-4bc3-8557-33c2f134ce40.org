@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9ba123a2-6d7f-4bc3-8557-33c2f134ce40
+:END:
+#+TITLE: Qay Wkx Hiv 2006
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Wkx Hiv
+- vintage :: 2006
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 10.24
+- sugar :: 14.12
+- price :: 48.65 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA
+
+

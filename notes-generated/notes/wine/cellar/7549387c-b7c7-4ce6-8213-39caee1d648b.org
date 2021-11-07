@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     7549387c-b7c7-4ce6-8213-39caee1d648b
+:END:
+#+TITLE: Giih Udr Rwaf Llerizkr 1949
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Rwaf Llerizkr
+- vintage :: 1949
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.85
+- sugar :: 17.12
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.0
+- ratings :: [[id:eaa66611-165f-4980-abab-496b913567bf][Giih Udr Rwaf Llerizkr 1949 - 2023-8-25]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4b147524-e9c0-45af-a3dc-bfc5f337832f
+:END:
+#+TITLE: Nhozxqe Aldl Vxgvq Skltqrf 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Vxgvq Skltqrf
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 9.48
+- price :: 37.96 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: duckduckgo
+- rating :: 8.5
+- ratings :: [[id:e877a6f0-e9bc-45df-ab47-c1045fef77e8][Nhozxqe Aldl Vxgvq Skltqrf NV - 1996-2-9]]
+
+

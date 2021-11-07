@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4efb9315-226a-46d6-a9ea-ff67394e9851
+:END:
+#+TITLE: Yokf Gwhwycw Loqqls Catv NV - 2024-7-21
+
+- wine :: [[id:7f68a2d8-4826-4a38-a11b-ab634c8ba5c2][Yokf Gwhwycw Loqqls Catv]]
+- date :: 2024-7-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

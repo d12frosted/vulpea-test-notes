@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     bacee531-40ea-4929-894d-f2e624310eb1
+:END:
+#+TITLE: Ecxknc Iepvhans Qzmznsj Kxthsw 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Qzmznsj Kxthsw
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 13.83
+- sugar :: 1.5
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d2abb434-c66f-4a4e-8bfa-a3d9324f1222
+:END:
+#+TITLE: Nhozxqe Aldl Ojsjupy Dmt 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ojsjupy Dmt
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.81
+- sugar :: 0.76
+- price :: 86.82 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

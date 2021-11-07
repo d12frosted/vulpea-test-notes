@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d1b9a791-650c-407f-879a-5b9b4d134f02
+:END:
+#+TITLE: Yokf Gwhwycw Bvac 1903 - 2002-9-16
+
+- wine :: [[id:2c7456e3-971a-46f8-98e8-e069b8dd7e01][Yokf Gwhwycw Bvac 1903]]
+- date :: 2002-9-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

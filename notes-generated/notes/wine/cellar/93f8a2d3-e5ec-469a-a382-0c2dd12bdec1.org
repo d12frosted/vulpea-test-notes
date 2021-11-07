@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     93f8a2d3-e5ec-469a-a382-0c2dd12bdec1
+:END:
+#+TITLE: Yjfq Njobb Wwrthy 1979
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Njobb Wwrthy
+- vintage :: 1979
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 9.25
+- sugar :: 6.79
+- price :: 64.60 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 1.5
+- ratings :: [[id:a49296d6-2805-41cd-9846-1a7be2ca4f19][Yjfq Njobb Wwrthy 1979 - 2024-8-9]]
+
+

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     3291cfbf-c81b-403c-95bb-73f17b7fdd36
+:END:
+#+TITLE: Yjfq Herb Wru 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Herb Wru
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.54
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA
+
+

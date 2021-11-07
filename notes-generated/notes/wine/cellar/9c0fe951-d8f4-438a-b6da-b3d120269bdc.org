@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9c0fe951-d8f4-438a-b6da-b3d120269bdc
+:END:
+#+TITLE: Lrwk Jbaxrmn Hgxyrpr Ovkppvmw 2008
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Hgxyrpr Ovkppvmw
+- vintage :: 2008
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 13.75
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.5
+- ratings :: [[id:d7643e5c-9f48-451b-9e95-6130fdd788f9][Lrwk Jbaxrmn Hgxyrpr Ovkppvmw 2008 - 2022-8-3]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c4ecbb93-6d12-4cd1-8c4f-c251ed5450c8
+:END:
+#+TITLE: Yjfq Uzvf Iyazzr 1909
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Uzvf Iyazzr
+- vintage :: 1909
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 10.16
+- sugar :: 15.44
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

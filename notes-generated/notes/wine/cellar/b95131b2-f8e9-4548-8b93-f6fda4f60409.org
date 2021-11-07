@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b95131b2-f8e9-4548-8b93-f6fda4f60409
+:END:
+#+TITLE: Yjfq Xsq 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Xsq
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 10.129999999999999
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 3.5
+- ratings :: [[id:6a076412-379f-4a3b-82b6-02403c9a1a11][Yjfq Xsq NV - 2007-7-19]]
+
+

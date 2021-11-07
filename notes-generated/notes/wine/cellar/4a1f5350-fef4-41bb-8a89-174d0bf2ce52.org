@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4a1f5350-fef4-41bb-8a89-174d0bf2ce52
+:END:
+#+TITLE: Jjkswvm Rcm Dwlzb Roklddd 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Dwlzb Roklddd
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.25
+- sugar :: 11.24
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

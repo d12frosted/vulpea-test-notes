@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f8b1e8cb-c7c1-4432-9738-22d66e93425e
+:END:
+#+TITLE: Qay Hsinon 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Hsinon
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 9.37
+- sugar :: 17.0
+- price :: 102.79 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:ad42b0be-9018-4fc7-aaea-391e464b149a][Qay Hsinon NV - 2013-3-7]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d3e5953b-8621-4af6-a50f-54b7e2e831da
+:END:
+#+TITLE: Giih Udr Uqjdiwe 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Uqjdiwe
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.49
+- sugar :: 20.85
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:0960ec5a-3d28-46f3-a3ec-a5c48cad0626][Giih Udr Uqjdiwe NV - 2007-4-19]]
+
+

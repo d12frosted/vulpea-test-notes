@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     96f3e7fb-7933-4463-b180-386f276be0bd
+:END:
+#+TITLE: Lrwk Jbaxrmn Eoaocm Gmfy 2005
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Eoaocm Gmfy
+- vintage :: 2005
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 11.11
+- sugar :: 12.37
+- price :: 71.82 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.5
+- ratings :: [[id:dc38ca05-bf96-4c0a-8782-23fa05675b3a][Lrwk Jbaxrmn Eoaocm Gmfy 2005 - 2001-8-11]]
+
+

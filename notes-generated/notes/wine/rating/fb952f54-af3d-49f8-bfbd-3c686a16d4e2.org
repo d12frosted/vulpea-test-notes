@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fb952f54-af3d-49f8-bfbd-3c686a16d4e2
+:END:
+#+TITLE: Yokf Gwhwycw Rvmzf Jjfy 1991 - 2008-11-24
+
+- wine :: [[id:3cea5429-a41c-497c-8813-250658a4d57e][Yokf Gwhwycw Rvmzf Jjfy 1991]]
+- date :: 2008-11-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

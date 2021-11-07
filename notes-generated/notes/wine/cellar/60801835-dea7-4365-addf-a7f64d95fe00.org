@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     60801835-dea7-4365-addf-a7f64d95fe00
+:END:
+#+TITLE: Cowhhax Upmqcgn Oxbns 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Oxbns
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 10.39
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:fc1edb27-4554-4bd0-809b-66599e3c266f][Cowhhax Upmqcgn Oxbns NV - 1996-12-11]]
+
+

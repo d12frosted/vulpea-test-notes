@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     8eb35e25-b84c-423c-acff-9029420c3d44
+:END:
+#+TITLE: Lrwk Jbaxrmn Uvnlw 1927
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Uvnlw
+- vintage :: 1927
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.04
+- price :: 60.31 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     c2b0cc74-10bb-4a2c-b07b-3c0ab75919d5
+:END:
+#+TITLE: Jjkswvm Rcm Swlknlg 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Swlknlg
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 12.32
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

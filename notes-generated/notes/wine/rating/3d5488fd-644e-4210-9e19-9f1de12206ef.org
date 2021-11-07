@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3d5488fd-644e-4210-9e19-9f1de12206ef
+:END:
+#+TITLE: Cowhhax Upmqcgn Vdlm 1997 - 2024-8-18
+
+- wine :: [[id:68053eb3-234d-4c8d-9822-f98d83dac010][Cowhhax Upmqcgn Vdlm 1997]]
+- date :: 2024-8-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

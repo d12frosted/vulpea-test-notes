@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b9f863b3-17a5-48fe-978d-b279c734b88b
+:END:
+#+TITLE: Yokf Gwhwycw Tuyradng Mtr 1963 - 2023-3-20
+
+- wine :: [[id:ae8ac387-ee0a-4a93-8b52-1668e57f7385][Yokf Gwhwycw Tuyradng Mtr 1963]]
+- date :: 2023-3-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

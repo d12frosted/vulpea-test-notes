@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     aafed6ca-86ca-488b-8b97-72f27d83b0ad
+:END:
+#+TITLE: Ecxknc Iepvhans Yxroid Rijxw NV - 1999-4-4
+
+- wine :: [[id:9032e256-b991-4a11-849f-4b19ca653075][Ecxknc Iepvhans Yxroid Rijxw]]
+- date :: 1999-4-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

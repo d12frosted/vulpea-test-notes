@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c2f63352-a555-497e-b8a6-f5bbaeead8a1
+:END:
+#+TITLE: Yokf Gwhwycw Jpkxdg 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Jpkxdg
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.55
+- sugar :: 22.96
+- price :: 28.09 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.5
+- ratings :: [[id:da822370-bd62-4a9a-99a6-12ad32c27f93][Yokf Gwhwycw Jpkxdg NV - 2002-6-1]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     45eb1591-24fc-493e-bf36-512e93345b50
+:END:
+#+TITLE: Lrwk Jbaxrmn Vddnia NV - 2008-6-24
+
+- wine :: [[id:f99b87f3-6a5e-4273-8f25-cd500907d157][Lrwk Jbaxrmn Vddnia]]
+- date :: 2008-6-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     aaae41ae-2c39-4b94-8a50-82be64b78935
+:END:
+#+TITLE: Nhozxqe Aldl Lama Nxwhsls NV - 2017-5-3
+
+- wine :: [[id:4e99434b-d555-4761-972e-69f05407b474][Nhozxqe Aldl Lama Nxwhsls]]
+- date :: 2017-5-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

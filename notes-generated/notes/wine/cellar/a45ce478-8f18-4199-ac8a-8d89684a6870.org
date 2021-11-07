@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a45ce478-8f18-4199-ac8a-8d89684a6870
+:END:
+#+TITLE: Yokf Gwhwycw Ydptkh Wdnzuyiv 1926
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ydptkh Wdnzuyiv
+- vintage :: 1926
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 11.46
+- sugar :: 2.27
+- price :: 43.67 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

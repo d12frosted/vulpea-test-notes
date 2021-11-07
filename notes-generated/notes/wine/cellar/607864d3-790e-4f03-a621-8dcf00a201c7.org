@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     607864d3-790e-4f03-a621-8dcf00a201c7
+:END:
+#+TITLE: Yjfq Znmadap 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Znmadap
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 11.55
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA
+
+

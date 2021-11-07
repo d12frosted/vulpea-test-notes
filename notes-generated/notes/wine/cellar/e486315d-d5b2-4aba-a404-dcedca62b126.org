@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e486315d-d5b2-4aba-a404-dcedca62b126
+:END:
+#+TITLE: Giih Udr Dcn 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Dcn
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 12.86
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 7.0
+- ratings :: [[id:c6293f8f-0fc0-4fd8-a7a3-baef1a66fa93][Giih Udr Dcn NV - 2014-12-12]]
+
+

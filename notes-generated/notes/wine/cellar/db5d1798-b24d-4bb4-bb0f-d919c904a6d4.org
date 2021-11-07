@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     db5d1798-b24d-4bb4-bb0f-d919c904a6d4
+:END:
+#+TITLE: Scf Elpezclx Tsrxmusx 1901
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Tsrxmusx
+- vintage :: 1901
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 9.89
+- sugar :: 9.91
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.5
+- ratings :: [[id:1cbf825d-b1ac-459f-a1e8-7a174e2e35bc][Scf Elpezclx Tsrxmusx 1901 - 2012-10-9]]
+
+

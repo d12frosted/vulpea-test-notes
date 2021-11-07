@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     03b188f6-d96e-43c0-a848-ea6df3064520
+:END:
+#+TITLE: Scf Elpezclx Yqmt 1930
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Yqmt
+- vintage :: 1930
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.45
+- price :: 45.02 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:e95be18b-5e97-483b-9273-3f2082f8f594][Scf Elpezclx Yqmt 1930 - 2013-6-1]]
+
+

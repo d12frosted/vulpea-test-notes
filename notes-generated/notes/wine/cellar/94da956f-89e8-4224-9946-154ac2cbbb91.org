@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     94da956f-89e8-4224-9946-154ac2cbbb91
+:END:
+#+TITLE: Nhozxqe Aldl Zhcaod Rdsw 1944
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Zhcaod Rdsw
+- vintage :: 1944
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 9.46
+- sugar :: 18.97
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 6.0
+- ratings :: [[id:76e50825-b895-4bf4-b531-d90fc2cde038][Nhozxqe Aldl Zhcaod Rdsw 1944 - 1999-1-25]]
+
+

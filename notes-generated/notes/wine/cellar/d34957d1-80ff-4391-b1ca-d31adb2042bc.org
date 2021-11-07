@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d34957d1-80ff-4391-b1ca-d31adb2042bc
+:END:
+#+TITLE: Qay Cfcuhhd Vwhtkj 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Cfcuhhd Vwhtkj
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 13.9
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:90616772-a38a-4a7e-9964-a65556789958][Qay Cfcuhhd Vwhtkj NV - 2021-9-15]]
+
+

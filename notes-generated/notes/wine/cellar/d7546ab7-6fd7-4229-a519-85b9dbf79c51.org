@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d7546ab7-6fd7-4229-a519-85b9dbf79c51
+:END:
+#+TITLE: Qay Ukb 1997
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ukb
+- vintage :: 1997
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 11.370000000000001
+- sugar :: 17.95
+- price :: 53.69 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:bb46f653-ba78-4703-bcdc-f32103030b72][Qay Ukb 1997 - 1993-11-7]]
+
+

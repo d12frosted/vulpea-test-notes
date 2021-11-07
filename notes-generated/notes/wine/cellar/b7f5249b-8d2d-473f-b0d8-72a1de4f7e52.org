@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b7f5249b-8d2d-473f-b0d8-72a1de4f7e52
+:END:
+#+TITLE: Lrwk Jbaxrmn Pof Mvqfzf 1956
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Pof Mvqfzf
+- vintage :: 1956
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 9.59
+- price :: 20.95 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:36284426-044f-49ad-a636-ac90f745a3a9][Lrwk Jbaxrmn Pof Mvqfzf 1956 - 2021-12-3]]
+
+

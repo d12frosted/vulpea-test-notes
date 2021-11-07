@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e5d46380-badc-4b25-b3f1-9d86c6690a21
+:END:
+#+TITLE: Lrwk Jbaxrmn Xkqbr 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xkqbr
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 11.83
+- sugar :: 18.06
+- price :: 50.28 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

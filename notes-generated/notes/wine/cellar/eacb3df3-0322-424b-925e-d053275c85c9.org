@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     eacb3df3-0322-424b-925e-d053275c85c9
+:END:
+#+TITLE: Qay Ysnq Nmocnuwp 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ysnq Nmocnuwp
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.16
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

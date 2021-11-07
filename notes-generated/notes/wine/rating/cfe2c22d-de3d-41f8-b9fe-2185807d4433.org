@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cfe2c22d-de3d-41f8-b9fe-2185807d4433
+:END:
+#+TITLE: Scf Elpezclx Augbqt NV - 2017-3-19
+
+- wine :: [[id:33e3630c-7caf-4e21-ab38-9ad12a960cd6][Scf Elpezclx Augbqt]]
+- date :: 2017-3-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

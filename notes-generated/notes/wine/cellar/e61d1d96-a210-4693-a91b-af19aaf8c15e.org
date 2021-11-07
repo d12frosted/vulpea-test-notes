@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e61d1d96-a210-4693-a91b-af19aaf8c15e
+:END:
+#+TITLE: Nhozxqe Aldl Kmisaul Biii 2018
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Kmisaul Biii
+- vintage :: 2018
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.14
+- price :: 17.95 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

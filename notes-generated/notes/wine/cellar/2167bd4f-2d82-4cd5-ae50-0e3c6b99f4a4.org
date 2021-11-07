@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     2167bd4f-2d82-4cd5-ae50-0e3c6b99f4a4
+:END:
+#+TITLE: Yjfq Nnqofqq Snn 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Nnqofqq Snn
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.35
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA
+
+

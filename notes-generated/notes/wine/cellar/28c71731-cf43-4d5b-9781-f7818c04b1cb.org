@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     28c71731-cf43-4d5b-9781-f7818c04b1cb
+:END:
+#+TITLE: Jjkswvm Rcm Gfx 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Gfx
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.46
+- price :: 27.90 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

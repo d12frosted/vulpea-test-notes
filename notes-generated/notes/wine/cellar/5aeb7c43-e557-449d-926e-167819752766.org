@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     5aeb7c43-e557-449d-926e-167819752766
+:END:
+#+TITLE: Scf Elpezclx Ehdvhily Hlwktdd 1915
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ehdvhily Hlwktdd
+- vintage :: 1915
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 9.91
+- price :: 9.51 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

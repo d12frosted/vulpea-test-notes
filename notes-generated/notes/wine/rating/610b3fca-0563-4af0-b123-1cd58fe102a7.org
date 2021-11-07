@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     610b3fca-0563-4af0-b123-1cd58fe102a7
+:END:
+#+TITLE: Yokf Gwhwycw Pdv 1970 - 1996-11-27
+
+- wine :: [[id:8c3e9335-860c-47da-b385-39ce73db1628][Yokf Gwhwycw Pdv 1970]]
+- date :: 1996-11-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

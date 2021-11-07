@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     cd774add-231c-4a6a-b6ac-cb6af50eca7e
+:END:
+#+TITLE: Lrwk Jbaxrmn Kdzkhpa 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Kdzkhpa
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 12.07
+- sugar :: 2.36
+- price :: 86.34 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:21388347-a440-4e23-954a-1e07f1c01fb5][Lrwk Jbaxrmn Kdzkhpa NV - 1990-5-23]]
+
+

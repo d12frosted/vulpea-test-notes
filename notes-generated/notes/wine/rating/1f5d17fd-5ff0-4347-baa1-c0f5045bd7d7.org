@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1f5d17fd-5ff0-4347-baa1-c0f5045bd7d7
+:END:
+#+TITLE: Jjkswvm Rcm Esvqvj NV - 2013-9-17
+
+- wine :: [[id:43e7e968-823d-4e61-a0af-fb2eb3fca367][Jjkswvm Rcm Esvqvj]]
+- date :: 2013-9-17
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

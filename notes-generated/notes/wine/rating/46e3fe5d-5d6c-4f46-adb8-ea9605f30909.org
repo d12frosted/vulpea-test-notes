@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     46e3fe5d-5d6c-4f46-adb8-ea9605f30909
+:END:
+#+TITLE: Scf Elpezclx Arbhw 1974 - 2015-1-13
+
+- wine :: [[id:67931bfa-94ba-4614-8135-a3b71cb3cd7c][Scf Elpezclx Arbhw 1974]]
+- date :: 2015-1-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

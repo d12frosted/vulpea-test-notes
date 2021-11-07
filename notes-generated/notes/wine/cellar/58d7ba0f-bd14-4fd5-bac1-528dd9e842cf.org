@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     58d7ba0f-bd14-4fd5-bac1-528dd9e842cf
+:END:
+#+TITLE: Yokf Gwhwycw Skkp 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Skkp
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 12.01
+- sugar :: 23.88
+- price :: 86.26 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.5
+- ratings :: [[id:f5f752c3-7ea2-4048-b245-751c403e7d65][Yokf Gwhwycw Skkp NV - 2006-4-19]]
+
+

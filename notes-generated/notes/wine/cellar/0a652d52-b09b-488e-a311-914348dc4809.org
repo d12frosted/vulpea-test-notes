@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     0a652d52-b09b-488e-a311-914348dc4809
+:END:
+#+TITLE: Giih Udr Yptgmgs Kviyma 1927
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Yptgmgs Kviyma
+- vintage :: 1927
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 13.93
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:a1b6876c-cc30-4f4b-851c-3a92b94abd42][Giih Udr Yptgmgs Kviyma 1927 - 1993-9-14]]
+
+

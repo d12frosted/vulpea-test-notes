@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     faf36cf0-ff69-435a-888f-51f93675031e
+:END:
+#+TITLE: Yjfq Ulftpf 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ulftpf
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 9.98
+- sugar :: 5.53
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

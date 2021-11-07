@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     17d13c14-2684-4fe3-a583-b9c1eff51609
+:END:
+#+TITLE: Scf Elpezclx Sxoo 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Sxoo
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 11.1
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:50dc6aa9-49ad-4762-94db-f0c9ff919800][Scf Elpezclx Sxoo NV - 2009-2-8]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     92b87deb-d935-483a-91eb-ce4435dc0996
+:END:
+#+TITLE: Yokf Gwhwycw Hmxhuyuo NV - 2008-11-22
+
+- wine :: [[id:cc568606-8253-4131-a6ac-19f01e4632dc][Yokf Gwhwycw Hmxhuyuo]]
+- date :: 2008-11-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

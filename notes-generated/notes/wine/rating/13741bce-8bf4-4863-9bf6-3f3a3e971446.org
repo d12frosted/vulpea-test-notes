@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     13741bce-8bf4-4863-9bf6-3f3a3e971446
+:END:
+#+TITLE: Yokf Gwhwycw Mng Hhzv 1964 - 1990-11-16
+
+- wine :: [[id:735ef09a-5d3a-4dc1-813d-bb16ed60c98c][Yokf Gwhwycw Mng Hhzv 1964]]
+- date :: 1990-11-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

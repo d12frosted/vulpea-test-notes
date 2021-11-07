@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3ddc268c-28c8-4c2a-91e9-d01961eb1b88
+:END:
+#+TITLE: Lrwk Jbaxrmn Kcwqwq Oqlpqb 1926 - 2002-8-26
+
+- wine :: [[id:7d57162d-9883-4875-8fcf-d0ec2369b1f8][Lrwk Jbaxrmn Kcwqwq Oqlpqb 1926]]
+- date :: 2002-8-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b29b636a-68d5-4c32-a93e-2a37778db569
+:END:
+#+TITLE: Yokf Gwhwycw Msmehefd Pyuvmu 1975
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Msmehefd Pyuvmu
+- vintage :: 1975
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.01
+- price :: 74.88 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:94e7a053-391c-4082-b0f1-599dbf92b4a5][Yokf Gwhwycw Msmehefd Pyuvmu 1975 - 1992-4-11]]
+
+

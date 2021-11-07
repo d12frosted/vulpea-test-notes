@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3149e819-46f6-449e-b352-ed2b6cf3cbfe
+:END:
+#+TITLE: Nhozxqe Aldl Wfuksk Udbj 1936
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Wfuksk Udbj
+- vintage :: 1936
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.88
+- price :: 14.47 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 4.5
+- ratings :: [[id:79861621-f9fb-4be6-9e43-ba3539e71ca8][Nhozxqe Aldl Wfuksk Udbj 1936 - 2014-5-27]]
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     3d335bd0-672f-4977-b9f0-925def73c28d
+:END:
+#+TITLE: Qay Iqc Dibvo 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Iqc Dibvo
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 12.45
+- sugar :: 9.81
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA
+
+

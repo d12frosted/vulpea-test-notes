@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1b59802b-f233-4fae-96ae-9a66ac5a9b08
+:END:
+#+TITLE: Nhozxqe Aldl Xcqk 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xcqk
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.82
+- price :: 63.65 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: wikipedia
+- rating :: 3.0
+- ratings :: [[id:11f50095-a067-4828-a5ec-444921bf9a24][Nhozxqe Aldl Xcqk NV - 2012-12-14]]
+
+

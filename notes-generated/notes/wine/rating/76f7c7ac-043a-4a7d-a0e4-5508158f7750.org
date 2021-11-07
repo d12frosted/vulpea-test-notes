@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     76f7c7ac-043a-4a7d-a0e4-5508158f7750
+:END:
+#+TITLE: Qay Xyoqky NV - 2008-11-3
+
+- wine :: [[id:96dc437f-245f-4b28-936c-4aa8a7786486][Qay Xyoqky]]
+- date :: 2008-11-3
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     efb17aac-92f2-48f6-ae0e-1f5c4715eedd
+:END:
+#+TITLE: Lrwk Jbaxrmn Evjbwcc 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Evjbwcc
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.54
+- sugar :: 4.07
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:e80b5dad-e20a-4ab3-b5a0-5169a0c49a09][Lrwk Jbaxrmn Evjbwcc NV - 2023-5-4]]
+
+

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     373c308f-4150-45c6-ac1b-2372e478c731
+:END:
+#+TITLE: Yokf Gwhwycw Sdw 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Sdw
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 13.92
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA
+
+

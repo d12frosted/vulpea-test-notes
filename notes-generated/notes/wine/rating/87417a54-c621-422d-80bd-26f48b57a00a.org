@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     87417a54-c621-422d-80bd-26f48b57a00a
+:END:
+#+TITLE: Lrwk Jbaxrmn Vqcelpe Zxpottg 1926 - 2011-8-3
+
+- wine :: [[id:404184ff-bbe3-4df7-98dc-a8d9b373a86f][Lrwk Jbaxrmn Vqcelpe Zxpottg 1926]]
+- date :: 2011-8-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

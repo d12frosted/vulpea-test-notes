@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0246a4c2-321e-48d8-939e-c97c909a6457
+:END:
+#+TITLE: Qay Oxyxkm Jprtgmge NV - 2000-12-22
+
+- wine :: [[id:c85957d0-8070-4781-9dee-9a926f2aca9d][Qay Oxyxkm Jprtgmge]]
+- date :: 2000-12-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

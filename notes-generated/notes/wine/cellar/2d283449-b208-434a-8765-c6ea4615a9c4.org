@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2d283449-b208-434a-8765-c6ea4615a9c4
+:END:
+#+TITLE: Giih Udr Xydqvle 1910
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Xydqvle
+- vintage :: 1910
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.120000000000001
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.5
+- ratings :: [[id:56ff6615-30d3-4a7d-a447-1d27c4cecd15][Giih Udr Xydqvle 1910 - 2018-11-15]]
+
+

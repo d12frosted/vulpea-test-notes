@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8e40e673-a4d5-4e58-98a7-c2018939c165
+:END:
+#+TITLE: Scf Elpezclx Fwwp NV - 2008-1-11
+
+- wine :: [[id:d3a58c44-bb5c-4767-ac60-7a1fca13b456][Scf Elpezclx Fwwp]]
+- date :: 2008-1-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

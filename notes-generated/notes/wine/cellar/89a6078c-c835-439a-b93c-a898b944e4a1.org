@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     89a6078c-c835-439a-b93c-a898b944e4a1
+:END:
+#+TITLE: Jjkswvm Rcm Zud Rbty 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zud Rbty
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 9.76
+- sugar :: 21.02
+- price :: 11.47 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

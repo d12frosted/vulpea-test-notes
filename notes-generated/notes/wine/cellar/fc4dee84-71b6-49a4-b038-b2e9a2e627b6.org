@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fc4dee84-71b6-49a4-b038-b2e9a2e627b6
+:END:
+#+TITLE: Cowhhax Upmqcgn Ugulfl 1958
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ugulfl
+- vintage :: 1958
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 10.14
+- sugar :: 13.31
+- price :: 12.02 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:5f0e8277-7936-44ca-8a71-64e5b12235b2][Cowhhax Upmqcgn Ugulfl 1958 - 2019-8-12]]
+
+

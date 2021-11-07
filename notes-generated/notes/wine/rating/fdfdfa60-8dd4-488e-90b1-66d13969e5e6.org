@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fdfdfa60-8dd4-488e-90b1-66d13969e5e6
+:END:
+#+TITLE: Jjkswvm Rcm Mgnnd Jrrz NV - 2023-12-20
+
+- wine :: [[id:2f3fabac-b6d5-49d8-a8bf-2a3c49fbd210][Jjkswvm Rcm Mgnnd Jrrz]]
+- date :: 2023-12-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

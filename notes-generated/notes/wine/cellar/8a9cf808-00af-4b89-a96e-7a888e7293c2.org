@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8a9cf808-00af-4b89-a96e-7a888e7293c2
+:END:
+#+TITLE: Giih Udr Zsirpr Faexc 1967
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Zsirpr Faexc
+- vintage :: 1967
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.22
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:23288a92-6a19-460c-ab71-9ddc0c621de7][Giih Udr Zsirpr Faexc 1967 - 1997-5-16]]
+
+

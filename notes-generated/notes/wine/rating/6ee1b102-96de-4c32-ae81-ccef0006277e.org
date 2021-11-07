@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6ee1b102-96de-4c32-ae81-ccef0006277e
+:END:
+#+TITLE: Yokf Gwhwycw Brsfm Grjuea NV - 2015-10-16
+
+- wine :: [[id:4c297139-48d1-46bf-aa3a-c14dba1aa967][Yokf Gwhwycw Brsfm Grjuea]]
+- date :: 2015-10-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a6661167-dabe-4ed4-a10c-523fedc61d3b
+:END:
+#+TITLE: Jjkswvm Rcm Lgkx 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Lgkx
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.82
+- sugar :: 15.7
+- price :: 76.11 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:4d02ac07-412d-450c-8538-94f0af3461fc][Jjkswvm Rcm Lgkx NV - 2003-9-14]]
+
+

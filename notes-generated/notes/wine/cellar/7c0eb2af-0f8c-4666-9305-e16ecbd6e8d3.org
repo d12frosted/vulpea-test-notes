@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7c0eb2af-0f8c-4666-9305-e16ecbd6e8d3
+:END:
+#+TITLE: Yjfq Tfdxmay Icerjc 1950
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Tfdxmay Icerjc
+- vintage :: 1950
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.48
+- sugar :: 18.12
+- price :: 90.46 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA
+
+

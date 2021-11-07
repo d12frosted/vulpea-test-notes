@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     76721245-8a8d-492e-aa97-c8b74d4f75c9
+:END:
+#+TITLE: Jjkswvm Rcm Tikrufx Bogkak 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Tikrufx Bogkak
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.66
+- price :: 29.29 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA
+
+

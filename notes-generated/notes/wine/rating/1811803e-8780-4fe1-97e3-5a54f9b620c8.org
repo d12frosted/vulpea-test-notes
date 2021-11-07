@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1811803e-8780-4fe1-97e3-5a54f9b620c8
+:END:
+#+TITLE: Scf Elpezclx Pmtyhxyb Iejq 2000 - 2004-9-28
+
+- wine :: [[id:d3ff97df-9941-4a58-acf5-e9e11446d20f][Scf Elpezclx Pmtyhxyb Iejq 2000]]
+- date :: 2004-9-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

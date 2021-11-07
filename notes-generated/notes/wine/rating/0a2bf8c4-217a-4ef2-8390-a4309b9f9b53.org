@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0a2bf8c4-217a-4ef2-8390-a4309b9f9b53
+:END:
+#+TITLE: Yjfq Mwji 1933 - 2019-12-24
+
+- wine :: [[id:a03517b8-5081-4aaa-b486-6da3f176acc7][Yjfq Mwji 1933]]
+- date :: 2019-12-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

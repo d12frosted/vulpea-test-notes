@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     063afbc4-6960-4e02-9ec6-640d8336ac1f
+:END:
+#+TITLE: Jjkswvm Rcm Wvwzow Hsoqmnbd 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Wvwzow Hsoqmnbd
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.34
+- sugar :: 2.46
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:f0f68dfe-1f9e-4e49-97e0-d33b7ed2c220][Jjkswvm Rcm Wvwzow Hsoqmnbd NV - 2000-1-4]]
+
+

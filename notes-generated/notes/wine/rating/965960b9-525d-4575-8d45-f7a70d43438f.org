@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     965960b9-525d-4575-8d45-f7a70d43438f
+:END:
+#+TITLE: Qay Mxizu Eugbzld 1974 - 2023-12-1
+
+- wine :: [[id:a02ab84b-cdd8-40ad-8493-8588edce6c46][Qay Mxizu Eugbzld 1974]]
+- date :: 2023-12-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

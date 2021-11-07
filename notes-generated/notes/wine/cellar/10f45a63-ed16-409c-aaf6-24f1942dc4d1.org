@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     10f45a63-ed16-409c-aaf6-24f1942dc4d1
+:END:
+#+TITLE: Ecxknc Iepvhans Hvfcnuuq Jpd 2003
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Hvfcnuuq Jpd
+- vintage :: 2003
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 11.629999999999999
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

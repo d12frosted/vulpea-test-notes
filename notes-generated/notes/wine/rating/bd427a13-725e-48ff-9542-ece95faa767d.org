@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bd427a13-725e-48ff-9542-ece95faa767d
+:END:
+#+TITLE: Qay Wzogor Xfhg 2015 - 1990-4-2
+
+- wine :: [[id:4ad57d1b-e8de-495c-97c3-22cbc11ac114][Qay Wzogor Xfhg 2015]]
+- date :: 1990-4-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

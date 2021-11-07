@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fee72f36-085d-485a-91cd-35822ca562b9
+:END:
+#+TITLE: Giih Udr Bzlj NV - 2018-8-9
+
+- wine :: [[id:89c6d8db-4147-4104-875a-fcdbdd9dbe6b][Giih Udr Bzlj]]
+- date :: 2018-8-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

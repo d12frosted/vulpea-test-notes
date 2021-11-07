@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     104e7363-0ed7-4e0d-87a3-64518c8df038
+:END:
+#+TITLE: Cowhhax Upmqcgn Divi Sfhl 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Divi Sfhl
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.49
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:d6908ab7-b96d-4283-b2ed-c8bb9d804ccb][Cowhhax Upmqcgn Divi Sfhl NV - 2007-10-23]]
+
+

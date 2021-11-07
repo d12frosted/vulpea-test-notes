@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     fa322669-22e0-4b2d-a143-492c3de4973c
+:END:
+#+TITLE: Ecxknc Iepvhans Nejzlplp Rtajorjo 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Nejzlplp Rtajorjo
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 11.05
+- price :: 41.46 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:00031ae6-7803-4b90-ba1c-c12b83f75e1b][Ecxknc Iepvhans Nejzlplp Rtajorjo NV - 1997-1-11]]
+
+

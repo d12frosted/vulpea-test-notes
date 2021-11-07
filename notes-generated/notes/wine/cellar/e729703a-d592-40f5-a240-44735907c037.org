@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e729703a-d592-40f5-a240-44735907c037
+:END:
+#+TITLE: Yokf Gwhwycw Jxpehk 1990
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Jxpehk
+- vintage :: 1990
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 12.43
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 4.5
+- ratings :: [[id:727fe5fa-1e67-4e99-b1a9-9c7db695865a][Yokf Gwhwycw Jxpehk 1990 - 2005-10-8]]
+
+

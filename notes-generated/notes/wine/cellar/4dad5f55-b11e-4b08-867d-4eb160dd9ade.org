@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4dad5f55-b11e-4b08-867d-4eb160dd9ade
+:END:
+#+TITLE: Scf Elpezclx Oekke Gizq 2016
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Oekke Gizq
+- vintage :: 2016
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.4
+- price :: 31.06 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 2.5
+- ratings :: [[id:789c7532-1d4e-47dd-b54d-90ed22ce1bf0][Scf Elpezclx Oekke Gizq 2016 - 2024-12-14]]
+
+

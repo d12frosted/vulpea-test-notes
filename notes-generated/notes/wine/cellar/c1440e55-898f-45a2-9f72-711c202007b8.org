@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c1440e55-898f-45a2-9f72-711c202007b8
+:END:
+#+TITLE: Yjfq Gionjtf Ugcymh 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gionjtf Ugcymh
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.65
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: wikipedia
+- rating :: NA
+
+

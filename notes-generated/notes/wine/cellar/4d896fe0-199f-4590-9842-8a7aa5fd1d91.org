@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4d896fe0-199f-4590-9842-8a7aa5fd1d91
+:END:
+#+TITLE: Nhozxqe Aldl Tqpreof 1935
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Tqpreof
+- vintage :: 1935
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.879999999999999
+- price :: 89.29 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA
+
+

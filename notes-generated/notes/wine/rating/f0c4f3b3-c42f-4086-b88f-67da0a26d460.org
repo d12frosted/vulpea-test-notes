@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f0c4f3b3-c42f-4086-b88f-67da0a26d460
+:END:
+#+TITLE: Nhozxqe Aldl Zbkh 2011 - 2008-12-25
+
+- wine :: [[id:0f9e682d-9422-458a-a975-147a1f74239e][Nhozxqe Aldl Zbkh 2011]]
+- date :: 2008-12-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

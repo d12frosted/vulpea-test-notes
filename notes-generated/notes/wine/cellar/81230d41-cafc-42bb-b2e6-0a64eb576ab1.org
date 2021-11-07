@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     81230d41-cafc-42bb-b2e6-0a64eb576ab1
+:END:
+#+TITLE: Scf Elpezclx Hyriwfq Yuvd 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Hyriwfq Yuvd
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 12.72
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:75aee796-2566-4861-b0f4-cf2311ecfa9e][Scf Elpezclx Hyriwfq Yuvd NV - 1990-12-22]]
+
+

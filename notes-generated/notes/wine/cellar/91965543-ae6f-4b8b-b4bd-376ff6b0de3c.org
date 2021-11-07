@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     91965543-ae6f-4b8b-b4bd-376ff6b0de3c
+:END:
+#+TITLE: Nhozxqe Aldl Lpvne 1929
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Lpvne
+- vintage :: 1929
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.51
+- sugar :: 21.37
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

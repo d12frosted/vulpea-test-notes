@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ff8e4b7a-c26d-450f-a24c-c619a87f1c9f
+:END:
+#+TITLE: Lrwk Jbaxrmn Wdgt Qqik 1952
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Wdgt Qqik
+- vintage :: 1952
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 10.72
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

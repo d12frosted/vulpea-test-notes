@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     59f33ae7-9e12-449a-b3c1-cb4ebe79eed4
+:END:
+#+TITLE: Yokf Gwhwycw Bqvq 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Bqvq
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.46
+- sugar :: 16.91
+- price :: 90.28 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.0
+- ratings :: [[id:0bbf5479-ca41-4d9c-95a5-f1c1e8b7003f][Yokf Gwhwycw Bqvq NV - 1996-7-13]]
+
+

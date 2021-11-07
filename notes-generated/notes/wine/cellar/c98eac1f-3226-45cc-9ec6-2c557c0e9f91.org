@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     c98eac1f-3226-45cc-9ec6-2c557c0e9f91
+:END:
+#+TITLE: Jjkswvm Rcm Hgft Vnjhsl 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Hgft Vnjhsl
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.89
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

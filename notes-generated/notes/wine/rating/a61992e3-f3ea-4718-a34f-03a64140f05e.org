@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a61992e3-f3ea-4718-a34f-03a64140f05e
+:END:
+#+TITLE: Scf Elpezclx Hbcw Ozpn 2019 - 2023-12-5
+
+- wine :: [[id:43636962-65ee-461e-9a8e-3e66cb345bb7][Scf Elpezclx Hbcw Ozpn 2019]]
+- date :: 2023-12-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

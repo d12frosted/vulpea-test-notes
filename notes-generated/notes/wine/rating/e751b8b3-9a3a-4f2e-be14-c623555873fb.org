@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e751b8b3-9a3a-4f2e-be14-c623555873fb
+:END:
+#+TITLE: Jjkswvm Rcm Aynfvht Zfzhifpg 1942 - 2020-7-27
+
+- wine :: [[id:0fb1f19b-f84b-4a62-8c66-ef3781537d1c][Jjkswvm Rcm Aynfvht Zfzhifpg 1942]]
+- date :: 2020-7-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

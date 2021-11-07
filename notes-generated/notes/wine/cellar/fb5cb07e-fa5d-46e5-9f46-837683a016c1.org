@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fb5cb07e-fa5d-46e5-9f46-837683a016c1
+:END:
+#+TITLE: Giih Udr Mbexxsn Xxxfulc 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Mbexxsn Xxxfulc
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 9.78
+- sugar :: 14.88
+- price :: 17.01 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.0
+- ratings :: [[id:88063b6c-7698-4ffe-b0b6-9eae0e08f5fa][Giih Udr Mbexxsn Xxxfulc NV - 2002-10-23]]
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     9ed46724-ef5f-427a-b980-bd5d5d5d60ff
+:END:
+#+TITLE: Nhozxqe Aldl Ciwpz Cjj 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ciwpz Cjj
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.44
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bb7646cb-0f72-4205-9538-33086e9a189f
+:END:
+#+TITLE: Lrwk Jbaxrmn Cnzaz 1985
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Cnzaz
+- vintage :: 1985
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.1
+- sugar :: 0.17
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

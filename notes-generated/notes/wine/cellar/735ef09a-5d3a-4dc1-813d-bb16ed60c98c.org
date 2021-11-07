@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     735ef09a-5d3a-4dc1-813d-bb16ed60c98c
+:END:
+#+TITLE: Yokf Gwhwycw Mng Hhzv 1964
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Mng Hhzv
+- vintage :: 1964
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.93
+- sugar :: 23.76
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.5
+- ratings :: [[id:13741bce-8bf4-4863-9bf6-3f3a3e971446][Yokf Gwhwycw Mng Hhzv 1964 - 1990-11-16]]
+
+

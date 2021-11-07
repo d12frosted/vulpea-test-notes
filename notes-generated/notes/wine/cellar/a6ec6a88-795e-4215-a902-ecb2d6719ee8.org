@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a6ec6a88-795e-4215-a902-ecb2d6719ee8
+:END:
+#+TITLE: Yjfq Xwps 1956
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Xwps
+- vintage :: 1956
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.58
+- sugar :: 16.87
+- price :: 73.38 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA
+
+

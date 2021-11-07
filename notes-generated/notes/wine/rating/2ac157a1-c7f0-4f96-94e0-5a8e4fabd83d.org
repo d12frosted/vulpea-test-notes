@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2ac157a1-c7f0-4f96-94e0-5a8e4fabd83d
+:END:
+#+TITLE: Yokf Gwhwycw Vjxcwx Czghmocx NV - 2022-6-25
+
+- wine :: [[id:9e8298eb-8a5c-41a4-836d-776abeb4cc9b][Yokf Gwhwycw Vjxcwx Czghmocx]]
+- date :: 2022-6-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

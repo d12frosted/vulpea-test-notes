@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     bcb6ac95-a2f5-4baf-82e2-44d3ef21f33d
+:END:
+#+TITLE: Giih Udr Haeabh Habcqhl 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Haeabh Habcqhl
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 10.1
+- price :: 74.85 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA
+
+

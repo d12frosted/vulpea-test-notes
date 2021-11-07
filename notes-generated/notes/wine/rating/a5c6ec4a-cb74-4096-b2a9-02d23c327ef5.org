@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a5c6ec4a-cb74-4096-b2a9-02d23c327ef5
+:END:
+#+TITLE: Scf Elpezclx Dclsbl NV - 2022-1-22
+
+- wine :: [[id:019b56f7-ccf7-472b-8b76-03c566efbe8f][Scf Elpezclx Dclsbl]]
+- date :: 2022-1-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

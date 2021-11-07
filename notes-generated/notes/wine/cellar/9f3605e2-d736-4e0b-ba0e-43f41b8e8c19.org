@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9f3605e2-d736-4e0b-ba0e-43f41b8e8c19
+:END:
+#+TITLE: Lrwk Jbaxrmn Atfapxxq Gls 1926
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Atfapxxq Gls
+- vintage :: 1926
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 11.18
+- sugar :: 20.98
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.5
+- ratings :: [[id:1d14a219-f8c7-4994-9dfb-43d300e42ff5][Lrwk Jbaxrmn Atfapxxq Gls 1926 - 2003-12-22]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1aa95e26-abf9-40e7-809f-351b6bda0736
+:END:
+#+TITLE: Scf Elpezclx Nqzto Amibr NV - 1993-11-21
+
+- wine :: [[id:e9b4c6fe-e14d-4c02-aa05-b7addcea2725][Scf Elpezclx Nqzto Amibr]]
+- date :: 1993-11-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

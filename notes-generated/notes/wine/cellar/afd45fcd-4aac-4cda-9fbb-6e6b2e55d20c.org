@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     afd45fcd-4aac-4cda-9fbb-6e6b2e55d20c
+:END:
+#+TITLE: Jjkswvm Rcm Belyz 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Belyz
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 12.91
+- price :: 59.37 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

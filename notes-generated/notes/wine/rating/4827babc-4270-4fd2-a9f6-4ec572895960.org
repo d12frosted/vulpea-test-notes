@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4827babc-4270-4fd2-a9f6-4ec572895960
+:END:
+#+TITLE: Lrwk Jbaxrmn Ugibtl NV - 1999-9-27
+
+- wine :: [[id:a0d08fe0-c762-48d9-9edb-1d99ebc8a990][Lrwk Jbaxrmn Ugibtl]]
+- date :: 1999-9-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

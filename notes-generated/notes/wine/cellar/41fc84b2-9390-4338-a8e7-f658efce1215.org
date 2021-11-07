@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     41fc84b2-9390-4338-a8e7-f658efce1215
+:END:
+#+TITLE: Lrwk Jbaxrmn Tgnuxju 1900
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Tgnuxju
+- vintage :: 1900
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.37
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:c45c6932-958f-4ad5-bede-c381879c6c83][Lrwk Jbaxrmn Tgnuxju 1900 - 2022-6-21]]
+
+

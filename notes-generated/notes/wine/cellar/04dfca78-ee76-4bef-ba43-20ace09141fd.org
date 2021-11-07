@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     04dfca78-ee76-4bef-ba43-20ace09141fd
+:END:
+#+TITLE: Cowhhax Upmqcgn Bnko 1913
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Bnko
+- vintage :: 1913
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 11.98
+- sugar :: 11.09
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 4.5
+- ratings :: [[id:d795e0b3-e05f-4b43-9563-6e0af039fe2d][Cowhhax Upmqcgn Bnko 1913 - 2004-3-8]]
+
+

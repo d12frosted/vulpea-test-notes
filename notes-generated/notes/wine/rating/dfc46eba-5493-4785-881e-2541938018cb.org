@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dfc46eba-5493-4785-881e-2541938018cb
+:END:
+#+TITLE: Qay Kmir 1967 - 2000-9-8
+
+- wine :: [[id:9e535e5d-47ad-478a-bd3b-0b56b22bf605][Qay Kmir 1967]]
+- date :: 2000-9-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

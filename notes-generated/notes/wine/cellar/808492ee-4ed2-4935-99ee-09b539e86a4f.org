@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     808492ee-4ed2-4935-99ee-09b539e86a4f
+:END:
+#+TITLE: Jjkswvm Rcm Hrxbge Cqlmdob 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Hrxbge Cqlmdob
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 12.83
+- sugar :: 23.59
+- price :: 80.73 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:d827c7b8-a99d-4bc1-9270-675388db811a][Jjkswvm Rcm Hrxbge Cqlmdob NV - 2009-5-24]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     19074f60-9158-4642-b5cf-559698f95fec
+:END:
+#+TITLE: Scf Elpezclx Uzqf Rrdgj 1925
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Uzqf Rrdgj
+- vintage :: 1925
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.01
+- sugar :: 7.96
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA
+
+

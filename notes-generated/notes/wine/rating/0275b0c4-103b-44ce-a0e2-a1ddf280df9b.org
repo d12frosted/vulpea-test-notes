@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0275b0c4-103b-44ce-a0e2-a1ddf280df9b
+:END:
+#+TITLE: Yokf Gwhwycw Obs NV - 1996-2-28
+
+- wine :: [[id:0503edd9-def4-4c23-8073-ddf6a6519a82][Yokf Gwhwycw Obs]]
+- date :: 1996-2-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

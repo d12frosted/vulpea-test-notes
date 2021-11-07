@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     56f34060-1e97-4bff-91cd-18e5a69d7817
+:END:
+#+TITLE: Yokf Gwhwycw Rvkmvaq Rlvauqdy 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Rvkmvaq Rlvauqdy
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 12.06
+- price :: 88.16 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

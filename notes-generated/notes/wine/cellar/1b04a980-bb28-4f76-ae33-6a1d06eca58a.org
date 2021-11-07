@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1b04a980-bb28-4f76-ae33-6a1d06eca58a
+:END:
+#+TITLE: Jjkswvm Rcm Qjr Ykesbddn 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qjr Ykesbddn
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.14
+- price :: 58.55 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.5
+- ratings :: [[id:073cc637-c086-4d6d-9e78-d84f3f1fc74b][Jjkswvm Rcm Qjr Ykesbddn NV - 2012-1-28]]
+
+

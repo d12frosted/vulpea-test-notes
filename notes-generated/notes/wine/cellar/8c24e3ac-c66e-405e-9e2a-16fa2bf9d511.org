@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8c24e3ac-c66e-405e-9e2a-16fa2bf9d511
+:END:
+#+TITLE: Scf Elpezclx Nxopv 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Nxopv
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.2
+- sugar :: 11.65
+- price :: 85.78 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA
+
+

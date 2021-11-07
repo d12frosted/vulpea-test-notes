@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7eb2f036-ed51-435c-b2b4-80efa0534399
+:END:
+#+TITLE: Yjfq Gswiz 1977
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gswiz
+- vintage :: 1977
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.36
+- sugar :: 5.96
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA
+
+

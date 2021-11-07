@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     15cb5e1c-13ef-49c9-8d6a-fede90cfe6fe
+:END:
+#+TITLE: Nhozxqe Aldl Yjgpmb Baxkgyih 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Yjgpmb Baxkgyih
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 11.19
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:4184cf2f-93cf-47a0-9025-590db575f68b][Nhozxqe Aldl Yjgpmb Baxkgyih NV - 2016-4-15]]
+
+

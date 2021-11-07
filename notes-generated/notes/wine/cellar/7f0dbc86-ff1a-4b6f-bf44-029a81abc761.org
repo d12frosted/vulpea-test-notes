@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7f0dbc86-ff1a-4b6f-bf44-029a81abc761
+:END:
+#+TITLE: Yjfq Kxkl Dwmcch 1983
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Kxkl Dwmcch
+- vintage :: 1983
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.94
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:33056693-eb35-4803-bb49-c6517247236b][Yjfq Kxkl Dwmcch 1983 - 2000-8-7]]
+
+

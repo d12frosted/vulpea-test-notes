@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     396faaa0-7af6-468d-b391-dafc370e5bb2
+:END:
+#+TITLE: Giih Udr Xldbptp Frajvlw NV - 2018-7-21
+
+- wine :: [[id:b63e51ed-4591-4cf0-ba2f-7b7dc0c4d7f7][Giih Udr Xldbptp Frajvlw]]
+- date :: 2018-7-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

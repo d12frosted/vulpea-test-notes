@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b11be538-ad82-4989-84cf-2d8c49353ddc
+:END:
+#+TITLE: Yjfq Inweh Xlsy 1933
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Inweh Xlsy
+- vintage :: 1933
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.219999999999999
+- price :: 83.27 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

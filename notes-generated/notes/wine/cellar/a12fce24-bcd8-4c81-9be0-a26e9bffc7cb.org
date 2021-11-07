@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     a12fce24-bcd8-4c81-9be0-a26e9bffc7cb
+:END:
+#+TITLE: Ecxknc Iepvhans Wztuvk 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Wztuvk
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.05
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

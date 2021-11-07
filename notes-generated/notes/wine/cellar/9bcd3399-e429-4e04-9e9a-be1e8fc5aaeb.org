@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9bcd3399-e429-4e04-9e9a-be1e8fc5aaeb
+:END:
+#+TITLE: Nhozxqe Aldl Gqapvrvy Gqi 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Gqapvrvy Gqi
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.77
+- sugar :: 2.26
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d6555e8e-7460-4d90-8c95-723ee3c55185
+:END:
+#+TITLE: Qay Joffnvb Kdwhknk 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Joffnvb Kdwhknk
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.9
+- price :: 102.68 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.0
+- ratings :: [[id:f52b6ab1-586f-4ca6-8d54-75da29325e13][Qay Joffnvb Kdwhknk NV - 2016-9-21]]
+
+

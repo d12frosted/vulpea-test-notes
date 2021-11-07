@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     11f374d9-c7b4-46f1-8381-80c558ed3b7e
+:END:
+#+TITLE: Jjkswvm Rcm Glw Gkykooy 1944
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Glw Gkykooy
+- vintage :: 1944
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.99
+- price :: 63.03 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 5.5
+- ratings :: [[id:86ff7189-b9aa-49d9-a83a-0d13413040ed][Jjkswvm Rcm Glw Gkykooy 1944 - 1994-9-11]]
+
+

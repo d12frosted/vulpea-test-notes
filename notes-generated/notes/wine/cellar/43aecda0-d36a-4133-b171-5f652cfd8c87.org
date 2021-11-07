@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     43aecda0-d36a-4133-b171-5f652cfd8c87
+:END:
+#+TITLE: Yjfq Mlyjwm 1964
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Mlyjwm
+- vintage :: 1964
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.26
+- sugar :: 1.07
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 2.0
+- ratings :: [[id:9f905fc2-7899-4664-a3f0-ff24d3c0e0ce][Yjfq Mlyjwm 1964 - 2006-2-19]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     4fc413e5-1c5f-478d-9592-775c9a082c88
+:END:
+#+TITLE: Ecxknc Iepvhans Jux Dsjnirqi 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Jux Dsjnirqi
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.1
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA
+
+

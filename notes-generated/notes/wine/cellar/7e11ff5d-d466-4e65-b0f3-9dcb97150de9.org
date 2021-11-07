@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     7e11ff5d-d466-4e65-b0f3-9dcb97150de9
+:END:
+#+TITLE: Lrwk Jbaxrmn Hoeonu 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Hoeonu
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 12.96
+- sugar :: 20.47
+- price :: 18.60 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.5
+- ratings :: [[id:c0e5249c-f139-4b0c-aa68-03afce1b6d50][Lrwk Jbaxrmn Hoeonu NV - 2024-10-9]]
+
+

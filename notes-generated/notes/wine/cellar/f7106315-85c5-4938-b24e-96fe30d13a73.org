@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f7106315-85c5-4938-b24e-96fe30d13a73
+:END:
+#+TITLE: Nhozxqe Aldl Acgt 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Acgt
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.57
+- price :: 101.64 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

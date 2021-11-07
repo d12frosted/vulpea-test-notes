@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     97cdedd9-9b06-42f6-9a37-b17cd25d12a3
+:END:
+#+TITLE: Yokf Gwhwycw Oshr 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Oshr
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 11.39
+- sugar :: 1.45
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

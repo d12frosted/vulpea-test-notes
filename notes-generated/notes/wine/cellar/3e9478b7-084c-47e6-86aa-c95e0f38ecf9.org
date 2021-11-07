@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3e9478b7-084c-47e6-86aa-c95e0f38ecf9
+:END:
+#+TITLE: Lrwk Jbaxrmn Ptjoor Rxwgxgcu 1969
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ptjoor Rxwgxgcu
+- vintage :: 1969
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 9.25
+- sugar :: 15.84
+- price :: 84.50 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:a9c09c4b-e553-4460-a04d-88e00e2293dc][Lrwk Jbaxrmn Ptjoor Rxwgxgcu 1969 - 2010-11-19]]
+
+

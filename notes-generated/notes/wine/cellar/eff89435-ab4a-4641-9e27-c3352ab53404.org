@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     eff89435-ab4a-4641-9e27-c3352ab53404
+:END:
+#+TITLE: Scf Elpezclx Evko 1958
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Evko
+- vintage :: 1958
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 12.81
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:cdaeffd8-cb77-4162-8e80-63a95aee8508][Scf Elpezclx Evko 1958 - 2005-12-7]]
+
+

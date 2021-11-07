@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3246115d-2053-45ea-a154-de19110b7938
+:END:
+#+TITLE: Lrwk Jbaxrmn Kkamy Miykot 1960 - 1992-7-28
+
+- wine :: [[id:4dc69db4-f828-4955-a79d-a9331c8026cc][Lrwk Jbaxrmn Kkamy Miykot 1960]]
+- date :: 1992-7-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

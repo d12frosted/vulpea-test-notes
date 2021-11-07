@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4f9e4d4f-ad0c-4940-a6c7-2308283a7062
+:END:
+#+TITLE: Ecxknc Iepvhans Zfmtxaly Kdukol 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Zfmtxaly Kdukol
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.35
+- sugar :: 4.66
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 5.5
+- ratings :: [[id:c39afb30-a806-4339-b1d5-0fb896aa4893][Ecxknc Iepvhans Zfmtxaly Kdukol NV - 2021-5-19]]
+
+

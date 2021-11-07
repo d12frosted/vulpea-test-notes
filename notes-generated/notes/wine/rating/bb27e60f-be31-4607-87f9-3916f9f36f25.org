@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bb27e60f-be31-4607-87f9-3916f9f36f25
+:END:
+#+TITLE: Ecxknc Iepvhans Mnt Bffdt 1920 - 2024-8-4
+
+- wine :: [[id:f3c428e7-a17f-4e3e-ad9e-65014a8a314e][Ecxknc Iepvhans Mnt Bffdt 1920]]
+- date :: 2024-8-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

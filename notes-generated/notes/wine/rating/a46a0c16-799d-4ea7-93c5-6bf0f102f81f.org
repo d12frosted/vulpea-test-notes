@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a46a0c16-799d-4ea7-93c5-6bf0f102f81f
+:END:
+#+TITLE: Scf Elpezclx Rczvbpho Liqtr NV - 2007-11-12
+
+- wine :: [[id:cb99c49f-55b5-4988-9366-036d60a14a2c][Scf Elpezclx Rczvbpho Liqtr]]
+- date :: 2007-11-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9a3aa110-6310-49c0-b26f-3b5080951b58
+:END:
+#+TITLE: Yokf Gwhwycw Ule NV - 2011-3-28
+
+- wine :: [[id:e0756119-eb1c-4de6-a6fc-c98ed3b50989][Yokf Gwhwycw Ule]]
+- date :: 2011-3-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

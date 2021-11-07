@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     529ad848-9ea0-4e59-9ad4-d7329b8c95ad
+:END:
+#+TITLE: Jjkswvm Rcm Wgaln Sxc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Wgaln Sxc
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.620000000000001
+- sugar :: 16.31
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 5.5
+- ratings :: [[id:83d16b77-5fdf-4232-9c0c-edf002f3b0cc][Jjkswvm Rcm Wgaln Sxc NV - 2001-2-25]]
+
+

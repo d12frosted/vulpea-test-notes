@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0ae34901-6b3f-4047-a1e9-2618b7c72ce8
+:END:
+#+TITLE: Lrwk Jbaxrmn Bxwfaqsv Izzybuay 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Bxwfaqsv Izzybuay
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 13.55
+- sugar :: 12.22
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

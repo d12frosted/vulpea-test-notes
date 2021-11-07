@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2f53aa61-543e-4cde-baea-641af99d6781
+:END:
+#+TITLE: Lrwk Jbaxrmn Bxras Npe 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Bxras Npe
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.43
+- sugar :: 20.85
+- price :: 62.80 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:c5640dcc-2b74-4581-ae1d-c2c6f0f941ad][Lrwk Jbaxrmn Bxras Npe NV - 2015-5-4]]
+
+

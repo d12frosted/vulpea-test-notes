@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     86b3f249-6420-4099-8e30-d53f72971f03
+:END:
+#+TITLE: Qay Bavtqqe Qzdf 2007
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Bavtqqe Qzdf
+- vintage :: 2007
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 10.68
+- sugar :: 3.21
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

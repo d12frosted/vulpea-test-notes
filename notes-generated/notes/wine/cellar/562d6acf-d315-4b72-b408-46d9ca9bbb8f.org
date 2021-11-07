@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     562d6acf-d315-4b72-b408-46d9ca9bbb8f
+:END:
+#+TITLE: Qay Ihujkcs Jykrdjvo 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ihujkcs Jykrdjvo
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.11
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

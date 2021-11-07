@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ee5c3a41-a714-4472-b4dd-835b055c8da6
+:END:
+#+TITLE: Nhozxqe Aldl Cyn 1914
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Cyn
+- vintage :: 1914
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.84
+- sugar :: 10.6
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA
+
+

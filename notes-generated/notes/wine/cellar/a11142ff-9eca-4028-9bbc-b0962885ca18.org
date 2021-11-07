@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     a11142ff-9eca-4028-9bbc-b0962885ca18
+:END:
+#+TITLE: Lrwk Jbaxrmn Kfrmsah Nsdpc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Kfrmsah Nsdpc
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 9.74
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA
+
+

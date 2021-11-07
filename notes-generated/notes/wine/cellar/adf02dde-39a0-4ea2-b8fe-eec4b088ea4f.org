@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     adf02dde-39a0-4ea2-b8fe-eec4b088ea4f
+:END:
+#+TITLE: Ecxknc Iepvhans Mcksvtkl 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Mcksvtkl
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 10.22
+- sugar :: 18.99
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA
+
+

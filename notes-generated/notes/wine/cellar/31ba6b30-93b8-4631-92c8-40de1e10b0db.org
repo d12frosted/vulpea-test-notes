@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     31ba6b30-93b8-4631-92c8-40de1e10b0db
+:END:
+#+TITLE: Yjfq Ipdotz 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ipdotz
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 11.64
+- price :: 55.36 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:732663c9-14eb-429b-afc2-113b117cb378][Yjfq Ipdotz NV - 1993-7-5]]
+
+

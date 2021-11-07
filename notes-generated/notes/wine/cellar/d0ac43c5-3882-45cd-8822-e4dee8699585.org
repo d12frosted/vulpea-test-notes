@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d0ac43c5-3882-45cd-8822-e4dee8699585
+:END:
+#+TITLE: Scf Elpezclx Touhf Skwo 1982
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Touhf Skwo
+- vintage :: 1982
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.71
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

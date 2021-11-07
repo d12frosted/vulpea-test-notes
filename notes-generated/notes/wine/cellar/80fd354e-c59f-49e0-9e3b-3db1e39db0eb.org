@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     80fd354e-c59f-49e0-9e3b-3db1e39db0eb
+:END:
+#+TITLE: Jjkswvm Rcm Sqloekxb Mxdij 1946
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Sqloekxb Mxdij
+- vintage :: 1946
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 10.379999999999999
+- sugar :: 19.19
+- price :: 76.62 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 8.5
+- ratings :: [[id:a67e6313-6119-4508-b2d5-e5ad66bf3356][Jjkswvm Rcm Sqloekxb Mxdij 1946 - 1996-10-11]]
+
+

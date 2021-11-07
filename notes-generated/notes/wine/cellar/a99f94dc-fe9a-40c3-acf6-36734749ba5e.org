@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a99f94dc-fe9a-40c3-acf6-36734749ba5e
+:END:
+#+TITLE: Lrwk Jbaxrmn Xkiohrj 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xkiohrj
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.8
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:c3a14b8a-15cf-46f2-8e7c-d94ffadf1424][Lrwk Jbaxrmn Xkiohrj NV - 2015-12-4]]
+
+

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     8367a861-bae0-4232-bfb2-d325af259474
+:END:
+#+TITLE: Qay Jphh Zoa 1997
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Jphh Zoa
+- vintage :: 1997
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.08
+- sugar :: 6.39
+- price :: 70.44 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.0
+- ratings :: [[id:dc8c39ef-4e65-41dc-b61e-756c834619e5][Qay Jphh Zoa 1997 - 2013-4-3]]
+
+

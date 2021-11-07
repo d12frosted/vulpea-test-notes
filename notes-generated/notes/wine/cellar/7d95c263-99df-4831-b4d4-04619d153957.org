@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7d95c263-99df-4831-b4d4-04619d153957
+:END:
+#+TITLE: Scf Elpezclx Pgewdo Yteod 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Pgewdo Yteod
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 12.93
+- sugar :: 4.47
+- price :: 28.27 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

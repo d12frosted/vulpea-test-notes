@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     45b4a634-5acd-479f-a747-c8f46ac32b21
+:END:
+#+TITLE: Jjkswvm Rcm Efrxnhh 1990 - 2022-10-6
+
+- wine :: [[id:3ae5a8e8-c2b5-40f6-89fe-4618d5cd072f][Jjkswvm Rcm Efrxnhh 1990]]
+- date :: 2022-10-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

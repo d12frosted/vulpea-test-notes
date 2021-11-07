@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     899cb74e-2e4f-406a-aaaf-f9864b325894
+:END:
+#+TITLE: Cowhhax Upmqcgn Nvele Qdfq 1914 - 1993-9-28
+
+- wine :: [[id:ff395944-1543-4e7e-88d0-5189412ef399][Cowhhax Upmqcgn Nvele Qdfq 1914]]
+- date :: 1993-9-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

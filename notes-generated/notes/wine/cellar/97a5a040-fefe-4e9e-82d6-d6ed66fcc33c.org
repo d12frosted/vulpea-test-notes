@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     97a5a040-fefe-4e9e-82d6-d6ed66fcc33c
+:END:
+#+TITLE: Cowhhax Upmqcgn Qcwte Mrg 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Qcwte Mrg
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.0
+- sugar :: 7.38
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: wikipedia
+- rating :: NA
+
+

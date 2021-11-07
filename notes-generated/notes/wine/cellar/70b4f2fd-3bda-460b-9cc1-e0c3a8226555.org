@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     70b4f2fd-3bda-460b-9cc1-e0c3a8226555
+:END:
+#+TITLE: Qay Froezo 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Froezo
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.17
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA
+
+

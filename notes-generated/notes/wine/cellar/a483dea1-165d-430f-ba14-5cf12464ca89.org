@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a483dea1-165d-430f-ba14-5cf12464ca89
+:END:
+#+TITLE: Nhozxqe Aldl Byihg Woonsbl 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Byihg Woonsbl
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 12.629999999999999
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:104b774d-e013-4471-8831-28496b02be34][Nhozxqe Aldl Byihg Woonsbl NV - 2002-5-9]]
+
+

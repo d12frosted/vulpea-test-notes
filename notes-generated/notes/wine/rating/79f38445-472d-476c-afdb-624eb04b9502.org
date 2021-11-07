@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     79f38445-472d-476c-afdb-624eb04b9502
+:END:
+#+TITLE: Cowhhax Upmqcgn Cktw Lyxu NV - 1993-6-2
+
+- wine :: [[id:068552b0-0ecc-4b3c-81d1-8921583c8a36][Cowhhax Upmqcgn Cktw Lyxu]]
+- date :: 1993-6-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

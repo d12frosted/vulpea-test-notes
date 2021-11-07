@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ef9d8765-f3e8-4175-a096-16e7b79f8d05
+:END:
+#+TITLE: Cowhhax Upmqcgn Kdzne NV - 2017-9-21
+
+- wine :: [[id:d67e4e50-37a8-4cf3-9df7-b3c9a9e4a13d][Cowhhax Upmqcgn Kdzne]]
+- date :: 2017-9-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

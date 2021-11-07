@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     457a9b7c-37a9-43a9-bf7e-58089a0b4350
+:END:
+#+TITLE: Nhozxqe Aldl Ujkni 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ujkni
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 11.32
+- sugar :: 21.54
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA
+
+

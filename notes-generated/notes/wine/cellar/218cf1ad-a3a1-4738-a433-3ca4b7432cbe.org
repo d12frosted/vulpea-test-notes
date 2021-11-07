@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     218cf1ad-a3a1-4738-a433-3ca4b7432cbe
+:END:
+#+TITLE: Nhozxqe Aldl Ebckhpf Wpibj 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ebckhpf Wpibj
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 10.22
+- sugar :: 2.83
+- price :: 99.81 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

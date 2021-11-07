@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b0441f63-c371-48c3-b388-e8eb7fa9cfc9
+:END:
+#+TITLE: Ecxknc Iepvhans Qxvzcili Wshtbquf 1953
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Qxvzcili Wshtbquf
+- vintage :: 1953
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 13.36
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.0
+- ratings :: [[id:5abbda20-25d1-497c-94b4-7dcc4463768e][Ecxknc Iepvhans Qxvzcili Wshtbquf 1953 - 1995-3-20]]
+
+

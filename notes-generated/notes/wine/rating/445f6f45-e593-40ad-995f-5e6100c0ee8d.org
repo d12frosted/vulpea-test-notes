@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     445f6f45-e593-40ad-995f-5e6100c0ee8d
+:END:
+#+TITLE: Qay Hfppc Udbbk 2009 - 2005-11-10
+
+- wine :: [[id:c42dd91f-def9-4664-b062-be4a26573b5c][Qay Hfppc Udbbk 2009]]
+- date :: 2005-11-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

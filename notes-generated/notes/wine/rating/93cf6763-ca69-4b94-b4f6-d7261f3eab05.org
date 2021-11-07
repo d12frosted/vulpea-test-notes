@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     93cf6763-ca69-4b94-b4f6-d7261f3eab05
+:END:
+#+TITLE: Giih Udr Vcvxnhhn NV - 2010-10-20
+
+- wine :: [[id:3a739e46-25c7-4af9-868e-4ac86e1f85a8][Giih Udr Vcvxnhhn]]
+- date :: 2010-10-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     0982691c-8b59-4546-a7d2-635d87848fb4
+:END:
+#+TITLE: Giih Udr Ymlqbdio Hfs 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ymlqbdio Hfs
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.62
+- price :: 58.13 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

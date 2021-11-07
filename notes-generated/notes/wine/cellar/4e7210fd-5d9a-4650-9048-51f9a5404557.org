@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4e7210fd-5d9a-4650-9048-51f9a5404557
+:END:
+#+TITLE: Yokf Gwhwycw Vgbdiqie 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vgbdiqie
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.57
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.5
+- ratings :: [[id:1c2c1fe6-2999-48dc-8c22-1bd25d87e993][Yokf Gwhwycw Vgbdiqie NV - 1999-8-23]]
+
+

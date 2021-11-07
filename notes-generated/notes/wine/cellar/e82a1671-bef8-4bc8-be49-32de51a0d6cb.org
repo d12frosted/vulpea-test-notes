@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     e82a1671-bef8-4bc8-be49-32de51a0d6cb
+:END:
+#+TITLE: Yokf Gwhwycw Zlstuonp Pwx 1917
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Zlstuonp Pwx
+- vintage :: 1917
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 9.0
+- price :: 77.35 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.5
+- ratings :: [[id:526db41b-8134-4bc2-97b5-3ae94510d674][Yokf Gwhwycw Zlstuonp Pwx 1917 - 2019-10-4]]
+
+

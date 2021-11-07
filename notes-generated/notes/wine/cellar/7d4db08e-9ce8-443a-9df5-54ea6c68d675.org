@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     7d4db08e-9ce8-443a-9df5-54ea6c68d675
+:END:
+#+TITLE: Jjkswvm Rcm Oppd 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Oppd
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 11.47
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

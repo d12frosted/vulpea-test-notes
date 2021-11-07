@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ceb5e6b6-0c4c-4a6d-9c60-4c54d13af991
+:END:
+#+TITLE: Yokf Gwhwycw Xcnr 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Xcnr
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.1
+- sugar :: 11.08
+- price :: 86.33 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA
+
+

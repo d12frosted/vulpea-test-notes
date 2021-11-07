@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7330449d-6219-4621-a046-3916714232df
+:END:
+#+TITLE: Scf Elpezclx Nvpjkia Janalkih 1904
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Nvpjkia Janalkih
+- vintage :: 1904
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 9.8
+- price :: 14.98 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:5aa11af2-0409-416e-9794-e4c3e1897107][Scf Elpezclx Nvpjkia Janalkih 1904 - 1992-11-11]]
+
+

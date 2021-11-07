@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     56fd550b-88bc-466e-b0ca-334ba2a80715
+:END:
+#+TITLE: Nhozxqe Aldl Ayln 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ayln
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 10.65
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.0
+- ratings :: [[id:b3026388-fe3f-4a12-8bd0-0c321419beda][Nhozxqe Aldl Ayln NV - 2021-2-6]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a11cec26-944c-4c18-a97d-2684b0bb97cf
+:END:
+#+TITLE: Qay Rxvylz Hdcq 1954 - 2008-5-22
+
+- wine :: [[id:0c774a39-594f-49ba-b272-7869ac9d50c1][Qay Rxvylz Hdcq 1954]]
+- date :: 2008-5-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

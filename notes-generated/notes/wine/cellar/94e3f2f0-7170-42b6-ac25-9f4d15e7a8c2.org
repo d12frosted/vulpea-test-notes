@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     94e3f2f0-7170-42b6-ac25-9f4d15e7a8c2
+:END:
+#+TITLE: Yjfq Snplt Whvyax 1977
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Snplt Whvyax
+- vintage :: 1977
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.0
+- sugar :: 14.18
+- price :: 20.57 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA
+
+

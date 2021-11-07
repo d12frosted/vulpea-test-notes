@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     558f69be-8168-47df-8bb9-e614a68aaf6f
+:END:
+#+TITLE: Scf Elpezclx Toc 2009 - 1996-12-13
+
+- wine :: [[id:997e4de1-f90e-4f62-a53d-df9365e8e17b][Scf Elpezclx Toc 2009]]
+- date :: 1996-12-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

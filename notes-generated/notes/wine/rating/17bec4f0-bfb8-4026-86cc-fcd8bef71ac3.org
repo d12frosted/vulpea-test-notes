@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     17bec4f0-bfb8-4026-86cc-fcd8bef71ac3
+:END:
+#+TITLE: Yjfq Ngjpjlz 1910 - 2023-5-20
+
+- wine :: [[id:2ce0bd17-95b9-4cc2-82cb-591e2a18f03a][Yjfq Ngjpjlz 1910]]
+- date :: 2023-5-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

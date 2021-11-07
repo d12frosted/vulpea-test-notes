@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     bc385f1e-e5b4-49a8-aa6c-1981c4c9656b
+:END:
+#+TITLE: Cowhhax Upmqcgn Tlad 1904
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Tlad
+- vintage :: 1904
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 11.17
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA
+
+

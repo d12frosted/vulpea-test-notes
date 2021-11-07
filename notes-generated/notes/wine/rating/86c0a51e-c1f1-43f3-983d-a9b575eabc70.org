@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     86c0a51e-c1f1-43f3-983d-a9b575eabc70
+:END:
+#+TITLE: Jjkswvm Rcm Kcrbbmrb Slxjdo NV - 1996-7-3
+
+- wine :: [[id:b5c85d84-4131-4ed5-b4cd-37e8b926a0e9][Jjkswvm Rcm Kcrbbmrb Slxjdo]]
+- date :: 1996-7-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

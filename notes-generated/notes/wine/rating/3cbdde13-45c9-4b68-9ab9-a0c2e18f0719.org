@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3cbdde13-45c9-4b68-9ab9-a0c2e18f0719
+:END:
+#+TITLE: Yjfq Uoa Hxhw 1908 - 1993-3-21
+
+- wine :: [[id:6678c289-5fe7-4d28-a97e-896d9863cff1][Yjfq Uoa Hxhw 1908]]
+- date :: 1993-3-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6375a588-a900-4bd3-ad1c-79f0eb4c81f8
+:END:
+#+TITLE: Nhozxqe Aldl Djz Qrxnz 1912
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Djz Qrxnz
+- vintage :: 1912
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 12.85
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:a65b8b3d-c79e-458a-8f4e-c1662b5353d7][Nhozxqe Aldl Djz Qrxnz 1912 - 2020-5-13]]
+
+

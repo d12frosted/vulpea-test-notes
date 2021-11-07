@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     fd670dc3-d4a0-4fde-8a53-a5403fc41bf0
+:END:
+#+TITLE: Lrwk Jbaxrmn Cph 1948
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Cph
+- vintage :: 1948
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 12.9
+- sugar :: 19.12
+- price :: 37.26 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

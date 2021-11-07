@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a7bf2f3d-7945-46da-bf0f-167f0feea36a
+:END:
+#+TITLE: Giih Udr Iks Yulf NV - 2014-10-9
+
+- wine :: [[id:52566136-f969-4e4f-b146-3fdbbcbfab0b][Giih Udr Iks Yulf]]
+- date :: 2014-10-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

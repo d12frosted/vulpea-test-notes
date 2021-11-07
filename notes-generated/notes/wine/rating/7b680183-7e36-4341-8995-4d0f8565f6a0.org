@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7b680183-7e36-4341-8995-4d0f8565f6a0
+:END:
+#+TITLE: Qay Hjovv NV - 2010-3-5
+
+- wine :: [[id:1ed3267f-bc3d-4a1f-afbe-fdcb7dbd168e][Qay Hjovv]]
+- date :: 2010-3-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

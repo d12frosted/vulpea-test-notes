@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     22ba4d7e-47d2-46ab-b208-8cf64aa058fe
+:END:
+#+TITLE: Ecxknc Iepvhans Onihvwub Dmcblwfz 1980
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Onihvwub Dmcblwfz
+- vintage :: 1980
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 9.3
+- sugar :: 8.55
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:1d0fe1a6-3a88-4151-a5a5-b9dd6069a652][Ecxknc Iepvhans Onihvwub Dmcblwfz 1980 - 1997-7-18]]
+
+

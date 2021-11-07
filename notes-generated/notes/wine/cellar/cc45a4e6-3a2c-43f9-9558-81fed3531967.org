@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     cc45a4e6-3a2c-43f9-9558-81fed3531967
+:END:
+#+TITLE: Scf Elpezclx Gmnzcydv 1963
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Gmnzcydv
+- vintage :: 1963
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 13.1
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a0255fed-347f-4197-8618-f90f86f61823
+:END:
+#+TITLE: Lrwk Jbaxrmn Bsderwb Dxvn 1915
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Bsderwb Dxvn
+- vintage :: 1915
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.57
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA
+
+

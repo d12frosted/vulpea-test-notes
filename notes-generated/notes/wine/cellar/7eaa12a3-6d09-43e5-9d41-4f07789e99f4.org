@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7eaa12a3-6d09-43e5-9d41-4f07789e99f4
+:END:
+#+TITLE: Nhozxqe Aldl Ueqkjrs Mpiphb 1979
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ueqkjrs Mpiphb
+- vintage :: 1979
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.0
+- sugar :: 21.17
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

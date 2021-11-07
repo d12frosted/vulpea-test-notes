@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8675d77f-71cd-4173-8a61-96790ae99e77
+:END:
+#+TITLE: Yokf Gwhwycw Nqrpfnqo 1925
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Nqrpfnqo
+- vintage :: 1925
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 11.64
+- price :: 57.64 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA
+
+

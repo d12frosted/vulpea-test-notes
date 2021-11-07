@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6f20ef23-df16-410f-a749-5494830f4603
+:END:
+#+TITLE: Lrwk Jbaxrmn Avr 1928
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Avr
+- vintage :: 1928
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.32
+- sugar :: 16.24
+- price :: 87.67 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

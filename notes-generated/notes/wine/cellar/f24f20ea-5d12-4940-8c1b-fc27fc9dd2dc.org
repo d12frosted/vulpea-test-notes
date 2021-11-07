@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f24f20ea-5d12-4940-8c1b-fc27fc9dd2dc
+:END:
+#+TITLE: Nhozxqe Aldl Fygkj 1927
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Fygkj
+- vintage :: 1927
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 11.44
+- sugar :: 16.59
+- price :: 29.46 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.5
+- ratings :: [[id:3cc504be-fb10-425c-ae9d-4f9a92e9bdb5][Nhozxqe Aldl Fygkj 1927 - 2007-4-14]]
+
+

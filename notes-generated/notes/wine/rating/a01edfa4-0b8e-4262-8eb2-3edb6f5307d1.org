@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a01edfa4-0b8e-4262-8eb2-3edb6f5307d1
+:END:
+#+TITLE: Cowhhax Upmqcgn Lggff Zxn 1972 - 2005-2-13
+
+- wine :: [[id:780c162a-82c8-4881-b688-881e95bee1a9][Cowhhax Upmqcgn Lggff Zxn 1972]]
+- date :: 2005-2-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

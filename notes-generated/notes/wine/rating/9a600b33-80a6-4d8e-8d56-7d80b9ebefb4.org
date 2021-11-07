@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9a600b33-80a6-4d8e-8d56-7d80b9ebefb4
+:END:
+#+TITLE: Jjkswvm Rcm Efvvr Hdswnbf 1935 - 2021-1-4
+
+- wine :: [[id:f5a3c504-4934-4dc6-93ab-59e61db08b68][Jjkswvm Rcm Efvvr Hdswnbf 1935]]
+- date :: 2021-1-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

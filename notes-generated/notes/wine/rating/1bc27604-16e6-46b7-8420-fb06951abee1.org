@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1bc27604-16e6-46b7-8420-fb06951abee1
+:END:
+#+TITLE: Qay Ehlqq Zdftbl 1998 - 2021-7-4
+
+- wine :: [[id:33910e1b-c189-4f8c-b437-19f54259baf2][Qay Ehlqq Zdftbl 1998]]
+- date :: 2021-7-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

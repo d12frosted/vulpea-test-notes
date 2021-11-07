@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     765823b0-f3fd-4d3c-9359-7d6b1b762d6e
+:END:
+#+TITLE: Yokf Gwhwycw Hbrnkafe 1960 - 2024-7-28
+
+- wine :: [[id:051ec41b-2ffd-44a7-b0c4-33e9bd3d7053][Yokf Gwhwycw Hbrnkafe 1960]]
+- date :: 2024-7-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

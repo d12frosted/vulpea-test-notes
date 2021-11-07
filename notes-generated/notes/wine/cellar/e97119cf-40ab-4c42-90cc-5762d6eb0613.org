@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e97119cf-40ab-4c42-90cc-5762d6eb0613
+:END:
+#+TITLE: Nhozxqe Aldl Qje 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Qje
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 11.27
+- price :: 58.57 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.0
+- ratings :: [[id:f8ad9d0f-fa8d-459f-ba50-7871338d009f][Nhozxqe Aldl Qje NV - 2008-12-24]]
+
+

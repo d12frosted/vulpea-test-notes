@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     413adcbc-7693-4baf-bc93-459d874d25ff
+:END:
+#+TITLE: Yokf Gwhwycw Otpic NV - 1992-11-19
+
+- wine :: [[id:759cb068-e766-45b6-9472-5212f2ed33f0][Yokf Gwhwycw Otpic]]
+- date :: 1992-11-19
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

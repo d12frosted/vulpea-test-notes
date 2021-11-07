@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     780c162a-82c8-4881-b688-881e95bee1a9
+:END:
+#+TITLE: Cowhhax Upmqcgn Lggff Zxn 1972
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Lggff Zxn
+- vintage :: 1972
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 13.85
+- sugar :: 22.1
+- price :: 11.05 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:a01edfa4-0b8e-4262-8eb2-3edb6f5307d1][Cowhhax Upmqcgn Lggff Zxn 1972 - 2005-2-13]]
+
+

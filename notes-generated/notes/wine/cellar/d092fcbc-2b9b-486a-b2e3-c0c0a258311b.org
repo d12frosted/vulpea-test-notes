@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d092fcbc-2b9b-486a-b2e3-c0c0a258311b
+:END:
+#+TITLE: Giih Udr Mwcapkm 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Mwcapkm
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.32
+- price :: 96.78 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.5
+- ratings :: [[id:0e3f0f34-a22b-4f1d-835f-9c5071d14d99][Giih Udr Mwcapkm NV - 2021-10-3]]
+
+

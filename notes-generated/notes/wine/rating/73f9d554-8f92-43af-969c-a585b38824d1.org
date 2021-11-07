@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     73f9d554-8f92-43af-969c-a585b38824d1
+:END:
+#+TITLE: Nhozxqe Aldl Liq 1967 - 2004-7-25
+
+- wine :: [[id:7d1a8784-ed83-4402-a4db-7ee251330bf6][Nhozxqe Aldl Liq 1967]]
+- date :: 2004-7-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

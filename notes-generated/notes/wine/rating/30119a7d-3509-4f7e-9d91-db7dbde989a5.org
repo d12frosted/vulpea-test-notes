@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     30119a7d-3509-4f7e-9d91-db7dbde989a5
+:END:
+#+TITLE: Yokf Gwhwycw Ksjnvz 1983 - 2024-2-1
+
+- wine :: [[id:2da8ef5e-be7a-4479-a17e-195633629e14][Yokf Gwhwycw Ksjnvz 1983]]
+- date :: 2024-2-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

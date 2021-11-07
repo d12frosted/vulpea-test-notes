@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     954e994b-8e5c-474d-be65-b073578bd40a
+:END:
+#+TITLE: Jjkswvm Rcm Kpff Hkam NV - 1995-6-3
+
+- wine :: [[id:aecfd4cb-3f75-4647-8ad3-73d2786a7972][Jjkswvm Rcm Kpff Hkam]]
+- date :: 1995-6-3
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

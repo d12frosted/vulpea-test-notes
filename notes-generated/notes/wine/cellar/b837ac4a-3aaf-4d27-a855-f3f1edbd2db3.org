@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b837ac4a-3aaf-4d27-a855-f3f1edbd2db3
+:END:
+#+TITLE: Lrwk Jbaxrmn Corjfc Aro 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Corjfc Aro
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.3
+- sugar :: 5.44
+- price :: 14.88 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.0
+- ratings :: [[id:f2b6581d-144b-4532-b1c8-b63e940b929a][Lrwk Jbaxrmn Corjfc Aro NV - 2006-7-24]]
+
+

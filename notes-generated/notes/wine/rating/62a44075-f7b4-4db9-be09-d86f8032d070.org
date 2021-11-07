@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     62a44075-f7b4-4db9-be09-d86f8032d070
+:END:
+#+TITLE: Giih Udr Tprwlzkl 1916 - 2003-2-9
+
+- wine :: [[id:6247ce29-b914-42f8-801f-d0383fea551e][Giih Udr Tprwlzkl 1916]]
+- date :: 2003-2-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

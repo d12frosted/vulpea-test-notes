@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3cea5429-a41c-497c-8813-250658a4d57e
+:END:
+#+TITLE: Yokf Gwhwycw Rvmzf Jjfy 1991
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Rvmzf Jjfy
+- vintage :: 1991
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 11.44
+- price :: 29.49 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: duckduckgo
+- rating :: 2.0
+- ratings :: [[id:fb952f54-af3d-49f8-bfbd-3c686a16d4e2][Yokf Gwhwycw Rvmzf Jjfy 1991 - 2008-11-24]]
+
+

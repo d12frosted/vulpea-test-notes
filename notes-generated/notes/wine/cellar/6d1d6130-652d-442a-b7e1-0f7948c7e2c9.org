@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6d1d6130-652d-442a-b7e1-0f7948c7e2c9
+:END:
+#+TITLE: Yokf Gwhwycw Zzyanlyh 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Zzyanlyh
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.62
+- sugar :: 22.01
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.5
+- ratings :: [[id:f03ee1f7-01d3-4676-93df-b7ac0d3f364a][Yokf Gwhwycw Zzyanlyh NV - 2011-8-16]]
+
+

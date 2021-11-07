@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4366d02a-e4a4-431f-a7c9-24eb5066c7ec
+:END:
+#+TITLE: Cowhhax Upmqcgn Rircf Mgsyp 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Rircf Mgsyp
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.34
+- sugar :: 17.07
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.5
+- ratings :: [[id:37326c11-b1a7-47bf-95c2-42551ef06e2d][Cowhhax Upmqcgn Rircf Mgsyp NV - 1990-3-10]]
+
+

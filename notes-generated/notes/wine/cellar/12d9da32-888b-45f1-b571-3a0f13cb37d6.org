@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     12d9da32-888b-45f1-b571-3a0f13cb37d6
+:END:
+#+TITLE: Lrwk Jbaxrmn Odbjoi Mzkqtrp 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Odbjoi Mzkqtrp
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.46
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:977bb08c-062f-43f8-bfd2-807f9fcc90e7][Lrwk Jbaxrmn Odbjoi Mzkqtrp NV - 2021-1-9]]
+
+

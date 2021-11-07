@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     36e414da-de23-4104-92e5-c57462d08598
+:END:
+#+TITLE: Yjfq Ksyyzxc 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ksyyzxc
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 12.16
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:a1a1e64b-ec0c-44de-ba55-863f82ae486d][Yjfq Ksyyzxc NV - 2022-1-21]]
+
+

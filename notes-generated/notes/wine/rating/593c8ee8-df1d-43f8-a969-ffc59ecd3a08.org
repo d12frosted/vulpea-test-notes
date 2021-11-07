@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     593c8ee8-df1d-43f8-a969-ffc59ecd3a08
+:END:
+#+TITLE: Giih Udr Xpdpxhng Gkkp NV - 2001-2-6
+
+- wine :: [[id:f3cc6b60-1fbc-4141-add7-8e4695e7e925][Giih Udr Xpdpxhng Gkkp]]
+- date :: 2001-2-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

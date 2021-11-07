@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     dfbf1949-45a4-44f1-9e2b-5880752abdef
+:END:
+#+TITLE: Qay Neb Jswuyz 1989
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Neb Jswuyz
+- vintage :: 1989
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.120000000000001
+- price :: 70.81 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:b39c888d-0d57-40c7-8e93-6a4f627c6e55][Qay Neb Jswuyz 1989 - 1999-6-23]]
+
+

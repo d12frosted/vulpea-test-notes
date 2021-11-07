@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     de4ef01b-05c8-4b08-8246-1e0a500d6499
+:END:
+#+TITLE: Yokf Gwhwycw Lxtxtet 2013
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Lxtxtet
+- vintage :: 2013
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 11.14
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     a2440f17-7832-4d16-8b9f-b90b7eac6736
+:END:
+#+TITLE: Nhozxqe Aldl Grnyr Xpkndjc 1985
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Grnyr Xpkndjc
+- vintage :: 1985
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.02
+- sugar :: 21.94
+- price :: 23.30 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.0
+- ratings :: [[id:db2a0f9a-068e-48b0-8f1d-b3557fa6ccc3][Nhozxqe Aldl Grnyr Xpkndjc 1985 - 2007-7-22]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a1f91c4b-475c-4290-b655-559773d7d151
+:END:
+#+TITLE: Yjfq Cravbh Lam NV - 1993-5-14
+
+- wine :: [[id:7e1a6fc8-c7df-4a0d-a50f-7bfdb5bd7f7f][Yjfq Cravbh Lam]]
+- date :: 1993-5-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

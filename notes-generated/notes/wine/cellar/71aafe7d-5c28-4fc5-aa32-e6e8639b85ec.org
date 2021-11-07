@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     71aafe7d-5c28-4fc5-aa32-e6e8639b85ec
+:END:
+#+TITLE: Jjkswvm Rcm Mrz Dqmzu 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Mrz Dqmzu
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.0
+- sugar :: 13.99
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

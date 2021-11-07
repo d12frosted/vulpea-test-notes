@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     a4d83a01-0c24-49f9-8a85-b7b1d68ce42c
+:END:
+#+TITLE: Giih Udr Tzwsi 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Tzwsi
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.66
+- sugar :: 22.74
+- price :: 75.35 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.5
+- ratings :: [[id:c758669e-e612-4916-985f-eb845a736aab][Giih Udr Tzwsi NV - 2001-7-4]]
+
+

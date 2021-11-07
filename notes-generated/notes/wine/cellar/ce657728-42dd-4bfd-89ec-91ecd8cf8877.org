@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ce657728-42dd-4bfd-89ec-91ecd8cf8877
+:END:
+#+TITLE: Jjkswvm Rcm Vkbcu Wcgueedq 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Vkbcu Wcgueedq
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.61
+- price :: 7.67 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 2.5
+- ratings :: [[id:f6afc0af-f6f0-4240-ba1a-462e97f36bab][Jjkswvm Rcm Vkbcu Wcgueedq NV - 1994-3-9]]
+
+

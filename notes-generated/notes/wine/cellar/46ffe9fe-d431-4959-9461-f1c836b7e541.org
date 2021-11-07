@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     46ffe9fe-d431-4959-9461-f1c836b7e541
+:END:
+#+TITLE: Jjkswvm Rcm Qiblhiq 1918
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qiblhiq
+- vintage :: 1918
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 12.74
+- sugar :: 19.51
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 2.5
+- ratings :: [[id:478c859a-ecfc-4b21-95bb-b7bb0ef981b1][Jjkswvm Rcm Qiblhiq 1918 - 2019-9-28]]
+
+

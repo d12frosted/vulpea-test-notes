@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     3742345e-7ee8-49f6-92f3-80006c99a17f
+:END:
+#+TITLE: Yjfq Nctjj Ege 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Nctjj Ege
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 11.33
+- sugar :: 12.32
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 5.5
+- ratings :: [[id:a76de3cc-166c-4f60-89e6-96119f93018c][Yjfq Nctjj Ege NV - 1995-3-5]]
+
+

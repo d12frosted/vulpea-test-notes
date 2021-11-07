@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cd3d11f9-b7e8-4f2c-8dd7-c84228cbea53
+:END:
+#+TITLE: Yokf Gwhwycw Xjbjbph 1951 - 2011-12-5
+
+- wine :: [[id:8fa5086a-fcd1-4cc7-ac22-0e69da7f9200][Yokf Gwhwycw Xjbjbph 1951]]
+- date :: 2011-12-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

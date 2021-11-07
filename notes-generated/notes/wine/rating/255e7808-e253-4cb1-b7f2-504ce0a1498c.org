@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     255e7808-e253-4cb1-b7f2-504ce0a1498c
+:END:
+#+TITLE: Nhozxqe Aldl Ikp Fddlegj NV - 2024-10-6
+
+- wine :: [[id:595b21b3-63a0-4ded-9bb9-a0da25192d78][Nhozxqe Aldl Ikp Fddlegj]]
+- date :: 2024-10-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     551dd8a1-dd11-4695-a22d-baf4bb9beab2
+:END:
+#+TITLE: Giih Udr Efqf Rjf 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Efqf Rjf
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 13.8
+- sugar :: 22.23
+- price :: 70.47 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

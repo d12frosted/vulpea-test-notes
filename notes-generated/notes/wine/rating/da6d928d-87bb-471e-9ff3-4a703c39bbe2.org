@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     da6d928d-87bb-471e-9ff3-4a703c39bbe2
+:END:
+#+TITLE: Scf Elpezclx Xrx Veet 1928 - 2001-8-17
+
+- wine :: [[id:7635f735-41f3-4d20-83b4-4dd90ebf0c2a][Scf Elpezclx Xrx Veet 1928]]
+- date :: 2001-8-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

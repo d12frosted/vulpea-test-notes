@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     5011fda3-7e22-44b7-bf43-96013808caa7
+:END:
+#+TITLE: Qay Dmx Bxpvdcg 1924
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Dmx Bxpvdcg
+- vintage :: 1924
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.33
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA
+
+

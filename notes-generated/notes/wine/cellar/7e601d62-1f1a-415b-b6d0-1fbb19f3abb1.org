@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7e601d62-1f1a-415b-b6d0-1fbb19f3abb1
+:END:
+#+TITLE: Giih Udr Lywhfvwm Wiz 1961
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Lywhfvwm Wiz
+- vintage :: 1961
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 9.02
+- price :: 29.56 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA
+
+

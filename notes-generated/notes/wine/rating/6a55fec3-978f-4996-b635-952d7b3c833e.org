@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6a55fec3-978f-4996-b635-952d7b3c833e
+:END:
+#+TITLE: Yokf Gwhwycw Mfru 1984 - 2008-6-16
+
+- wine :: [[id:9729a103-7383-4dcd-97df-d92756ee06d8][Yokf Gwhwycw Mfru 1984]]
+- date :: 2008-6-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

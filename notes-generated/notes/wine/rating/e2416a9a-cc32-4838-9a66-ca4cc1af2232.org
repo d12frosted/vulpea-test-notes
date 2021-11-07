@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e2416a9a-cc32-4838-9a66-ca4cc1af2232
+:END:
+#+TITLE: Giih Udr Azflbn NV - 2019-11-12
+
+- wine :: [[id:0119c111-e39e-4141-a678-054933f6df04][Giih Udr Azflbn]]
+- date :: 2019-11-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

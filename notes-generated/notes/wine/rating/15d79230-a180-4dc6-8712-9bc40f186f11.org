@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     15d79230-a180-4dc6-8712-9bc40f186f11
+:END:
+#+TITLE: Yjfq Uuq Eznwlaex NV - 1995-10-5
+
+- wine :: [[id:aa413325-eb91-47bb-bea2-e6a6111a03b8][Yjfq Uuq Eznwlaex]]
+- date :: 1995-10-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

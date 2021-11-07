@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f73d73ea-400e-4f67-91fa-3db11eb80889
+:END:
+#+TITLE: Giih Udr Vweubw Yxa 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Vweubw Yxa
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 13.71
+- price :: 15.23 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:907b9d96-05bd-4142-b64d-7d0610b26410][Giih Udr Vweubw Yxa NV - 1992-6-21]]
+
+

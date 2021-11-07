@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     f0e3ee18-5ea8-4e96-b328-22c65dd5b667
+:END:
+#+TITLE: Qay Loystu Ooq 1927
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Loystu Ooq
+- vintage :: 1927
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.34
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

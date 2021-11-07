@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9f916a90-8e56-4579-8aa3-d9b450d86f91
+:END:
+#+TITLE: Nhozxqe Aldl Hgupbbeq Ewm 1995
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hgupbbeq Ewm
+- vintage :: 1995
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.23
+- price :: 95.70 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

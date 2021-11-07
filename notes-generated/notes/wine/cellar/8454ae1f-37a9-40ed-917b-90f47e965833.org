@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8454ae1f-37a9-40ed-917b-90f47e965833
+:END:
+#+TITLE: Yokf Gwhwycw Ooasl 1988
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ooasl
+- vintage :: 1988
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.67
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 3.0
+- ratings :: [[id:bdb18564-cdb8-4b79-aace-3534bd2feff5][Yokf Gwhwycw Ooasl 1988 - 2002-1-8]]
+
+

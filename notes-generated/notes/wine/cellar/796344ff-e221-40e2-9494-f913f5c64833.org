@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     796344ff-e221-40e2-9494-f913f5c64833
+:END:
+#+TITLE: Yokf Gwhwycw Xlopkvw 1963
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Xlopkvw
+- vintage :: 1963
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 12.14
+- sugar :: 7.3
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:dd0f6d26-051d-45a0-8c29-ce8f07a06013][Yokf Gwhwycw Xlopkvw 1963 - 1998-1-26]]
+
+

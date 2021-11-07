@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b631e9b0-c9d0-4f23-a426-225e1c638f22
+:END:
+#+TITLE: Giih Udr Fpwwpj 1906 - 1994-1-12
+
+- wine :: [[id:b17fa865-5c79-4d79-835b-bf4e5330432e][Giih Udr Fpwwpj 1906]]
+- date :: 1994-1-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

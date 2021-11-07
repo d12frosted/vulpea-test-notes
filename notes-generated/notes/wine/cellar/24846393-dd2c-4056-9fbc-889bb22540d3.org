@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     24846393-dd2c-4056-9fbc-889bb22540d3
+:END:
+#+TITLE: Giih Udr Luuu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Luuu
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.84
+- sugar :: 0.4
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: 7.0
+- ratings :: [[id:8cbe0977-b1fb-4629-aab4-c5051e3c5c7f][Giih Udr Luuu NV - 1996-3-26]]
+
+

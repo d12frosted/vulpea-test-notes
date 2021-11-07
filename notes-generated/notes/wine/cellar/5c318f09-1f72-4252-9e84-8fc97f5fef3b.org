@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5c318f09-1f72-4252-9e84-8fc97f5fef3b
+:END:
+#+TITLE: Lrwk Jbaxrmn Okol 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Okol
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 13.48
+- sugar :: 21.92
+- price :: 52.59 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:4aecad36-270c-42ea-8824-6941ece0f91d][Lrwk Jbaxrmn Okol NV - 2014-4-7]]
+
+

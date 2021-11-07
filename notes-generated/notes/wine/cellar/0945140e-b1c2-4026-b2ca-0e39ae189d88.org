@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     0945140e-b1c2-4026-b2ca-0e39ae189d88
+:END:
+#+TITLE: Lrwk Jbaxrmn Utmu Smkn 2019
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Utmu Smkn
+- vintage :: 2019
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 9.03
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

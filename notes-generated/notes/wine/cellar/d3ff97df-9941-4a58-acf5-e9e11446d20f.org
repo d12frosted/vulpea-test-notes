@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d3ff97df-9941-4a58-acf5-e9e11446d20f
+:END:
+#+TITLE: Scf Elpezclx Pmtyhxyb Iejq 2000
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Pmtyhxyb Iejq
+- vintage :: 2000
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.89
+- sugar :: 22.94
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 7.0
+- ratings :: [[id:1811803e-8780-4fe1-97e3-5a54f9b620c8][Scf Elpezclx Pmtyhxyb Iejq 2000 - 2004-9-28]]
+
+

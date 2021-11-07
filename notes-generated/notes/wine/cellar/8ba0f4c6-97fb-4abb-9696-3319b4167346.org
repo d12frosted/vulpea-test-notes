@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8ba0f4c6-97fb-4abb-9696-3319b4167346
+:END:
+#+TITLE: Nhozxqe Aldl Tnqnafu Ttlgo 1974
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Tnqnafu Ttlgo
+- vintage :: 1974
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.57
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

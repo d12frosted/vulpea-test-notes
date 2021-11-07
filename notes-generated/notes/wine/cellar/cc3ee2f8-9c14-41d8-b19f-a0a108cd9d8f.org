@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     cc3ee2f8-9c14-41d8-b19f-a0a108cd9d8f
+:END:
+#+TITLE: Nhozxqe Aldl Hvhdgtpy Lytxys 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hvhdgtpy Lytxys
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.98
+- sugar :: 16.08
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

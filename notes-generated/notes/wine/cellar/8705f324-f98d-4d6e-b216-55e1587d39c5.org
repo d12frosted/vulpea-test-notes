@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8705f324-f98d-4d6e-b216-55e1587d39c5
+:END:
+#+TITLE: Nhozxqe Aldl Hrutat Yze 1923
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hrutat Yze
+- vintage :: 1923
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.120000000000001
+- price :: 44.94 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     40614982-b133-43a4-9471-0138cf0eb726
+:END:
+#+TITLE: Scf Elpezclx Cyk Riake 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Cyk Riake
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 13.83
+- sugar :: 13.95
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

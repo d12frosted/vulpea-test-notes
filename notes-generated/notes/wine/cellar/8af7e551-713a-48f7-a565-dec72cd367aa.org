@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8af7e551-713a-48f7-a565-dec72cd367aa
+:END:
+#+TITLE: Ecxknc Iepvhans Tjbeoe 2019
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Tjbeoe
+- vintage :: 2019
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.36
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     997e4de1-f90e-4f62-a53d-df9365e8e17b
+:END:
+#+TITLE: Scf Elpezclx Toc 2009
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Toc
+- vintage :: 2009
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 11.36
+- sugar :: 13.39
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:558f69be-8168-47df-8bb9-e614a68aaf6f][Scf Elpezclx Toc 2009 - 1996-12-13]]
+
+

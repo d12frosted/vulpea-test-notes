@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7b9cf3c9-cbb0-48dd-9732-38ccff706edf
+:END:
+#+TITLE: Cowhhax Upmqcgn Xlc Kmvfpdc 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Xlc Kmvfpdc
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 9.17
+- sugar :: 13.24
+- price :: 31.02 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     53a13e4a-42f7-4a65-a5aa-ed33ce170709
+:END:
+#+TITLE: Jjkswvm Rcm Xkxgwjk Fuoffx 1947
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Xkxgwjk Fuoffx
+- vintage :: 1947
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 12.67
+- price :: 25.69 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:074e75d5-6f79-4c47-95a3-a6e84690e4e2][Jjkswvm Rcm Xkxgwjk Fuoffx 1947 - 2009-4-15]]
+
+

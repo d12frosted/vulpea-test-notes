@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b8d73426-a182-4dc2-9305-74533c8736c6
+:END:
+#+TITLE: Jjkswvm Rcm Imtj 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Imtj
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 9.96
+- price :: 20.02 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

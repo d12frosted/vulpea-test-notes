@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     58a5a33f-bb77-4ac0-8032-7d9c09b814be
+:END:
+#+TITLE: Cowhhax Upmqcgn Lxymtn Icodc 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Lxymtn Icodc
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 9.4
+- sugar :: 8.48
+- price :: 89.57 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.5
+- ratings :: [[id:f74d289e-f438-41a6-a542-b34ae366317b][Cowhhax Upmqcgn Lxymtn Icodc NV - 1997-12-9]]
+
+

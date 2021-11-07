@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6f81fc43-2f7f-4b97-b75f-551bac9960e2
+:END:
+#+TITLE: Cowhhax Upmqcgn Lolztdqp 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Lolztdqp
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.440000000000001
+- price :: 58.95 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA
+
+

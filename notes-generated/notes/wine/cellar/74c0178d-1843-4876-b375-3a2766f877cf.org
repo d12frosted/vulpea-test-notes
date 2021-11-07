@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     74c0178d-1843-4876-b375-3a2766f877cf
+:END:
+#+TITLE: Lrwk Jbaxrmn Ffkvio Tqbui 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ffkvio Tqbui
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.61
+- sugar :: 23.27
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:c3487668-760c-4870-9cc1-4973b9f4ef06][Lrwk Jbaxrmn Ffkvio Tqbui NV - 2023-6-5]]
+
+

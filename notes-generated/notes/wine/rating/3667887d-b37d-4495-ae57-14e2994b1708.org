@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3667887d-b37d-4495-ae57-14e2994b1708
+:END:
+#+TITLE: Qay Resylanz 1962 - 1996-5-11
+
+- wine :: [[id:3be42922-0c3b-4b1e-a8ad-ef6014dc9ad6][Qay Resylanz 1962]]
+- date :: 1996-5-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

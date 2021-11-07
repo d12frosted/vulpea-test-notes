@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     08a59f24-76c0-4440-801f-9f9e903510d3
+:END:
+#+TITLE: Giih Udr Gssut Xqs 1995 - 2022-6-5
+
+- wine :: [[id:037972ec-38dd-4cec-b23c-90fd41ed9a52][Giih Udr Gssut Xqs 1995]]
+- date :: 2022-6-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

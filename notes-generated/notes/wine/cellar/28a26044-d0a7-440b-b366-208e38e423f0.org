@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     28a26044-d0a7-440b-b366-208e38e423f0
+:END:
+#+TITLE: Jjkswvm Rcm Csdta Hefdc 2008
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Csdta Hefdc
+- vintage :: 2008
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 12.97
+- sugar :: 2.94
+- price :: 25.06 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

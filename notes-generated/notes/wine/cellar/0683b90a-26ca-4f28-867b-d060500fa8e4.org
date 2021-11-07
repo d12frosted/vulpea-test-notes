@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     0683b90a-26ca-4f28-867b-d060500fa8e4
+:END:
+#+TITLE: Qay Tsfcarun Dupiltc 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Tsfcarun Dupiltc
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 12.32
+- price :: 100.08 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

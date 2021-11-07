@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     4aa7c0bb-6c8b-4426-9a3f-26198bb4fe8a
+:END:
+#+TITLE: Ecxknc Iepvhans Gohaz 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Gohaz
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 10.05
+- price :: 9.16 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

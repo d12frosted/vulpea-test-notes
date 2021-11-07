@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     11347459-1f76-4bfd-82f7-6ce3d3434db2
+:END:
+#+TITLE: Ecxknc Iepvhans Nlvrebl 1993
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Nlvrebl
+- vintage :: 1993
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.71
+- sugar :: 22.52
+- price :: 55.61 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

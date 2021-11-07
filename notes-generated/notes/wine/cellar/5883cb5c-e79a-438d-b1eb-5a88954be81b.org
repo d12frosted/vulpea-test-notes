@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5883cb5c-e79a-438d-b1eb-5a88954be81b
+:END:
+#+TITLE: Yjfq Atxopu 1915
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Atxopu
+- vintage :: 1915
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.58
+- price :: 9.64 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:ead242e7-932f-4661-a55e-b400a75633a5][Yjfq Atxopu 1915 - 2017-12-8]]
+
+

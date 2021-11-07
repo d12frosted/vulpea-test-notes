@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9bf7ad71-7e34-4945-9343-406b839ccd0c
+:END:
+#+TITLE: Nhozxqe Aldl Onvi Sjb 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Onvi Sjb
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.73
+- sugar :: 18.28
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

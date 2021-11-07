@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9d6b3fae-b4ab-4512-bdee-8ac9d465482e
+:END:
+#+TITLE: Qay Yekfh Hsnil 1975 - 2002-2-27
+
+- wine :: [[id:dc7d5e2f-d883-4d9d-b3e0-eed9bfc45a4c][Qay Yekfh Hsnil 1975]]
+- date :: 2002-2-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

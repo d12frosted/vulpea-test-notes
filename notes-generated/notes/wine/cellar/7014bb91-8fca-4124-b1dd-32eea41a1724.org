@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7014bb91-8fca-4124-b1dd-32eea41a1724
+:END:
+#+TITLE: Yjfq Uhjfzz 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Uhjfzz
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 11.56
+- sugar :: 13.9
+- price :: 97.49 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:11632a67-37b4-43d0-8041-4063bb704f94][Yjfq Uhjfzz NV - 2023-10-18]]
+
+

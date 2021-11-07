@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     980d537c-3964-4e6b-95f4-f9a3ea1ad7b0
+:END:
+#+TITLE: Cowhhax Upmqcgn Qnk Spghvun 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Qnk Spghvun
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.61
+- price :: 26.76 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:893990f0-e80d-4af0-9de6-3ed5a590bdf7][Cowhhax Upmqcgn Qnk Spghvun NV - 2006-3-22]]
+
+

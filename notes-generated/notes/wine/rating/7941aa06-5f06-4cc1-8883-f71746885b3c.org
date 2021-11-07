@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7941aa06-5f06-4cc1-8883-f71746885b3c
+:END:
+#+TITLE: Nhozxqe Aldl Fbftfoy 1986 - 1995-1-10
+
+- wine :: [[id:c7b482cb-86ae-4353-8954-37858c7b5c62][Nhozxqe Aldl Fbftfoy 1986]]
+- date :: 1995-1-10
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

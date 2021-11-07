@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e7a53602-ef25-4d56-b88c-9d6918605ab7
+:END:
+#+TITLE: Cowhhax Upmqcgn Nxh 1998
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Nxh
+- vintage :: 1998
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 12.04
+- price :: 53.36 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:f7571970-f93c-4bda-9ec4-c5816912e605][Cowhhax Upmqcgn Nxh 1998 - 2020-12-25]]
+
+

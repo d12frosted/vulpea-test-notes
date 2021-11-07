@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     af197315-db48-4554-ba55-48177ec94226
+:END:
+#+TITLE: Cowhhax Upmqcgn Mqzh Ddtfmjf 1921 - 1999-4-13
+
+- wine :: [[id:4bfe3b31-99f8-45f5-9978-4fc93ac9fc57][Cowhhax Upmqcgn Mqzh Ddtfmjf 1921]]
+- date :: 1999-4-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     efbb54fb-06bb-469d-bcd1-6a3938b62395
+:END:
+#+TITLE: Lrwk Jbaxrmn Kpcccmb 1994
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Kpcccmb
+- vintage :: 1994
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 10.6
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: 3.0
+- ratings :: [[id:9d53dad7-f7eb-4e55-99fa-b3250361367c][Lrwk Jbaxrmn Kpcccmb 1994 - 2002-8-24]]
+
+

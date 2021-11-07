@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     58d4b93b-9eab-48eb-82c6-67d21880a498
+:END:
+#+TITLE: Giih Udr Lwke 1993
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Lwke
+- vintage :: 1993
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 9.48
+- price :: 82.85 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA
+
+

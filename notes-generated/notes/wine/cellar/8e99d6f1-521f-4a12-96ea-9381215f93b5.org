@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8e99d6f1-521f-4a12-96ea-9381215f93b5
+:END:
+#+TITLE: Qay Bvrwmv Sodezufx 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Bvrwmv Sodezufx
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.15
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:094bbc37-0645-4b7d-b52d-60092ef16163][Qay Bvrwmv Sodezufx NV - 1997-1-4]]
+
+

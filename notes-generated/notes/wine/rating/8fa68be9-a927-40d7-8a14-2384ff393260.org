@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8fa68be9-a927-40d7-8a14-2384ff393260
+:END:
+#+TITLE: Yjfq Suc Wdufo 1968 - 2018-4-2
+
+- wine :: [[id:af798854-b284-4b41-bbf3-fde92a7f11fd][Yjfq Suc Wdufo 1968]]
+- date :: 2018-4-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

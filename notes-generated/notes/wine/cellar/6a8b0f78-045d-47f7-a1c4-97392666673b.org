@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6a8b0f78-045d-47f7-a1c4-97392666673b
+:END:
+#+TITLE: Yokf Gwhwycw Rjjai Ydewght 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Rjjai Ydewght
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.71
+- sugar :: 21.81
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA
+
+

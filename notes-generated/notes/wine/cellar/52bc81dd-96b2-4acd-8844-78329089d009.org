@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     52bc81dd-96b2-4acd-8844-78329089d009
+:END:
+#+TITLE: Yjfq Wrsqfvuw Cecz 1977
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Wrsqfvuw Cecz
+- vintage :: 1977
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 12.34
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:8cf02866-94bc-4df7-93f4-093b50b45dd1][Yjfq Wrsqfvuw Cecz 1977 - 1992-6-9]]
+
+

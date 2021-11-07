@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     844c1438-cc96-4815-ac57-04bb8b2e9900
+:END:
+#+TITLE: Jjkswvm Rcm Klrodlp 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Klrodlp
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 12.53
+- sugar :: 20.69
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:cafda666-da9e-4bb9-9f89-909cee5722ae][Jjkswvm Rcm Klrodlp NV - 1993-9-2]]
+
+

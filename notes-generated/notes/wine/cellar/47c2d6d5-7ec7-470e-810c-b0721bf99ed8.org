@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     47c2d6d5-7ec7-470e-810c-b0721bf99ed8
+:END:
+#+TITLE: Giih Udr Tnzhgikw Yloll 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Tnzhgikw Yloll
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.47
+- sugar :: 0.13
+- price :: 61.80 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA
+
+

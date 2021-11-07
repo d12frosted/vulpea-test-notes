@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e07a5fe8-3bba-464c-a2f7-035dd5160f15
+:END:
+#+TITLE: Lrwk Jbaxrmn Fepwhz Pmn 1930
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Fepwhz Pmn
+- vintage :: 1930
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.15
+- price :: 45.26 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.5
+- ratings :: [[id:8d3b4354-7703-475e-89f6-cfc508352497][Lrwk Jbaxrmn Fepwhz Pmn 1930 - 1991-11-21]]
+
+

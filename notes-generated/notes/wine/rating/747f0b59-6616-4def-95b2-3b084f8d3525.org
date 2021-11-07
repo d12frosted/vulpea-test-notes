@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     747f0b59-6616-4def-95b2-3b084f8d3525
+:END:
+#+TITLE: Yokf Gwhwycw Xun Yeto 1956 - 2017-10-9
+
+- wine :: [[id:4607b165-3eac-4f24-b3a7-504ea983f80b][Yokf Gwhwycw Xun Yeto 1956]]
+- date :: 2017-10-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

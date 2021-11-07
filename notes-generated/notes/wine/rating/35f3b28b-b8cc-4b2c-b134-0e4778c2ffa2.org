@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     35f3b28b-b8cc-4b2c-b134-0e4778c2ffa2
+:END:
+#+TITLE: Yjfq Cdqs NV - 2022-6-16
+
+- wine :: [[id:f9c90e46-1bfd-4d2c-ad66-9d88a5f59dd1][Yjfq Cdqs]]
+- date :: 2022-6-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

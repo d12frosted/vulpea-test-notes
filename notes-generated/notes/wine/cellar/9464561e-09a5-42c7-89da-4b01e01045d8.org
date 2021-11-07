@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9464561e-09a5-42c7-89da-4b01e01045d8
+:END:
+#+TITLE: Nhozxqe Aldl Zmsxgwqu 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Zmsxgwqu
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.530000000000001
+- price :: 54.17 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: duckduckgo
+- rating :: 1.5
+- ratings :: [[id:39041426-3e13-42fa-9fb2-6573d878b086][Nhozxqe Aldl Zmsxgwqu NV - 1990-4-1]]
+
+

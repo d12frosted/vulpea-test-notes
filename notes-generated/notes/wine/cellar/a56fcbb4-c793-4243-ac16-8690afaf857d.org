@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a56fcbb4-c793-4243-ac16-8690afaf857d
+:END:
+#+TITLE: Giih Udr Lrwhwf Ohib 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Lrwhwf Ohib
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.99
+- sugar :: 18.7
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

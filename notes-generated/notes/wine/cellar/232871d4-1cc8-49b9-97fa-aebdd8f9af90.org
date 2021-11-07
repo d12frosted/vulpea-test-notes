@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     232871d4-1cc8-49b9-97fa-aebdd8f9af90
+:END:
+#+TITLE: Nhozxqe Aldl Eczcdarz 1987
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Eczcdarz
+- vintage :: 1987
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 9.05
+- sugar :: 2.28
+- price :: 50.76 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

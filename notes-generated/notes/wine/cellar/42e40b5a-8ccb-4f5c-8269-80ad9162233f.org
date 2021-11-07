@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     42e40b5a-8ccb-4f5c-8269-80ad9162233f
+:END:
+#+TITLE: Lrwk Jbaxrmn Whb 1963
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Whb
+- vintage :: 1963
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.35
+- sugar :: 23.41
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

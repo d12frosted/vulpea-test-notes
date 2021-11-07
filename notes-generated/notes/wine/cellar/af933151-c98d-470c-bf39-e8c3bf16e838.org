@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     af933151-c98d-470c-bf39-e8c3bf16e838
+:END:
+#+TITLE: Jjkswvm Rcm Zpejov 1994
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zpejov
+- vintage :: 1994
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.81
+- price :: 12.15 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

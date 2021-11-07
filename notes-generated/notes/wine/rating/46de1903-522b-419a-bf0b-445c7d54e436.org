@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     46de1903-522b-419a-bf0b-445c7d54e436
+:END:
+#+TITLE: Yjfq Fbk NV - 2024-11-12
+
+- wine :: [[id:4f4ff660-cf5f-47e4-b070-e081202b37ab][Yjfq Fbk]]
+- date :: 2024-11-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

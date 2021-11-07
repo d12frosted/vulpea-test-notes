@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     46061ca9-d680-4ef5-8b1f-6a86bd63dca8
+:END:
+#+TITLE: Lrwk Jbaxrmn Ftbynp 2003
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ftbynp
+- vintage :: 2003
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.129999999999999
+- price :: 69.28 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

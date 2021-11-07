@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     af6baadf-4d10-4f37-823b-c15ab02888fe
+:END:
+#+TITLE: Cowhhax Upmqcgn Vuz 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Vuz
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 12.17
+- price :: 81.80 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA
+
+

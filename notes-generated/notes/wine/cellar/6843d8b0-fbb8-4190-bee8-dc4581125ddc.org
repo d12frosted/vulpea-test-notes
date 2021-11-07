@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6843d8b0-fbb8-4190-bee8-dc4581125ddc
+:END:
+#+TITLE: Qay Eahvwjp 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Eahvwjp
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.08
+- sugar :: 4.4
+- price :: 56.90 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3b0c6ca5-b31e-4b3c-82cb-2e61a2d65b36
+:END:
+#+TITLE: Lrwk Jbaxrmn Kqf 1922 - 2004-7-25
+
+- wine :: [[id:1354dcd9-9ea0-48c4-baec-b36528b82dca][Lrwk Jbaxrmn Kqf 1922]]
+- date :: 2004-7-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

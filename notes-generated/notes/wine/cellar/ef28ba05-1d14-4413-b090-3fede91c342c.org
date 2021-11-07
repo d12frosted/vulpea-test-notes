@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ef28ba05-1d14-4413-b090-3fede91c342c
+:END:
+#+TITLE: Yokf Gwhwycw Bcjmqglu Fvqhtbf 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Bcjmqglu Fvqhtbf
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.95
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 1.5
+- ratings :: [[id:46e32b68-2310-45f6-9c53-10f8cc7db6d7][Yokf Gwhwycw Bcjmqglu Fvqhtbf NV - 2016-12-20]]
+
+

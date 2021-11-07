@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     89e24fd0-76e1-4b64-be4c-f0b6767eece2
+:END:
+#+TITLE: Ecxknc Iepvhans Oyso Ewdmnzl 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Oyso Ewdmnzl
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.07
+- sugar :: 12.55
+- price :: 58.35 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: 5.0
+- ratings :: [[id:8c9446f6-f231-4398-b673-7fa257bed062][Ecxknc Iepvhans Oyso Ewdmnzl NV - 2001-6-10]]
+
+

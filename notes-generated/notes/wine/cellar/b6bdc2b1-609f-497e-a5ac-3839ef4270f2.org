@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b6bdc2b1-609f-497e-a5ac-3839ef4270f2
+:END:
+#+TITLE: Lrwk Jbaxrmn Trtqy 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Trtqy
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.21
+- sugar :: 2.03
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

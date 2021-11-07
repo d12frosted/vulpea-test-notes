@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     79861621-f9fb-4be6-9e43-ba3539e71ca8
+:END:
+#+TITLE: Nhozxqe Aldl Wfuksk Udbj 1936 - 2014-5-27
+
+- wine :: [[id:3149e819-46f6-449e-b352-ed2b6cf3cbfe][Nhozxqe Aldl Wfuksk Udbj 1936]]
+- date :: 2014-5-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

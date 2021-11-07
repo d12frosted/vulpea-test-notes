@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     71eb16e4-71a3-4998-a3f3-6de638cc5c2f
+:END:
+#+TITLE: Jjkswvm Rcm Accpb Fhyucd 1987
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Accpb Fhyucd
+- vintage :: 1987
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.809999999999999
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 7.0
+- ratings :: [[id:e62e3ccb-ce84-45c7-b355-5d23684113e5][Jjkswvm Rcm Accpb Fhyucd 1987 - 1999-2-13]]
+
+

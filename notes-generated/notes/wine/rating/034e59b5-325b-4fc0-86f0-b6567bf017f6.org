@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     034e59b5-325b-4fc0-86f0-b6567bf017f6
+:END:
+#+TITLE: Yokf Gwhwycw Nqqxv NV - 1998-8-13
+
+- wine :: [[id:24ad9a9c-eac7-496a-a89d-921c1ccdd880][Yokf Gwhwycw Nqqxv]]
+- date :: 1998-8-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

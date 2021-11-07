@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     49c7c416-9820-42ce-ba2b-ef5ef1300faf
+:END:
+#+TITLE: Ecxknc Iepvhans Yvyumg Chrmvjc NV - 1992-8-28
+
+- wine :: [[id:785cde16-2579-4d6f-b5cb-2e39c2f15c95][Ecxknc Iepvhans Yvyumg Chrmvjc]]
+- date :: 1992-8-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

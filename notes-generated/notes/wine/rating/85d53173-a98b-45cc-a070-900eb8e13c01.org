@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     85d53173-a98b-45cc-a070-900eb8e13c01
+:END:
+#+TITLE: Lrwk Jbaxrmn Kycfqsc NV - 2006-10-24
+
+- wine :: [[id:2c01c289-f717-4849-9d2b-8495528c17fd][Lrwk Jbaxrmn Kycfqsc]]
+- date :: 2006-10-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0e8a70d9-57b2-47f3-bbba-bfe509d4743a
+:END:
+#+TITLE: Scf Elpezclx Xrrduijp 1928 - 2018-2-17
+
+- wine :: [[id:8f671c45-ae6a-4cb6-bccc-f004f3c65148][Scf Elpezclx Xrrduijp 1928]]
+- date :: 2018-2-17
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

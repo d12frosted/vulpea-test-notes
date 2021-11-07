@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f3a61f18-aaf9-4963-bfac-f4c69695f5fb
+:END:
+#+TITLE: Yjfq Pvpueg 1970
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Pvpueg
+- vintage :: 1970
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 12.66
+- sugar :: 3.2
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:d44a181a-9c06-4548-adcd-4396651a1d5d][Yjfq Pvpueg 1970 - 2012-1-6]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     daf2b1d8-da97-4f6d-9775-5b3f998bc33a
+:END:
+#+TITLE: Yjfq Vomo Dvuwqb NV - 2006-2-5
+
+- wine :: [[id:a8a59495-de8f-430e-9940-978fadab470c][Yjfq Vomo Dvuwqb]]
+- date :: 2006-2-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

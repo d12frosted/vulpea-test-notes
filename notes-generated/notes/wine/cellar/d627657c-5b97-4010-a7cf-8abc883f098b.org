@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d627657c-5b97-4010-a7cf-8abc883f098b
+:END:
+#+TITLE: Cowhhax Upmqcgn Pwur 1905
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Pwur
+- vintage :: 1905
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 10.67
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:3a49de2f-4b84-4d68-9428-00e5596e0724][Cowhhax Upmqcgn Pwur 1905 - 1999-2-9]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9b1c6053-61f7-4b45-a6b3-93ec706063ee
+:END:
+#+TITLE: Ecxknc Iepvhans Rzufa 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Rzufa
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.25
+- sugar :: 22.62
+- price :: 64.35 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     35030efe-6670-4c47-8d9b-c9f92b21c028
+:END:
+#+TITLE: Yokf Gwhwycw Zii 1900
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Zii
+- vintage :: 1900
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.27
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA
+
+

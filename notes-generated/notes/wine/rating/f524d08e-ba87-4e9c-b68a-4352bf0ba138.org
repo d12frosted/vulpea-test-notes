@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f524d08e-ba87-4e9c-b68a-4352bf0ba138
+:END:
+#+TITLE: Qay Lbkbmgs 1976 - 1996-8-9
+
+- wine :: [[id:815181fd-6ad4-4830-a3dd-11c403eedbd6][Qay Lbkbmgs 1976]]
+- date :: 1996-8-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

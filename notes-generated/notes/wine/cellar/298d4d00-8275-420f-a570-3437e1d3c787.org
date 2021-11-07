@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     298d4d00-8275-420f-a570-3437e1d3c787
+:END:
+#+TITLE: Jjkswvm Rcm Zotd 1964
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zotd
+- vintage :: 1964
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.2
+- sugar :: 15.58
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 8.0
+- ratings :: [[id:4e8674c4-3c4c-439a-b1c6-1e7a0a7088de][Jjkswvm Rcm Zotd 1964 - 2007-4-11]]
+
+

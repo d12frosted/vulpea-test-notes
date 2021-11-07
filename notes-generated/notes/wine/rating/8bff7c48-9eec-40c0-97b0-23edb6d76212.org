@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8bff7c48-9eec-40c0-97b0-23edb6d76212
+:END:
+#+TITLE: Cowhhax Upmqcgn Gpxij Bqmnwnj 1923 - 2000-2-28
+
+- wine :: [[id:8c09c416-e8d6-4130-a3f6-8188e1e1d7b0][Cowhhax Upmqcgn Gpxij Bqmnwnj 1923]]
+- date :: 2000-2-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

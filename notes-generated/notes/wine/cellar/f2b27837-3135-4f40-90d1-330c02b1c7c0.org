@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f2b27837-3135-4f40-90d1-330c02b1c7c0
+:END:
+#+TITLE: Lrwk Jbaxrmn Dnvh Ajwwsfls 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Dnvh Ajwwsfls
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 12.01
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:ef13b2d5-2833-4f9c-a5c5-5da16e0a5687][Lrwk Jbaxrmn Dnvh Ajwwsfls NV - 2020-5-12]]
+
+

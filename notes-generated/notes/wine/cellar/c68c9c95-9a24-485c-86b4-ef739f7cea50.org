@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c68c9c95-9a24-485c-86b4-ef739f7cea50
+:END:
+#+TITLE: Qay Crmdb Zsmojumf 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Crmdb Zsmojumf
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.8
+- sugar :: 4.83
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

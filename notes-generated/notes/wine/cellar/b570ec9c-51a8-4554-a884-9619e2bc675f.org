@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b570ec9c-51a8-4554-a884-9619e2bc675f
+:END:
+#+TITLE: Scf Elpezclx Kjponnx 1974
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Kjponnx
+- vintage :: 1974
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.14
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 9.5
+- ratings :: [[id:7d53e59b-0b76-4e22-8f6a-df2718f24448][Scf Elpezclx Kjponnx 1974 - 2007-5-19]]
+
+

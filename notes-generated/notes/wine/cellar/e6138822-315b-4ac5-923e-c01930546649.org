@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e6138822-315b-4ac5-923e-c01930546649
+:END:
+#+TITLE: Ecxknc Iepvhans Whidcm 1950
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Whidcm
+- vintage :: 1950
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 9.64
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: wikipedia
+- rating :: 2.0
+- ratings :: [[id:22d72b3d-1afa-44f4-be36-1feb2f55e212][Ecxknc Iepvhans Whidcm 1950 - 2007-3-26]]
+
+

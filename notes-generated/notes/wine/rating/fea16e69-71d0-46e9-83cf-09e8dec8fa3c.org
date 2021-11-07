@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fea16e69-71d0-46e9-83cf-09e8dec8fa3c
+:END:
+#+TITLE: Jjkswvm Rcm Vatqgl NV - 2006-5-14
+
+- wine :: [[id:faefa0d3-6ba9-4148-b496-bbf8a6bf0c4b][Jjkswvm Rcm Vatqgl]]
+- date :: 2006-5-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

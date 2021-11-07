@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f98ec024-af22-4032-b29b-266a7993230b
+:END:
+#+TITLE: Nhozxqe Aldl Kjxc 1996
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Kjxc
+- vintage :: 1996
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 12.66
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.0
+- ratings :: [[id:1b7b1e64-30aa-4649-90bb-f4bcb18e2ca9][Nhozxqe Aldl Kjxc 1996 - 2001-7-27]]
+
+

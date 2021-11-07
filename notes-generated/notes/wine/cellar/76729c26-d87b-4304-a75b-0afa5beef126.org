@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     76729c26-d87b-4304-a75b-0afa5beef126
+:END:
+#+TITLE: Scf Elpezclx Swpofphf Qaanydl 1911
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Swpofphf Qaanydl
+- vintage :: 1911
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.59
+- sugar :: 19.47
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.0
+- ratings :: [[id:597abe8b-a3cd-4ac0-ace3-6c7c5e955578][Scf Elpezclx Swpofphf Qaanydl 1911 - 2017-12-26]]
+
+

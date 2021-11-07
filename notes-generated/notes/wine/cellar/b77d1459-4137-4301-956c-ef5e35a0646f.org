@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b77d1459-4137-4301-956c-ef5e35a0646f
+:END:
+#+TITLE: Yokf Gwhwycw Bkquep Wxprzpc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Bkquep Wxprzpc
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.52
+- sugar :: 22.28
+- price :: 48.01 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:5f1a5ef7-848e-4abe-92c7-40a12e52c48e][Yokf Gwhwycw Bkquep Wxprzpc NV - 2021-6-8]]
+
+

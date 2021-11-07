@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b45ec922-fb23-4b3b-aa27-fe4b2e7d0e1d
+:END:
+#+TITLE: Cowhhax Upmqcgn Eqta Sckpnv NV - 2008-9-23
+
+- wine :: [[id:0711b657-3a60-419b-b317-a8a110f6ecf8][Cowhhax Upmqcgn Eqta Sckpnv]]
+- date :: 2008-9-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

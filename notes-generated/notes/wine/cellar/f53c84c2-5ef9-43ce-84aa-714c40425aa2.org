@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f53c84c2-5ef9-43ce-84aa-714c40425aa2
+:END:
+#+TITLE: Yokf Gwhwycw Wmtkye Qgkbxj 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Wmtkye Qgkbxj
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 12.120000000000001
+- sugar :: 8.94
+- price :: 23.52 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2d854bd7-f070-4535-8210-acc7106af13a
+:END:
+#+TITLE: Scf Elpezclx Nukgp Xsgp NV - 2003-1-23
+
+- wine :: [[id:d15cd25a-5a2c-4e14-ad8c-1371f03a1f90][Scf Elpezclx Nukgp Xsgp]]
+- date :: 2003-1-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

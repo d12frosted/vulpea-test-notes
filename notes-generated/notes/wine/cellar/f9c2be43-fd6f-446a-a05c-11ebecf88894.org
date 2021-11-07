@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f9c2be43-fd6f-446a-a05c-11ebecf88894
+:END:
+#+TITLE: Yjfq Nqacuj 1919
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Nqacuj
+- vintage :: 1919
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 13.4
+- sugar :: 23.27
+- price :: 54.56 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

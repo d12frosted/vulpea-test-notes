@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     dcbd4985-1b51-4e75-b985-55b9d9d0feec
+:END:
+#+TITLE: Ecxknc Iepvhans Scebslyo 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Scebslyo
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 12.98
+- price :: 70.30 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

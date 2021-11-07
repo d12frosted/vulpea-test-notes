@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c2c99d9d-288a-43c3-ac11-82fcca3f61c2
+:END:
+#+TITLE: Ecxknc Iepvhans Bux Apmixeg 2000
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Bux Apmixeg
+- vintage :: 2000
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.27
+- sugar :: 8.04
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:f38cc66a-f58a-4091-b2d6-b32e9fc9c010][Ecxknc Iepvhans Bux Apmixeg 2000 - 2021-8-28]]
+
+

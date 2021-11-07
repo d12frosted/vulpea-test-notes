@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c3fc3dcc-5941-49c9-8862-f5662e68d4e6
+:END:
+#+TITLE: Giih Udr Sro Gkhmkqj 1929
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Sro Gkhmkqj
+- vintage :: 1929
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 10.02
+- sugar :: 22.35
+- price :: 85.87 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 7.5
+- ratings :: [[id:9dde3a19-1322-4a51-a960-a80b16c1712f][Giih Udr Sro Gkhmkqj 1929 - 2014-10-13]]
+
+

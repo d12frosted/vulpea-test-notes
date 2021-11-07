@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b197a924-b463-4c00-be12-c6e9a76dc9a1
+:END:
+#+TITLE: Lrwk Jbaxrmn Mos 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Mos
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 13.14
+- sugar :: 5.77
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.5
+- ratings :: [[id:4a614d61-776c-4892-a98c-082a75384ed2][Lrwk Jbaxrmn Mos NV - 2016-11-6]]
+
+

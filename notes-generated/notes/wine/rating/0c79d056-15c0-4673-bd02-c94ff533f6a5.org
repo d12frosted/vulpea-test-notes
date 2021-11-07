@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0c79d056-15c0-4673-bd02-c94ff533f6a5
+:END:
+#+TITLE: Yjfq Whtlr Nzwgsukn 1927 - 2005-6-3
+
+- wine :: [[id:0f8cd8f0-23fb-4638-a6a0-de51c54a4af4][Yjfq Whtlr Nzwgsukn 1927]]
+- date :: 2005-6-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

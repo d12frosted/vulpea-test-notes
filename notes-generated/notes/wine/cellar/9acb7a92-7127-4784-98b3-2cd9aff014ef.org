@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9acb7a92-7127-4784-98b3-2cd9aff014ef
+:END:
+#+TITLE: Qay Droappgy 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Droappgy
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.9
+- price :: 12.70 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA
+
+

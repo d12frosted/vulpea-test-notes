@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     37937821-bc56-447c-9860-a50b506b4dee
+:END:
+#+TITLE: Giih Udr Aauyt Tcuj 1905 - 1992-7-18
+
+- wine :: [[id:6f010e9a-6251-49a7-8148-da1e0329fd94][Giih Udr Aauyt Tcuj 1905]]
+- date :: 1992-7-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

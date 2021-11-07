@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     54bdb70e-3448-4682-864d-4498913cdfb1
+:END:
+#+TITLE: Jjkswvm Rcm Vxp Hsanm 1957
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Vxp Hsanm
+- vintage :: 1957
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 12.67
+- sugar :: 16.22
+- price :: 59.06 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:6b18d182-32df-4b23-ac9f-0f1f6d5af074][Jjkswvm Rcm Vxp Hsanm 1957 - 2003-3-18]]
+
+

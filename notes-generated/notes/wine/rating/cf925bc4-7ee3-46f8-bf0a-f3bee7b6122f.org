@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cf925bc4-7ee3-46f8-bf0a-f3bee7b6122f
+:END:
+#+TITLE: Nhozxqe Aldl Ityaqxzo Xhcqech 1986 - 1993-11-21
+
+- wine :: [[id:e480d6e3-0487-4da4-9743-e6722669e96a][Nhozxqe Aldl Ityaqxzo Xhcqech 1986]]
+- date :: 1993-11-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

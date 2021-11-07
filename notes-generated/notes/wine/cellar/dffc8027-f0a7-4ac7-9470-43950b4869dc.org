@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     dffc8027-f0a7-4ac7-9470-43950b4869dc
+:END:
+#+TITLE: Nhozxqe Aldl Oceoal Gjid 1973
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Oceoal Gjid
+- vintage :: 1973
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 12.22
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

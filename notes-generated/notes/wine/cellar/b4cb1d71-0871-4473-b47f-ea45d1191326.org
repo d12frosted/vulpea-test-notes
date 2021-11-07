@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b4cb1d71-0871-4473-b47f-ea45d1191326
+:END:
+#+TITLE: Ecxknc Iepvhans Qykqi Tbufmtcr 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Qykqi Tbufmtcr
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.4
+- price :: 63.02 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

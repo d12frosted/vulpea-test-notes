@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     94001f55-1fa0-4640-a2bc-176420082600
+:END:
+#+TITLE: Giih Udr Ekivh 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ekivh
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 12.73
+- sugar :: 18.38
+- price :: 87.72 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

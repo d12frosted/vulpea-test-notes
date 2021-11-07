@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     1bc26e34-7756-45dd-82e4-ec467bc0a9e4
+:END:
+#+TITLE: Yjfq Frbl 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Frbl
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.04
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

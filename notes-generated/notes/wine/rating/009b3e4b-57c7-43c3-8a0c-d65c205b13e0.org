@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     009b3e4b-57c7-43c3-8a0c-d65c205b13e0
+:END:
+#+TITLE: Scf Elpezclx Cqjf Nwwah 1959 - 2022-6-10
+
+- wine :: [[id:ed36bf2e-4945-4900-9a29-19b76677c8c0][Scf Elpezclx Cqjf Nwwah 1959]]
+- date :: 2022-6-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     649c8060-1db3-4cf3-a780-2d1ca94685d1
+:END:
+#+TITLE: Yokf Gwhwycw Qnur NV - 2003-11-21
+
+- wine :: [[id:d659bd49-871b-44c1-8598-2074156bf9b7][Yokf Gwhwycw Qnur]]
+- date :: 2003-11-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

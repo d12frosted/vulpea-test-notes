@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d34ff152-101a-4daf-b6b3-3078f4a9aa2b
+:END:
+#+TITLE: Yokf Gwhwycw Fdzei 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Fdzei
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 12.5
+- sugar :: 11.87
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

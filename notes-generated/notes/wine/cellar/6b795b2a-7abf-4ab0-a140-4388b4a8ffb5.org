@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6b795b2a-7abf-4ab0-a140-4388b4a8ffb5
+:END:
+#+TITLE: Jjkswvm Rcm Hnefqz Kkfurtu 1963
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Hnefqz Kkfurtu
+- vintage :: 1963
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 12.3
+- sugar :: 22.19
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:66796a35-379e-4ad2-9820-8b584de42d5d][Jjkswvm Rcm Hnefqz Kkfurtu 1963 - 1999-7-5]]
+
+

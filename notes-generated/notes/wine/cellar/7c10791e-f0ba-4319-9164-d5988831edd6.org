@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7c10791e-f0ba-4319-9164-d5988831edd6
+:END:
+#+TITLE: Giih Udr Tizjmifw Sjb 1937
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Tizjmifw Sjb
+- vintage :: 1937
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.84
+- price :: 21.51 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     85c62481-c039-4901-af5f-c3cd06a368d6
+:END:
+#+TITLE: Yjfq Zvipcob Uckz 1972
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Zvipcob Uckz
+- vintage :: 1972
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.71
+- sugar :: 7.03
+- price :: 53.89 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA
+
+

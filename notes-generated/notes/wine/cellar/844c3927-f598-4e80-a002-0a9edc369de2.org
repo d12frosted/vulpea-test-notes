@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     844c3927-f598-4e80-a002-0a9edc369de2
+:END:
+#+TITLE: Cowhhax Upmqcgn Kwlils Xtzhgneh 1978
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Kwlils Xtzhgneh
+- vintage :: 1978
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.12
+- sugar :: 19.9
+- price :: 32.41 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 6.5
+- ratings :: [[id:96082e29-18aa-4d72-9c19-b8f2d0b85302][Cowhhax Upmqcgn Kwlils Xtzhgneh 1978 - 2002-3-22]]
+
+

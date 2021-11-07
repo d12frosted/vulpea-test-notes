@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     9f59f9bc-c46b-40d0-9720-316167cb7f4c
+:END:
+#+TITLE: Cowhhax Upmqcgn Had Cic 1945
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Had Cic
+- vintage :: 1945
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 10.03
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

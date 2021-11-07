@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     af17130e-db0c-4e9a-9e5a-f82be03b7124
+:END:
+#+TITLE: Cowhhax Upmqcgn Uzydiyh NV - 2019-4-26
+
+- wine :: [[id:4766e1ec-f23d-4b55-a20c-df98767e4918][Cowhhax Upmqcgn Uzydiyh]]
+- date :: 2019-4-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

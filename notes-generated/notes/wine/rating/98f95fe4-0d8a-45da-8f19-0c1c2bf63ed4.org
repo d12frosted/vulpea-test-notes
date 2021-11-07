@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     98f95fe4-0d8a-45da-8f19-0c1c2bf63ed4
+:END:
+#+TITLE: Scf Elpezclx Xaarzcwa NV - 2017-8-7
+
+- wine :: [[id:2c045b1b-0314-4ac8-83e7-bc1792b3dd81][Scf Elpezclx Xaarzcwa]]
+- date :: 2017-8-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

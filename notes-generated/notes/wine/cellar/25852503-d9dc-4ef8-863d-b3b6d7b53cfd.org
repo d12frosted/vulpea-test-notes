@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     25852503-d9dc-4ef8-863d-b3b6d7b53cfd
+:END:
+#+TITLE: Lrwk Jbaxrmn Wjq Uujs 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Wjq Uujs
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.0
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 1.5
+- ratings :: [[id:78d8b5f2-f2b4-4261-8ada-e1dea69dbdbb][Lrwk Jbaxrmn Wjq Uujs NV - 2022-9-5]]
+
+

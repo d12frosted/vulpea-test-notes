@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6bdd8e38-7e7d-41b5-82a2-0e4232374b33
+:END:
+#+TITLE: Jjkswvm Rcm Jtj NV - 1992-2-7
+
+- wine :: [[id:d44a985b-a8a8-4142-9fa6-6d64c64a2153][Jjkswvm Rcm Jtj]]
+- date :: 1992-2-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

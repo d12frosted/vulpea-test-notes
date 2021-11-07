@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ae05d66e-b46c-44e4-b647-5655f4033adb
+:END:
+#+TITLE: Ecxknc Iepvhans Apmfhvet Tgkqjnty NV - 2021-2-16
+
+- wine :: [[id:399a7765-6ef8-432f-9e59-7456392078ea][Ecxknc Iepvhans Apmfhvet Tgkqjnty]]
+- date :: 2021-2-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

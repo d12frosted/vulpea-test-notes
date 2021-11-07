@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     3bc480c7-6496-4ac7-aea4-a952965d2ef9
+:END:
+#+TITLE: Scf Elpezclx Ucwr 1908
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ucwr
+- vintage :: 1908
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.9
+- sugar :: 17.08
+- price :: 82.58 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:7c98fb65-0a27-47eb-b6f0-52c50db28411][Scf Elpezclx Ucwr 1908 - 2024-4-24]]
+
+

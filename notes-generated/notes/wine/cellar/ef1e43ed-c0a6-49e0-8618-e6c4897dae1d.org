@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ef1e43ed-c0a6-49e0-8618-e6c4897dae1d
+:END:
+#+TITLE: Yokf Gwhwycw Fqjtrp 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Fqjtrp
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.54
+- price :: 74.69 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

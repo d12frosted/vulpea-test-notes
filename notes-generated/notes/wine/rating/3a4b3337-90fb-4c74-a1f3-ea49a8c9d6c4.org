@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3a4b3337-90fb-4c74-a1f3-ea49a8c9d6c4
+:END:
+#+TITLE: Jjkswvm Rcm Kcpmpc Mpklr NV - 2023-10-12
+
+- wine :: [[id:cb533993-a1a9-4f47-8140-bb1bf957716d][Jjkswvm Rcm Kcpmpc Mpklr]]
+- date :: 2023-10-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

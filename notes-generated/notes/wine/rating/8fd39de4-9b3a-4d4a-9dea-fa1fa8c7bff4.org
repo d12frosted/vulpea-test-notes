@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8fd39de4-9b3a-4d4a-9dea-fa1fa8c7bff4
+:END:
+#+TITLE: Yokf Gwhwycw Twlvdcv Tujhmjh NV - 2017-4-7
+
+- wine :: [[id:9b5ef806-f4b7-4342-b00f-a31314cbfcc9][Yokf Gwhwycw Twlvdcv Tujhmjh]]
+- date :: 2017-4-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

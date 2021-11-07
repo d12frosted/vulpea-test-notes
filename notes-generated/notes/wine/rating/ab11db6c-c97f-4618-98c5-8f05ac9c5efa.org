@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ab11db6c-c97f-4618-98c5-8f05ac9c5efa
+:END:
+#+TITLE: Ecxknc Iepvhans Ndmg Vnynh 1969 - 2022-1-14
+
+- wine :: [[id:2437d7ed-d71c-4762-b797-6103da366495][Ecxknc Iepvhans Ndmg Vnynh 1969]]
+- date :: 2022-1-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

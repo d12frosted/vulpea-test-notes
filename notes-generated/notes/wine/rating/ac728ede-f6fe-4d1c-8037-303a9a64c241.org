@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ac728ede-f6fe-4d1c-8037-303a9a64c241
+:END:
+#+TITLE: Yokf Gwhwycw Saj Jcaqibeb NV - 2003-6-7
+
+- wine :: [[id:437cc787-92ec-46c3-931d-d0429107beda][Yokf Gwhwycw Saj Jcaqibeb]]
+- date :: 2003-6-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

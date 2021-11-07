@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     87a6b0e6-9a49-45bb-b717-31e94577b4e9
+:END:
+#+TITLE: Cowhhax Upmqcgn Wtkdx 2011
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Wtkdx
+- vintage :: 2011
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 13.21
+- sugar :: 3.07
+- price :: 80.45 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA
+
+

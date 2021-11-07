@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1999b324-b7ff-4033-a759-ebce2c80f5c8
+:END:
+#+TITLE: Yokf Gwhwycw Qrp Vnucvtsa 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Qrp Vnucvtsa
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.26
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:8987a0dc-298e-4ab7-a7ca-71136250b6dc][Yokf Gwhwycw Qrp Vnucvtsa NV - 2018-1-19]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     efd90546-6400-43bd-ae82-929ab209d55e
+:END:
+#+TITLE: Qay Lxu Jzhn 2010 - 2004-6-19
+
+- wine :: [[id:cea43934-303b-4372-9329-d7ba4362fe07][Qay Lxu Jzhn 2010]]
+- date :: 2004-6-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

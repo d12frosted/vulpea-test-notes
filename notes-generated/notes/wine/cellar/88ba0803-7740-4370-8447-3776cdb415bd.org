@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     88ba0803-7740-4370-8447-3776cdb415bd
+:END:
+#+TITLE: Yjfq Iam Xqgcor 1922
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Iam Xqgcor
+- vintage :: 1922
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 10.02
+- price :: 61.09 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 7.5
+- ratings :: [[id:4b1e98c1-beb8-4d32-a04d-9308dd792967][Yjfq Iam Xqgcor 1922 - 2022-5-26]]
+
+

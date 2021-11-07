@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     634b5e02-9910-47b1-bb7a-526ec88c1b90
+:END:
+#+TITLE: Giih Udr Nlfmjd 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Nlfmjd
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.2
+- price :: 82.65 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:06975107-24b5-426d-9277-ebc5fbbaf97f][Giih Udr Nlfmjd NV - 2002-7-15]]
+
+

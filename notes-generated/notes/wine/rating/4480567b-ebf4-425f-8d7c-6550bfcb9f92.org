@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4480567b-ebf4-425f-8d7c-6550bfcb9f92
+:END:
+#+TITLE: Giih Udr Ytc NV - 2024-3-5
+
+- wine :: [[id:5456fd6b-2ece-4a2d-9ca2-16f9d49f2e9d][Giih Udr Ytc]]
+- date :: 2024-3-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     aa6678af-d451-44a0-982d-1846d8d86915
+:END:
+#+TITLE: Scf Elpezclx Qpycj 1974 - 1997-7-5
+
+- wine :: [[id:3c4909c1-161e-45cd-bab0-58e607df1dca][Scf Elpezclx Qpycj 1974]]
+- date :: 1997-7-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     91c8a732-3bc3-4fad-8a1f-311b85f8e3b2
+:END:
+#+TITLE: Lrwk Jbaxrmn Xpooq 1905
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xpooq
+- vintage :: 1905
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.370000000000001
+- price :: 6.13 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:3a746401-2c21-45dd-812c-b3987f63884b][Lrwk Jbaxrmn Xpooq 1905 - 2000-6-6]]
+
+

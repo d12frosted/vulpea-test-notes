@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     309953e2-cd99-4a64-95a4-19a8a3eefad8
+:END:
+#+TITLE: Lrwk Jbaxrmn Qhuib Extlkdlf 2016
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qhuib Extlkdlf
+- vintage :: 2016
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.06
+- price :: 34.97 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:3bced9dc-4d40-4166-86ab-0840f3a7e49e][Lrwk Jbaxrmn Qhuib Extlkdlf 2016 - 2013-11-1]]
+
+

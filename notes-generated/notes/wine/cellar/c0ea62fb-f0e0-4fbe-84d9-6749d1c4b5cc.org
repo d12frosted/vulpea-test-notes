@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c0ea62fb-f0e0-4fbe-84d9-6749d1c4b5cc
+:END:
+#+TITLE: Yokf Gwhwycw Ynvbxopu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ynvbxopu
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.04
+- sugar :: 15.81
+- price :: 47.46 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

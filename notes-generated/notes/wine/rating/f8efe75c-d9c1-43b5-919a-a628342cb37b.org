@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f8efe75c-d9c1-43b5-919a-a628342cb37b
+:END:
+#+TITLE: Yokf Gwhwycw Copxcl Yfkhxlj NV - 2017-3-18
+
+- wine :: [[id:5a439599-73d2-407f-b2b1-25393482a99e][Yokf Gwhwycw Copxcl Yfkhxlj]]
+- date :: 2017-3-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

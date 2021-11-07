@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ee9c3ec1-2f28-41ef-a43c-b1b01c013c66
+:END:
+#+TITLE: Ecxknc Iepvhans Baetw 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Baetw
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 11.09
+- sugar :: 2.54
+- price :: 49.82 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:0e72bf5b-25e7-4faa-a74b-6be4840e2e46][Ecxknc Iepvhans Baetw NV - 2022-12-11]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a6a3626b-5980-4cc5-a48b-b1230283b226
+:END:
+#+TITLE: Giih Udr Dlpe 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Dlpe
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 11.43
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:3c417d2f-3831-4568-a778-cc604fbf8537][Giih Udr Dlpe NV - 2001-12-22]]
+
+

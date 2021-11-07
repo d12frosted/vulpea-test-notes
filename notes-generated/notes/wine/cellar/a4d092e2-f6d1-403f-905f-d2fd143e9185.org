@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a4d092e2-f6d1-403f-905f-d2fd143e9185
+:END:
+#+TITLE: Nhozxqe Aldl Dkhen 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Dkhen
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.27
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:d4d20f32-991d-401d-a680-034c41ead1f3][Nhozxqe Aldl Dkhen NV - 2020-11-23]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9959416c-a1de-4303-aae1-efa94afed67d
+:END:
+#+TITLE: Jjkswvm Rcm Lkzcu 1924
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Lkzcu
+- vintage :: 1924
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 9.75
+- sugar :: 2.17
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:4da3efc1-1d9a-493d-9e12-9d0296430ad9][Jjkswvm Rcm Lkzcu 1924 - 1997-12-6]]
+
+

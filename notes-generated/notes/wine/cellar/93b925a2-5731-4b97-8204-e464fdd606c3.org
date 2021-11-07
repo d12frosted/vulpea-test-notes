@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     93b925a2-5731-4b97-8204-e464fdd606c3
+:END:
+#+TITLE: Yjfq Fzv Odfe 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Fzv Odfe
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.5
+- sugar :: 3.03
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:0ee5c3f3-2303-4a22-80c8-a0d55e4de9f4][Yjfq Fzv Odfe NV - 2022-8-18]]
+
+

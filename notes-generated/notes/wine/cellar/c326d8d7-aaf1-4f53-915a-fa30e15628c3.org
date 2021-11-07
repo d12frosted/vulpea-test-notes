@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c326d8d7-aaf1-4f53-915a-fa30e15628c3
+:END:
+#+TITLE: Jjkswvm Rcm Suzhgf Kpukh 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Suzhgf Kpukh
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 11.25
+- price :: 25.72 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.0
+- ratings :: [[id:da1fd89b-6317-4ed7-aaea-b56173f57225][Jjkswvm Rcm Suzhgf Kpukh NV - 2024-7-1]]
+
+

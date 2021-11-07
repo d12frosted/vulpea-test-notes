@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c742ce67-e12c-4499-a6dc-5d1e778de66a
+:END:
+#+TITLE: Nhozxqe Aldl Egwxzfy Qpojcoqo 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Egwxzfy Qpojcoqo
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 11.5
+- sugar :: 6.21
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

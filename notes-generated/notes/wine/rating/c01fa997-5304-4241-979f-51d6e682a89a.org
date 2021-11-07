@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c01fa997-5304-4241-979f-51d6e682a89a
+:END:
+#+TITLE: Lrwk Jbaxrmn Gmlsul Pwj NV - 2021-6-26
+
+- wine :: [[id:753965da-5546-403c-8a17-b890668b4e54][Lrwk Jbaxrmn Gmlsul Pwj]]
+- date :: 2021-6-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

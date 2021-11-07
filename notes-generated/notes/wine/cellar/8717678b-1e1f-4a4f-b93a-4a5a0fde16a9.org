@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8717678b-1e1f-4a4f-b93a-4a5a0fde16a9
+:END:
+#+TITLE: Yjfq Enbc Gzjj 1961
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Enbc Gzjj
+- vintage :: 1961
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 12.16
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.5
+- ratings :: [[id:40a4853e-3677-4af4-ad57-165f8f82d6dd][Yjfq Enbc Gzjj 1961 - 2001-8-6]]
+
+

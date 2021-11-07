@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     7f4a84f7-bff2-4e27-8a8c-128c35c10bf0
+:END:
+#+TITLE: Lrwk Jbaxrmn Kiziqqvr Kjcaamnt 1944
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Kiziqqvr Kjcaamnt
+- vintage :: 1944
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.82
+- price :: 22.60 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 8.5
+- ratings :: [[id:aa415097-124e-4778-9883-8df85f23be0e][Lrwk Jbaxrmn Kiziqqvr Kjcaamnt 1944 - 1993-5-1]]
+
+

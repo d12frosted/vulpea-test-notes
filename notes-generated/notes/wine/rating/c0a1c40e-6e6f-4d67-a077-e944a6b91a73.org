@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c0a1c40e-6e6f-4d67-a077-e944a6b91a73
+:END:
+#+TITLE: Nhozxqe Aldl Wrhds Dieyk 1978 - 2021-4-9
+
+- wine :: [[id:15f2def2-b099-4ed8-ae71-9e05891609b4][Nhozxqe Aldl Wrhds Dieyk 1978]]
+- date :: 2021-4-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

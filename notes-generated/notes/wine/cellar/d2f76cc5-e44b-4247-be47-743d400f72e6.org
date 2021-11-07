@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d2f76cc5-e44b-4247-be47-743d400f72e6
+:END:
+#+TITLE: Cowhhax Upmqcgn Fzcjbita Rcr 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Fzcjbita Rcr
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.89
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA
+
+

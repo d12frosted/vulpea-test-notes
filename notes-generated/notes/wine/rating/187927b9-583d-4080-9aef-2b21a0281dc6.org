@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     187927b9-583d-4080-9aef-2b21a0281dc6
+:END:
+#+TITLE: Cowhhax Upmqcgn Oqw Fhmzkude 1951 - 2023-12-5
+
+- wine :: [[id:c8021349-dcdd-443b-a78b-7b8587192bf5][Cowhhax Upmqcgn Oqw Fhmzkude 1951]]
+- date :: 2023-12-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

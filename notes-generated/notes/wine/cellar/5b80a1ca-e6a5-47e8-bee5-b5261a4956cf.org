@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     5b80a1ca-e6a5-47e8-bee5-b5261a4956cf
+:END:
+#+TITLE: Jjkswvm Rcm Scg 2000
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Scg
+- vintage :: 2000
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 13.84
+- price :: 56.51 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:4563e79e-58bd-421c-a24e-ceffe7994311][Jjkswvm Rcm Scg 2000 - 2024-8-4]]
+
+

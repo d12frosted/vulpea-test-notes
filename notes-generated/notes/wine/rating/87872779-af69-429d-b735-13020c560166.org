@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     87872779-af69-429d-b735-13020c560166
+:END:
+#+TITLE: Qay Dvxg Lwalivjk NV - 2009-9-24
+
+- wine :: [[id:feef91d1-8391-422b-89e7-0aa316917ec1][Qay Dvxg Lwalivjk]]
+- date :: 2009-9-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

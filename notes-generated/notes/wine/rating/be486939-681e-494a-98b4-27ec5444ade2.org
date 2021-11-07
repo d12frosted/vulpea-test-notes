@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     be486939-681e-494a-98b4-27ec5444ade2
+:END:
+#+TITLE: Scf Elpezclx Hacc Dkll NV - 2024-2-7
+
+- wine :: [[id:7428999e-8d79-4877-9c74-752e54384e0b][Scf Elpezclx Hacc Dkll]]
+- date :: 2024-2-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

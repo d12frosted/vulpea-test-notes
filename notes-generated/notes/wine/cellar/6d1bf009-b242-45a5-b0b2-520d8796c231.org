@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6d1bf009-b242-45a5-b0b2-520d8796c231
+:END:
+#+TITLE: Giih Udr Txwsc Fcjeb 1915
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Txwsc Fcjeb
+- vintage :: 1915
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 10.31
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 6.5
+- ratings :: [[id:1add0122-8562-469a-9ea0-f1ba36b58e73][Giih Udr Txwsc Fcjeb 1915 - 1999-1-17]]
+
+

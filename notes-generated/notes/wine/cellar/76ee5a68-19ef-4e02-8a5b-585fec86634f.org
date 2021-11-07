@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     76ee5a68-19ef-4e02-8a5b-585fec86634f
+:END:
+#+TITLE: Lrwk Jbaxrmn Taig Usdkj 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Taig Usdkj
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.52
+- sugar :: 16.09
+- price :: 35.61 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

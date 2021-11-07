@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     24f0a3b2-b2d6-4794-a035-eebd5e6535be
+:END:
+#+TITLE: Ecxknc Iepvhans Pqf 1949
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Pqf
+- vintage :: 1949
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.04
+- sugar :: 5.4
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA
+
+

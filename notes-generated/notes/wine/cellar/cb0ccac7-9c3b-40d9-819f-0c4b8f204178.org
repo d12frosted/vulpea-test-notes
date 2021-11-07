@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     cb0ccac7-9c3b-40d9-819f-0c4b8f204178
+:END:
+#+TITLE: Yjfq Bcna Ukbsracq 2014
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Bcna Ukbsracq
+- vintage :: 2014
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 13.42
+- price :: 86.38 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

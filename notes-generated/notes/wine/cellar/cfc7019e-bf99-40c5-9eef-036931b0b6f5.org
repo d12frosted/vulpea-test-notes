@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     cfc7019e-bf99-40c5-9eef-036931b0b6f5
+:END:
+#+TITLE: Qay Wllpnpy 1914
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Wllpnpy
+- vintage :: 1914
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 11.14
+- sugar :: 1.29
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 8.0
+- ratings :: [[id:539c826b-0a7a-4902-bb31-2d5a255e4028][Qay Wllpnpy 1914 - 2016-11-28]]
+
+

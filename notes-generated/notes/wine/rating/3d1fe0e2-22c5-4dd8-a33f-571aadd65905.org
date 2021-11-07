@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3d1fe0e2-22c5-4dd8-a33f-571aadd65905
+:END:
+#+TITLE: Yjfq Jenm Mioebm 1973 - 2005-11-6
+
+- wine :: [[id:3ab96126-034d-4a8f-9504-f17ef35d2d23][Yjfq Jenm Mioebm 1973]]
+- date :: 2005-11-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

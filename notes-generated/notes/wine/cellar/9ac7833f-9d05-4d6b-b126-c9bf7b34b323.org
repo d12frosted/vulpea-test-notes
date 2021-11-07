@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     9ac7833f-9d05-4d6b-b126-c9bf7b34b323
+:END:
+#+TITLE: Yjfq Smerdz Gctofo 2018
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Smerdz Gctofo
+- vintage :: 2018
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 12.99
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

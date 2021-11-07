@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     1517712c-0b59-48c3-a56c-7c8ef5f33f0f
+:END:
+#+TITLE: Nhozxqe Aldl Slonbuni 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Slonbuni
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 10.870000000000001
+- price :: 51.74 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: wikipedia
+- rating :: NA
+
+

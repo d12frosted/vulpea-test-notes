@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     fe475d23-0b66-44a6-9424-a2b60c685025
+:END:
+#+TITLE: Scf Elpezclx Ahh 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ahh
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.67
+- sugar :: 0.6
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:55a94149-82f3-41c4-95c2-2ef417a94913][Scf Elpezclx Ahh NV - 2017-4-7]]
+
+

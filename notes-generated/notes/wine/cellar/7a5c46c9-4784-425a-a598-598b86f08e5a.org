@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7a5c46c9-4784-425a-a598-598b86f08e5a
+:END:
+#+TITLE: Ecxknc Iepvhans Ixnvh 1998
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ixnvh
+- vintage :: 1998
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 12.27
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 7.0
+- ratings :: [[id:6c07594c-ef61-44be-980e-a919f5154e6e][Ecxknc Iepvhans Ixnvh 1998 - 1990-9-16]]
+
+

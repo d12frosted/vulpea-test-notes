@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     bd93da09-c1d4-45b9-992a-3dbf803c777e
+:END:
+#+TITLE: Nhozxqe Aldl Ruunsq 1930
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ruunsq
+- vintage :: 1930
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.809999999999999
+- price :: 97.07 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:b1204a08-7c72-41f6-be86-77395fc630b4][Nhozxqe Aldl Ruunsq 1930 - 2003-7-7]]
+
+

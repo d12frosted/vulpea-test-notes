@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     47f402c0-d4a1-4873-bf85-80e7b6668a6a
+:END:
+#+TITLE: Giih Udr Cijz 1929
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Cijz
+- vintage :: 1929
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.03
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA
+
+

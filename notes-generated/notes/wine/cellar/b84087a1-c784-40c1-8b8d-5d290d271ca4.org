@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b84087a1-c784-40c1-8b8d-5d290d271ca4
+:END:
+#+TITLE: Yjfq Xzhgyf 1902
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Xzhgyf
+- vintage :: 1902
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 13.29
+- sugar :: 6.28
+- price :: 36.65 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.0
+- ratings :: [[id:053d6a9c-8874-4ecd-8020-dedd83fe4a35][Yjfq Xzhgyf 1902 - 1999-4-3]]
+
+

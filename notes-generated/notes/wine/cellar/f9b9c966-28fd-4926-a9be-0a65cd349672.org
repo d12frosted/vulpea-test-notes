@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f9b9c966-28fd-4926-a9be-0a65cd349672
+:END:
+#+TITLE: Yjfq Grgbpnb 1991
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Grgbpnb
+- vintage :: 1991
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 9.44
+- sugar :: 4.43
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

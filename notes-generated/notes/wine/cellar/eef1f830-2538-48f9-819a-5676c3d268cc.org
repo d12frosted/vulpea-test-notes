@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     eef1f830-2538-48f9-819a-5676c3d268cc
+:END:
+#+TITLE: Jjkswvm Rcm Eeulou Yco 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Eeulou Yco
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 13.58
+- price :: 29.24 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b32d13a7-e5ac-4c47-b776-75e468897e53
+:END:
+#+TITLE: Yokf Gwhwycw Eifhc Oima 1963 - 2019-3-5
+
+- wine :: [[id:ac8f92ff-6425-40ff-a498-ab68cdd2b038][Yokf Gwhwycw Eifhc Oima 1963]]
+- date :: 2019-3-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

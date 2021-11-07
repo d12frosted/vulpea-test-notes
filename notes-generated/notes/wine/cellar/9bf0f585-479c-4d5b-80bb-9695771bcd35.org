@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9bf0f585-479c-4d5b-80bb-9695771bcd35
+:END:
+#+TITLE: Jjkswvm Rcm Bxl 1948
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Bxl
+- vintage :: 1948
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 12.28
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: 3.0
+- ratings :: [[id:46b8d812-6779-4ef5-bcfc-aca893c4adbc][Jjkswvm Rcm Bxl 1948 - 1997-1-15]]
+
+

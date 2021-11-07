@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     38d4375b-20e8-4073-a678-fc4417abdd1b
+:END:
+#+TITLE: Lrwk Jbaxrmn Rtmvvahp 1915
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rtmvvahp
+- vintage :: 1915
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.59
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA
+
+

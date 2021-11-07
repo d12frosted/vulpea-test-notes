@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e6beb9f9-ff10-430c-ac99-bb74d48e81bf
+:END:
+#+TITLE: Lrwk Jbaxrmn Pbkrje 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Pbkrje
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 13.68
+- price :: 48.01 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.5
+- ratings :: [[id:b34d10fa-6a97-4542-8c4b-d02bb9a6b185][Lrwk Jbaxrmn Pbkrje NV - 2000-12-10]]
+
+

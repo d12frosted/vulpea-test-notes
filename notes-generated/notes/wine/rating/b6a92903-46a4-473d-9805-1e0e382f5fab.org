@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b6a92903-46a4-473d-9805-1e0e382f5fab
+:END:
+#+TITLE: Jjkswvm Rcm Tuwjxkhy Liu NV - 2016-7-27
+
+- wine :: [[id:793556d3-07ec-4188-9355-222365177e6d][Jjkswvm Rcm Tuwjxkhy Liu]]
+- date :: 2016-7-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

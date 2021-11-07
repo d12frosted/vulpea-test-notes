@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f1f0a48e-ddf4-4f3b-a063-0c85f5376ad5
+:END:
+#+TITLE: Yjfq Jielq NV - 2002-1-26
+
+- wine :: [[id:ab75ba9d-2f27-4cf5-a7c3-0595149d6a7a][Yjfq Jielq]]
+- date :: 2002-1-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     60697d5f-af8d-461a-9225-ad9de272864b
+:END:
+#+TITLE: Yokf Gwhwycw Yocowoc Fkdr 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Yocowoc Fkdr
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 10.84
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:4761798c-4e72-4138-9225-73bdfed3a3a3][Yokf Gwhwycw Yocowoc Fkdr NV - 1991-10-23]]
+
+

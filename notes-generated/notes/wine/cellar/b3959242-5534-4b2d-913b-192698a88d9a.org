@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b3959242-5534-4b2d-913b-192698a88d9a
+:END:
+#+TITLE: Cowhhax Upmqcgn Fig 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Fig
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 9.29
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: wikipedia
+- rating :: NA
+
+

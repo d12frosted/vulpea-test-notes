@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     34d74912-59ee-44af-be30-a33e6c156921
+:END:
+#+TITLE: Lrwk Jbaxrmn Mfsyi Wsax NV - 2010-2-19
+
+- wine :: [[id:c0cd3e16-5112-4b86-af11-84a1ef4f38be][Lrwk Jbaxrmn Mfsyi Wsax]]
+- date :: 2010-2-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

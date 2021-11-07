@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d754df1b-e450-4884-a51e-a3301b694807
+:END:
+#+TITLE: Yokf Gwhwycw Bsxthx 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Bsxthx
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 10.24
+- sugar :: 8.73
+- price :: 33.53 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:46f34158-e659-491e-8cd2-c1e14ba42a21][Yokf Gwhwycw Bsxthx NV - 2015-3-17]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     08138f6f-44f4-414e-b8b7-e07edfc2b274
+:END:
+#+TITLE: Qay Ioqm 2001
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ioqm
+- vintage :: 2001
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.69
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 2.0
+- ratings :: [[id:c46569d2-7a2f-4918-8b44-801298adc14a][Qay Ioqm 2001 - 2010-9-5]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ca5b391d-3f23-474a-82c9-2d9565347347
+:END:
+#+TITLE: Giih Udr Ovlil 1982
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ovlil
+- vintage :: 1982
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.88
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA
+
+

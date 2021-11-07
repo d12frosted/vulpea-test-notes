@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a95f9521-18ac-4777-bb7e-35db18a3d863
+:END:
+#+TITLE: Ecxknc Iepvhans Tdggx 1908 - 2022-10-3
+
+- wine :: [[id:0793d09b-8311-42ca-abf4-9c388c19811a][Ecxknc Iepvhans Tdggx 1908]]
+- date :: 2022-10-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

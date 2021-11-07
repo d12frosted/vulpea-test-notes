@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     4d6ef9a5-7d16-435f-a0c0-85905d05a74a
+:END:
+#+TITLE: Yjfq Sennzee Felfahb 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Sennzee Felfahb
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 13.309999999999999
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA
+
+

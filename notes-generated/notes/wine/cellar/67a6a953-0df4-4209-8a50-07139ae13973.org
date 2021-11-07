@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     67a6a953-0df4-4209-8a50-07139ae13973
+:END:
+#+TITLE: Scf Elpezclx Tcmmoo 1936
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Tcmmoo
+- vintage :: 1936
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.28
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 1.5
+- ratings :: [[id:d8453a48-27ea-45af-aa10-a8a62b0e9a9f][Scf Elpezclx Tcmmoo 1936 - 2005-1-18]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e90b41bf-73f1-45e2-82fa-659d6f2805d4
+:END:
+#+TITLE: Ecxknc Iepvhans Tye Bhhoqiwf 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Tye Bhhoqiwf
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.3
+- sugar :: 0.87
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a0553413-44c1-4176-8566-46f710cfd04c
+:END:
+#+TITLE: Ecxknc Iepvhans Kiuvnt 1963
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Kiuvnt
+- vintage :: 1963
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.83
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA
+
+

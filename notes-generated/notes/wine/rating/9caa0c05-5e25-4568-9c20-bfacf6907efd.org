@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9caa0c05-5e25-4568-9c20-bfacf6907efd
+:END:
+#+TITLE: Jjkswvm Rcm Rpgrxhe Rsfnbm 1981 - 2020-5-28
+
+- wine :: [[id:bde35a4e-3298-4485-ae18-6a5007f2334f][Jjkswvm Rcm Rpgrxhe Rsfnbm 1981]]
+- date :: 2020-5-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

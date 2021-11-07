@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e3f7ca9a-023e-4e32-b8a7-37f4b65b7bba
+:END:
+#+TITLE: Cowhhax Upmqcgn Xuku 1967 - 2002-12-25
+
+- wine :: [[id:4752fcad-4eb3-49f4-8a7b-9780a0eeb8f6][Cowhhax Upmqcgn Xuku 1967]]
+- date :: 2002-12-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

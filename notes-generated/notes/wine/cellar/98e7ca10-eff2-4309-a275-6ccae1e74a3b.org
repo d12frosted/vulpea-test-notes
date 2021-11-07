@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     98e7ca10-eff2-4309-a275-6ccae1e74a3b
+:END:
+#+TITLE: Qay Zsw 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Zsw
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.0
+- sugar :: 12.05
+- price :: 66.93 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA
+
+

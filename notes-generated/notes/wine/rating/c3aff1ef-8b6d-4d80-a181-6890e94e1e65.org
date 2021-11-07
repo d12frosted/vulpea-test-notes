@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c3aff1ef-8b6d-4d80-a181-6890e94e1e65
+:END:
+#+TITLE: Nhozxqe Aldl Evzow Otkmb 1997 - 2021-12-14
+
+- wine :: [[id:8c97ae35-58d6-40f4-9f9d-09c347e50fed][Nhozxqe Aldl Evzow Otkmb 1997]]
+- date :: 2021-12-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

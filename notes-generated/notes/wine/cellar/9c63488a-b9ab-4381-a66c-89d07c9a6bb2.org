@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     9c63488a-b9ab-4381-a66c-89d07c9a6bb2
+:END:
+#+TITLE: Cowhhax Upmqcgn Xng 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Xng
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 11.27
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

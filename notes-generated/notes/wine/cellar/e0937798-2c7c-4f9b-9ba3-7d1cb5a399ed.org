@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e0937798-2c7c-4f9b-9ba3-7d1cb5a399ed
+:END:
+#+TITLE: Yokf Gwhwycw Ubfrrf Sjbivbgr 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ubfrrf Sjbivbgr
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 10.76
+- sugar :: 20.63
+- price :: 52.71 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.5
+- ratings :: [[id:c2254a73-ab06-4938-ab4f-28c2b3cd4ccc][Yokf Gwhwycw Ubfrrf Sjbivbgr NV - 2024-2-19]]
+
+

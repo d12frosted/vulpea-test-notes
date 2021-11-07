@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d6908ab7-b96d-4283-b2ed-c8bb9d804ccb
+:END:
+#+TITLE: Cowhhax Upmqcgn Divi Sfhl NV - 2007-10-23
+
+- wine :: [[id:104e7363-0ed7-4e0d-87a3-64518c8df038][Cowhhax Upmqcgn Divi Sfhl]]
+- date :: 2007-10-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

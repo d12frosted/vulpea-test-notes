@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     06392326-db82-435b-aa59-127151cf476b
+:END:
+#+TITLE: Jjkswvm Rcm Etdbrbl Zjfwinkc 1962
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Etdbrbl Zjfwinkc
+- vintage :: 1962
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.27
+- sugar :: 14.9
+- price :: 84.39 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:2b45c058-bfd8-4d6c-847c-717c0c4bfe67][Jjkswvm Rcm Etdbrbl Zjfwinkc 1962 - 2011-12-25]]
+
+

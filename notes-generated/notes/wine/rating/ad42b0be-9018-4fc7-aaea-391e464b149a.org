@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ad42b0be-9018-4fc7-aaea-391e464b149a
+:END:
+#+TITLE: Qay Hsinon NV - 2013-3-7
+
+- wine :: [[id:f8b1e8cb-c7c1-4432-9738-22d66e93425e][Qay Hsinon]]
+- date :: 2013-3-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

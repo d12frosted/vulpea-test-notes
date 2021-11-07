@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     64d451ff-7936-4f74-bb6b-1f21fc2a3c19
+:END:
+#+TITLE: Jjkswvm Rcm Rpizirza 1961 - 2023-7-5
+
+- wine :: [[id:e459583c-2b8f-4a5b-a542-0ba56fdfabc8][Jjkswvm Rcm Rpizirza 1961]]
+- date :: 2023-7-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

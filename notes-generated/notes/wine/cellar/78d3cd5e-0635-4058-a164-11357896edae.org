@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     78d3cd5e-0635-4058-a164-11357896edae
+:END:
+#+TITLE: Lrwk Jbaxrmn Knhile 1918
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Knhile
+- vintage :: 1918
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 11.54
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:92c6efdb-ebd6-40fc-b4d4-f286deefd55e][Lrwk Jbaxrmn Knhile 1918 - 1999-4-20]]
+
+

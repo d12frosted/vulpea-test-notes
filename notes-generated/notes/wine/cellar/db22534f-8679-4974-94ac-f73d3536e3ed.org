@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     db22534f-8679-4974-94ac-f73d3536e3ed
+:END:
+#+TITLE: Jjkswvm Rcm Jiges Mhxepz 1984
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Jiges Mhxepz
+- vintage :: 1984
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 10.31
+- sugar :: 13.26
+- price :: 55.16 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:4b0a089a-0ef6-4aa6-9e6d-0e5ea83feee3][Jjkswvm Rcm Jiges Mhxepz 1984 - 2002-7-13]]
+
+

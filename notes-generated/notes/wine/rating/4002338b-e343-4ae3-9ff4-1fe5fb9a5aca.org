@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4002338b-e343-4ae3-9ff4-1fe5fb9a5aca
+:END:
+#+TITLE: Cowhhax Upmqcgn Ydjufr 1965 - 2018-3-20
+
+- wine :: [[id:1168f838-bc98-4b5d-9291-950142f48225][Cowhhax Upmqcgn Ydjufr 1965]]
+- date :: 2018-3-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

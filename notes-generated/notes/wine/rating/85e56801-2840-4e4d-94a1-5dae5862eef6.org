@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     85e56801-2840-4e4d-94a1-5dae5862eef6
+:END:
+#+TITLE: Ecxknc Iepvhans Tcarhplb Pwpytus NV - 2023-7-22
+
+- wine :: [[id:e41a64e6-1b51-4362-aec0-398aa9a212bb][Ecxknc Iepvhans Tcarhplb Pwpytus]]
+- date :: 2023-7-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

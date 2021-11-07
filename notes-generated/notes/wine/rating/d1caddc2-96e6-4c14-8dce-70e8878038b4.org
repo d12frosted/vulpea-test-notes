@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d1caddc2-96e6-4c14-8dce-70e8878038b4
+:END:
+#+TITLE: Jjkswvm Rcm Ersitaa Nliie 1979 - 2014-7-9
+
+- wine :: [[id:11503fac-e305-489a-ae93-b01fb6c97b2d][Jjkswvm Rcm Ersitaa Nliie 1979]]
+- date :: 2014-7-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

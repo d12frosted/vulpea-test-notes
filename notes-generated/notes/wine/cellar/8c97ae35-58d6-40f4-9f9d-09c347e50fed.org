@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     8c97ae35-58d6-40f4-9f9d-09c347e50fed
+:END:
+#+TITLE: Nhozxqe Aldl Evzow Otkmb 1997
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Evzow Otkmb
+- vintage :: 1997
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 10.2
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 2.5
+- ratings :: [[id:c3aff1ef-8b6d-4d80-a181-6890e94e1e65][Nhozxqe Aldl Evzow Otkmb 1997 - 2021-12-14]]
+
+

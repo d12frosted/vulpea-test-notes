@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c6bb97a6-f77f-45cf-abdb-ab7d8120462e
+:END:
+#+TITLE: Giih Udr Fdh 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Fdh
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 9.98
+- sugar :: 5.26
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:2c729304-2c6e-400c-b762-a1ab27aef876][Giih Udr Fdh NV - 2016-4-7]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9a6bab78-8a49-4298-8cb2-aa65e4c2b3d0
+:END:
+#+TITLE: Nhozxqe Aldl Tlejkn Yiagwfzb 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Tlejkn Yiagwfzb
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.83
+- sugar :: 0.93
+- price :: 73.27 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:701112c8-5fc6-425e-bbf5-e1ac1cb3635c][Nhozxqe Aldl Tlejkn Yiagwfzb NV - 2024-6-14]]
+
+

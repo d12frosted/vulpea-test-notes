@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9729a103-7383-4dcd-97df-d92756ee06d8
+:END:
+#+TITLE: Yokf Gwhwycw Mfru 1984
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Mfru
+- vintage :: 1984
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.04
+- sugar :: 19.75
+- price :: 75.37 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:6a55fec3-978f-4996-b635-952d7b3c833e][Yokf Gwhwycw Mfru 1984 - 2008-6-16]]
+
+

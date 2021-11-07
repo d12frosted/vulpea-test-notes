@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     daeb4924-18be-4440-ab2b-743648894d7d
+:END:
+#+TITLE: Lrwk Jbaxrmn Ofplm 1986
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ofplm
+- vintage :: 1986
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 11.72
+- sugar :: 13.23
+- price :: 67.13 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA
+
+

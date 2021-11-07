@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     facf7fe0-c610-4a25-8651-2842439a7351
+:END:
+#+TITLE: Qay Zafs 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Zafs
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.47
+- price :: 52.14 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:badcc056-4422-4d32-85d1-fa9951987951][Qay Zafs NV - 1996-8-3]]
+
+

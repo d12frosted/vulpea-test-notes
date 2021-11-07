@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a2913e76-5369-4773-a5f3-9b104eb4c15f
+:END:
+#+TITLE: Jjkswvm Rcm Avimqc Mgqg NV - 2011-7-28
+
+- wine :: [[id:cbab10ce-00d6-47b7-a17c-ed3bf0f116e9][Jjkswvm Rcm Avimqc Mgqg]]
+- date :: 2011-7-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

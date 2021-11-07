@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     039accb6-e42e-4b1f-898b-b58720eb7d3a
+:END:
+#+TITLE: Yjfq Muyf Nvz 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Muyf Nvz
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.08
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:48c41585-d646-46e0-badb-0907f368321a][Yjfq Muyf Nvz NV - 2011-11-5]]
+
+

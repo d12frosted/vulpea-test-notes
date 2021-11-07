@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     68c16a37-4098-497c-a2c6-d8374e2da251
+:END:
+#+TITLE: Ecxknc Iepvhans Derdssh Qathynln 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Derdssh Qathynln
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 10.32
+- sugar :: 23.87
+- price :: 66.75 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

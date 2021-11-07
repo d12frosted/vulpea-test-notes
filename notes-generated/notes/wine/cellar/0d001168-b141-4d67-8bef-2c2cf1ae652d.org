@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0d001168-b141-4d67-8bef-2c2cf1ae652d
+:END:
+#+TITLE: Yokf Gwhwycw Trahn Zhj 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Trahn Zhj
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 11.96
+- sugar :: 13.58
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:68262944-f6e7-4829-903d-3056d7d163d5][Yokf Gwhwycw Trahn Zhj NV - 2013-8-11]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     97ae4ac4-cef1-4820-b32c-868a8b24a5ec
+:END:
+#+TITLE: Jjkswvm Rcm Chnpbjd Etbbyc 1962
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Chnpbjd Etbbyc
+- vintage :: 1962
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.96
+- sugar :: 10.36
+- price :: 21.14 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:ad6f8e44-e870-4fa8-8179-f7d4ebc46e68][Jjkswvm Rcm Chnpbjd Etbbyc 1962 - 2002-8-19]]
+
+

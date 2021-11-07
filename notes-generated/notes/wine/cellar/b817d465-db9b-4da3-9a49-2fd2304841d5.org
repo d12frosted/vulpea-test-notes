@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b817d465-db9b-4da3-9a49-2fd2304841d5
+:END:
+#+TITLE: Qay Kruvxjd Bkodk 1926
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Kruvxjd Bkodk
+- vintage :: 1926
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 12.44
+- sugar :: 14.03
+- price :: 78.34 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA
+
+

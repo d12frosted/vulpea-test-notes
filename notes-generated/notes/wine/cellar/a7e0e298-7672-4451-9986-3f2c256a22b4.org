@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a7e0e298-7672-4451-9986-3f2c256a22b4
+:END:
+#+TITLE: Yokf Gwhwycw Rcpfa Bmktmihi 1988
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Rcpfa Bmktmihi
+- vintage :: 1988
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.16
+- price :: 42.03 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     f93e78f9-4368-40d6-9e4b-ec3bfadf7cdb
+:END:
+#+TITLE: Scf Elpezclx Czdfu 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Czdfu
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 9.9
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4e0ebc9b-dd14-4590-829c-2d9e75dcad2c
+:END:
+#+TITLE: Qay Lokjwa 1904
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Lokjwa
+- vintage :: 1904
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 11.39
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:f7733763-2275-4a7d-bb19-24d22e28bd0f][Qay Lokjwa 1904 - 2019-1-21]]
+
+

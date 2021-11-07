@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7964e0a4-e3b8-4269-a0f2-72458b98e298
+:END:
+#+TITLE: Lrwk Jbaxrmn Hrpbf Drqfzh NV - 2023-10-1
+
+- wine :: [[id:b11d4247-85a9-411d-9d3b-96ff2d5fafea][Lrwk Jbaxrmn Hrpbf Drqfzh]]
+- date :: 2023-10-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

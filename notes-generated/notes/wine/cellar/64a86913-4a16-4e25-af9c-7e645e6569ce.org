@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     64a86913-4a16-4e25-af9c-7e645e6569ce
+:END:
+#+TITLE: Nhozxqe Aldl Ifzxcn 1930
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ifzxcn
+- vintage :: 1930
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 10.620000000000001
+- price :: 42.45 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:601ab49c-d06e-45c4-b3a6-b1c1f72202ac][Nhozxqe Aldl Ifzxcn 1930 - 1990-3-11]]
+
+

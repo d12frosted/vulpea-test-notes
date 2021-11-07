@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     cc5a569f-a614-4530-bdb2-6bedfa0b4194
+:END:
+#+TITLE: Nhozxqe Aldl Jhi Eae 2017
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Jhi Eae
+- vintage :: 2017
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.19
+- sugar :: 9.22
+- price :: 94.68 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:2751a0d5-e594-4141-9f88-99fcec96e522][Nhozxqe Aldl Jhi Eae 2017 - 2021-2-20]]
+
+

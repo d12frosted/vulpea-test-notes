@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9c82d2e3-c4d8-4337-83e6-3fcaff626c7d
+:END:
+#+TITLE: Lrwk Jbaxrmn Ynszienq Bje 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ynszienq Bje
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.73
+- sugar :: 1.43
+- price :: 69.86 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8d42da59-079c-45a1-a934-c2ffb1e4cba8
+:END:
+#+TITLE: Lrwk Jbaxrmn Xbaott Gzsdrk 1904
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Xbaott Gzsdrk
+- vintage :: 1904
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 9.26
+- price :: 57.38 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ba34be10-bdad-43d6-bade-0934106036b6
+:END:
+#+TITLE: Nhozxqe Aldl Hqssjovs 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hqssjovs
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.31
+- price :: 64.33 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA
+
+

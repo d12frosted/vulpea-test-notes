@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     80921e83-16ba-4bf9-90a4-d264d366e254
+:END:
+#+TITLE: Cowhhax Upmqcgn Rxx NV - 2007-5-17
+
+- wine :: [[id:6f094813-6ecb-40b5-a08a-55fa64028e4b][Cowhhax Upmqcgn Rxx]]
+- date :: 2007-5-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

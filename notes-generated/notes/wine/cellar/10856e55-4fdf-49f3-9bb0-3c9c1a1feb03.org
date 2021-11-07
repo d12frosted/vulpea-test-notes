@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     10856e55-4fdf-49f3-9bb0-3c9c1a1feb03
+:END:
+#+TITLE: Giih Udr Ruwgd 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ruwgd
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 12.57
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 3.5
+- ratings :: [[id:703211a8-6b78-4cf5-9cfb-3d4b77ddd0d1][Giih Udr Ruwgd NV - 2015-7-8]]
+
+

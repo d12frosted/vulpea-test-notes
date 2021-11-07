@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     019b56f7-ccf7-472b-8b76-03c566efbe8f
+:END:
+#+TITLE: Scf Elpezclx Dclsbl 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Dclsbl
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 13.92
+- sugar :: 18.21
+- price :: 58.79 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:a5c6ec4a-cb74-4096-b2a9-02d23c327ef5][Scf Elpezclx Dclsbl NV - 2022-1-22]]
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     7bf0f81e-80ff-4daa-8482-ec06621d008c
+:END:
+#+TITLE: Lrwk Jbaxrmn Qcu Icybpv 1982
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qcu Icybpv
+- vintage :: 1982
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 13.129999999999999
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA
+
+

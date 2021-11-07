@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7c23f00b-90e9-430d-9b10-0401734bf8db
+:END:
+#+TITLE: Scf Elpezclx Uymrbo 1961
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Uymrbo
+- vintage :: 1961
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.45
+- sugar :: 2.48
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:8967edfd-404f-49e0-a3bb-5f35973b3966][Scf Elpezclx Uymrbo 1961 - 1994-3-10]]
+
+

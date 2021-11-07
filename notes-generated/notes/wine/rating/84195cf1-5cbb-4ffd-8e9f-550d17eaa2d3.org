@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     84195cf1-5cbb-4ffd-8e9f-550d17eaa2d3
+:END:
+#+TITLE: Yokf Gwhwycw Ejzujtto 2006 - 2009-10-11
+
+- wine :: [[id:2501bcac-d719-4125-9c03-5d74a1105a9b][Yokf Gwhwycw Ejzujtto 2006]]
+- date :: 2009-10-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

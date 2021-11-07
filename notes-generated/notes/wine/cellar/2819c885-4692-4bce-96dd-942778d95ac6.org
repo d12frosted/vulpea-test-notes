@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     2819c885-4692-4bce-96dd-942778d95ac6
+:END:
+#+TITLE: Yokf Gwhwycw Qjswyc Lmrgs 1953
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Qjswyc Lmrgs
+- vintage :: 1953
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.18
+- sugar :: 16.13
+- price :: 25.61 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 1.5
+- ratings :: [[id:b90b5a72-afb3-43cc-9e88-da70b9309d87][Yokf Gwhwycw Qjswyc Lmrgs 1953 - 1999-11-18]]
+
+

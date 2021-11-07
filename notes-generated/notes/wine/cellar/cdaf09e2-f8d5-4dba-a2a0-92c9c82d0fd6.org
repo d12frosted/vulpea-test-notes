@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     cdaf09e2-f8d5-4dba-a2a0-92c9c82d0fd6
+:END:
+#+TITLE: Yjfq Aijf 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Aijf
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 12.379999999999999
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.5
+- ratings :: [[id:17b145e9-916c-4b28-bc10-c080800371c5][Yjfq Aijf NV - 2013-9-10]]
+
+

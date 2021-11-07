@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2638661c-dc63-4361-9fde-86bd82d9639a
+:END:
+#+TITLE: Yjfq Kbecz Oeeegzt NV - 2010-4-16
+
+- wine :: [[id:b51b7c3f-d99c-4466-80a0-109b21602bd5][Yjfq Kbecz Oeeegzt]]
+- date :: 2010-4-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

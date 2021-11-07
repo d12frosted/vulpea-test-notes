@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bd606174-9a77-45f9-8124-8de4fae1572b
+:END:
+#+TITLE: Yjfq Qwaszf Fvcypy 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Qwaszf Fvcypy
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 11.06
+- sugar :: 17.6
+- price :: 64.61 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 8.0
+- ratings :: [[id:ab07904d-88dc-4362-88ab-2e55589ab5cd][Yjfq Qwaszf Fvcypy NV - 1999-12-17]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3e0fc658-f8c6-4a78-9499-39d53f60a748
+:END:
+#+TITLE: Ecxknc Iepvhans Okxo 1952
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Okxo
+- vintage :: 1952
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 13.93
+- price :: 70.57 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA
+
+

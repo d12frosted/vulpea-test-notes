@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d3b1ab3b-ac5a-4775-a9ec-30532296eef8
+:END:
+#+TITLE: Lrwk Jbaxrmn Jpgb Hujmtlb 1931 - 1999-10-18
+
+- wine :: [[id:30a19bcb-756a-4a42-92cb-7e45f40e679a][Lrwk Jbaxrmn Jpgb Hujmtlb 1931]]
+- date :: 1999-10-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

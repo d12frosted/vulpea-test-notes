@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b1c4215e-bafe-42bd-9687-cb8e2c991d6e
+:END:
+#+TITLE: Ecxknc Iepvhans Qpwbq Uvwygi 1970 - 2007-5-28
+
+- wine :: [[id:6eb6a9a8-e745-4db5-a74a-8f5bfd4f5705][Ecxknc Iepvhans Qpwbq Uvwygi 1970]]
+- date :: 2007-5-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

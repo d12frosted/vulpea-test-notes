@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e611400f-63cc-42bb-b718-346d2f900a0d
+:END:
+#+TITLE: Jjkswvm Rcm Drtlg 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Drtlg
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 12.22
+- price :: 3.40 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

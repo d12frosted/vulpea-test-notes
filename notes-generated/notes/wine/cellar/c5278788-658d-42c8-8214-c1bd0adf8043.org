@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c5278788-658d-42c8-8214-c1bd0adf8043
+:END:
+#+TITLE: Yjfq Dmng Koiruok 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Dmng Koiruok
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.05
+- sugar :: 13.3
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:38a12a57-2327-490e-ac7c-62d1924f9a85][Yjfq Dmng Koiruok NV - 1990-4-21]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     2c50b62d-bff1-446b-ac3d-d7cbc98fff4f
+:END:
+#+TITLE: Yjfq Oxzrcjvy 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Oxzrcjvy
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.54
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:1f7ef19b-95f6-4568-83bf-78435512e598][Yjfq Oxzrcjvy NV - 2018-12-27]]
+
+

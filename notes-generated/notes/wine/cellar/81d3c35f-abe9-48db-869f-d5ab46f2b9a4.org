@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     81d3c35f-abe9-48db-869f-d5ab46f2b9a4
+:END:
+#+TITLE: Qay Adiaguc 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Adiaguc
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.31
+- price :: 81.96 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 7.0
+- ratings :: [[id:40cde33a-c2d3-4065-8f4b-21a8940bca4f][Qay Adiaguc NV - 1996-1-27]]
+
+

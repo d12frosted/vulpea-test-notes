@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     16449eed-277d-49b8-8ae3-e77d792fb384
+:END:
+#+TITLE: Nhozxqe Aldl Fegfxk Gzpavx NV - 2011-6-20
+
+- wine :: [[id:37f8d8a8-1a02-4029-98c2-72f52fd209d6][Nhozxqe Aldl Fegfxk Gzpavx]]
+- date :: 2011-6-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

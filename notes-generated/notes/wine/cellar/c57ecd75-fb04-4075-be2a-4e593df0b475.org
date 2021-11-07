@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c57ecd75-fb04-4075-be2a-4e593df0b475
+:END:
+#+TITLE: Ecxknc Iepvhans Ckbekhby 1945
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ckbekhby
+- vintage :: 1945
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 11.59
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 2.0
+- ratings :: [[id:e429b5a1-d11f-46e3-a2f7-467e625d24d2][Ecxknc Iepvhans Ckbekhby 1945 - 2015-1-9]]
+
+

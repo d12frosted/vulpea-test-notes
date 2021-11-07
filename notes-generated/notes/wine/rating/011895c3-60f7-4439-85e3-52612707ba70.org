@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     011895c3-60f7-4439-85e3-52612707ba70
+:END:
+#+TITLE: Lrwk Jbaxrmn Ydqdz NV - 2006-8-2
+
+- wine :: [[id:e5a0a4db-db1e-40f1-8883-3cc6824a8514][Lrwk Jbaxrmn Ydqdz]]
+- date :: 2006-8-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

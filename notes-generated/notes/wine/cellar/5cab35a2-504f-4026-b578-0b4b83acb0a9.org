@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     5cab35a2-504f-4026-b578-0b4b83acb0a9
+:END:
+#+TITLE: Nhozxqe Aldl Jjlx 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Jjlx
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.34
+- price :: 99.81 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA
+
+

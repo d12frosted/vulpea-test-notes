@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     74f351e4-a189-4057-bf64-2df550b84341
+:END:
+#+TITLE: Lrwk Jbaxrmn Qfiknp Imkwxbgr 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qfiknp Imkwxbgr
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 9.85
+- sugar :: 9.6
+- price :: 72.13 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

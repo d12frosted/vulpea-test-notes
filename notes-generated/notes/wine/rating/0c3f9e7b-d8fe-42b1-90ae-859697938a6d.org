@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0c3f9e7b-d8fe-42b1-90ae-859697938a6d
+:END:
+#+TITLE: Yjfq Zmygjt Qdno NV - 2007-8-25
+
+- wine :: [[id:7b21e24b-3790-491c-b7ed-1dd25c86f837][Yjfq Zmygjt Qdno]]
+- date :: 2007-8-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

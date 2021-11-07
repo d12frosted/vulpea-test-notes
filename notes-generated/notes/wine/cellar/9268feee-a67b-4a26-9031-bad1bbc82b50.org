@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     9268feee-a67b-4a26-9031-bad1bbc82b50
+:END:
+#+TITLE: Ecxknc Iepvhans Xhebc 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Xhebc
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 12.1
+- sugar :: 21.5
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA
+
+

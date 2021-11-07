@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     470d1cbc-0af6-49ce-950a-e13256a66b51
+:END:
+#+TITLE: Giih Udr Shwmp Idur 1990
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Shwmp Idur
+- vintage :: 1990
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 9.46
+- price :: 4.82 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 8.0
+- ratings :: [[id:c728480f-d0f8-4c43-a8e2-dcfd03bb2656][Giih Udr Shwmp Idur 1990 - 2005-9-3]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a356bb30-7b7f-4419-ae6f-8a6ec8cc6d72
+:END:
+#+TITLE: Ecxknc Iepvhans Tfyrtiwo 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Tfyrtiwo
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 11.19
+- sugar :: 15.07
+- price :: 98.66 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 2.0
+- ratings :: [[id:ea256921-c568-4b1f-99ad-6b6dc5245430][Ecxknc Iepvhans Tfyrtiwo NV - 2006-2-21]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     89dd0524-2861-45d8-95cf-1a0fb1a35dcd
+:END:
+#+TITLE: Qay Dyvdsky Nwpdtcqs NV - 2005-10-6
+
+- wine :: [[id:1ea93f82-39e7-475d-ab28-5bf33ba0076d][Qay Dyvdsky Nwpdtcqs]]
+- date :: 2005-10-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

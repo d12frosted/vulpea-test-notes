@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     44f89fe8-57fb-4c67-ab08-e6feee79c0cd
+:END:
+#+TITLE: Scf Elpezclx Rjlww Hzc 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Rjlww Hzc
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.97
+- price :: 82.10 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1245dc08-dee6-4212-b742-69b970dd6403
+:END:
+#+TITLE: Lrwk Jbaxrmn Kdzy 1992
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Kdzy
+- vintage :: 1992
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.129999999999999
+- sugar :: 3.03
+- price :: 56.61 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 2.0
+- ratings :: [[id:d283ca4c-2510-4c5e-90e9-e99dbee09d76][Lrwk Jbaxrmn Kdzy 1992 - 1992-9-1]]
+
+

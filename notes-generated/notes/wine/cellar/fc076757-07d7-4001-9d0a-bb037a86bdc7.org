@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fc076757-07d7-4001-9d0a-bb037a86bdc7
+:END:
+#+TITLE: Lrwk Jbaxrmn Twaep 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Twaep
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.16
+- sugar :: 8.0
+- price :: 52.92 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:16598937-bdf1-4534-8e85-bdf72737fadb][Lrwk Jbaxrmn Twaep NV - 1990-6-9]]
+
+

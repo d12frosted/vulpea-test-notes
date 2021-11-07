@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3f060e4c-ce88-4656-88f5-ef00041a5105
+:END:
+#+TITLE: Yjfq Hpo 1995 - 1991-6-24
+
+- wine :: [[id:a3609dfd-b959-45b9-a68e-69491d8885eb][Yjfq Hpo 1995]]
+- date :: 1991-6-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

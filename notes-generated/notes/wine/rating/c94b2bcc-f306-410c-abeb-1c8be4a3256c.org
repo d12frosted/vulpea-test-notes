@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c94b2bcc-f306-410c-abeb-1c8be4a3256c
+:END:
+#+TITLE: Nhozxqe Aldl Wayx 1965 - 2022-1-21
+
+- wine :: [[id:76e8d6df-3161-474d-a2c0-696ad99989e9][Nhozxqe Aldl Wayx 1965]]
+- date :: 2022-1-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

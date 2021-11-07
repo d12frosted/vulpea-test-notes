@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bcee8584-6cfe-44ff-9cf5-7a8a987901c3
+:END:
+#+TITLE: Giih Udr Pyfvlmi 1961 - 1993-2-23
+
+- wine :: [[id:0b6f7237-d936-48b3-8884-58dbfc438fba][Giih Udr Pyfvlmi 1961]]
+- date :: 1993-2-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

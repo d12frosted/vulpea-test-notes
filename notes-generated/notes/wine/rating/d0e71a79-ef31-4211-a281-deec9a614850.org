@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d0e71a79-ef31-4211-a281-deec9a614850
+:END:
+#+TITLE: Giih Udr Rja Zghx 1906 - 2015-5-22
+
+- wine :: [[id:eb5a5ae5-ee11-438c-ba2a-148d41114436][Giih Udr Rja Zghx 1906]]
+- date :: 2015-5-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

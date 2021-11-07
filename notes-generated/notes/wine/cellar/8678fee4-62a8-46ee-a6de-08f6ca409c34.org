@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     8678fee4-62a8-46ee-a6de-08f6ca409c34
+:END:
+#+TITLE: Nhozxqe Aldl Hawg 1958
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hawg
+- vintage :: 1958
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.69
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

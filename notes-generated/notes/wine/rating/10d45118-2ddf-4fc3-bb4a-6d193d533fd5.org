@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     10d45118-2ddf-4fc3-bb4a-6d193d533fd5
+:END:
+#+TITLE: Jjkswvm Rcm Mvejbu Ivbbp 1973 - 2022-6-21
+
+- wine :: [[id:fdc59c36-1c73-47ee-8f71-52331dd2bc2c][Jjkswvm Rcm Mvejbu Ivbbp 1973]]
+- date :: 2022-6-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

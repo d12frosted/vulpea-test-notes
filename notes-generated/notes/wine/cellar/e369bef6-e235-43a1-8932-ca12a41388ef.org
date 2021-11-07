@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e369bef6-e235-43a1-8932-ca12a41388ef
+:END:
+#+TITLE: Yokf Gwhwycw Tvqge 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Tvqge
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 10.98
+- price :: 16.28 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

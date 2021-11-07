@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3b507073-f280-44f9-97c9-864c938eb22c
+:END:
+#+TITLE: Nhozxqe Aldl Rcyfmb 1973
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Rcyfmb
+- vintage :: 1973
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.79
+- price :: 45.52 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:ae3f4040-b940-4f58-a6bc-bf16cfa79458][Nhozxqe Aldl Rcyfmb 1973 - 2020-11-5]]
+
+

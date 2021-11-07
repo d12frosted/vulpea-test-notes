@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     f01945f5-5a52-44fb-b0b4-4f35d7370c30
+:END:
+#+TITLE: Ecxknc Iepvhans Ruippwr 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ruippwr
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 12.8
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

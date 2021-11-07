@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     575fa7b1-4824-493c-815b-213e0c9a68ca
+:END:
+#+TITLE: Giih Udr Pgango Drbokqh 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Pgango Drbokqh
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 10.31
+- sugar :: 2.98
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     6e4e2e6c-4d79-4be3-9f20-9efc282aa011
+:END:
+#+TITLE: Yjfq Bsy 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Bsy
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.31
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d12d1425-743f-46f3-bb3f-1e2c401edcce
+:END:
+#+TITLE: Yjfq Aimu Zxcwrsii 1965
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Aimu Zxcwrsii
+- vintage :: 1965
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 9.21
+- price :: 6.85 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:5c1d4fe8-38d5-4c95-9707-2a75283b7dc1][Yjfq Aimu Zxcwrsii 1965 - 2018-11-20]]
+
+

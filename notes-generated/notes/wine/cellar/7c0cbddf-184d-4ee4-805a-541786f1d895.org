@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7c0cbddf-184d-4ee4-805a-541786f1d895
+:END:
+#+TITLE: Lrwk Jbaxrmn Coxoaxs Zeepxcfs 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Coxoaxs Zeepxcfs
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 9.79
+- sugar :: 1.09
+- price :: 82.70 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA
+
+

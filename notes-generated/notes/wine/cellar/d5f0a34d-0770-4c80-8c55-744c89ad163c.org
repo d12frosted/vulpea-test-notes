@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d5f0a34d-0770-4c80-8c55-744c89ad163c
+:END:
+#+TITLE: Jjkswvm Rcm Uiadw Ndsgd 1984
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Uiadw Ndsgd
+- vintage :: 1984
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.16
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

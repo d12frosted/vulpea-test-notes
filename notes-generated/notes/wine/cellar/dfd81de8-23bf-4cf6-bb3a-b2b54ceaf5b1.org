@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     dfd81de8-23bf-4cf6-bb3a-b2b54ceaf5b1
+:END:
+#+TITLE: Giih Udr Jxfjsv Zmgmaid 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Jxfjsv Zmgmaid
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 9.17
+- sugar :: 14.84
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:e9dda5c3-10f6-41fc-a6fe-3f0722f7e3c9][Giih Udr Jxfjsv Zmgmaid NV - 1999-10-12]]
+
+

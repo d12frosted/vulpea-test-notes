@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9974bea2-fd0f-4a6d-8c23-799ea377ccb7
+:END:
+#+TITLE: Yjfq Bsqlf Xowcsd 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Bsqlf Xowcsd
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.42
+- sugar :: 23.39
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:03a50341-ac87-4c94-a1ae-306912b8ec4e][Yjfq Bsqlf Xowcsd NV - 2017-6-9]]
+
+

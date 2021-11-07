@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     68053eb3-234d-4c8d-9822-f98d83dac010
+:END:
+#+TITLE: Cowhhax Upmqcgn Vdlm 1997
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Vdlm
+- vintage :: 1997
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.82
+- price :: 101.30 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 7.5
+- ratings :: [[id:3d5488fd-644e-4210-9e19-9f1de12206ef][Cowhhax Upmqcgn Vdlm 1997 - 2024-8-18]]
+
+

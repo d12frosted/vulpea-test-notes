@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     180227d8-b275-482e-a5b6-67c5b8f6d9c4
+:END:
+#+TITLE: Qay Pnhphe Jdunkr 1992 - 2005-4-7
+
+- wine :: [[id:f3a28871-918d-450f-b811-c6a74658bc4b][Qay Pnhphe Jdunkr 1992]]
+- date :: 2005-4-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

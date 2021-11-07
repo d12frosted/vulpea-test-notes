@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     65673539-1748-413d-a7ff-2c36f337124c
+:END:
+#+TITLE: Cowhhax Upmqcgn Bhaf NV - 2008-11-21
+
+- wine :: [[id:b7e3d3d2-866b-42ff-968e-080533028150][Cowhhax Upmqcgn Bhaf]]
+- date :: 2008-11-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

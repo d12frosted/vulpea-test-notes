@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4023824f-10d6-4459-a5f9-87ea763c6937
+:END:
+#+TITLE: Nhozxqe Aldl Uuttrju 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Uuttrju
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.11
+- sugar :: 10.26
+- price :: 65.61 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

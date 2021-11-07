@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     178f19e9-eb11-4ff3-a52e-6caabd2bd70b
+:END:
+#+TITLE: Cowhhax Upmqcgn Xbng NV - 2005-7-11
+
+- wine :: [[id:eaa74a5b-d03d-4204-b110-05c78a419c1f][Cowhhax Upmqcgn Xbng]]
+- date :: 2005-7-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

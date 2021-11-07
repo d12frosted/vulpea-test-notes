@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     68f1fb4b-bc55-479e-864f-3c7f6e84592d
+:END:
+#+TITLE: Jjkswvm Rcm Xvmcie 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Xvmcie
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.68
+- price :: 84.41 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e2d569cc-3bb9-408c-b56a-efefdd76a1b5
+:END:
+#+TITLE: Cowhhax Upmqcgn Bptmxqrw Lrt 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Bptmxqrw Lrt
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.24
+- price :: 88.88 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.5
+- ratings :: [[id:78f19d34-9406-4c3d-b607-e63ae173d408][Cowhhax Upmqcgn Bptmxqrw Lrt NV - 2006-6-12]]
+
+

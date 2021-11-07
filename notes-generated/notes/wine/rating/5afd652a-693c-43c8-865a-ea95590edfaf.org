@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5afd652a-693c-43c8-865a-ea95590edfaf
+:END:
+#+TITLE: Lrwk Jbaxrmn Bjuwjdi NV - 1995-11-28
+
+- wine :: [[id:2a425c01-2c7d-48b4-939d-f5f221cab0bd][Lrwk Jbaxrmn Bjuwjdi]]
+- date :: 1995-11-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

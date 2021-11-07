@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ef56723b-2c14-4cfc-a693-d5d8df6f8aaa
+:END:
+#+TITLE: Qay Rqyace Vmjnzr 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Rqyace Vmjnzr
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.81
+- price :: 65.50 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 3.0
+- ratings :: [[id:509ed1d4-e538-4de7-952f-551c3e4f8fa5][Qay Rqyace Vmjnzr NV - 2011-3-8]]
+
+

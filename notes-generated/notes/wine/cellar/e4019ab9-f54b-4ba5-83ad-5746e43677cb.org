@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e4019ab9-f54b-4ba5-83ad-5746e43677cb
+:END:
+#+TITLE: Cowhhax Upmqcgn Phkzxwt Grrj 1965
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Phkzxwt Grrj
+- vintage :: 1965
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.14
+- price :: 90.28 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:911909e1-5d0e-4fff-8ba4-19a2a64fb576][Cowhhax Upmqcgn Phkzxwt Grrj 1965 - 2000-2-23]]
+
+

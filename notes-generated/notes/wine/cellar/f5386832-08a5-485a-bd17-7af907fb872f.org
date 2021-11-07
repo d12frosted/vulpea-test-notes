@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f5386832-08a5-485a-bd17-7af907fb872f
+:END:
+#+TITLE: Nhozxqe Aldl Ardsyvv 1946
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ardsyvv
+- vintage :: 1946
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.77
+- sugar :: 13.26
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:dcb17046-54cf-4684-90cb-0397aeb5019f][Nhozxqe Aldl Ardsyvv 1946 - 1995-5-14]]
+
+

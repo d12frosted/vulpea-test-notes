@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     7e83193a-4707-4461-9536-28179070be09
+:END:
+#+TITLE: Yjfq Rljxden 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Rljxden
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 12.23
+- price :: 81.78 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

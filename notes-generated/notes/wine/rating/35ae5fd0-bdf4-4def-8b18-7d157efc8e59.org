@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     35ae5fd0-bdf4-4def-8b18-7d157efc8e59
+:END:
+#+TITLE: Yjfq Vekdjhr 1933 - 2019-2-6
+
+- wine :: [[id:cee3162f-34de-49dc-876f-08a524c7b53e][Yjfq Vekdjhr 1933]]
+- date :: 2019-2-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

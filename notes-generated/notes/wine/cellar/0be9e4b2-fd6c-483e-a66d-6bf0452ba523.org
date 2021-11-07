@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0be9e4b2-fd6c-483e-a66d-6bf0452ba523
+:END:
+#+TITLE: Lrwk Jbaxrmn Rcrzfh Htvg 1996
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rcrzfh Htvg
+- vintage :: 1996
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.09
+- price :: 91.85 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

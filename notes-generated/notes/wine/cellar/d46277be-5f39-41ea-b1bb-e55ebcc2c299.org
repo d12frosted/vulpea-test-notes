@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d46277be-5f39-41ea-b1bb-e55ebcc2c299
+:END:
+#+TITLE: Yokf Gwhwycw Ara 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ara
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 12.8
+- price :: 10.88 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.5
+- ratings :: [[id:541a340b-d5e7-4abf-9814-6737fe9209de][Yokf Gwhwycw Ara NV - 2022-4-22]]
+
+

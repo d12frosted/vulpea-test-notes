@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6da87092-48ec-4dc7-957f-65f266ca2f91
+:END:
+#+TITLE: Scf Elpezclx Isihmnc 1996
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Isihmnc
+- vintage :: 1996
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.31
+- price :: 86.26 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

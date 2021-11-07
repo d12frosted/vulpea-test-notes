@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     23550a44-3341-406a-8615-27305a725589
+:END:
+#+TITLE: Yjfq Oveotby 1995 - 2014-2-7
+
+- wine :: [[id:68aeea95-4b57-480a-98a6-47f100eef591][Yjfq Oveotby 1995]]
+- date :: 2014-2-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

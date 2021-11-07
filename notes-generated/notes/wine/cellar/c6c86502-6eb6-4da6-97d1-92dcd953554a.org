@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c6c86502-6eb6-4da6-97d1-92dcd953554a
+:END:
+#+TITLE: Scf Elpezclx Atzq Uwrkyo 1974
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Atzq Uwrkyo
+- vintage :: 1974
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.98
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:e6ff3b52-1ed6-4549-8e30-3ac690f32762][Scf Elpezclx Atzq Uwrkyo 1974 - 2006-1-24]]
+
+

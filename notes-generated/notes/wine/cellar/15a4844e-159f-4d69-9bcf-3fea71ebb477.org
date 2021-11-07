@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     15a4844e-159f-4d69-9bcf-3fea71ebb477
+:END:
+#+TITLE: Scf Elpezclx Pwequ Kxeh 1946
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Pwequ Kxeh
+- vintage :: 1946
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.620000000000001
+- sugar :: 23.31
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 3.5
+- ratings :: [[id:34ff3dd0-68ce-44b2-a2f4-5e2eb6608515][Scf Elpezclx Pwequ Kxeh 1946 - 2005-11-3]]
+
+

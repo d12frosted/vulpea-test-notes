@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8c89fbe5-b9d7-4d97-bf42-086ed622f858
+:END:
+#+TITLE: Cowhhax Upmqcgn Nucwqbas Mxlfhz 1989
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Nucwqbas Mxlfhz
+- vintage :: 1989
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.4
+- sugar :: 23.26
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA
+
+

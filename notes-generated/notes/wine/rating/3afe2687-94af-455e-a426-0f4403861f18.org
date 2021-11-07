@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3afe2687-94af-455e-a426-0f4403861f18
+:END:
+#+TITLE: Ecxknc Iepvhans Rnwn NV - 2018-6-15
+
+- wine :: [[id:99eb5598-a20b-4c46-a03a-c8300f882f9b][Ecxknc Iepvhans Rnwn]]
+- date :: 2018-6-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

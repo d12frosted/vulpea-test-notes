@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     e0e302d9-2047-499a-a44b-e35f52b48390
+:END:
+#+TITLE: Qay Xsbcinbl 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Xsbcinbl
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 9.98
+- sugar :: 17.59
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA
+
+

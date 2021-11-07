@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     47c24f76-9a78-4606-9c4d-187507cc06f1
+:END:
+#+TITLE: Scf Elpezclx Ggwgdrmm NV - 1991-1-2
+
+- wine :: [[id:62d22db5-c70a-43e7-b710-37205c6f03ff][Scf Elpezclx Ggwgdrmm]]
+- date :: 1991-1-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ab6363e5-761b-430f-85e2-612ae03585c7
+:END:
+#+TITLE: Giih Udr Gvu 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Gvu
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 12.8
+- sugar :: 21.06
+- price :: 20.72 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:12542ae2-56f6-4199-857f-f0f26e16fef4][Giih Udr Gvu NV - 1997-6-25]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b8e28cc4-b94f-4bd7-964e-c92a3deb4a05
+:END:
+#+TITLE: Yjfq Gdiksv Kdd 1912
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gdiksv Kdd
+- vintage :: 1912
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.59
+- price :: 68.53 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA
+
+

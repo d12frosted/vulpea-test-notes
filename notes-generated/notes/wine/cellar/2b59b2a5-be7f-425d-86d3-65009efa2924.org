@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     2b59b2a5-be7f-425d-86d3-65009efa2924
+:END:
+#+TITLE: Lrwk Jbaxrmn Blawfpwc Mko 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Blawfpwc Mko
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.46
+- sugar :: 22.58
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA
+
+

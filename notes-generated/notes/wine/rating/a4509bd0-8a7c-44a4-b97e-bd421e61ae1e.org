@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a4509bd0-8a7c-44a4-b97e-bd421e61ae1e
+:END:
+#+TITLE: Qay Fdgb Sjhblcd NV - 2024-6-26
+
+- wine :: [[id:c0f832a9-c776-439c-b7bd-e401362bda36][Qay Fdgb Sjhblcd]]
+- date :: 2024-6-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

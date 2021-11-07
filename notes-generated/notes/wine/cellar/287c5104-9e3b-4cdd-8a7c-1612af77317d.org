@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     287c5104-9e3b-4cdd-8a7c-1612af77317d
+:END:
+#+TITLE: Yjfq Tpstoob 1918
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Tpstoob
+- vintage :: 1918
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.74
+- sugar :: 5.38
+- price :: 53.07 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: duckduckgo
+- rating :: 3.0
+- ratings :: [[id:e128562b-a165-4ba0-81d6-0b4bcdb8c237][Yjfq Tpstoob 1918 - 1996-5-21]]
+
+

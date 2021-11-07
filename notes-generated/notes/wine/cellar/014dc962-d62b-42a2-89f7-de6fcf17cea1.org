@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     014dc962-d62b-42a2-89f7-de6fcf17cea1
+:END:
+#+TITLE: Cowhhax Upmqcgn Rwqxwu Twetps 1948
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Rwqxwu Twetps
+- vintage :: 1948
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.33
+- sugar :: 10.72
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:37d2c550-469e-46eb-bb4b-9ef926911169][Cowhhax Upmqcgn Rwqxwu Twetps 1948 - 2011-7-4]]
+
+

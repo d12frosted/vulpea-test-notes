@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d68ebf18-d78d-430d-bb06-7297eb3ce1d1
+:END:
+#+TITLE: Yokf Gwhwycw Jrfyfebk 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Jrfyfebk
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 13.870000000000001
+- sugar :: 17.0
+- price :: 23.81 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

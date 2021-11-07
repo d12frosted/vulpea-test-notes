@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     66ef3a79-42ab-4f9a-9da0-61a1588e9695
+:END:
+#+TITLE: Jjkswvm Rcm Wndtthjy NV - 1994-3-5
+
+- wine :: [[id:c6246dc0-171a-4d53-941d-33125f7918b1][Jjkswvm Rcm Wndtthjy]]
+- date :: 1994-3-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

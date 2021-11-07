@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     537c0819-2826-4cc2-b8e2-78d6dc6fb2c6
+:END:
+#+TITLE: Yjfq Gwiea Zsuoa 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gwiea Zsuoa
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 13.25
+- price :: 4.12 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 7.0
+- ratings :: [[id:c4eaa55c-5f61-4dfd-a6e5-ff0867f396e5][Yjfq Gwiea Zsuoa NV - 1997-10-9]]
+
+

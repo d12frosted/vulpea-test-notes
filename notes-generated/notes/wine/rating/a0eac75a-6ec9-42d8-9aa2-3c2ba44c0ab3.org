@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a0eac75a-6ec9-42d8-9aa2-3c2ba44c0ab3
+:END:
+#+TITLE: Scf Elpezclx Trv Tde NV - 1997-8-13
+
+- wine :: [[id:c07a5c2c-53dc-48c7-bd98-9f3558522ac5][Scf Elpezclx Trv Tde]]
+- date :: 1997-8-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

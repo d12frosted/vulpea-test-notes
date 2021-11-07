@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f4db932d-1236-4d26-9be3-38abe4e34bb1
+:END:
+#+TITLE: Nhozxqe Aldl Xajrmxs 1911
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xajrmxs
+- vintage :: 1911
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 10.33
+- sugar :: 14.34
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:1f10d0e4-9833-47dc-a7d8-151f41cca099][Nhozxqe Aldl Xajrmxs 1911 - 2016-7-9]]
+
+

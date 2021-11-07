@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     453dd36d-04ba-48ae-ba41-5dbeb2a9e1a2
+:END:
+#+TITLE: Yokf Gwhwycw Xxlow Uka 1977 - 1992-1-20
+
+- wine :: [[id:4a4fae0d-73dc-4379-8a3f-17725e75af7e][Yokf Gwhwycw Xxlow Uka 1977]]
+- date :: 1992-1-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

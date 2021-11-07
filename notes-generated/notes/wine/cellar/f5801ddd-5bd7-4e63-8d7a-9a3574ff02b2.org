@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     f5801ddd-5bd7-4e63-8d7a-9a3574ff02b2
+:END:
+#+TITLE: Jjkswvm Rcm Zochu 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zochu
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 12.89
+- sugar :: 1.23
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

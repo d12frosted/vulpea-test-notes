@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a72e5501-df6f-4248-aeba-1550ae6e65da
+:END:
+#+TITLE: Lrwk Jbaxrmn Refqqug 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Refqqug
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.98
+- sugar :: 15.11
+- price :: 21.24 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     62b95def-30a1-45ca-a0a6-0a6a545bf5ae
+:END:
+#+TITLE: Giih Udr Diztbqrm 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Diztbqrm
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 11.55
+- price :: 29.87 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:d468427b-085d-46b9-8db2-93846e131f15][Giih Udr Diztbqrm NV - 2006-8-24]]
+
+

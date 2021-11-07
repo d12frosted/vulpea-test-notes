@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9351da6f-a268-46ba-97b6-e96cd54487b0
+:END:
+#+TITLE: Jjkswvm Rcm Rhkvqj Tmx NV - 2017-10-21
+
+- wine :: [[id:abb6fcad-349d-4482-a8ac-e9d7905047b7][Jjkswvm Rcm Rhkvqj Tmx]]
+- date :: 2017-10-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

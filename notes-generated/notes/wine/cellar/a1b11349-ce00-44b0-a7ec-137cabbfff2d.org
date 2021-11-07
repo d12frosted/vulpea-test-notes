@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     a1b11349-ce00-44b0-a7ec-137cabbfff2d
+:END:
+#+TITLE: Qay Dkzepxw 1984
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Dkzepxw
+- vintage :: 1984
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.35
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 6.5
+- ratings :: [[id:4f9626cd-b11c-46fe-95a5-94b0a45032b0][Qay Dkzepxw 1984 - 2002-1-17]]
+
+

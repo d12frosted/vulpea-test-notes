@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d9880e14-afe7-488a-85b6-5fe76073063e
+:END:
+#+TITLE: Lrwk Jbaxrmn Wefmjan Wvwbregd 1961
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Wefmjan Wvwbregd
+- vintage :: 1961
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 13.18
+- price :: 75.85 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

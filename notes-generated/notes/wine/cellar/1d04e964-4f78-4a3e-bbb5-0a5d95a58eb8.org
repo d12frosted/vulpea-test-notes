@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1d04e964-4f78-4a3e-bbb5-0a5d95a58eb8
+:END:
+#+TITLE: Qay Xxv Xgwa 1948
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Xxv Xgwa
+- vintage :: 1948
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.92
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

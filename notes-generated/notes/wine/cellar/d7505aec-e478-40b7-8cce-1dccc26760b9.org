@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d7505aec-e478-40b7-8cce-1dccc26760b9
+:END:
+#+TITLE: Ecxknc Iepvhans Ywnxe 2002
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ywnxe
+- vintage :: 2002
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 13.71
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA
+
+

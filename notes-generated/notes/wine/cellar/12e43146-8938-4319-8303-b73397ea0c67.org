@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     12e43146-8938-4319-8303-b73397ea0c67
+:END:
+#+TITLE: Lrwk Jbaxrmn Jovsx 1921
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Jovsx
+- vintage :: 1921
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 9.27
+- sugar :: 23.46
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 7.5
+- ratings :: [[id:e3833ad2-56e2-4128-9c3c-868e52f14644][Lrwk Jbaxrmn Jovsx 1921 - 2000-11-1]]
+
+

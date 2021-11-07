@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     50c891c5-418b-49d7-b573-a8928a2ad119
+:END:
+#+TITLE: Lrwk Jbaxrmn Qlh 2005
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qlh
+- vintage :: 2005
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.73
+- sugar :: 23.54
+- price :: 61.73 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     24aaa79d-3ede-4d93-8fd6-9c7289fe6a5e
+:END:
+#+TITLE: Jjkswvm Rcm Hllzk 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Hllzk
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 9.73
+- sugar :: 11.59
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA
+
+

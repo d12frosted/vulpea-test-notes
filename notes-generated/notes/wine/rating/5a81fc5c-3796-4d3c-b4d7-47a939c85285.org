@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5a81fc5c-3796-4d3c-b4d7-47a939c85285
+:END:
+#+TITLE: Cowhhax Upmqcgn Wrqbapng Hjn NV - 2015-7-27
+
+- wine :: [[id:6d6088e1-b18c-4d0a-8357-df23b07da4af][Cowhhax Upmqcgn Wrqbapng Hjn]]
+- date :: 2015-7-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

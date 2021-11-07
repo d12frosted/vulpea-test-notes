@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     eb81da14-c828-455d-b65a-a14899b788c6
+:END:
+#+TITLE: Scf Elpezclx Xzxlanft Bgwsbkze 1986
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Xzxlanft Bgwsbkze
+- vintage :: 1986
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 10.96
+- sugar :: 17.96
+- price :: 21.38 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:931cba8d-d18f-43b7-94c4-32e782a32dd3][Scf Elpezclx Xzxlanft Bgwsbkze 1986 - 1996-3-3]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2a3a414c-862c-4b2c-b9af-373e659a9822
+:END:
+#+TITLE: Nhozxqe Aldl Wylk Hasf 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Wylk Hasf
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.43
+- price :: 27.80 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:83650f14-0ce5-4fc5-9db5-a06e181d9397][Nhozxqe Aldl Wylk Hasf NV - 2008-7-1]]
+
+

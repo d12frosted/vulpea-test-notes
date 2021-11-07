@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b9b81f54-8516-4fb7-890b-5c77d5fc6e14
+:END:
+#+TITLE: Qay Pouuft Ntemp 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Pouuft Ntemp
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.98
+- sugar :: 7.39
+- price :: 50.40 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     df74cb93-440e-491b-83c6-3b7b35ca6534
+:END:
+#+TITLE: Yjfq Mmnv 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Mmnv
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 10.49
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:37e4d15c-e7a3-4126-bd13-e168b6274712][Yjfq Mmnv NV - 2023-9-3]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     da43cf5e-9d43-41af-8f03-aaa07e802328
+:END:
+#+TITLE: Nhozxqe Aldl Lwocxfm Wemre NV - 2019-7-5
+
+- wine :: [[id:63857d36-869b-4f20-805e-f9a7438b6be9][Nhozxqe Aldl Lwocxfm Wemre]]
+- date :: 2019-7-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

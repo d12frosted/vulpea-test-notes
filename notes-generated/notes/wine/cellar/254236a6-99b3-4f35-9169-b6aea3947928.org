@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     254236a6-99b3-4f35-9169-b6aea3947928
+:END:
+#+TITLE: Jjkswvm Rcm Zbrcud Csbtnhwo 1930
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zbrcud Csbtnhwo
+- vintage :: 1930
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.35
+- sugar :: 8.23
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

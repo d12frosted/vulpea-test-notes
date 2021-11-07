@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     feec42a1-496a-4d5f-a462-06fd9ebf81f9
+:END:
+#+TITLE: Scf Elpezclx Ifzb Tst 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ifzb Tst
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 10.82
+- sugar :: 12.78
+- price :: 91.95 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

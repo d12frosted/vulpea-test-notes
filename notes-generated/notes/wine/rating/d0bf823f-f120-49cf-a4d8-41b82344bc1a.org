@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d0bf823f-f120-49cf-a4d8-41b82344bc1a
+:END:
+#+TITLE: Yjfq Mqg NV - 2014-1-7
+
+- wine :: [[id:abe4a115-1b87-4276-9abe-03449207c261][Yjfq Mqg]]
+- date :: 2014-1-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

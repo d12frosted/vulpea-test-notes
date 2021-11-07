@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5960c700-524a-437a-ab58-ed7bb3dd1215
+:END:
+#+TITLE: Yjfq Dqbkmrgq Gdfalb 1980
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Dqbkmrgq Gdfalb
+- vintage :: 1980
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.76
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.5
+- ratings :: [[id:9b61b566-c17a-440f-bdc4-e4795df34478][Yjfq Dqbkmrgq Gdfalb 1980 - 2006-11-21]]
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     13f91cff-63a5-4067-8e92-b127ae062930
+:END:
+#+TITLE: Yokf Gwhwycw Imacox Hwzajqft 1906
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Imacox Hwzajqft
+- vintage :: 1906
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 9.52
+- sugar :: 2.16
+- price :: 13.89 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

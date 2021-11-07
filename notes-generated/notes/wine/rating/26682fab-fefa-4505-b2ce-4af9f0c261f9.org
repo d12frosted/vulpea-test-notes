@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     26682fab-fefa-4505-b2ce-4af9f0c261f9
+:END:
+#+TITLE: Qay Faykut Xrjwg NV - 2020-1-18
+
+- wine :: [[id:53b66ca7-f1b3-4d05-b722-05fca830079d][Qay Faykut Xrjwg]]
+- date :: 2020-1-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

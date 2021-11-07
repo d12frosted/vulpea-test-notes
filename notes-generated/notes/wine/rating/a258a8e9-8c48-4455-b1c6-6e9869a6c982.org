@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a258a8e9-8c48-4455-b1c6-6e9869a6c982
+:END:
+#+TITLE: Ecxknc Iepvhans Tlomxjv 1997 - 2012-2-2
+
+- wine :: [[id:0c98b6a3-c846-4f36-bbdc-0dafb014381a][Ecxknc Iepvhans Tlomxjv 1997]]
+- date :: 2012-2-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

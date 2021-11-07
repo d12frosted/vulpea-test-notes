@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     362cbbdc-f6a1-4d88-94ed-88f58c6e7b34
+:END:
+#+TITLE: Yjfq Pfdspr 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Pfdspr
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.23
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:dfdeec70-2021-4e8d-b687-375bd82e35a8][Yjfq Pfdspr NV - 1996-1-8]]
+
+

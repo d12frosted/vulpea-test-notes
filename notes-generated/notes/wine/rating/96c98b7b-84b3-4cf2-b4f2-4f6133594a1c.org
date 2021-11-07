@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     96c98b7b-84b3-4cf2-b4f2-4f6133594a1c
+:END:
+#+TITLE: Qay Obdq Jllxb NV - 1990-4-18
+
+- wine :: [[id:1f5a877b-87d6-4451-91ac-cdd45ba2ef25][Qay Obdq Jllxb]]
+- date :: 1990-4-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

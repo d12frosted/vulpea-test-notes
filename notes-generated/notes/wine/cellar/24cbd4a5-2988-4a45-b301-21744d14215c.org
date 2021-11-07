@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     24cbd4a5-2988-4a45-b301-21744d14215c
+:END:
+#+TITLE: Scf Elpezclx Oomk Clstvoh 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Oomk Clstvoh
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 13.469999999999999
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:644f197f-ad64-49a7-90ec-347c21ecc791][Scf Elpezclx Oomk Clstvoh NV - 2001-10-15]]
+
+

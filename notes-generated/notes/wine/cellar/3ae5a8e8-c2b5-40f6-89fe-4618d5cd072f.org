@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3ae5a8e8-c2b5-40f6-89fe-4618d5cd072f
+:END:
+#+TITLE: Jjkswvm Rcm Efrxnhh 1990
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Efrxnhh
+- vintage :: 1990
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 12.16
+- sugar :: 2.43
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:45b4a634-5acd-479f-a747-c8f46ac32b21][Jjkswvm Rcm Efrxnhh 1990 - 2022-10-6]]
+
+

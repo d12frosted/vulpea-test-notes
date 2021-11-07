@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     49f0a24a-6862-4ec2-a11d-275ab164e658
+:END:
+#+TITLE: Ecxknc Iepvhans Ouign 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ouign
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 10.11
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA
+
+

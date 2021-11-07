@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     11ae20c4-f667-49f0-aa66-24763c7b67fd
+:END:
+#+TITLE: Jjkswvm Rcm Dnzwkyv Qei NV - 1994-2-16
+
+- wine :: [[id:d89ffc96-14ba-4e15-b9a1-b6d6df6858fd][Jjkswvm Rcm Dnzwkyv Qei]]
+- date :: 1994-2-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

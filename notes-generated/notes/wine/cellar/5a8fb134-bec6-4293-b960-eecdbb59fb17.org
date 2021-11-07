@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     5a8fb134-bec6-4293-b960-eecdbb59fb17
+:END:
+#+TITLE: Nhozxqe Aldl Hhw 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hhw
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 12.68
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA
+
+

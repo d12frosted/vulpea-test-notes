@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     a7e03836-e1d4-4f24-bac5-aa0e0744c345
+:END:
+#+TITLE: Cowhhax Upmqcgn Ckudnqhd Fshkvq 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ckudnqhd Fshkvq
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.33
+- sugar :: 2.99
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

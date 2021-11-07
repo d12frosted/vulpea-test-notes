@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d31ec82c-aa0f-45df-86e5-7bae67bd262a
+:END:
+#+TITLE: Lrwk Jbaxrmn Cczkspg Uwv 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Cczkspg Uwv
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.82
+- sugar :: 17.49
+- price :: 75.99 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

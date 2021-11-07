@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     076f8df5-2b90-4bc3-af46-548d5b9feab7
+:END:
+#+TITLE: Giih Udr Utxnj 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Utxnj
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 11.99
+- price :: 55.03 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

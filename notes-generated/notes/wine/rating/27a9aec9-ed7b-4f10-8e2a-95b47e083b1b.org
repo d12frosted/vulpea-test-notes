@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     27a9aec9-ed7b-4f10-8e2a-95b47e083b1b
+:END:
+#+TITLE: Yjfq Upmwollt 2012 - 2014-2-9
+
+- wine :: [[id:2ca39fe1-b312-4b8b-90c4-5a1f8d5d559d][Yjfq Upmwollt 2012]]
+- date :: 2014-2-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

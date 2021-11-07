@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7b486e1c-9464-413f-b932-34b35e05d815
+:END:
+#+TITLE: Giih Udr Fvr Dxo 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Fvr Dxo
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.7
+- price :: 84.62 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA
+
+

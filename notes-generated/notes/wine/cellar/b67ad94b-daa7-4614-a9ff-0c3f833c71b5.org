@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b67ad94b-daa7-4614-a9ff-0c3f833c71b5
+:END:
+#+TITLE: Yjfq Ovy Dgzk 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ovy Dgzk
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 9.83
+- sugar :: 1.96
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

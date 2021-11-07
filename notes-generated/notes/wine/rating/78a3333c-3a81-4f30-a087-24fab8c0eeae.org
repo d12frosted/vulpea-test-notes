@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     78a3333c-3a81-4f30-a087-24fab8c0eeae
+:END:
+#+TITLE: Ecxknc Iepvhans Psiw NV - 2020-6-19
+
+- wine :: [[id:36f39fbe-0805-4822-a88a-f77c373818eb][Ecxknc Iepvhans Psiw]]
+- date :: 2020-6-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

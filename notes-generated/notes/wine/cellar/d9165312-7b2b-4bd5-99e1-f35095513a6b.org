@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d9165312-7b2b-4bd5-99e1-f35095513a6b
+:END:
+#+TITLE: Yokf Gwhwycw Cqruag Ekdb 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Cqruag Ekdb
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.5
+- sugar :: 20.89
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

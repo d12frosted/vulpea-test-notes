@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7d538928-07d0-4f01-8107-6b27a06ab3e7
+:END:
+#+TITLE: Yokf Gwhwycw Qycyfczt 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Qycyfczt
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.33
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA
+
+

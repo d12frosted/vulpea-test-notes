@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     d8190dd1-75e7-4b81-96c1-f4dc2216fca6
+:END:
+#+TITLE: Qay Oipf 1992
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Oipf
+- vintage :: 1992
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 12.69
+- price :: 68.78 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA
+
+

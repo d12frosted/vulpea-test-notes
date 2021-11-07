@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ff1f72f6-1085-499e-98c3-451e0fb9d5c5
+:END:
+#+TITLE: Cowhhax Upmqcgn Jrt Iukjsgvl NV - 2006-10-11
+
+- wine :: [[id:fd8bdb46-e63b-4ea5-834b-73481026cef2][Cowhhax Upmqcgn Jrt Iukjsgvl]]
+- date :: 2006-10-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

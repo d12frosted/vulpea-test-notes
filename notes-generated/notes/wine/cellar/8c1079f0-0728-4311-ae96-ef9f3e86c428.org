@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8c1079f0-0728-4311-ae96-ef9f3e86c428
+:END:
+#+TITLE: Cowhhax Upmqcgn Bhn 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Bhn
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 11.9
+- sugar :: 17.27
+- price :: 95.67 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.0
+- ratings :: [[id:9b7b5c59-aaa8-4f86-9557-d290fe23085c][Cowhhax Upmqcgn Bhn NV - 2004-10-7]]
+
+

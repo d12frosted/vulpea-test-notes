@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     18d8fc18-c878-4616-87c3-101462b153f5
+:END:
+#+TITLE: Lrwk Jbaxrmn Ewjwqbjn 1929
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Ewjwqbjn
+- vintage :: 1929
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 13.469999999999999
+- sugar :: 7.53
+- price :: 25.52 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.0
+- ratings :: [[id:f12ac3de-23f2-4df9-8201-1e8f6fdf4b6e][Lrwk Jbaxrmn Ewjwqbjn 1929 - 2019-4-19]]
+
+

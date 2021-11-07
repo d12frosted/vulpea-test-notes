@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f6f6278a-6394-4991-b5f0-b7d081902eb9
+:END:
+#+TITLE: Jjkswvm Rcm Tsokjl 2012
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Tsokjl
+- vintage :: 2012
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.29
+- sugar :: 13.43
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3b5a350f-4623-4dae-92db-9b1fc21f8160
+:END:
+#+TITLE: Nhozxqe Aldl Kdvre Tdbw 2001
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Kdvre Tdbw
+- vintage :: 2001
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 10.27
+- sugar :: 21.61
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 7.5
+- ratings :: [[id:b19bb809-d66f-44ec-8c69-08e10e1cb40d][Nhozxqe Aldl Kdvre Tdbw 2001 - 1994-1-18]]
+
+

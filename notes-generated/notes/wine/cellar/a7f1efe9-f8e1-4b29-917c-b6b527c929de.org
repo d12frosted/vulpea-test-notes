@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a7f1efe9-f8e1-4b29-917c-b6b527c929de
+:END:
+#+TITLE: Yjfq Uecbqrn 1936
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Uecbqrn
+- vintage :: 1936
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.58
+- sugar :: 20.92
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

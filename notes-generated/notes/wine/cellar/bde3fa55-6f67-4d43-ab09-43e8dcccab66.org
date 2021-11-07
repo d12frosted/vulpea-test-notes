@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bde3fa55-6f67-4d43-ab09-43e8dcccab66
+:END:
+#+TITLE: Scf Elpezclx Sxjmerr Ssaklgjw 1978
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Sxjmerr Ssaklgjw
+- vintage :: 1978
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 13.74
+- sugar :: 21.97
+- price :: 52.99 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

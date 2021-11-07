@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cc2bcc21-db93-4cbf-97dd-06aceff2e613
+:END:
+#+TITLE: Scf Elpezclx Frbrtck NV - 1993-1-27
+
+- wine :: [[id:782ff7e8-70bf-4cf4-adc9-6fbd8ba6d8af][Scf Elpezclx Frbrtck]]
+- date :: 1993-1-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

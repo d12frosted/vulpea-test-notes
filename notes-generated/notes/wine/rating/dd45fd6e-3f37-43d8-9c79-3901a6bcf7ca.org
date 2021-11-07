@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dd45fd6e-3f37-43d8-9c79-3901a6bcf7ca
+:END:
+#+TITLE: Scf Elpezclx Mgwstwpo Jucqcasf NV - 2024-5-19
+
+- wine :: [[id:a2e158db-e85a-4b79-8f53-01d85301ef41][Scf Elpezclx Mgwstwpo Jucqcasf]]
+- date :: 2024-5-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6fbda287-e971-4900-bc00-d58268ca1e98
+:END:
+#+TITLE: Ecxknc Iepvhans Radjb 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Radjb
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 9.16
+- sugar :: 23.26
+- price :: 23.61 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA
+
+

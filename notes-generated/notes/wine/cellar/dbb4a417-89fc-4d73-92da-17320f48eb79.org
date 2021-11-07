@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     dbb4a417-89fc-4d73-92da-17320f48eb79
+:END:
+#+TITLE: Scf Elpezclx Gfccgzi Nbljj 1980
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Gfccgzi Nbljj
+- vintage :: 1980
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 12.45
+- price :: 79.61 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     494ba865-0610-43f0-ab01-f61c4f7e3cc6
+:END:
+#+TITLE: Qay Qefi Tkck 2016
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Qefi Tkck
+- vintage :: 2016
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.58
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

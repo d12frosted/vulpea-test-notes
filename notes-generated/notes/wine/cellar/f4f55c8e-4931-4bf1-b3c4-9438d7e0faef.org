@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f4f55c8e-4931-4bf1-b3c4-9438d7e0faef
+:END:
+#+TITLE: Yjfq Ubdsrwcy 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ubdsrwcy
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.07
+- sugar :: 8.8
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA
+
+

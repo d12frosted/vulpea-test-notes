@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f9de74a8-ad30-4801-897c-9807bceaa238
+:END:
+#+TITLE: Nhozxqe Aldl Tqumx 1988
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Tqumx
+- vintage :: 1988
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.69
+- sugar :: 6.92
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

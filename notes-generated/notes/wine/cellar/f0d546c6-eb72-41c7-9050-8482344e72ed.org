@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f0d546c6-eb72-41c7-9050-8482344e72ed
+:END:
+#+TITLE: Yokf Gwhwycw Wfsljqvv 2003
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Wfsljqvv
+- vintage :: 2003
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 10.73
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: wikipedia
+- rating :: NA
+
+

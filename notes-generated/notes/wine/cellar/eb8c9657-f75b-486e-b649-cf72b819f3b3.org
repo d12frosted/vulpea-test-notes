@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     eb8c9657-f75b-486e-b649-cf72b819f3b3
+:END:
+#+TITLE: Jjkswvm Rcm Tzphdu Zrpjj 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Tzphdu Zrpjj
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.31
+- price :: 73.59 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA
+
+

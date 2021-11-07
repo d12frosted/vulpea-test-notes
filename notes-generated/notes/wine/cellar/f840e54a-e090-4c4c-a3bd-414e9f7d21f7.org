@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     f840e54a-e090-4c4c-a3bd-414e9f7d21f7
+:END:
+#+TITLE: Yjfq Lwucapdy 1975
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Lwucapdy
+- vintage :: 1975
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.25
+- sugar :: 8.06
+- price :: 28.68 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA
+
+

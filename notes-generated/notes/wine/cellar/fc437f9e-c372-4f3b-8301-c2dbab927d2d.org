@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     fc437f9e-c372-4f3b-8301-c2dbab927d2d
+:END:
+#+TITLE: Yokf Gwhwycw Uskuea 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Uskuea
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 9.23
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:0be99d5c-5815-4630-a7c1-db929421a7eb][Yokf Gwhwycw Uskuea NV - 1993-9-3]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ded1cd3d-f162-4af5-b7d9-abcbca5c72fb
+:END:
+#+TITLE: Cowhhax Upmqcgn Hmi 1976 - 2002-8-19
+
+- wine :: [[id:8863ed14-9194-4387-b2f3-b99408e83689][Cowhhax Upmqcgn Hmi 1976]]
+- date :: 2002-8-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0a6c04ff-4c33-42eb-b143-621075236026
+:END:
+#+TITLE: Jjkswvm Rcm Tlblz 2008 - 2001-1-28
+
+- wine :: [[id:d49080d9-4623-49c8-b0ea-8c783393f6d8][Jjkswvm Rcm Tlblz 2008]]
+- date :: 2001-1-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

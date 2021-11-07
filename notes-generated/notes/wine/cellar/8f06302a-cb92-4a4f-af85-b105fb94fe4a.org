@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8f06302a-cb92-4a4f-af85-b105fb94fe4a
+:END:
+#+TITLE: Giih Udr Lybwfskq Rlks 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Lybwfskq Rlks
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 10.75
+- price :: 72.69 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:a9ac6e7a-a28b-455c-9e85-5a768c6141d2][Giih Udr Lybwfskq Rlks NV - 2008-11-15]]
+
+

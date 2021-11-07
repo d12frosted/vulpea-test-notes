@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     32cf3cd1-ab22-4d2c-948f-3892af2b0edb
+:END:
+#+TITLE: Yjfq Hwulr 1968 - 2014-6-17
+
+- wine :: [[id:7f703f9c-4664-4c0b-bab0-c09aca835820][Yjfq Hwulr 1968]]
+- date :: 2014-6-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

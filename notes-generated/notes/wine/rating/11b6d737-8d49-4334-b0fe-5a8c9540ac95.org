@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     11b6d737-8d49-4334-b0fe-5a8c9540ac95
+:END:
+#+TITLE: Cowhhax Upmqcgn Wtmpk Wobox NV - 2000-2-1
+
+- wine :: [[id:aa54c6da-a720-4447-8a8e-487ddd1f39f2][Cowhhax Upmqcgn Wtmpk Wobox]]
+- date :: 2000-2-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c63511bb-2923-45c3-ae25-279d0acd0c4b
+:END:
+#+TITLE: Ecxknc Iepvhans Iurbir NV - 2008-12-23
+
+- wine :: [[id:32cc7521-ddcc-4c3d-95be-b125e12a58a3][Ecxknc Iepvhans Iurbir]]
+- date :: 2008-12-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

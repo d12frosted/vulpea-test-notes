@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6ae98571-747b-43e2-837a-212456891cbc
+:END:
+#+TITLE: Nhozxqe Aldl Uklgmlg 2007
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Uklgmlg
+- vintage :: 2007
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.81
+- price :: 29.24 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.0
+- ratings :: [[id:361c1470-77f6-4d90-8406-784171236405][Nhozxqe Aldl Uklgmlg 2007 - 1991-4-11]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     364dfd20-a10f-4c2d-92b8-9984d4d55994
+:END:
+#+TITLE: Lrwk Jbaxrmn Eqmwpk 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Eqmwpk
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.21
+- price :: 101.32 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:b2925286-c255-43d5-a864-666f2214ae6d][Lrwk Jbaxrmn Eqmwpk NV - 2003-4-18]]
+
+

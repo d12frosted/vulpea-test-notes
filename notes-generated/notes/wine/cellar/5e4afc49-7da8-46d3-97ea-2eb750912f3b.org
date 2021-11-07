@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     5e4afc49-7da8-46d3-97ea-2eb750912f3b
+:END:
+#+TITLE: Scf Elpezclx Elmaargj Vev 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Elmaargj Vev
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 12.95
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

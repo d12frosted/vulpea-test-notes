@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     627bda48-2569-402e-a974-3c019854549d
+:END:
+#+TITLE: Ecxknc Iepvhans Zni Zrem 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Zni Zrem
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.09
+- price :: 75.15 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

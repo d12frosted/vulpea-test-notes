@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0b4e641d-47d0-48ee-bc1b-8c767ca7ac90
+:END:
+#+TITLE: Qay Wfl Hnnf 1902
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Wfl Hnnf
+- vintage :: 1902
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 13.370000000000001
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA
+
+

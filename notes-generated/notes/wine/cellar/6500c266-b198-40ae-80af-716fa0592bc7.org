@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6500c266-b198-40ae-80af-716fa0592bc7
+:END:
+#+TITLE: Yjfq Wcxxntek 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Wcxxntek
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.51
+- sugar :: 10.45
+- price :: 57.39 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:fe6c08cb-48fe-4114-99ae-5fcc0dcccff3][Yjfq Wcxxntek NV - 2011-5-6]]
+
+

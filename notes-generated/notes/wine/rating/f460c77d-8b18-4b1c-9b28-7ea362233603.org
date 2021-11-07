@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f460c77d-8b18-4b1c-9b28-7ea362233603
+:END:
+#+TITLE: Qay Zkf NV - 2008-9-21
+
+- wine :: [[id:4c9b0fd1-c0f4-42b6-af41-dfa47cc0ae6b][Qay Zkf]]
+- date :: 2008-9-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     144e158d-c91f-457b-99bc-df50fa4e0811
+:END:
+#+TITLE: Qay Aasyla 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Aasyla
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.43
+- sugar :: 22.52
+- price :: 53.51 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:dfbf22b6-0f0f-47e2-8b67-d08e5afe4780][Qay Aasyla NV - 2019-10-16]]
+
+

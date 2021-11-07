@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     00031ae6-7803-4b90-ba1c-c12b83f75e1b
+:END:
+#+TITLE: Ecxknc Iepvhans Nejzlplp Rtajorjo NV - 1997-1-11
+
+- wine :: [[id:fa322669-22e0-4b2d-a143-492c3de4973c][Ecxknc Iepvhans Nejzlplp Rtajorjo]]
+- date :: 1997-1-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

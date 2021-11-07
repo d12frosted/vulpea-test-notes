@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6303c65f-d092-47b9-81e4-7027b795b75b
+:END:
+#+TITLE: Cowhhax Upmqcgn Sbrrrw Difr 1947
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Sbrrrw Difr
+- vintage :: 1947
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 10.02
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

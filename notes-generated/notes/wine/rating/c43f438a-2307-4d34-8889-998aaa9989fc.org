@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c43f438a-2307-4d34-8889-998aaa9989fc
+:END:
+#+TITLE: Nhozxqe Aldl Xhph Zuvdb 1977 - 2005-3-11
+
+- wine :: [[id:71941af3-b76f-452c-ad33-82825b715472][Nhozxqe Aldl Xhph Zuvdb 1977]]
+- date :: 2005-3-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

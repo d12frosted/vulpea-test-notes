@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     832a51b4-830d-47e3-ba17-058127003c58
+:END:
+#+TITLE: Nhozxqe Aldl Emjhvwx Upoyijjp 1963 - 1997-12-15
+
+- wine :: [[id:bc749e29-0370-407e-9991-1bcaad0deb10][Nhozxqe Aldl Emjhvwx Upoyijjp 1963]]
+- date :: 1997-12-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

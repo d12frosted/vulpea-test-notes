@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     16d283ec-4fa1-4922-8eae-7056a40f9ce6
+:END:
+#+TITLE: Scf Elpezclx Rqdutavp 1986 - 2012-8-23
+
+- wine :: [[id:8bdbe97c-0e82-45b8-891f-71644443c4f9][Scf Elpezclx Rqdutavp 1986]]
+- date :: 2012-8-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

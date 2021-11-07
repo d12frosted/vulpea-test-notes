@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e44b7238-259b-430a-aa30-0c1f987f8688
+:END:
+#+TITLE: Lrwk Jbaxrmn Vhubhcgl 1957 - 2012-5-14
+
+- wine :: [[id:f1ad75e6-2dc3-44c8-a0e6-3afe4c1dba74][Lrwk Jbaxrmn Vhubhcgl 1957]]
+- date :: 2012-5-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     aa75cb9e-a8b5-46c9-b2b0-2e9a16664c1a
+:END:
+#+TITLE: Jjkswvm Rcm Dqbtvl 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Dqbtvl
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 9.08
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.0
+- ratings :: [[id:c0b1b446-3f17-4793-8c51-e3cfabd39c65][Jjkswvm Rcm Dqbtvl NV - 2013-4-17]]
+
+

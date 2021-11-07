@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2106aeae-9613-4221-bf18-408e9af78d56
+:END:
+#+TITLE: Cowhhax Upmqcgn Qcfxaqj Xqve NV - 2020-3-22
+
+- wine :: [[id:f317bec4-6610-4f91-bf72-a888378f00df][Cowhhax Upmqcgn Qcfxaqj Xqve]]
+- date :: 2020-3-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ef477e56-914e-4564-bc2f-1ceb9fbcf293
+:END:
+#+TITLE: Yjfq Mzqobdr Kwyzi 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Mzqobdr Kwyzi
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 13.120000000000001
+- sugar :: 14.89
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 3.0
+- ratings :: [[id:fbae8f9c-fb67-4b9d-b4c3-25eb395bd7b8][Yjfq Mzqobdr Kwyzi NV - 2013-1-27]]
+
+

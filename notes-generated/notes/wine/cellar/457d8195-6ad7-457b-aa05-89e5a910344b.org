@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     457d8195-6ad7-457b-aa05-89e5a910344b
+:END:
+#+TITLE: Yjfq Egdxv 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Egdxv
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.08
+- sugar :: 8.64
+- price :: 55.52 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 7.0
+- ratings :: [[id:f8a4b378-21bb-4ee3-8085-09033eb0a53f][Yjfq Egdxv NV - 1991-12-1]]
+
+

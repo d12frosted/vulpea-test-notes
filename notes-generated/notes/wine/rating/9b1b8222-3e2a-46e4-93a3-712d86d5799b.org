@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9b1b8222-3e2a-46e4-93a3-712d86d5799b
+:END:
+#+TITLE: Jjkswvm Rcm Bkup 2017 - 1992-11-25
+
+- wine :: [[id:c68e3401-a166-4f28-8408-e6fb4b4c8e81][Jjkswvm Rcm Bkup 2017]]
+- date :: 1992-11-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

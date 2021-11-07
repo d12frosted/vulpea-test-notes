@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     07800933-e985-4f49-a58b-600a86ebe6de
+:END:
+#+TITLE: Qay Afgmvtsq 1951
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Afgmvtsq
+- vintage :: 1951
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 10.17
+- price :: 36.77 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:fdf315f0-5aa9-4cef-9d5c-558411b83e4f][Qay Afgmvtsq 1951 - 2017-1-26]]
+
+

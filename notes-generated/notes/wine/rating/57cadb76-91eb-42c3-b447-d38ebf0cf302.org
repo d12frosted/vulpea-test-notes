@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     57cadb76-91eb-42c3-b447-d38ebf0cf302
+:END:
+#+TITLE: Ecxknc Iepvhans Ycmewdef Ossonix 2000 - 2003-6-6
+
+- wine :: [[id:2c6eb1ed-9451-4a2e-8eed-c05409ac01c9][Ecxknc Iepvhans Ycmewdef Ossonix 2000]]
+- date :: 2003-6-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

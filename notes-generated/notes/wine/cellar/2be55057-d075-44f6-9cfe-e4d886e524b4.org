@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2be55057-d075-44f6-9cfe-e4d886e524b4
+:END:
+#+TITLE: Lrwk Jbaxrmn Dcg Gfsaerxz 1975
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Dcg Gfsaerxz
+- vintage :: 1975
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.56
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:76a1d7b3-dbc7-4a35-a2c8-8638864d0f0a][Lrwk Jbaxrmn Dcg Gfsaerxz 1975 - 2002-8-9]]
+
+

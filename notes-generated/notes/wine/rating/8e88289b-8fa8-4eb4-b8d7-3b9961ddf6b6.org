@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8e88289b-8fa8-4eb4-b8d7-3b9961ddf6b6
+:END:
+#+TITLE: Jjkswvm Rcm Cxect NV - 2023-11-11
+
+- wine :: [[id:837fb760-a6b8-49d8-beb3-88160c1e197d][Jjkswvm Rcm Cxect]]
+- date :: 2023-11-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

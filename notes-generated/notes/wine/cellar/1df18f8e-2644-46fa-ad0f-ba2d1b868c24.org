@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1df18f8e-2644-46fa-ad0f-ba2d1b868c24
+:END:
+#+TITLE: Scf Elpezclx Zbbf 1963
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Zbbf
+- vintage :: 1963
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 9.35
+- sugar :: 21.27
+- price :: 32.60 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:91d5aaa4-6bbb-4acf-8da8-25c9111d6444][Scf Elpezclx Zbbf 1963 - 2014-4-14]]
+
+

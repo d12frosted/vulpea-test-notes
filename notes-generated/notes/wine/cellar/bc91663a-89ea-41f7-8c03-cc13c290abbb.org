@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bc91663a-89ea-41f7-8c03-cc13c290abbb
+:END:
+#+TITLE: Ecxknc Iepvhans Yjktwiuw Qcqrauv 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Yjktwiuw Qcqrauv
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 13.14
+- sugar :: 16.94
+- price :: 32.57 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA
+
+

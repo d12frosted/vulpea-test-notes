@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     5cf4cf57-754d-49b7-829c-f7eb612f4f62
+:END:
+#+TITLE: Giih Udr Lxdbzoob 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Lxdbzoob
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.26
+- sugar :: 17.21
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:ed461fee-aa42-4d04-86d2-78aaee1f158b][Giih Udr Lxdbzoob NV - 2024-4-9]]
+
+

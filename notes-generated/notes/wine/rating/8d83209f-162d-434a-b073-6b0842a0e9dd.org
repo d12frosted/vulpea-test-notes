@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8d83209f-162d-434a-b073-6b0842a0e9dd
+:END:
+#+TITLE: Qay Qtihmdk Jncefu NV - 2009-1-5
+
+- wine :: [[id:5373b6da-f22e-4b98-a11f-f5f7ffe1cdde][Qay Qtihmdk Jncefu]]
+- date :: 2009-1-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

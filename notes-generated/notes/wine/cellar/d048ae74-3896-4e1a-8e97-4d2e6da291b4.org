@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d048ae74-3896-4e1a-8e97-4d2e6da291b4
+:END:
+#+TITLE: Yjfq Uimrbedb 1947
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Uimrbedb
+- vintage :: 1947
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 12.82
+- price :: 62.86 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

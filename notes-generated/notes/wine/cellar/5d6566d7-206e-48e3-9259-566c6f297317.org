@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     5d6566d7-206e-48e3-9259-566c6f297317
+:END:
+#+TITLE: Lrwk Jbaxrmn Sluwwpmz Uyxl 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Sluwwpmz Uyxl
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 10.629999999999999
+- price :: 56.47 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:f42638c9-419f-4202-8506-b574d8fe0e89][Lrwk Jbaxrmn Sluwwpmz Uyxl NV - 2016-4-8]]
+
+

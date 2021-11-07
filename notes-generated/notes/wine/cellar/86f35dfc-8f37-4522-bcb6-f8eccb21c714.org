@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     86f35dfc-8f37-4522-bcb6-f8eccb21c714
+:END:
+#+TITLE: Giih Udr Tqiuhqe Kvcoph 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Tqiuhqe Kvcoph
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.52
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:fb46760f-deb1-40e4-b112-d7ec1f7d6cdb][Giih Udr Tqiuhqe Kvcoph NV - 2002-5-19]]
+
+

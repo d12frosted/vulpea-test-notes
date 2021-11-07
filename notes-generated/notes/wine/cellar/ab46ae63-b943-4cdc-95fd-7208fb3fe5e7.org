@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ab46ae63-b943-4cdc-95fd-7208fb3fe5e7
+:END:
+#+TITLE: Giih Udr Fscjtv Sgaga 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Fscjtv Sgaga
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 10.23
+- sugar :: 11.13
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:e1393a95-bd41-43db-98be-f4c105307e12][Giih Udr Fscjtv Sgaga NV - 1992-2-4]]
+
+

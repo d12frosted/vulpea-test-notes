@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     222aedcc-1bea-45c1-b6c4-9c5ead3bb37c
+:END:
+#+TITLE: Qay Gdyeq 1923
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Gdyeq
+- vintage :: 1923
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 12.15
+- price :: 100.76 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA
+
+

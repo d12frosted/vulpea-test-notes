@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     1d7d8fbd-8221-4882-b915-e4bee920bede
+:END:
+#+TITLE: Nhozxqe Aldl Rlizv 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Rlizv
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 13.41
+- sugar :: 2.76
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:c9a9744a-f5e4-455b-89f3-b19ea77ab8b3][Nhozxqe Aldl Rlizv NV - 1998-1-22]]
+
+

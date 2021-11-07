@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     74a9f5a2-aff7-4d45-9e19-62aefaf9790d
+:END:
+#+TITLE: Yokf Gwhwycw Jgvrq 1932
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Jgvrq
+- vintage :: 1932
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 9.23
+- sugar :: 1.79
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

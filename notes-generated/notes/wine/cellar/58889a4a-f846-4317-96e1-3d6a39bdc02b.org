@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     58889a4a-f846-4317-96e1-3d6a39bdc02b
+:END:
+#+TITLE: Scf Elpezclx Omwv Gxysjbtu 1908
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Omwv Gxysjbtu
+- vintage :: 1908
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.31
+- sugar :: 13.72
+- price :: 63.63 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:1696343e-7ff3-479d-8d12-4e1f3ca5d9e2][Scf Elpezclx Omwv Gxysjbtu 1908 - 2014-11-18]]
+
+

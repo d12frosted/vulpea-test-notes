@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c0d62c5c-a8b4-48de-b4e8-dc89a2224111
+:END:
+#+TITLE: Nhozxqe Aldl Lvepkqg 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Lvepkqg
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.72
+- price :: 27.61 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

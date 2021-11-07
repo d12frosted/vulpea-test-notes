@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3beb24eb-8b01-4407-8907-d0af8480f43c
+:END:
+#+TITLE: Cowhhax Upmqcgn Veadbqy 1940 - 2019-12-13
+
+- wine :: [[id:d0b7744f-2582-4e3f-91b1-827350dda1e9][Cowhhax Upmqcgn Veadbqy 1940]]
+- date :: 2019-12-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

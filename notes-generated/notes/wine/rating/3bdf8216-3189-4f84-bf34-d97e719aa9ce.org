@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3bdf8216-3189-4f84-bf34-d97e719aa9ce
+:END:
+#+TITLE: Giih Udr Krrjtis NV - 1995-3-14
+
+- wine :: [[id:edfbcc49-d3ea-4426-8b4a-fcc17bf0c95b][Giih Udr Krrjtis]]
+- date :: 1995-3-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

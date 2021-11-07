@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     f621d12c-d355-4820-a393-1e38d6c29caa
+:END:
+#+TITLE: Jjkswvm Rcm Fphw Dcbpwk 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Fphw Dcbpwk
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.43
+- sugar :: 22.51
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

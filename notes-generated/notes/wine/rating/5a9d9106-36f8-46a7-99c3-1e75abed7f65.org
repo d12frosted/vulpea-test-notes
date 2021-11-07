@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5a9d9106-36f8-46a7-99c3-1e75abed7f65
+:END:
+#+TITLE: Cowhhax Upmqcgn Xlrbwte NV - 2001-12-16
+
+- wine :: [[id:0c3ba0a2-67b7-42b5-b5c7-65288667e345][Cowhhax Upmqcgn Xlrbwte]]
+- date :: 2001-12-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

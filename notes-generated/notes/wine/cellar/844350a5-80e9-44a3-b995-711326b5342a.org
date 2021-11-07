@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     844350a5-80e9-44a3-b995-711326b5342a
+:END:
+#+TITLE: Yjfq Kyt 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Kyt
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.75
+- sugar :: 11.31
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA
+
+

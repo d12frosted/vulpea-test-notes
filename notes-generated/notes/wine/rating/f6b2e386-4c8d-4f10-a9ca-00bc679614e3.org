@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f6b2e386-4c8d-4f10-a9ca-00bc679614e3
+:END:
+#+TITLE: Cowhhax Upmqcgn Gfh Udkygwnl 1961 - 2015-7-11
+
+- wine :: [[id:a0568b06-9a16-4b5c-bac7-03694ff434b9][Cowhhax Upmqcgn Gfh Udkygwnl 1961]]
+- date :: 2015-7-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

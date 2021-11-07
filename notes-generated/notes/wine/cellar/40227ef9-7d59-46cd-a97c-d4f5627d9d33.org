@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     40227ef9-7d59-46cd-a97c-d4f5627d9d33
+:END:
+#+TITLE: Cowhhax Upmqcgn Xxv 1930
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Xxv
+- vintage :: 1930
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 12.85
+- sugar :: 16.55
+- price :: 19.38 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     76ace632-feef-4a2b-aafd-b5245a70cd8e
+:END:
+#+TITLE: Nhozxqe Aldl Bci Mxulioq 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Bci Mxulioq
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 13.08
+- sugar :: 18.07
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     156d4186-fc21-42e1-87f9-8f26d8995cf0
+:END:
+#+TITLE: Ecxknc Iepvhans Qleko 1972 - 2020-1-2
+
+- wine :: [[id:a7c8f2f6-10a7-423f-a164-be462633f83c][Ecxknc Iepvhans Qleko 1972]]
+- date :: 2020-1-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

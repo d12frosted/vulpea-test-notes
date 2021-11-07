@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     0c59ed6f-5607-4b53-ac80-5bb8b9e695b1
+:END:
+#+TITLE: Ecxknc Iepvhans Motch Yoej 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Motch Yoej
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.31
+- sugar :: 0.45
+- price :: 50.80 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.0
+- ratings :: [[id:858f4d2b-4604-4616-b0ea-a244c135874b][Ecxknc Iepvhans Motch Yoej NV - 2011-8-20]]
+
+

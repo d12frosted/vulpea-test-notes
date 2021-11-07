@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     92b57447-695c-4bd9-8ac8-4588b4e1d424
+:END:
+#+TITLE: Nhozxqe Aldl Ixiqw 1940
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ixiqw
+- vintage :: 1940
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.76
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.0
+- ratings :: [[id:faa6e538-cf83-4d7b-8dbf-317c042de948][Nhozxqe Aldl Ixiqw 1940 - 2003-1-9]]
+
+

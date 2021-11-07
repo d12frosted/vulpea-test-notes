@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6778c19e-60f3-4336-8d66-0a03064cca9f
+:END:
+#+TITLE: Cowhhax Upmqcgn Qokphrfj Vnxya 1944
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Qokphrfj Vnxya
+- vintage :: 1944
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 10.23
+- sugar :: 2.96
+- price :: 86.86 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 8.5
+- ratings :: [[id:9fc4fa3a-94a0-4c08-a9e4-d40a3588b1a3][Cowhhax Upmqcgn Qokphrfj Vnxya 1944 - 2012-1-28]]
+
+

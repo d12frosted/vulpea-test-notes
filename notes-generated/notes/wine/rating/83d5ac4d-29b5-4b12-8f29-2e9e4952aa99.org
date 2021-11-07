@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     83d5ac4d-29b5-4b12-8f29-2e9e4952aa99
+:END:
+#+TITLE: Cowhhax Upmqcgn Yrja 2006 - 2015-12-23
+
+- wine :: [[id:67205600-a167-4b68-90a8-5dcb9f2c98e0][Cowhhax Upmqcgn Yrja 2006]]
+- date :: 2015-12-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

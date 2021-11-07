@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     038ce5cb-8b92-483a-9d52-1eb6af938c95
+:END:
+#+TITLE: Cowhhax Upmqcgn Fmhuhc NV - 1995-9-24
+
+- wine :: [[id:269ec79c-ea68-486d-9d2c-5476e54d48e1][Cowhhax Upmqcgn Fmhuhc]]
+- date :: 1995-9-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

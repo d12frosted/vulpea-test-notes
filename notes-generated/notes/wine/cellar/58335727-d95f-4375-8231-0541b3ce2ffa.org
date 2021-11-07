@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     58335727-d95f-4375-8231-0541b3ce2ffa
+:END:
+#+TITLE: Scf Elpezclx Vedaso Wcnsl 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Vedaso Wcnsl
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 10.34
+- price :: 61.36 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA
+
+

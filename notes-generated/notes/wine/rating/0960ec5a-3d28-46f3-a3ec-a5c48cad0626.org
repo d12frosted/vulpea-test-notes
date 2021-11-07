@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0960ec5a-3d28-46f3-a3ec-a5c48cad0626
+:END:
+#+TITLE: Giih Udr Uqjdiwe NV - 2007-4-19
+
+- wine :: [[id:d3e5953b-8621-4af6-a50f-54b7e2e831da][Giih Udr Uqjdiwe]]
+- date :: 2007-4-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

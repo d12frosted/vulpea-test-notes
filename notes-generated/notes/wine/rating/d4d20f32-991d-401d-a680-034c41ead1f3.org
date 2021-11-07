@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d4d20f32-991d-401d-a680-034c41ead1f3
+:END:
+#+TITLE: Nhozxqe Aldl Dkhen NV - 2020-11-23
+
+- wine :: [[id:a4d092e2-f6d1-403f-905f-d2fd143e9185][Nhozxqe Aldl Dkhen]]
+- date :: 2020-11-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

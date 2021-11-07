@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     31d3dea2-7d6d-466b-a93b-8b0c4cc50978
+:END:
+#+TITLE: Nhozxqe Aldl Ntkh Myrwykh 1944 - 2000-5-24
+
+- wine :: [[id:74434c00-8456-4fae-a017-ae16435068ef][Nhozxqe Aldl Ntkh Myrwykh 1944]]
+- date :: 2000-5-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

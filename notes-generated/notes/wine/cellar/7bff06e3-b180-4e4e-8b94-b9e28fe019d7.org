@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7bff06e3-b180-4e4e-8b94-b9e28fe019d7
+:END:
+#+TITLE: Giih Udr Kmx Ziyzj 2020
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Kmx Ziyzj
+- vintage :: 2020
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.2
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 7.0
+- ratings :: [[id:7aea5418-ed90-4899-8489-af016dbb552e][Giih Udr Kmx Ziyzj 2020 - 1994-8-10]]
+
+

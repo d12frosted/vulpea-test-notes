@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d241a28a-29be-4c25-bf8e-859da95f0f5c
+:END:
+#+TITLE: Yjfq Xjbe 1912 - 1993-9-10
+
+- wine :: [[id:ac8a959b-dcbc-49ad-a14e-e419ad9a8ae4][Yjfq Xjbe 1912]]
+- date :: 1993-9-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

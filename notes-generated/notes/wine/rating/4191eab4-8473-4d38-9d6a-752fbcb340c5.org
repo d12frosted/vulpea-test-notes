@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4191eab4-8473-4d38-9d6a-752fbcb340c5
+:END:
+#+TITLE: Yokf Gwhwycw Hfsariy Ypbz NV - 2016-10-10
+
+- wine :: [[id:27b860da-58ab-4976-a030-8dce4bf7eb99][Yokf Gwhwycw Hfsariy Ypbz]]
+- date :: 2016-10-10
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

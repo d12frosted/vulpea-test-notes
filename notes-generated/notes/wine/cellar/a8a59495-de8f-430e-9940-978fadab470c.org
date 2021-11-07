@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a8a59495-de8f-430e-9940-978fadab470c
+:END:
+#+TITLE: Yjfq Vomo Dvuwqb 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Vomo Dvuwqb
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.78
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:daf2b1d8-da97-4f6d-9775-5b3f998bc33a][Yjfq Vomo Dvuwqb NV - 2006-2-5]]
+
+

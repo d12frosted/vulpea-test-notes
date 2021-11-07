@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c45ca32d-6d36-4baf-853c-954702c94a3c
+:END:
+#+TITLE: Yjfq Apwrnch 1936 - 2013-1-25
+
+- wine :: [[id:ba4e2f00-becf-4b53-818b-d9d7ee259080][Yjfq Apwrnch 1936]]
+- date :: 2013-1-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

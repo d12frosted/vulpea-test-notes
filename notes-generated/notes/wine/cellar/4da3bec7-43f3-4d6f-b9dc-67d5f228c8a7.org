@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4da3bec7-43f3-4d6f-b9dc-67d5f228c8a7
+:END:
+#+TITLE: Jjkswvm Rcm Taccdf Oirajrdh 1958
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Taccdf Oirajrdh
+- vintage :: 1958
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.81
+- price :: 29.73 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:f49dd90b-db58-40cd-a6e3-f805099a0f13][Jjkswvm Rcm Taccdf Oirajrdh 1958 - 1992-9-5]]
+
+

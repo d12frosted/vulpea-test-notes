@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6412312e-5ab7-40f9-b83d-80d34d142f5c
+:END:
+#+TITLE: Yjfq Hmdttkv Llass 1926
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Hmdttkv Llass
+- vintage :: 1926
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.36
+- sugar :: 16.56
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

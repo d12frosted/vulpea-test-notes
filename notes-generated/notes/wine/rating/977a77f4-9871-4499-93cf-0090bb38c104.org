@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     977a77f4-9871-4499-93cf-0090bb38c104
+:END:
+#+TITLE: Jjkswvm Rcm Dnuqs Ccrpp 1929 - 2016-10-3
+
+- wine :: [[id:850a90c3-045d-4743-bfc6-c9e52a79dc63][Jjkswvm Rcm Dnuqs Ccrpp 1929]]
+- date :: 2016-10-3
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

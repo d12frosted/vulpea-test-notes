@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2ac78e0f-e97e-4cc0-ab32-49a9a73c4195
+:END:
+#+TITLE: Giih Udr Yjjzjaw Vjqulzl 1990
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Yjjzjaw Vjqulzl
+- vintage :: 1990
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.969999999999999
+- price :: 97.36 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

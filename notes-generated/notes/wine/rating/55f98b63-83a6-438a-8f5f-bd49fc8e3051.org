@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     55f98b63-83a6-438a-8f5f-bd49fc8e3051
+:END:
+#+TITLE: Cowhhax Upmqcgn Wvmun 1943 - 1997-11-1
+
+- wine :: [[id:c9ed162b-75e3-4576-bc24-f6c124289a87][Cowhhax Upmqcgn Wvmun 1943]]
+- date :: 1997-11-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

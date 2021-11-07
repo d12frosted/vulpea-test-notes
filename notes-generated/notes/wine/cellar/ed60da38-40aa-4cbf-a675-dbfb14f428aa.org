@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ed60da38-40aa-4cbf-a675-dbfb14f428aa
+:END:
+#+TITLE: Scf Elpezclx Svnn 1984
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Svnn
+- vintage :: 1984
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 11.92
+- price :: 97.98 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

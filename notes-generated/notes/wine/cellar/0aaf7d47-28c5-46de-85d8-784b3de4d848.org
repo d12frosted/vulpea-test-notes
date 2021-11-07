@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0aaf7d47-28c5-46de-85d8-784b3de4d848
+:END:
+#+TITLE: Ecxknc Iepvhans Vfmigwo Eggzbzpr 1902
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Vfmigwo Eggzbzpr
+- vintage :: 1902
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.46
+- sugar :: 10.29
+- price :: 15.83 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA
+
+

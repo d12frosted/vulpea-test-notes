@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     d2f2ef48-928f-4b7b-9f97-091200135c8c
+:END:
+#+TITLE: Scf Elpezclx Vcd Xqup 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Vcd Xqup
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.71
+- price :: 45.25 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

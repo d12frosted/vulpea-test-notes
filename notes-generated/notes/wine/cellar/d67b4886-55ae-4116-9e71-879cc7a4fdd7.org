@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     d67b4886-55ae-4116-9e71-879cc7a4fdd7
+:END:
+#+TITLE: Yjfq Zyz 2003
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Zyz
+- vintage :: 2003
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 12.84
+- sugar :: 1.88
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:7ef3c336-d782-4b7a-975b-b48a84737367][Yjfq Zyz 2003 - 2001-1-11]]
+
+

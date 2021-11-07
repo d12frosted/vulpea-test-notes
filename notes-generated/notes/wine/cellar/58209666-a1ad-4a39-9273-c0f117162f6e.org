@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     58209666-a1ad-4a39-9273-c0f117162f6e
+:END:
+#+TITLE: Yjfq Kpwncfbj Lexly 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Kpwncfbj Lexly
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 11.44
+- sugar :: 17.12
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA
+
+

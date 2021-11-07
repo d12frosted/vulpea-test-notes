@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5fd1d769-75fb-4290-b061-0620996f6c15
+:END:
+#+TITLE: Yokf Gwhwycw Dvvbnw 1998
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Dvvbnw
+- vintage :: 1998
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.59
+- price :: 25.69 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.5
+- ratings :: [[id:8bf8093c-45e6-4119-8e36-183cad5f031d][Yokf Gwhwycw Dvvbnw 1998 - 2004-8-3]]
+
+

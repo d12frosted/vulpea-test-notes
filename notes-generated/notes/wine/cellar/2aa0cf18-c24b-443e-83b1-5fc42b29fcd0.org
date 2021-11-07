@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     2aa0cf18-c24b-443e-83b1-5fc42b29fcd0
+:END:
+#+TITLE: Giih Udr Pyg Eyy 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Pyg Eyy
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.86
+- sugar :: 5.99
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

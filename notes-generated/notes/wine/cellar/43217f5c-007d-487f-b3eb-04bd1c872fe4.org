@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     43217f5c-007d-487f-b3eb-04bd1c872fe4
+:END:
+#+TITLE: Jjkswvm Rcm Uqqnedr 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Uqqnedr
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.9
+- sugar :: 21.27
+- price :: 72.10 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

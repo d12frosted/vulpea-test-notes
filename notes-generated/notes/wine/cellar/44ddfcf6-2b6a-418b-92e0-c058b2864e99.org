@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     44ddfcf6-2b6a-418b-92e0-c058b2864e99
+:END:
+#+TITLE: Yjfq Zebp Vioqv 1935
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Zebp Vioqv
+- vintage :: 1935
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 9.16
+- price :: 54.27 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 2.5
+- ratings :: [[id:61ca1969-63da-494b-ae50-e15bb3a1d3f7][Yjfq Zebp Vioqv 1935 - 1991-3-21]]
+
+

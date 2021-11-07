@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5a4feb94-9bfe-4e22-bbd1-d11ded60fb45
+:END:
+#+TITLE: Scf Elpezclx Psglab NV - 2006-2-17
+
+- wine :: [[id:bcc2240d-5d1a-4d4e-a596-08d62a773fac][Scf Elpezclx Psglab]]
+- date :: 2006-2-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

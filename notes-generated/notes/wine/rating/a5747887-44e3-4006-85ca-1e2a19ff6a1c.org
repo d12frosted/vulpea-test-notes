@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a5747887-44e3-4006-85ca-1e2a19ff6a1c
+:END:
+#+TITLE: Scf Elpezclx Mjliamnc Ztgno 1936 - 2015-3-12
+
+- wine :: [[id:fe720060-733a-4dbe-95a1-fe899b4aed07][Scf Elpezclx Mjliamnc Ztgno 1936]]
+- date :: 2015-3-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

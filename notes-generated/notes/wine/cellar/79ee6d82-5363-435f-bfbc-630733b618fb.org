@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     79ee6d82-5363-435f-bfbc-630733b618fb
+:END:
+#+TITLE: Ecxknc Iepvhans Pnf Cxba 1989
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Pnf Cxba
+- vintage :: 1989
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 13.66
+- sugar :: 4.88
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:62f2a177-066e-4a4b-a21e-be51569f19d9][Ecxknc Iepvhans Pnf Cxba 1989 - 2000-9-23]]
+
+

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     9cb2d400-d8b9-4fc9-980e-4b4d95654fb5
+:END:
+#+TITLE: Yokf Gwhwycw Ukvxi 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Ukvxi
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 13.11
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA
+
+

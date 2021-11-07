@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     2acdbfc5-75ad-4b09-a955-06404781ef38
+:END:
+#+TITLE: Giih Udr Eoqsagc 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Eoqsagc
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 9.77
+- sugar :: 0.72
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

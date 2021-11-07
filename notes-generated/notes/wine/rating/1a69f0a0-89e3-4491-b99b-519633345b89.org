@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1a69f0a0-89e3-4491-b99b-519633345b89
+:END:
+#+TITLE: Qay Kkymueq NV - 2012-8-15
+
+- wine :: [[id:f05ff4ae-ab25-4e96-a1e7-19df6c7a0f4c][Qay Kkymueq]]
+- date :: 2012-8-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

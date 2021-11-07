@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     de785389-c82f-4f53-84ba-57f84ba16569
+:END:
+#+TITLE: Scf Elpezclx Fnkwvuq 2018
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Fnkwvuq
+- vintage :: 2018
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.89
+- sugar :: 14.77
+- price :: 83.37 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

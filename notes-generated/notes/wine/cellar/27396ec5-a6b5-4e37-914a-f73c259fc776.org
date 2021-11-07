@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     27396ec5-a6b5-4e37-914a-f73c259fc776
+:END:
+#+TITLE: Jjkswvm Rcm Cbjls Mvp 1981
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Cbjls Mvp
+- vintage :: 1981
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.91
+- price :: 73.48 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

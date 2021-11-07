@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0d5a58a8-eadf-47a8-a1bd-db88ac339c69
+:END:
+#+TITLE: Jjkswvm Rcm Raywvlr Mllub 1984 - 1995-3-24
+
+- wine :: [[id:68d15dfe-bfac-497e-8bcd-cd9afa5917af][Jjkswvm Rcm Raywvlr Mllub 1984]]
+- date :: 1995-3-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

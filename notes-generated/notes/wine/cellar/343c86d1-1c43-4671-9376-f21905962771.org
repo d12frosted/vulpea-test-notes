@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     343c86d1-1c43-4671-9376-f21905962771
+:END:
+#+TITLE: Giih Udr Oxujra Ulibcchr 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Oxujra Ulibcchr
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.77
+- sugar :: 2.26
+- price :: 100.05 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

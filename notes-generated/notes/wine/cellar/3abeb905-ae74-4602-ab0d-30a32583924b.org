@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3abeb905-ae74-4602-ab0d-30a32583924b
+:END:
+#+TITLE: Qay Navefcca 1994
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Navefcca
+- vintage :: 1994
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.55
+- sugar :: 3.4
+- price :: 37.52 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

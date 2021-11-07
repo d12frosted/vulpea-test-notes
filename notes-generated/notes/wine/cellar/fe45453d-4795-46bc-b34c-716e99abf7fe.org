@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fe45453d-4795-46bc-b34c-716e99abf7fe
+:END:
+#+TITLE: Scf Elpezclx Cuuvuqkr Ervav 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Cuuvuqkr Ervav
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 10.85
+- sugar :: 22.04
+- price :: 33.18 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:a39b0784-a4da-4794-b73f-8a1e7ebeafce][Scf Elpezclx Cuuvuqkr Ervav NV - 2013-2-24]]
+
+

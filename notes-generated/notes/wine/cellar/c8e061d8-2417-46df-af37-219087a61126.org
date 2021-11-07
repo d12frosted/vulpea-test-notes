@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c8e061d8-2417-46df-af37-219087a61126
+:END:
+#+TITLE: Yjfq Bvrptl Cbhug 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Bvrptl Cbhug
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.02
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:243cea80-f3b6-4e11-aa54-bd89e3fafd1f][Yjfq Bvrptl Cbhug NV - 2004-9-24]]
+
+

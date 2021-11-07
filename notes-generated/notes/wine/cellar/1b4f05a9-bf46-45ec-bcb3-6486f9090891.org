@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1b4f05a9-bf46-45ec-bcb3-6486f9090891
+:END:
+#+TITLE: Nhozxqe Aldl Pstl Ezgcaevv 1968
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Pstl Ezgcaevv
+- vintage :: 1968
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 12.67
+- sugar :: 4.47
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 4.5
+- ratings :: [[id:689de4a2-8971-4e56-87af-f7ac3857e303][Nhozxqe Aldl Pstl Ezgcaevv 1968 - 1999-8-16]]
+
+

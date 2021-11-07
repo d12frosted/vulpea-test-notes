@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     baef601a-b438-411c-a4fa-664f5e850a25
+:END:
+#+TITLE: Scf Elpezclx Fkb Myrxu 1914 - 2001-4-15
+
+- wine :: [[id:128a8372-a204-4693-93de-52bf4a84af63][Scf Elpezclx Fkb Myrxu 1914]]
+- date :: 2001-4-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

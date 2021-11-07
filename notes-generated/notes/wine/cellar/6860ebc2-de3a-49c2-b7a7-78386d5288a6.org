@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6860ebc2-de3a-49c2-b7a7-78386d5288a6
+:END:
+#+TITLE: Scf Elpezclx Xylb Urj 1930
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Xylb Urj
+- vintage :: 1930
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.68
+- sugar :: 13.08
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 3.5
+- ratings :: [[id:a00c8256-22f4-4673-88c8-721bebd312af][Scf Elpezclx Xylb Urj 1930 - 2012-12-27]]
+
+

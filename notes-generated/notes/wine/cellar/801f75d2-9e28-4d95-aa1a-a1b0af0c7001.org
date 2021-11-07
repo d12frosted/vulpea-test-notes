@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     801f75d2-9e28-4d95-aa1a-a1b0af0c7001
+:END:
+#+TITLE: Giih Udr Xbgugjab 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Xbgugjab
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 12.95
+- price :: 16.35 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 3.0
+- ratings :: [[id:86954aa4-84d9-47c9-bcfc-d88433f7c293][Giih Udr Xbgugjab NV - 2021-9-22]]
+
+

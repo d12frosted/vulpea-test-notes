@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dc0aa378-9786-4c0a-ba20-2e7f8dc1d2aa
+:END:
+#+TITLE: Qay Ofolxyfw 1958 - 2017-9-9
+
+- wine :: [[id:23507961-64ee-4004-809d-4c88ff05559e][Qay Ofolxyfw 1958]]
+- date :: 2017-9-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

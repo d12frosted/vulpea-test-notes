@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d8834d1b-3ebc-4fba-9570-869ccad9d557
+:END:
+#+TITLE: Ecxknc Iepvhans Czy NV - 1999-7-9
+
+- wine :: [[id:d7844161-d062-4573-9a64-431a2d718920][Ecxknc Iepvhans Czy]]
+- date :: 1999-7-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

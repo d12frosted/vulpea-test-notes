@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8d9c921e-06e4-42ef-8975-64159a736a5e
+:END:
+#+TITLE: Yjfq Yearrg 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Yearrg
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 11.22
+- sugar :: 19.81
+- price :: 47.30 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:415172ce-15d4-4c23-94a8-6121de6c8c06][Yjfq Yearrg NV - 2000-11-24]]
+
+

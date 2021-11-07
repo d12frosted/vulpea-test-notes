@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     3f2b34a3-0bb7-4312-a265-e4087d5503e7
+:END:
+#+TITLE: Ecxknc Iepvhans Nvtpdyu 1960
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Nvtpdyu
+- vintage :: 1960
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.66
+- sugar :: 22.21
+- price :: 34.95 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

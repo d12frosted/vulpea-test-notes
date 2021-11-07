@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     53770b9f-17c5-4c4a-b1dd-c8a16739ebe0
+:END:
+#+TITLE: Ecxknc Iepvhans Xngrppac 1955
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Xngrppac
+- vintage :: 1955
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.27
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

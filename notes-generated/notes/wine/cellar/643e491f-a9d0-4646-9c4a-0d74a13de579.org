@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     643e491f-a9d0-4646-9c4a-0d74a13de579
+:END:
+#+TITLE: Qay Modqxtqo 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Modqxtqo
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 9.25
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:9dfe9d05-540a-4bd3-ba1f-40bd9fd4e435][Qay Modqxtqo NV - 1999-1-20]]
+
+

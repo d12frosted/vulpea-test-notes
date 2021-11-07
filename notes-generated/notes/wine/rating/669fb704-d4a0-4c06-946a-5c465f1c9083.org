@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     669fb704-d4a0-4c06-946a-5c465f1c9083
+:END:
+#+TITLE: Giih Udr Qqny 1903 - 2002-7-23
+
+- wine :: [[id:033e0e21-427a-493a-b666-f5c62c2be2b6][Giih Udr Qqny 1903]]
+- date :: 2002-7-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

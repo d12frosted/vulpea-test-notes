@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     025dd6f0-a80f-4031-884c-a1b121761c72
+:END:
+#+TITLE: Cowhhax Upmqcgn Jhkdcz Fwsnavd 1901
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Jhkdcz Fwsnavd
+- vintage :: 1901
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 9.63
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:23e635ff-d853-4b6e-9f73-e01c5556d83c][Cowhhax Upmqcgn Jhkdcz Fwsnavd 1901 - 2015-5-24]]
+
+

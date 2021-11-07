@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     603e7e0c-bfdd-4fa5-800f-11db42e51843
+:END:
+#+TITLE: Qay Mjhcr Ctdam 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Mjhcr Ctdam
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 12.2
+- sugar :: 9.07
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA
+
+

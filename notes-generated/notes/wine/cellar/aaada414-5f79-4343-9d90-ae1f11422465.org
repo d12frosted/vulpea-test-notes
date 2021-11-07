@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     aaada414-5f79-4343-9d90-ae1f11422465
+:END:
+#+TITLE: Yjfq Uvv Pzdehlp 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Uvv Pzdehlp
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.6
+- sugar :: 21.36
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     35e912a8-a15a-4330-ae2a-365b17e01f5e
+:END:
+#+TITLE: Cowhhax Upmqcgn Pyci Jubbczjr 1987
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Pyci Jubbczjr
+- vintage :: 1987
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 9.74
+- price :: 68.25 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:ab7df1e1-da75-4593-8760-454e324f38fd][Cowhhax Upmqcgn Pyci Jubbczjr 1987 - 2019-1-7]]
+
+

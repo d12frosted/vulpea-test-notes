@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2938bf18-b2fe-498e-bb06-6200dd93842c
+:END:
+#+TITLE: Qay Jvs Vvcouf NV - 2017-3-21
+
+- wine :: [[id:e460690b-3363-4f13-a309-70ef1e778289][Qay Jvs Vvcouf]]
+- date :: 2017-3-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

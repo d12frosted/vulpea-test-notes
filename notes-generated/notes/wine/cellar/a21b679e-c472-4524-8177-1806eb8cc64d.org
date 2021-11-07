@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     a21b679e-c472-4524-8177-1806eb8cc64d
+:END:
+#+TITLE: Nhozxqe Aldl Mlkqqs Jjftw 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Mlkqqs Jjftw
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.05
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: duckduckgo
+- rating :: NA
+
+

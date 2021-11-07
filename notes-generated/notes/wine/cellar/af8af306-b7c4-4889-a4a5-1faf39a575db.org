@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     af8af306-b7c4-4889-a4a5-1faf39a575db
+:END:
+#+TITLE: Cowhhax Upmqcgn Btsxk Uauz 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Btsxk Uauz
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.03
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

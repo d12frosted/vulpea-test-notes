@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bd909f3f-d208-4005-bf11-b88844ad6009
+:END:
+#+TITLE: Yjfq Eupmhmyk 1950 - 1990-2-28
+
+- wine :: [[id:32368de9-4c9b-4577-b7ce-9f4324c48f2c][Yjfq Eupmhmyk 1950]]
+- date :: 1990-2-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

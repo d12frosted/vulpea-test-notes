@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     846772e2-dc97-4901-acb5-95cf51f68448
+:END:
+#+TITLE: Giih Udr Woj 1972
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Woj
+- vintage :: 1972
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 10.82
+- sugar :: 5.86
+- price :: 10.41 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

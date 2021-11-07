@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ee14c45b-6900-43c1-98ce-3f1a518dd4a0
+:END:
+#+TITLE: Yjfq Xxbqgiug Fdx 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Xxbqgiug Fdx
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 12.9
+- sugar :: 6.39
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

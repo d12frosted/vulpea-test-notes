@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     fcf73aff-93a1-4f4f-8ca7-611f4b78b384
+:END:
+#+TITLE: Yokf Gwhwycw Vbwrgjaq 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vbwrgjaq
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.96
+- sugar :: 10.1
+- price :: 92.98 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 6.0
+- ratings :: [[id:1fc708dc-38e1-4084-b445-9483903b8a60][Yokf Gwhwycw Vbwrgjaq NV - 2012-9-11]]
+
+

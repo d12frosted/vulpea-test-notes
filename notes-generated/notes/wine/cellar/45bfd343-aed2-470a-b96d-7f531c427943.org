@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     45bfd343-aed2-470a-b96d-7f531c427943
+:END:
+#+TITLE: Ecxknc Iepvhans Nnrpqbfx Ymjca 1924
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Nnrpqbfx Ymjca
+- vintage :: 1924
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.49
+- sugar :: 20.67
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA
+
+

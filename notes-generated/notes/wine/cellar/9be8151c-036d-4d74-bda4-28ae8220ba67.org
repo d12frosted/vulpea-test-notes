@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     9be8151c-036d-4d74-bda4-28ae8220ba67
+:END:
+#+TITLE: Nhozxqe Aldl Jnj Fscltc 2018
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Jnj Fscltc
+- vintage :: 2018
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 11.26
+- sugar :: 18.43
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA
+
+

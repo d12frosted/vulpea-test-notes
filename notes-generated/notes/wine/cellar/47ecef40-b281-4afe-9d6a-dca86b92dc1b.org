@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     47ecef40-b281-4afe-9d6a-dca86b92dc1b
+:END:
+#+TITLE: Qay Gsr Sht 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Gsr Sht
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 13.73
+- sugar :: 19.94
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 5.5
+- ratings :: [[id:ab7ab6c7-9263-4b2f-ab0a-87c1d3299bdd][Qay Gsr Sht NV - 1991-1-6]]
+
+

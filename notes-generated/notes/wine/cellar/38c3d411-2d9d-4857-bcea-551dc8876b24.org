@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     38c3d411-2d9d-4857-bcea-551dc8876b24
+:END:
+#+TITLE: Lrwk Jbaxrmn Nyc Vfzqi 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Nyc Vfzqi
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.620000000000001
+- sugar :: 9.8
+- price :: 21.26 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 4.0
+- ratings :: [[id:730c1c48-60e4-4e64-8d29-2bced94f2179][Lrwk Jbaxrmn Nyc Vfzqi NV - 2006-7-13]]
+
+

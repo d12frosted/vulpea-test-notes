@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a740111d-cd3e-49e0-8b27-e5606d3c9358
+:END:
+#+TITLE: Qay Gtjk 1935
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Gtjk
+- vintage :: 1935
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.18
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA
+
+

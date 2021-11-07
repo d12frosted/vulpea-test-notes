@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     2c634b7e-6fd1-4c8f-8efe-94ef92f297ba
+:END:
+#+TITLE: Nhozxqe Aldl Epuy Sxakdh 2019
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Epuy Sxakdh
+- vintage :: 2019
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.85
+- sugar :: 1.4
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA
+
+

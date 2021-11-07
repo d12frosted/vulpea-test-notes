@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b6568380-702a-49a3-9014-18e3b1839566
+:END:
+#+TITLE: Nhozxqe Aldl Ioidejei NV - 1999-6-2
+
+- wine :: [[id:e7509c61-d11f-4538-a71d-13dab49be30f][Nhozxqe Aldl Ioidejei]]
+- date :: 1999-6-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

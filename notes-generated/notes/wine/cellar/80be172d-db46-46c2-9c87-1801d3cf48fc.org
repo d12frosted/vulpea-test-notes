@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     80be172d-db46-46c2-9c87-1801d3cf48fc
+:END:
+#+TITLE: Cowhhax Upmqcgn Kchj 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Kchj
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 13.120000000000001
+- sugar :: 4.95
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

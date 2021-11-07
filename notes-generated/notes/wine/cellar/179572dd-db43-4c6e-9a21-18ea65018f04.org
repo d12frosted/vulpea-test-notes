@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     179572dd-db43-4c6e-9a21-18ea65018f04
+:END:
+#+TITLE: Cowhhax Upmqcgn Qzkelbdk 2016
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Qzkelbdk
+- vintage :: 2016
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.94
+- price :: 100.35 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA
+
+

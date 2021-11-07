@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d108d720-3fbb-4340-ac64-2a8ab4778a51
+:END:
+#+TITLE: Giih Udr Bwnd Cqn 1910
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Bwnd Cqn
+- vintage :: 1910
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.23
+- price :: 53.48 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:c6ba9d11-b191-4e4a-b735-6118ed9c3f29][Giih Udr Bwnd Cqn 1910 - 2023-3-25]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a18a77f2-81c6-46d1-98e4-405f37f78844
+:END:
+#+TITLE: Jjkswvm Rcm Qpsr Ucq 1973
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qpsr Ucq
+- vintage :: 1973
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 10.27
+- sugar :: 6.19
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

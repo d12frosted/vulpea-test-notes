@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3e016d43-3626-4ec2-86fc-847d4f6650e8
+:END:
+#+TITLE: Yokf Gwhwycw Vao 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vao
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.37
+- price :: 80.84 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA
+
+

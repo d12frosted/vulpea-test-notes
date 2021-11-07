@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     55fb2a8c-0a1d-46b9-bb09-57c83ed640fd
+:END:
+#+TITLE: Qay Vhyjg 1921
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Vhyjg
+- vintage :: 1921
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.61
+- sugar :: 7.83
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

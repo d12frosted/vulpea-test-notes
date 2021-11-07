@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     2ed27125-6275-43a4-855a-1d16277cb649
+:END:
+#+TITLE: Lrwk Jbaxrmn Qnoxknkj Jxm 1995
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Qnoxknkj Jxm
+- vintage :: 1995
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.99
+- price :: 4.82 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

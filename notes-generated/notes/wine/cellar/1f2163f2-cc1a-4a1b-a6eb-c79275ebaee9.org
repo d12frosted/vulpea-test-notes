@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1f2163f2-cc1a-4a1b-a6eb-c79275ebaee9
+:END:
+#+TITLE: Jjkswvm Rcm Qxua 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qxua
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.82
+- sugar :: 21.03
+- price :: 95.69 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.0
+- ratings :: [[id:ec46390f-cf9b-472b-804b-1393b842d524][Jjkswvm Rcm Qxua NV - 2021-1-28]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     61a8182c-fa99-44f5-960f-48483584c3b7
+:END:
+#+TITLE: Nhozxqe Aldl Osk Wsf 1901
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Osk Wsf
+- vintage :: 1901
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 12.55
+- sugar :: 22.2
+- price :: 86.14 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:cbd52494-12c0-428f-9b54-34d75b117d6f][Nhozxqe Aldl Osk Wsf 1901 - 1991-12-2]]
+
+

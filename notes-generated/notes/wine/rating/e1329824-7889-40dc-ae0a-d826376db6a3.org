@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e1329824-7889-40dc-ae0a-d826376db6a3
+:END:
+#+TITLE: Nhozxqe Aldl Vtbkrwo NV - 2023-6-13
+
+- wine :: [[id:5ff6a47d-74df-4a02-8c35-e058083ff5eb][Nhozxqe Aldl Vtbkrwo]]
+- date :: 2023-6-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

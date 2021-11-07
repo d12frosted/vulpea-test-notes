@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c41dbb99-32d9-4ef4-a60f-7b75c7d18ee7
+:END:
+#+TITLE: Cowhhax Upmqcgn Akgjsr Jws 1930 - 2004-9-25
+
+- wine :: [[id:265d190b-a1b4-48a8-8a33-bf8209421957][Cowhhax Upmqcgn Akgjsr Jws 1930]]
+- date :: 2004-9-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

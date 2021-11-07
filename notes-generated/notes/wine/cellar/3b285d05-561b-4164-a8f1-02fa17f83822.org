@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3b285d05-561b-4164-a8f1-02fa17f83822
+:END:
+#+TITLE: Scf Elpezclx Cuvlbgco 1931
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Cuvlbgco
+- vintage :: 1931
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 9.48
+- price :: 46.13 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:d70ebed2-e113-4794-a512-3f54e00524d6][Scf Elpezclx Cuvlbgco 1931 - 1990-5-11]]
+
+

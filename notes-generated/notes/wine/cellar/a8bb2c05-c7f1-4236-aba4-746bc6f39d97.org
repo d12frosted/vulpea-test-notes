@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a8bb2c05-c7f1-4236-aba4-746bc6f39d97
+:END:
+#+TITLE: Ecxknc Iepvhans Vohxr 1990
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Vohxr
+- vintage :: 1990
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 12.73
+- sugar :: 9.55
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA
+
+

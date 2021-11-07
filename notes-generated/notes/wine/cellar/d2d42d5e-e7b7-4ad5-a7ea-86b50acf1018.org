@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d2d42d5e-e7b7-4ad5-a7ea-86b50acf1018
+:END:
+#+TITLE: Lrwk Jbaxrmn Lept Qyal 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Lept Qyal
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 11.3
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 7.5
+- ratings :: [[id:121067ad-247c-4181-922f-e2882dbb4499][Lrwk Jbaxrmn Lept Qyal NV - 2020-3-12]]
+
+

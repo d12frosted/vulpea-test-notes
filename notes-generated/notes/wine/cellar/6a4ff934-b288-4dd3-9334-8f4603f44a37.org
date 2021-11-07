@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6a4ff934-b288-4dd3-9334-8f4603f44a37
+:END:
+#+TITLE: Yokf Gwhwycw Xlb 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Xlb
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 11.29
+- price :: 89.49 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:085869b1-258a-4e9e-abbd-2bd058697f87][Yokf Gwhwycw Xlb NV - 2023-9-8]]
+
+

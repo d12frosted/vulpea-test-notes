@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6fb5ad77-2b8d-4c14-88d2-fa8f6c72d916
+:END:
+#+TITLE: Yokf Gwhwycw Dpopqf Avgnll 1993 - 1993-2-6
+
+- wine :: [[id:50dc2ca2-bb30-47fa-ad0f-840a5900709d][Yokf Gwhwycw Dpopqf Avgnll 1993]]
+- date :: 1993-2-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

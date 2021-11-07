@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     60a4df25-25ea-4152-8d46-3a16eb303c1a
+:END:
+#+TITLE: Cowhhax Upmqcgn Eairchvg Snugrj 1913 - 1990-11-1
+
+- wine :: [[id:47553902-8df4-4d8a-ba7c-d5b247dd9b3c][Cowhhax Upmqcgn Eairchvg Snugrj 1913]]
+- date :: 1990-11-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6917025a-16c5-415b-9434-a5ab00527325
+:END:
+#+TITLE: Ecxknc Iepvhans Inqumocl Euhvvywi 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Inqumocl Euhvvywi
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 10.47
+- sugar :: 13.65
+- price :: 63.67 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: wikipedia
+- rating :: 1.5
+- ratings :: [[id:bc2bee04-b68f-4731-86d5-8613c1d4620e][Ecxknc Iepvhans Inqumocl Euhvvywi NV - 2012-11-27]]
+
+

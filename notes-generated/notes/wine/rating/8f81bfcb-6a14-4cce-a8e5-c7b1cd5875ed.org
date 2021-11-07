@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8f81bfcb-6a14-4cce-a8e5-c7b1cd5875ed
+:END:
+#+TITLE: Lrwk Jbaxrmn Wcrynj NV - 2004-5-22
+
+- wine :: [[id:72daef2d-80ee-4e4c-977e-2285e13db09b][Lrwk Jbaxrmn Wcrynj]]
+- date :: 2004-5-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

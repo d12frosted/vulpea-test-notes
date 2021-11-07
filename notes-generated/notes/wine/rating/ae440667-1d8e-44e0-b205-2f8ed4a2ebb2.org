@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ae440667-1d8e-44e0-b205-2f8ed4a2ebb2
+:END:
+#+TITLE: Jjkswvm Rcm Vxlanlnp 1921 - 2023-10-1
+
+- wine :: [[id:e91ae0f7-a3fc-4774-871a-86927fe0e448][Jjkswvm Rcm Vxlanlnp 1921]]
+- date :: 2023-10-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

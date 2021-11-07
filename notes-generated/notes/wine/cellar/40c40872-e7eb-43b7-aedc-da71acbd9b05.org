@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     40c40872-e7eb-43b7-aedc-da71acbd9b05
+:END:
+#+TITLE: Jjkswvm Rcm Bzx 2016
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Bzx
+- vintage :: 2016
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.83
+- sugar :: 12.75
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:4412b345-05e9-481d-afb2-a10474d4457b][Jjkswvm Rcm Bzx 2016 - 2017-5-1]]
+
+

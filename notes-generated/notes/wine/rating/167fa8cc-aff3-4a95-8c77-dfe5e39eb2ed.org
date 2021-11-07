@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     167fa8cc-aff3-4a95-8c77-dfe5e39eb2ed
+:END:
+#+TITLE: Giih Udr Kwrznhtv Hzqawb 1967 - 2001-10-12
+
+- wine :: [[id:28c9a65f-48da-4268-9d9b-153a57b46aae][Giih Udr Kwrznhtv Hzqawb 1967]]
+- date :: 2001-10-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

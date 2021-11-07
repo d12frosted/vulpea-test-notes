@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     73c12307-b0ac-409c-ad90-0b71477a12cc
+:END:
+#+TITLE: Lrwk Jbaxrmn Osvwxnsq Rbb 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Osvwxnsq Rbb
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 11.01
+- sugar :: 23.15
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

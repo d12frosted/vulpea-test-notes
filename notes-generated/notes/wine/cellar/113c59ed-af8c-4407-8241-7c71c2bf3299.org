@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     113c59ed-af8c-4407-8241-7c71c2bf3299
+:END:
+#+TITLE: Yjfq Wcz 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Wcz
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 11.45
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     93c2e09a-a07c-4f4c-a931-7a6e1d8a2a82
+:END:
+#+TITLE: Ecxknc Iepvhans Lbnmknjp Xofmts 1995
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Lbnmknjp Xofmts
+- vintage :: 1995
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 9.92
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 3.0
+- ratings :: [[id:34d4eb8d-916b-419c-8048-68ecb6f98ced][Ecxknc Iepvhans Lbnmknjp Xofmts 1995 - 1996-2-12]]
+
+

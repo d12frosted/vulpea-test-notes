@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     06454e38-b340-4bcb-b786-2e1a5fd55b21
+:END:
+#+TITLE: Yokf Gwhwycw Acwoz Ixwu 1930
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Acwoz Ixwu
+- vintage :: 1930
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.54
+- price :: 101.74 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA
+
+

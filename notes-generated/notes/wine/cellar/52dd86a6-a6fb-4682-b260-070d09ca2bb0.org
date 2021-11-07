@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     52dd86a6-a6fb-4682-b260-070d09ca2bb0
+:END:
+#+TITLE: Lrwk Jbaxrmn Rewlmr 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rewlmr
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 12.4
+- sugar :: 17.7
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:336f02ae-d762-4bc0-b932-aeefdbf83141][Lrwk Jbaxrmn Rewlmr NV - 2018-11-5]]
+
+

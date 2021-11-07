@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ed0be4e1-d0b2-48dc-ac08-3f554097b87e
+:END:
+#+TITLE: Nhozxqe Aldl Mivnzi 2013 - 2007-11-20
+
+- wine :: [[id:4e149f03-3fc1-4713-b2c4-05de7cf2d00c][Nhozxqe Aldl Mivnzi 2013]]
+- date :: 2007-11-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

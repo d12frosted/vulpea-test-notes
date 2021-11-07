@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c2b914b1-54bb-4bac-b186-5bedd535ec94
+:END:
+#+TITLE: Scf Elpezclx Hcmukja Diuesbw 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Hcmukja Diuesbw
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 12.55
+- sugar :: 13.9
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

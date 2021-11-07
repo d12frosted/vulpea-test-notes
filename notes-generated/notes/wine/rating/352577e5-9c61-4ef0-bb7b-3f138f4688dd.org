@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     352577e5-9c61-4ef0-bb7b-3f138f4688dd
+:END:
+#+TITLE: Jjkswvm Rcm Gllugy Rndpf 1901 - 1996-8-22
+
+- wine :: [[id:acb53a4c-fbea-4594-b651-fc3bb997fd6b][Jjkswvm Rcm Gllugy Rndpf 1901]]
+- date :: 1996-8-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

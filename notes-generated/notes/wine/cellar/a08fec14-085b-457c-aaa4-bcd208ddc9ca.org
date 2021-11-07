@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     a08fec14-085b-457c-aaa4-bcd208ddc9ca
+:END:
+#+TITLE: Yjfq Jmyhyyy 1955
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Jmyhyyy
+- vintage :: 1955
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 12.77
+- sugar :: 22.47
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA
+
+

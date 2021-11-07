@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     25b2761d-bf52-452e-ab05-152d325f454c
+:END:
+#+TITLE: Yokf Gwhwycw Yrewcu Yanep 1959 - 2012-3-3
+
+- wine :: [[id:cf832ba1-cdaa-4f86-8f1a-0979ef327688][Yokf Gwhwycw Yrewcu Yanep 1959]]
+- date :: 2012-3-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

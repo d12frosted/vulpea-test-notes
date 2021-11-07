@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     d3b327e4-64e0-4998-9e77-ea5732cebb62
+:END:
+#+TITLE: Qay Rimr 1915
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Rimr
+- vintage :: 1915
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.18
+- sugar :: 12.58
+- price :: 11.53 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 2.5
+- ratings :: [[id:0300dc43-645f-4533-b816-c083570c131b][Qay Rimr 1915 - 1990-8-2]]
+
+

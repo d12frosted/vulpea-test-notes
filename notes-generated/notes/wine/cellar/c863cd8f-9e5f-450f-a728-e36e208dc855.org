@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c863cd8f-9e5f-450f-a728-e36e208dc855
+:END:
+#+TITLE: Ecxknc Iepvhans Vikbxo Hblle 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Vikbxo Hblle
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 13.4
+- price :: 57.93 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA
+
+

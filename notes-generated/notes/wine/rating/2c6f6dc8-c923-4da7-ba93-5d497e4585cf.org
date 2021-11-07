@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2c6f6dc8-c923-4da7-ba93-5d497e4585cf
+:END:
+#+TITLE: Cowhhax Upmqcgn Tbjge Meoauyp NV - 2009-2-18
+
+- wine :: [[id:5a84562f-a630-4205-aa1d-6b46c37d1ec3][Cowhhax Upmqcgn Tbjge Meoauyp]]
+- date :: 2009-2-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

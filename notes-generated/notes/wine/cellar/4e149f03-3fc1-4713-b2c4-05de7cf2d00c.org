@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4e149f03-3fc1-4713-b2c4-05de7cf2d00c
+:END:
+#+TITLE: Nhozxqe Aldl Mivnzi 2013
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Mivnzi
+- vintage :: 2013
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.14
+- sugar :: 23.38
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 5.5
+- ratings :: [[id:ed0be4e1-d0b2-48dc-ac08-3f554097b87e][Nhozxqe Aldl Mivnzi 2013 - 2007-11-20]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     badcc056-4422-4d32-85d1-fa9951987951
+:END:
+#+TITLE: Qay Zafs NV - 1996-8-3
+
+- wine :: [[id:facf7fe0-c610-4a25-8651-2842439a7351][Qay Zafs]]
+- date :: 1996-8-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

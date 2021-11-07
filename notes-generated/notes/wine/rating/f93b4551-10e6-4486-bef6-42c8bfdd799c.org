@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f93b4551-10e6-4486-bef6-42c8bfdd799c
+:END:
+#+TITLE: Qay Zkrszpdf Hvbg 1942 - 1998-6-26
+
+- wine :: [[id:db380a05-04f6-4064-90e4-b5e3be1c0abe][Qay Zkrszpdf Hvbg 1942]]
+- date :: 1998-6-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

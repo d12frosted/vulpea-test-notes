@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     450bcc3c-0afb-48ca-a9f0-c4f19ee8b3ca
+:END:
+#+TITLE: Lrwk Jbaxrmn Mjyw 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Mjyw
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.629999999999999
+- price :: 23.22 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:14260a9a-0fb2-4050-b2e0-5b6d82253ccf][Lrwk Jbaxrmn Mjyw NV - 2015-11-13]]
+
+

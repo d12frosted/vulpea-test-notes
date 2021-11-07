@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     a6312e24-36f9-4746-9100-d6cebd3a4ca8
+:END:
+#+TITLE: Cowhhax Upmqcgn Osqktkkd Mza 1922
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Osqktkkd Mza
+- vintage :: 1922
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 12.14
+- price :: 27.60 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:3bcc2601-0169-4527-b683-13b91a3119fc][Cowhhax Upmqcgn Osqktkkd Mza 1922 - 1993-2-19]]
+
+

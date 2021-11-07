@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8c09c416-e8d6-4130-a3f6-8188e1e1d7b0
+:END:
+#+TITLE: Cowhhax Upmqcgn Gpxij Bqmnwnj 1923
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Gpxij Bqmnwnj
+- vintage :: 1923
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 9.45
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:8bff7c48-9eec-40c0-97b0-23edb6d76212][Cowhhax Upmqcgn Gpxij Bqmnwnj 1923 - 2000-2-28]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7227f869-d125-426a-a742-782081abe011
+:END:
+#+TITLE: Ecxknc Iepvhans Lzjxzy Ilthqkf 1968
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Lzjxzy Ilthqkf
+- vintage :: 1968
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 9.58
+- price :: 99.33 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:e2796fda-3d6e-443a-a770-566465c0dca8][Ecxknc Iepvhans Lzjxzy Ilthqkf 1968 - 2022-8-25]]
+
+

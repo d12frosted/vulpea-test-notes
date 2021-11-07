@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     294f30a7-a7d3-40df-8bd0-e3dcac47814d
+:END:
+#+TITLE: Giih Udr Dhev Cjdapesw NV - 2022-5-15
+
+- wine :: [[id:50c2000d-ed9f-459c-bd6f-292aaf724675][Giih Udr Dhev Cjdapesw]]
+- date :: 2022-5-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

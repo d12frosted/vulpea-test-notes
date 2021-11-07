@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     72a40e6a-a3fa-4af6-9b46-52e526b5c47d
+:END:
+#+TITLE: Ecxknc Iepvhans Ggpjefur Umnz 1904
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ggpjefur Umnz
+- vintage :: 1904
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 12.879999999999999
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:781d3ddf-2868-40bc-9100-45adc79444b3][Ecxknc Iepvhans Ggpjefur Umnz 1904 - 2023-5-1]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     071e9550-1a81-4111-8758-701903304daf
+:END:
+#+TITLE: Yjfq Acbiubn Pesdtf 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Acbiubn Pesdtf
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 9.03
+- price :: 26.71 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

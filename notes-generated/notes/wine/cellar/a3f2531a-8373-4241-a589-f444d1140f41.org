@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a3f2531a-8373-4241-a589-f444d1140f41
+:END:
+#+TITLE: Cowhhax Upmqcgn Covjh Sym 1922
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Covjh Sym
+- vintage :: 1922
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.43
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:9115139a-e967-46cb-ae24-71f94d766a1f][Cowhhax Upmqcgn Covjh Sym 1922 - 2005-8-28]]
+
+

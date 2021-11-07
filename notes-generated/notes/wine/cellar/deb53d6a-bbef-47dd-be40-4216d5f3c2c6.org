@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     deb53d6a-bbef-47dd-be40-4216d5f3c2c6
+:END:
+#+TITLE: Jjkswvm Rcm Awj Daonur 2017
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Awj Daonur
+- vintage :: 2017
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 10.17
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 7.0
+- ratings :: [[id:04a8cf4e-fa91-4951-a22e-2c180bc500a3][Jjkswvm Rcm Awj Daonur 2017 - 1999-1-20]]
+
+

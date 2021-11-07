@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1c2e67b0-52a4-4b2c-ba19-d67624862f1c
+:END:
+#+TITLE: Jjkswvm Rcm Dfpmmh NV - 1992-1-24
+
+- wine :: [[id:5eeaa51f-d003-48fe-860d-444e7386cbd8][Jjkswvm Rcm Dfpmmh]]
+- date :: 1992-1-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

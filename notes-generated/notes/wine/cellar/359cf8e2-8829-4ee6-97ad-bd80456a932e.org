@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     359cf8e2-8829-4ee6-97ad-bd80456a932e
+:END:
+#+TITLE: Yokf Gwhwycw Iubzynl Zsnohu 1938
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Iubzynl Zsnohu
+- vintage :: 1938
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.73
+- sugar :: 2.79
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:4d5d9d42-943d-488e-b447-9aa08fb0aeb6][Yokf Gwhwycw Iubzynl Zsnohu 1938 - 2002-6-16]]
+
+

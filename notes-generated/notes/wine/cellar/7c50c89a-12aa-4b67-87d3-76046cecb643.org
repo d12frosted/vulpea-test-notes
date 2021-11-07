@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7c50c89a-12aa-4b67-87d3-76046cecb643
+:END:
+#+TITLE: Nhozxqe Aldl Fvkjl Bcteeea 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Fvkjl Bcteeea
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.870000000000001
+- sugar :: 10.46
+- price :: 10.36 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

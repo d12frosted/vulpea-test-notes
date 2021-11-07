@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     acad822e-e37a-46b4-83a3-347cea30d3c5
+:END:
+#+TITLE: Jjkswvm Rcm Qzzsbk 1996
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qzzsbk
+- vintage :: 1996
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.16
+- sugar :: 17.04
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 8.0
+- ratings :: [[id:9f374430-6980-4c7d-9f54-8dacad2c8c97][Jjkswvm Rcm Qzzsbk 1996 - 1995-8-4]]
+
+

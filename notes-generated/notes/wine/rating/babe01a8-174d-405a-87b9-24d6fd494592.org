@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     babe01a8-174d-405a-87b9-24d6fd494592
+:END:
+#+TITLE: Scf Elpezclx Lxrqbi 1971 - 2008-9-9
+
+- wine :: [[id:74c7b625-cd9a-4f7b-9b7c-01f299b2ede8][Scf Elpezclx Lxrqbi 1971]]
+- date :: 2008-9-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

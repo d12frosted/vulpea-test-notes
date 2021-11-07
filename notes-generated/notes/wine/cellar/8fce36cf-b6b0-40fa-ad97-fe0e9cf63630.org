@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8fce36cf-b6b0-40fa-ad97-fe0e9cf63630
+:END:
+#+TITLE: Yjfq Dpejq Jebeww 1936
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Dpejq Jebeww
+- vintage :: 1936
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.85
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA
+
+

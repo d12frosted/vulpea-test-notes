@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4d3cc5e6-d970-4f2e-80fe-e4fe1ed0c93f
+:END:
+#+TITLE: Yokf Gwhwycw Smtht Wjmw 1979
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Smtht Wjmw
+- vintage :: 1979
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.36
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 2.0
+- ratings :: [[id:5cb2e95c-d478-4350-a201-09ca303f9829][Yokf Gwhwycw Smtht Wjmw 1979 - 2007-9-21]]
+
+

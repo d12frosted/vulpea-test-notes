@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0c6a5a04-a9c7-4d11-829c-8c416accb4ac
+:END:
+#+TITLE: Ecxknc Iepvhans Wqtsibdl 1973
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Wqtsibdl
+- vintage :: 1973
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 9.73
+- price :: 31.82 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:3da0085b-018b-4630-bfd8-42010da9b504][Ecxknc Iepvhans Wqtsibdl 1973 - 2008-4-25]]
+
+

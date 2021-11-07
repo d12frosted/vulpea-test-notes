@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a24d0622-56cc-4583-bb14-2634b2a8081b
+:END:
+#+TITLE: Nhozxqe Aldl Sjhxy Clbzzvq 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Sjhxy Clbzzvq
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 11.879999999999999
+- sugar :: 10.0
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

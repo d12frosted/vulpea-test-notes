@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ab445248-cc87-4430-8c2e-683a28f47b41
+:END:
+#+TITLE: Lrwk Jbaxrmn Zokngvgx 1917
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Zokngvgx
+- vintage :: 1917
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.02
+- sugar :: 10.26
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 2.5
+- ratings :: [[id:957504b5-4057-4973-ab4e-9f496ddaaee6][Lrwk Jbaxrmn Zokngvgx 1917 - 1999-5-7]]
+
+

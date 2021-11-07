@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c5857ed8-89e9-47cd-b407-386875db7beb
+:END:
+#+TITLE: Scf Elpezclx Lpt Bomes NV - 1991-7-20
+
+- wine :: [[id:8d1a0bfa-c677-4638-aac6-91b050cfb156][Scf Elpezclx Lpt Bomes]]
+- date :: 1991-7-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

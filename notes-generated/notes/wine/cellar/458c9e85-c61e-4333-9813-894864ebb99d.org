@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     458c9e85-c61e-4333-9813-894864ebb99d
+:END:
+#+TITLE: Ecxknc Iepvhans Pkme 1915
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Pkme
+- vintage :: 1915
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 12.27
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:69297895-f15a-43cf-86c5-b3192be64ef6][Ecxknc Iepvhans Pkme 1915 - 2007-2-27]]
+
+

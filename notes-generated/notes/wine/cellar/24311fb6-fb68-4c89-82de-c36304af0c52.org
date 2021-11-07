@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     24311fb6-fb68-4c89-82de-c36304af0c52
+:END:
+#+TITLE: Giih Udr Srbsizk Hrh 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Srbsizk Hrh
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.94
+- sugar :: 22.78
+- price :: 48.74 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:07a19fd7-1702-40e9-a2a6-2370cdac08f1][Giih Udr Srbsizk Hrh NV - 2022-5-15]]
+
+

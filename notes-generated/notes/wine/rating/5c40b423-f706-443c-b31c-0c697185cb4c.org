@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5c40b423-f706-443c-b31c-0c697185cb4c
+:END:
+#+TITLE: Yokf Gwhwycw Vshm NV - 2022-9-10
+
+- wine :: [[id:52836a84-08f5-4646-ba14-7dc51f2332c0][Yokf Gwhwycw Vshm]]
+- date :: 2022-9-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

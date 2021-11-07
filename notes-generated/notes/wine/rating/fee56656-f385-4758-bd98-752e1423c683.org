@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fee56656-f385-4758-bd98-752e1423c683
+:END:
+#+TITLE: Lrwk Jbaxrmn Txfgymhv Oyt NV - 2024-12-9
+
+- wine :: [[id:b6fa5845-1253-4428-9955-f1981a5d5b3a][Lrwk Jbaxrmn Txfgymhv Oyt]]
+- date :: 2024-12-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     de9b9b0d-f49a-4787-8fbd-e35c2af75860
+:END:
+#+TITLE: Yokf Gwhwycw Klp Brjn 2009
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Klp Brjn
+- vintage :: 2009
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.04
+- sugar :: 5.57
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

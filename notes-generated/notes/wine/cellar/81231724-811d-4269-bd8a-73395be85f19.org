@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     81231724-811d-4269-bd8a-73395be85f19
+:END:
+#+TITLE: Yjfq Boznjmc Mijuibt 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Boznjmc Mijuibt
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 10.24
+- price :: 25.01 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: 7.0
+- ratings :: [[id:9c5d3054-99c2-4244-957b-fc84c2a58fae][Yjfq Boznjmc Mijuibt NV - 1993-6-8]]
+
+

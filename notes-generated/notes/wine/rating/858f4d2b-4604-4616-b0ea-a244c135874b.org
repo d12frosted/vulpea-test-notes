@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     858f4d2b-4604-4616-b0ea-a244c135874b
+:END:
+#+TITLE: Ecxknc Iepvhans Motch Yoej NV - 2011-8-20
+
+- wine :: [[id:0c59ed6f-5607-4b53-ac80-5bb8b9e695b1][Ecxknc Iepvhans Motch Yoej]]
+- date :: 2011-8-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     31a1fcc2-2cb7-4197-bd80-bf2b24157449
+:END:
+#+TITLE: Yokf Gwhwycw Xptux 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Xptux
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 9.96
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:79d22c6f-5650-49db-9c43-04e46fee495e][Yokf Gwhwycw Xptux NV - 2006-12-27]]
+
+

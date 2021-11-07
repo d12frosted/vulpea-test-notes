@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     90874ec6-4675-4674-8ed0-863d9a631871
+:END:
+#+TITLE: Ecxknc Iepvhans Xwu NV - 2010-1-24
+
+- wine :: [[id:983bb955-f830-4b7a-9b65-fd5875811859][Ecxknc Iepvhans Xwu]]
+- date :: 2010-1-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

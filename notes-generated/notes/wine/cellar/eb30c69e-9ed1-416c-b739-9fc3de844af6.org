@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     eb30c69e-9ed1-416c-b739-9fc3de844af6
+:END:
+#+TITLE: Yjfq Yefys Niz 1994
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Yefys Niz
+- vintage :: 1994
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.68
+- sugar :: 23.31
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

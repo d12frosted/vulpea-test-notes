@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     c1de165d-591d-4132-ba01-4cf636cb0b16
+:END:
+#+TITLE: Jjkswvm Rcm Nfdcp Uqvvazk 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Nfdcp Uqvvazk
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 11.2
+- price :: 60.33 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

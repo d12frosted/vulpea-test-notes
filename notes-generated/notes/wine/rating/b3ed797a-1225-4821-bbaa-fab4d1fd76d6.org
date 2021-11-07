@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b3ed797a-1225-4821-bbaa-fab4d1fd76d6
+:END:
+#+TITLE: Giih Udr Llaxtv Hqrxsxe 1978 - 2020-1-5
+
+- wine :: [[id:98a6a76b-44a5-4a10-845c-04318a1cca76][Giih Udr Llaxtv Hqrxsxe 1978]]
+- date :: 2020-1-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

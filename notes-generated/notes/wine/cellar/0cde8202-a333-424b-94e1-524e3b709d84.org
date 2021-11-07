@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0cde8202-a333-424b-94e1-524e3b709d84
+:END:
+#+TITLE: Ecxknc Iepvhans Inwdjbmf Bcsp 1959
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Inwdjbmf Bcsp
+- vintage :: 1959
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 12.42
+- price :: 16.60 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.0
+- ratings :: [[id:c995047c-4b87-4481-847b-ca30a199384b][Ecxknc Iepvhans Inwdjbmf Bcsp 1959 - 2007-9-24]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f173a94f-d4d6-49ce-81b1-da3615a8090c
+:END:
+#+TITLE: Yjfq Fazlo Gbmp 2016
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Fazlo Gbmp
+- vintage :: 2016
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 9.89
+- sugar :: 9.53
+- price :: 33.25 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:f1d5b7eb-39d1-40b4-b32c-a5d85265ef7d][Yjfq Fazlo Gbmp 2016 - 2008-1-22]]
+
+

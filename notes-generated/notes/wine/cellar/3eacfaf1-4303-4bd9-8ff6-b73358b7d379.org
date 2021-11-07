@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3eacfaf1-4303-4bd9-8ff6-b73358b7d379
+:END:
+#+TITLE: Jjkswvm Rcm Qqw 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qqw
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 12.02
+- sugar :: 16.79
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:07c480eb-969f-47c5-be33-bf70b4297f08][Jjkswvm Rcm Qqw NV - 2004-7-21]]
+
+

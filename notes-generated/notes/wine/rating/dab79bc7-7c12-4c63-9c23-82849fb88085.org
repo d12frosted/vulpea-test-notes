@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dab79bc7-7c12-4c63-9c23-82849fb88085
+:END:
+#+TITLE: Cowhhax Upmqcgn Wuznct Jio 1957 - 2000-11-25
+
+- wine :: [[id:0b2b339f-54cc-4376-87b5-bb8fb17d832e][Cowhhax Upmqcgn Wuznct Jio 1957]]
+- date :: 2000-11-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

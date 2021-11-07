@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     59348bad-5b2e-4b2a-9426-17e2d00e84ac
+:END:
+#+TITLE: Cowhhax Upmqcgn Ugnsa 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ugnsa
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 9.44
+- price :: 4.33 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:735b0ccf-5e56-40ad-8312-0988fb7c3d96][Cowhhax Upmqcgn Ugnsa NV - 2023-10-26]]
+
+

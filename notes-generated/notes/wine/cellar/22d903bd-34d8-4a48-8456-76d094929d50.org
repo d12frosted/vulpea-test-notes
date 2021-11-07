@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     22d903bd-34d8-4a48-8456-76d094929d50
+:END:
+#+TITLE: Yokf Gwhwycw Vimxa 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vimxa
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.17
+- sugar :: 1.69
+- price :: 91.44 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 1.5
+- ratings :: [[id:e17c111a-c58f-4bf5-b8e2-c0187ddc39ed][Yokf Gwhwycw Vimxa NV - 2024-11-6]]
+
+

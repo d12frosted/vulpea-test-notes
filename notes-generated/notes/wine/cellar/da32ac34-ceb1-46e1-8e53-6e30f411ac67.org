@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     da32ac34-ceb1-46e1-8e53-6e30f411ac67
+:END:
+#+TITLE: Giih Udr Alweq 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Alweq
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 13.42
+- sugar :: 5.85
+- price :: 29.79 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:4211c43c-d983-4426-b951-a3c6d60c9d24][Giih Udr Alweq NV - 1996-3-8]]
+
+

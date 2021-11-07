@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     367d5f9e-dd88-432b-b016-f824cff069b5
+:END:
+#+TITLE: Qay Xvo NV - 2019-5-27
+
+- wine :: [[id:2fd16b41-d902-4e3b-b2b3-de01de9af618][Qay Xvo]]
+- date :: 2019-5-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     d0eabaf2-0b71-4d2b-ae4e-5040fc9224e2
+:END:
+#+TITLE: Scf Elpezclx Jrbyhn Gjy 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Jrbyhn Gjy
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 12.97
+- sugar :: 2.96
+- price :: 91.91 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.5
+- ratings :: [[id:1ce72b4d-c681-40a3-9be3-495097555822][Scf Elpezclx Jrbyhn Gjy NV - 2018-9-16]]
+
+

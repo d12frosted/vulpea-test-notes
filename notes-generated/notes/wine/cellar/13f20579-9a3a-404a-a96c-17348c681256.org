@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     13f20579-9a3a-404a-a96c-17348c681256
+:END:
+#+TITLE: Giih Udr Lfoxziwf Ldtv 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Lfoxziwf Ldtv
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.65
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 2.0
+- ratings :: [[id:7fd3bdfa-18cc-4c58-98c5-ebbb4bc20c40][Giih Udr Lfoxziwf Ldtv NV - 2004-2-15]]
+
+

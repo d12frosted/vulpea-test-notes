@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     fdd5109d-7db6-4ac8-8f1b-fc804546973a
+:END:
+#+TITLE: Ecxknc Iepvhans Ybaj Imeea 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ybaj Imeea
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.719999999999999
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

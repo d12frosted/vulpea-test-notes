@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     270be27b-1680-4f1c-9bc4-22648c84c3dd
+:END:
+#+TITLE: Jjkswvm Rcm Zyttq 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zyttq
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.25
+- sugar :: 8.09
+- price :: 18.66 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:ae1b9ffd-f949-46d5-bf70-42f0981a4132][Jjkswvm Rcm Zyttq NV - 2010-3-21]]
+
+

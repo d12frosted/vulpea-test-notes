@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ea7b6017-1ada-43d7-802f-58324a6efc31
+:END:
+#+TITLE: Giih Udr Lsad Pqxlmhlm NV - 2014-11-4
+
+- wine :: [[id:c427d05f-f5ff-485e-ad08-b597fb684d5b][Giih Udr Lsad Pqxlmhlm]]
+- date :: 2014-11-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

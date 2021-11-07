@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0ecbd4cd-fb90-4082-a9b6-052c5279eb03
+:END:
+#+TITLE: Giih Udr Xmojbs Ujidi NV - 2017-11-4
+
+- wine :: [[id:15153f5f-e50b-4b3a-bece-4e16b3baf94e][Giih Udr Xmojbs Ujidi]]
+- date :: 2017-11-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

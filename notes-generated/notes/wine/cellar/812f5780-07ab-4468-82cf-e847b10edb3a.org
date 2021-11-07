@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     812f5780-07ab-4468-82cf-e847b10edb3a
+:END:
+#+TITLE: Ecxknc Iepvhans Wjfchvr Xniwqfus 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Wjfchvr Xniwqfus
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 9.56
+- sugar :: 13.52
+- price :: 45.54 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

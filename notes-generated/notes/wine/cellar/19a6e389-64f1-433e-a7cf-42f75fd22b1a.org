@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     19a6e389-64f1-433e-a7cf-42f75fd22b1a
+:END:
+#+TITLE: Yjfq Jhauwsz 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Jhauwsz
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.93
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

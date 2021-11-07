@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f7cf573f-e9f3-44e7-aeb1-24455e199d58
+:END:
+#+TITLE: Nhozxqe Aldl Bbl 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Bbl
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.29
+- price :: 18.19 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.5
+- ratings :: [[id:b9943a58-a181-41c9-9998-c19d1b2c4eb2][Nhozxqe Aldl Bbl NV - 2022-2-28]]
+
+

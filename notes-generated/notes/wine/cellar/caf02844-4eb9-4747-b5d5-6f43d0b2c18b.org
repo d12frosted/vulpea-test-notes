@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     caf02844-4eb9-4747-b5d5-6f43d0b2c18b
+:END:
+#+TITLE: Qay Qsid 1967
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Qsid
+- vintage :: 1967
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 10.72
+- sugar :: 15.66
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 2.0
+- ratings :: [[id:625ee893-fc93-4112-a704-03e0ccaba6b5][Qay Qsid 1967 - 1998-3-4]]
+
+

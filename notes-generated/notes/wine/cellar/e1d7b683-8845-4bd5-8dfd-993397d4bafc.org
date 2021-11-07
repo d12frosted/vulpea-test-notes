@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e1d7b683-8845-4bd5-8dfd-993397d4bafc
+:END:
+#+TITLE: Scf Elpezclx Umg 2005
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Umg
+- vintage :: 2005
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.53
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:3f824640-fb70-4a6f-a06a-4abc9f27501a][Scf Elpezclx Umg 2005 - 2015-7-19]]
+
+

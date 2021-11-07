@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     79e4d899-f1f4-4416-9b17-56baf3b974f9
+:END:
+#+TITLE: Nhozxqe Aldl Veyyugm 1947 - 2005-9-21
+
+- wine :: [[id:0eee9dfd-ccec-4980-89f9-d8d418d3e1c6][Nhozxqe Aldl Veyyugm 1947]]
+- date :: 2005-9-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

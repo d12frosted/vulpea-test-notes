@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     10fce554-840b-468a-a30d-53f1e6af9b98
+:END:
+#+TITLE: Nhozxqe Aldl Uubsnubl 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Uubsnubl
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 13.85
+- sugar :: 2.12
+- price :: 72.16 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 1.5
+- ratings :: [[id:63e00e38-98c0-4bb4-9b30-bfd31c5684b1][Nhozxqe Aldl Uubsnubl NV - 1991-4-11]]
+
+

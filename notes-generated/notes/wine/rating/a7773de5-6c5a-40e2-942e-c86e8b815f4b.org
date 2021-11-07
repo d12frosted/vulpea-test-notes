@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a7773de5-6c5a-40e2-942e-c86e8b815f4b
+:END:
+#+TITLE: Jjkswvm Rcm Xkqgvbl Znhcm NV - 2002-8-23
+
+- wine :: [[id:e4d864ec-16c9-4f48-a532-31544e86a1c9][Jjkswvm Rcm Xkqgvbl Znhcm]]
+- date :: 2002-8-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

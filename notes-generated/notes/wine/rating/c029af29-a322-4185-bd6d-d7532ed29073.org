@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c029af29-a322-4185-bd6d-d7532ed29073
+:END:
+#+TITLE: Yokf Gwhwycw Joxg Esuyixo NV - 1998-2-18
+
+- wine :: [[id:c5480b77-f0b9-49e3-84d9-fbb4758cbe3c][Yokf Gwhwycw Joxg Esuyixo]]
+- date :: 1998-2-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

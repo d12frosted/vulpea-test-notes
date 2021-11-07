@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     93ebe37e-65ae-420a-a781-c750752fe9ce
+:END:
+#+TITLE: Yjfq Gpio 2010
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gpio
+- vintage :: 2010
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 11.29
+- price :: 70.44 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA
+
+

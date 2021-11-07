@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5ab7cd8c-5121-4522-a4ea-0114476dfb1b
+:END:
+#+TITLE: Nhozxqe Aldl Wformevu Ttnqwmcu 1900
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Wformevu Ttnqwmcu
+- vintage :: 1900
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.15
+- sugar :: 3.05
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.5
+- ratings :: [[id:3e3d3c6d-3b90-4996-9592-c04217b73cea][Nhozxqe Aldl Wformevu Ttnqwmcu 1900 - 2012-9-18]]
+
+

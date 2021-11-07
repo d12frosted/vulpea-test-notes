@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ce05f316-4149-4703-aff5-798d63258a76
+:END:
+#+TITLE: Yokf Gwhwycw Otsir Imzn NV - 1996-10-13
+
+- wine :: [[id:942dd777-f429-4f78-8e82-df0f238717a6][Yokf Gwhwycw Otsir Imzn]]
+- date :: 1996-10-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

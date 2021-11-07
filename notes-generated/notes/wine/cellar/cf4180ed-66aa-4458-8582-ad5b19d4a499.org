@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     cf4180ed-66aa-4458-8582-ad5b19d4a499
+:END:
+#+TITLE: Yjfq Amiqkenx Fjj 1915
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Amiqkenx Fjj
+- vintage :: 1915
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.05
+- price :: 36.04 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 7.5
+- ratings :: [[id:a08dee7d-42a9-48eb-b0dd-ff812fe40526][Yjfq Amiqkenx Fjj 1915 - 2020-1-25]]
+
+

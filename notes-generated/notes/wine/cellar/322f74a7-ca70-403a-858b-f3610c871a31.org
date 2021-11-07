@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     322f74a7-ca70-403a-858b-f3610c871a31
+:END:
+#+TITLE: Nhozxqe Aldl Ustcvdiy 1952
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ustcvdiy
+- vintage :: 1952
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 9.7
+- sugar :: 20.46
+- price :: 83.09 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:bab32efe-82ab-43b4-8c3a-97909e2151f2][Nhozxqe Aldl Ustcvdiy 1952 - 2016-9-24]]
+
+

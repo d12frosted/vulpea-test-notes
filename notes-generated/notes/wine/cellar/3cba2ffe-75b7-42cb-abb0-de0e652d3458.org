@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     3cba2ffe-75b7-42cb-abb0-de0e652d3458
+:END:
+#+TITLE: Yjfq Oktmxzxr Vooo 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Oktmxzxr Vooo
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.93
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:209bba60-2d42-4de6-a115-894c4ff26604][Yjfq Oktmxzxr Vooo NV - 2002-5-2]]
+
+

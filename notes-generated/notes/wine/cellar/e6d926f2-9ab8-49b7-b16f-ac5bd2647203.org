@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e6d926f2-9ab8-49b7-b16f-ac5bd2647203
+:END:
+#+TITLE: Yjfq Gtcc 1976
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gtcc
+- vintage :: 1976
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 12.2
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

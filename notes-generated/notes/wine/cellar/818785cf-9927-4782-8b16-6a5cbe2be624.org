@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     818785cf-9927-4782-8b16-6a5cbe2be624
+:END:
+#+TITLE: Ecxknc Iepvhans Mbvy 1995
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Mbvy
+- vintage :: 1995
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.58
+- sugar :: 19.29
+- price :: 81.37 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 2.5
+- ratings :: [[id:2294e5ce-98f6-4a8d-ba69-0fc395d291b9][Ecxknc Iepvhans Mbvy 1995 - 2020-6-22]]
+
+

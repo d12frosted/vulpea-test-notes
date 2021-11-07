@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     815181fd-6ad4-4830-a3dd-11c403eedbd6
+:END:
+#+TITLE: Qay Lbkbmgs 1976
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Lbkbmgs
+- vintage :: 1976
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 13.2
+- sugar :: 20.69
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 2.0
+- ratings :: [[id:f524d08e-ba87-4e9c-b68a-4352bf0ba138][Qay Lbkbmgs 1976 - 1996-8-9]]
+
+

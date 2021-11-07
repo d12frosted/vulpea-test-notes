@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     189d4131-55e1-4fa7-a68a-60240334251d
+:END:
+#+TITLE: Nhozxqe Aldl Acriwp 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Acriwp
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 10.870000000000001
+- sugar :: 10.96
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA
+
+

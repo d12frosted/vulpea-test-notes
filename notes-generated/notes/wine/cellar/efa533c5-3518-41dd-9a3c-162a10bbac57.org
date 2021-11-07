@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     efa533c5-3518-41dd-9a3c-162a10bbac57
+:END:
+#+TITLE: Nhozxqe Aldl Mfararlw Wwrz 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Mfararlw Wwrz
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.25
+- sugar :: 2.33
+- price :: 38.46 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: 7.0
+- ratings :: [[id:998f0624-84d7-4738-838f-c78acf442487][Nhozxqe Aldl Mfararlw Wwrz NV - 2019-5-20]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6af29a20-2fe0-41b5-b2ac-b1a7f25590c7
+:END:
+#+TITLE: Jjkswvm Rcm Bndmkt 2017
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Bndmkt
+- vintage :: 2017
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 10.89
+- sugar :: 19.21
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

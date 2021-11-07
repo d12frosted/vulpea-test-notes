@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8418e955-372d-46c6-96c3-bae380d167b6
+:END:
+#+TITLE: Giih Udr Lpmsk NV - 2002-2-2
+
+- wine :: [[id:eb5809d1-5e4a-4621-8cca-1d97c2d96dfa][Giih Udr Lpmsk]]
+- date :: 2002-2-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

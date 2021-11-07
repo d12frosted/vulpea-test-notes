@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     df6402c6-cb8c-4b70-822e-6148abaa8f33
+:END:
+#+TITLE: Nhozxqe Aldl Gjr 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Gjr
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 9.72
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:463865fc-1430-4bbc-bfec-0c81fee3fb63][Nhozxqe Aldl Gjr NV - 2016-10-8]]
+
+

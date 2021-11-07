@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     dc0da275-27c1-4a02-8741-f1511e2e98cd
+:END:
+#+TITLE: Ecxknc Iepvhans Tnypg Bdq 1944
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Tnypg Bdq
+- vintage :: 1944
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 13.440000000000001
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 6.5
+- ratings :: [[id:9047a91a-3949-4ba9-9b45-ca70cd6a2fc4][Ecxknc Iepvhans Tnypg Bdq 1944 - 2011-9-25]]
+
+

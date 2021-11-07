@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     907a1e89-e8e4-4fa9-aa1f-2fb41563d373
+:END:
+#+TITLE: Yokf Gwhwycw Qgl 1925
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Qgl
+- vintage :: 1925
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 10.09
+- price :: 98.68 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

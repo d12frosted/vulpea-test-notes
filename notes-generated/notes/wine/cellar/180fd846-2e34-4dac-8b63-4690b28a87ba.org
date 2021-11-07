@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     180fd846-2e34-4dac-8b63-4690b28a87ba
+:END:
+#+TITLE: Yjfq Lyxeg 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Lyxeg
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.19
+- sugar :: 23.91
+- price :: 86.50 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

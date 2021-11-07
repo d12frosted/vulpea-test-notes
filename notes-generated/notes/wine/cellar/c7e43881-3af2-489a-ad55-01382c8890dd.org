@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:                     c7e43881-3af2-489a-ad55-01382c8890dd
+:END:
+#+TITLE: Yjfq Rtc 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Rtc
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 10.39
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

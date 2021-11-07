@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     15fb149e-7d0d-480d-9caa-a3ce3d04d350
+:END:
+#+TITLE: Lrwk Jbaxrmn Innot Vybyq 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Innot Vybyq
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 11.03
+- price :: 92.52 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

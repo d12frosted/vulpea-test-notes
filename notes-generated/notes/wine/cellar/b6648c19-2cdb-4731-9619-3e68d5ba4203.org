@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b6648c19-2cdb-4731-9619-3e68d5ba4203
+:END:
+#+TITLE: Lrwk Jbaxrmn Gfitgji Iomovsc 1979
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Gfitgji Iomovsc
+- vintage :: 1979
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 10.31
+- price :: 3.51 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

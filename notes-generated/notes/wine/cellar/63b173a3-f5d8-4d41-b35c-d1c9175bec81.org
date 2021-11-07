@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     63b173a3-f5d8-4d41-b35c-d1c9175bec81
+:END:
+#+TITLE: Jjkswvm Rcm Ngflh Oxqsjvx 1912
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ngflh Oxqsjvx
+- vintage :: 1912
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.29
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     63262778-8acd-4341-ae17-b8263cd1dd44
+:END:
+#+TITLE: Ecxknc Iepvhans Fopuice 1957 - 2001-1-28
+
+- wine :: [[id:9b3759cc-f34d-4e94-abec-7fd7612aa863][Ecxknc Iepvhans Fopuice 1957]]
+- date :: 2001-1-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

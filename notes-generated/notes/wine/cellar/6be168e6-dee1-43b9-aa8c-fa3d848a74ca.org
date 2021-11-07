@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6be168e6-dee1-43b9-aa8c-fa3d848a74ca
+:END:
+#+TITLE: Giih Udr Jhjjdg Kmwnmduz 1972
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Jhjjdg Kmwnmduz
+- vintage :: 1972
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.16
+- sugar :: 22.65
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.0
+- ratings :: [[id:d342075f-3b4b-4390-911a-ff9445f4ae5b][Giih Udr Jhjjdg Kmwnmduz 1972 - 2006-12-16]]
+
+

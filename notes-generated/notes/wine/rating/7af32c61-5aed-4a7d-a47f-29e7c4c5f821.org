@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7af32c61-5aed-4a7d-a47f-29e7c4c5f821
+:END:
+#+TITLE: Scf Elpezclx Pcgkyo 2013 - 2008-2-17
+
+- wine :: [[id:77ed7e99-4c8c-4748-882e-e97a0ce0e36c][Scf Elpezclx Pcgkyo 2013]]
+- date :: 2008-2-17
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

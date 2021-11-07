@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3628594c-8ec1-4654-b658-80b47b5ce1a8
+:END:
+#+TITLE: Scf Elpezclx Lkin Lfjybpf 1987 - 2004-2-2
+
+- wine :: [[id:47e86f54-bdf5-4bfb-8744-f43df868d284][Scf Elpezclx Lkin Lfjybpf 1987]]
+- date :: 2004-2-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

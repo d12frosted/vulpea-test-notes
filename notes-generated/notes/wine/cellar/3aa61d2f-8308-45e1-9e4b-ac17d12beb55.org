@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3aa61d2f-8308-45e1-9e4b-ac17d12beb55
+:END:
+#+TITLE: Cowhhax Upmqcgn Qqf 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Qqf
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.57
+- sugar :: 10.63
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

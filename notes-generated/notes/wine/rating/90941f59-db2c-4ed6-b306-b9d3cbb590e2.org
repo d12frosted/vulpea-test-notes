@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     90941f59-db2c-4ed6-b306-b9d3cbb590e2
+:END:
+#+TITLE: Yjfq Fdog 1929 - 2008-11-8
+
+- wine :: [[id:b0f59fdf-00ca-4fde-952e-aad2f92a6e6b][Yjfq Fdog 1929]]
+- date :: 2008-11-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

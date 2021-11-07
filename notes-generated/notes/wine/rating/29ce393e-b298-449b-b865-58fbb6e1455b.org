@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     29ce393e-b298-449b-b865-58fbb6e1455b
+:END:
+#+TITLE: Yjfq Uvcaife 1982 - 2023-12-10
+
+- wine :: [[id:331783db-b4f4-4762-94fa-12f35470d3cc][Yjfq Uvcaife 1982]]
+- date :: 2023-12-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

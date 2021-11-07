@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2fcff0d1-8039-416e-8043-852ad330c698
+:END:
+#+TITLE: Giih Udr Zhlevzo NV - 2019-5-8
+
+- wine :: [[id:06572c79-7f86-4212-8ced-f50a40529df5][Giih Udr Zhlevzo]]
+- date :: 2019-5-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fdb2a0ae-7ad3-4c8d-842e-ecd394dd0683
+:END:
+#+TITLE: Giih Udr Oeqdiuz NV - 2002-4-13
+
+- wine :: [[id:cc34e255-9aab-4c5a-81de-d5bc566f61c7][Giih Udr Oeqdiuz]]
+- date :: 2002-4-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

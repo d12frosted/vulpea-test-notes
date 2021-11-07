@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     33db10a5-9c57-48c4-8541-a3f20a9a79f0
+:END:
+#+TITLE: Nhozxqe Aldl Ibbrcv 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Ibbrcv
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 9.75
+- sugar :: 6.77
+- price :: 23.53 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

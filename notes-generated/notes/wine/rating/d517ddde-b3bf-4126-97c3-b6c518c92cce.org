@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d517ddde-b3bf-4126-97c3-b6c518c92cce
+:END:
+#+TITLE: Yjfq Yubf NV - 2009-11-16
+
+- wine :: [[id:16cb5b55-068c-449a-a241-e611f92d45af][Yjfq Yubf]]
+- date :: 2009-11-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

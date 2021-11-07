@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     026bbd68-3ffa-4eb6-a2b7-641458c56e7f
+:END:
+#+TITLE: Yokf Gwhwycw Fpk Msor NV - 2016-1-12
+
+- wine :: [[id:9759e386-e4d1-4a05-82a5-ade700c44879][Yokf Gwhwycw Fpk Msor]]
+- date :: 2016-1-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

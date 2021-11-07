@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6ae53fde-b4bd-4e22-93fb-e20b8a5a104f
+:END:
+#+TITLE: Nhozxqe Aldl Txri Vzq NV - 2014-12-7
+
+- wine :: [[id:7fa081d3-b62d-4e02-aeed-716a44cda107][Nhozxqe Aldl Txri Vzq]]
+- date :: 2014-12-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4946bfb6-d16e-4fc9-8e12-3f73e4030f53
+:END:
+#+TITLE: Scf Elpezclx Cio 1956 - 1990-8-22
+
+- wine :: [[id:d9c9f4c7-759b-45c4-9693-8490b1e6dd18][Scf Elpezclx Cio 1956]]
+- date :: 1990-8-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

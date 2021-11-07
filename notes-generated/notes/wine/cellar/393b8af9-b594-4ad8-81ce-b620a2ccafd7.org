@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     393b8af9-b594-4ad8-81ce-b620a2ccafd7
+:END:
+#+TITLE: Qay Czlz 1924
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Czlz
+- vintage :: 1924
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 10.01
+- price :: 70.60 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.0
+- ratings :: [[id:7bedb814-8bc6-420a-a74b-8f5233011a3d][Qay Czlz 1924 - 1993-7-1]]
+
+

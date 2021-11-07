@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1b5c7f63-6eb3-460d-aaa8-f1c690b0ea6d
+:END:
+#+TITLE: Qay Cjzbciqm Llrvjum 1961
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Cjzbciqm Llrvjum
+- vintage :: 1961
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 12.5
+- sugar :: 8.5
+- price :: 50.03 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f02245c5-3eee-4ce8-bd5e-9738f9350e35
+:END:
+#+TITLE: Jjkswvm Rcm Ikbtzhm Spg 1915 - 1998-1-17
+
+- wine :: [[id:a70aea78-7e40-4102-a256-1238ad670e20][Jjkswvm Rcm Ikbtzhm Spg 1915]]
+- date :: 1998-1-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

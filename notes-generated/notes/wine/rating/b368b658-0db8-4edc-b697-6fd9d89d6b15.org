@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b368b658-0db8-4edc-b697-6fd9d89d6b15
+:END:
+#+TITLE: Ecxknc Iepvhans Chpy 1981 - 2001-10-10
+
+- wine :: [[id:25f3ab02-5942-45ff-80a5-eefe275697f1][Ecxknc Iepvhans Chpy 1981]]
+- date :: 2001-10-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

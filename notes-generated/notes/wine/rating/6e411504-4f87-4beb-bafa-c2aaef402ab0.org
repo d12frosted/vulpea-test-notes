@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6e411504-4f87-4beb-bafa-c2aaef402ab0
+:END:
+#+TITLE: Cowhhax Upmqcgn Abf Tymwadbf 1958 - 1999-3-14
+
+- wine :: [[id:3b1df586-bce6-4d29-a14a-30820ef0f9ca][Cowhhax Upmqcgn Abf Tymwadbf 1958]]
+- date :: 1999-3-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

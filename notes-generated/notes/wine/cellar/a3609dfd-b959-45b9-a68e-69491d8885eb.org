@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     a3609dfd-b959-45b9-a68e-69491d8885eb
+:END:
+#+TITLE: Yjfq Hpo 1995
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Hpo
+- vintage :: 1995
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 9.57
+- sugar :: 7.59
+- price :: 18.99 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.5
+- ratings :: [[id:3f060e4c-ce88-4656-88f5-ef00041a5105][Yjfq Hpo 1995 - 1991-6-24]]
+
+

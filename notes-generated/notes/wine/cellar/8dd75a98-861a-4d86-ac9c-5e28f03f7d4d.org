@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     8dd75a98-861a-4d86-ac9c-5e28f03f7d4d
+:END:
+#+TITLE: Yokf Gwhwycw Gqcs 2003
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Gqcs
+- vintage :: 2003
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.97
+- sugar :: 15.19
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA
+
+

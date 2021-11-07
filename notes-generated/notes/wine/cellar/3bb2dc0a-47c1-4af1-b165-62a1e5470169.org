@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     3bb2dc0a-47c1-4af1-b165-62a1e5470169
+:END:
+#+TITLE: Qay Jvsdvk 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Jvsdvk
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 9.37
+- sugar :: 16.95
+- price :: 66.65 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.0
+- ratings :: [[id:675ab92e-7905-43f4-89bb-e140e9200b17][Qay Jvsdvk NV - 1991-3-19]]
+
+

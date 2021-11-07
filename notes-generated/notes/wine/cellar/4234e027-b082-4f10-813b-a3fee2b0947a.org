@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4234e027-b082-4f10-813b-a3fee2b0947a
+:END:
+#+TITLE: Cowhhax Upmqcgn Yfvpq Dwe 2012
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Yfvpq Dwe
+- vintage :: 2012
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.18
+- price :: 35.04 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

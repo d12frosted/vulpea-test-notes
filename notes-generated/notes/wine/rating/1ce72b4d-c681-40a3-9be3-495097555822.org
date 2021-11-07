@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1ce72b4d-c681-40a3-9be3-495097555822
+:END:
+#+TITLE: Scf Elpezclx Jrbyhn Gjy NV - 2018-9-16
+
+- wine :: [[id:d0eabaf2-0b71-4d2b-ae4e-5040fc9224e2][Scf Elpezclx Jrbyhn Gjy]]
+- date :: 2018-9-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

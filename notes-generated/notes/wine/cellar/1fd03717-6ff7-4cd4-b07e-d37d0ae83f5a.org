@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1fd03717-6ff7-4cd4-b07e-d37d0ae83f5a
+:END:
+#+TITLE: Giih Udr Mvit 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Mvit
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.86
+- sugar :: 8.7
+- price :: 10.53 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 6.5
+- ratings :: [[id:dfbbd8b5-d929-4f79-930a-256b65eb34fe][Giih Udr Mvit NV - 2008-4-3]]
+
+

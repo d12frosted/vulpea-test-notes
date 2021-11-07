@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b03ee845-1bf2-4079-a450-826761924ce5
+:END:
+#+TITLE: Jjkswvm Rcm Uyixzwc 1957
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Uyixzwc
+- vintage :: 1957
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 10.18
+- sugar :: 22.88
+- price :: 69.27 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 6.0
+- ratings :: [[id:d60ff54d-30d0-4b23-a6bd-25b50b240113][Jjkswvm Rcm Uyixzwc 1957 - 1995-5-17]]
+
+

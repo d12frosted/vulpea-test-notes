@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b2cffc23-04fa-4e35-a808-85673ff4c67d
+:END:
+#+TITLE: Scf Elpezclx Fzysm Jpsxh NV - 1994-12-1
+
+- wine :: [[id:9d83a4c7-279e-4223-b5bc-ca4c09b0e891][Scf Elpezclx Fzysm Jpsxh]]
+- date :: 1994-12-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

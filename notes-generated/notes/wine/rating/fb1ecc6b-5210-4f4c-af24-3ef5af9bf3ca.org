@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fb1ecc6b-5210-4f4c-af24-3ef5af9bf3ca
+:END:
+#+TITLE: Jjkswvm Rcm Tloj Mgpbfnpr 2015 - 2022-12-28
+
+- wine :: [[id:76958567-85ae-4924-b618-b8f921e39ef6][Jjkswvm Rcm Tloj Mgpbfnpr 2015]]
+- date :: 2022-12-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

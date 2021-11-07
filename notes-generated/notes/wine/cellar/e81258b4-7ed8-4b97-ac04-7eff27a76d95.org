@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e81258b4-7ed8-4b97-ac04-7eff27a76d95
+:END:
+#+TITLE: Jjkswvm Rcm Mronz 1925
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Mronz
+- vintage :: 1925
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 9.94
+- price :: 84.08 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

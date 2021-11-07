@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8f671c45-ae6a-4cb6-bccc-f004f3c65148
+:END:
+#+TITLE: Scf Elpezclx Xrrduijp 1928
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Xrrduijp
+- vintage :: 1928
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.22
+- sugar :: 22.96
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 7.0
+- ratings :: [[id:0e8a70d9-57b2-47f3-bbba-bfe509d4743a][Scf Elpezclx Xrrduijp 1928 - 2018-2-17]]
+
+

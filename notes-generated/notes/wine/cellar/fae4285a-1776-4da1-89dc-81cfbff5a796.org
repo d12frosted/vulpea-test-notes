@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fae4285a-1776-4da1-89dc-81cfbff5a796
+:END:
+#+TITLE: Scf Elpezclx Ijcnfru Ixbuag 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ijcnfru Ixbuag
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 11.11
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 7.5
+- ratings :: [[id:384ad807-dcfc-4663-b5e3-cf7f77d898aa][Scf Elpezclx Ijcnfru Ixbuag NV - 2013-8-20]]
+
+

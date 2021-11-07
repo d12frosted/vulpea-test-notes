@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c0e5249c-f139-4b0c-aa68-03afce1b6d50
+:END:
+#+TITLE: Lrwk Jbaxrmn Hoeonu NV - 2024-10-9
+
+- wine :: [[id:7e11ff5d-d466-4e65-b0f3-9dcb97150de9][Lrwk Jbaxrmn Hoeonu]]
+- date :: 2024-10-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

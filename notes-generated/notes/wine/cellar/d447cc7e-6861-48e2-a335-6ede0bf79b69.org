@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d447cc7e-6861-48e2-a335-6ede0bf79b69
+:END:
+#+TITLE: Giih Udr Zsnm Ycdk 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Zsnm Ycdk
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.22
+- sugar :: 17.91
+- price :: 33.64 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

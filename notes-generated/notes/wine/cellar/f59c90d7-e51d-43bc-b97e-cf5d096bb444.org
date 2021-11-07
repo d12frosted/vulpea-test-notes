@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f59c90d7-e51d-43bc-b97e-cf5d096bb444
+:END:
+#+TITLE: Cowhhax Upmqcgn Xyqwnul Cujx 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Xyqwnul Cujx
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.72
+- sugar :: 4.85
+- price :: 59.41 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 8.5
+- ratings :: [[id:cafd72c9-d57b-4016-b4c9-828166804147][Cowhhax Upmqcgn Xyqwnul Cujx NV - 2024-7-23]]
+
+

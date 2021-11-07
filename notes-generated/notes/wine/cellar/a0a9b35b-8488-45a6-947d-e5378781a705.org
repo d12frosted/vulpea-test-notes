@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     a0a9b35b-8488-45a6-947d-e5378781a705
+:END:
+#+TITLE: Ecxknc Iepvhans Zzdfzv 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Zzdfzv
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 13.01
+- price :: 14.79 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:2c7ed546-2c00-482f-8a12-60f85020a438][Ecxknc Iepvhans Zzdfzv NV - 1992-2-28]]
+
+

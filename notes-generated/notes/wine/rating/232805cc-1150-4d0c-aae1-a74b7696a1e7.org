@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     232805cc-1150-4d0c-aae1-a74b7696a1e7
+:END:
+#+TITLE: Yjfq Bjsey Daqhtxz NV - 2022-5-16
+
+- wine :: [[id:a51f032f-8807-4f16-8674-4e71cc83447d][Yjfq Bjsey Daqhtxz]]
+- date :: 2022-5-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

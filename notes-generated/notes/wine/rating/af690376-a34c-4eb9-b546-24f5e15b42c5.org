@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     af690376-a34c-4eb9-b546-24f5e15b42c5
+:END:
+#+TITLE: Cowhhax Upmqcgn Wdttjmd Zugaatgp NV - 2013-12-26
+
+- wine :: [[id:1eb33a98-933a-4653-9ba9-9839c3f37b17][Cowhhax Upmqcgn Wdttjmd Zugaatgp]]
+- date :: 2013-12-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     39cd596f-81a2-490e-a47c-b72bcf1ad24d
+:END:
+#+TITLE: Giih Udr Xpwqwfv Ilpm 2020 - 2023-4-28
+
+- wine :: [[id:9367bec9-ea8e-4f35-9ef9-956f217afe44][Giih Udr Xpwqwfv Ilpm 2020]]
+- date :: 2023-4-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

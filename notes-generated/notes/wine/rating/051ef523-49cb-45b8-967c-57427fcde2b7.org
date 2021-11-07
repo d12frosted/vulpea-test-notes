@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     051ef523-49cb-45b8-967c-57427fcde2b7
+:END:
+#+TITLE: Lrwk Jbaxrmn Krhom Drss NV - 1993-11-26
+
+- wine :: [[id:5c745985-fc3c-422b-bf57-e96dfbc16892][Lrwk Jbaxrmn Krhom Drss]]
+- date :: 1993-11-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

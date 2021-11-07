@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bf7e8202-1629-460a-9a15-01dd264f410e
+:END:
+#+TITLE: Yokf Gwhwycw Pwhxlbgu Rgalaksh 2018
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Pwhxlbgu Rgalaksh
+- vintage :: 2018
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 10.03
+- sugar :: 20.45
+- price :: 66.46 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

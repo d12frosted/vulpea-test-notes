@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     bdc0cc5b-c0b5-49ce-86fe-e9146e511b78
+:END:
+#+TITLE: Qay Ojircfou 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ojircfou
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 13.629999999999999
+- sugar :: 20.97
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:8f7cd1ff-587c-4214-9ed4-000daac44902][Qay Ojircfou NV - 2021-6-25]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     71448448-7f4e-4a53-975d-bad1b97c9f42
+:END:
+#+TITLE: Cowhhax Upmqcgn Ugfxpohq Zxmzppa 1961
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ugfxpohq Zxmzppa
+- vintage :: 1961
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.39
+- price :: 49.03 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:ad9b8faa-c2b2-44d6-962d-c6f726470649][Cowhhax Upmqcgn Ugfxpohq Zxmzppa 1961 - 2000-12-3]]
+
+

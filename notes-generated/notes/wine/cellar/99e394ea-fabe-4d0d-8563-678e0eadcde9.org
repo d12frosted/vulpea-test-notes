@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     99e394ea-fabe-4d0d-8563-678e0eadcde9
+:END:
+#+TITLE: Lrwk Jbaxrmn Obxwof Syklku 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Obxwof Syklku
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 12.9
+- sugar :: 7.69
+- price :: 89.77 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:439d73ed-d20e-4794-a1bb-1c9c85077530][Lrwk Jbaxrmn Obxwof Syklku NV - 2000-6-23]]
+
+

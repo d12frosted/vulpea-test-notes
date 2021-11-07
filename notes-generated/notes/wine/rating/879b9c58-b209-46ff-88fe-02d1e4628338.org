@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     879b9c58-b209-46ff-88fe-02d1e4628338
+:END:
+#+TITLE: Ecxknc Iepvhans Nnfmh 1993 - 2017-3-16
+
+- wine :: [[id:0b8ba06a-84e3-40d1-93a8-d5c35e1ec294][Ecxknc Iepvhans Nnfmh 1993]]
+- date :: 2017-3-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

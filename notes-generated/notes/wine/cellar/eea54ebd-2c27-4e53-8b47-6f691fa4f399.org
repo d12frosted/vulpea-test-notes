@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     eea54ebd-2c27-4e53-8b47-6f691fa4f399
+:END:
+#+TITLE: Ecxknc Iepvhans Chmqgl Knwtlp 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Chmqgl Knwtlp
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 10.43
+- sugar :: 18.72
+- price :: 39.79 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

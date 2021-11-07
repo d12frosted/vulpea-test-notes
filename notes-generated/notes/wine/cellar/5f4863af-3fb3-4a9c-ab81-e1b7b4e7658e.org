@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     5f4863af-3fb3-4a9c-ab81-e1b7b4e7658e
+:END:
+#+TITLE: Lrwk Jbaxrmn Dbpaiec Lmk 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Dbpaiec Lmk
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 13.93
+- sugar :: 9.16
+- price :: 26.36 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA
+
+

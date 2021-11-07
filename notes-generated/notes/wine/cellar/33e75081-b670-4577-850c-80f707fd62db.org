@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     33e75081-b670-4577-850c-80f707fd62db
+:END:
+#+TITLE: Qay Ssuez Ydbw 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ssuez Ydbw
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 9.89
+- sugar :: 14.13
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:74bf48e4-3756-42b5-9c3c-32e455e38abd][Qay Ssuez Ydbw NV - 2023-5-7]]
+
+

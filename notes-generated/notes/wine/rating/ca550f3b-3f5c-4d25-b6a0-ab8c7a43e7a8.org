@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ca550f3b-3f5c-4d25-b6a0-ab8c7a43e7a8
+:END:
+#+TITLE: Qay Jdwehsk NV - 2013-9-23
+
+- wine :: [[id:d6aa4632-1dbc-4016-8f48-373a88cbf390][Qay Jdwehsk]]
+- date :: 2013-9-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

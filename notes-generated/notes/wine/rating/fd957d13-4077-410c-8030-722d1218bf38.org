@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fd957d13-4077-410c-8030-722d1218bf38
+:END:
+#+TITLE: Qay Rlka 1992 - 2001-5-22
+
+- wine :: [[id:204cd777-f7be-4ccf-857a-d970b98b02ad][Qay Rlka 1992]]
+- date :: 2001-5-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

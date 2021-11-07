@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     111787b6-5e68-4e7e-bc14-6433c7ea4a87
+:END:
+#+TITLE: Jjkswvm Rcm Qzj 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Qzj
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 9.32
+- sugar :: 10.65
+- price :: 26.16 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 3.0
+- ratings :: [[id:320ae071-4f8c-4c81-8eaa-3cc2f6f77f8d][Jjkswvm Rcm Qzj NV - 1995-7-5]]
+
+

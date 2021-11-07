@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     44b61b19-e350-4e52-bfc4-e4eb92335dba
+:END:
+#+TITLE: Yokf Gwhwycw Oyew Ddhgun 2018
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Oyew Ddhgun
+- vintage :: 2018
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.35
+- sugar :: 3.03
+- price :: 9.73 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 4.0
+- ratings :: [[id:9d7fefff-e5ab-403a-81ec-9dcfffcc5aa1][Yokf Gwhwycw Oyew Ddhgun 2018 - 1993-12-5]]
+
+

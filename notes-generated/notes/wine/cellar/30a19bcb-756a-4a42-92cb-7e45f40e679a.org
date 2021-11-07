@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     30a19bcb-756a-4a42-92cb-7e45f40e679a
+:END:
+#+TITLE: Lrwk Jbaxrmn Jpgb Hujmtlb 1931
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Jpgb Hujmtlb
+- vintage :: 1931
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 10.620000000000001
+- sugar :: 6.08
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:d3b1ab3b-ac5a-4775-a9ec-30532296eef8][Lrwk Jbaxrmn Jpgb Hujmtlb 1931 - 1999-10-18]]
+
+

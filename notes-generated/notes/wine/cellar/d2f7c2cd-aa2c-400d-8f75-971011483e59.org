@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d2f7c2cd-aa2c-400d-8f75-971011483e59
+:END:
+#+TITLE: Cowhhax Upmqcgn Rcrnq 1962
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Rcrnq
+- vintage :: 1962
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 12.120000000000001
+- sugar :: 0.48
+- price :: 87.54 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.0
+- ratings :: [[id:ecfd35c1-d41f-4c4d-b46b-801f297c7481][Cowhhax Upmqcgn Rcrnq 1962 - 1992-3-11]]
+
+

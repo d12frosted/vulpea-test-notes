@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c6246dc0-171a-4d53-941d-33125f7918b1
+:END:
+#+TITLE: Jjkswvm Rcm Wndtthjy 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Wndtthjy
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.22
+- price :: 75.56 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 2.5
+- ratings :: [[id:66ef3a79-42ab-4f9a-9da0-61a1588e9695][Jjkswvm Rcm Wndtthjy NV - 1994-3-5]]
+
+

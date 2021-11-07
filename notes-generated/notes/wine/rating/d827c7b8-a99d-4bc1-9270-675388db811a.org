@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d827c7b8-a99d-4bc1-9270-675388db811a
+:END:
+#+TITLE: Jjkswvm Rcm Hrxbge Cqlmdob NV - 2009-5-24
+
+- wine :: [[id:808492ee-4ed2-4935-99ee-09b539e86a4f][Jjkswvm Rcm Hrxbge Cqlmdob]]
+- date :: 2009-5-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

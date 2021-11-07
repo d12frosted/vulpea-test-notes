@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     64cdab0a-8e59-49ff-b867-4cc2390e198e
+:END:
+#+TITLE: Qay Ryetp Bglujxxj 1928
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Ryetp Bglujxxj
+- vintage :: 1928
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 9.47
+- sugar :: 19.86
+- price :: 51.09 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:2a59df2b-b55f-491d-9575-b6efb7b52575][Qay Ryetp Bglujxxj 1928 - 1990-10-8]]
+
+

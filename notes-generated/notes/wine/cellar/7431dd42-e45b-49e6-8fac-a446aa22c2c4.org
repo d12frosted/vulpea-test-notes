@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7431dd42-e45b-49e6-8fac-a446aa22c2c4
+:END:
+#+TITLE: Lrwk Jbaxrmn Meidy Gztktmbk 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Meidy Gztktmbk
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.25
+- sugar :: 14.34
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

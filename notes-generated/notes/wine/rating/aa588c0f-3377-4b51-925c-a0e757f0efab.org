@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     aa588c0f-3377-4b51-925c-a0e757f0efab
+:END:
+#+TITLE: Scf Elpezclx Lfojcv NV - 1993-12-5
+
+- wine :: [[id:1675712c-997e-45d5-983d-94de73aa3927][Scf Elpezclx Lfojcv]]
+- date :: 1993-12-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

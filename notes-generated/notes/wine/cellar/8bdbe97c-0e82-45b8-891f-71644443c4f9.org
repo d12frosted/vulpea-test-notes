@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8bdbe97c-0e82-45b8-891f-71644443c4f9
+:END:
+#+TITLE: Scf Elpezclx Rqdutavp 1986
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Rqdutavp
+- vintage :: 1986
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.92
+- price :: 97.09 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:16d283ec-4fa1-4922-8eae-7056a40f9ce6][Scf Elpezclx Rqdutavp 1986 - 2012-8-23]]
+
+

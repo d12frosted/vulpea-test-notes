@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2cbaa79d-255d-4133-9794-64d50d17a5e3
+:END:
+#+TITLE: Ecxknc Iepvhans Miqczobc NV - 1990-6-24
+
+- wine :: [[id:bb94d41a-486e-4334-9302-7cfbbce7a3f3][Ecxknc Iepvhans Miqczobc]]
+- date :: 1990-6-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

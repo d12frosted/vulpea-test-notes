@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     24ad9a9c-eac7-496a-a89d-921c1ccdd880
+:END:
+#+TITLE: Yokf Gwhwycw Nqqxv 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Nqqxv
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 9.19
+- sugar :: 20.53
+- price :: 72.81 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.5
+- ratings :: [[id:034e59b5-325b-4fc0-86f0-b6567bf017f6][Yokf Gwhwycw Nqqxv NV - 1998-8-13]]
+
+

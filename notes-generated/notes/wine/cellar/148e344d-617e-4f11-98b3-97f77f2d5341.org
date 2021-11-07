@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     148e344d-617e-4f11-98b3-97f77f2d5341
+:END:
+#+TITLE: Ecxknc Iepvhans Uss 1948
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Uss
+- vintage :: 1948
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 10.54
+- sugar :: 8.97
+- price :: 28.56 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

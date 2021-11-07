@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     086e3f68-f670-4fa3-9b15-b9304b4ec366
+:END:
+#+TITLE: Lrwk Jbaxrmn Ebkdmcsu 2003 - 2017-7-25
+
+- wine :: [[id:0beaf67b-6a5b-4ec8-ae4f-28e94945508f][Lrwk Jbaxrmn Ebkdmcsu 2003]]
+- date :: 2017-7-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

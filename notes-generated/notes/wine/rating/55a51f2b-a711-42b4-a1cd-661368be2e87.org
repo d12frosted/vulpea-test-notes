@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     55a51f2b-a711-42b4-a1cd-661368be2e87
+:END:
+#+TITLE: Nhozxqe Aldl Csdei NV - 2007-11-17
+
+- wine :: [[id:4616caf9-6b33-40a0-996a-860dd3506f30][Nhozxqe Aldl Csdei]]
+- date :: 2007-11-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

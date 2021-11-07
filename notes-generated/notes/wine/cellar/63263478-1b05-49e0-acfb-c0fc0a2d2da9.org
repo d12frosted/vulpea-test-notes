@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     63263478-1b05-49e0-acfb-c0fc0a2d2da9
+:END:
+#+TITLE: Qay Vbihnbr Cmls 1921
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Vbihnbr Cmls
+- vintage :: 1921
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 9.09
+- price :: 6.88 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA
+
+

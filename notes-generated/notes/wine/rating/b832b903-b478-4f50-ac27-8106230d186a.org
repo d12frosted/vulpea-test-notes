@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b832b903-b478-4f50-ac27-8106230d186a
+:END:
+#+TITLE: Yjfq Nlccsrjo Izbg 1960 - 1999-7-8
+
+- wine :: [[id:94d7c533-4812-45b1-843e-ba4f93678763][Yjfq Nlccsrjo Izbg 1960]]
+- date :: 1999-7-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

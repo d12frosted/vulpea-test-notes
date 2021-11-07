@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     b04b3d10-3c2a-4d36-b6aa-2a801df93170
+:END:
+#+TITLE: Ecxknc Iepvhans Clqmxet Dica 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Clqmxet Dica
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 11.73
+- sugar :: 0.4
+- price :: 36.70 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c16ad90e-71c8-446e-8054-002c80e6d418
+:END:
+#+TITLE: Lrwk Jbaxrmn Etixf 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Etixf
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 9.18
+- sugar :: 19.61
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 8.0
+- ratings :: [[id:5b484945-449a-4ba2-b7c0-5397ad12fd4f][Lrwk Jbaxrmn Etixf NV - 2008-11-6]]
+
+

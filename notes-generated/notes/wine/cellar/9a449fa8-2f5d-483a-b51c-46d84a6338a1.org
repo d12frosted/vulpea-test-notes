@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9a449fa8-2f5d-483a-b51c-46d84a6338a1
+:END:
+#+TITLE: Giih Udr Caklgr 1900
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Caklgr
+- vintage :: 1900
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 12.01
+- sugar :: 6.52
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: wikipedia
+- rating :: NA
+
+

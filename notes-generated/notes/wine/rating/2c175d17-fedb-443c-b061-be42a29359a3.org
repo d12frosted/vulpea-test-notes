@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2c175d17-fedb-443c-b061-be42a29359a3
+:END:
+#+TITLE: Giih Udr Gzyo Vxo NV - 1998-4-28
+
+- wine :: [[id:60496157-ce32-4afb-9e09-ee3ab480392b][Giih Udr Gzyo Vxo]]
+- date :: 1998-4-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

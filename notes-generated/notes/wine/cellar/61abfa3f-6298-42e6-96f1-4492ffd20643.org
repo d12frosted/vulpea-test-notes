@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     61abfa3f-6298-42e6-96f1-4492ffd20643
+:END:
+#+TITLE: Cowhhax Upmqcgn Kgafme Bquzye 1980
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Kgafme Bquzye
+- vintage :: 1980
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 13.75
+- price :: 16.07 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

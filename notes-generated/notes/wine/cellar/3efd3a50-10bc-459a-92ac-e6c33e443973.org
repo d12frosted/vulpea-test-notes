@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     3efd3a50-10bc-459a-92ac-e6c33e443973
+:END:
+#+TITLE: Ecxknc Iepvhans Jxtzfc 1961
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Jxtzfc
+- vintage :: 1961
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 11.7
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA
+
+

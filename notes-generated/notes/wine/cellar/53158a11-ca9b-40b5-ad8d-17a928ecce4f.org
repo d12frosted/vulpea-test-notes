@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     53158a11-ca9b-40b5-ad8d-17a928ecce4f
+:END:
+#+TITLE: Yjfq Gbke 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Gbke
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 9.23
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:a9e86d9c-2d1b-4a93-879e-c1d3840fda0e][Yjfq Gbke NV - 1993-6-25]]
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     afeb9336-f1f9-49ed-9db4-3faf8ad5dc1a
+:END:
+#+TITLE: Ecxknc Iepvhans Jnbyb 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Jnbyb
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 9.95
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:e786571b-53b2-4879-a46b-f0fc91ba5608][Ecxknc Iepvhans Jnbyb NV - 2017-6-2]]
+
+

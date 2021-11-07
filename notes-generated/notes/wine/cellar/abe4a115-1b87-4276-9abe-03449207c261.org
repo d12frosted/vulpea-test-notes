@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     abe4a115-1b87-4276-9abe-03449207c261
+:END:
+#+TITLE: Yjfq Mqg 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Mqg
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.93
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.0
+- ratings :: [[id:d0bf823f-f120-49cf-a4d8-41b82344bc1a][Yjfq Mqg NV - 2014-1-7]]
+
+

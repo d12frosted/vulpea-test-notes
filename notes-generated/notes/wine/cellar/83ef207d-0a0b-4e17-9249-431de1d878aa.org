@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     83ef207d-0a0b-4e17-9249-431de1d878aa
+:END:
+#+TITLE: Ecxknc Iepvhans Czqdm Qbzm 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Czqdm Qbzm
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 9.61
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.0
+- ratings :: [[id:deda2943-21ee-4ce8-8209-678754992fb4][Ecxknc Iepvhans Czqdm Qbzm NV - 2024-5-14]]
+
+

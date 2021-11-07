@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     ebb02804-ff8a-424e-a1d2-42baba5292f0
+:END:
+#+TITLE: Qay Liqtipb Ykbapykv 1947
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Liqtipb Ykbapykv
+- vintage :: 1947
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 10.09
+- sugar :: 7.21
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA
+
+

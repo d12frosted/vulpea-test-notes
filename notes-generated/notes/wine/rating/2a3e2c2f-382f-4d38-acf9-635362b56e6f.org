@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2a3e2c2f-382f-4d38-acf9-635362b56e6f
+:END:
+#+TITLE: Ecxknc Iepvhans Munxyqff Qfdxyb 1916 - 2008-10-28
+
+- wine :: [[id:f67a1542-f899-4877-9ef1-397ba410d634][Ecxknc Iepvhans Munxyqff Qfdxyb 1916]]
+- date :: 2008-10-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     29309a67-fa1c-4de5-8876-4663ae50a4ee
+:END:
+#+TITLE: Yokf Gwhwycw Temkgy Laovyu NV - 2003-10-13
+
+- wine :: [[id:ae4312e6-9b39-41a7-b954-71a120282e08][Yokf Gwhwycw Temkgy Laovyu]]
+- date :: 2003-10-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dd46dece-df1c-400c-a03c-8378dcc9fb58
+:END:
+#+TITLE: Ecxknc Iepvhans Vlmpjoe Rxbh 1934 - 1996-11-18
+
+- wine :: [[id:069bb188-44c6-4356-99c2-16cb7c6a7c5b][Ecxknc Iepvhans Vlmpjoe Rxbh 1934]]
+- date :: 1996-11-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

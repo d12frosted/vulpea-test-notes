@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     fa049fd7-69ef-477b-b155-7f9b3d11fbe5
+:END:
+#+TITLE: Yokf Gwhwycw Jiuxvs Kkfkkykr 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Jiuxvs Kkfkkykr
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.16
+- price :: 15.53 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: 4.0
+- ratings :: [[id:fe9a9f04-382e-4350-ab03-a38f22939591][Yokf Gwhwycw Jiuxvs Kkfkkykr NV - 1991-6-4]]
+
+

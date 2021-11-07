@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3141b2b9-355a-4cc9-9e18-6425b84e7817
+:END:
+#+TITLE: Cowhhax Upmqcgn Comefqz NV - 1990-4-15
+
+- wine :: [[id:7d0fdcda-3a94-46e3-94d7-1e43702b9c53][Cowhhax Upmqcgn Comefqz]]
+- date :: 1990-4-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

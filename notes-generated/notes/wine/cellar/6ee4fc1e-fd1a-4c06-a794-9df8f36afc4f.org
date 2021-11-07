@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6ee4fc1e-fd1a-4c06-a794-9df8f36afc4f
+:END:
+#+TITLE: Yokf Gwhwycw Disnqo 1955
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Disnqo
+- vintage :: 1955
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.55
+- price :: 48.08 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: wikipedia
+- rating :: NA
+
+

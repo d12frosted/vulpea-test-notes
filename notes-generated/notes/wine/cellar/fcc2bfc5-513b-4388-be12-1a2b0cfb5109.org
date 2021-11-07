@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     fcc2bfc5-513b-4388-be12-1a2b0cfb5109
+:END:
+#+TITLE: Cowhhax Upmqcgn Tzc 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Tzc
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.530000000000001
+- sugar :: 7.78
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.5
+- ratings :: [[id:ecaf1907-a23e-454d-94f1-dd7274990bde][Cowhhax Upmqcgn Tzc NV - 2010-7-17]]
+
+

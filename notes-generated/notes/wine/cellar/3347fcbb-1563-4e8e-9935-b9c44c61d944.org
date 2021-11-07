@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     3347fcbb-1563-4e8e-9935-b9c44c61d944
+:END:
+#+TITLE: Lrwk Jbaxrmn Yfb Kky 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Yfb Kky
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 9.01
+- price :: 25.52 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

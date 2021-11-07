@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b0ca2d25-0a4f-411c-aaaf-c2de25529e27
+:END:
+#+TITLE: Scf Elpezclx Lsnhmcu Gua 1957 - 2022-9-12
+
+- wine :: [[id:7305036b-200e-48b8-96b6-533094038f20][Scf Elpezclx Lsnhmcu Gua 1957]]
+- date :: 2022-9-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

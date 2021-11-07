@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     aad4fdd7-3c39-4df8-a448-5eacec4fd4f4
+:END:
+#+TITLE: Yjfq Nhzoutf Ipd 1990
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Nhzoutf Ipd
+- vintage :: 1990
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 9.01
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.0
+- ratings :: [[id:e94a5d2b-effb-48ad-aac9-185620d9732d][Yjfq Nhzoutf Ipd 1990 - 2011-9-6]]
+
+

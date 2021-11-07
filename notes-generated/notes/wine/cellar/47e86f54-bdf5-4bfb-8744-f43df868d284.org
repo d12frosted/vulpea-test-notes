@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     47e86f54-bdf5-4bfb-8744-f43df868d284
+:END:
+#+TITLE: Scf Elpezclx Lkin Lfjybpf 1987
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Lkin Lfjybpf
+- vintage :: 1987
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 9.16
+- price :: 100.64 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:3628594c-8ec1-4654-b658-80b47b5ce1a8][Scf Elpezclx Lkin Lfjybpf 1987 - 2004-2-2]]
+
+

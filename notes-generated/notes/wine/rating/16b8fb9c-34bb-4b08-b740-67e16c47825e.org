@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     16b8fb9c-34bb-4b08-b740-67e16c47825e
+:END:
+#+TITLE: Nhozxqe Aldl Ryd Fepvygd 1984 - 2023-12-24
+
+- wine :: [[id:cde8d792-11d9-4a31-a0b3-7ebcb7762e8f][Nhozxqe Aldl Ryd Fepvygd 1984]]
+- date :: 2023-12-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

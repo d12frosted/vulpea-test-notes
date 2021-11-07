@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2c7ed546-2c00-482f-8a12-60f85020a438
+:END:
+#+TITLE: Ecxknc Iepvhans Zzdfzv NV - 1992-2-28
+
+- wine :: [[id:a0a9b35b-8488-45a6-947d-e5378781a705][Ecxknc Iepvhans Zzdfzv]]
+- date :: 1992-2-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

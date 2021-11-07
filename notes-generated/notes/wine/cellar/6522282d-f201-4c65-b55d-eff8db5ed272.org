@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     6522282d-f201-4c65-b55d-eff8db5ed272
+:END:
+#+TITLE: Yjfq Nmi Dycpmkel 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Nmi Dycpmkel
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 12.67
+- sugar :: 7.14
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA
+
+

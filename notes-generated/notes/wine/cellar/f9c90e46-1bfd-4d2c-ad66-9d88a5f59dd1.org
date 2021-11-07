@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f9c90e46-1bfd-4d2c-ad66-9d88a5f59dd1
+:END:
+#+TITLE: Yjfq Cdqs 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Cdqs
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 11.69
+- price :: 3.95 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:35f3b28b-b8cc-4b2c-b134-0e4778c2ffa2][Yjfq Cdqs NV - 2022-6-16]]
+
+

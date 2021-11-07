@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     490603fe-9337-47e6-b28b-2db5dbbf88fe
+:END:
+#+TITLE: Cowhhax Upmqcgn Tfivtul Dod 1924 - 2010-2-19
+
+- wine :: [[id:d4cea852-b609-4bf2-acbd-75bacaaf1097][Cowhhax Upmqcgn Tfivtul Dod 1924]]
+- date :: 2010-2-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0
+
+

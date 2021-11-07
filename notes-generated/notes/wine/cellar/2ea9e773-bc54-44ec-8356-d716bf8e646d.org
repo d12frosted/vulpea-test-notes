@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     2ea9e773-bc54-44ec-8356-d716bf8e646d
+:END:
+#+TITLE: Jjkswvm Rcm Gia 2012
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Gia
+- vintage :: 2012
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 13.46
+- sugar :: 13.95
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 8.5
+- ratings :: [[id:6082cbfd-7abb-4efc-b532-21466c3d2476][Jjkswvm Rcm Gia 2012 - 2002-10-4]]
+
+

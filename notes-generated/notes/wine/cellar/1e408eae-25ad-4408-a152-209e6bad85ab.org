@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     1e408eae-25ad-4408-a152-209e6bad85ab
+:END:
+#+TITLE: Jjkswvm Rcm Lxy Lwlcbv 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Lxy Lwlcbv
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 11.58
+- price :: 7.82 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 7.5
+- ratings :: [[id:d5937a1c-b51d-4dbe-be19-37d8b37a5a5a][Jjkswvm Rcm Lxy Lwlcbv NV - 2007-1-1]]
+
+

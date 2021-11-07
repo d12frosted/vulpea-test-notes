@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c9b4e851-8047-4ffa-a6a7-49b262a3bacf
+:END:
+#+TITLE: Cowhhax Upmqcgn Yymhzn 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Yymhzn
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 10.11
+- sugar :: 5.81
+- price :: 87.53 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: wikipedia
+- rating :: NA
+
+

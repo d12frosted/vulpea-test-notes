@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     de74dfa1-cdbe-4b86-8089-98517100635a
+:END:
+#+TITLE: Scf Elpezclx Nwoh 2000 - 1998-5-11
+
+- wine :: [[id:2c27699a-2921-45a9-8f74-51cd1e7d9218][Scf Elpezclx Nwoh 2000]]
+- date :: 1998-5-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

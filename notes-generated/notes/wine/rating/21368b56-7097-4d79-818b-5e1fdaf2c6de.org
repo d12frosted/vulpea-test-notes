@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     21368b56-7097-4d79-818b-5e1fdaf2c6de
+:END:
+#+TITLE: Cowhhax Upmqcgn Wrreren 1919 - 2015-9-20
+
+- wine :: [[id:f90fde35-9f73-4e84-bec1-6fb8e5aef605][Cowhhax Upmqcgn Wrreren 1919]]
+- date :: 2015-9-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

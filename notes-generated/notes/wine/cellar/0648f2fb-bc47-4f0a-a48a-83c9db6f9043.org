@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0648f2fb-bc47-4f0a-a48a-83c9db6f9043
+:END:
+#+TITLE: Qay Wblv 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Wblv
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 10.94
+- sugar :: 0.29
+- price :: 66.53 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 7.0
+- ratings :: [[id:81c14fec-f39e-42f2-b3b3-7b4089ef9042][Qay Wblv NV - 2016-1-26]]
+
+

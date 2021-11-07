@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     77233c99-3a60-463e-a937-7502dbcf8107
+:END:
+#+TITLE: Lrwk Jbaxrmn Vdoihto 1989
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Vdoihto
+- vintage :: 1989
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.97
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: 3.5
+- ratings :: [[id:3176d376-47fc-481b-bec8-37c1e6fdf92d][Lrwk Jbaxrmn Vdoihto 1989 - 2012-12-15]]
+
+

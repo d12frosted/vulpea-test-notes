@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     170b0364-2b72-4e42-8cdf-57eba7f7446b
+:END:
+#+TITLE: Yjfq Akbxonx 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Akbxonx
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 10.04
+- price :: 52.88 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 8.5
+- ratings :: [[id:46662f76-51f5-43db-bde0-c6ac48408a0f][Yjfq Akbxonx NV - 2011-8-2]]
+
+

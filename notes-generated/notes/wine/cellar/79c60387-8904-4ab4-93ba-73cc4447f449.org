@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     79c60387-8904-4ab4-93ba-73cc4447f449
+:END:
+#+TITLE: Ecxknc Iepvhans Dlpk Mrnfftzo 1917
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Dlpk Mrnfftzo
+- vintage :: 1917
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 11.52
+- sugar :: 20.94
+- price :: 86.31 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:02d01217-05ec-4550-8a1d-846128bf2d2f][Ecxknc Iepvhans Dlpk Mrnfftzo 1917 - 1991-10-10]]
+
+

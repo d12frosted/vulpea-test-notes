@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3487a7ef-39a2-42d2-befa-91f7e0ed1e11
+:END:
+#+TITLE: Cowhhax Upmqcgn Nvhxyhdt Jboume 1900 - 1995-11-24
+
+- wine :: [[id:e215a242-ed4c-46b8-b4d6-53f7a1d258e3][Cowhhax Upmqcgn Nvhxyhdt Jboume 1900]]
+- date :: 1995-11-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

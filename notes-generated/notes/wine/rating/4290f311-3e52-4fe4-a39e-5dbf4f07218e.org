@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4290f311-3e52-4fe4-a39e-5dbf4f07218e
+:END:
+#+TITLE: Yokf Gwhwycw Ocu Umg 1925 - 2022-12-24
+
+- wine :: [[id:ec6ec35b-da27-48b4-a7c3-ac0a93a662e7][Yokf Gwhwycw Ocu Umg 1925]]
+- date :: 2022-12-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

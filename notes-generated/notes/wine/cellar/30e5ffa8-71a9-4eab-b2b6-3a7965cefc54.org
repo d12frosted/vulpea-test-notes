@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     30e5ffa8-71a9-4eab-b2b6-3a7965cefc54
+:END:
+#+TITLE: Qay Jpfoup Vsqgp 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Jpfoup Vsqgp
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.6
+- sugar :: 13.24
+- price :: 41.46 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:b73f68d0-d892-418f-b0ef-ea1bcdbdbe51][Qay Jpfoup Vsqgp NV - 1990-1-16]]
+
+

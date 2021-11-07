@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e2fa871c-cec6-417a-aa88-a8c34fdc16c0
+:END:
+#+TITLE: Scf Elpezclx Nff 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Nff
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 13.879999999999999
+- sugar :: 17.12
+- price :: 50.19 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: NA
+
+

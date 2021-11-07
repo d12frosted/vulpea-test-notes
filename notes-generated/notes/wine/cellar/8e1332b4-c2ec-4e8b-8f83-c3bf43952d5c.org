@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8e1332b4-c2ec-4e8b-8f83-c3bf43952d5c
+:END:
+#+TITLE: Yjfq Simy 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Simy
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 11.82
+- price :: 10.72 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

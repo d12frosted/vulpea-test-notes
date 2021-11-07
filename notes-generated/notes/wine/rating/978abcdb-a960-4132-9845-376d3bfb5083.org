@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     978abcdb-a960-4132-9845-376d3bfb5083
+:END:
+#+TITLE: Lrwk Jbaxrmn Uqiio NV - 2018-6-2
+
+- wine :: [[id:65624ee0-2c69-4632-9066-449c0fa677e8][Lrwk Jbaxrmn Uqiio]]
+- date :: 2018-6-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

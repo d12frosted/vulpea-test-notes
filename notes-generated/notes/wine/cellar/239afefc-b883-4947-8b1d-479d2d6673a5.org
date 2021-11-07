@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     239afefc-b883-4947-8b1d-479d2d6673a5
+:END:
+#+TITLE: Yjfq Wnufaqzs 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Wnufaqzs
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 10.26
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 6.0
+- ratings :: [[id:1b767a6a-10c6-44bb-b7ca-9dc49571eebd][Yjfq Wnufaqzs NV - 2007-3-25]]
+
+

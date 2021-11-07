@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2f343ee5-8766-4427-9a70-f99df2e22861
+:END:
+#+TITLE: Cowhhax Upmqcgn Pyjmwth 1922 - 1995-6-2
+
+- wine :: [[id:4079da17-e3d2-4a8f-8737-8a8720376f2b][Cowhhax Upmqcgn Pyjmwth 1922]]
+- date :: 1995-6-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

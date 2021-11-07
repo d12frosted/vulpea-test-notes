@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     13083694-8d44-47cf-8928-0fb26430bd84
+:END:
+#+TITLE: Scf Elpezclx Qfxp 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Qfxp
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.66
+- sugar :: 0.4
+- price :: 15.04 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:274b8d1b-d01e-4dad-9123-5d68ce85c0b7][Scf Elpezclx Qfxp NV - 2008-9-15]]
+
+

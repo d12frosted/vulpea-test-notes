@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     379f294f-c7df-449f-81a4-82bff9f09c0d
+:END:
+#+TITLE: Lrwk Jbaxrmn Bfefy Fmpcc 1980
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Bfefy Fmpcc
+- vintage :: 1980
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 10.3
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA
+
+

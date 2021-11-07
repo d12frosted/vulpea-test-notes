@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     fe5c6ef7-ec70-4176-b9ab-b0a01e57be78
+:END:
+#+TITLE: Lrwk Jbaxrmn Otobh Vkd 1984
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Otobh Vkd
+- vintage :: 1984
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.64
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:fc2010d7-52d2-416b-9109-b1edd17ec952][Lrwk Jbaxrmn Otobh Vkd 1984 - 2017-9-26]]
+
+

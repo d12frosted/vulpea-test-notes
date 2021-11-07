@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a099267a-ef60-47d2-a5f6-d1ab8f9e9cb1
+:END:
+#+TITLE: Yokf Gwhwycw Eywaz 1971 - 1996-2-26
+
+- wine :: [[id:e7c16c87-b5ae-4600-95a3-3721af80c218][Yokf Gwhwycw Eywaz 1971]]
+- date :: 1996-2-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

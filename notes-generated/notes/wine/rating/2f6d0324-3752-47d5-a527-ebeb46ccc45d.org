@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2f6d0324-3752-47d5-a527-ebeb46ccc45d
+:END:
+#+TITLE: Scf Elpezclx Hggomo 1992 - 2004-5-24
+
+- wine :: [[id:02cf2e66-1352-4192-ba57-42a25860775f][Scf Elpezclx Hggomo 1992]]
+- date :: 2004-5-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     275a7bf1-409c-412f-974c-80851e009000
+:END:
+#+TITLE: Qay Htwzhae NV - 2008-6-23
+
+- wine :: [[id:7e840907-b947-493a-a0ab-9ba173029bb7][Qay Htwzhae]]
+- date :: 2008-6-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

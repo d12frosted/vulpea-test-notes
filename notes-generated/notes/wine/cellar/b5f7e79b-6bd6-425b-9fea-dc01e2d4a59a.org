@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     b5f7e79b-6bd6-425b-9fea-dc01e2d4a59a
+:END:
+#+TITLE: Scf Elpezclx Qvwojs 2015
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Qvwojs
+- vintage :: 2015
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 10.74
+- sugar :: 17.52
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:437d6b6c-cfe2-469e-b5b5-2fa617527571][Scf Elpezclx Qvwojs 2015 - 1990-2-18]]
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     73bedb28-e130-4663-92e3-868c75589575
+:END:
+#+TITLE: Yjfq Hzoianw Aatch 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Hzoianw Aatch
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 13.2
+- sugar :: 23.6
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:da69b549-348a-41ba-954f-62f4283557ef][Yjfq Hzoianw Aatch NV - 1992-4-9]]
+
+

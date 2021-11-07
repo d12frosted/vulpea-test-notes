@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b71cc3b6-802c-4f3e-8eeb-4900824babd0
+:END:
+#+TITLE: Yjfq Ulgeel 1924
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ulgeel
+- vintage :: 1924
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 12.58
+- sugar :: 10.49
+- price :: 40.72 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

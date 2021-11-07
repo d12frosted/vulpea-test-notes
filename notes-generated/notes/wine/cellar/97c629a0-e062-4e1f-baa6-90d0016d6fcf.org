@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     97c629a0-e062-4e1f-baa6-90d0016d6fcf
+:END:
+#+TITLE: Yokf Gwhwycw Gqtie Kinz 1940
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Gqtie Kinz
+- vintage :: 1940
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.19
+- sugar :: 20.56
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA
+
+

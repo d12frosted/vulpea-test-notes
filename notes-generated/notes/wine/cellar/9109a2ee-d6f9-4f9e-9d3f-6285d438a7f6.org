@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     9109a2ee-d6f9-4f9e-9d3f-6285d438a7f6
+:END:
+#+TITLE: Lrwk Jbaxrmn Uvz 1983
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Uvz
+- vintage :: 1983
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 13.9
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA
+
+

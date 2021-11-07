@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d3295988-26ec-4dfe-99cb-5b73d4b1a33b
+:END:
+#+TITLE: Nhozxqe Aldl Lxjiarem Qlu 1963 - 2004-6-17
+
+- wine :: [[id:b91e3dab-21ff-4626-8f30-9abeeb1d9f5c][Nhozxqe Aldl Lxjiarem Qlu 1963]]
+- date :: 2004-6-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

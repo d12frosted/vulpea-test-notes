@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c25067f5-a396-4a22-be42-e03bc0c02597
+:END:
+#+TITLE: Ecxknc Iepvhans Pff Hpsnwkug 1968
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Pff Hpsnwkug
+- vintage :: 1968
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 11.91
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.0
+- ratings :: [[id:3396e9cb-eedb-46d1-8975-4069371d504d][Ecxknc Iepvhans Pff Hpsnwkug 1968 - 2021-5-13]]
+
+

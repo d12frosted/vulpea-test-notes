@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     0bfec924-d615-4861-aa24-6c37e95bd848
+:END:
+#+TITLE: Qay Jnsbupa 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Jnsbupa
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- alcohol :: 13.7
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 3.5
+- ratings :: [[id:da6e96c4-ff5e-4753-bf7a-4111b764557d][Qay Jnsbupa NV - 2014-10-27]]
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     b290eb82-806f-4f69-b591-5143a175ff83
+:END:
+#+TITLE: Yokf Gwhwycw Tqkyspo 1985
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Tqkyspo
+- vintage :: 1985
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.9
+- price :: 40.93 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 8.5
+- ratings :: [[id:8af171b3-133b-4419-a33b-3e43bcbbd5c5][Yokf Gwhwycw Tqkyspo 1985 - 2017-9-9]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8e3228a5-2f63-469d-ac78-713fd65f5b1f
+:END:
+#+TITLE: Giih Udr Mfqvsxe 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Mfqvsxe
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.64
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.5
+- ratings :: [[id:acb6d930-687d-467e-b050-a57f2b6b7287][Giih Udr Mfqvsxe NV - 2015-5-9]]
+
+

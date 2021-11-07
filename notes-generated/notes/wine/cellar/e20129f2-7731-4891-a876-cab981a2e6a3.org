@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e20129f2-7731-4891-a876-cab981a2e6a3
+:END:
+#+TITLE: Lrwk Jbaxrmn Jagod 2017
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Jagod
+- vintage :: 2017
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 11.07
+- sugar :: 20.74
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

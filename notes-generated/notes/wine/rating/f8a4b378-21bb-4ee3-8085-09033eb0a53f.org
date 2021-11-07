@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f8a4b378-21bb-4ee3-8085-09033eb0a53f
+:END:
+#+TITLE: Yjfq Egdxv NV - 1991-12-1
+
+- wine :: [[id:457d8195-6ad7-457b-aa05-89e5a910344b][Yjfq Egdxv]]
+- date :: 1991-12-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

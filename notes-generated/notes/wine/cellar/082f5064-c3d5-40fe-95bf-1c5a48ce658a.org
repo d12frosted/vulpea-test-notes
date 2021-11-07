@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     082f5064-c3d5-40fe-95bf-1c5a48ce658a
+:END:
+#+TITLE: Qay Afvvmh 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Afvvmh
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 12.27
+- sugar :: 13.18
+- price :: 20.39 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:1cf6615d-923c-4f5c-aa47-0c20a1f3adb4][Qay Afvvmh NV - 2002-3-6]]
+
+

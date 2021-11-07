@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     36a8f65f-aeb5-4604-841f-a8f8f95c6421
+:END:
+#+TITLE: Qay Bbfprz 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Bbfprz
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.44
+- sugar :: 22.07
+- price :: 44.60 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 1.0
+- ratings :: [[id:878c9a7e-7a20-45e7-a238-0bb35fd24ece][Qay Bbfprz NV - 1993-2-28]]
+
+

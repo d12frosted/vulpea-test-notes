@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b86512a9-5568-49cc-9a3e-0b5f1027ff1d
+:END:
+#+TITLE: Yjfq Dazo 1910 - 1997-2-15
+
+- wine :: [[id:2f590323-1825-463d-8b3e-007b241055a1][Yjfq Dazo 1910]]
+- date :: 1997-2-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

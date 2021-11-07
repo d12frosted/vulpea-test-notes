@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a0d95943-b61d-48c5-a0f6-923334bb83e5
+:END:
+#+TITLE: Lrwk Jbaxrmn Ahq Oaqxt 1958 - 2012-8-17
+
+- wine :: [[id:81241595-6874-4ba7-8c35-777881e1a8e1][Lrwk Jbaxrmn Ahq Oaqxt 1958]]
+- date :: 2012-8-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

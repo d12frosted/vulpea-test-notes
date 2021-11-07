@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5442231f-fa63-40a7-a46d-e2665ab5728b
+:END:
+#+TITLE: Lrwk Jbaxrmn Uyoa 2006
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Uyoa
+- vintage :: 2006
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.86
+- sugar :: 12.79
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:7354c3d3-fed6-4810-b184-31141568fed1][Lrwk Jbaxrmn Uyoa 2006 - 1998-3-27]]
+
+

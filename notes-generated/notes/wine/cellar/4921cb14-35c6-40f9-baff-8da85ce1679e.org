@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4921cb14-35c6-40f9-baff-8da85ce1679e
+:END:
+#+TITLE: Scf Elpezclx Gvgtly 1992
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Gvgtly
+- vintage :: 1992
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 13.46
+- price :: 23.67 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:339aecdc-5343-4917-a956-667b2b88906a][Scf Elpezclx Gvgtly 1992 - 2003-5-13]]
+
+

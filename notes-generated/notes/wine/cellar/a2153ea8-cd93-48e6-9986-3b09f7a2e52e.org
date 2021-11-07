@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a2153ea8-cd93-48e6-9986-3b09f7a2e52e
+:END:
+#+TITLE: Scf Elpezclx Uca Coc 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Uca Coc
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 12.74
+- price :: 16.50 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.5
+- ratings :: [[id:3bd9aac1-a868-46fa-b248-139f19d70c31][Scf Elpezclx Uca Coc NV - 2003-1-18]]
+
+

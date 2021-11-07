@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6e9f5b8d-cf9b-4de0-8916-161e3cd6348e
+:END:
+#+TITLE: Yokf Gwhwycw Yuwzl Gxwgg 1985 - 2017-6-18
+
+- wine :: [[id:eb8e257d-0d90-4133-bdd6-bc6f09fe4e57][Yokf Gwhwycw Yuwzl Gxwgg 1985]]
+- date :: 2017-6-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

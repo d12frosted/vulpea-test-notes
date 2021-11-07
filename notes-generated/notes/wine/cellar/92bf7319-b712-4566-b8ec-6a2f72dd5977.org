@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     92bf7319-b712-4566-b8ec-6a2f72dd5977
+:END:
+#+TITLE: Cowhhax Upmqcgn Rsajmc Llapep 1981
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Rsajmc Llapep
+- vintage :: 1981
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 10.31
+- sugar :: 23.07
+- price :: 40.82 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 3.5
+- ratings :: [[id:a04dac2e-e84a-454b-a2b3-ac61e92a96f9][Cowhhax Upmqcgn Rsajmc Llapep 1981 - 1999-7-26]]
+
+

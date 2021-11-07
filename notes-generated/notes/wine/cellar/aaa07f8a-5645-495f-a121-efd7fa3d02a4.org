@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     aaa07f8a-5645-495f-a121-efd7fa3d02a4
+:END:
+#+TITLE: Yokf Gwhwycw Kbiaaspp Bhojqsyu 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Kbiaaspp Bhojqsyu
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.33
+- price :: 71.68 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA
+
+

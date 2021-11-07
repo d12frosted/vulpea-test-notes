@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c4b3642c-f328-4d4a-8efc-9c77323986ad
+:END:
+#+TITLE: Scf Elpezclx Xfrcfsdc NV - 2005-4-20
+
+- wine :: [[id:5ec24a14-8528-400d-84c6-3e5fd9ea5713][Scf Elpezclx Xfrcfsdc]]
+- date :: 2005-4-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

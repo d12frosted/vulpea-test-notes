@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ff8ce123-444e-4b4a-bf3c-b5d670274f25
+:END:
+#+TITLE: Cowhhax Upmqcgn Jdepizjj Rosp 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Jdepizjj Rosp
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.79
+- sugar :: 22.11
+- price :: 35.79 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.0
+- ratings :: [[id:6e7e147c-fdf3-49fc-a997-8a5b28d674ca][Cowhhax Upmqcgn Jdepizjj Rosp NV - 1998-9-24]]
+
+

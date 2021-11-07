@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     530e5c64-f8be-4af3-87a0-db7eeaf4c4a1
+:END:
+#+TITLE: Yjfq Drurtgu Kalwx 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Drurtgu Kalwx
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 10.14
+- sugar :: 16.02
+- price :: 88.09 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA
+
+

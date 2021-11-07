@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4211c43c-d983-4426-b951-a3c6d60c9d24
+:END:
+#+TITLE: Giih Udr Alweq NV - 1996-3-8
+
+- wine :: [[id:da32ac34-ceb1-46e1-8e53-6e30f411ac67][Giih Udr Alweq]]
+- date :: 1996-3-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

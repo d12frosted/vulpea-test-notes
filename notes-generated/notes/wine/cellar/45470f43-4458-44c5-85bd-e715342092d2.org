@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     45470f43-4458-44c5-85bd-e715342092d2
+:END:
+#+TITLE: Jjkswvm Rcm Uamcpqc 1996
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Uamcpqc
+- vintage :: 1996
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 12.67
+- sugar :: 21.23
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

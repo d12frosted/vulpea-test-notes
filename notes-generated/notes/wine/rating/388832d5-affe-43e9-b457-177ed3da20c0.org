@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     388832d5-affe-43e9-b457-177ed3da20c0
+:END:
+#+TITLE: Cowhhax Upmqcgn Aeif NV - 2005-10-2
+
+- wine :: [[id:cb8a6665-b293-4b18-adb9-6f8978034088][Cowhhax Upmqcgn Aeif]]
+- date :: 2005-10-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

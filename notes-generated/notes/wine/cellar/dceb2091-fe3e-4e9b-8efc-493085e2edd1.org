@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     dceb2091-fe3e-4e9b-8efc-493085e2edd1
+:END:
+#+TITLE: Lrwk Jbaxrmn Csnkcu Reknc 1909
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Csnkcu Reknc
+- vintage :: 1909
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 11.33
+- price :: 81.10 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

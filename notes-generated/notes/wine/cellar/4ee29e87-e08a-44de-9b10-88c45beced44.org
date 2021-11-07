@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4ee29e87-e08a-44de-9b10-88c45beced44
+:END:
+#+TITLE: Scf Elpezclx Alaf 1943
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Alaf
+- vintage :: 1943
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.47
+- price :: 88.94 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:8494a7a4-f7f3-4a9e-8764-7e7944125474][Scf Elpezclx Alaf 1943 - 2005-1-10]]
+
+

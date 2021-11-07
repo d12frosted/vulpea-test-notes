@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b1f7298b-ccff-4f77-86d1-375d745165de
+:END:
+#+TITLE: Scf Elpezclx Xnrtfe Ybp NV - 2024-11-14
+
+- wine :: [[id:4ddda95b-16f5-46f9-9555-7a8176a181f5][Scf Elpezclx Xnrtfe Ybp]]
+- date :: 2024-11-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

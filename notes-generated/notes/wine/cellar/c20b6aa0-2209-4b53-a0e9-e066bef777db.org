@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     c20b6aa0-2209-4b53-a0e9-e066bef777db
+:END:
+#+TITLE: Yjfq Kblckje 1920
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Kblckje
+- vintage :: 1920
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 9.84
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA
+
+

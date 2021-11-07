@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c5640dcc-2b74-4581-ae1d-c2c6f0f941ad
+:END:
+#+TITLE: Lrwk Jbaxrmn Bxras Npe NV - 2015-5-4
+
+- wine :: [[id:2f53aa61-543e-4cde-baea-641af99d6781][Lrwk Jbaxrmn Bxras Npe]]
+- date :: 2015-5-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c322efe7-d7bd-4b25-b17c-1171e0d7c530
+:END:
+#+TITLE: Yjfq Nkhry Iugfjbg 1904
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Nkhry Iugfjbg
+- vintage :: 1904
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 11.28
+- sugar :: 0.1
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:3ca1fc5e-4ac0-4c8e-9fed-a8957175b637][Yjfq Nkhry Iugfjbg 1904 - 2020-2-7]]
+
+

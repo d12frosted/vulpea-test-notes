@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     bcc2240d-5d1a-4d4e-a596-08d62a773fac
+:END:
+#+TITLE: Scf Elpezclx Psglab 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Psglab
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 11.01
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 6.5
+- ratings :: [[id:5a4feb94-9bfe-4e22-bbd1-d11ded60fb45][Scf Elpezclx Psglab NV - 2006-2-17]]
+
+

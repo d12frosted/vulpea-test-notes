@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     898c92fa-5afc-4efe-8213-9fa5cff6df07
+:END:
+#+TITLE: Jjkswvm Rcm Ceu Wmbgyfcn 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ceu Wmbgyfcn
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.34
+- sugar :: 18.08
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA
+
+

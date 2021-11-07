@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     a61b8b1f-43b4-482c-a47b-632ecbee9de8
+:END:
+#+TITLE: Giih Udr Ycwdmome Kkifxaq 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ycwdmome Kkifxaq
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 11.92
+- sugar :: 10.04
+- price :: 32.06 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:5722b878-5fb3-4e4f-b228-7fd7de2b3fb1][Giih Udr Ycwdmome Kkifxaq NV - 2020-10-25]]
+
+

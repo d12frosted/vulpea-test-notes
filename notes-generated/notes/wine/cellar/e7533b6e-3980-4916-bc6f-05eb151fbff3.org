@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e7533b6e-3980-4916-bc6f-05eb151fbff3
+:END:
+#+TITLE: Nhozxqe Aldl Tgstkb Dwpgre 1976
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Tgstkb Dwpgre
+- vintage :: 1976
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:3e7e650d-931b-4d4e-9f3d-16d1e2f078c9][Bpoc]]
+- alcohol :: 10.58
+- sugar :: 15.1
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:3cb10935-e645-4ea0-8df4-0aaded7cd9bc][Nhozxqe Aldl Tgstkb Dwpgre 1976 - 2002-12-16]]
+
+

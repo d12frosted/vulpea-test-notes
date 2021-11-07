@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6865a230-4ab7-40e9-a1d8-fa43e7f50de8
+:END:
+#+TITLE: Yjfq Idlsvnx Bxniura 1934
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Idlsvnx Bxniura
+- vintage :: 1934
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.23
+- price :: 13.65 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA
+
+

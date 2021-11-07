@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     26aaea28-8760-49f5-aaea-583ddfeddc12
+:END:
+#+TITLE: Nhozxqe Aldl Cswm Xgg 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Cswm Xgg
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 10.879999999999999
+- sugar :: 3.16
+- price :: 27.16 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:60b04b1a-a523-4f2c-8e5b-9c67192ccbff][Nhozxqe Aldl Cswm Xgg NV - 2005-10-24]]
+
+

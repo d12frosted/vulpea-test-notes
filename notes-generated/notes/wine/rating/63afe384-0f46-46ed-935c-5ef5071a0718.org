@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     63afe384-0f46-46ed-935c-5ef5071a0718
+:END:
+#+TITLE: Cowhhax Upmqcgn Fmser NV - 2019-10-23
+
+- wine :: [[id:616d786b-d18c-4679-a656-0436650c9889][Cowhhax Upmqcgn Fmser]]
+- date :: 2019-10-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

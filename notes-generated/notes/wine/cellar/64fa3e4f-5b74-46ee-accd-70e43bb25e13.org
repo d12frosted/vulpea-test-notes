@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     64fa3e4f-5b74-46ee-accd-70e43bb25e13
+:END:
+#+TITLE: Jjkswvm Rcm Mwsitjm Luzweqj 2012
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Mwsitjm Luzweqj
+- vintage :: 2012
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 9.58
+- price :: 11.40 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.5
+- ratings :: [[id:4b876029-86eb-4cc9-8df7-4c28ced4933a][Jjkswvm Rcm Mwsitjm Luzweqj 2012 - 2004-7-12]]
+
+

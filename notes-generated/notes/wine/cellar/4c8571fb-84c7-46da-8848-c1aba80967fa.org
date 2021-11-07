@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4c8571fb-84c7-46da-8848-c1aba80967fa
+:END:
+#+TITLE: Scf Elpezclx Oayvh Dlpjl 1944
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Oayvh Dlpjl
+- vintage :: 1944
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.76
+- price :: 75.48 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

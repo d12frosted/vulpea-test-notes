@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6a19538b-d0a0-4fcf-8df2-8be036260629
+:END:
+#+TITLE: Jjkswvm Rcm Imgfqdy Oarjoyb 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Imgfqdy Oarjoyb
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.51
+- sugar :: 12.69
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:fef40969-f599-4f0d-a6e4-a224190a4802][Jjkswvm Rcm Imgfqdy Oarjoyb NV - 1994-2-2]]
+
+

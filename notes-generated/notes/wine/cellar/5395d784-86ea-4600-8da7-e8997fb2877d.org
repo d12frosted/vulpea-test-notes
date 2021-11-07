@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     5395d784-86ea-4600-8da7-e8997fb2877d
+:END:
+#+TITLE: Scf Elpezclx Fdrkak Jum 1923
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Fdrkak Jum
+- vintage :: 1923
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 11.86
+- sugar :: 9.44
+- price :: 102.80 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:c679c38b-f84b-48ec-9440-ace51edb25a8][Scf Elpezclx Fdrkak Jum 1923 - 2013-4-1]]
+
+

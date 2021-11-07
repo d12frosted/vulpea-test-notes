@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1625aa94-7383-4bdc-9bb1-3ce0e7b8720b
+:END:
+#+TITLE: Qay Lgki Jrq 1909
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Lgki Jrq
+- vintage :: 1909
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 13.4
+- sugar :: 13.56
+- price :: 90.62 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA
+
+

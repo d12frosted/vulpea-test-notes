@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9f765398-2d84-42c0-a4b1-fa99fd0cd85e
+:END:
+#+TITLE: Jjkswvm Rcm Kxdfleo 1998
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Kxdfleo
+- vintage :: 1998
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 10.43
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.5
+- ratings :: [[id:92450f01-9bf0-4725-b31e-c1bf1d4dc9da][Jjkswvm Rcm Kxdfleo 1998 - 2022-6-1]]
+
+

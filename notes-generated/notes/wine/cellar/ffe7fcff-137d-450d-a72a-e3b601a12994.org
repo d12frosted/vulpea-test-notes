@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ffe7fcff-137d-450d-a72a-e3b601a12994
+:END:
+#+TITLE: Scf Elpezclx Xqf Udmlrzz 1902
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Xqf Udmlrzz
+- vintage :: 1902
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 10.46
+- sugar :: 18.36
+- price :: 39.76 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c57dbf7d-a631-477d-9f6d-22644874e103
+:END:
+#+TITLE: Qay Naq NV - 2015-1-19
+
+- wine :: [[id:119253d8-2f67-48ec-bc69-d773731b6cb7][Qay Naq]]
+- date :: 2015-1-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

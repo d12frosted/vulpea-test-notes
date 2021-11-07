@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     6aa3d9c2-0585-4dd1-b15f-b50e7d421e77
+:END:
+#+TITLE: Ecxknc Iepvhans Bxjgfb Uffujsrr 1964
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Bxjgfb Uffujsrr
+- vintage :: 1964
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 11.76
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA
+
+

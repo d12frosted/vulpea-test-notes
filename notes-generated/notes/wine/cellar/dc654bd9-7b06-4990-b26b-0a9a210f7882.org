@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     dc654bd9-7b06-4990-b26b-0a9a210f7882
+:END:
+#+TITLE: Ecxknc Iepvhans Zswmf 1979
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Zswmf
+- vintage :: 1979
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 10.34
+- sugar :: 22.46
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

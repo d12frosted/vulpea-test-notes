@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5949167d-0527-4734-98f2-e55c2204d321
+:END:
+#+TITLE: Lrwk Jbaxrmn Xsezdu Yicetpiy 1970 - 2002-1-25
+
+- wine :: [[id:75cf08e7-bbb1-454f-90a2-51b00dc45fbc][Lrwk Jbaxrmn Xsezdu Yicetpiy 1970]]
+- date :: 2002-1-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

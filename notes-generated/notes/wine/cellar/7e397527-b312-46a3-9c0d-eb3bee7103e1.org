@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7e397527-b312-46a3-9c0d-eb3bee7103e1
+:END:
+#+TITLE: Qay Btjnpni 1992
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Btjnpni
+- vintage :: 1992
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.74
+- price :: 9.71 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA
+
+

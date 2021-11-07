@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     f753787f-8873-4001-b6e8-bf84914de73b
+:END:
+#+TITLE: Scf Elpezclx Xqzbpr 2003
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Xqzbpr
+- vintage :: 2003
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.23
+- sugar :: 8.24
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: duckduckgo
+- rating :: 1.5
+- ratings :: [[id:134eee62-7982-46bd-9884-5290f2b609a1][Scf Elpezclx Xqzbpr 2003 - 2013-3-15]]
+
+

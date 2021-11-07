@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     faf5cf0f-a0bb-4431-a7ed-959977dd0ee4
+:END:
+#+TITLE: Ecxknc Iepvhans Jcnv Gvsfw 2020 - 2009-7-21
+
+- wine :: [[id:657ec790-28dc-4c22-bda4-246ae7a10c0b][Ecxknc Iepvhans Jcnv Gvsfw 2020]]
+- date :: 2009-7-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

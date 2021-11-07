@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ef98f4ec-3305-4b83-b693-82d3b3f5d203
+:END:
+#+TITLE: Jjkswvm Rcm Geexy NV - 2016-9-3
+
+- wine :: [[id:451a10b1-13b8-4969-8bfa-41b906486f26][Jjkswvm Rcm Geexy]]
+- date :: 2016-9-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     a613dd88-41b3-4d7e-84b6-9606a4a2b4db
+:END:
+#+TITLE: Jjkswvm Rcm Hgu Tftcwwwa 1988
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Hgu Tftcwwwa
+- vintage :: 1988
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 13.809999999999999
+- sugar :: 22.8
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:69d4c464-9363-4dc6-b224-d4b30b22eb94][Jjkswvm Rcm Hgu Tftcwwwa 1988 - 2021-5-10]]
+
+

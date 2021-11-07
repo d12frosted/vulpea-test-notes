@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     37445c77-207c-4543-994b-218dc6becf0e
+:END:
+#+TITLE: Nhozxqe Aldl Pae 1959
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Pae
+- vintage :: 1959
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.95
+- sugar :: 1.86
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 5.5
+- ratings :: [[id:cfcc150b-4926-48d6-b018-a0b1fc540d46][Nhozxqe Aldl Pae 1959 - 2004-9-7]]
+
+

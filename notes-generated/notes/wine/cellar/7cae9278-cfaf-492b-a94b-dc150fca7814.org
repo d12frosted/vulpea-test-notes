@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7cae9278-cfaf-492b-a94b-dc150fca7814
+:END:
+#+TITLE: Qay Qvskfsfc Ixe 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Qvskfsfc Ixe
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 13.83
+- sugar :: 8.2
+- price :: 88.41 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     bd8c9d11-12c7-4ba4-8ecd-0d1d1a2043ce
+:END:
+#+TITLE: Nhozxqe Aldl Myxaigj Zkw 1996 - 1998-9-8
+
+- wine :: [[id:a1252a2e-f93a-49a8-8009-1a296af55a4e][Nhozxqe Aldl Myxaigj Zkw 1996]]
+- date :: 1998-9-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

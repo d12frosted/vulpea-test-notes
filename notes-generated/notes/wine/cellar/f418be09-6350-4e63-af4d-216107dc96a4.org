@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f418be09-6350-4e63-af4d-216107dc96a4
+:END:
+#+TITLE: Scf Elpezclx Tgjgeout 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Tgjgeout
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 9.61
+- sugar :: 8.8
+- price :: 51.36 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:c20b0244-2ca4-4139-96c4-6eec84eb6515][Scf Elpezclx Tgjgeout NV - 2018-2-10]]
+
+

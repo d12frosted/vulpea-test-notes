@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f2e26726-02d7-4500-9954-f1883db5ce98
+:END:
+#+TITLE: Ecxknc Iepvhans Ahndryg 2002 - 2006-6-20
+
+- wine :: [[id:289a17a7-9252-4ac9-b512-9bd548969a06][Ecxknc Iepvhans Ahndryg 2002]]
+- date :: 2006-6-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

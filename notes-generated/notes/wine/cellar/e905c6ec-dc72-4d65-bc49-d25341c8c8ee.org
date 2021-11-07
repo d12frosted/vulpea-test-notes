@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e905c6ec-dc72-4d65-bc49-d25341c8c8ee
+:END:
+#+TITLE: Yokf Gwhwycw Uqfun Uyfcnikf 1947
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Uqfun Uyfcnikf
+- vintage :: 1947
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 10.11
+- price :: 68.90 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

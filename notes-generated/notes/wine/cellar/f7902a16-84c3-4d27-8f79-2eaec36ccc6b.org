@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f7902a16-84c3-4d27-8f79-2eaec36ccc6b
+:END:
+#+TITLE: Ecxknc Iepvhans Ydguk Arpzesk 2000
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Ydguk Arpzesk
+- vintage :: 2000
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- alcohol :: 13.719999999999999
+- sugar :: 13.07
+- price :: 82.72 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 7.0
+- ratings :: [[id:b05643c5-b3f9-4c5a-9d80-fa5ee70f8674][Ecxknc Iepvhans Ydguk Arpzesk 2000 - 1994-3-1]]
+
+

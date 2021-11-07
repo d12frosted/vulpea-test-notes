@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     0f9a3ca3-75ab-45d0-8544-897c8df96a23
+:END:
+#+TITLE: Nhozxqe Aldl Qtkw NV - 2008-8-15
+
+- wine :: [[id:9b49b4f4-d5c6-4a34-9c51-798504e46080][Nhozxqe Aldl Qtkw]]
+- date :: 2008-8-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

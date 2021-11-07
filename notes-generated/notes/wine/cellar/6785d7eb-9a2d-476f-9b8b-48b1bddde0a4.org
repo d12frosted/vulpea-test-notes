@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6785d7eb-9a2d-476f-9b8b-48b1bddde0a4
+:END:
+#+TITLE: Ecxknc Iepvhans Srzfuhno Vrrqrmo 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Srzfuhno Vrrqrmo
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.59
+- sugar :: 11.57
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA
+
+

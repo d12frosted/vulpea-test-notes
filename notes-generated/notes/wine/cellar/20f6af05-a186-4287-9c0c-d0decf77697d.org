@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     20f6af05-a186-4287-9c0c-d0decf77697d
+:END:
+#+TITLE: Nhozxqe Aldl Vte 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Vte
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 13.25
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.0
+- ratings :: [[id:49a4c26d-ecde-4de9-b735-a0a4ded207b8][Nhozxqe Aldl Vte NV - 1993-6-5]]
+
+

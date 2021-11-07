@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     60a48025-8b53-4d91-9cba-454d9af39f09
+:END:
+#+TITLE: Ecxknc Iepvhans Bpuhfg 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Bpuhfg
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 10.99
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 7.5
+- ratings :: [[id:26e73353-8805-4d9e-9938-a92e512d9138][Ecxknc Iepvhans Bpuhfg NV - 2019-8-19]]
+
+

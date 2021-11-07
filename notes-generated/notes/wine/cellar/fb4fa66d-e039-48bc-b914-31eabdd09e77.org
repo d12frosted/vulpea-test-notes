@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     fb4fa66d-e039-48bc-b914-31eabdd09e77
+:END:
+#+TITLE: Qay Aypoqbg 2013
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Aypoqbg
+- vintage :: 2013
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 11.71
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:1c82c335-ae3c-4e1e-8fc1-28000f996a6d][Qay Aypoqbg 2013 - 2024-8-16]]
+
+

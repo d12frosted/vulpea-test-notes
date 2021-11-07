@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     23288a92-6a19-460c-ab71-9ddc0c621de7
+:END:
+#+TITLE: Giih Udr Zsirpr Faexc 1967 - 1997-5-16
+
+- wine :: [[id:8a9cf808-00af-4b89-a96e-7a888e7293c2][Giih Udr Zsirpr Faexc 1967]]
+- date :: 1997-5-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

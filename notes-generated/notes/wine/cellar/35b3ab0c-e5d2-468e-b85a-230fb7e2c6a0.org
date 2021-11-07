@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     35b3ab0c-e5d2-468e-b85a-230fb7e2c6a0
+:END:
+#+TITLE: Nhozxqe Aldl Har 1939
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Har
+- vintage :: 1939
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 12.06
+- sugar :: 20.05
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

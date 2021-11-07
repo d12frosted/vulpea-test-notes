@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     fe644365-4135-449f-85cf-02c5eabe4af9
+:END:
+#+TITLE: Giih Udr Tyd NV - 1994-2-12
+
+- wine :: [[id:31cd2ead-0d42-478d-b4f0-bea0c0164dea][Giih Udr Tyd]]
+- date :: 1994-2-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

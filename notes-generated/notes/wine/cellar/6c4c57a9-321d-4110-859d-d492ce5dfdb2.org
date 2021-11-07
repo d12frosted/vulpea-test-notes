@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6c4c57a9-321d-4110-859d-d492ce5dfdb2
+:END:
+#+TITLE: Nhozxqe Aldl Hwkjga Wbdo 1983
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hwkjga Wbdo
+- vintage :: 1983
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.65
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

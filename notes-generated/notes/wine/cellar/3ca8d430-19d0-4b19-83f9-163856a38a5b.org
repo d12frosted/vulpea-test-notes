@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     3ca8d430-19d0-4b19-83f9-163856a38a5b
+:END:
+#+TITLE: Cowhhax Upmqcgn Ycmqxzzm 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Ycmqxzzm
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 12.92
+- price :: 27.70 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA
+
+

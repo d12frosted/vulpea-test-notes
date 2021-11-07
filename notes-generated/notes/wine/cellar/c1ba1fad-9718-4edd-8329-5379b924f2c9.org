@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     c1ba1fad-9718-4edd-8329-5379b924f2c9
+:END:
+#+TITLE: Ecxknc Iepvhans Spghutc Mpjvfl 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Spghutc Mpjvfl
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 11.4
+- price :: 24.65 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA
+
+

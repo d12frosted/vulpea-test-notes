@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7369b4c3-f58e-4b4b-a0e1-9bd2fcaa1975
+:END:
+#+TITLE: Giih Udr Ctxs 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ctxs
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 13.059999999999999
+- sugar :: 20.51
+- price :: 73.30 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

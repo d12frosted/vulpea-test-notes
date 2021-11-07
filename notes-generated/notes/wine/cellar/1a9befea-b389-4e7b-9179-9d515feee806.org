@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     1a9befea-b389-4e7b-9179-9d515feee806
+:END:
+#+TITLE: Nhozxqe Aldl Shgg Reim 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Shgg Reim
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.15
+- price :: 78.97 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA
+
+

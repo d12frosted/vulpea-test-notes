@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e877a6f0-e9bc-45df-ab47-c1045fef77e8
+:END:
+#+TITLE: Nhozxqe Aldl Vxgvq Skltqrf NV - 1996-2-9
+
+- wine :: [[id:4b147524-e9c0-45af-a3dc-bfc5f337832f][Nhozxqe Aldl Vxgvq Skltqrf]]
+- date :: 1996-2-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

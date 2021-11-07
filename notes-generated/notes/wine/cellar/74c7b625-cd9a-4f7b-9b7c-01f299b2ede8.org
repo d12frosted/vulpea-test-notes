@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     74c7b625-cd9a-4f7b-9b7c-01f299b2ede8
+:END:
+#+TITLE: Scf Elpezclx Lxrqbi 1971
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Lxrqbi
+- vintage :: 1971
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.1
+- sugar :: 0.77
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:babe01a8-174d-405a-87b9-24d6fd494592][Scf Elpezclx Lxrqbi 1971 - 2008-9-9]]
+
+

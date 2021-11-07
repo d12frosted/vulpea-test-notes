@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5290e304-7f51-4ca7-8217-3be2248d5b8e
+:END:
+#+TITLE: Yokf Gwhwycw Tlftqp 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Tlftqp
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 11.04
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.5
+- ratings :: [[id:c50c1bed-083b-4e69-9513-fa2a7c85d1fd][Yokf Gwhwycw Tlftqp NV - 2009-6-6]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6082cbfd-7abb-4efc-b532-21466c3d2476
+:END:
+#+TITLE: Jjkswvm Rcm Gia 2012 - 2002-10-4
+
+- wine :: [[id:2ea9e773-bc54-44ec-8356-d716bf8e646d][Jjkswvm Rcm Gia 2012]]
+- date :: 2002-10-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

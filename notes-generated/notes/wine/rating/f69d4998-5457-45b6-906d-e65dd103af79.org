@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f69d4998-5457-45b6-906d-e65dd103af79
+:END:
+#+TITLE: Nhozxqe Aldl Ftlecsi NV - 1995-12-10
+
+- wine :: [[id:78bed55a-3fbb-457a-aae4-d589e24f29eb][Nhozxqe Aldl Ftlecsi]]
+- date :: 1995-12-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

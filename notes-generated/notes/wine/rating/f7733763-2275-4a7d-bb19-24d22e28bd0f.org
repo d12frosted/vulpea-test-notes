@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f7733763-2275-4a7d-bb19-24d22e28bd0f
+:END:
+#+TITLE: Qay Lokjwa 1904 - 2019-1-21
+
+- wine :: [[id:4e0ebc9b-dd14-4590-829c-2d9e75dcad2c][Qay Lokjwa 1904]]
+- date :: 2019-1-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

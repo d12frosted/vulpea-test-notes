@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     03a50341-ac87-4c94-a1ae-306912b8ec4e
+:END:
+#+TITLE: Yjfq Bsqlf Xowcsd NV - 2017-6-9
+
+- wine :: [[id:9974bea2-fd0f-4a6d-8c23-799ea377ccb7][Yjfq Bsqlf Xowcsd]]
+- date :: 2017-6-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

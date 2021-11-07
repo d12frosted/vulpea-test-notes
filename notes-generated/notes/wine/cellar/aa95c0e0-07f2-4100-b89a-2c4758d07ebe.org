@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     aa95c0e0-07f2-4100-b89a-2c4758d07ebe
+:END:
+#+TITLE: Lrwk Jbaxrmn Hjupr 1917
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Hjupr
+- vintage :: 1917
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.32
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA
+
+

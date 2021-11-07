@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4d96874e-6072-42e9-af20-47fde109549c
+:END:
+#+TITLE: Lrwk Jbaxrmn Lvylfokw 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Lvylfokw
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 11.75
+- sugar :: 2.44
+- price :: 86.67 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 6.0
+- ratings :: [[id:d35673db-a760-456d-b1b1-271f31a10067][Lrwk Jbaxrmn Lvylfokw NV - 2012-8-17]]
+
+

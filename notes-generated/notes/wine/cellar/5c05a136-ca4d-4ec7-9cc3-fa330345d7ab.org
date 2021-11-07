@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     5c05a136-ca4d-4ec7-9cc3-fa330345d7ab
+:END:
+#+TITLE: Giih Udr Qtughw Ikfqmdw 1931
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Qtughw Ikfqmdw
+- vintage :: 1931
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 11.18
+- sugar :: 12.63
+- price :: 33.53 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:76773d47-f349-4e78-b91a-edd73bcc8e37][Giih Udr Qtughw Ikfqmdw 1931 - 1992-2-11]]
+
+

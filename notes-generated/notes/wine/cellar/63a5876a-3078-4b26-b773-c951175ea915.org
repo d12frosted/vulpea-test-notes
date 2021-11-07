@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     63a5876a-3078-4b26-b773-c951175ea915
+:END:
+#+TITLE: Scf Elpezclx Ttnmfby Ldurszz 1916
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ttnmfby Ldurszz
+- vintage :: 1916
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.13
+- sugar :: 8.78
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.5
+- ratings :: [[id:c7a8685d-2a5d-4abb-83cc-191cd0d91cab][Scf Elpezclx Ttnmfby Ldurszz 1916 - 2001-3-17]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1f10d0e4-9833-47dc-a7d8-151f41cca099
+:END:
+#+TITLE: Nhozxqe Aldl Xajrmxs 1911 - 2016-7-9
+
+- wine :: [[id:f4db932d-1236-4d26-9be3-38abe4e34bb1][Nhozxqe Aldl Xajrmxs 1911]]
+- date :: 2016-7-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

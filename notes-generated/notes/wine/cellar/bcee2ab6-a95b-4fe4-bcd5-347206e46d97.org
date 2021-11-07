@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     bcee2ab6-a95b-4fe4-bcd5-347206e46d97
+:END:
+#+TITLE: Yjfq Tvgxo 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Tvgxo
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 9.57
+- price :: 38.45 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA
+
+

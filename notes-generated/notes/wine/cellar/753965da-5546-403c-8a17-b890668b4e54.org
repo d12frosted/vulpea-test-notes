@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     753965da-5546-403c-8a17-b890668b4e54
+:END:
+#+TITLE: Lrwk Jbaxrmn Gmlsul Pwj 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Gmlsul Pwj
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 10.97
+- sugar :: 19.92
+- price :: 67.49 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:c01fa997-5304-4241-979f-51d6e682a89a][Lrwk Jbaxrmn Gmlsul Pwj NV - 2021-6-26]]
+
+

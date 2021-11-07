@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     82ebbdad-020c-43db-8aec-cd4e0bd2b790
+:END:
+#+TITLE: Yokf Gwhwycw Camiqajp 1960 - 1992-10-7
+
+- wine :: [[id:1efe2ec4-0631-45a8-8f2a-e48582087249][Yokf Gwhwycw Camiqajp 1960]]
+- date :: 1992-10-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     686c3591-7174-430b-941b-e592cab2bcd2
+:END:
+#+TITLE: Qay Ssdplrif Gqpp 1950 - 2019-1-26
+
+- wine :: [[id:dd21ad13-d684-49af-837d-dcf4d7ca2cdf][Qay Ssdplrif Gqpp 1950]]
+- date :: 2019-1-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

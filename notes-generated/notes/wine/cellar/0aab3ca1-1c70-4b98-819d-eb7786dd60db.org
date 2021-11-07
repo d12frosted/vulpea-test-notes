@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0aab3ca1-1c70-4b98-819d-eb7786dd60db
+:END:
+#+TITLE: Nhozxqe Aldl Hltcevjy 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Hltcevjy
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 13.66
+- price :: 6.37 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:5e752881-37ab-4713-aec4-5fe7e1bf6306][Nhozxqe Aldl Hltcevjy NV - 2022-4-21]]
+
+

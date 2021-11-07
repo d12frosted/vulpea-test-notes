@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     8d6dd91d-12f2-4fb0-8381-52050c8de002
+:END:
+#+TITLE: Cowhhax Upmqcgn Kgwxc NV - 2002-5-22
+
+- wine :: [[id:63d9f3f3-585a-4ace-9fbb-04a1068bde9c][Cowhhax Upmqcgn Kgwxc]]
+- date :: 2002-5-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

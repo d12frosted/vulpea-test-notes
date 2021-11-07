@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7aea5418-ed90-4899-8489-af016dbb552e
+:END:
+#+TITLE: Giih Udr Kmx Ziyzj 2020 - 1994-8-10
+
+- wine :: [[id:7bff06e3-b180-4e4e-8b94-b9e28fe019d7][Giih Udr Kmx Ziyzj 2020]]
+- date :: 1994-8-10
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

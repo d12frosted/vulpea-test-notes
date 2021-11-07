@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b8cee1f2-fa82-4af4-afb4-d049cc3bf2df
+:END:
+#+TITLE: Yokf Gwhwycw Vnorpng Iuc 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Vnorpng Iuc
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 10.81
+- sugar :: 18.78
+- price :: 7.98 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 3.5
+- ratings :: [[id:224fe8e2-3e17-48ef-be2c-f9b44fed1a5e][Yokf Gwhwycw Vnorpng Iuc NV - 1991-5-12]]
+
+

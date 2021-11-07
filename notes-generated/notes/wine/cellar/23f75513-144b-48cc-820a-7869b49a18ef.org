@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     23f75513-144b-48cc-820a-7869b49a18ef
+:END:
+#+TITLE: Yokf Gwhwycw Mhbgtijq Kttelpgw 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Mhbgtijq Kttelpgw
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 10.879999999999999
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:ae9a386b-ba79-4246-a8d5-a578dc4e8243][Yokf Gwhwycw Mhbgtijq Kttelpgw NV - 2004-9-9]]
+
+

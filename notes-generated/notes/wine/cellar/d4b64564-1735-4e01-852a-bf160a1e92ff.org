@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d4b64564-1735-4e01-852a-bf160a1e92ff
+:END:
+#+TITLE: Lrwk Jbaxrmn Jmzcrw 2019
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Jmzcrw
+- vintage :: 2019
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 12.620000000000001
+- price :: 74.97 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:d70a1fbf-28f5-498d-b85b-7efe0caad6d2][Lrwk Jbaxrmn Jmzcrw 2019 - 2014-7-2]]
+
+

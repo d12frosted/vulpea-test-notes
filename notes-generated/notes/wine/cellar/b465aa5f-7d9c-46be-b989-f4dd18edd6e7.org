@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     b465aa5f-7d9c-46be-b989-f4dd18edd6e7
+:END:
+#+TITLE: Jjkswvm Rcm Zxrqsjr Ecctb 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Zxrqsjr Ecctb
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 11.8
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.5
+- ratings :: [[id:982e2706-6a30-41d2-a89c-fce4acc4cd78][Jjkswvm Rcm Zxrqsjr Ecctb NV - 1997-3-28]]
+
+

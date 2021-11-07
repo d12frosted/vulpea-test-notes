@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     74aac44b-3907-452b-be4b-091866ff6ec6
+:END:
+#+TITLE: Cowhhax Upmqcgn Haa 1966 - 2001-1-28
+
+- wine :: [[id:936289f5-d1e6-4f6f-aa8c-9c44d9f08f5e][Cowhhax Upmqcgn Haa 1966]]
+- date :: 2001-1-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

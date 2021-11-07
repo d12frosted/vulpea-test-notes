@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     209b3db3-88c4-44c3-a1bf-6ff4175b9467
+:END:
+#+TITLE: Qay Mkgui Kwsp 2012
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Mkgui Kwsp
+- vintage :: 2012
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.55
+- sugar :: 4.07
+- price :: 84.98 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:0c374085-b670-410d-9f4e-cde5d36c466e][Qay Mkgui Kwsp 2012 - 2020-8-18]]
+
+

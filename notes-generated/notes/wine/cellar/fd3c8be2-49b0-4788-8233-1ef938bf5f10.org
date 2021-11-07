@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     fd3c8be2-49b0-4788-8233-1ef938bf5f10
+:END:
+#+TITLE: Ecxknc Iepvhans Hoamkgzy 1964
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Hoamkgzy
+- vintage :: 1964
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.07
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA
+
+

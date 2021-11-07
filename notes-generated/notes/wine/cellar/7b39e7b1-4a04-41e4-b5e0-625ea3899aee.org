@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7b39e7b1-4a04-41e4-b5e0-625ea3899aee
+:END:
+#+TITLE: Ecxknc Iepvhans Hnllvy Hacbpiqh 1912
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Hnllvy Hacbpiqh
+- vintage :: 1912
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.14
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: wikipedia
+- rating :: NA
+
+

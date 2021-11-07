@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7ae1dd28-9106-4cc5-a36a-669e9b426d7a
+:END:
+#+TITLE: Nhozxqe Aldl Xijlwy 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xijlwy
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 13.65
+- price :: 12.69 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

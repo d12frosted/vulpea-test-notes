@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     47676b1c-9a8b-44b9-9833-061b623518f2
+:END:
+#+TITLE: Ecxknc Iepvhans Cihrmu Svxgx NV - 2014-1-14
+
+- wine :: [[id:be39e747-904b-415a-a01f-c75f16a6f364][Ecxknc Iepvhans Cihrmu Svxgx]]
+- date :: 2014-1-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

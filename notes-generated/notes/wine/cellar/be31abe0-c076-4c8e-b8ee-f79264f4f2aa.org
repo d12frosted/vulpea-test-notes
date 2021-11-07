@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     be31abe0-c076-4c8e-b8ee-f79264f4f2aa
+:END:
+#+TITLE: Ecxknc Iepvhans Vhuw 1938
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Vhuw
+- vintage :: 1938
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 12.620000000000001
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

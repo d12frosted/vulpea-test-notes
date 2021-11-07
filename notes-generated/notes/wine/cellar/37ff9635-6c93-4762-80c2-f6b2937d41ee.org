@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     37ff9635-6c93-4762-80c2-f6b2937d41ee
+:END:
+#+TITLE: Giih Udr Zgt 1995
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Zgt
+- vintage :: 1995
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 12.61
+- sugar :: 5.54
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

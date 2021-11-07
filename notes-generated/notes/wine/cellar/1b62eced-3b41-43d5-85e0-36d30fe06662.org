@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1b62eced-3b41-43d5-85e0-36d30fe06662
+:END:
+#+TITLE: Nhozxqe Aldl Jnk 2009
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Jnk
+- vintage :: 2009
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 12.15
+- price :: 100.60 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:42bd5bf6-ce45-4f37-9838-8eac3d05b842][Nhozxqe Aldl Jnk 2009 - 2006-3-14]]
+
+

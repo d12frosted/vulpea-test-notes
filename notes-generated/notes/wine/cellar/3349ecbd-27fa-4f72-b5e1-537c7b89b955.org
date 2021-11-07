@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     3349ecbd-27fa-4f72-b5e1-537c7b89b955
+:END:
+#+TITLE: Jjkswvm Rcm Ner 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ner
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.57
+- price :: 48.87 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.0
+- ratings :: [[id:2a6dc8c7-3c54-4336-b747-8f2e8cf7faf9][Jjkswvm Rcm Ner NV - 2010-3-19]]
+
+

@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:                     aa1ec108-6651-4584-9430-03f6cf8c638d
+:END:
+#+TITLE: Lrwk Jbaxrmn Rwy Ezial 1949
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Rwy Ezial
+- vintage :: 1949
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.8
+- sugar :: 20.34
+- price :: 51.60 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.0
+- ratings :: [[id:5066fc44-25d0-417d-9ca7-4cca639a4a3c][Lrwk Jbaxrmn Rwy Ezial 1949 - 1994-12-3]]
+
+

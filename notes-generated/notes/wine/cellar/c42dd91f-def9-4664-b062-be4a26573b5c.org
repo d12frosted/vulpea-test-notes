@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     c42dd91f-def9-4664-b062-be4a26573b5c
+:END:
+#+TITLE: Qay Hfppc Udbbk 2009
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Hfppc Udbbk
+- vintage :: 2009
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.02
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 5.5
+- ratings :: [[id:445f6f45-e593-40ad-995f-5e6100c0ee8d][Qay Hfppc Udbbk 2009 - 2005-11-10]]
+
+

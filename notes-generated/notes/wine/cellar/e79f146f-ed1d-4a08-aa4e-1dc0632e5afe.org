@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e79f146f-ed1d-4a08-aa4e-1dc0632e5afe
+:END:
+#+TITLE: Yjfq Wsjlgpap Jjc 1932
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Wsjlgpap Jjc
+- vintage :: 1932
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 9.81
+- price :: 4.87 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: wikipedia
+- rating :: 2.5
+- ratings :: [[id:b1b56aa8-7654-4479-82de-588b395b3573][Yjfq Wsjlgpap Jjc 1932 - 2009-6-10]]
+
+

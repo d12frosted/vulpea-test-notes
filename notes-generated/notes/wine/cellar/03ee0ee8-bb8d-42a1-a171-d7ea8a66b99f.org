@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     03ee0ee8-bb8d-42a1-a171-d7ea8a66b99f
+:END:
+#+TITLE: Lrwk Jbaxrmn Nbqm 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Nbqm
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.9
+- sugar :: 5.32
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 4.0
+- ratings :: [[id:49f06b12-3a10-4a8d-9a53-a0bce410896c][Lrwk Jbaxrmn Nbqm NV - 2014-2-16]]
+
+

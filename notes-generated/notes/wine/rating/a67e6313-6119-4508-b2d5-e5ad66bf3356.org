@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a67e6313-6119-4508-b2d5-e5ad66bf3356
+:END:
+#+TITLE: Jjkswvm Rcm Sqloekxb Mxdij 1946 - 1996-10-11
+
+- wine :: [[id:80fd354e-c59f-49e0-9e3b-3db1e39db0eb][Jjkswvm Rcm Sqloekxb Mxdij 1946]]
+- date :: 1996-10-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5
+
+

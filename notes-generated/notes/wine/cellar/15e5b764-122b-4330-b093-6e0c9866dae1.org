@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     15e5b764-122b-4330-b093-6e0c9866dae1
+:END:
+#+TITLE: Jjkswvm Rcm Odxv Jgcaaxi 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Odxv Jgcaaxi
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 12.69
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

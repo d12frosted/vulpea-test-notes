@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5c3f3731-1d68-46c0-8c26-08044a4eb22d
+:END:
+#+TITLE: Scf Elpezclx Wod Fqoh 1909
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Wod Fqoh
+- vintage :: 1909
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 11.52
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:16c6719b-e99d-44bb-b788-b85bc485c1cf][Scf Elpezclx Wod Fqoh 1909 - 2011-4-25]]
+
+

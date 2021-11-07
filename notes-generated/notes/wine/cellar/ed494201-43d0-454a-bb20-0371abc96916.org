@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ed494201-43d0-454a-bb20-0371abc96916
+:END:
+#+TITLE: Qay Hsylu 1955
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Hsylu
+- vintage :: 1955
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.08
+- sugar :: 20.97
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

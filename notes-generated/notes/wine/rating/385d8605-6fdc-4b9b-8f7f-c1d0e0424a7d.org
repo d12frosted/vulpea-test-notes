@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     385d8605-6fdc-4b9b-8f7f-c1d0e0424a7d
+:END:
+#+TITLE: Scf Elpezclx Gomi Rzoi 1965 - 2020-11-1
+
+- wine :: [[id:8635a80c-d8ba-41aa-b3e7-0a7c5f740b57][Scf Elpezclx Gomi Rzoi 1965]]
+- date :: 2020-11-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

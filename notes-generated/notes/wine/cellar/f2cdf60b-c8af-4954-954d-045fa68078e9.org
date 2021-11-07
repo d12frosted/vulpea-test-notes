@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f2cdf60b-c8af-4954-954d-045fa68078e9
+:END:
+#+TITLE: Cowhhax Upmqcgn Wrnlebxq Krghga 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Wrnlebxq Krghga
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 9.98
+- sugar :: 8.98
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: wikipedia
+- rating :: NA
+
+

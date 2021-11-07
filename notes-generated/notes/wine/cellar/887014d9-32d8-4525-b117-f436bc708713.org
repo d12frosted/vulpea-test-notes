@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     887014d9-32d8-4525-b117-f436bc708713
+:END:
+#+TITLE: Nhozxqe Aldl Jaz 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Jaz
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 13.9
+- sugar :: 22.17
+- price :: 47.05 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA
+
+

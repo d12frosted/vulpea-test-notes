@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     9900de51-4b4d-4c02-95ba-23a835624729
+:END:
+#+TITLE: Scf Elpezclx Uomubuq Png 2012 - 2018-4-14
+
+- wine :: [[id:01cfc69b-195f-4aa7-981c-f58cb0e590f7][Scf Elpezclx Uomubuq Png 2012]]
+- date :: 2018-4-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

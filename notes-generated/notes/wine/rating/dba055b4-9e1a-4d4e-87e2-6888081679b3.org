@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     dba055b4-9e1a-4d4e-87e2-6888081679b3
+:END:
+#+TITLE: Ecxknc Iepvhans Wbtzp NV - 2014-9-16
+
+- wine :: [[id:27343520-2a4d-44ca-8d41-f1072245b438][Ecxknc Iepvhans Wbtzp]]
+- date :: 2014-9-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

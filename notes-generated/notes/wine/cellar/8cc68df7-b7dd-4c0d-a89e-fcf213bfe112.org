@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     8cc68df7-b7dd-4c0d-a89e-fcf213bfe112
+:END:
+#+TITLE: Cowhhax Upmqcgn Sevlxmki 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Sevlxmki
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.31
+- price :: 80.62 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 8.0
+- ratings :: [[id:a26b4e13-4a1c-4b15-85d9-0ba9ba37b877][Cowhhax Upmqcgn Sevlxmki NV - 1995-3-10]]
+
+

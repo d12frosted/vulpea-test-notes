@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     99235887-86b9-4823-866c-126d12986b17
+:END:
+#+TITLE: Scf Elpezclx Ixfpv Peevxzwg 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ixfpv Peevxzwg
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 10.58
+- price :: 74.95 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:6f09c9ef-7a2b-4d3c-a0b3-ae8e78a89dab][Scf Elpezclx Ixfpv Peevxzwg NV - 2018-4-26]]
+
+

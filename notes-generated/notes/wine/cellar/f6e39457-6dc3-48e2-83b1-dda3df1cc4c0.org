@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f6e39457-6dc3-48e2-83b1-dda3df1cc4c0
+:END:
+#+TITLE: Lrwk Jbaxrmn Zcipehuz Uimg 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Zcipehuz Uimg
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.0
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA
+
+

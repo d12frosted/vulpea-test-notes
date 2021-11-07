@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     2b04668a-125a-4571-84c1-9d6f115acca0
+:END:
+#+TITLE: Ecxknc Iepvhans Uyfbysk 1991 - 2017-8-19
+
+- wine :: [[id:f321cad1-3bfa-4165-83c3-3dcfff1c1fae][Ecxknc Iepvhans Uyfbysk 1991]]
+- date :: 2017-8-19
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

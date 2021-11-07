@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     2fb60724-5f45-4586-ab33-5533c433f4ff
+:END:
+#+TITLE: Nhozxqe Aldl Bxibp 1924
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Bxibp
+- vintage :: 1924
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.52
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

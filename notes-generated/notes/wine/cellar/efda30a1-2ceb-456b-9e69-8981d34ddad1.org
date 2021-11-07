@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     efda30a1-2ceb-456b-9e69-8981d34ddad1
+:END:
+#+TITLE: Yjfq Qkrujwds 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Qkrujwds
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 13.559999999999999
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:d708eb0b-8be5-4cf6-a42d-adc0b9157323][Yjfq Qkrujwds NV - 2010-5-8]]
+
+

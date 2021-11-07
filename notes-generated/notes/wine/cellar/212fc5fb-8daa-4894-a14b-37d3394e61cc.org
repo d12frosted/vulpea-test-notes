@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     212fc5fb-8daa-4894-a14b-37d3394e61cc
+:END:
+#+TITLE: Yjfq Dpzkun Nga 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Dpzkun Nga
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.04
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:7190203a-7acd-4e97-a778-8a77a8f703fb][Yjfq Dpzkun Nga NV - 2014-11-17]]
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     073cb04d-4a67-4f73-b5d0-679214bc15b1
+:END:
+#+TITLE: Cowhhax Upmqcgn Kaejmg Vvarthpj 1986
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Kaejmg Vvarthpj
+- vintage :: 1986
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.82
+- sugar :: 22.49
+- price :: 78.55 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     92450f01-9bf0-4725-b31e-c1bf1d4dc9da
+:END:
+#+TITLE: Jjkswvm Rcm Kxdfleo 1998 - 2022-6-1
+
+- wine :: [[id:9f765398-2d84-42c0-a4b1-fa99fd0cd85e][Jjkswvm Rcm Kxdfleo 1998]]
+- date :: 2022-6-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     93ac69c9-7c84-4651-9a75-b1e27d893bb9
+:END:
+#+TITLE: Yokf Gwhwycw Wyvwwy Fvxcxm 1933 - 1999-10-16
+
+- wine :: [[id:bfc8089e-7bb6-439e-8cdb-892d4e1de6f5][Yokf Gwhwycw Wyvwwy Fvxcxm 1933]]
+- date :: 1999-10-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a15069cc-7d37-47cc-876b-3951cc73eef8
+:END:
+#+TITLE: Scf Elpezclx Dywxmj Rvc NV - 2000-10-5
+
+- wine :: [[id:6cd252f6-0dc3-4795-8e31-3632936f00f9][Scf Elpezclx Dywxmj Rvc]]
+- date :: 2000-10-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

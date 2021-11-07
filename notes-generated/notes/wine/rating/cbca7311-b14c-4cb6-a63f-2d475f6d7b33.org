@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cbca7311-b14c-4cb6-a63f-2d475f6d7b33
+:END:
+#+TITLE: Ecxknc Iepvhans Ukof NV - 2003-9-21
+
+- wine :: [[id:22d4e90a-4289-4c32-a280-64dac2f483c5][Ecxknc Iepvhans Ukof]]
+- date :: 2003-9-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

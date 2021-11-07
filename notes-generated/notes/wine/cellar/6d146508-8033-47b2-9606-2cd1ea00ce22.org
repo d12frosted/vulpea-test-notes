@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6d146508-8033-47b2-9606-2cd1ea00ce22
+:END:
+#+TITLE: Giih Udr Joyuj Mhjoil 1968
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Joyuj Mhjoil
+- vintage :: 1968
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 12.03
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: duckduckgo
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     94fc5e86-c1c1-4a90-9995-88e45209c7c9
+:END:
+#+TITLE: Lrwk Jbaxrmn Dflvhh NV - 2017-4-25
+
+- wine :: [[id:331e3bac-c9ca-4187-a325-e40d536739d9][Lrwk Jbaxrmn Dflvhh]]
+- date :: 2017-4-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

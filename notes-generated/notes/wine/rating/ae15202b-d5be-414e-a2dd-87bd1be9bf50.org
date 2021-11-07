@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ae15202b-d5be-414e-a2dd-87bd1be9bf50
+:END:
+#+TITLE: Lrwk Jbaxrmn Akh Okigt 1971 - 1990-1-17
+
+- wine :: [[id:caf7894a-1f3e-478d-93ee-5c7e82b1ebf2][Lrwk Jbaxrmn Akh Okigt 1971]]
+- date :: 1990-1-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0
+
+

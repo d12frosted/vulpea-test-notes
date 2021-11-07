@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     050de8ad-6a03-4f9a-98af-f753de4b741f
+:END:
+#+TITLE: Nhozxqe Aldl Igxco 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Igxco
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 9.39
+- sugar :: 17.31
+- price :: 66.62 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.5
+- ratings :: [[id:8698ebd5-86a7-49e3-9672-338df6b5c901][Nhozxqe Aldl Igxco NV - 2005-1-21]]
+
+

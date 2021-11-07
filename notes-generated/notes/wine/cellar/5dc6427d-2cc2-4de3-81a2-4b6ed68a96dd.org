@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     5dc6427d-2cc2-4de3-81a2-4b6ed68a96dd
+:END:
+#+TITLE: Qay Vdd 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Vdd
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 13.41
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: NA
+
+

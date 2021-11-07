@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     7a4d4ff5-2d29-41c0-800e-7befcb189006
+:END:
+#+TITLE: Scf Elpezclx Tjfptv 1986
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Tjfptv
+- vintage :: 1986
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 10.5
+- sugar :: 11.08
+- price :: 32.78 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 7.5
+- ratings :: [[id:df767a80-173b-4a0c-b848-98ecf376dd07][Scf Elpezclx Tjfptv 1986 - 2016-2-28]]
+
+

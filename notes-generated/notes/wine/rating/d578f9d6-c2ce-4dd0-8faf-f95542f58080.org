@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d578f9d6-c2ce-4dd0-8faf-f95542f58080
+:END:
+#+TITLE: Qay Eutncrw 1914 - 1997-9-4
+
+- wine :: [[id:016817fe-3b07-4156-990c-5b9f041da7ed][Qay Eutncrw 1914]]
+- date :: 1997-9-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

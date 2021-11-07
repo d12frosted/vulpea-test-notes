@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4b0a089a-0ef6-4aa6-9e6d-0e5ea83feee3
+:END:
+#+TITLE: Jjkswvm Rcm Jiges Mhxepz 1984 - 2002-7-13
+
+- wine :: [[id:db22534f-8679-4974-94ac-f73d3536e3ed][Jjkswvm Rcm Jiges Mhxepz 1984]]
+- date :: 2002-7-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

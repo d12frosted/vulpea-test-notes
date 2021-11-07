@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9b884c87-f189-45a6-992c-05fa610eb55c
+:END:
+#+TITLE: Yokf Gwhwycw Rqalqqv Ywqvl 1939
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Rqalqqv Ywqvl
+- vintage :: 1939
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- alcohol :: 13.030000000000001
+- sugar :: 18.17
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: NA
+
+

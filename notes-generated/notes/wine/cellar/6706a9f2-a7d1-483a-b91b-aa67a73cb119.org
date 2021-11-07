@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6706a9f2-a7d1-483a-b91b-aa67a73cb119
+:END:
+#+TITLE: Lrwk Jbaxrmn Pyi 1985
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Pyi
+- vintage :: 1985
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 10.48
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:3637f552-e141-4345-a704-9f4852c648ae][Lrwk Jbaxrmn Pyi 1985 - 2003-3-17]]
+
+

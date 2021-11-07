@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     11ab6dc1-75b3-413f-9b07-271c4020e4ef
+:END:
+#+TITLE: Giih Udr Pxpmueks 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Pxpmueks
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 9.63
+- sugar :: 21.94
+- price :: 42.79 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

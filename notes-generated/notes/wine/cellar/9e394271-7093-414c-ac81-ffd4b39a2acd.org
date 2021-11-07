@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9e394271-7093-414c-ac81-ffd4b39a2acd
+:END:
+#+TITLE: Scf Elpezclx Ndzsio 1984
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ndzsio
+- vintage :: 1984
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 10.02
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:6791ee87-c83d-4550-9e16-a7e75ca98fe6][Scf Elpezclx Ndzsio 1984 - 2018-9-13]]
+
+

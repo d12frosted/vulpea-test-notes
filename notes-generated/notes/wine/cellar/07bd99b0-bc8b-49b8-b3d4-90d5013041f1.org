@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     07bd99b0-bc8b-49b8-b3d4-90d5013041f1
+:END:
+#+TITLE: Ecxknc Iepvhans Pqvgni 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Pqvgni
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.26
+- price :: 3.17 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 4.0
+- ratings :: [[id:07bd771a-f88d-4174-af80-3b60ad1c1e70][Ecxknc Iepvhans Pqvgni NV - 2023-8-6]]
+
+

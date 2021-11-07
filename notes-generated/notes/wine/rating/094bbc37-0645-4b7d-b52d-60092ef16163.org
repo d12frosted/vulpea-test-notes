@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     094bbc37-0645-4b7d-b52d-60092ef16163
+:END:
+#+TITLE: Qay Bvrwmv Sodezufx NV - 1997-1-4
+
+- wine :: [[id:8e99d6f1-521f-4a12-96ea-9381215f93b5][Qay Bvrwmv Sodezufx]]
+- date :: 1997-1-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

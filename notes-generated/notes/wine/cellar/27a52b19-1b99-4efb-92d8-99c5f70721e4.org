@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     27a52b19-1b99-4efb-92d8-99c5f70721e4
+:END:
+#+TITLE: Yokf Gwhwycw Idpenem 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Idpenem
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 9.41
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 7.5
+- ratings :: [[id:1fd8d8f5-a22d-4edd-b2b3-846c9db9de03][Yokf Gwhwycw Idpenem NV - 2007-7-22]]
+
+

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     6a5eda56-7843-45a0-83d2-d17da55f80a6
+:END:
+#+TITLE: Nhozxqe Aldl Vlh 1989
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Vlh
+- vintage :: 1989
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.59
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

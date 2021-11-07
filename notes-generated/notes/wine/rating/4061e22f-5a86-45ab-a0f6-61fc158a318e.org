@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4061e22f-5a86-45ab-a0f6-61fc158a318e
+:END:
+#+TITLE: Yjfq Hfoifh Pyitvp NV - 1991-12-28
+
+- wine :: [[id:e92dfa5a-99a5-4f0b-96c5-36aa786c8e11][Yjfq Hfoifh Pyitvp]]
+- date :: 1991-12-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

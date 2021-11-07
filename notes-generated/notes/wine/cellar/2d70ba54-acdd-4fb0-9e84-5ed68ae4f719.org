@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     2d70ba54-acdd-4fb0-9e84-5ed68ae4f719
+:END:
+#+TITLE: Jjkswvm Rcm Ymj Fjkmvg 1991
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ymj Fjkmvg
+- vintage :: 1991
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- alcohol :: 12.18
+- price :: 12.41 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: wikipedia
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     abac7be3-c72d-4fde-855b-2729ea3b946f
+:END:
+#+TITLE: Yjfq Qycq 1917 - 2006-10-26
+
+- wine :: [[id:b9c2f9ef-724f-48a3-bb07-c59e64fa92da][Yjfq Qycq 1917]]
+- date :: 2006-10-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

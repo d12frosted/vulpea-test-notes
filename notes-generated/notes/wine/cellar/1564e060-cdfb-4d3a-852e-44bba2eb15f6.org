@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1564e060-cdfb-4d3a-852e-44bba2eb15f6
+:END:
+#+TITLE: Scf Elpezclx Nbaohzrp 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Nbaohzrp
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- alcohol :: 9.94
+- sugar :: 16.82
+- price :: 16.58 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: wikipedia
+- rating :: NA
+
+

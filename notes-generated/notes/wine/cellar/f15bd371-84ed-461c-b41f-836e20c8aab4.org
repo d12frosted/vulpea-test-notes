@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f15bd371-84ed-461c-b41f-836e20c8aab4
+:END:
+#+TITLE: Lrwk Jbaxrmn Nach 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Nach
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 13.57
+- sugar :: 23.94
+- price :: 20.69 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:1947565c-4400-45be-ba29-5f6dc530758e][Lrwk Jbaxrmn Nach NV - 2021-4-7]]
+
+

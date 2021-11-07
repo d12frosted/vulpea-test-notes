@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     7f1b7d8b-0eeb-45f6-a04c-f671ede23fed
+:END:
+#+TITLE: Qay Porvrak Nlu 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Porvrak Nlu
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- alcohol :: 9.65
+- price :: 30.27 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+

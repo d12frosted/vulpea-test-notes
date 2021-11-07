@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     9c94cc42-082f-4492-9407-c1efbc2ca6c9
+:END:
+#+TITLE: Yjfq Ebxzyfv 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ebxzyfv
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 9.62
+- price :: 8.67 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:6dd75758-949c-44aa-bb32-d1b1afc12b84][Yjfq Ebxzyfv NV - 1995-4-27]]
+
+

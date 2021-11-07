@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     cbc073aa-f1a3-4023-9a82-ac7b26baefbb
+:END:
+#+TITLE: Scf Elpezclx Habbbi Rcjtlo 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Habbbi Rcjtlo
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 12.82
+- price :: 31.34 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 2.5
+- ratings :: [[id:261825b3-d852-4fbc-812f-6c35728cf000][Scf Elpezclx Habbbi Rcjtlo NV - 2007-11-7]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     aa5cfa0a-32ab-4013-aa44-059953e513b4
+:END:
+#+TITLE: Giih Udr Jyvucclw Ndwkunp NV - 2020-5-2
+
+- wine :: [[id:66739bb9-fd72-4094-b448-29d1d78dba3d][Giih Udr Jyvucclw Ndwkunp]]
+- date :: 2020-5-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

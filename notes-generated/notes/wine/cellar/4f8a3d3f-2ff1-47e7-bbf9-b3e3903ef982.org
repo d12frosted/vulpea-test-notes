@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     4f8a3d3f-2ff1-47e7-bbf9-b3e3903ef982
+:END:
+#+TITLE: Lrwk Jbaxrmn Bzu Duiij 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Bzu Duiij
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 12.67
+- sugar :: 12.14
+- price :: 53.99 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 2.0
+- ratings :: [[id:c347adac-7bbd-4aad-ae6e-cd430b62c7a8][Lrwk Jbaxrmn Bzu Duiij NV - 1997-12-8]]
+
+

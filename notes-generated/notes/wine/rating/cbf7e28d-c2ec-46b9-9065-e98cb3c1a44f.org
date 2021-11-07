@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     cbf7e28d-c2ec-46b9-9065-e98cb3c1a44f
+:END:
+#+TITLE: Nhozxqe Aldl Jxyp Klpzxlg NV - 2021-11-24
+
+- wine :: [[id:8486f775-61b1-40e6-91ad-f9f23feb5d9b][Nhozxqe Aldl Jxyp Klpzxlg]]
+- date :: 2021-11-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

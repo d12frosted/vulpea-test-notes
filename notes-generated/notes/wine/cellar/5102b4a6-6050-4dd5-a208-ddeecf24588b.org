@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     5102b4a6-6050-4dd5-a208-ddeecf24588b
+:END:
+#+TITLE: Qay Gikabc 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Gikabc
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.58
+- sugar :: 20.2
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA
+
+

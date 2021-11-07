@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b5d02449-b08c-4481-8fa9-8ee920f7c460
+:END:
+#+TITLE: Giih Udr Ydkodkc NV - 2010-4-22
+
+- wine :: [[id:a20bc550-60f9-4a8c-b680-2e3fa938d2fb][Giih Udr Ydkodkc]]
+- date :: 2010-4-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

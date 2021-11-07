@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     e04f1f8a-84a5-4f92-a4a7-a68a1a1aa6b0
+:END:
+#+TITLE: Jjkswvm Rcm Ujztbm Vjzpcgk 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Ujztbm Vjzpcgk
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 13.91
+- sugar :: 10.22
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:ea0899ad-fa4c-44aa-b62c-d49fd3008d1f][Jjkswvm Rcm Ujztbm Vjzpcgk NV - 2006-8-24]]
+
+

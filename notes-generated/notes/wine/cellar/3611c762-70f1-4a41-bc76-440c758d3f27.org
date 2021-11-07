@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     3611c762-70f1-4a41-bc76-440c758d3f27
+:END:
+#+TITLE: Scf Elpezclx Ffhsnvcw 1972
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ffhsnvcw
+- vintage :: 1972
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 13.55
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 8.0
+- ratings :: [[id:9fd85021-843e-474b-b12d-60df141d10c8][Scf Elpezclx Ffhsnvcw 1972 - 2016-12-23]]
+
+

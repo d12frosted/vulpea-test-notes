@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7cd55c70-ba1f-45d6-bced-fa30be3c341a
+:END:
+#+TITLE: Scf Elpezclx Tlpp Ffk 2020 - 2016-8-10
+
+- wine :: [[id:aaf4b29c-c889-4251-89b6-ad90cba44134][Scf Elpezclx Tlpp Ffk 2020]]
+- date :: 2016-8-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

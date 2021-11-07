@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7cdf976c-1f4e-4dcd-806c-d6152542015f
+:END:
+#+TITLE: Yokf Gwhwycw Bsjiessu 1929 - 2000-9-25
+
+- wine :: [[id:c8d7e096-71e3-4441-9384-5792b017de90][Yokf Gwhwycw Bsjiessu 1929]]
+- date :: 2000-9-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

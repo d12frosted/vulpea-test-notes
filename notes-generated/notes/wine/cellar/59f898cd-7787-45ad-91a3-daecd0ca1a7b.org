@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     59f898cd-7787-45ad-91a3-daecd0ca1a7b
+:END:
+#+TITLE: Nhozxqe Aldl Yduvi 1969
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Yduvi
+- vintage :: 1969
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 9.1
+- sugar :: 11.35
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

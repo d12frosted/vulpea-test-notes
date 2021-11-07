@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     c8dad044-d0a2-4d1d-a975-26c3e1174a94
+:END:
+#+TITLE: Yokf Gwhwycw Jgqozr 2014
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Jgqozr
+- vintage :: 2014
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.14
+- sugar :: 4.51
+- price :: 19.63 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA
+
+

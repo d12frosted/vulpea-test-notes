@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0ebe8abe-42a5-403d-aa82-df75a1b948f1
+:END:
+#+TITLE: Nhozxqe Aldl Calk 2003
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Calk
+- vintage :: 2003
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 9.53
+- sugar :: 14.69
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:dea43645-63d5-4153-911c-b222698c777e][Nhozxqe Aldl Calk 2003 - 2014-10-8]]
+
+

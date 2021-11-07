@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     692932bc-71a4-45d5-9541-ee806f01a6eb
+:END:
+#+TITLE: Jjkswvm Rcm Pfcxsntc 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Pfcxsntc
+- region :: [[id:a4524dba-3944-47dd-9596-fdc65d48dd10][Clgfdsuu Xpruidd]]
+- alcohol :: 10.26
+- price :: 35.69 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

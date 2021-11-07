@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     5ebf936d-5f56-4d96-a702-59c0a01e4263
+:END:
+#+TITLE: Yjfq Nkss Tqflvns 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Nkss Tqflvns
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 9.69
+- sugar :: 23.33
+- price :: 37.54 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 8.0
+- ratings :: [[id:78bd9159-3968-43bd-a1c7-0565d5458aa9][Yjfq Nkss Tqflvns NV - 1991-1-13]]
+
+

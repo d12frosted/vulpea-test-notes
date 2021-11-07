@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     be6b4fa9-edb7-4e23-813b-8f4cb1b99ba6
+:END:
+#+TITLE: Scf Elpezclx Jdt Vwv 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Jdt Vwv
+- region :: [[id:36bcf6d4-1d5c-43f6-ac15-3e8f6327b9c4][Zbuhio Kwx]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.120000000000001
+- price :: 33.87 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:5ec6f6df-573f-44e6-9679-5dac8e3db603][Scf Elpezclx Jdt Vwv NV - 2017-4-4]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     27565b80-38e8-49ee-b1ca-ae48f509ecb2
+:END:
+#+TITLE: Yokf Gwhwycw Uifj 1917
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Uifj
+- vintage :: 1917
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 10.73
+- price :: 48.59 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 4.0
+- ratings :: [[id:c082dca7-db13-4fb0-8154-dc0bc612df7d][Yokf Gwhwycw Uifj 1917 - 2012-9-22]]
+
+

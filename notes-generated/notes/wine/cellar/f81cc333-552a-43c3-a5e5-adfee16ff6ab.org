@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     f81cc333-552a-43c3-a5e5-adfee16ff6ab
+:END:
+#+TITLE: Giih Udr Com Xoeqn 1976
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Com Xoeqn
+- vintage :: 1976
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 12.71
+- sugar :: 22.27
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:fd3a832e-3102-4613-89d4-c41a65f5a2e2][Giih Udr Com Xoeqn 1976 - 1991-12-21]]
+
+

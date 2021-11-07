@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     ee82d8b8-aaa9-45a6-8058-5996ad5e76fb
+:END:
+#+TITLE: Lrwk Jbaxrmn Hyrluku 1947
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Hyrluku
+- vintage :: 1947
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 10.26
+- sugar :: 7.67
+- price :: 17.44 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:ad341f66-83d0-4aa7-8c15-45df4b39fa11][Lrwk Jbaxrmn Hyrluku 1947 - 1990-7-17]]
+
+

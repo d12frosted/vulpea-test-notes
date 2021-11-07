@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6e33ad9d-151a-4fbc-9f78-26dd1ef14f01
+:END:
+#+TITLE: Cowhhax Upmqcgn Mxol Uijk 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Mxol Uijk
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 11.58
+- sugar :: 20.09
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA
+
+

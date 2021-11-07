@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     9e79b6d0-c6f4-46d0-8df9-8acf5f25f5d2
+:END:
+#+TITLE: Giih Udr Kkykay 1944
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Kkykay
+- vintage :: 1944
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 13.65
+- sugar :: 8.76
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 5.5
+- ratings :: [[id:ef48ca82-0ff7-41cf-8a78-6ec155cb3f64][Giih Udr Kkykay 1944 - 2002-9-17]]
+
+

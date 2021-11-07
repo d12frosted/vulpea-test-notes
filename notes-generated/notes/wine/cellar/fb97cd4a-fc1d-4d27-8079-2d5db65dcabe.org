@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     fb97cd4a-fc1d-4d27-8079-2d5db65dcabe
+:END:
+#+TITLE: Scf Elpezclx Ivy Wgo 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Ivy Wgo
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 12.59
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

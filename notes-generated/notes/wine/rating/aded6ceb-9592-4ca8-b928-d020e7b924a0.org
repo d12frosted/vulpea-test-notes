@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     aded6ceb-9592-4ca8-b928-d020e7b924a0
+:END:
+#+TITLE: Yokf Gwhwycw Vegxrka Tett 1953 - 2012-11-25
+
+- wine :: [[id:e6b75b0d-448b-4583-ad65-6a660edd990b][Yokf Gwhwycw Vegxrka Tett 1953]]
+- date :: 2012-11-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

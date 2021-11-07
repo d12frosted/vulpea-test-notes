@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     938d4c51-691a-4ac6-b10f-127f2d099d50
+:END:
+#+TITLE: Qay Xnho Dkta 2009
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Xnho Dkta
+- vintage :: 2009
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7450df7f-0f94-4ecc-a66d-be36a1eb2cd3][Rnumixjj Pwdjxozf]]
+- alcohol :: 10.36
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:cb5989f3-70af-44a5-95a3-47671a7ed258][Qay Xnho Dkta 2009 - 2011-11-16]]
+
+

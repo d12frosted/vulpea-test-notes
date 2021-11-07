@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     23b2f8c9-121d-4ac0-8e9b-3a3fa5323f0f
+:END:
+#+TITLE: Giih Udr Mlcv Son 1983 - 2002-6-25
+
+- wine :: [[id:26620110-5ed7-47d5-a761-e90200cdd95f][Giih Udr Mlcv Son 1983]]
+- date :: 2002-6-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

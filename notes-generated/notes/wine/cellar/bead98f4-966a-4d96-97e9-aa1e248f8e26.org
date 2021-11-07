@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     bead98f4-966a-4d96-97e9-aa1e248f8e26
+:END:
+#+TITLE: Ecxknc Iepvhans Dbndm Lvrkid 1991
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Dbndm Lvrkid
+- vintage :: 1991
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.01
+- sugar :: 6.51
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:3f3b3583-f2e3-4d5d-b996-c253b4383952][Ecxknc Iepvhans Dbndm Lvrkid 1991 - 2010-7-6]]
+
+

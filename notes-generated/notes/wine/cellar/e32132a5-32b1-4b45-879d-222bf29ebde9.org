@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     e32132a5-32b1-4b45-879d-222bf29ebde9
+:END:
+#+TITLE: Cowhhax Upmqcgn Manjnm Draxu 2017
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Manjnm Draxu
+- vintage :: 2017
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 9.07
+- sugar :: 23.68
+- price :: 3.23 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 5.0
+- ratings :: [[id:e536f37f-b722-4e29-a54c-09ac99bf8e9f][Cowhhax Upmqcgn Manjnm Draxu 2017 - 2011-11-20]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b79773f0-1673-4caf-8460-81ebad0f9c08
+:END:
+#+TITLE: Scf Elpezclx Uxpyvfev NV - 2005-1-21
+
+- wine :: [[id:9c0fdb00-b9cc-4169-9e8a-6bc82fa62a47][Scf Elpezclx Uxpyvfev]]
+- date :: 2005-1-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5
+
+

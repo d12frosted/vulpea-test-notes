@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ba309fba-a628-4065-aee7-ce15e59171ab
+:END:
+#+TITLE: Yjfq Zfwd Icos 1923
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Zfwd Icos
+- vintage :: 1923
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- alcohol :: 11.7
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 3.0
+- ratings :: [[id:fbe83b59-0bf8-4d9d-a0c8-53ba2a81238f][Yjfq Zfwd Icos 1923 - 1995-7-21]]
+
+

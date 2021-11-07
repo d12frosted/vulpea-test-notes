@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6489e0e6-163a-41f5-853d-47825bb7942f
+:END:
+#+TITLE: Jjkswvm Rcm Ypxhbk 1957 - 1999-4-15
+
+- wine :: [[id:6413b829-f10f-46e9-92a4-9209fd9a7be3][Jjkswvm Rcm Ypxhbk 1957]]
+- date :: 1999-4-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

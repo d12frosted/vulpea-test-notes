@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     e1d2b3f5-0428-4916-b1d9-634554698561
+:END:
+#+TITLE: Lrwk Jbaxrmn Zfh 1959
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Zfh
+- vintage :: 1959
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 11.05
+- sugar :: 2.2
+- price :: 75.32 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:5032274f-76f7-4aca-8d41-a1b00d6eb263][Lrwk Jbaxrmn Zfh 1959 - 1993-10-23]]
+
+

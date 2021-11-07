@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     19a02dd7-7fc4-4b88-a54a-68fa8ee36cc3
+:END:
+#+TITLE: Lrwk Jbaxrmn Zda Veqj 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Zda Veqj
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 13.93
+- sugar :: 2.07
+- price :: 68.67 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA
+
+

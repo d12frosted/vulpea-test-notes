@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     5a85e408-bad5-4bb5-a3d4-5fbc686eedb6
+:END:
+#+TITLE: Ecxknc Iepvhans Iiw Pwlskcd 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Iiw Pwlskcd
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 12.129999999999999
+- sugar :: 6.27
+- price :: 87.05 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 2.5
+- ratings :: [[id:97c123d7-21e7-4b6d-b920-f4fff6fcfb2f][Ecxknc Iepvhans Iiw Pwlskcd NV - 2006-3-11]]
+
+

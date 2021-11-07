@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b74d5c32-207d-4368-b1c7-55b7fbde5dc9
+:END:
+#+TITLE: Giih Udr Cqi Nsozgh 2014
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Cqi Nsozgh
+- vintage :: 2014
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 9.58
+- sugar :: 18.26
+- price :: 65.19 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:ce11a4d2-f8ae-4089-9c1a-2f9ae9e5aead][Giih Udr Cqi Nsozgh 2014 - 2010-7-6]]
+
+

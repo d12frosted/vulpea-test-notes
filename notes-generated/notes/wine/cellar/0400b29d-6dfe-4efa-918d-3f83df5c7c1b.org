@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     0400b29d-6dfe-4efa-918d-3f83df5c7c1b
+:END:
+#+TITLE: Jjkswvm Rcm Acnl Uhki 1929
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Acnl Uhki
+- vintage :: 1929
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 12.78
+- sugar :: 8.72
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:267d1e81-e65b-42eb-b64e-39a9c00e2aa1][Jjkswvm Rcm Acnl Uhki 1929 - 1995-12-20]]
+
+

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     8492e420-3729-41e3-a107-0bdc34a8af7c
+:END:
+#+TITLE: Nhozxqe Aldl Fcauocn 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Fcauocn
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- alcohol :: 13.23
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:0b3dcf73-e6a0-4493-8f59-e43a54f9568a][Nhozxqe Aldl Fcauocn NV - 2007-1-3]]
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d98fc79b-4f8c-41fc-8244-547e6cc14054
+:END:
+#+TITLE: Cowhhax Upmqcgn Hftp Fcgqsc NV - 2013-10-5
+
+- wine :: [[id:90da2cf3-1a86-4ab1-aec1-4f801867548d][Cowhhax Upmqcgn Hftp Fcgqsc]]
+- date :: 2013-10-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d9b03fd8-e5cf-41a1-b08f-751686efbf1e
+:END:
+#+TITLE: Giih Udr Zvg Ucdxjdod 2004 - 2000-4-16
+
+- wine :: [[id:900fca3f-2946-4978-a924-96aafefce1a2][Giih Udr Zvg Ucdxjdod 2004]]
+- date :: 2000-4-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

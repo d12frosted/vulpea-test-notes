@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b51b1b12-808c-4286-8068-e0289ffa7ec1
+:END:
+#+TITLE: Lrwk Jbaxrmn Iwbot Wnwnwh 1921
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Iwbot Wnwnwh
+- vintage :: 1921
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 9.65
+- sugar :: 14.61
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA
+
+

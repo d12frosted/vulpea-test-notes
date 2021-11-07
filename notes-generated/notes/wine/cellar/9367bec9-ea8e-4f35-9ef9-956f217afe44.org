@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     9367bec9-ea8e-4f35-9ef9-956f217afe44
+:END:
+#+TITLE: Giih Udr Xpwqwfv Ilpm 2020
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Xpwqwfv Ilpm
+- vintage :: 2020
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.68
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:39cd596f-81a2-490e-a47c-b72bcf1ad24d][Giih Udr Xpwqwfv Ilpm 2020 - 2023-4-28]]
+
+

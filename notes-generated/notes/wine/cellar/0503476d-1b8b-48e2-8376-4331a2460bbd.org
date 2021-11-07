@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     0503476d-1b8b-48e2-8376-4331a2460bbd
+:END:
+#+TITLE: Scf Elpezclx Onpyf 1905
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Onpyf
+- vintage :: 1905
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 13.07
+- price :: 78.81 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 6.5
+- ratings :: [[id:0d184709-2d06-4452-bdad-84eb21d9059e][Scf Elpezclx Onpyf 1905 - 2001-8-16]]
+
+

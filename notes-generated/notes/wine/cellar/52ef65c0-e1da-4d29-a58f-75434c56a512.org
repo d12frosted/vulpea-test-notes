@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     52ef65c0-e1da-4d29-a58f-75434c56a512
+:END:
+#+TITLE: Qay Lrdwpuw 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Lrdwpuw
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 12.73
+- sugar :: 19.16
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:89639811-063e-4198-b798-5b7745d59564][Qay Lrdwpuw NV - 1996-9-19]]
+
+

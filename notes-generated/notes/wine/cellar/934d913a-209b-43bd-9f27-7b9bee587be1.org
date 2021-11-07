@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     934d913a-209b-43bd-9f27-7b9bee587be1
+:END:
+#+TITLE: Giih Udr Ltg 2007
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Ltg
+- vintage :: 2007
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 13.55
+- sugar :: 16.07
+- price :: 86.62 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 6.5
+- ratings :: [[id:fb18723d-e977-496b-a13c-eb6c0d70151f][Giih Udr Ltg 2007 - 2002-11-17]]
+
+

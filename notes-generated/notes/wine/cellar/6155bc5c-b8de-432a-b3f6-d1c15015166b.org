@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     6155bc5c-b8de-432a-b3f6-d1c15015166b
+:END:
+#+TITLE: Yokf Gwhwycw Mqghh 1950
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Mqghh
+- vintage :: 1950
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 11.870000000000001
+- price :: 39.97 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

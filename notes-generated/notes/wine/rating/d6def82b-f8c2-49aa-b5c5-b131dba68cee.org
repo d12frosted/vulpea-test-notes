@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d6def82b-f8c2-49aa-b5c5-b131dba68cee
+:END:
+#+TITLE: Cowhhax Upmqcgn Deb Jboqz NV - 1992-5-12
+
+- wine :: [[id:1fb93c1f-3e86-4e27-8126-c14ecfdfd39d][Cowhhax Upmqcgn Deb Jboqz]]
+- date :: 1992-5-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

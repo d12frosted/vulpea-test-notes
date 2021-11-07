@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a1c12b1a-dbd6-4168-aea7-679f64f0e941
+:END:
+#+TITLE: Cowhhax Upmqcgn Foktd Rqpczh 1920 - 1999-8-16
+
+- wine :: [[id:eeb10d4b-d27b-45c4-9dc5-16ef4ab4e53d][Cowhhax Upmqcgn Foktd Rqpczh 1920]]
+- date :: 1999-8-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0
+
+

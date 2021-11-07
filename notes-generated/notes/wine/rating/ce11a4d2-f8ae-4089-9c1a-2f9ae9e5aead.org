@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ce11a4d2-f8ae-4089-9c1a-2f9ae9e5aead
+:END:
+#+TITLE: Giih Udr Cqi Nsozgh 2014 - 2010-7-6
+
+- wine :: [[id:b74d5c32-207d-4368-b1c7-55b7fbde5dc9][Giih Udr Cqi Nsozgh 2014]]
+- date :: 2010-7-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

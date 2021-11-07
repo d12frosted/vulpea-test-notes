@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     434f110b-84ea-4984-a7a5-c6ee1597840e
+:END:
+#+TITLE: Nhozxqe Aldl Avtjvv 2018 - 1995-8-10
+
+- wine :: [[id:caa0a0ba-9d0e-4390-916e-62b217c44dce][Nhozxqe Aldl Avtjvv 2018]]
+- date :: 1995-8-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
+
+

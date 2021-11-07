@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     60f6f13b-5149-469e-900c-b3abf3d6a520
+:END:
+#+TITLE: Cowhhax Upmqcgn Zke Tezfvv 2002
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Zke Tezfvv
+- vintage :: 2002
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 10.14
+- sugar :: 22.17
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 8.0
+- ratings :: [[id:6d272964-494f-400c-8507-2a948e19785b][Cowhhax Upmqcgn Zke Tezfvv 2002 - 2014-2-22]]
+
+

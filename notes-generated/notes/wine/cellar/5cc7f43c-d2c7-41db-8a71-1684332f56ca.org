@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5cc7f43c-d2c7-41db-8a71-1684332f56ca
+:END:
+#+TITLE: Lrwk Jbaxrmn Cvn 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Cvn
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- alcohol :: 9.39
+- price :: 70.92 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 3.0
+- ratings :: [[id:415a3167-6f07-4c29-a438-ac8fbfd31b5d][Lrwk Jbaxrmn Cvn NV - 1999-6-24]]
+
+

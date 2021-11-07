@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     1e35d9c9-6470-4b40-b8b7-de0170f3d0bd
+:END:
+#+TITLE: Ecxknc Iepvhans Crkw 1977
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Crkw
+- vintage :: 1977
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 13.64
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: wikipedia
+- rating :: NA
+
+

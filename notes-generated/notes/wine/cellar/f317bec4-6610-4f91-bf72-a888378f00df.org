@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     f317bec4-6610-4f91-bf72-a888378f00df
+:END:
+#+TITLE: Cowhhax Upmqcgn Qcfxaqj Xqve 
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Qcfxaqj Xqve
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.67
+- price :: 44.51 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:2106aeae-9613-4221-bf18-408e9af78d56][Cowhhax Upmqcgn Qcfxaqj Xqve NV - 2020-3-22]]
+
+

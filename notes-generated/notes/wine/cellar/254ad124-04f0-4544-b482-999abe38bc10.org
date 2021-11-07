@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     254ad124-04f0-4544-b482-999abe38bc10
+:END:
+#+TITLE: Ecxknc Iepvhans Nliex Cpmt 1935
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Nliex Cpmt
+- vintage :: 1935
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- grapes :: [[id:d983c0ef-ea5e-418b-8800-286091b391da][Yfoslh Xxqriutq]]
+- alcohol :: 13.45
+- sugar :: 8.56
+- price :: 73.44 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:4d50081f-d9a2-4768-9a6c-008668917425][Ecxknc Iepvhans Nliex Cpmt 1935 - 1997-10-27]]
+
+

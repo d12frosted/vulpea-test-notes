@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     37b9358b-962d-4d88-823f-6755bd8bc372
+:END:
+#+TITLE: Cowhhax Upmqcgn Ylvjaup 2013 - 1993-9-17
+
+- wine :: [[id:c1faca8b-d91d-41a7-9235-8902d80c910a][Cowhhax Upmqcgn Ylvjaup 2013]]
+- date :: 1993-9-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

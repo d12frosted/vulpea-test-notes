@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     a1316fea-c273-4737-9f97-2ab6e861820b
+:END:
+#+TITLE: Yjfq Ptp 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Ptp
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- alcohol :: 11.120000000000001
+- sugar :: 11.97
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA
+
+

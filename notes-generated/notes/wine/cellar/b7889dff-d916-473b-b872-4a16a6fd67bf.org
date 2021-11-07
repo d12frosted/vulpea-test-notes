@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     b7889dff-d916-473b-b872-4a16a6fd67bf
+:END:
+#+TITLE: Giih Udr Gkogcitu Ealue 1910
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Gkogcitu Ealue
+- vintage :: 1910
+- appellation :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- grapes :: [[id:418b9689-f8de-4492-b893-3f048b747884][Igwhrl]]
+- alcohol :: 13.82
+- sugar :: 20.37
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.5
+- ratings :: [[id:368b3d89-0d8b-4e1c-98d4-3ad1f55e7bdd][Giih Udr Gkogcitu Ealue 1910 - 2019-5-16]]
+
+

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ae1c57c3-a42f-48ae-80a7-cd59a00dea52
+:END:
+#+TITLE: Yjfq Tqhtsitz 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Tqhtsitz
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.75
+- sugar :: 2.8
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- rating :: 4.5
+- ratings :: [[id:dd7c978f-86b3-4469-8f39-341109533d07][Yjfq Tqhtsitz NV - 2011-11-27]]
+
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:                     3053a514-4d9e-4e46-a631-e3ddd7cf1517
+:END:
+#+TITLE: Cowhhax Upmqcgn Cvvujec Hvsyctog 1912
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Cvvujec Hvsyctog
+- vintage :: 1912
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 10.75
+- sugar :: 5.17
+- price :: 31.76 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 6.0
+- ratings :: [[id:d7baf06b-a828-4912-9bea-b47dcd9a76ca][Cowhhax Upmqcgn Cvvujec Hvsyctog 1912 - 1996-3-3]]
+
+

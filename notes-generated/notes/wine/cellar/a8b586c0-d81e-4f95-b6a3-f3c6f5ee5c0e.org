@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     a8b586c0-d81e-4f95-b6a3-f3c6f5ee5c0e
+:END:
+#+TITLE: Nhozxqe Aldl Nbwmnjhb Nmlfnhq 2015
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Nbwmnjhb Nmlfnhq
+- vintage :: 2015
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 12.93
+- price :: 19.93 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: 4.0
+- ratings :: [[id:ad368e8b-8ade-47b6-bfdb-28d3a37230e9][Nhozxqe Aldl Nbwmnjhb Nmlfnhq 2015 - 1998-5-1]]
+
+

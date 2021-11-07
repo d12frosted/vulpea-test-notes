@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     1c4ad68a-080f-46d2-a18e-064e3a7e503d
+:END:
+#+TITLE: Yokf Gwhwycw Psqhxhb 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Psqhxhb
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 10.25
+- price :: 30.83 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:4de8e0a8-553b-4d87-a52a-e6f535a1dee7][Yokf Gwhwycw Psqhxhb NV - 2013-10-9]]
+
+

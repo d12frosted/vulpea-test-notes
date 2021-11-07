@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     25003d0b-4f76-47a0-b40c-ffdf16ed9075
+:END:
+#+TITLE: Lrwk Jbaxrmn Nezxpsa 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Nezxpsa
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 9.53
+- price :: 52.66 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: wikipedia
+- rating :: NA
+
+

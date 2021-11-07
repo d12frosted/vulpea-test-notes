@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     7cf0f90a-d964-449a-b151-bc463d6d5f45
+:END:
+#+TITLE: Lrwk Jbaxrmn Pcvptcf Krmxw 1956
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Pcvptcf Krmxw
+- vintage :: 1956
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 10.22
+- sugar :: 9.59
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     efd81d7e-4584-4a2d-b9f1-d07bd3a91db5
+:END:
+#+TITLE: Lrwk Jbaxrmn Pwndgl NV - 2012-10-27
+
+- wine :: [[id:e94d5583-848c-4e64-861a-f92f4df98207][Lrwk Jbaxrmn Pwndgl]]
+- date :: 2012-10-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

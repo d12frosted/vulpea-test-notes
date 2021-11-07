@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     3f3b3583-f2e3-4d5d-b996-c253b4383952
+:END:
+#+TITLE: Ecxknc Iepvhans Dbndm Lvrkid 1991 - 2010-7-6
+
+- wine :: [[id:bead98f4-966a-4d96-97e9-aa1e248f8e26][Ecxknc Iepvhans Dbndm Lvrkid 1991]]
+- date :: 2010-7-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0
+
+

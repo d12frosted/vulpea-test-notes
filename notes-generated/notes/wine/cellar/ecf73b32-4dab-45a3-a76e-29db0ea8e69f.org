@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ecf73b32-4dab-45a3-a76e-29db0ea8e69f
+:END:
+#+TITLE: Giih Udr Quxrw Qonwde 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Quxrw Qonwde
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- alcohol :: 10.1
+- sugar :: 12.43
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:a487ea06-5269-43ff-b991-701324e140fd][Giih Udr Quxrw Qonwde NV - 2012-3-19]]
+
+

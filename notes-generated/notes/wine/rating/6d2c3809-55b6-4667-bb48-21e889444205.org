@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6d2c3809-55b6-4667-bb48-21e889444205
+:END:
+#+TITLE: Scf Elpezclx Bhhxdabx Zoyof NV - 1997-5-11
+
+- wine :: [[id:a5ec903e-6cca-4f2b-8f37-c584310d7b4e][Scf Elpezclx Bhhxdabx Zoyof]]
+- date :: 1997-5-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

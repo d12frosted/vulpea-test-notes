@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     de0a0fcd-5297-46b9-985f-af36c2353d60
+:END:
+#+TITLE: Qay Udp Wdk 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Udp Wdk
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- alcohol :: 13.51
+- price :: 50.02 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:2171a827-c080-4468-884f-e94e379c6524][Qay Udp Wdk NV - 2013-12-3]]
+
+

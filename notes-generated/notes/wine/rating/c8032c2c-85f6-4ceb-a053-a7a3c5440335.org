@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c8032c2c-85f6-4ceb-a053-a7a3c5440335
+:END:
+#+TITLE: Yokf Gwhwycw Fhxor Tulw NV - 1997-7-15
+
+- wine :: [[id:c379daa7-ba1b-4e03-96c3-708938f328b7][Yokf Gwhwycw Fhxor Tulw]]
+- date :: 1997-7-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5
+
+

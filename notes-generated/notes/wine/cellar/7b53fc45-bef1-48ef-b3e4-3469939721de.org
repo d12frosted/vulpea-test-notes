@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     7b53fc45-bef1-48ef-b3e4-3469939721de
+:END:
+#+TITLE: Ecxknc Iepvhans Nuhb Gsvylaju 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Nuhb Gsvylaju
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- alcohol :: 13.17
+- sugar :: 12.3
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:47e01a18-0eb9-49d9-b003-b99e7e92b783][Aiwuo]]
+- rating :: 5.0
+- ratings :: [[id:498d4c6a-898c-44ae-bd0b-94654988dc8f][Ecxknc Iepvhans Nuhb Gsvylaju NV - 2024-4-9]]
+
+

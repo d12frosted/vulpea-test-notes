@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     95887f9a-9de9-4e3a-b6b6-2873509195db
+:END:
+#+TITLE: Nhozxqe Aldl Xnarcd 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Xnarcd
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- grapes :: [[id:b0bb8fc4-9992-4777-b729-2bd03118f9f8][Tzpel]]
+- alcohol :: 11.91
+- price :: 14.33 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- rating :: 6.0
+- ratings :: [[id:f8f0136a-a712-4abb-93b9-f583b94b8a27][Nhozxqe Aldl Xnarcd NV - 2004-9-11]]
+
+

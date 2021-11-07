@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     59c6be95-25eb-4b43-a6d3-d6e9872a05da
+:END:
+#+TITLE: Nhozxqe Aldl Esiatk 1998
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:539af513-9024-4da4-8bd6-4dac33ba9304][Nhozxqe Aldl]]
+- name :: Esiatk
+- vintage :: 1998
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 10.22
+- price :: 56.57 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:94c90bb9-4860-46af-9a11-0a56320daef2][Nhozxqe Aldl Esiatk 1998 - 1992-8-18]]
+
+

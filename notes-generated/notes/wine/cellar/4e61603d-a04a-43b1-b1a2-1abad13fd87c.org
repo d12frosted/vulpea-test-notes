@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     4e61603d-a04a-43b1-b1a2-1abad13fd87c
+:END:
+#+TITLE: Yjfq Tqjxq 2018
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Tqjxq
+- vintage :: 2018
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.41
+- price :: 25.24 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:805179d3-9497-4a2a-b4f4-3f4f90f3ecd1][Yjfq Tqjxq 2018 - 2010-11-18]]
+
+

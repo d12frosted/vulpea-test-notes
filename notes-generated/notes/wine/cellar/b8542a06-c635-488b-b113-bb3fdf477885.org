@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     b8542a06-c635-488b-b113-bb3fdf477885
+:END:
+#+TITLE: Yjfq Zdpw Xpm 1982
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Zdpw Xpm
+- vintage :: 1982
+- region :: [[id:08e83ce7-812d-40f4-9921-107786a1b0fe][Zbtbcdxi Vmpqma]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 9.74
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:175cc497-aa6e-42a5-9e0b-15ac57275231][Yjfq Zdpw Xpm 1982 - 2000-11-13]]
+
+

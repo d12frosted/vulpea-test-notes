@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     4647e631-0087-41d1-9452-4abbb43d0055
+:END:
+#+TITLE: Nhozxqe Aldl Yct Qdoqgtw NV - 1990-1-13
+
+- wine :: [[id:d96823e3-41b6-4b8e-a59c-285ab7078af3][Nhozxqe Aldl Yct Qdoqgtw]]
+- date :: 1990-1-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

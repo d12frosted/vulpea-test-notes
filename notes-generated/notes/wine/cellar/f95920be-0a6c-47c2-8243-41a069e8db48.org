@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     f95920be-0a6c-47c2-8243-41a069e8db48
+:END:
+#+TITLE: Yjfq Xtudqmhi Olcaeo 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Xtudqmhi Olcaeo
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 10.28
+- price :: 37.23 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA
+
+

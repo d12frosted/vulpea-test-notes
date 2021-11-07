@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     a14f8dcb-e1cc-4844-81cd-fa8868146ad0
+:END:
+#+TITLE: Ecxknc Iepvhans Woxx 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Woxx
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:0ca1d5f5-629a-4d38-a115-dd3ff0f3b353][Vbfsnpca]]
+- grapes :: [[id:ce291a16-d3e3-4157-8384-df4ed6982d90][Qqqipv Kmfuyw]]
+- alcohol :: 12.5
+- sugar :: 11.15
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:ca5859fc-e617-4c11-90b0-c37431937a0e][Ecxknc Iepvhans Woxx NV - 2001-3-23]]
+
+

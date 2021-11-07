@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     bbc2765b-6815-4411-ac6f-c7e0b7a0673a
+:END:
+#+TITLE: Yokf Gwhwycw Gvaqdh 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Gvaqdh
+- region :: [[id:106b3122-bafe-43ea-b483-491e796c6f06][Ulqfqk Xved]]
+- alcohol :: 10.67
+- sugar :: 9.67
+- price :: 62.59 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

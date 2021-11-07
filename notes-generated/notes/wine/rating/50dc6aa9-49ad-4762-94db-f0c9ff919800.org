@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     50dc6aa9-49ad-4762-94db-f0c9ff919800
+:END:
+#+TITLE: Scf Elpezclx Sxoo NV - 2009-2-8
+
+- wine :: [[id:17d13c14-2684-4fe3-a583-b9c1eff51609][Scf Elpezclx Sxoo]]
+- date :: 2009-2-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

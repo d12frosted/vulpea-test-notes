@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     6db278ea-4027-4643-81ec-f3e43763705a
+:END:
+#+TITLE: Yjfq Eoonuzgf 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Eoonuzgf
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:7fb5efce-420b-4bcb-bd51-745f94640550][Zezlztam Kxqwmctj]]
+- alcohol :: 12.4
+- sugar :: 19.34
+- price :: 101.09 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 2.5
+- ratings :: [[id:5e21f0a9-6130-4b4f-878d-14741574b3ed][Yjfq Eoonuzgf NV - 2009-3-12]]
+
+

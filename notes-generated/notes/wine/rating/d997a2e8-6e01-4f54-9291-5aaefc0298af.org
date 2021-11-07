@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     d997a2e8-6e01-4f54-9291-5aaefc0298af
+:END:
+#+TITLE: Lrwk Jbaxrmn Zchrfnyn Aqtwen NV - 1995-2-26
+
+- wine :: [[id:4039e9b5-ab78-4035-b072-399fe1c3f1da][Lrwk Jbaxrmn Zchrfnyn Aqtwen]]
+- date :: 1995-2-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

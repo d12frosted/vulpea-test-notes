@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     fa079d6d-5b76-4c53-a7a7-de2bfb0d56f6
+:END:
+#+TITLE: Yokf Gwhwycw Aolt Fjckydj 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Aolt Fjckydj
+- appellation :: [[id:e509dff3-47a1-40fb-af4a-d7822c00b9e5][Mqqshrcx]]
+- grapes :: [[id:c0f91d3b-3e5c-48d9-a47e-e2c90e3330d9][Fwxmteqj Jlhmtyys]]
+- alcohol :: 12.07
+- price :: 25.41 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA
+
+

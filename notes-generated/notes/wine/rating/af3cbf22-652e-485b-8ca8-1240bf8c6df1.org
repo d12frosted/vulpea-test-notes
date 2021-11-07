@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     af3cbf22-652e-485b-8ca8-1240bf8c6df1
+:END:
+#+TITLE: Jjkswvm Rcm Vywskli 1990 - 2000-11-9
+
+- wine :: [[id:d711271a-3670-4e5b-aaae-4dcf0506fc6d][Jjkswvm Rcm Vywskli 1990]]
+- date :: 2000-11-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

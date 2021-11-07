@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     ce2243e3-bb4e-4ac1-8cb7-198f682ec6b6
+:END:
+#+TITLE: Ecxknc Iepvhans Cuxqkc Mwg 1967
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Cuxqkc Mwg
+- vintage :: 1967
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:4b330cbb-3bc3-4520-af0a-aaa1a7619fa3][Xoo Rppf]]
+- alcohol :: 13.0
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA
+
+

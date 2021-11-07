@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     1ed582f2-ac19-4066-83e8-cbffbf1cbf6e
+:END:
+#+TITLE: Yjfq Jidsxd Naz 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Jidsxd Naz
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- alcohol :: 12.04
+- sugar :: 8.78
+- price :: 12.35 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

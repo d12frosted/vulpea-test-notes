@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     dafff8b2-bbd6-4efb-be4d-678665efe6dc
+:END:
+#+TITLE: Ecxknc Iepvhans Zaf Fxxiiei 1962
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Zaf Fxxiiei
+- vintage :: 1962
+- appellation :: [[id:15b70af5-e968-4e98-94c5-64021e4b4fab][Ioomvjx]]
+- alcohol :: 11.629999999999999
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA
+
+

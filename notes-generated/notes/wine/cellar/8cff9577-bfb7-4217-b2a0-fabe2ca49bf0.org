@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     8cff9577-bfb7-4217-b2a0-fabe2ca49bf0
+:END:
+#+TITLE: Cowhhax Upmqcgn Wtzznkp Cznw 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Wtzznkp Cznw
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 12.31
+- sugar :: 22.12
+- price :: 51.01 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: wikipedia
+- rating :: NA
+
+

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     78d8b5f2-f2b4-4261-8ada-e1dea69dbdbb
+:END:
+#+TITLE: Lrwk Jbaxrmn Wjq Uujs NV - 2022-9-5
+
+- wine :: [[id:25852503-d9dc-4ef8-863d-b3b6d7b53cfd][Lrwk Jbaxrmn Wjq Uujs]]
+- date :: 2022-9-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5
+
+

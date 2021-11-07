@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     730f8b0a-d969-4431-9ff7-f30d46ba1a96
+:END:
+#+TITLE: Lrwk Jbaxrmn Jcktmoj 1990
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Jcktmoj
+- vintage :: 1990
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 11.67
+- sugar :: 23.51
+- price :: 6.18 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA
+
+

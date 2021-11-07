@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     150688fd-41e9-44dc-ae83-e3625f73480c
+:END:
+#+TITLE: Scf Elpezclx Bzt 1933
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Bzt
+- vintage :: 1933
+- appellation :: [[id:99cdda33-6cc9-4d41-a115-eb6f7e029d06][Slnguwth]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 13.42
+- sugar :: 20.41
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA
+
+

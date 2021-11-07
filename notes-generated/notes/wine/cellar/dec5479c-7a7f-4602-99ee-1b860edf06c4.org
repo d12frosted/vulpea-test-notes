@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     dec5479c-7a7f-4602-99ee-1b860edf06c4
+:END:
+#+TITLE: Ecxknc Iepvhans Xhyjfzv Tqeoeln 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Xhyjfzv Tqeoeln
+- region :: [[id:69c25976-6635-461f-ab43-dc0380682937][Qcsp Doafqmj]]
+- grapes :: [[id:cf529785-d867-4f5d-b643-417de515cda5][Whfjey Nhhtbv]]
+- alcohol :: 11.66
+- sugar :: 7.38
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: NA
+
+

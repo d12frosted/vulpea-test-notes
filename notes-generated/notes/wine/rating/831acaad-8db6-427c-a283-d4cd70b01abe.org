@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     831acaad-8db6-427c-a283-d4cd70b01abe
+:END:
+#+TITLE: Ecxknc Iepvhans Uhrqem Gdtzmkgw 1984 - 2004-2-7
+
+- wine :: [[id:627ef131-c0c0-4ece-9295-62a89d648cc5][Ecxknc Iepvhans Uhrqem Gdtzmkgw 1984]]
+- date :: 2004-2-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5
+
+

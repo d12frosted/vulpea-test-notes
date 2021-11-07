@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     52025043-fd39-4bb5-a8ad-6a529431e2fe
+:END:
+#+TITLE: Yokf Gwhwycw Aqcr Xyido 1991
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Aqcr Xyido
+- vintage :: 1991
+- appellation :: [[id:b445b034-7adb-44b8-839a-27b388022a14][Vgvlico Whcsq]]
+- alcohol :: 13.9
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA
+
+

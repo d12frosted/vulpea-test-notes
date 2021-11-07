@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     746ce4f3-06f5-4605-bc82-6496f124988b
+:END:
+#+TITLE: Jjkswvm Rcm Pgfhje 1941
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f56d1c8d-34f6-4471-99e0-b868e6e4169f][Jjkswvm Rcm]]
+- name :: Pgfhje
+- vintage :: 1941
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 9.06
+- sugar :: 15.56
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 2.5
+- ratings :: [[id:882cb511-12d5-4b7c-9e37-3229c4a6e742][Jjkswvm Rcm Pgfhje 1941 - 2020-6-23]]
+
+

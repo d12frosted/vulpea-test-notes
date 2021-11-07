@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     3a1502b9-5b1d-48b6-b0d7-99a353a895cd
+:END:
+#+TITLE: Lrwk Jbaxrmn Drtyivo 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Drtyivo
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 12.96
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 3.5
+- ratings :: [[id:f809c4d4-653a-458f-98e9-893662b48a17][Lrwk Jbaxrmn Drtyivo NV - 2022-12-14]]
+
+

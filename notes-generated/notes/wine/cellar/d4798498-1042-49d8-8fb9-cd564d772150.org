@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     d4798498-1042-49d8-8fb9-cd564d772150
+:END:
+#+TITLE: Lrwk Jbaxrmn Srflk Lcpvbcr 2010
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Srflk Lcpvbcr
+- vintage :: 2010
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- alcohol :: 13.05
+- price :: 67.64 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:e5161337-d789-49ea-b513-b029a0c62bec][Lrwk Jbaxrmn Srflk Lcpvbcr 2010 - 1992-10-8]]
+
+

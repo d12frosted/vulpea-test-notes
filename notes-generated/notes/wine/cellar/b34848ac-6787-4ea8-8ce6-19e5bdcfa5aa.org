@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     b34848ac-6787-4ea8-8ce6-19e5bdcfa5aa
+:END:
+#+TITLE: Ecxknc Iepvhans Kqm Jtfqdpky 2003
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e9b35e4c-e3b7-4ed6-8f3f-da29fba78d5b][Ecxknc Iepvhans]]
+- name :: Kqm Jtfqdpky
+- vintage :: 2003
+- appellation :: [[id:c31dd59d-0c4f-4f27-adba-d84cb0bd0365][Divha]]
+- grapes :: [[id:8961e4fb-a9fd-4f70-9b5b-757816f654d5][Igbkzxc Tnthvctu]]
+- alcohol :: 13.379999999999999
+- sugar :: 21.38
+- price :: 101.90 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- rating :: NA
+
+

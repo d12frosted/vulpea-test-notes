@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:                     2a15b5ef-8fd0-434c-a274-987452147ea4
+:END:
+#+TITLE: Scf Elpezclx Dfpbly Frnhoq 
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:85267b00-1235-4e32-9418-d53c08f6b426][Scf Elpezclx]]
+- name :: Dfpbly Frnhoq
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- alcohol :: 9.12
+- sugar :: 3.48
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA
+
+

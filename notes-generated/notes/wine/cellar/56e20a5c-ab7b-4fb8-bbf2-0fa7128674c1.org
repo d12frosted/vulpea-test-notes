@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     56e20a5c-ab7b-4fb8-bbf2-0fa7128674c1
+:END:
+#+TITLE: Qay Afekgkj 1971
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8fd643f-17cf-4963-8cdb-3997b5b1f19c][Qay]]
+- name :: Afekgkj
+- vintage :: 1971
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 13.690000000000001
+- price :: 96.21 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 9.5
+- ratings :: [[id:fc128b71-97db-402d-9782-dc9ceee8c138][Qay Afekgkj 1971 - 1992-6-23]]
+
+

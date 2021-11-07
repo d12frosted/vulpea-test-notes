@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     0909dbd2-c3ee-49af-b172-5df321715a5e
+:END:
+#+TITLE: Yokf Gwhwycw Jqe Tcqmt 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Jqe Tcqmt
+- region :: [[id:e42b3c90-280e-4b26-a86f-d89b6ecbe8c1][Xxxookpe]]
+- grapes :: [[id:aa0ff8ab-1317-4e05-aff1-4519ebca5153][Ssfl]]
+- alcohol :: 9.81
+- price :: 64.57 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA
+
+

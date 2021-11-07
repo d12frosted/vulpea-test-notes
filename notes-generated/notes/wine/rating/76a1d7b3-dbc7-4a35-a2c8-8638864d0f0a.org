@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     76a1d7b3-dbc7-4a35-a2c8-8638864d0f0a
+:END:
+#+TITLE: Lrwk Jbaxrmn Dcg Gfsaerxz 1975 - 2002-8-9
+
+- wine :: [[id:2be55057-d075-44f6-9cfe-e4d886e524b4][Lrwk Jbaxrmn Dcg Gfsaerxz 1975]]
+- date :: 2002-8-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

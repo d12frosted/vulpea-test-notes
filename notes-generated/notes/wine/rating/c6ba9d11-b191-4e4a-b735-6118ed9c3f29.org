@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     c6ba9d11-b191-4e4a-b735-6118ed9c3f29
+:END:
+#+TITLE: Giih Udr Bwnd Cqn 1910 - 2023-3-25
+
+- wine :: [[id:d108d720-3fbb-4340-ac64-2a8ab4778a51][Giih Udr Bwnd Cqn 1910]]
+- date :: 2023-3-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

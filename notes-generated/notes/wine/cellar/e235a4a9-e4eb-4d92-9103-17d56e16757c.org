@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:                     e235a4a9-e4eb-4d92-9103-17d56e16757c
+:END:
+#+TITLE: Cowhhax Upmqcgn Deguqu Zrv 
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Deguqu Zrv
+- appellation :: [[id:a8de29ee-8ff1-4aea-9510-623357b0e4e5][Hteqmcvq]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- alcohol :: 12.15
+- sugar :: 8.93
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA
+
+

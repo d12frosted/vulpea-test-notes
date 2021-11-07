@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     f59516c7-4209-44a2-9d6e-868a41044892
+:END:
+#+TITLE: Yokf Gwhwycw Sspfg 1953
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Sspfg
+- vintage :: 1953
+- region :: [[id:6769ee45-84cb-4124-af2a-3cc72c2a7a25][Sfohgtuy Vbfnhdtb]]
+- grapes :: [[id:41eb5b51-02da-40dd-bfd6-d2fb425cb2d0][Jxcwv Jfbqq]]
+- grapes :: [[id:6423960a-d657-4c04-bc86-30f8b810e849][Luguca]]
+- alcohol :: 12.17
+- sugar :: 8.03
+- price :: 5.54 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA
+
+

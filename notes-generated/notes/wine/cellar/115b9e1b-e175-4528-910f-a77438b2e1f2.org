@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     115b9e1b-e175-4528-910f-a77438b2e1f2
+:END:
+#+TITLE: Yokf Gwhwycw Mhq 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:468a0585-7921-4943-9df2-1fff551780c4][Yokf Gwhwycw]]
+- name :: Mhq
+- appellation :: [[id:8508a37c-5f8b-409e-82b9-adf9880a8d4d][Isyhucjr Ijvo]]
+- grapes :: [[id:f4d7cb0e-1b29-4595-8933-a066c2d38566][Nygp Uzxgbar]]
+- grapes :: [[id:61dd97ab-5b59-41cc-8789-767c5bc3a815][Hbjg Ybsqduu]]
+- alcohol :: 11.75
+- sugar :: 17.8
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 3.0
+- ratings :: [[id:70bcf7b4-eda7-4103-af02-414202ec025f][Yokf Gwhwycw Mhq NV - 2015-6-8]]
+
+

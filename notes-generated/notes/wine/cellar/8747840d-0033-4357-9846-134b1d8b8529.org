@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:                     8747840d-0033-4357-9846-134b1d8b8529
+:END:
+#+TITLE: Yjfq Aiqytv 
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:35992ec3-be8f-45d4-87e9-fe8216552764][Yjfq]]
+- name :: Aiqytv
+- region :: [[id:fc068556-7250-4aaf-80dc-574ec0c659d9][Embj]]
+- alcohol :: 11.7
+- sugar :: 3.4
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 7.0
+- ratings :: [[id:6c1c6741-7bed-441d-bd04-964437e6533e][Yjfq Aiqytv NV - 2023-12-2]]
+
+

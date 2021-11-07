@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     7c08e0e2-c7bd-4dc0-aa42-4ac711994316
+:END:
+#+TITLE: Ecxknc Iepvhans Oqeugsz Qof 1946 - 2004-8-17
+
+- wine :: [[id:6d68f19c-8872-4788-94e7-5d2d2aeec885][Ecxknc Iepvhans Oqeugsz Qof 1946]]
+- date :: 2004-8-17
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5
+
+

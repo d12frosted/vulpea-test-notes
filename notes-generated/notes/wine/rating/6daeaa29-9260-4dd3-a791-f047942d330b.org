@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     6daeaa29-9260-4dd3-a791-f047942d330b
+:END:
+#+TITLE: Jjkswvm Rcm Srrg 2018 - 1998-11-24
+
+- wine :: [[id:8a106700-5b56-4f66-b116-871b01b6841a][Jjkswvm Rcm Srrg 2018]]
+- date :: 1998-11-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0
+
+

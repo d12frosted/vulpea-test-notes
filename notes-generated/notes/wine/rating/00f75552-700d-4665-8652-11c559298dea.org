@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     00f75552-700d-4665-8652-11c559298dea
+:END:
+#+TITLE: Yokf Gwhwycw Euleud NV - 1991-3-14
+
+- wine :: [[id:74e15bb4-244e-4992-8b14-41a2fd027d5d][Yokf Gwhwycw Euleud]]
+- date :: 1991-3-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0
+
+

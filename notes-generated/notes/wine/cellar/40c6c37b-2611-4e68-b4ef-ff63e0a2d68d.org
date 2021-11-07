@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     40c6c37b-2611-4e68-b4ef-ff63e0a2d68d
+:END:
+#+TITLE: Lrwk Jbaxrmn Mziorr 
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:a9621b95-966c-4319-8256-6168df5411b3][Lrwk Jbaxrmn]]
+- name :: Mziorr
+- region :: [[id:70da2ddd-e00b-45ae-9b26-5baf98a94d62][Mvs]]
+- grapes :: [[id:7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3][Kysfm Tmatchg]]
+- grapes :: [[id:9cb04c77-1c20-42d3-bbca-f291e87937bc][Beuet]]
+- alcohol :: 12.59
+- sugar :: 11.79
+- price :: 84.69 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:8675dec7-94b7-4134-8ea8-a58b7cd2be4f][Lrwk Jbaxrmn Mziorr NV - 2013-3-23]]
+
+

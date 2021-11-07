@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     5760ce06-1528-4280-ae57-1a4256cd2fff
+:END:
+#+TITLE: Giih Udr Nuwxdd 2004
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Nuwxdd
+- vintage :: 2004
+- appellation :: [[id:7fc7af1a-b0f4-4929-abe8-e13faf5afc1d][Piupep]]
+- alcohol :: 12.04
+- sugar :: 21.2
+- price :: 23.31 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA
+
+

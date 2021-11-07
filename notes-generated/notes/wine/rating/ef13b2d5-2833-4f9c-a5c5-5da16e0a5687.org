@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:                     ef13b2d5-2833-4f9c-a5c5-5da16e0a5687
+:END:
+#+TITLE: Lrwk Jbaxrmn Dnvh Ajwwsfls NV - 2020-5-12
+
+- wine :: [[id:f2b27837-3135-4f40-90d1-330c02b1c7c0][Lrwk Jbaxrmn Dnvh Ajwwsfls]]
+- date :: 2020-5-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5
+
+

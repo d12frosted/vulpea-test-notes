@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     cc34e255-9aab-4c5a-81de-d5bc566f61c7
+:END:
+#+TITLE: Giih Udr Oeqdiuz 
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:38c8ce93-379c-4645-b249-23775ff51477][Giih Udr]]
+- name :: Oeqdiuz
+- region :: [[id:77991750-dea6-4276-bb68-bc388de42400][Rbak]]
+- grapes :: [[id:8bf68399-9390-412a-b373-ec8c24426e49][Wurhifm Eabmkf]]
+- alcohol :: 13.95
+- sugar :: 6.51
+- price :: 71.57 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:fdb2a0ae-7ad3-4c8d-842e-ecd394dd0683][Giih Udr Oeqdiuz NV - 2002-4-13]]
+
+

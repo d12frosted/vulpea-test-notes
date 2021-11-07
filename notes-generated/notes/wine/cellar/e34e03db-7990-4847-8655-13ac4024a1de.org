@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:                     e34e03db-7990-4847-8655-13ac4024a1de
+:END:
+#+TITLE: Cowhhax Upmqcgn Wchmzs 1930
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3e62d896-76d3-4ade-b324-cd466bcc0e07][Cowhhax Upmqcgn]]
+- name :: Wchmzs
+- vintage :: 1930
+- appellation :: [[id:257feca2-db92-471f-871f-c09c29f79cdd][Wdixyw Vpbmvd]]
+- alcohol :: 11.92
+- sugar :: 15.35
+- price :: 3.19 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA
+
+
