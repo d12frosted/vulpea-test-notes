@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       465b5342-7e84-4a93-a699-d54ade9e644d
+:END:
+#+title: Hppbtt Zgxyn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Zgxyn
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 10.31
+- sugar :: 17.4
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

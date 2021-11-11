@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       307c95ac-b868-4f4b-82bd-212624448316
+:END:
+#+title: Ibde Iowlof Cprobes Fum 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Cprobes Fum
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 13.15
+- sugar :: 9.35
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:5754ebcc-13c1-4afb-bf83-99528937294a][Ibde Iowlof Cprobes Fum NV - 2006-10-23]]

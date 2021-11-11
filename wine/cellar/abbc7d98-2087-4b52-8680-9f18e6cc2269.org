@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       abbc7d98-2087-4b52-8680-9f18e6cc2269
+:END:
+#+title: Bhpgaqm Pslnklf Aopfg Rdwdyr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Aopfg Rdwdyr
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 10.3
+- price :: 46.59 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:d9835547-5ac4-496d-a903-9d72a02c2e2d][Bhpgaqm Pslnklf Aopfg Rdwdyr NV - 2019-3-16]]

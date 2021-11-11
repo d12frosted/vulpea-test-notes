@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       35408f8f-3a67-438b-8cf1-d7bbf0cedbfd
+:END:
+#+title: Mabtcl Miuoflx Whyuckqo Bzabze NV - 1998-1-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:ebfe9396-0f1d-4971-84db-671d6b8a2975][Mabtcl Miuoflx Whyuckqo Bzabze]]
+- date :: 1998-1-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

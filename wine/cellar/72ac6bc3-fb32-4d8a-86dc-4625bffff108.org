@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       72ac6bc3-fb32-4d8a-86dc-4625bffff108
+:END:
+#+title: Xnxdlsx Uiuchy 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Uiuchy
+- vintage :: 2009
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.91
+- price :: 22.04 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

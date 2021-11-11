@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e0b18560-3271-4684-ae12-5a7c4805329d
+:END:
+#+title: Mabtcl Miuoflx Ixqagdbk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Ixqagdbk
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 11.72
+- sugar :: 19.73
+- price :: 51.24 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

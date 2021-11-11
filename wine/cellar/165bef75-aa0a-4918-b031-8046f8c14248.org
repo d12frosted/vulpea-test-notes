@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       165bef75-aa0a-4918-b031-8046f8c14248
+:END:
+#+title: Ibde Iowlof Hcyix 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Hcyix
+- vintage :: 1947
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 11.32
+- price :: 50.48 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:9415e555-973d-4fa6-8def-df448ec876db][Ibde Iowlof Hcyix 1947 - 1999-6-22]]

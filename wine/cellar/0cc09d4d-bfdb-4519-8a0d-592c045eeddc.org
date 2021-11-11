@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0cc09d4d-bfdb-4519-8a0d-592c045eeddc
+:END:
+#+title: Hppbtt Ztwivzi Xrvzpvn 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ztwivzi Xrvzpvn
+- vintage :: 1924
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 11.56
+- sugar :: 19.11
+- price :: 9.64 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

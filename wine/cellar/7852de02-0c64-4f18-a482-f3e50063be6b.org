@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7852de02-0c64-4f18-a482-f3e50063be6b
+:END:
+#+title: Xhbm Slizbd 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Slizbd
+- vintage :: 1929
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 10.72
+- sugar :: 13.5
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

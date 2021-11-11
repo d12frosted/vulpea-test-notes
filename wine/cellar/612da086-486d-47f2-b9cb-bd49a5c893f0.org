@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       612da086-486d-47f2-b9cb-bd49a5c893f0
+:END:
+#+title: Ajkygaf Emnb Kme 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Kme
+- vintage :: 1949
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 9.71
+- sugar :: 4.49
+- price :: 33.70 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

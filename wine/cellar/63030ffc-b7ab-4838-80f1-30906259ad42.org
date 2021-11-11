@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       63030ffc-b7ab-4838-80f1-30906259ad42
+:END:
+#+title: Xnxdlsx Ycqwjzje 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ycqwjzje
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 13.92
+- sugar :: 0.17
+- price :: 43.70 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

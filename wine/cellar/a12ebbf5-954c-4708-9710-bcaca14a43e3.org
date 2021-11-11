@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       a12ebbf5-954c-4708-9710-bcaca14a43e3
+:END:
+#+title: Xnxdlsx Hrifst 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Hrifst
+- vintage :: 2009
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.67
+- sugar :: 16.3
+- price :: 83.04 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

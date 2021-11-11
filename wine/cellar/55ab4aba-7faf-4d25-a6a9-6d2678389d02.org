@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       55ab4aba-7faf-4d25-a6a9-6d2678389d02
+:END:
+#+title: Xhbm Mfmx 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Mfmx
+- vintage :: 1979
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.120000000000001
+- price :: 68.67 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:c160dd1c-cfd4-4f25-b891-479149efe51f][Xhbm Mfmx 1979 - 2006-4-9]]

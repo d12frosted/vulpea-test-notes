@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       738d76cb-dea7-48bf-a5f1-a3a98cd0a2bc
+:END:
+#+title: Hppbtt Pmff Vjks 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Pmff Vjks
+- vintage :: 1919
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 9.29
+- sugar :: 7.43
+- price :: 29.83 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

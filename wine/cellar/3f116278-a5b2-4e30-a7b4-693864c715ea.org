@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3f116278-a5b2-4e30-a7b4-693864c715ea
+:END:
+#+title: Wdcfn Yrra Cvt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Cvt
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 11.75
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:a225e5bf-e99c-4059-a15e-69a0c45a181b][Wdcfn Yrra Cvt NV - 1990-6-12]]

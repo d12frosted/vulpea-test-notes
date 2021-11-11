@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       13d7fe3c-fdcb-4846-9bb7-a77b5a35f27d
+:END:
+#+title: Xnxdlsx Djbrs 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Djbrs
+- vintage :: 1909
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 11.1
+- price :: 59.11 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:3052e4fc-2cf7-4f7d-8a80-8166dab10358][Xnxdlsx Djbrs 1909 - 1999-4-21]]

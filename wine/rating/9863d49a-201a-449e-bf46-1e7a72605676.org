@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9863d49a-201a-449e-bf46-1e7a72605676
+:END:
+#+title: Fxbahvi Qqezrar Jrtqw Ygdet 1975 - 2012-10-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:646e4b7d-e534-46e4-a46e-86a7d4f8a6b6][Fxbahvi Qqezrar Jrtqw Ygdet 1975]]
+- date :: 2012-10-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

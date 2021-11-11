@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ab95a1b9-4108-4a51-9e31-71b3e2eba913
+:END:
+#+title: Wdcfn Yrra Iwdtjz 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Iwdtjz
+- vintage :: 1960
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 9.34
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:641ee29f-a088-4d1e-9b1b-16fe1db4d4d9][Wdcfn Yrra Iwdtjz 1960 - 2011-3-20]]

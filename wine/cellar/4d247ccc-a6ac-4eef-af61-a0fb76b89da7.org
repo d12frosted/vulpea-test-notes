@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4d247ccc-a6ac-4eef-af61-a0fb76b89da7
+:END:
+#+title: Fxbahvi Qqezrar Zmswjy 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Zmswjy
+- vintage :: 1952
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 13.65
+- sugar :: 10.56
+- price :: 11.18 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

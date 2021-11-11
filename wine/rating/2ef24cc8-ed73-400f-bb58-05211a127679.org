@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2ef24cc8-ed73-400f-bb58-05211a127679
+:END:
+#+title: Xnxdlsx Icflxo Mvwc 1960 - 2024-11-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:43d27906-d728-481b-8ccb-a90839c0bae2][Xnxdlsx Icflxo Mvwc 1960]]
+- date :: 2024-11-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

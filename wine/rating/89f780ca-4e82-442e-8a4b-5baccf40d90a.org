@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       89f780ca-4e82-442e-8a4b-5baccf40d90a
+:END:
+#+title: Xnxdlsx Bzhc 1921 - 2019-8-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:b16e92ae-e425-4c8d-b669-fff7bc84cca8][Xnxdlsx Bzhc 1921]]
+- date :: 2019-8-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

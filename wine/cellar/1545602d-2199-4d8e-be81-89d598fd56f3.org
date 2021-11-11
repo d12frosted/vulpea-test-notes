@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1545602d-2199-4d8e-be81-89d598fd56f3
+:END:
+#+title: Xhbm Bfdxnzrb Udgv 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Bfdxnzrb Udgv
+- vintage :: 1941
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 12.93
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.0
+- ratings :: [[id:3ae7aecc-b0bd-437c-8e46-faaa83562f11][Xhbm Bfdxnzrb Udgv 1941 - 2004-5-16]]

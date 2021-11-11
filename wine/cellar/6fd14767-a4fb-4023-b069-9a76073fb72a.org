@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6fd14767-a4fb-4023-b069-9a76073fb72a
+:END:
+#+title: Ibde Iowlof Ipqaqwv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ipqaqwv
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.54
+- sugar :: 18.92
+- price :: 90.81 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 3.5
+- ratings :: [[id:770c9eba-37d5-4c9f-925d-0dd46c4eb66d][Ibde Iowlof Ipqaqwv NV - 2018-2-9]]

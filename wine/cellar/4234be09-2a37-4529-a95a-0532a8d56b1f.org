@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4234be09-2a37-4529-a95a-0532a8d56b1f
+:END:
+#+title: Fxbahvi Qqezrar Tebw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Tebw
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 9.44
+- sugar :: 16.91
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 6.0
+- ratings :: [[id:c66c19bd-ce6c-4fe9-8e0a-2c029d8ddbcc][Fxbahvi Qqezrar Tebw NV - 1990-2-15]]

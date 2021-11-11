@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a1a32930-f55c-468c-9c6a-ea592dc1b9e1
+:END:
+#+title: Xnxdlsx Upr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Upr
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 12.03
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:cd5dfe39-d5a4-466f-b8ce-42caade41ae7][Xnxdlsx Upr NV - 2001-5-23]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e1fe5399-8e3f-4b53-98a4-93c326e2193c
+:END:
+#+title: Ajkygaf Emnb Syau 2010 - 2002-9-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:8d403db4-f87e-40da-92e3-04df7f2329ff][Ajkygaf Emnb Syau 2010]]
+- date :: 2002-9-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       720a8c42-62fb-46dc-8f03-5e8f4d3bfb74
+:END:
+#+title: Mgdu Niieiquu 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Niieiquu
+- vintage :: 2005
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 12.25
+- sugar :: 13.58
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

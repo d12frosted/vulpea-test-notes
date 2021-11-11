@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1b556c61-353a-4716-9c77-1c50c1eeaa94
+:END:
+#+title: Xhbm Jjj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Jjj
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 10.68
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

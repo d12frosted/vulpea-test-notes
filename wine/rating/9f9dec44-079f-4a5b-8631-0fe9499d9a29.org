@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9f9dec44-079f-4a5b-8631-0fe9499d9a29
+:END:
+#+title: Wdcfn Yrra Aemtsg Aecd 2002 - 2021-1-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:3bc5d36e-c69c-4813-a14a-2ae4e1d66466][Wdcfn Yrra Aemtsg Aecd 2002]]
+- date :: 2021-1-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

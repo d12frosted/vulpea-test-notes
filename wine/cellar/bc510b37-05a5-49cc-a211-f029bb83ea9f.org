@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bc510b37-05a5-49cc-a211-f029bb83ea9f
+:END:
+#+title: Xhbm Rqumfkrv Hxf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Rqumfkrv Hxf
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 10.17
+- price :: 88.70 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

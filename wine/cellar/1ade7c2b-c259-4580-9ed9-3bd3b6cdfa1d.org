@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1ade7c2b-c259-4580-9ed9-3bd3b6cdfa1d
+:END:
+#+title: Hppbtt Urcollzj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Urcollzj
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 11.4
+- sugar :: 21.57
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       aa705752-3e2f-41ea-8a36-0adc848c1ce0
+:END:
+#+title: Mgdu Ezv 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ezv
+- vintage :: 1959
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 11.78
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

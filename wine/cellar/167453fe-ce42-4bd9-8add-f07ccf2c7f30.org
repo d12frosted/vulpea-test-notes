@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       167453fe-ce42-4bd9-8add-f07ccf2c7f30
+:END:
+#+title: Wdcfn Yrra Arimci 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Arimci
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.71
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

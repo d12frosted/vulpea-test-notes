@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a4130feb-0958-423a-87c2-510e8d91554f
+:END:
+#+title: Fxbahvi Qqezrar Iwscn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Iwscn
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 13.79
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

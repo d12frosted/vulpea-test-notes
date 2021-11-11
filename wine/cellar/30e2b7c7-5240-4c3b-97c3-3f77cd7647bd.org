@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       30e2b7c7-5240-4c3b-97c3-3f77cd7647bd
+:END:
+#+title: Fxbahvi Qqezrar Qxvxk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Qxvxk
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 9.71
+- sugar :: 7.31
+- price :: 38.52 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

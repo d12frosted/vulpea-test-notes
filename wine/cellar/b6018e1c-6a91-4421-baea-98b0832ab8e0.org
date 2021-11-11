@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b6018e1c-6a91-4421-baea-98b0832ab8e0
+:END:
+#+title: Bhpgaqm Pslnklf Afzokcv 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Afzokcv
+- vintage :: 1939
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.73
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.0
+- ratings :: [[id:a0180024-d99a-4b74-a3fe-a659d7e350a0][Bhpgaqm Pslnklf Afzokcv 1939 - 2023-3-15]]

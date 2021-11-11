@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6d1dc3e6-5b40-4477-99d0-c47390aeb52f
+:END:
+#+title: Xhbm Wbx Fuxvqiy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Wbx Fuxvqiy
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 11.39
+- price :: 95.60 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

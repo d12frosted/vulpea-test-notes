@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9bd0f5ce-d6cf-4f81-bd8e-032f62fdd499
+:END:
+#+title: Xnxdlsx Dyog Cawofhrt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Dyog Cawofhrt
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.79
+- sugar :: 11.26
+- price :: 57.55 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:4dc4516a-fcf9-46c2-a80e-bd348a9f0b94][Xnxdlsx Dyog Cawofhrt NV - 2019-1-5]]

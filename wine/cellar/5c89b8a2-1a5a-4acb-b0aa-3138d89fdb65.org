@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       5c89b8a2-1a5a-4acb-b0aa-3138d89fdb65
+:END:
+#+title: Hppbtt Xmxvzmlu Vyazz 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Xmxvzmlu Vyazz
+- vintage :: 1941
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.63
+- sugar :: 5.53
+- price :: 66.93 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:5e197ec4-12ff-4cc3-a29d-835373587abe][Hppbtt Xmxvzmlu Vyazz 1941 - 1993-8-16]]

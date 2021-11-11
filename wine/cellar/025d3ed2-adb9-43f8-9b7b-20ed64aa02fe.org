@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       025d3ed2-adb9-43f8-9b7b-20ed64aa02fe
+:END:
+#+title: Ajkygaf Emnb Jmjxrrtr Xbsdyr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Jmjxrrtr Xbsdyr
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 9.25
+- sugar :: 7.6
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:5bc8e991-0eb1-4026-bac9-c393b18a6f0c][Ajkygaf Emnb Jmjxrrtr Xbsdyr NV - 2015-4-10]]

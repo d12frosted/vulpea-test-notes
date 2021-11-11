@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1272dcf1-d96c-463d-80f5-7a4ef27c50e5
+:END:
+#+title: Ajkygaf Emnb Oqt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Oqt
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 11.72
+- sugar :: 21.87
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:d7a13e5a-1859-46ed-ba41-8073973791a6][Ajkygaf Emnb Oqt NV - 2018-10-4]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6c6fb402-e5a4-4c62-905f-07a62827acb6
+:END:
+#+title: Mabtcl Miuoflx Qxxums Alcgg 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Qxxums Alcgg
+- vintage :: 1964
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 11.65
+- sugar :: 9.23
+- price :: 69.52 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

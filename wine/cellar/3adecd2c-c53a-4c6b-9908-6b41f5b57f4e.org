@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3adecd2c-c53a-4c6b-9908-6b41f5b57f4e
+:END:
+#+title: Hppbtt Yejt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Yejt
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 11.51
+- price :: 13.99 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

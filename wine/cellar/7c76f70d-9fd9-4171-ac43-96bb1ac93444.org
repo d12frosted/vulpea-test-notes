@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7c76f70d-9fd9-4171-ac43-96bb1ac93444
+:END:
+#+title: Fxbahvi Qqezrar Yydagmuj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Yydagmuj
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 11.85
+- sugar :: 5.43
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

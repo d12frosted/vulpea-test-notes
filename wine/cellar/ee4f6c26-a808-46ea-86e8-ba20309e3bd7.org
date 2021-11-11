@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ee4f6c26-a808-46ea-86e8-ba20309e3bd7
+:END:
+#+title: Ibde Iowlof Mhbjq Ugtb 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Mhbjq Ugtb
+- vintage :: 1923
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 10.28
+- price :: 95.52 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 7.5
+- ratings :: [[id:257ba456-0f89-42c7-a6ba-25fa0c71217c][Ibde Iowlof Mhbjq Ugtb 1923 - 1997-4-9]]

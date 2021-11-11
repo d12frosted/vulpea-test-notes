@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       bcbbee6c-60ce-4c77-8a4d-42c2ced13ced
+:END:
+#+title: Bhpgaqm Pslnklf Pdldiyu 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Pdldiyu
+- vintage :: 1992
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.5
+- sugar :: 21.51
+- price :: 25.69 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: wikipedia
+- rating :: 7.5
+- ratings :: [[id:e4605e1c-3461-45cc-a886-a26d68177b2b][Bhpgaqm Pslnklf Pdldiyu 1992 - 2005-9-10]]

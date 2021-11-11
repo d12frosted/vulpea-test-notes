@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7bbca5a1-dee8-4dc2-a5e1-522c1887f43f
+:END:
+#+title: Hppbtt Yvhylke Ioj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Yvhylke Ioj
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.68
+- price :: 55.67 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

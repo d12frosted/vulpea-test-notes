@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7378a55f-6cbb-47e2-9ec6-5911efde2936
+:END:
+#+title: Fxbahvi Qqezrar Xif 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Xif
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 10.620000000000001
+- price :: 9.49 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

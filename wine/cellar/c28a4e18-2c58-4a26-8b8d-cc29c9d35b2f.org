@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c28a4e18-2c58-4a26-8b8d-cc29c9d35b2f
+:END:
+#+title: Mgdu Zhhj Lqzbm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Zhhj Lqzbm
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 10.79
+- sugar :: 5.06
+- price :: 67.62 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       856fdb54-dfbc-448a-9b34-1ac5a8257da7
+:END:
+#+title: Xnxdlsx Vjq 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Vjq
+- vintage :: 2004
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 13.54
+- sugar :: 0.48
+- price :: 99.54 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 7.0
+- ratings :: [[id:a6792367-3810-4201-b834-9d7f4ced4aa5][Xnxdlsx Vjq 2004 - 1992-1-27]]

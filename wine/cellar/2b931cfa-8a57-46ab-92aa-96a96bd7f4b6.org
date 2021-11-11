@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2b931cfa-8a57-46ab-92aa-96a96bd7f4b6
+:END:
+#+title: Hppbtt Qtaxfly Rog 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Qtaxfly Rog
+- vintage :: 1999
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 9.75
+- sugar :: 6.08
+- price :: 12.57 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA

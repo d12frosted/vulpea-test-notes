@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4c94d7ca-41a9-4377-aa2f-8b77ee9f8ffd
+:END:
+#+title: Bhpgaqm Pslnklf Fchegicb Jvdng 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Fchegicb Jvdng
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 13.36
+- sugar :: 2.83
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

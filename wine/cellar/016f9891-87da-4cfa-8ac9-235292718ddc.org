@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       016f9891-87da-4cfa-8ac9-235292718ddc
+:END:
+#+title: Fxbahvi Qqezrar Emukzrh Wbbufb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Emukzrh Wbbufb
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 9.81
+- sugar :: 9.81
+- price :: 56.55 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

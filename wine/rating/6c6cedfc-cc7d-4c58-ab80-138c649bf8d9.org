@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6c6cedfc-cc7d-4c58-ab80-138c649bf8d9
+:END:
+#+title: Xnxdlsx Bjboryp Szikxyqg 1985 - 2009-4-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:0449797a-9edd-43ab-b598-af6bf9764c36][Xnxdlsx Bjboryp Szikxyqg 1985]]
+- date :: 2009-4-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       15ae2147-e3b8-41b2-9a39-c87a7ce3aa14
+:END:
+#+title: Mgdu Yghjfoc Lhlxizl 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Yghjfoc Lhlxizl
+- vintage :: 2013
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 11.870000000000001
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

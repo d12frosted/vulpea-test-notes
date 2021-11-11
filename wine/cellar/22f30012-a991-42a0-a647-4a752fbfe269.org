@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       22f30012-a991-42a0-a647-4a752fbfe269
+:END:
+#+title: Bhpgaqm Pslnklf Qlsvyemu Zcmocg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Qlsvyemu Zcmocg
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 12.02
+- price :: 81.40 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

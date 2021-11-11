@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       61f839b4-fe7d-4ce4-aadf-3f52ebba02bf
+:END:
+#+title: Xhbm Uapqm Jvngm 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Uapqm Jvngm
+- vintage :: 2006
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 12.620000000000001
+- sugar :: 13.0
+- price :: 71.31 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 5.0
+- ratings :: [[id:cd7da86f-4f1b-44e4-9506-8a44163ac633][Xhbm Uapqm Jvngm 2006 - 1997-2-2]]

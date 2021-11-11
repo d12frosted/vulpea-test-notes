@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       469544fb-22ba-439e-a7c5-66e5e7c06d4b
+:END:
+#+title: Hppbtt Ihitkqmg 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ihitkqmg
+- vintage :: 1976
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 13.17
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:0d1ae81b-b2d7-4013-9a39-ae9cf75f50fb][Hppbtt Ihitkqmg 1976 - 2023-8-8]]

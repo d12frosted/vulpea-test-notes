@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f0b80bb7-832a-4af3-bb29-37373608d8e0
+:END:
+#+title: Hppbtt Lxyi 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Lxyi
+- vintage :: 1926
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.06
+- sugar :: 8.42
+- price :: 11.27 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

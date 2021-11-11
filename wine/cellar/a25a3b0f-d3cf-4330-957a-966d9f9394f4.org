@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a25a3b0f-d3cf-4330-957a-966d9f9394f4
+:END:
+#+title: Hppbtt Fxl Vmdeb 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fxl Vmdeb
+- vintage :: 2000
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 13.91
+- sugar :: 11.64
+- price :: 36.66 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:5da23b33-575f-4afd-9233-94bf20bd1365][Hppbtt Fxl Vmdeb 2000 - 1998-6-9]]

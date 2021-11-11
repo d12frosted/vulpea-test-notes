@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       039ac07b-77bf-4153-a4a7-9c71add44b5d
+:END:
+#+title: Wdcfn Yrra Peurknq 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Peurknq
+- vintage :: 1926
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 13.74
+- sugar :: 23.05
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 2.0
+- ratings :: [[id:99cba917-6869-42d1-8cf6-71d944eebee9][Wdcfn Yrra Peurknq 1926 - 1996-10-4]]

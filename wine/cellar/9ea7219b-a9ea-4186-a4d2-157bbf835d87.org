@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9ea7219b-a9ea-4186-a4d2-157bbf835d87
+:END:
+#+title: Bhpgaqm Pslnklf Mapcv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Mapcv
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 11.48
+- sugar :: 10.89
+- price :: 79.82 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:371ff462-6a33-4b2f-8df9-90dd4924669d][Bhpgaqm Pslnklf Mapcv NV - 2004-5-4]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0ff6c081-3837-443c-94e2-ef1c38dc011c
+:END:
+#+title: Bhpgaqm Pslnklf Xovsjhr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Xovsjhr
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.2
+- price :: 38.58 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

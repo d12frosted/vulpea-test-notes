@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       430c78e9-5e8b-495e-8a4a-0f5d2f815b2c
+:END:
+#+title: Mabtcl Miuoflx Kso Hxoaesmz 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Kso Hxoaesmz
+- vintage :: 1918
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 12.28
+- price :: 83.60 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       446e95cc-82ca-40dc-9480-d4b3c26cc66d
+:END:
+#+title: Xnxdlsx Tcwkrhx 1921 - 2015-4-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:2650b61b-3c5c-4d08-a52e-3441598631d2][Xnxdlsx Tcwkrhx 1921]]
+- date :: 2015-4-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

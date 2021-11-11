@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0be5cf43-804f-410d-ab7e-97786ee4e9f3
+:END:
+#+title: Mabtcl Miuoflx Icucya Hti 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Icucya Hti
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- alcohol :: 9.97
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 5.0
+- ratings :: [[id:afc4a298-938e-4d8a-9cde-faf8569cefc4][Mabtcl Miuoflx Icucya Hti NV - 2008-6-16]]

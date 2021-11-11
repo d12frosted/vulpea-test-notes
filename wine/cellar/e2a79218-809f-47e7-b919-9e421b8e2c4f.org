@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e2a79218-809f-47e7-b919-9e421b8e2c4f
+:END:
+#+title: Ajkygaf Emnb Bcsicq 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Bcsicq
+- vintage :: 1910
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 13.07
+- sugar :: 1.63
+- price :: 78.77 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

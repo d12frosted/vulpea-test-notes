@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8f22d263-7274-4c13-a5ba-b3c9857589e2
+:END:
+#+title: Bhpgaqm Pslnklf Kpqyde Vchrggm 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Kpqyde Vchrggm
+- vintage :: 1995
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 9.43
+- sugar :: 5.87
+- price :: 47.48 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

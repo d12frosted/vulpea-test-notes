@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       862acb43-cb5a-4bab-a6a3-8e962cd783f7
+:END:
+#+title: Mgdu Lbghdwig Hyws 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Lbghdwig Hyws
+- vintage :: 1927
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.26
+- sugar :: 22.94
+- price :: 75.79 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

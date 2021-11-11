@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6fb1d4b4-39f2-456b-ad85-d9a135d8af7a
+:END:
+#+title: Mabtcl Miuoflx Zwadfguh Hlm 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Zwadfguh Hlm
+- vintage :: 1916
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 13.440000000000001
+- sugar :: 7.78
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

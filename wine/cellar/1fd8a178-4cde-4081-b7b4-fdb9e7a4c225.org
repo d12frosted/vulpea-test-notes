@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1fd8a178-4cde-4081-b7b4-fdb9e7a4c225
+:END:
+#+title: Ajkygaf Emnb Riphzl Jzcwuvil 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Riphzl Jzcwuvil
+- vintage :: 1961
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 13.3
+- sugar :: 7.98
+- price :: 99.36 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6ad8fae1-028b-41fb-8c49-17dca0029958
+:END:
+#+title: Mgdu Hyscgoi Zye 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Hyscgoi Zye
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 12.69
+- price :: 40.82 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 7.0
+- ratings :: [[id:e60df292-45c3-49c1-8167-d27b2767e82f][Mgdu Hyscgoi Zye NV - 2003-2-16]]

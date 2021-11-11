@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       032fa987-4796-4b3e-b711-1483ca6c1198
+:END:
+#+title: Xhbm Oygbzs Njbgmkfl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Oygbzs Njbgmkfl
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.48
+- price :: 94.75 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

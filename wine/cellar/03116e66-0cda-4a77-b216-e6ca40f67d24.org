@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       03116e66-0cda-4a77-b216-e6ca40f67d24
+:END:
+#+title: Fxbahvi Qqezrar Xjxas Lttqke 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Xjxas Lttqke
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.93
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

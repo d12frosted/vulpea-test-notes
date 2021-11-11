@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       638c2984-1b94-4b43-ac17-16a63a003f72
+:END:
+#+title: Mabtcl Miuoflx Coiockhy NV - 1992-2-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:790ae19a-caa9-4009-839c-f3b9abf24e94][Mabtcl Miuoflx Coiockhy]]
+- date :: 1992-2-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

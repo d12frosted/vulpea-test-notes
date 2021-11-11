@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4b1b1af3-f172-4952-80e8-a5a27c7e7b60
+:END:
+#+title: Mgdu Odz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Odz
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 10.86
+- sugar :: 21.3
+- price :: 66.79 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:83451006-1dc0-4f86-b34a-4ced6ee19207][Mgdu Odz NV - 2009-11-6]]

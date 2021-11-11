@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c60ce774-b675-4793-a6ba-e423022dc977
+:END:
+#+title: Xhbm Fbc 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Fbc
+- vintage :: 1964
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 12.44
+- sugar :: 13.54
+- price :: 85.76 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

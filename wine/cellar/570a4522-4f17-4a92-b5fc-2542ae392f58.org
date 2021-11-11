@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       570a4522-4f17-4a92-b5fc-2542ae392f58
+:END:
+#+title: Hppbtt Mibkzrcw Tdz 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Mibkzrcw Tdz
+- vintage :: 1945
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 10.95
+- sugar :: 2.23
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

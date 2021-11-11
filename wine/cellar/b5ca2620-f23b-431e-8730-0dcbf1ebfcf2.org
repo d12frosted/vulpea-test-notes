@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b5ca2620-f23b-431e-8730-0dcbf1ebfcf2
+:END:
+#+title: Mgdu Lehcju 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Lehcju
+- vintage :: 1924
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 12.68
+- price :: 94.15 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

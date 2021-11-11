@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f71491e7-90ca-4085-839e-b4028d95090a
+:END:
+#+title: Mgdu Dtpfq Kgejj 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Dtpfq Kgejj
+- vintage :: 1904
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 13.66
+- sugar :: 1.99
+- price :: 83.28 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

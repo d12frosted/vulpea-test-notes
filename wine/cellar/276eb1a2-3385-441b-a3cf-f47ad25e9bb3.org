@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       276eb1a2-3385-441b-a3cf-f47ad25e9bb3
+:END:
+#+title: Ajkygaf Emnb Uhka 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Uhka
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.28
+- sugar :: 11.79
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

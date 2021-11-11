@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a7959a2a-f748-48b7-b6a1-359db2c62b24
+:END:
+#+title: Ajkygaf Emnb Tnjfw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Tnjfw
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 10.48
+- sugar :: 23.27
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:cbb690fd-8450-49fb-b947-f3c434b9a0ed][Ajkygaf Emnb Tnjfw NV - 2018-5-8]]

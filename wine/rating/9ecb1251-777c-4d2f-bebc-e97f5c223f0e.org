@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9ecb1251-777c-4d2f-bebc-e97f5c223f0e
+:END:
+#+title: Wdcfn Yrra Lxv Zpusnvwk NV - 1991-9-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:45430dbb-5b92-4a27-9e28-055d8f15b1a7][Wdcfn Yrra Lxv Zpusnvwk]]
+- date :: 1991-9-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

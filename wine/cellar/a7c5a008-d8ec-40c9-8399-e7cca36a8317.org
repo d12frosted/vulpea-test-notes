@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a7c5a008-d8ec-40c9-8399-e7cca36a8317
+:END:
+#+title: Mgdu Giclxqqc Bkd 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Giclxqqc Bkd
+- vintage :: 1988
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 9.46
+- sugar :: 15.27
+- price :: 16.17 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:6450034b-e949-47db-9d3c-1953b4fad7a7][Mgdu Giclxqqc Bkd 1988 - 2008-7-15]]

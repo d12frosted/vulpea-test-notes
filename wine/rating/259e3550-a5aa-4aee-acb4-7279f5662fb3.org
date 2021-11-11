@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       259e3550-a5aa-4aee-acb4-7279f5662fb3
+:END:
+#+title: Ajkygaf Emnb Zhugqof Avudhwg 1938 - 2013-8-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:beaf39c7-9301-4095-9318-64dd2859deb6][Ajkygaf Emnb Zhugqof Avudhwg 1938]]
+- date :: 2013-8-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

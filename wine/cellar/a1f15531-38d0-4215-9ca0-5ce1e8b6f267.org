@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a1f15531-38d0-4215-9ca0-5ce1e8b6f267
+:END:
+#+title: Hppbtt Ygjz 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ygjz
+- vintage :: 1904
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 9.28
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

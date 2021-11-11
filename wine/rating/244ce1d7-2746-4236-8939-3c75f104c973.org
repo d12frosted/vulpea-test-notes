@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       244ce1d7-2746-4236-8939-3c75f104c973
+:END:
+#+title: Wdcfn Yrra Ajvf Hviayig 1949 - 2012-8-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:de74beca-9b11-4e15-8b19-349f46f3f5c9][Wdcfn Yrra Ajvf Hviayig 1949]]
+- date :: 2012-8-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

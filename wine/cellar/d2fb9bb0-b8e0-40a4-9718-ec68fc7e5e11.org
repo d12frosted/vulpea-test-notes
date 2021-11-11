@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d2fb9bb0-b8e0-40a4-9718-ec68fc7e5e11
+:END:
+#+title: Hppbtt Dkllew Baeq 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Dkllew Baeq
+- vintage :: 2007
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 9.1
+- price :: 26.03 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

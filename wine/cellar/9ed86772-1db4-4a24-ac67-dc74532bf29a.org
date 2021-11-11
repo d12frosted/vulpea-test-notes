@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       9ed86772-1db4-4a24-ac67-dc74532bf29a
+:END:
+#+title: Mgdu Azqb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Azqb
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.58
+- sugar :: 16.72
+- price :: 79.78 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:818081a7-bd2b-45bb-a200-a35257f302c2][Mgdu Azqb NV - 1993-5-2]]

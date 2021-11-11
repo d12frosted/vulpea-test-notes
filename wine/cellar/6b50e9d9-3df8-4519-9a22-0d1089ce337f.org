@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6b50e9d9-3df8-4519-9a22-0d1089ce337f
+:END:
+#+title: Mabtcl Miuoflx Npqzo 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Npqzo
+- vintage :: 1987
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.84
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

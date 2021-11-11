@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       895ddb25-a461-41c0-8fb4-206dd8b05841
+:END:
+#+title: Bhpgaqm Pslnklf Qbtf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Qbtf
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 9.08
+- sugar :: 0.94
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       33f7e9cd-1d58-4230-ab0c-2c5f9e14b2cd
+:END:
+#+title: Mabtcl Miuoflx Timmr 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Timmr
+- vintage :: 1947
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 9.64
+- sugar :: 12.11
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

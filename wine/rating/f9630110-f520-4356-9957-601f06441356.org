@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f9630110-f520-4356-9957-601f06441356
+:END:
+#+title: Bhpgaqm Pslnklf Leioo 1983 - 1998-10-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:610682a1-1a11-4cf9-93d0-c4422504ed0a][Bhpgaqm Pslnklf Leioo 1983]]
+- date :: 1998-10-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6de8f102-6ab6-4a20-b365-def4735683f4
+:END:
+#+title: Mgdu Mxrxuqrd Dctpls 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Mxrxuqrd Dctpls
+- vintage :: 1952
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 10.89
+- sugar :: 9.82
+- price :: 51.04 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 8.5
+- ratings :: [[id:b39b4bfc-6d73-4342-b347-c1809071a880][Mgdu Mxrxuqrd Dctpls 1952 - 2006-3-27]]

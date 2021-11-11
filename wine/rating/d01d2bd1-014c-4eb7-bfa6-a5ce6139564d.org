@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d01d2bd1-014c-4eb7-bfa6-a5ce6139564d
+:END:
+#+title: Ibde Iowlof Ilzfwjz NV - 2010-3-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:fa49376b-5f7c-4b65-899d-45082501b4d1][Ibde Iowlof Ilzfwjz]]
+- date :: 2010-3-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

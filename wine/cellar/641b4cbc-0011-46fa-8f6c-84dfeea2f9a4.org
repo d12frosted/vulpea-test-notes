@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       641b4cbc-0011-46fa-8f6c-84dfeea2f9a4
+:END:
+#+title: Wdcfn Yrra Vry 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Vry
+- vintage :: 2014
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 12.81
+- sugar :: 11.96
+- price :: 86.36 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

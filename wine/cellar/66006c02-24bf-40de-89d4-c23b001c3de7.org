@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       66006c02-24bf-40de-89d4-c23b001c3de7
+:END:
+#+title: Bhpgaqm Pslnklf Szn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Szn
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.57
+- sugar :: 13.09
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

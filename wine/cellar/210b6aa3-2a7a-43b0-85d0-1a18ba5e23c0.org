@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       210b6aa3-2a7a-43b0-85d0-1a18ba5e23c0
+:END:
+#+title: Ajkygaf Emnb Cklxugls 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Cklxugls
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.97
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:4e856f22-1b6f-4b06-8711-dfc0bd82fbb7][Ajkygaf Emnb Cklxugls NV - 1990-2-6]]

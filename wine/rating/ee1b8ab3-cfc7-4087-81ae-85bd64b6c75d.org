@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ee1b8ab3-cfc7-4087-81ae-85bd64b6c75d
+:END:
+#+title: Hppbtt Qoo Ijqal 1951 - 2004-6-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:d09a8024-c9d3-43ea-86ed-358b346c1612][Hppbtt Qoo Ijqal 1951]]
+- date :: 2004-6-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

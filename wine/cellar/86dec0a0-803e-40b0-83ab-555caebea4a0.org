@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       86dec0a0-803e-40b0-83ab-555caebea4a0
+:END:
+#+title: Hppbtt Fsmrquu Cocev 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fsmrquu Cocev
+- vintage :: 2001
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 13.49
+- price :: 16.95 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:e98e3676-981a-486e-b837-47860c6dda2c][Hppbtt Fsmrquu Cocev 2001 - 1993-8-2]]

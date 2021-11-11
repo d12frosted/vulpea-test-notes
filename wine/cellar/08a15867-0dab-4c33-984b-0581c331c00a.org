@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       08a15867-0dab-4c33-984b-0581c331c00a
+:END:
+#+title: Wdcfn Yrra Wdycuq Yixvp 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Wdycuq Yixvp
+- vintage :: 1954
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 12.64
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

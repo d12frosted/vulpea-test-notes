@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a864de65-231e-4776-aacc-74c210c5d1cf
+:END:
+#+title: Ajkygaf Emnb Bnigirij Mix 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Bnigirij Mix
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.18
+- sugar :: 7.05
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

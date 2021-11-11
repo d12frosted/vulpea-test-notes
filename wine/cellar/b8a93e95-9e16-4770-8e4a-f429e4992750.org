@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b8a93e95-9e16-4770-8e4a-f429e4992750
+:END:
+#+title: Mgdu Ohmqxu Ttscgfew 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ohmqxu Ttscgfew
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 13.96
+- sugar :: 11.51
+- price :: 100.24 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bb9a801f-e149-44b8-bd22-e5544c7f2c3f
+:END:
+#+title: Xnxdlsx Hbvhr Ecrtvx 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Hbvhr Ecrtvx
+- vintage :: 1952
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 13.25
+- sugar :: 18.39
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

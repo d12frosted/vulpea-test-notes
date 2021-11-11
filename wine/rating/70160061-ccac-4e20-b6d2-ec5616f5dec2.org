@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       70160061-ccac-4e20-b6d2-ec5616f5dec2
+:END:
+#+title: Fxbahvi Qqezrar Qnebxor Oebuw 1917 - 2003-10-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:c48d7e60-5500-4958-840f-04b0b0c2ed3c][Fxbahvi Qqezrar Qnebxor Oebuw 1917]]
+- date :: 2003-10-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       67ce18e8-f42c-416d-92c6-2d9e7689ce73
+:END:
+#+title: Ibde Iowlof Fcgaqpwc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Fcgaqpwc
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 11.629999999999999
+- price :: 25.75 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

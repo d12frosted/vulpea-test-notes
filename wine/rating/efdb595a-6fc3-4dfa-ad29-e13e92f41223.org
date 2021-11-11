@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       efdb595a-6fc3-4dfa-ad29-e13e92f41223
+:END:
+#+title: Fxbahvi Qqezrar Mwng Xmn NV - 2015-3-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:6a69f0db-36e4-4fac-bc73-795f933fc8c4][Fxbahvi Qqezrar Mwng Xmn]]
+- date :: 2015-3-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

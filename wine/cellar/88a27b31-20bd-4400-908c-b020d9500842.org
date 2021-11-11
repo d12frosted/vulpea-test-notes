@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       88a27b31-20bd-4400-908c-b020d9500842
+:END:
+#+title: Wdcfn Yrra Qlft Iqtk 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Qlft Iqtk
+- vintage :: 1958
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 11.21
+- price :: 9.43 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

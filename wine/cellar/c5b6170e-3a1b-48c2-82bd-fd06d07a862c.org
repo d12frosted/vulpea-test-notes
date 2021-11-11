@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c5b6170e-3a1b-48c2-82bd-fd06d07a862c
+:END:
+#+title: Ibde Iowlof Ujfqjrk Lxwynpf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ujfqjrk Lxwynpf
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.33
+- price :: 99.79 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

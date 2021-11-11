@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2562abde-1495-4e65-acf6-8044808313c0
+:END:
+#+title: Ibde Iowlof Ogilvtq 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ogilvtq
+- vintage :: 1949
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.33
+- sugar :: 10.01
+- price :: 22.80 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

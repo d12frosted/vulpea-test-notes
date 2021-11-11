@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7405d74a-0368-4c0a-997f-17f91518e501
+:END:
+#+title: Ajkygaf Emnb Jwmgkcq 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Jwmgkcq
+- vintage :: 1991
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 11.620000000000001
+- price :: 95.38 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

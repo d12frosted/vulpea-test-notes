@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       88680cdb-57e7-48ca-bfef-884036f628ad
+:END:
+#+title: Hppbtt Nlk Wqgyiupr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Nlk Wqgyiupr
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 9.55
+- price :: 68.55 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f7963410-7d0a-42e1-a87a-9b1ebe63fd51
+:END:
+#+title: Bhpgaqm Pslnklf Yxanr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Yxanr
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.29
+- price :: 91.20 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

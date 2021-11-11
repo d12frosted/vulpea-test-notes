@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       254258c6-f801-46ec-8d58-aa69e7aad3b2
+:END:
+#+title: Fxbahvi Qqezrar Dkogqrwi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Dkogqrwi
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 13.02
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:3f397b4c-7d95-4457-87f9-38899035f0ce][Fxbahvi Qqezrar Dkogqrwi NV - 2021-9-26]]

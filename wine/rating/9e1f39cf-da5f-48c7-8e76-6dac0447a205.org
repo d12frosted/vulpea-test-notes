@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9e1f39cf-da5f-48c7-8e76-6dac0447a205
+:END:
+#+title: Ibde Iowlof Zpxmssk Ooeanjlc NV - 2011-2-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:d7d5d09e-cff0-45e9-8bfe-225a75340c76][Ibde Iowlof Zpxmssk Ooeanjlc]]
+- date :: 2011-2-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

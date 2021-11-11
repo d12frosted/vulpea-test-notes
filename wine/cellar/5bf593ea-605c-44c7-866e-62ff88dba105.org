@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5bf593ea-605c-44c7-866e-62ff88dba105
+:END:
+#+title: Wdcfn Yrra Xsv Wcejfvw 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Xsv Wcejfvw
+- vintage :: 1957
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 11.85
+- sugar :: 5.1
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

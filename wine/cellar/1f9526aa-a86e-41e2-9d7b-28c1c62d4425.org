@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       1f9526aa-a86e-41e2-9d7b-28c1c62d4425
+:END:
+#+title: Wdcfn Yrra Mnndomc 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Mnndomc
+- vintage :: 1995
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.66
+- sugar :: 9.49
+- price :: 54.63 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 5.0
+- ratings :: [[id:ca13a2dc-522f-43f8-999c-ac36d7b05690][Wdcfn Yrra Mnndomc 1995 - 2000-12-26]]

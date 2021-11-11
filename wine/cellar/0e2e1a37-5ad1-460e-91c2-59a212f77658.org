@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0e2e1a37-5ad1-460e-91c2-59a212f77658
+:END:
+#+title: Fxbahvi Qqezrar Jer Bkv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Jer Bkv
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 11.94
+- price :: 76.90 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:dc4b412f-3ea0-4b24-bd0e-a7577aaa9845][Fxbahvi Qqezrar Jer Bkv NV - 2005-5-2]]

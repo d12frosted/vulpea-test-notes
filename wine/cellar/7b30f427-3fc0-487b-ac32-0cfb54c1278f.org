@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7b30f427-3fc0-487b-ac32-0cfb54c1278f
+:END:
+#+title: Bhpgaqm Pslnklf Jda Nzd 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Jda Nzd
+- vintage :: 2000
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- alcohol :: 11.11
+- price :: 49.83 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 4.5
+- ratings :: [[id:213a8b31-daaf-4c03-bd72-5e92ce61627d][Bhpgaqm Pslnklf Jda Nzd 2000 - 2017-1-25]]

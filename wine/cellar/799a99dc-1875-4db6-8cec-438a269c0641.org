@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       799a99dc-1875-4db6-8cec-438a269c0641
+:END:
+#+title: Xnxdlsx Gyt 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Gyt
+- vintage :: 1902
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 12.22
+- sugar :: 14.97
+- price :: 71.15 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA

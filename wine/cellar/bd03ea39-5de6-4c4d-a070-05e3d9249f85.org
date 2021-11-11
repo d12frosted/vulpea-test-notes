@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bd03ea39-5de6-4c4d-a070-05e3d9249f85
+:END:
+#+title: Ajkygaf Emnb Bkroxcto Rtksj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Bkroxcto Rtksj
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 11.02
+- sugar :: 5.69
+- price :: 44.51 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f6e9efc0-83c2-484f-aef0-7623076b354f
+:END:
+#+title: Hppbtt Tpzer Qzvvdw 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Tpzer Qzvvdw
+- vintage :: 1947
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 10.75
+- price :: 89.12 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:8ad594da-4684-4035-9a68-4b3326a94177][Hppbtt Tpzer Qzvvdw 1947 - 2004-6-28]]

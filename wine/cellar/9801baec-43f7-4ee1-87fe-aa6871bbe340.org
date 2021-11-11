@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9801baec-43f7-4ee1-87fe-aa6871bbe340
+:END:
+#+title: Wdcfn Yrra Klvyxe Hyje 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Klvyxe Hyje
+- vintage :: 1998
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 11.57
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 2.5
+- ratings :: [[id:6568f29b-f78a-4d15-9746-ae914a0bff52][Wdcfn Yrra Klvyxe Hyje 1998 - 2002-11-23]]

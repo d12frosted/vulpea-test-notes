@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2e18053e-6c85-4a05-a5d1-6c64e76aabcf
+:END:
+#+title: Xnxdlsx Pyf Fjmudo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Pyf Fjmudo
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 10.25
+- price :: 100.44 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e2c3fc3f-aa50-4d65-b752-f22e72a0c1f8
+:END:
+#+title: Ajkygaf Emnb Yxmv Jip 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Yxmv Jip
+- vintage :: 1913
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.65
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

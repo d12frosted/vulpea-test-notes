@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c5de8b74-de7f-476d-8041-54b936b0c519
+:END:
+#+title: Bhpgaqm Pslnklf Ezcohga Fvxzetja 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ezcohga Fvxzetja
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 13.42
+- price :: 62.42 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:e0418667-4827-4e5c-ae50-121a61a866de][Bhpgaqm Pslnklf Ezcohga Fvxzetja NV - 2009-7-10]]

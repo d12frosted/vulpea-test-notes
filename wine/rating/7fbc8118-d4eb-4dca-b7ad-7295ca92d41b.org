@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7fbc8118-d4eb-4dca-b7ad-7295ca92d41b
+:END:
+#+title: Fxbahvi Qqezrar Vpxx 1971 - 2019-3-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:2099ec6c-3b4c-4832-9d1b-9a753cb67b43][Fxbahvi Qqezrar Vpxx 1971]]
+- date :: 2019-3-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

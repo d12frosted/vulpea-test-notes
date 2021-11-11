@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       54ebc603-b423-41d6-ad40-9899c54cb0a9
+:END:
+#+title: Ajkygaf Emnb Ses 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ses
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 11.120000000000001
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:1c54b9cd-6fcf-4cf5-ba1b-83c274d43a44][Ajkygaf Emnb Ses NV - 2007-7-18]]

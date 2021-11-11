@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       85e289c2-8b82-4084-bbe5-5fc426e245a3
+:END:
+#+title: Fxbahvi Qqezrar Uza 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Uza
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 10.7
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:9723cff1-a20e-42b7-a5e6-9071680d9424][Fxbahvi Qqezrar Uza NV - 2024-7-12]]

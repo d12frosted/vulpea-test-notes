@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       263762fc-3804-44ac-bd3e-11a901273a9d
+:END:
+#+title: Mgdu Lyi Lwxkpse 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Lyi Lwxkpse
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 12.41
+- sugar :: 4.99
+- price :: 80.50 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 5.5
+- ratings :: [[id:ca6078c7-2962-4e98-90cc-8d1adb04d346][Mgdu Lyi Lwxkpse NV - 2001-7-9]]

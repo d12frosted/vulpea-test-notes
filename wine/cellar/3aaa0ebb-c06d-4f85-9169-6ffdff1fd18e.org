@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3aaa0ebb-c06d-4f85-9169-6ffdff1fd18e
+:END:
+#+title: Mgdu Lgylk Cjnajsw 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Lgylk Cjnajsw
+- vintage :: 1975
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 11.120000000000001
+- sugar :: 15.99
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

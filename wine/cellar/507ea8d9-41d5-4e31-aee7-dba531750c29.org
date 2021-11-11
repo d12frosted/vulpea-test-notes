@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       507ea8d9-41d5-4e31-aee7-dba531750c29
+:END:
+#+title: Hppbtt Wvwmvt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Wvwmvt
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 11.97
+- sugar :: 2.41
+- price :: 48.58 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       30df5b7d-22ec-4c56-9200-2891c81482ed
+:END:
+#+title: Mgdu Fags Eeqm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Fags Eeqm
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 9.02
+- price :: 8.31 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:5222233e-2481-4a4e-9a14-9dd7dfd65580][Mgdu Fags Eeqm NV - 1991-12-17]]

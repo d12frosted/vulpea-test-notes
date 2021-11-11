@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e13fb8f9-5381-420d-98b3-7b323967f5de
+:END:
+#+title: Bhpgaqm Pslnklf Nhlzcggd NV - 1991-4-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:4bb14239-1c62-411a-ae25-0f14da610a24][Bhpgaqm Pslnklf Nhlzcggd]]
+- date :: 1991-4-19
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       80a7cd3a-0ae5-4731-ba60-16b560b518d6
+:END:
+#+title: Xnxdlsx Uujvhy Lyplety NV - 2003-6-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:7cdb2819-1180-4b2b-960e-3b3522d9fb48][Xnxdlsx Uujvhy Lyplety]]
+- date :: 2003-6-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

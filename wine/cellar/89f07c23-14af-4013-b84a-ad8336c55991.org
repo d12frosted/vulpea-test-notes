@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       89f07c23-14af-4013-b84a-ad8336c55991
+:END:
+#+title: Mabtcl Miuoflx Lqi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Lqi
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 12.17
+- sugar :: 11.25
+- price :: 76.77 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

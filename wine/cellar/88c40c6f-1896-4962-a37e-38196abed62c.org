@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       88c40c6f-1896-4962-a37e-38196abed62c
+:END:
+#+title: Fxbahvi Qqezrar Crjvty Hhch 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Crjvty Hhch
+- vintage :: 1923
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 9.18
+- price :: 60.96 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 7.0
+- ratings :: [[id:6e618cb0-df4e-48c7-ac8c-84b7b303d359][Fxbahvi Qqezrar Crjvty Hhch 1923 - 2010-10-26]]

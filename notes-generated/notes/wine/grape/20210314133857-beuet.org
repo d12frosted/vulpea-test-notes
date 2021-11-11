@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:                     9cb04c77-1c20-42d3-bbca-f291e87937bc
-:END:
-#+TITLE: Beuet
-
-

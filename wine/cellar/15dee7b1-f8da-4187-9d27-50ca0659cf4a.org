@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       15dee7b1-f8da-4187-9d27-50ca0659cf4a
+:END:
+#+title: Mabtcl Miuoflx Lcyqc 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Lcyqc
+- vintage :: 1909
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 13.64
+- sugar :: 17.26
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 5.5
+- ratings :: [[id:1605c31c-fc9a-4483-af99-dafac0fd4b48][Mabtcl Miuoflx Lcyqc 1909 - 1999-11-12]]

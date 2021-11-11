@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e1fd4b3d-3ad7-4667-9b25-9934756e1dca
+:END:
+#+title: Bhpgaqm Pslnklf Filldqw Vzuckys 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Filldqw Vzuckys
+- vintage :: 1910
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 11.02
+- sugar :: 21.78
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:c9681e59-f796-47aa-9a38-668cf9328d21][Bhpgaqm Pslnklf Filldqw Vzuckys 1910 - 1995-9-3]]

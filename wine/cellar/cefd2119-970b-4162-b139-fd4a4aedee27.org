@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cefd2119-970b-4162-b139-fd4a4aedee27
+:END:
+#+title: Bhpgaqm Pslnklf Xzjm Yloxuul 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Xzjm Yloxuul
+- vintage :: 1960
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 10.43
+- sugar :: 0.1
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

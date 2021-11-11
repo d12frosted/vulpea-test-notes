@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       f6180a81-051e-4909-8347-d00ee99cecce
+:END:
+#+title: Ajkygaf Emnb Wcnsl Xzoqhb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Wcnsl Xzoqhb
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.75
+- sugar :: 8.83
+- price :: 75.52 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.0
+- ratings :: [[id:1171d7f5-79f9-4a86-9be8-5253a4f158b0][Ajkygaf Emnb Wcnsl Xzoqhb NV - 1995-12-25]]

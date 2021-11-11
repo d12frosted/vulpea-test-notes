@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b14a39e4-9cd9-4ce0-b125-887083f65cd9
+:END:
+#+title: Xnxdlsx Vhnnfum Aqhfi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Vhnnfum Aqhfi
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 13.15
+- sugar :: 17.73
+- price :: 101.65 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       18cdecef-7edd-478a-8c95-11590610ad7c
+:END:
+#+title: Xhbm Ain NV - 2004-5-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:00d1e540-01a3-49b3-a08e-7f8aa117f0b0][Xhbm Ain]]
+- date :: 2004-5-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       89fbde75-5465-4a7b-ba10-619a8c88a467
+:END:
+#+title: Hppbtt Aglwyhm 1927 - 2006-9-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:de34da7f-1989-4b3b-bd30-3fe112970394][Hppbtt Aglwyhm 1927]]
+- date :: 2006-9-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

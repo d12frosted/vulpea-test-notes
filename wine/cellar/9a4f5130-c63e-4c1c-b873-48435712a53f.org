@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9a4f5130-c63e-4c1c-b873-48435712a53f
+:END:
+#+title: Ajkygaf Emnb Wflnooe 1912
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Wflnooe
+- vintage :: 1912
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.7
+- sugar :: 3.82
+- price :: 48.09 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

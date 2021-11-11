@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b09afbfa-1c5e-48c8-ba18-a628438997ef
+:END:
+#+title: Bhpgaqm Pslnklf Qqc Ipsaxis 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Qqc Ipsaxis
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 9.49
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

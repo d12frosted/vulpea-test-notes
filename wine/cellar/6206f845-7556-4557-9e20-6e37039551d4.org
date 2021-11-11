@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6206f845-7556-4557-9e20-6e37039551d4
+:END:
+#+title: Ibde Iowlof Uteojcq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Uteojcq
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.06
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

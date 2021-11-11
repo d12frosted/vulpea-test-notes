@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2313d9ab-c6c7-4668-b3ec-fb07223af733
+:END:
+#+title: Fxbahvi Qqezrar Hble 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Hble
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- alcohol :: 11.31
+- sugar :: 19.29
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.5
+- ratings :: [[id:66b4da83-018a-4066-9622-6794cb41a597][Fxbahvi Qqezrar Hble NV - 2000-1-26]]

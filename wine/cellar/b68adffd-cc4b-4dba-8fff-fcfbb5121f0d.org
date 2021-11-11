@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b68adffd-cc4b-4dba-8fff-fcfbb5121f0d
+:END:
+#+title: Ibde Iowlof Rlwvt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Rlwvt
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 11.36
+- sugar :: 14.73
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

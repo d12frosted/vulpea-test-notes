@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2ab45ee0-77db-44b1-a2f0-82f88fb9a698
+:END:
+#+title: Bhpgaqm Pslnklf Ncsgnz Kqovdv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ncsgnz Kqovdv
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 13.45
+- sugar :: 4.91
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:87dcc7c7-afd4-4e6b-b159-c197ce661b25][Bhpgaqm Pslnklf Ncsgnz Kqovdv NV - 2015-12-24]]

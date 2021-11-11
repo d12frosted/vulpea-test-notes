@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1269663b-2065-4bd0-bdfe-e5ce9376e8ac
+:END:
+#+title: Wdcfn Yrra Lgsuxi Jke 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Lgsuxi Jke
+- vintage :: 1950
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 10.75
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

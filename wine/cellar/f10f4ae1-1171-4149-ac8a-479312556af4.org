@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f10f4ae1-1171-4149-ac8a-479312556af4
+:END:
+#+title: Wdcfn Yrra Huadn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Huadn
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 10.4
+- sugar :: 4.97
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 2.5
+- ratings :: [[id:4f55b11d-cc62-4921-bed8-3b81fce1921c][Wdcfn Yrra Huadn NV - 2021-11-1]]

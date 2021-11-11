@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       5064910c-e0be-4363-b0e2-ac2a86fddcb2
+:END:
+#+title: Xhbm Brdwlc Fkjjsm 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Brdwlc Fkjjsm
+- vintage :: 1974
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 9.61
+- sugar :: 9.89
+- price :: 6.58 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:e1068ad7-d161-4298-aa25-983a6bdd8a3c][Xhbm Brdwlc Fkjjsm 1974 - 2014-12-23]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c60e31e3-0d7a-471a-bc21-673f05415f71
+:END:
+#+title: Fxbahvi Qqezrar Rdih Zczq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Rdih Zczq
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 11.19
+- sugar :: 22.62
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.0
+- ratings :: [[id:6e81971f-7d72-47ef-a99b-75386ee8722f][Fxbahvi Qqezrar Rdih Zczq NV - 1990-7-8]]

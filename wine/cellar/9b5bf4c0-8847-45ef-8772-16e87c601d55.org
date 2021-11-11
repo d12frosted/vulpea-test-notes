@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9b5bf4c0-8847-45ef-8772-16e87c601d55
+:END:
+#+title: Hppbtt Kfcaozs 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Kfcaozs
+- vintage :: 1922
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 12.77
+- sugar :: 19.59
+- price :: 4.55 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

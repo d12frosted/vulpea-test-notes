@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       147de35f-ac60-4c9d-a404-394787fad45f
+:END:
+#+title: Xnxdlsx Dfqpako 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Dfqpako
+- vintage :: 2009
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 9.62
+- sugar :: 4.49
+- price :: 61.95 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

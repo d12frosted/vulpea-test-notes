@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6c3b0f88-d47b-4494-93a5-3a1eb77d843c
+:END:
+#+title: Ajkygaf Emnb Wpbown 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Wpbown
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 9.73
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

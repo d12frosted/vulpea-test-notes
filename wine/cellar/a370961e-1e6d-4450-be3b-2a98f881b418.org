@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a370961e-1e6d-4450-be3b-2a98f881b418
+:END:
+#+title: Fxbahvi Qqezrar Osjmy Zxwf 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Osjmy Zxwf
+- vintage :: 2004
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 11.46
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

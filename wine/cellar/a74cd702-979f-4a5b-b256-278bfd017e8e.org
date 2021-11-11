@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a74cd702-979f-4a5b-b256-278bfd017e8e
+:END:
+#+title: Bhpgaqm Pslnklf Vbsdze 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Vbsdze
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 13.24
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

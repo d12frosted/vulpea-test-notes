@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e967d4ee-a1f8-4e8f-ba76-448212b089f9
+:END:
+#+title: Xhbm Wjsgx Rza 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Wjsgx Rza
+- vintage :: 2003
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 9.32
+- price :: 46.81 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

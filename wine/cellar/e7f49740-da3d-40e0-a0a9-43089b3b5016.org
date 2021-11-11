@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e7f49740-da3d-40e0-a0a9-43089b3b5016
+:END:
+#+title: Hppbtt Yynuydf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Yynuydf
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 13.16
+- sugar :: 18.91
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:49957071-55ed-432f-9af8-42ce6da3af90][Hppbtt Yynuydf NV - 2009-9-2]]

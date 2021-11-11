@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fef48d22-dff1-405a-9b4e-4bd743ede2e6
+:END:
+#+title: Ajkygaf Emnb Baud Mww 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Baud Mww
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 12.44
+- sugar :: 14.93
+- price :: 69.79 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

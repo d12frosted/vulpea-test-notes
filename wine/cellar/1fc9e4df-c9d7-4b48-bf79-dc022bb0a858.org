@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1fc9e4df-c9d7-4b48-bf79-dc022bb0a858
+:END:
+#+title: Hppbtt Eku 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Eku
+- vintage :: 1957
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.93
+- sugar :: 14.99
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 7.0
+- ratings :: [[id:eaea6798-dc0b-413e-9bdc-49989936f7bc][Hppbtt Eku 1957 - 2004-12-10]]

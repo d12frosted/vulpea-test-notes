@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       50566c86-9f0b-4132-9cce-16b9551c233a
+:END:
+#+title: Fxbahvi Qqezrar Juggom Ypzysfbp 1964 - 2018-1-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:6fdd272e-eb8a-4205-a416-f50982c690e7][Fxbahvi Qqezrar Juggom Ypzysfbp 1964]]
+- date :: 2018-1-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

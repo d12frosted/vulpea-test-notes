@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       81061aef-1ef3-4090-b210-9682a55c8e87
+:END:
+#+title: Ajkygaf Emnb Eoocpej 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Eoocpej
+- vintage :: 1943
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.44
+- sugar :: 0.08
+- price :: 8.52 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:1c18e2a2-921c-4df4-9f24-8fdc63fea831][Ajkygaf Emnb Eoocpej 1943 - 2012-7-2]]

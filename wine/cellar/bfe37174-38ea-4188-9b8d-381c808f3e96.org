@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bfe37174-38ea-4188-9b8d-381c808f3e96
+:END:
+#+title: Hppbtt Dxxy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Dxxy
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 9.87
+- sugar :: 18.8
+- price :: 64.10 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

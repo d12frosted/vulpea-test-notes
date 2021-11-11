@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c8d05dde-52f2-49f9-8a40-024a2c3bafa5
+:END:
+#+title: Wdcfn Yrra Uwt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Uwt
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 9.58
+- sugar :: 4.98
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e997b7d9-d9a5-44a1-88fa-aba1410dde19
+:END:
+#+title: Hppbtt Lyxnpqdv Cewagqr 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Lyxnpqdv Cewagqr
+- vintage :: 1966
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 10.98
+- sugar :: 23.71
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d21498ac-e608-41ed-9361-f506b04de4c4
+:END:
+#+title: Xhbm Naqckrvd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Naqckrvd
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.02
+- sugar :: 12.07
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

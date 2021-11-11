@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       943928e6-ed51-44be-932a-54fa319c946b
+:END:
+#+title: Mgdu Ztwyys Xnsucid NV - 1997-2-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:11899ab8-5125-4c7e-8d7d-ebab12b6306e][Mgdu Ztwyys Xnsucid]]
+- date :: 1997-2-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

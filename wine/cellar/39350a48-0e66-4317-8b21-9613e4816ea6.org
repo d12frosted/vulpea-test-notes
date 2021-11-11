@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       39350a48-0e66-4317-8b21-9613e4816ea6
+:END:
+#+title: Ajkygaf Emnb Bjbsiw Exeypt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Bjbsiw Exeypt
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 9.14
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

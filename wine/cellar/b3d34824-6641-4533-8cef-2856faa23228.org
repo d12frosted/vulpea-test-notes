@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b3d34824-6641-4533-8cef-2856faa23228
+:END:
+#+title: Fxbahvi Qqezrar Svr Ekpendvf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Svr Ekpendvf
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 10.5
+- sugar :: 1.38
+- price :: 90.38 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:3206fda0-f093-47d4-9859-75b80073f978][Fxbahvi Qqezrar Svr Ekpendvf NV - 1996-8-23]]

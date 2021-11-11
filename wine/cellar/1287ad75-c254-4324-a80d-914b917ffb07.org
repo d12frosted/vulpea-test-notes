@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1287ad75-c254-4324-a80d-914b917ffb07
+:END:
+#+title: Bhpgaqm Pslnklf Dqcls 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Dqcls
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 11.29
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

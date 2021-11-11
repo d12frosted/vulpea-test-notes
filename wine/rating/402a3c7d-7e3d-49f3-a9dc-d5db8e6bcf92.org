@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       402a3c7d-7e3d-49f3-a9dc-d5db8e6bcf92
+:END:
+#+title: Mabtcl Miuoflx Ieydszk Tgl NV - 2006-12-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:842e3615-7412-48f2-a145-8080714a1e51][Mabtcl Miuoflx Ieydszk Tgl]]
+- date :: 2006-12-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

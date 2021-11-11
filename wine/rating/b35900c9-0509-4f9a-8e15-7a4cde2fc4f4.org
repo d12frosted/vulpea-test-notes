@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b35900c9-0509-4f9a-8e15-7a4cde2fc4f4
+:END:
+#+title: Bhpgaqm Pslnklf Trjpub NV - 2016-10-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:8a89ad4c-1710-4c5c-88da-8480ebc8336c][Bhpgaqm Pslnklf Trjpub]]
+- date :: 2016-10-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       938897c5-e233-448b-8d4e-b29aaa42592f
+:END:
+#+title: Ibde Iowlof Kxghnpew Dfmnygsa NV - 2004-2-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:da5cff3d-d2a1-491c-8096-cac052ad98ec][Ibde Iowlof Kxghnpew Dfmnygsa]]
+- date :: 2004-2-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

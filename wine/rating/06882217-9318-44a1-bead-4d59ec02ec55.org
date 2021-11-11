@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       06882217-9318-44a1-bead-4d59ec02ec55
+:END:
+#+title: Ibde Iowlof Ekqhpxn 2006 - 2002-1-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:21e2d6cb-76c1-4dc8-9d18-6e146f223000][Ibde Iowlof Ekqhpxn 2006]]
+- date :: 2002-1-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

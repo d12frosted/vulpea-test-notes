@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bbcc9fb0-95bd-4ae5-b12f-143ecc42d0f1
+:END:
+#+title: Mabtcl Miuoflx Kdjqrb Vpaos 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Kdjqrb Vpaos
+- vintage :: 1973
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.82
+- sugar :: 4.03
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:92d64540-172c-4940-92df-0fd730d4a71e][Mabtcl Miuoflx Kdjqrb Vpaos 1973 - 2013-7-13]]

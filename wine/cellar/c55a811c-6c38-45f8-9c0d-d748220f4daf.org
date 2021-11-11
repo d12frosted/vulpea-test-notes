@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c55a811c-6c38-45f8-9c0d-d748220f4daf
+:END:
+#+title: Hppbtt Olwhlg Awv 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Olwhlg Awv
+- vintage :: 1980
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 13.17
+- price :: 77.36 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       519badc8-ca43-4130-9547-8ab2ed34763b
+:END:
+#+title: Xhbm Cbjb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Cbjb
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 11.42
+- sugar :: 8.62
+- price :: 59.09 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:e76e48e1-08e1-4e2d-b9d2-b83168c9dcc1][Xhbm Cbjb NV - 1991-9-20]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       1f947284-1cb5-4400-9b92-030fc50c7bab
+:END:
+#+title: Xnxdlsx Tpwk Iouxyva 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Tpwk Iouxyva
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 9.75
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

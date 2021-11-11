@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9d11db8a-6a1c-4c0f-8217-badd994077e0
+:END:
+#+title: Xnxdlsx Vlqjix 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Vlqjix
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 10.02
+- price :: 30.74 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e275122d-62a9-45d7-8bb5-63f2f30c384f
+:END:
+#+title: Ibde Iowlof Udj Lukqphm 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Udj Lukqphm
+- vintage :: 1933
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 10.65
+- sugar :: 16.76
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

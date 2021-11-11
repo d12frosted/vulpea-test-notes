@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bd58b632-4ec0-4657-9ad2-bc27ec7300ff
+:END:
+#+title: Ajkygaf Emnb Efznnyd NV - 1992-11-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:223241bb-82e9-4d58-8015-5f9849a0f287][Ajkygaf Emnb Efznnyd]]
+- date :: 1992-11-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

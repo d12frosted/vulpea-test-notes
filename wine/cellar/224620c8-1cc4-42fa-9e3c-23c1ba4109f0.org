@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       224620c8-1cc4-42fa-9e3c-23c1ba4109f0
+:END:
+#+title: Bhpgaqm Pslnklf Xtzgu 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Xtzgu
+- vintage :: 1901
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 12.23
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

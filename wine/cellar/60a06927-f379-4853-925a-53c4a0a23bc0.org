@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       60a06927-f379-4853-925a-53c4a0a23bc0
+:END:
+#+title: Wdcfn Yrra Gud 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Gud
+- vintage :: 1995
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.56
+- sugar :: 21.36
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

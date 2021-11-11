@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       352c6e0e-7b38-4284-9ade-e5303c8485c9
+:END:
+#+title: Ajkygaf Emnb Oifsh Bheud 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Oifsh Bheud
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.16
+- price :: 69.20 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: wikipedia
+- rating :: NA

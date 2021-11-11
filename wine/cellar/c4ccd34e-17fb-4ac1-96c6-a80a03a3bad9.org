@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c4ccd34e-17fb-4ac1-96c6-a80a03a3bad9
+:END:
+#+title: Fxbahvi Qqezrar Zzehe Enqtxi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Zzehe Enqtxi
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 11.49
+- sugar :: 22.88
+- price :: 52.60 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

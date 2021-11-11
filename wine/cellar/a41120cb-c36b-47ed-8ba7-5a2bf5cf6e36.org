@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a41120cb-c36b-47ed-8ba7-5a2bf5cf6e36
+:END:
+#+title: Ibde Iowlof Bwxpxf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Bwxpxf
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 13.4
+- sugar :: 23.04
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

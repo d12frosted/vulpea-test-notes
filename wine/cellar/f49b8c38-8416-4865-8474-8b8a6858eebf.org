@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f49b8c38-8416-4865-8474-8b8a6858eebf
+:END:
+#+title: Hppbtt Swa Afcqgc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Swa Afcqgc
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 12.73
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:0425e7f9-c106-4cb3-a626-123e6eaf93ea][Hppbtt Swa Afcqgc NV - 2021-8-6]]

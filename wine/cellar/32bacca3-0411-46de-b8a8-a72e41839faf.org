@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       32bacca3-0411-46de-b8a8-a72e41839faf
+:END:
+#+title: Fxbahvi Qqezrar Kizwbu Qtdm 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Kizwbu Qtdm
+- vintage :: 1904
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 13.55
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

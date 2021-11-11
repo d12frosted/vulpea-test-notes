@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0e738e65-f78b-4da8-8232-88b201f1902a
+:END:
+#+title: Xnxdlsx Rle Qcrqsewm NV - 2009-2-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:a3b70bfb-0c33-42f7-a18f-d224c4cedcfb][Xnxdlsx Rle Qcrqsewm]]
+- date :: 2009-2-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

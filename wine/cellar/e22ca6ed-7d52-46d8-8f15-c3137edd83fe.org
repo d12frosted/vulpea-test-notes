@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e22ca6ed-7d52-46d8-8f15-c3137edd83fe
+:END:
+#+title: Bhpgaqm Pslnklf Ayj 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ayj
+- vintage :: 1975
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 13.79
+- price :: 14.51 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 3.0
+- ratings :: [[id:8b25e519-2929-408c-b6ba-f347ccc6bec4][Bhpgaqm Pslnklf Ayj 1975 - 2011-3-8]]

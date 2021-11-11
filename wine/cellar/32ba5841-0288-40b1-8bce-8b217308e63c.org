@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       32ba5841-0288-40b1-8bce-8b217308e63c
+:END:
+#+title: Fxbahvi Qqezrar Ortpsg Grc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Ortpsg Grc
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.09
+- price :: 84.46 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

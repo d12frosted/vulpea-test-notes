@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       78dfa0dd-94a7-4611-afb9-c738a5d0aa43
+:END:
+#+title: Mgdu Jyiod Kbi 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Jyiod Kbi
+- vintage :: 1962
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 10.86
+- price :: 8.47 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 7.5
+- ratings :: [[id:79e14a93-4b9d-4443-9aef-805a37deba95][Mgdu Jyiod Kbi 1962 - 2015-2-6]]

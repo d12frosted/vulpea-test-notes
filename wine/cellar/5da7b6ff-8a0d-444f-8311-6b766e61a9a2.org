@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5da7b6ff-8a0d-444f-8311-6b766e61a9a2
+:END:
+#+title: Wdcfn Yrra Nfp 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Nfp
+- vintage :: 1934
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.36
+- sugar :: 11.4
+- price :: 77.63 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 1.5
+- ratings :: [[id:88075c50-abbd-4bb3-ae0e-ac7b17674988][Wdcfn Yrra Nfp 1934 - 2006-5-24]]

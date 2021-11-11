@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f09060d2-7394-4128-acea-c99739b8e9cb
+:END:
+#+title: Xhbm Lkgxquzv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Lkgxquzv
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 9.82
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

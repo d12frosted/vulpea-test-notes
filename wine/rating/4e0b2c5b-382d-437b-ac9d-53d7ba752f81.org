@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4e0b2c5b-382d-437b-ac9d-53d7ba752f81
+:END:
+#+title: Mgdu Kef 1925 - 1990-12-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:1a6a12e3-6049-4413-8a93-1e01ddadf941][Mgdu Kef 1925]]
+- date :: 1990-12-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

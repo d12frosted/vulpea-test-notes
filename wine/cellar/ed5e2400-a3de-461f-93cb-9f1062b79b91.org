@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ed5e2400-a3de-461f-93cb-9f1062b79b91
+:END:
+#+title: Wdcfn Yrra Fpgcp Wlbt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Fpgcp Wlbt
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.24
+- price :: 76.87 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:6cf0c682-459a-4b88-8a47-09a396afb90d][Wdcfn Yrra Fpgcp Wlbt NV - 1998-6-28]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       54f1fbd1-bfb2-4d4c-9cde-40a9a645daf1
+:END:
+#+title: Wdcfn Yrra Jwk 2016 - 2001-4-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:52007c9a-ba73-485a-a556-403e72c5bf65][Wdcfn Yrra Jwk 2016]]
+- date :: 2001-4-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

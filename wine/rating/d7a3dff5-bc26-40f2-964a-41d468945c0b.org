@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d7a3dff5-bc26-40f2-964a-41d468945c0b
+:END:
+#+title: Mabtcl Miuoflx Rbde Wbetv NV - 2017-5-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:ef6085fb-b473-42c3-bffb-f2a8484f3895][Mabtcl Miuoflx Rbde Wbetv]]
+- date :: 2017-5-3
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

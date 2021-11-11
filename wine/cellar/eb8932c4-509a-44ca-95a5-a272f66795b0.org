@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       eb8932c4-509a-44ca-95a5-a272f66795b0
+:END:
+#+title: Mabtcl Miuoflx Mjas 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Mjas
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 10.04
+- sugar :: 6.32
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:b8cca61d-f289-4a59-889c-580bbcd49dc7][Mabtcl Miuoflx Mjas NV - 2015-5-28]]

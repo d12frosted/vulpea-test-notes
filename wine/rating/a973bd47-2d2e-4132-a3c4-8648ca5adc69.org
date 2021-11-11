@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a973bd47-2d2e-4132-a3c4-8648ca5adc69
+:END:
+#+title: Hppbtt Nuk Zgbq NV - 2014-3-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:366db6c6-5abd-4524-9590-43d2524340d6][Hppbtt Nuk Zgbq]]
+- date :: 2014-3-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5

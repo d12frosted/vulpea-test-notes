@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fd1f32e8-12d8-45f3-8894-18204e9fb118
+:END:
+#+title: Xhbm Hsgng Utst NV - 1990-4-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:23df9c5a-7c9d-4b1d-80a1-ac2bf3b817bf][Xhbm Hsgng Utst]]
+- date :: 1990-4-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

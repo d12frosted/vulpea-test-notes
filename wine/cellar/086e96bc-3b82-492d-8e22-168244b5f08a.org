@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       086e96bc-3b82-492d-8e22-168244b5f08a
+:END:
+#+title: Mabtcl Miuoflx Loum 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Loum
+- vintage :: 1935
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 13.77
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 3.5
+- ratings :: [[id:f00ee2f5-7a64-40cb-8a1c-0abd99714fd2][Mabtcl Miuoflx Loum 1935 - 1994-11-1]]

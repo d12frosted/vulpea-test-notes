@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8ad1a4d8-ee29-4f4b-b777-0d1b34281dc2
+:END:
+#+title: Mgdu Yobfz Rnyqj 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Yobfz Rnyqj
+- vintage :: 2007
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 10.96
+- sugar :: 9.11
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

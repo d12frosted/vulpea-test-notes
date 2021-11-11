@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f2ebd002-4b9d-4cc8-b939-fcf15bcf8d7e
+:END:
+#+title: Wdcfn Yrra Vfdddgds 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Vfdddgds
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 10.95
+- price :: 25.62 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       39469cd1-781d-4ce8-a46a-cca0c18c8a17
+:END:
+#+title: Hppbtt Dxjk Pjc 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Dxjk Pjc
+- vintage :: 1916
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 9.85
+- sugar :: 0.93
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 7.0
+- ratings :: [[id:ce7b3b69-ac85-44a1-8d95-fe617e3ddc4d][Hppbtt Dxjk Pjc 1916 - 2011-5-22]]

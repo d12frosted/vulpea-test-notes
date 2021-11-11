@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       71c19f47-ace9-4c08-9fdd-986d3bb7f161
+:END:
+#+title: Wdcfn Yrra Tnzag Gny 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Tnzag Gny
+- vintage :: 1998
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 11.129999999999999
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

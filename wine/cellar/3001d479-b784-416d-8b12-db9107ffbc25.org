@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3001d479-b784-416d-8b12-db9107ffbc25
+:END:
+#+title: Mabtcl Miuoflx Pvcu Optlqb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Pvcu Optlqb
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 13.02
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:d6ebcf73-5b85-4004-9469-53a812aaa0a5][Mabtcl Miuoflx Pvcu Optlqb NV - 2006-12-21]]

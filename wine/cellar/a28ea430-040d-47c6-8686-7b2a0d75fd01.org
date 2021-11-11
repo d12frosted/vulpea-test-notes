@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a28ea430-040d-47c6-8686-7b2a0d75fd01
+:END:
+#+title: Bhpgaqm Pslnklf Dngnzyzd Oexokmdz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Dngnzyzd Oexokmdz
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.89
+- sugar :: 6.44
+- price :: 53.66 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:5f801175-6d61-491f-acca-52ad3a51cf66][Bhpgaqm Pslnklf Dngnzyzd Oexokmdz NV - 2002-9-20]]

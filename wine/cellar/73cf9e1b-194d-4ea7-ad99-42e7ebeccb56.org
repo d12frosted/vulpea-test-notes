@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       73cf9e1b-194d-4ea7-ad99-42e7ebeccb56
+:END:
+#+title: Xhbm Gak 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Gak
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.17
+- sugar :: 6.5
+- price :: 20.14 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

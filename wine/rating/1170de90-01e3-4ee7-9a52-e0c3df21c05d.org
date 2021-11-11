@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1170de90-01e3-4ee7-9a52-e0c3df21c05d
+:END:
+#+title: Hppbtt Yvkyuli Zqeuq 1956 - 2024-5-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:c17bcf00-f9e8-4cae-8f6a-edb4ef94bc28][Hppbtt Yvkyuli Zqeuq 1956]]
+- date :: 2024-5-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

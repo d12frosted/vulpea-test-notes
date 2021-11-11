@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       96a1f39b-6eff-46eb-80ed-bb48d1ea10fa
+:END:
+#+title: Hppbtt Lxfw Lblq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Lxfw Lblq
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 9.39
+- price :: 14.00 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 2.5
+- ratings :: [[id:2e8df32f-078f-46fc-b21b-e70b6b9f6433][Hppbtt Lxfw Lblq NV - 2011-10-27]]

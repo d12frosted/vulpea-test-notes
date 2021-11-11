@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7ad91dde-699a-4c3e-ae90-06da2d9dca52
+:END:
+#+title: Xhbm Hzcvvfdo 1917 - 2017-9-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:4bf95e52-3278-43fe-9366-2d2f73063016][Xhbm Hzcvvfdo 1917]]
+- date :: 2017-9-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

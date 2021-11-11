@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7d697b9a-2a4b-4b9a-b031-4858f9c063fa
+:END:
+#+title: Hppbtt Mpe Jjz 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Mpe Jjz
+- vintage :: 1991
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 12.05
+- price :: 60.85 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

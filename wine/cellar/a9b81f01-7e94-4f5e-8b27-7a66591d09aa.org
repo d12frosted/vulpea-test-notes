@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a9b81f01-7e94-4f5e-8b27-7a66591d09aa
+:END:
+#+title: Xhbm Yzcpfg 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Yzcpfg
+- vintage :: 1930
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- alcohol :: 9.66
+- price :: 71.81 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:177cbe6c-1ce4-437c-9345-29eee0d66c83][Xhbm Yzcpfg 1930 - 1998-10-9]]

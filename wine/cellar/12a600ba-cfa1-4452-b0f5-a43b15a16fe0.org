@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       12a600ba-cfa1-4452-b0f5-a43b15a16fe0
+:END:
+#+title: Mgdu Kgjd 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Kgjd
+- vintage :: 1949
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.629999999999999
+- price :: 33.12 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

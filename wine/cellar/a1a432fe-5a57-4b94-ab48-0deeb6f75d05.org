@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a1a432fe-5a57-4b94-ab48-0deeb6f75d05
+:END:
+#+title: Xnxdlsx Rkmxf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Rkmxf
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.45
+- price :: 98.10 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 6.5
+- ratings :: [[id:97657707-c0d7-43de-b6a2-fb72e29abbc7][Xnxdlsx Rkmxf NV - 2010-2-11]]

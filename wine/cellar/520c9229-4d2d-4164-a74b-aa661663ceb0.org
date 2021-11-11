@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       520c9229-4d2d-4164-a74b-aa661663ceb0
+:END:
+#+title: Fxbahvi Qqezrar Cuq Ibnonym 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Cuq Ibnonym
+- vintage :: 1953
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 12.02
+- sugar :: 17.46
+- price :: 32.69 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

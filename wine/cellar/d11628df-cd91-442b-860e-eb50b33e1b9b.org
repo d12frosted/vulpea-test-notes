@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d11628df-cd91-442b-860e-eb50b33e1b9b
+:END:
+#+title: Ibde Iowlof Xgwtxlpb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Xgwtxlpb
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.07
+- sugar :: 15.13
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 5.0
+- ratings :: [[id:890ca6d8-a08e-4fd9-825e-6fdddd2f5d64][Ibde Iowlof Xgwtxlpb NV - 2001-7-7]]

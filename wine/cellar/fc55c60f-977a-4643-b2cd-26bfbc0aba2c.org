@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fc55c60f-977a-4643-b2cd-26bfbc0aba2c
+:END:
+#+title: Bhpgaqm Pslnklf Qbnqovs Zgwyidms 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Qbnqovs Zgwyidms
+- vintage :: 2005
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 11.83
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2791d54a-8146-4698-9653-cc5cf60ff444
+:END:
+#+title: Bhpgaqm Pslnklf Ndppf 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ndppf
+- vintage :: 1984
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.59
+- sugar :: 6.85
+- price :: 102.15 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:b4e73af7-cb40-4857-a37e-b74d63a56696][Bhpgaqm Pslnklf Ndppf 1984 - 2000-7-19]]

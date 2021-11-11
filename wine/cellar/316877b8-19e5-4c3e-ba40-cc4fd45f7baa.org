@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       316877b8-19e5-4c3e-ba40-cc4fd45f7baa
+:END:
+#+title: Xnxdlsx Mqi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Mqi
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 10.3
+- sugar :: 9.08
+- price :: 21.76 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7e0c6a82-6fc6-40db-b7ac-31a7dfcd48d9
+:END:
+#+title: Xnxdlsx Irqxkc 1903 - 1995-12-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:432363de-b69f-4905-8b30-06b4fbe3877d][Xnxdlsx Irqxkc 1903]]
+- date :: 1995-12-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 18
+- score_max :: 20
+- total :: 9.0

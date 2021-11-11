@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d9555b05-18e6-461f-b95a-8767dedd96aa
+:END:
+#+title: Bhpgaqm Pslnklf Tiumwn 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Tiumwn
+- vintage :: 1940
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.51
+- sugar :: 13.7
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

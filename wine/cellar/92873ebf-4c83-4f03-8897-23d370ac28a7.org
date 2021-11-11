@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       92873ebf-4c83-4f03-8897-23d370ac28a7
+:END:
+#+title: Mgdu Sxtseh 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Sxtseh
+- vintage :: 1930
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 11.92
+- sugar :: 22.77
+- price :: 56.29 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:1444bbdb-7adb-4bcd-abce-bc20e4161c41][Mgdu Sxtseh 1930 - 1990-2-14]]

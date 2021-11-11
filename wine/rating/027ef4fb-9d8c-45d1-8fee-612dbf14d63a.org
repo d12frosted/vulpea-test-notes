@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       027ef4fb-9d8c-45d1-8fee-612dbf14d63a
+:END:
+#+title: Ibde Iowlof Mpmk Uabel NV - 2005-11-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:cf2d335e-9bf9-4a99-a7b5-e41d1fd8b5b7][Ibde Iowlof Mpmk Uabel]]
+- date :: 2005-11-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

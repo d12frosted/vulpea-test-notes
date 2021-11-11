@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f04e5a74-d417-4227-a2d3-7d9099fed6b8
+:END:
+#+title: Hppbtt Fqrs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fqrs
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.32
+- sugar :: 9.3
+- price :: 91.84 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

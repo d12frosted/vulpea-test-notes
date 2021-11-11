@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fc0c233e-da26-43f9-a2aa-e5b86bc7ce5c
+:END:
+#+title: Wdcfn Yrra Iuprttya 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Iuprttya
+- vintage :: 1916
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 11.8
+- price :: 4.67 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:eb51651d-6239-4f0e-8720-6d5798cfee48][Wdcfn Yrra Iuprttya 1916 - 2015-12-7]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       133576c4-e045-4c0d-bebc-4cb79d8cffca
+:END:
+#+title: Mabtcl Miuoflx Fpcz Swsh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Fpcz Swsh
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.96
+- price :: 20.31 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cbb13de6-b535-47a9-90e0-8f474406ef60
+:END:
+#+title: Xhbm Atiw 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Atiw
+- vintage :: 1971
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 12.46
+- sugar :: 17.63
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

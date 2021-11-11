@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e0c04670-99c7-4f8e-94dc-ca07d9f6a6e5
+:END:
+#+title: Ajkygaf Emnb Bxwydq Txilzy 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Bxwydq Txilzy
+- vintage :: 1977
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 12.6
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

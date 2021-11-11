@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ba7e5d38-64d6-4cc4-9c4c-404a9bd43948
+:END:
+#+title: Ajkygaf Emnb Muwhkhui Snjobh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Muwhkhui Snjobh
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 10.22
+- sugar :: 6.89
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:25c8cc61-8cd5-4719-9577-2aa354514ab7][Ajkygaf Emnb Muwhkhui Snjobh NV - 2009-3-7]]

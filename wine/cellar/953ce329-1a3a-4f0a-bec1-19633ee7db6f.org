@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       953ce329-1a3a-4f0a-bec1-19633ee7db6f
+:END:
+#+title: Ajkygaf Emnb Ueqxsdj Wztl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ueqxsdj Wztl
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 11.27
+- sugar :: 11.77
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

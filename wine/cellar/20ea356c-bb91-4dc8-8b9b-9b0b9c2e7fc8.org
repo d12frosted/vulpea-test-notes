@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       20ea356c-bb91-4dc8-8b9b-9b0b9c2e7fc8
+:END:
+#+title: Ajkygaf Emnb Hubekewu Dsouwjvx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Hubekewu Dsouwjvx
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 11.75
+- sugar :: 7.05
+- price :: 34.98 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

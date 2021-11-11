@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b1581157-4d9c-43f2-8f84-cb758a7f3680
+:END:
+#+title: Mgdu Jmbqzgf 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Jmbqzgf
+- vintage :: 1942
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 12.42
+- sugar :: 23.54
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 3.5
+- ratings :: [[id:8b409113-f98a-4f4e-8672-612a2cae9492][Mgdu Jmbqzgf 1942 - 2015-3-26]]

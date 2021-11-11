@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       db5b02d8-0432-4128-90f0-1deeb4372ba2
+:END:
+#+title: Mgdu Pzbxe Smimcnoh 2003 - 1997-12-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:b46059f3-7301-4c82-94b4-aa6e5bf9961f][Mgdu Pzbxe Smimcnoh 2003]]
+- date :: 1997-12-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

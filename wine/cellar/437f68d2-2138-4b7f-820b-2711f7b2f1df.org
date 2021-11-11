@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       437f68d2-2138-4b7f-820b-2711f7b2f1df
+:END:
+#+title: Xnxdlsx Vxtl Xwivu 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Vxtl Xwivu
+- vintage :: 1968
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 12.18
+- sugar :: 10.71
+- price :: 94.54 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

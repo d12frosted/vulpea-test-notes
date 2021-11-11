@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5dca84d2-3160-4697-b028-1ce19df854e8
+:END:
+#+title: Wdcfn Yrra Mbh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Mbh
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 13.17
+- price :: 30.86 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

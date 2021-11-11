@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       52eeb26a-6af9-4453-8f79-0011c4b5b6ba
+:END:
+#+title: Wdcfn Yrra Zhavw Asewezd 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Zhavw Asewezd
+- vintage :: 1926
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 13.54
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: wikipedia
+- rating :: NA

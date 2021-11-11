@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d1436336-1b15-4f22-9351-25ff4af8781b
+:END:
+#+title: Fxbahvi Qqezrar Vlizg Gbrs 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Vlizg Gbrs
+- vintage :: 1941
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.94
+- price :: 60.74 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

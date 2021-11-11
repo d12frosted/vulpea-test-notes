@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8c9da83d-9f43-4c52-b550-9c0122131ab2
+:END:
+#+title: Wdcfn Yrra Gvhico Dzo 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Gvhico Dzo
+- vintage :: 2010
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 11.73
+- sugar :: 12.13
+- price :: 46.58 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

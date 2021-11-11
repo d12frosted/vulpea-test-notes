@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e9e79e5d-2aad-428d-ab76-da1acbcb549f
+:END:
+#+title: Xnxdlsx Rquzabes 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Rquzabes
+- vintage :: 1938
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 13.6
+- price :: 43.67 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

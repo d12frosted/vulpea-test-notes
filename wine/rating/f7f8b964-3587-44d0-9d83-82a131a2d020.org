@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f7f8b964-3587-44d0-9d83-82a131a2d020
+:END:
+#+title: Ibde Iowlof Cre Cfm NV - 2000-1-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:a1932591-e1c9-43d3-95bf-40a6c3dd7fa1][Ibde Iowlof Cre Cfm]]
+- date :: 2000-1-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       801061c2-9ec0-499b-85d9-1730287b5010
+:END:
+#+title: Mgdu Lxptynf 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Lxptynf
+- vintage :: 2009
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 9.03
+- sugar :: 9.37
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 3.0
+- ratings :: [[id:9ca4e28b-7db5-4387-b6b7-f53f4f07a60d][Mgdu Lxptynf 2009 - 2005-1-18]]

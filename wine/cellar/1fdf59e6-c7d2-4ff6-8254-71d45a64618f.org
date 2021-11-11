@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1fdf59e6-c7d2-4ff6-8254-71d45a64618f
+:END:
+#+title: Mabtcl Miuoflx Wqqdb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Wqqdb
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 12.78
+- price :: 56.48 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 5.0
+- ratings :: [[id:1def26c3-2c23-4521-a9cd-c69adefd3201][Mabtcl Miuoflx Wqqdb NV - 2002-1-1]]

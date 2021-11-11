@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       61b40a20-afd6-4142-9713-d13ad91de4e5
+:END:
+#+title: Ajkygaf Emnb Kjhw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Kjhw
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 11.61
+- sugar :: 4.05
+- price :: 11.32 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:24404693-9337-4692-8e94-393a850642a3][Ajkygaf Emnb Kjhw NV - 2009-3-27]]

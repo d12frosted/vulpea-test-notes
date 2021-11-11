@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ea89763f-37f6-488a-8894-26a550895298
+:END:
+#+title: Mabtcl Miuoflx Apximtht 1907 - 2016-9-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:ac811582-ba45-4d8d-9f79-94f1b7c3d713][Mabtcl Miuoflx Apximtht 1907]]
+- date :: 2016-9-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

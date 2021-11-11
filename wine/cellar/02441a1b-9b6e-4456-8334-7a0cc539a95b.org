@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       02441a1b-9b6e-4456-8334-7a0cc539a95b
+:END:
+#+title: Hppbtt Kmt 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Kmt
+- vintage :: 1969
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 10.92
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 8.0
+- ratings :: [[id:b65cf2d2-e572-4bd4-ab50-03c79f36f9fe][Hppbtt Kmt 1969 - 2010-4-21]]

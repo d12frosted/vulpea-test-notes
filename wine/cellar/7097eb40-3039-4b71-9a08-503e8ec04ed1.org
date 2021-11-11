@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7097eb40-3039-4b71-9a08-503e8ec04ed1
+:END:
+#+title: Bhpgaqm Pslnklf Yrlk Tortv 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Yrlk Tortv
+- vintage :: 1910
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 10.55
+- price :: 38.66 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

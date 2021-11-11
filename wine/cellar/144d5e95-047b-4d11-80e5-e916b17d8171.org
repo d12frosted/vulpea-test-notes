@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       144d5e95-047b-4d11-80e5-e916b17d8171
+:END:
+#+title: Bhpgaqm Pslnklf Gbzndng 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Gbzndng
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 10.39
+- price :: 44.03 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

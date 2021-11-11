@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       875c4eaa-aa32-4b6f-be24-6036489023e6
+:END:
+#+title: Mgdu Htdqlnld Filtj 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Htdqlnld Filtj
+- vintage :: 1946
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 13.129999999999999
+- sugar :: 0.11
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

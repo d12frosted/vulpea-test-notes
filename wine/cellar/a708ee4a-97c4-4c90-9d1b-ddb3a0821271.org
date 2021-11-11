@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a708ee4a-97c4-4c90-9d1b-ddb3a0821271
+:END:
+#+title: Hppbtt Tbkhxhu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Tbkhxhu
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 11.09
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

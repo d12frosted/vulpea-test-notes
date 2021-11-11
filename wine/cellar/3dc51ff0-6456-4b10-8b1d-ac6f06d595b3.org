@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3dc51ff0-6456-4b10-8b1d-ac6f06d595b3
+:END:
+#+title: Wdcfn Yrra Ejigm Xtptvri 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Ejigm Xtptvri
+- vintage :: 1993
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 12.04
+- price :: 98.33 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:d7ddb5ed-9e6a-4171-8d3e-fcc43f3ee618][Wdcfn Yrra Ejigm Xtptvri 1993 - 1995-3-26]]

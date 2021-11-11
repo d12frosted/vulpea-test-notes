@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7350f5da-10d3-4d51-806e-3fdaa807d1f8
+:END:
+#+title: Wdcfn Yrra Iocvu Chsb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Iocvu Chsb
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 13.98
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

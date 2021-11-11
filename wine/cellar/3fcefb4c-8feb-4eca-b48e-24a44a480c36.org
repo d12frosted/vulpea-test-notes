@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3fcefb4c-8feb-4eca-b48e-24a44a480c36
+:END:
+#+title: Hppbtt Bczjj 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Bczjj
+- vintage :: 1927
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 10.43
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

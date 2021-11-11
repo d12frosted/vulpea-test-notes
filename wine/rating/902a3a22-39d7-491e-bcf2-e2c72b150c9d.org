@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       902a3a22-39d7-491e-bcf2-e2c72b150c9d
+:END:
+#+title: Mabtcl Miuoflx Mnmyfwwp NV - 2007-12-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:ed6ccb5f-00d7-4047-be51-413e6c7c61b6][Mabtcl Miuoflx Mnmyfwwp]]
+- date :: 2007-12-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

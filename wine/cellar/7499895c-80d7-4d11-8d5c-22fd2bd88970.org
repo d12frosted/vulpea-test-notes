@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7499895c-80d7-4d11-8d5c-22fd2bd88970
+:END:
+#+title: Mabtcl Miuoflx Dhwdbrmf Brwyul 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Dhwdbrmf Brwyul
+- vintage :: 1907
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.6
+- price :: 90.26 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

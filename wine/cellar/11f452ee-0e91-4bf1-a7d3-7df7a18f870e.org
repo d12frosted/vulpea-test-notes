@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       11f452ee-0e91-4bf1-a7d3-7df7a18f870e
+:END:
+#+title: Mabtcl Miuoflx Sueytf 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Sueytf
+- vintage :: 1989
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 10.34
+- sugar :: 7.32
+- price :: 17.16 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 5.0
+- ratings :: [[id:2791fc07-ef09-4426-b046-4acfb2caf04b][Mabtcl Miuoflx Sueytf 1989 - 2019-11-13]]

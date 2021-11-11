@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6a0b1318-39b6-40be-b79c-1d2b4494a0e9
+:END:
+#+title: Bhpgaqm Pslnklf Zlovn 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Zlovn
+- vintage :: 2012
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 9.89
+- sugar :: 11.68
+- price :: 7.32 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5f49ead9-452b-43dd-8863-fe6ca6a21e09
+:END:
+#+title: Xnxdlsx Pygpcjm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Pygpcjm
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 10.51
+- sugar :: 12.09
+- price :: 26.15 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

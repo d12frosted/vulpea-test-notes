@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       347de968-42aa-477b-af63-a75f34867381
+:END:
+#+title: Wdcfn Yrra Bijtfsgv 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Bijtfsgv
+- vintage :: 1998
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 13.73
+- price :: 66.73 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

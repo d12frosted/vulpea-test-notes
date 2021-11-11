@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4709295b-9b85-4c2d-bbde-d782aa9de225
+:END:
+#+title: Xnxdlsx Weqt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Weqt
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.08
+- sugar :: 5.63
+- price :: 96.70 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

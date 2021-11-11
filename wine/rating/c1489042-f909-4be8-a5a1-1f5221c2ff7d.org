@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c1489042-f909-4be8-a5a1-1f5221c2ff7d
+:END:
+#+title: Fxbahvi Qqezrar Ezm Qgpohbo NV - 2001-10-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:15ae50aa-6ff4-4f01-9627-5fd7c90ef85c][Fxbahvi Qqezrar Ezm Qgpohbo]]
+- date :: 2001-10-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

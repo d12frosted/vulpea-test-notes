@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       b540787d-799e-4246-a844-6f784608f246
+:END:
+#+title: Ibde Iowlof Hud 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Hud
+- vintage :: 1922
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.06
+- sugar :: 9.44
+- price :: 31.87 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 7.0
+- ratings :: [[id:35070637-1c05-48c7-a667-417315a67373][Ibde Iowlof Hud 1922 - 1996-2-25]]

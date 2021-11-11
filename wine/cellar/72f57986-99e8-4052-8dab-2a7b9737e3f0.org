@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       72f57986-99e8-4052-8dab-2a7b9737e3f0
+:END:
+#+title: Fxbahvi Qqezrar Acygkx Ubmpz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Acygkx Ubmpz
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 9.4
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 2.0
+- ratings :: [[id:35c2ddcb-497a-4616-b3e5-65361daf7d02][Fxbahvi Qqezrar Acygkx Ubmpz NV - 2019-1-22]]

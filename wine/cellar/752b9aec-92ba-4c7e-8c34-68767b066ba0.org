@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       752b9aec-92ba-4c7e-8c34-68767b066ba0
+:END:
+#+title: Bhpgaqm Pslnklf Kxa 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Kxa
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 10.4
+- price :: 39.82 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

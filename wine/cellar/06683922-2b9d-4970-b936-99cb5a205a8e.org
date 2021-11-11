@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       06683922-2b9d-4970-b936-99cb5a205a8e
+:END:
+#+title: Ajkygaf Emnb Lseadm 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Lseadm
+- vintage :: 1923
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 12.02
+- price :: 54.97 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 5.5
+- ratings :: [[id:489e9a22-3a9a-45df-aa4d-c4018f0a5a52][Ajkygaf Emnb Lseadm 1923 - 2008-6-18]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c2b7a815-2ceb-4f85-a9c1-0ac0e62448b1
+:END:
+#+title: Ibde Iowlof Kqkwp Vlja 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Kqkwp Vlja
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 10.79
+- sugar :: 2.18
+- price :: 28.53 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

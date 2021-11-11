@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       235f4b68-89f2-4639-87f6-90e1cea5fd94
+:END:
+#+title: Wdcfn Yrra Pjy Ydjj 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Pjy Ydjj
+- vintage :: 1940
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 10.01
+- sugar :: 20.43
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       58f43269-10f9-4249-a96c-2e89b67d8243
+:END:
+#+title: Xhbm Vqh 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Vqh
+- vintage :: 1928
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 9.73
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d8b3e4cd-5771-44ac-bb8e-ce6d0ece69ce
+:END:
+#+title: Ajkygaf Emnb Criptbh Qarpq 1916 - 2006-8-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:ca6ab58b-8ce9-4757-b264-d3087eade91d][Ajkygaf Emnb Criptbh Qarpq 1916]]
+- date :: 2006-8-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

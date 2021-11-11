@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       46184ab6-56bb-49f3-9b39-7b968efdf759
+:END:
+#+title: Wdcfn Yrra Zei Iqjbklm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Zei Iqjbklm
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 9.66
+- sugar :: 21.95
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

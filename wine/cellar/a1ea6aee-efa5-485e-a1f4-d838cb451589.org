@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a1ea6aee-efa5-485e-a1f4-d838cb451589
+:END:
+#+title: Hppbtt Gwrcdq Oyfbp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Gwrcdq Oyfbp
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 11.25
+- sugar :: 13.83
+- price :: 58.06 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:67d4ecec-7834-4dd4-9f20-e02d994f2e18][Hppbtt Gwrcdq Oyfbp NV - 2017-1-8]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       90cda8d2-f5cc-4e88-b42e-fbbccd942aaa
+:END:
+#+title: Fxbahvi Qqezrar Eenxuht 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Eenxuht
+- vintage :: 1986
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 13.620000000000001
+- price :: 28.44 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 2.0
+- ratings :: [[id:8ea6ce38-8d2c-497a-8a44-31da6e434f8e][Fxbahvi Qqezrar Eenxuht 1986 - 2003-6-15]]

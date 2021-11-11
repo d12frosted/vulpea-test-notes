@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       43f4be31-2a09-446d-aac6-b6db6eff78fd
+:END:
+#+title: Mabtcl Miuoflx Sleji 1913 - 2023-7-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:1ee936de-82ec-43fd-894f-827340775d4a][Mabtcl Miuoflx Sleji 1913]]
+- date :: 2023-7-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       78daa92e-a512-4021-938c-9fc951028e7c
+:END:
+#+title: Xnxdlsx Afxyfalc 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Afxyfalc
+- vintage :: 2019
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 9.25
+- price :: 75.70 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 5.0
+- ratings :: [[id:89f70798-5a93-4c1b-bc79-b2a4db8d2f70][Xnxdlsx Afxyfalc 2019 - 2020-7-1]]

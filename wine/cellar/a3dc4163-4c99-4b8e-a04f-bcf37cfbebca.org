@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a3dc4163-4c99-4b8e-a04f-bcf37cfbebca
+:END:
+#+title: Mgdu Wlirpd Cjqve 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Wlirpd Cjqve
+- vintage :: 1953
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 13.16
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 6.0
+- ratings :: [[id:af6c55f1-d4e1-4ed1-8a43-cec6c62d7419][Mgdu Wlirpd Cjqve 1953 - 1992-12-17]]

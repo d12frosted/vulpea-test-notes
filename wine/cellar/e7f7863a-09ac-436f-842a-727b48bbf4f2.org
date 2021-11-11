@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e7f7863a-09ac-436f-842a-727b48bbf4f2
+:END:
+#+title: Mgdu Yjxu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Yjxu
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 11.35
+- sugar :: 9.3
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

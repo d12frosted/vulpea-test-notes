@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       42f8d0d9-c98c-4218-bcb9-b38fef5291c2
+:END:
+#+title: Fxbahvi Qqezrar Jsiyjbfa Lfz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Jsiyjbfa Lfz
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.85
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

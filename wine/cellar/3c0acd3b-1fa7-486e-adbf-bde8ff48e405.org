@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3c0acd3b-1fa7-486e-adbf-bde8ff48e405
+:END:
+#+title: Xnxdlsx Ossd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ossd
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 13.09
+- sugar :: 6.81
+- price :: 75.46 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

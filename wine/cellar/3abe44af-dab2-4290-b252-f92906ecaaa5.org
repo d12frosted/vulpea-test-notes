@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3abe44af-dab2-4290-b252-f92906ecaaa5
+:END:
+#+title: Ibde Iowlof Rhuneh Sot 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Rhuneh Sot
+- vintage :: 1938
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 9.89
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:0c3939b1-11c7-49ec-ae0e-fe45ae2a2c4f][Ibde Iowlof Rhuneh Sot 1938 - 1994-10-17]]

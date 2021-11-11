@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b532b0c9-bb1f-41ea-a241-429b34a52f79
+:END:
+#+title: Fxbahvi Qqezrar Cdmmo Cqe 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Cdmmo Cqe
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 13.83
+- sugar :: 11.04
+- price :: 73.33 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

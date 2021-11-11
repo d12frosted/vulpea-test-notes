@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fe746548-c16b-422c-99f7-e94a9742c669
+:END:
+#+title: Bhpgaqm Pslnklf Tbmjz 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Tbmjz
+- vintage :: 2017
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 12.24
+- sugar :: 0.44
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:4a16e703-1a36-4f10-b7c0-2b02ad97ecca][Bhpgaqm Pslnklf Tbmjz 2017 - 2017-8-19]]

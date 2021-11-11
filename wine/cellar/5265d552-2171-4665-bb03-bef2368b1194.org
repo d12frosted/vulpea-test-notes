@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5265d552-2171-4665-bb03-bef2368b1194
+:END:
+#+title: Wdcfn Yrra Upba Vktg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Upba Vktg
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 12.05
+- price :: 65.41 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

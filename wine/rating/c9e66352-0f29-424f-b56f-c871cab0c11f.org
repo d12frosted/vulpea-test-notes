@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c9e66352-0f29-424f-b56f-c871cab0c11f
+:END:
+#+title: Xnxdlsx Jas NV - 2005-6-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:ce5f7bf2-3f37-4797-9afe-5dd711709757][Xnxdlsx Jas]]
+- date :: 2005-6-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

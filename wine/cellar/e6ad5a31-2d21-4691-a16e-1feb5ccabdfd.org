@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e6ad5a31-2d21-4691-a16e-1feb5ccabdfd
+:END:
+#+title: Xnxdlsx Vupfteiv 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Vupfteiv
+- vintage :: 1998
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 9.85
+- sugar :: 19.78
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:90fc23c7-842f-4146-b7c9-264358905415][Xnxdlsx Vupfteiv 1998 - 2014-6-6]]

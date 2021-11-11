@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d200eb4d-fee7-4e9d-ad9c-f6923a1591b7
+:END:
+#+title: Wdcfn Yrra Nlgf 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Nlgf
+- vintage :: 1991
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.31
+- sugar :: 13.48
+- price :: 47.98 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

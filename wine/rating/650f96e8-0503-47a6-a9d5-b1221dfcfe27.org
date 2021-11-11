@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       650f96e8-0503-47a6-a9d5-b1221dfcfe27
+:END:
+#+title: Ibde Iowlof Focwxny Bxwp NV - 2021-5-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:726157a9-f54c-41f7-a0f8-ddf7c2c7d2c0][Ibde Iowlof Focwxny Bxwp]]
+- date :: 2021-5-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f9dbb597-9948-4915-ad9e-9a5ab779a338
+:END:
+#+title: Ibde Iowlof Kngvul Bujj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Kngvul Bujj
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 13.35
+- sugar :: 18.63
+- price :: 74.48 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       12ecdafa-dea5-4dc2-859c-797339c25ad3
+:END:
+#+title: Bhpgaqm Pslnklf Okecu Rzxrwsbd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Okecu Rzxrwsbd
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 11.04
+- sugar :: 11.81
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 7.0
+- ratings :: [[id:459d0f0e-b521-451b-a141-ff4c1b4e8a6f][Bhpgaqm Pslnklf Okecu Rzxrwsbd NV - 2002-5-28]]

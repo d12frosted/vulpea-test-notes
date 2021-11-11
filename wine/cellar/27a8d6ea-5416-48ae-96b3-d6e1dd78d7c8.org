@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       27a8d6ea-5416-48ae-96b3-d6e1dd78d7c8
+:END:
+#+title: Xnxdlsx Dilda Ytrhpmyq 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Dilda Ytrhpmyq
+- vintage :: 1915
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.73
+- sugar :: 19.43
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

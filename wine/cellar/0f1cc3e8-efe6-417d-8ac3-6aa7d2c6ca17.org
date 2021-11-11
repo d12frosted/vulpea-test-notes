@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0f1cc3e8-efe6-417d-8ac3-6aa7d2c6ca17
+:END:
+#+title: Bhpgaqm Pslnklf Ustshfm Ytcc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ustshfm Ytcc
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 12.59
+- price :: 57.56 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

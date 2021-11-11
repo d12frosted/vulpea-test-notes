@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e2d19615-a584-4e28-921e-357d0aec611a
+:END:
+#+title: Mgdu Jdirnt Njdsloti 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Jdirnt Njdsloti
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 12.58
+- sugar :: 1.3
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 1.5
+- ratings :: [[id:621e38ca-a5a2-4096-a594-a657ef39e9df][Mgdu Jdirnt Njdsloti NV - 2013-3-10]]

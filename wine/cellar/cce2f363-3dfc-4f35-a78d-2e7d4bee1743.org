@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cce2f363-3dfc-4f35-a78d-2e7d4bee1743
+:END:
+#+title: Xnxdlsx Dbimy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Dbimy
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 9.91
+- price :: 6.66 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:52ba7fc3-c44a-46de-96e5-6b8c6bb73886][Xnxdlsx Dbimy NV - 1996-5-11]]

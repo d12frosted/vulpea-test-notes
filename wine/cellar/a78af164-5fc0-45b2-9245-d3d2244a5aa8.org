@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a78af164-5fc0-45b2-9245-d3d2244a5aa8
+:END:
+#+title: Ajkygaf Emnb Ztykatf Psibbnw 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ztykatf Psibbnw
+- vintage :: 1951
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 11.26
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: 2.5
+- ratings :: [[id:bb80e8af-1024-477d-9599-dd4c7e02fa44][Ajkygaf Emnb Ztykatf Psibbnw 1951 - 2016-7-4]]

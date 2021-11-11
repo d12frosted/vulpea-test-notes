@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5e6c9e1e-65f2-4354-ba6a-2ab0b2c4aea3
+:END:
+#+title: Mgdu Keh Fshsro 1934 - 2020-11-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:9770e2ee-8776-488b-a761-58cc0d306fe0][Mgdu Keh Fshsro 1934]]
+- date :: 2020-11-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

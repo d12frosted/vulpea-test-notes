@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a26e6689-2be2-4e7b-8df5-b9be5a43271c
+:END:
+#+title: Xhbm Idun Bfvtosr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Idun Bfvtosr
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 13.32
+- price :: 38.16 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

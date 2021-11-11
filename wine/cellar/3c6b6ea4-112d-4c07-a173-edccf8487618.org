@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3c6b6ea4-112d-4c07-a173-edccf8487618
+:END:
+#+title: Ajkygaf Emnb Aaasi Ipz 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Aaasi Ipz
+- vintage :: 2019
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 11.49
+- price :: 65.79 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 5.5
+- ratings :: [[id:d4c41128-396b-4f82-b366-a3742f468fe1][Ajkygaf Emnb Aaasi Ipz 2019 - 2014-9-18]]

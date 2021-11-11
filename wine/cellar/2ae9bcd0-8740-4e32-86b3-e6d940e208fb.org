@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2ae9bcd0-8740-4e32-86b3-e6d940e208fb
+:END:
+#+title: Mabtcl Miuoflx Qkxvs Pmi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Qkxvs Pmi
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 9.62
+- sugar :: 2.58
+- price :: 88.33 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       23f574c1-362e-46cb-a9fa-3d136176f21e
+:END:
+#+title: Xhbm Hsa NV - 2018-8-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:4e703da6-81a5-4ba0-8e37-476299efb8ff][Xhbm Hsa]]
+- date :: 2018-8-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

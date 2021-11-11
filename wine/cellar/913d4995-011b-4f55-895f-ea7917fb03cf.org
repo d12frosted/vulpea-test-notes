@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       913d4995-011b-4f55-895f-ea7917fb03cf
+:END:
+#+title: Wdcfn Yrra Jfgg Bfapship 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Jfgg Bfapship
+- vintage :: 1951
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 12.99
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 3.5
+- ratings :: [[id:b9bc0fe9-9dda-4db2-a023-eb18ba65f41e][Wdcfn Yrra Jfgg Bfapship 1951 - 2016-5-18]]

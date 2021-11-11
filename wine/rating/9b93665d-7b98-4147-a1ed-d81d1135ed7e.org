@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9b93665d-7b98-4147-a1ed-d81d1135ed7e
+:END:
+#+title: Ajkygaf Emnb Zday Fcjg NV - 2002-6-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:743bc493-b98f-4fe7-a5a5-86d4ae6492a8][Ajkygaf Emnb Zday Fcjg]]
+- date :: 2002-6-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

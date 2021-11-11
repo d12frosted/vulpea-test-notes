@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a59b3d21-b9bb-4ab7-9389-22bc066b2176
+:END:
+#+title: Fxbahvi Qqezrar Snrzkw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Snrzkw
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 12.879999999999999
+- price :: 90.26 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:81186d37-6811-4cbc-95b4-9596a6c04f81][Fxbahvi Qqezrar Snrzkw NV - 2014-4-21]]

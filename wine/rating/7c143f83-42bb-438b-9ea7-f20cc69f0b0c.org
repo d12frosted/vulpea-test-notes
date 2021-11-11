@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7c143f83-42bb-438b-9ea7-f20cc69f0b0c
+:END:
+#+title: Ajkygaf Emnb Wlrnp Fwbj NV - 1993-2-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:4ef0c5f4-edcc-4343-be50-f805c81b74f3][Ajkygaf Emnb Wlrnp Fwbj]]
+- date :: 1993-2-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

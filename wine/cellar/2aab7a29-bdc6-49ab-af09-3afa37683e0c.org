@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2aab7a29-bdc6-49ab-af09-3afa37683e0c
+:END:
+#+title: Wdcfn Yrra Fwrhfsow Znlbvbo 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Fwrhfsow Znlbvbo
+- vintage :: 1920
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 10.26
+- price :: 73.39 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 1.5
+- ratings :: [[id:a9cc2d6b-44a5-48f9-b914-042365325ed6][Wdcfn Yrra Fwrhfsow Znlbvbo 1920 - 2016-2-9]]

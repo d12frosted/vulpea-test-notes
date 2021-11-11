@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d49cf431-e961-4d87-8626-aadae87a6447
+:END:
+#+title: Mabtcl Miuoflx Qiahp NV - 1999-1-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:3ddc58c5-280a-4cae-989e-9c9f2afe893b][Mabtcl Miuoflx Qiahp]]
+- date :: 1999-1-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

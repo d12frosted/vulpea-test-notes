@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9ba9c17a-5874-4897-a7e4-a8aa7121b010
+:END:
+#+title: Ibde Iowlof Dpksoupk 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Dpksoupk
+- vintage :: 1954
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 10.43
+- price :: 34.58 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

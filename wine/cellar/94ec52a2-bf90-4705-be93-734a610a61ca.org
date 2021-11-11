@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       94ec52a2-bf90-4705-be93-734a610a61ca
+:END:
+#+title: Ajkygaf Emnb Vta Bcgq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Vta Bcgq
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 13.82
+- price :: 38.73 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:ea866091-b2cf-47a4-933d-6e17e73b11c0][Ajkygaf Emnb Vta Bcgq NV - 1991-11-22]]

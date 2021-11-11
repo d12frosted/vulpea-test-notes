@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3c83953b-db94-4aa6-9c47-425bc61847e5
+:END:
+#+title: Mabtcl Miuoflx Chm Sthw 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Chm Sthw
+- vintage :: 2000
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 13.0
+- price :: 62.48 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:108d38da-0827-45fe-9173-5b6ae14afbc6][Mabtcl Miuoflx Chm Sthw 2000 - 1991-7-17]]

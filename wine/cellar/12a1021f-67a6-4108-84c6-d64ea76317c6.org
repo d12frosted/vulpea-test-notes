@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       12a1021f-67a6-4108-84c6-d64ea76317c6
+:END:
+#+title: Xnxdlsx Frftm Xukj 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Frftm Xukj
+- vintage :: 1998
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.83
+- sugar :: 3.22
+- price :: 101.90 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

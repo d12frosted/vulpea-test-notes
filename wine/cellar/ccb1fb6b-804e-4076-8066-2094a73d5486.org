@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ccb1fb6b-804e-4076-8066-2094a73d5486
+:END:
+#+title: Fxbahvi Qqezrar Mdjmlqox Cndhkne 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Mdjmlqox Cndhkne
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.44
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

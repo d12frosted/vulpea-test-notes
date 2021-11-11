@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8372197d-66ba-4506-9b38-b5c8967f1f46
+:END:
+#+title: Hppbtt Ownvv NV - 2008-1-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:f1d2b20a-7373-4125-8914-6fe2a8524e6b][Hppbtt Ownvv]]
+- date :: 2008-1-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

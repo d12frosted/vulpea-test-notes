@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       99ce7efa-d7ca-4a97-908a-5b7eb96273f9
+:END:
+#+title: Wdcfn Yrra Moyko 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Moyko
+- vintage :: 1905
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 12.620000000000001
+- price :: 22.13 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 6.0
+- ratings :: [[id:c92663e2-83cb-4ec5-a042-325a45a51196][Wdcfn Yrra Moyko 1905 - 1999-8-3]]

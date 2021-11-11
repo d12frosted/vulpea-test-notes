@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       52d228f5-55f7-472a-84d6-5a7560855a1d
+:END:
+#+title: Bhpgaqm Pslnklf Gqmchtu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Gqmchtu
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 11.45
+- sugar :: 0.62
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:f5227ad4-85fa-4478-b6ab-08d6cf8b78c9][Bhpgaqm Pslnklf Gqmchtu NV - 2020-11-10]]

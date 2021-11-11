@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0a773ba8-1a01-46d3-82bb-927ffd9a4392
+:END:
+#+title: Xnxdlsx Pqifuv Plr NV - 2021-1-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:903eadb7-6735-4187-a778-7695ed370ff3][Xnxdlsx Pqifuv Plr]]
+- date :: 2021-1-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 2
+- score_max :: 20
+- total :: 1.0

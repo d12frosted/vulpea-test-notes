@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2b6359b6-3169-46cb-bf8b-e3c15bf7bce3
+:END:
+#+title: Wdcfn Yrra Xhjiioek 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Xhjiioek
+- vintage :: 1915
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 11.23
+- sugar :: 19.22
+- price :: 55.44 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1bed7591-dbb4-4cf1-82e5-fc75aa1b3290
+:END:
+#+title: Ibde Iowlof Isace 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Isace
+- vintage :: 1976
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.49
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 8.5
+- ratings :: [[id:b7009b41-b421-41b3-9437-0625294b65b5][Ibde Iowlof Isace 1976 - 2006-11-28]]

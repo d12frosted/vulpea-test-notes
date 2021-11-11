@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       796c184f-0ad5-4344-a8cb-86657fdabfff
+:END:
+#+title: Wdcfn Yrra Tqpytg Cqhnkxpu 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Tqpytg Cqhnkxpu
+- vintage :: 2003
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 13.2
+- sugar :: 9.74
+- price :: 72.74 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

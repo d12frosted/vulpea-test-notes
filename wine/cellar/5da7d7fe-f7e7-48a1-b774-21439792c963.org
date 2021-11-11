@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5da7d7fe-f7e7-48a1-b774-21439792c963
+:END:
+#+title: Ibde Iowlof Kpdjo Vahn 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Kpdjo Vahn
+- vintage :: 1950
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 12.89
+- sugar :: 2.43
+- price :: 11.17 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:3216324b-9b9a-4c93-95da-9c1663305190][Ibde Iowlof Kpdjo Vahn 1950 - 2002-2-27]]

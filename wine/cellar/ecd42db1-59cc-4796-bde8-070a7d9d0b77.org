@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       ecd42db1-59cc-4796-bde8-070a7d9d0b77
+:END:
+#+title: Fxbahvi Qqezrar Gbivf Smiwvf 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Gbivf Smiwvf
+- vintage :: 1979
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.48
+- sugar :: 5.61
+- price :: 33.64 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:2152e5b7-9fce-4bc2-9665-ceb9ceddcf8d][Fxbahvi Qqezrar Gbivf Smiwvf 1979 - 2013-12-1]]

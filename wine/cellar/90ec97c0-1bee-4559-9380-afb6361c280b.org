@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       90ec97c0-1bee-4559-9380-afb6361c280b
+:END:
+#+title: Fxbahvi Qqezrar Awj Znzruhcq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Awj Znzruhcq
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 9.88
+- sugar :: 0.68
+- price :: 12.25 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:add81962-3768-4934-81ec-9bec9634eb2f][Fxbahvi Qqezrar Awj Znzruhcq NV - 1998-7-20]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       246267c6-7829-435a-9c90-3722e76c8f11
+:END:
+#+title: Xnxdlsx Ieyqnl 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ieyqnl
+- vintage :: 1984
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 12.86
+- sugar :: 16.96
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

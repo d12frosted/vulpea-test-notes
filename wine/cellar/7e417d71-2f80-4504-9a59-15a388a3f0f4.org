@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7e417d71-2f80-4504-9a59-15a388a3f0f4
+:END:
+#+title: Xhbm Mez 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Mez
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.89
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:5a086be3-abdd-43fd-88f8-4e673132e9a1][Xhbm Mez NV - 2018-10-11]]

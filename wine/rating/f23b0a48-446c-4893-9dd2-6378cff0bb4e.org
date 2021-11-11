@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f23b0a48-446c-4893-9dd2-6378cff0bb4e
+:END:
+#+title: Hppbtt Ubcwwfih NV - 2010-11-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:8e0334ca-307a-4b3d-8672-1f12e2d27481][Hppbtt Ubcwwfih]]
+- date :: 2010-11-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       76a8d40d-b528-48c5-a5bf-220a1d6be11d
+:END:
+#+title: Wdcfn Yrra Waa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Waa
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.34
+- sugar :: 3.94
+- price :: 40.23 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

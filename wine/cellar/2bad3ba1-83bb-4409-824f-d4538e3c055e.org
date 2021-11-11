@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2bad3ba1-83bb-4409-824f-d4538e3c055e
+:END:
+#+title: Bhpgaqm Pslnklf Cut Vlhlak 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Cut Vlhlak
+- vintage :: 1903
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 9.86
+- sugar :: 19.35
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 7.5
+- ratings :: [[id:cd27b0c4-3c59-4310-ace5-def47132dd6b][Bhpgaqm Pslnklf Cut Vlhlak 1903 - 2014-12-6]]

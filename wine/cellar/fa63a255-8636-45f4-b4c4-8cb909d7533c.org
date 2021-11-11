@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fa63a255-8636-45f4-b4c4-8cb909d7533c
+:END:
+#+title: Ibde Iowlof Fobtc 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Fobtc
+- vintage :: 1931
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 13.34
+- sugar :: 13.74
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

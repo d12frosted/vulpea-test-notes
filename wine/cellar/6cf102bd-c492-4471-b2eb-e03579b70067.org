@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6cf102bd-c492-4471-b2eb-e03579b70067
+:END:
+#+title: Ibde Iowlof Lpniecci Njcvmrh 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Lpniecci Njcvmrh
+- vintage :: 1998
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.01
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

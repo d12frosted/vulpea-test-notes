@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5387ad75-4ec8-402b-92e9-bd2f6a3d8f6c
+:END:
+#+title: Hppbtt Iahwj Uzzgfqv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Iahwj Uzzgfqv
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 10.84
+- sugar :: 1.91
+- price :: 38.34 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       38319251-d90d-4fc9-9ccd-90cf76371e86
+:END:
+#+title: Mabtcl Miuoflx Tnerxg 1914 - 2013-7-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:59a7e8d8-2923-44f1-abd6-6ec9f0dffbac][Mabtcl Miuoflx Tnerxg 1914]]
+- date :: 2013-7-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

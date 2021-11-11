@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f36e6482-92c8-4a87-a5e7-8c435c0c370a
+:END:
+#+title: Fxbahvi Qqezrar Oaqeyk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Oaqeyk
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 13.61
+- price :: 20.51 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 6.5
+- ratings :: [[id:1017cbcb-3c6b-4415-99d3-5e0cc633d1bd][Fxbahvi Qqezrar Oaqeyk NV - 2015-3-21]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       225d8e31-97e4-4780-891a-5e5188265ac8
+:END:
+#+title: Mabtcl Miuoflx Oyfbfdtk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Oyfbfdtk
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.57
+- price :: 30.72 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

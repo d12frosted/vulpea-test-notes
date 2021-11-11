@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d574a7ed-05c0-42ec-8ee7-bc0209e0d507
+:END:
+#+title: Ibde Iowlof Kpm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Kpm
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 10.33
+- sugar :: 5.26
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

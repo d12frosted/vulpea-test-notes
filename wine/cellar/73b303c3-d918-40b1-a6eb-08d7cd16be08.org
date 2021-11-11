@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       73b303c3-d918-40b1-a6eb-08d7cd16be08
+:END:
+#+title: Ajkygaf Emnb Qkk Dnwgc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Qkk Dnwgc
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.92
+- sugar :: 15.6
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

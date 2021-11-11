@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       65e23601-4323-47f4-ba50-b5d2883d6acf
+:END:
+#+title: Mgdu Xndjob 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Xndjob
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 13.2
+- price :: 49.59 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       55b93175-18fc-4521-afed-63a73a8199ea
+:END:
+#+title: Fxbahvi Qqezrar Infv Jzpuxfx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Infv Jzpuxfx
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 9.88
+- price :: 86.03 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:17764b4d-871b-4ccc-99e9-fd38fa374a18][Fxbahvi Qqezrar Infv Jzpuxfx NV - 2001-8-9]]

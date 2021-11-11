@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1c13d720-52f7-44e2-b83d-f7e4bb947195
+:END:
+#+title: Ibde Iowlof Jxffqe 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Jxffqe
+- vintage :: 1966
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 13.5
+- sugar :: 9.41
+- price :: 35.08 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:916fe189-629c-420e-9bb3-7fc5ce3538d8][Ibde Iowlof Jxffqe 1966 - 2012-11-17]]

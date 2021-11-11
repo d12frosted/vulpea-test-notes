@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       61ea6197-61d4-41cd-9fea-73591d8d83a6
+:END:
+#+title: Ajkygaf Emnb Uulxfmh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Uulxfmh
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 10.49
+- price :: 32.67 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

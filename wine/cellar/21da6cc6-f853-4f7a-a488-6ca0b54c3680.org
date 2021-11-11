@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       21da6cc6-f853-4f7a-a488-6ca0b54c3680
+:END:
+#+title: Hppbtt Odud Rtwagvbc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Odud Rtwagvbc
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 10.81
+- sugar :: 10.86
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

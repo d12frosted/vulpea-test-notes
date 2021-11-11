@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fb0c0381-f1c1-4591-921a-910979754b12
+:END:
+#+title: Hppbtt Fnijyr Vgu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fnijyr Vgu
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.52
+- sugar :: 17.5
+- price :: 46.12 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       332ba296-9ed3-4258-8601-7119f1628410
+:END:
+#+title: Fxbahvi Qqezrar Cdwwoba 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Cdwwoba
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.11
+- sugar :: 22.03
+- price :: 66.16 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

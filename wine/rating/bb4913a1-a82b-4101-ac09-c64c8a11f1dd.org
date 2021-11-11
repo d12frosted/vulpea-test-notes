@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bb4913a1-a82b-4101-ac09-c64c8a11f1dd
+:END:
+#+title: Fxbahvi Qqezrar Uchsty Xgzikac NV - 2010-2-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:1bd7a31e-099d-4ec8-ad2a-e44771c59e44][Fxbahvi Qqezrar Uchsty Xgzikac]]
+- date :: 2010-2-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

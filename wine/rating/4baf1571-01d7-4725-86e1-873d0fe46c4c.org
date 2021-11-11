@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4baf1571-01d7-4725-86e1-873d0fe46c4c
+:END:
+#+title: Wdcfn Yrra Lwdli Ohbcof NV - 2016-8-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:bb0c6ead-384b-4d74-9aaf-1df3ef721739][Wdcfn Yrra Lwdli Ohbcof]]
+- date :: 2016-8-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

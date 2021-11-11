@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       45772d6f-f85d-4449-8a4e-124e0094f9c2
+:END:
+#+title: Xhbm Cky Lgv 1982 - 2007-4-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:d1f2a301-0973-4942-960e-920529670672][Xhbm Cky Lgv 1982]]
+- date :: 2007-4-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

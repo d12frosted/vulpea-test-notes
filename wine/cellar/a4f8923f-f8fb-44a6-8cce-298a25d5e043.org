@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a4f8923f-f8fb-44a6-8cce-298a25d5e043
+:END:
+#+title: Mgdu Kli 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Kli
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.7
+- sugar :: 16.22
+- price :: 74.44 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

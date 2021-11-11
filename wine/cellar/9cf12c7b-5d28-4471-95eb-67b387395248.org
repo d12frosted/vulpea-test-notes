@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9cf12c7b-5d28-4471-95eb-67b387395248
+:END:
+#+title: Xnxdlsx Qdh 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Qdh
+- vintage :: 1931
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 10.91
+- sugar :: 11.02
+- price :: 96.14 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

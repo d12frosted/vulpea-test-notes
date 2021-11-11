@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       99338479-7098-4a82-a88f-4809a1c5dae3
+:END:
+#+title: Xhbm Wdlbnr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Wdlbnr
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.03
+- sugar :: 3.62
+- price :: 13.69 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

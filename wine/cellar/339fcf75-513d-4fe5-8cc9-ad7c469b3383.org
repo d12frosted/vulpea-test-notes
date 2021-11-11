@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       339fcf75-513d-4fe5-8cc9-ad7c469b3383
+:END:
+#+title: Xhbm Ntf Hbzohjxx 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Ntf Hbzohjxx
+- vintage :: 1911
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 12.35
+- sugar :: 23.36
+- price :: 8.52 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

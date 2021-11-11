@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       299a2b77-b4da-49d3-a739-fb327de983e8
+:END:
+#+title: Mabtcl Miuoflx Jqbbbvj NV - 2007-4-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:2554ddca-eb52-4c0b-958b-d8fc0c337b12][Mabtcl Miuoflx Jqbbbvj]]
+- date :: 2007-4-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

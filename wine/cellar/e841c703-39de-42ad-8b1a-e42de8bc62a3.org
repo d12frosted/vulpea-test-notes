@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e841c703-39de-42ad-8b1a-e42de8bc62a3
+:END:
+#+title: Bhpgaqm Pslnklf Qvebm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Qvebm
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.6
+- sugar :: 23.11
+- price :: 90.86 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 2.5
+- ratings :: [[id:7cef72c9-b960-4357-9536-8d4b893625cd][Bhpgaqm Pslnklf Qvebm NV - 1999-2-20]]

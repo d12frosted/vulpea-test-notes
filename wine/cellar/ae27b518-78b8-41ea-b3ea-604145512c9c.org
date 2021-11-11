@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ae27b518-78b8-41ea-b3ea-604145512c9c
+:END:
+#+title: Ibde Iowlof Nevm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Nevm
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 10.28
+- sugar :: 12.83
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

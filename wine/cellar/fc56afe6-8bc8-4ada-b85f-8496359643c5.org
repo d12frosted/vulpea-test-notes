@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fc56afe6-8bc8-4ada-b85f-8496359643c5
+:END:
+#+title: Mgdu Grlr Aemnwk 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Grlr Aemnwk
+- vintage :: 1933
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 12.26
+- sugar :: 11.01
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

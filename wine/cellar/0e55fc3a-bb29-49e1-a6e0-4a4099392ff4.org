@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0e55fc3a-bb29-49e1-a6e0-4a4099392ff4
+:END:
+#+title: Xhbm Yntj Mpbora 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Yntj Mpbora
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.94
+- sugar :: 23.3
+- price :: 89.77 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

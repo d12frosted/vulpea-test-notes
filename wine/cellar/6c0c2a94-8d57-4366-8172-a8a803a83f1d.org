@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6c0c2a94-8d57-4366-8172-a8a803a83f1d
+:END:
+#+title: Fxbahvi Qqezrar Eyhcov 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Eyhcov
+- vintage :: 1985
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.01
+- sugar :: 19.8
+- price :: 91.11 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:11eebe3c-b656-4e46-a690-763053cefa8e][Fxbahvi Qqezrar Eyhcov 1985 - 2023-12-14]]

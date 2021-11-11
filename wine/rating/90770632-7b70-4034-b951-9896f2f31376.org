@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       90770632-7b70-4034-b951-9896f2f31376
+:END:
+#+title: Fxbahvi Qqezrar Whcoq Dkhwo NV - 2019-3-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:05767f31-68d6-467f-9b3b-dbaf21f5431c][Fxbahvi Qqezrar Whcoq Dkhwo]]
+- date :: 2019-3-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

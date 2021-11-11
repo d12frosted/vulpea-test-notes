@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       18e9f418-dcd0-4896-8800-c3bdfc007e1a
+:END:
+#+title: Ajkygaf Emnb Etjq 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Etjq
+- vintage :: 1982
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 11.74
+- sugar :: 3.5
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 3.5
+- ratings :: [[id:1a701940-dfc2-491f-b082-136c22d93d2d][Ajkygaf Emnb Etjq 1982 - 2013-2-7]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9f738437-9caf-491b-a4d7-f0498a2fecad
+:END:
+#+title: Wdcfn Yrra Lwhiuiof 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Lwhiuiof
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 10.18
+- sugar :: 19.56
+- price :: 8.07 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

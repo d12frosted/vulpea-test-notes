@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       44fd1332-3a22-42e8-a18f-02947eb9493f
+:END:
+#+title: Xnxdlsx Yuyyckf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Yuyyckf
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 9.83
+- sugar :: 23.85
+- price :: 56.95 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

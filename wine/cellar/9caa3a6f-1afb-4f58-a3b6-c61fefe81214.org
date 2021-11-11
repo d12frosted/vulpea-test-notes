@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9caa3a6f-1afb-4f58-a3b6-c61fefe81214
+:END:
+#+title: Hppbtt Eerlnyt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Eerlnyt
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 13.469999999999999
+- price :: 35.14 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

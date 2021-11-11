@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f1d6d16e-b7eb-4d44-b589-186de1723ef1
+:END:
+#+title: Mgdu Wek 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Wek
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- alcohol :: 13.14
+- sugar :: 15.21
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:                     7a9e9341-93e3-4ed9-9ea8-38cd8b5793b3
-:END:
-#+TITLE: Kysfm Tmatchg
-
-

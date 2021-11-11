@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1b3271d6-1b36-4c53-bf43-c7f113ee354e
+:END:
+#+title: Hppbtt Gjgecu Crsrb 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Gjgecu Crsrb
+- vintage :: 1942
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 13.64
+- sugar :: 6.71
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:263d731b-5349-4993-a0b5-1d965b656b67][Hppbtt Gjgecu Crsrb 1942 - 2004-11-18]]

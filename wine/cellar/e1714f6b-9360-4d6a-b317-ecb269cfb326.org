@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e1714f6b-9360-4d6a-b317-ecb269cfb326
+:END:
+#+title: Wdcfn Yrra Qcmmhvv Vjvcrau 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Qcmmhvv Vjvcrau
+- vintage :: 1908
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 13.469999999999999
+- price :: 23.76 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

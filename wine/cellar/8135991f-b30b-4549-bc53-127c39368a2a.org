@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8135991f-b30b-4549-bc53-127c39368a2a
+:END:
+#+title: Xnxdlsx Jkrr Yetyz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Jkrr Yetyz
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 11.379999999999999
+- sugar :: 17.7
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

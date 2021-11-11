@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       85fd2b7d-6a02-4ede-84bc-244d4a535ca0
+:END:
+#+title: Ajkygaf Emnb Avxvm Yxxuxf 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Avxvm Yxxuxf
+- vintage :: 1900
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 10.48
+- price :: 78.82 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

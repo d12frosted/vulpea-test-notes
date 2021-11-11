@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b36b6ee9-3183-46c6-a9fc-672457013629
+:END:
+#+title: Xhbm Ofbtn Mpqkhx 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Ofbtn Mpqkhx
+- vintage :: 1908
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 13.45
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

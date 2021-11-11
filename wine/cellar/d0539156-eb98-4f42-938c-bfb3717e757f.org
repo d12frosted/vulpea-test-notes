@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d0539156-eb98-4f42-938c-bfb3717e757f
+:END:
+#+title: Fxbahvi Qqezrar Jaxlz Pgpmnw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Jaxlz Pgpmnw
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 12.39
+- price :: 45.58 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

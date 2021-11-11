@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       821776f6-4a43-472b-a86c-14b44a142ca9
+:END:
+#+title: Ajkygaf Emnb Dblzvn 1995 - 1992-1-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:aa755218-def6-4466-bafe-21ca9823be30][Ajkygaf Emnb Dblzvn 1995]]
+- date :: 1992-1-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

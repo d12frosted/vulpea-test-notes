@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       da88130c-c460-429d-8b6e-b53bcdf2e971
+:END:
+#+title: Xhbm Imstc 1946 - 2019-9-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:a17a08aa-764d-4561-9c51-43bb11f86af3][Xhbm Imstc 1946]]
+- date :: 2019-9-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

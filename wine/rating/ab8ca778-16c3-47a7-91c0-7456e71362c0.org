@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ab8ca778-16c3-47a7-91c0-7456e71362c0
+:END:
+#+title: Wdcfn Yrra Pgspkbr Esrjqw NV - 2001-4-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:824dd382-9f00-4027-98e2-9f92524a30b5][Wdcfn Yrra Pgspkbr Esrjqw]]
+- date :: 2001-4-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

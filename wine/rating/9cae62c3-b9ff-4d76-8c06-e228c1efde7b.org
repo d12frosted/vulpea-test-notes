@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9cae62c3-b9ff-4d76-8c06-e228c1efde7b
+:END:
+#+title: Hppbtt Nzjup NV - 2023-6-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:e86dca8e-68ed-4261-8e40-f70d172a6d2c][Hppbtt Nzjup]]
+- date :: 2023-6-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       17668875-7305-43a8-a798-59809851665d
+:END:
+#+title: Xhbm Zjaxxq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Zjaxxq
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.13
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

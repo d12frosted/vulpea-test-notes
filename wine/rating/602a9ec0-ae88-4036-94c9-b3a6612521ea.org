@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       602a9ec0-ae88-4036-94c9-b3a6612521ea
+:END:
+#+title: Wdcfn Yrra Fexdw Vyqglhu 1918 - 2016-12-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:812822df-962b-4b34-ade2-bfc0677ebce1][Wdcfn Yrra Fexdw Vyqglhu 1918]]
+- date :: 2016-12-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

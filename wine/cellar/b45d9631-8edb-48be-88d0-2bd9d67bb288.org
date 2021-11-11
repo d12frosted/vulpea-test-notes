@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b45d9631-8edb-48be-88d0-2bd9d67bb288
+:END:
+#+title: Wdcfn Yrra Thcw Uehxc 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Thcw Uehxc
+- vintage :: 1928
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 10.91
+- sugar :: 1.64
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 6.0
+- ratings :: [[id:c024cf46-5606-4cfe-8695-b6110f52d8a6][Wdcfn Yrra Thcw Uehxc 1928 - 2005-6-13]]

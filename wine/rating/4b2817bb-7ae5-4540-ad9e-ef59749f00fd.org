@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4b2817bb-7ae5-4540-ad9e-ef59749f00fd
+:END:
+#+title: Fxbahvi Qqezrar Twylbnm Xeibvvxi NV - 1999-2-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:bfbfaeb6-9b04-4a04-bde5-a4801d4cd5eb][Fxbahvi Qqezrar Twylbnm Xeibvvxi]]
+- date :: 1999-2-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

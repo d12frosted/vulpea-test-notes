@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5adca414-a2cc-42ef-aa3e-d2486b56744f
+:END:
+#+title: Wdcfn Yrra Xcu Xzd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Xcu Xzd
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 11.4
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:1dcc77a4-4bc9-402d-b872-1392f87f6e79][Wdcfn Yrra Xcu Xzd NV - 2006-10-21]]

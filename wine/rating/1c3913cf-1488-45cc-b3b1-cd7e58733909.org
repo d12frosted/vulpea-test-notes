@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1c3913cf-1488-45cc-b3b1-cd7e58733909
+:END:
+#+title: Wdcfn Yrra Tcpla NV - 1999-11-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:c0f55e1b-89ed-43e3-ad9b-65695675b0ee][Wdcfn Yrra Tcpla]]
+- date :: 1999-11-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

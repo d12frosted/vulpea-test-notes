@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       50430bb3-6419-42f8-8bca-d423367f12ae
+:END:
+#+title: Wdcfn Yrra Ayk Uppvnhb NV - 2006-10-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:01698b5e-2929-4dc0-9a6f-a276eb503198][Wdcfn Yrra Ayk Uppvnhb]]
+- date :: 2006-10-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

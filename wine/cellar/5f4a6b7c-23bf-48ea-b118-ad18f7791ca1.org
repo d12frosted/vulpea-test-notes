@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5f4a6b7c-23bf-48ea-b118-ad18f7791ca1
+:END:
+#+title: Fxbahvi Qqezrar Iyjdrm Ecpzsknc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Iyjdrm Ecpzsknc
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 9.94
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

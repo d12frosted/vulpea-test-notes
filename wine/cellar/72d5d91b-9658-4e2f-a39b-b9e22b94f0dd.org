@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       72d5d91b-9658-4e2f-a39b-b9e22b94f0dd
+:END:
+#+title: Mabtcl Miuoflx Girnxa 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Girnxa
+- vintage :: 1993
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 9.68
+- sugar :: 3.13
+- price :: 97.51 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 2.0
+- ratings :: [[id:79c1d1e6-005e-4ad8-92ce-79e9322ae102][Mabtcl Miuoflx Girnxa 1993 - 2021-1-21]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7271c248-b0b8-4d59-aaef-a51b5a800ed1
+:END:
+#+title: Wdcfn Yrra Mblxf Uuaxu NV - 1992-1-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:ae8f135b-5c0e-4ded-b1b6-60dbf6969233][Wdcfn Yrra Mblxf Uuaxu]]
+- date :: 1992-1-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

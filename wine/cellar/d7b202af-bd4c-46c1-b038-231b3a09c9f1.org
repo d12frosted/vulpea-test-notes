@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d7b202af-bd4c-46c1-b038-231b3a09c9f1
+:END:
+#+title: Mabtcl Miuoflx Jga 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Jga
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 10.82
+- price :: 28.34 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: 1.0
+- ratings :: [[id:58a28738-9d8f-4d4f-a02b-dddee85fb459][Mabtcl Miuoflx Jga NV - 1998-10-6]]

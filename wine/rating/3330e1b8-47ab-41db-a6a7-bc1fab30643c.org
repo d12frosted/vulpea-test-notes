@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3330e1b8-47ab-41db-a6a7-bc1fab30643c
+:END:
+#+title: Fxbahvi Qqezrar Pjfb Cup 1940 - 2018-6-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:1cdb7cef-3437-4367-a557-db3fcfeb0dad][Fxbahvi Qqezrar Pjfb Cup 1940]]
+- date :: 2018-6-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

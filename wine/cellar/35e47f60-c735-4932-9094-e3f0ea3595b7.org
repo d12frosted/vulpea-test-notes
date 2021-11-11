@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       35e47f60-c735-4932-9094-e3f0ea3595b7
+:END:
+#+title: Ajkygaf Emnb Qktckir 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Qktckir
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.120000000000001
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e3e0d4b9-fea5-4fff-9e8d-c0cab9114737
+:END:
+#+title: Mgdu Pwvc 2020 - 2004-11-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:b898f24c-0bb9-4510-9050-635380fde94b][Mgdu Pwvc 2020]]
+- date :: 2004-11-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

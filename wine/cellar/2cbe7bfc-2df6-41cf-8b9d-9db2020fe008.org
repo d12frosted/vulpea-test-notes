@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2cbe7bfc-2df6-41cf-8b9d-9db2020fe008
+:END:
+#+title: Mabtcl Miuoflx Cwfbyuvc 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Cwfbyuvc
+- vintage :: 1960
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- alcohol :: 11.54
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:c4301438-4ad2-4098-bd25-792bd1543cbe][Mabtcl Miuoflx Cwfbyuvc 1960 - 1992-11-3]]

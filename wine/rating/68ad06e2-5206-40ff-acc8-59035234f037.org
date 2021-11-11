@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       68ad06e2-5206-40ff-acc8-59035234f037
+:END:
+#+title: Ajkygaf Emnb Luw Rtyyclt 1974 - 2018-7-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:a743d28a-c551-4a1f-94ac-a68b193768c5][Ajkygaf Emnb Luw Rtyyclt 1974]]
+- date :: 2018-7-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

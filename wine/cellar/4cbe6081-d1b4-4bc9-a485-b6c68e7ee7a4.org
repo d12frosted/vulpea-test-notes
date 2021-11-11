@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4cbe6081-d1b4-4bc9-a485-b6c68e7ee7a4
+:END:
+#+title: Xhbm Grmc Llacx 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Grmc Llacx
+- vintage :: 1949
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 12.379999999999999
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

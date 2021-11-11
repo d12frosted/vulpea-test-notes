@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2b910894-5a52-4828-b211-2a8eaef0a56d
+:END:
+#+title: Bhpgaqm Pslnklf Gycs Rgjslp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Gycs Rgjslp
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.43
+- sugar :: 16.76
+- price :: 92.48 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

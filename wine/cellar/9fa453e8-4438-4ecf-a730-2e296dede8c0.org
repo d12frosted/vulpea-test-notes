@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9fa453e8-4438-4ecf-a730-2e296dede8c0
+:END:
+#+title: Ibde Iowlof Mtkkmsb Yfd 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Mtkkmsb Yfd
+- vintage :: 1950
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.33
+- sugar :: 13.58
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 2.5
+- ratings :: [[id:9d5f4572-a166-42c1-8eab-e2b9ce51da1f][Ibde Iowlof Mtkkmsb Yfd 1950 - 2005-7-11]]

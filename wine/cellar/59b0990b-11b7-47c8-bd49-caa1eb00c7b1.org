@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       59b0990b-11b7-47c8-bd49-caa1eb00c7b1
+:END:
+#+title: Mgdu Oxvuqge Wfg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Oxvuqge Wfg
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 9.35
+- sugar :: 5.76
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:c0d21164-28f5-441f-8b4d-ab72e94297ad][Mgdu Oxvuqge Wfg NV - 2023-5-28]]

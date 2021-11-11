@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9f880706-8151-4b05-8c4e-bf26e430b01a
+:END:
+#+title: Hppbtt Elnzbuo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Elnzbuo
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 13.16
+- sugar :: 14.35
+- price :: 41.57 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 4.5
+- ratings :: [[id:edd410be-9cae-469d-af56-59b77367ea9d][Hppbtt Elnzbuo NV - 2007-7-17]]

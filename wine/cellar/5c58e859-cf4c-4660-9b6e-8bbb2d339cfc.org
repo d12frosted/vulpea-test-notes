@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5c58e859-cf4c-4660-9b6e-8bbb2d339cfc
+:END:
+#+title: Hppbtt Rniq Guw 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Rniq Guw
+- vintage :: 1992
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 10.32
+- price :: 76.98 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: 5.5
+- ratings :: [[id:db1ebd71-43ef-4c24-8c51-828144c464c1][Hppbtt Rniq Guw 1992 - 2015-9-3]]

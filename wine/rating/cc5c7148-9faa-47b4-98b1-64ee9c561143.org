@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cc5c7148-9faa-47b4-98b1-64ee9c561143
+:END:
+#+title: Mabtcl Miuoflx Ddckxlsn NV - 2003-10-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:f78542d4-72a2-4511-ae22-4cd17ae7000f][Mabtcl Miuoflx Ddckxlsn]]
+- date :: 2003-10-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

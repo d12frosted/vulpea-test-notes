@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       08dbdf28-8f20-41eb-89d6-1a9a0cea6b0a
+:END:
+#+title: Ibde Iowlof Dvi 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Dvi
+- vintage :: 1924
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 11.02
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:0b1da0d4-1903-4392-a33f-d61b5789caa0][Ibde Iowlof Dvi 1924 - 2015-1-1]]

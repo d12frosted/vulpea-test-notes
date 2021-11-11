@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       73ded4f6-dcd5-4019-84ed-eeb9ce1863bd
+:END:
+#+title: Wdcfn Yrra Fbxcbqq 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Fbxcbqq
+- vintage :: 1939
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 9.46
+- sugar :: 7.64
+- price :: 99.82 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 4.5
+- ratings :: [[id:d3293645-40e0-44c5-ad85-cc90165c11bc][Wdcfn Yrra Fbxcbqq 1939 - 2014-6-22]]

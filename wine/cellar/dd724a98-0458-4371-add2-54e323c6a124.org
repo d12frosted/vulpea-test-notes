@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dd724a98-0458-4371-add2-54e323c6a124
+:END:
+#+title: Bhpgaqm Pslnklf Uzvdep Hgaxsa 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Uzvdep Hgaxsa
+- vintage :: 1962
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 12.43
+- price :: 90.54 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

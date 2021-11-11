@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       da43e70e-eed5-43d3-b239-474bddc8b045
+:END:
+#+title: Ajkygaf Emnb Apxi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Apxi
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 12.85
+- sugar :: 2.13
+- price :: 62.00 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 6.5
+- ratings :: [[id:71bb9551-f005-41f2-9191-35989ff37b89][Ajkygaf Emnb Apxi NV - 2022-9-12]]

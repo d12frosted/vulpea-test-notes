@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ca31a798-40b0-42b4-8130-c1c59d47bf05
+:END:
+#+title: Ajkygaf Emnb Nztd Wtsctm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Nztd Wtsctm
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 10.82
+- sugar :: 20.16
+- price :: 62.67 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:f7ceddd0-4dfe-46fa-9993-57767ad0d842][Ajkygaf Emnb Nztd Wtsctm NV - 1994-5-10]]

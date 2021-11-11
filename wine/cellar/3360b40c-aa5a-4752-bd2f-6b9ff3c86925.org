@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3360b40c-aa5a-4752-bd2f-6b9ff3c86925
+:END:
+#+title: Mgdu Oeiwugw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Oeiwugw
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 9.53
+- price :: 13.61 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

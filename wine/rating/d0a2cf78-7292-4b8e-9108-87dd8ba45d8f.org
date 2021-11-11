@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d0a2cf78-7292-4b8e-9108-87dd8ba45d8f
+:END:
+#+title: Hppbtt Zrte Suusr NV - 1990-6-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:743db8dd-6c64-4a00-9e20-0572addd28a7][Hppbtt Zrte Suusr]]
+- date :: 1990-6-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

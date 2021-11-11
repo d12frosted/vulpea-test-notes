@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       49b03c6e-e58e-4f25-9897-4a6b3c454230
+:END:
+#+title: Xnxdlsx Uxhagjng Tvagbzrt 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Uxhagjng Tvagbzrt
+- vintage :: 1976
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 13.41
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

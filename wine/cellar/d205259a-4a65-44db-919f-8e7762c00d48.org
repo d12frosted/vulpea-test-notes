@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d205259a-4a65-44db-919f-8e7762c00d48
+:END:
+#+title: Hppbtt Klepc Brb 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Klepc Brb
+- vintage :: 1960
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 11.32
+- sugar :: 0.22
+- price :: 8.69 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       44fd6cd6-11d3-4ac3-8b1a-55535d680377
+:END:
+#+title: Wdcfn Yrra Payju NV - 2004-12-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:3a8dad2a-7cb3-4e64-ba36-c2d6d2c87e61][Wdcfn Yrra Payju]]
+- date :: 2004-12-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 2
+- score_max :: 20
+- total :: 1.0

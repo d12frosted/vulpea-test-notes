@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6ad3b006-d077-4f5d-889b-68f973266583
+:END:
+#+title: Fxbahvi Qqezrar Juolvpd Ksqn NV - 2012-3-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:a91d8ac7-42eb-49f7-940a-587b455814bc][Fxbahvi Qqezrar Juolvpd Ksqn]]
+- date :: 2012-3-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

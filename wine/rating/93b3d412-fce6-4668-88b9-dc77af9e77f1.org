@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       93b3d412-fce6-4668-88b9-dc77af9e77f1
+:END:
+#+title: Ibde Iowlof Hri Lskwqmr 1968 - 2007-3-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:a3275ff2-f760-464c-b2d2-c8e4a36c26c9][Ibde Iowlof Hri Lskwqmr 1968]]
+- date :: 2007-3-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

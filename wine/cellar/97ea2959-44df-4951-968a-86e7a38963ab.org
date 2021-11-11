@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       97ea2959-44df-4951-968a-86e7a38963ab
+:END:
+#+title: Ibde Iowlof Cglp Vkjjwqip 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Cglp Vkjjwqip
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 11.77
+- sugar :: 5.15
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

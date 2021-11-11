@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6b225935-5827-433b-aa6d-8920cd88a262
+:END:
+#+title: Xhbm Julenj Vnusruqk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Julenj Vnusruqk
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 13.95
+- price :: 71.18 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

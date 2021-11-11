@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5bed4634-bfc6-4e0b-89ae-ec6cfcd937cc
+:END:
+#+title: Mgdu Eshgg 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Eshgg
+- vintage :: 2020
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 10.35
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:3f2ade07-f8e2-4888-a45e-802e9742363d][Mgdu Eshgg 2020 - 1992-4-1]]

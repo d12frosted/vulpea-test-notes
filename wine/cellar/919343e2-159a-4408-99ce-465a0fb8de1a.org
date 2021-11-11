@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       919343e2-159a-4408-99ce-465a0fb8de1a
+:END:
+#+title: Xhbm Jquldp Ghjto 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Jquldp Ghjto
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 10.0
+- sugar :: 14.38
+- price :: 90.85 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:0a286b23-6ee3-471a-bd13-fb02ea23f581][Xhbm Jquldp Ghjto NV - 2011-2-21]]

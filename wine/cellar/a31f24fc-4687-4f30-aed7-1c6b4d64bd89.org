@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a31f24fc-4687-4f30-aed7-1c6b4d64bd89
+:END:
+#+title: Xhbm Dig 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Dig
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 9.65
+- sugar :: 0.82
+- price :: 72.57 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

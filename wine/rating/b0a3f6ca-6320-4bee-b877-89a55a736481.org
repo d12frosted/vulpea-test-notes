@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b0a3f6ca-6320-4bee-b877-89a55a736481
+:END:
+#+title: Bhpgaqm Pslnklf Dcdpe Ejofync 1967 - 2018-12-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:aa0c477e-b53a-48cf-b000-2555fe8def79][Bhpgaqm Pslnklf Dcdpe Ejofync 1967]]
+- date :: 2018-12-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

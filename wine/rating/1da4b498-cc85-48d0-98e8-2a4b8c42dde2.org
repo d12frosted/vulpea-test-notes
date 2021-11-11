@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1da4b498-cc85-48d0-98e8-2a4b8c42dde2
+:END:
+#+title: Ibde Iowlof Oeepbb Ngq 1974 - 2021-9-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:f4f69c82-0553-4fe5-bc98-12fbfcc80f24][Ibde Iowlof Oeepbb Ngq 1974]]
+- date :: 2021-9-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

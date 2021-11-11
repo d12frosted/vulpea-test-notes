@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       63cca8ea-4c6d-46ad-b08c-0196ad962f29
+:END:
+#+title: Hppbtt Hhsz Muatquxa 1952 - 2016-12-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:4f09e876-8b06-4b96-b1d3-52a850047f6e][Hppbtt Hhsz Muatquxa 1952]]
+- date :: 2016-12-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

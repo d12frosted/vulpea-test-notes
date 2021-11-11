@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6122ab0a-7a83-4789-b3c8-7e42c831f088
+:END:
+#+title: Xhbm Djfi Oqoq 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Djfi Oqoq
+- vintage :: 1947
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 11.46
+- sugar :: 0.29
+- price :: 67.31 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

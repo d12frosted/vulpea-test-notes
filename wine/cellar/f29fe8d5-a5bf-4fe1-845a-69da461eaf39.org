@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       f29fe8d5-a5bf-4fe1-845a-69da461eaf39
+:END:
+#+title: Fxbahvi Qqezrar Upt 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Upt
+- vintage :: 2016
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.0
+- sugar :: 0.17
+- price :: 34.82 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

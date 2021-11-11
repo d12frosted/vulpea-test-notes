@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ba324e44-d07b-4513-83d6-6aacf683ea6a
+:END:
+#+title: Hppbtt Kjadwr Ttxxrylg 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Kjadwr Ttxxrylg
+- vintage :: 2018
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.61
+- sugar :: 16.89
+- price :: 90.72 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       13496016-4935-41c4-bc71-24f7aed1bfaa
+:END:
+#+title: Hppbtt Ywkrozmp Kro 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ywkrozmp Kro
+- vintage :: 1917
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 9.11
+- sugar :: 2.69
+- price :: 69.09 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

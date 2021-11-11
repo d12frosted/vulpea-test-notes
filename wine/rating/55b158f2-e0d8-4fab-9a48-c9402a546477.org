@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       55b158f2-e0d8-4fab-9a48-c9402a546477
+:END:
+#+title: Mgdu Srydbhvb 1985 - 2022-11-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:7b7cca78-1376-4215-b768-1c42b0933e33][Mgdu Srydbhvb 1985]]
+- date :: 2022-11-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3054dc44-3e45-4bbe-8ca6-cfdcee895da6
+:END:
+#+title: Wdcfn Yrra Csoijz Sohwzbl 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Csoijz Sohwzbl
+- vintage :: 1920
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 11.48
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:de147c62-7fb3-4c5a-9ce7-f0f17af2ff2e][Wdcfn Yrra Csoijz Sohwzbl 1920 - 2010-11-3]]

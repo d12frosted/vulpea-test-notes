@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d72ecb54-462a-4e91-8507-4499f0c5a373
+:END:
+#+title: Xnxdlsx Mts 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Mts
+- vintage :: 2012
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 11.61
+- price :: 5.47 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

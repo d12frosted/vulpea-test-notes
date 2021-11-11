@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3842ccb1-e137-46d2-8ab2-3ba4cbe3a606
+:END:
+#+title: Xhbm Pndau Srokofa 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Pndau Srokofa
+- vintage :: 1909
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 9.35
+- sugar :: 9.23
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

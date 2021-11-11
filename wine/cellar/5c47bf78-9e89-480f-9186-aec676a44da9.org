@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5c47bf78-9e89-480f-9186-aec676a44da9
+:END:
+#+title: Ibde Iowlof Rpzhlhfp Ajmd 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Rpzhlhfp Ajmd
+- vintage :: 1984
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 13.85
+- sugar :: 14.84
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:8a0cd972-5c10-4d14-950e-f4cc38381b75][Ibde Iowlof Rpzhlhfp Ajmd 1984 - 2023-12-14]]

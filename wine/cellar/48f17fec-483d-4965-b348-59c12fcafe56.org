@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       48f17fec-483d-4965-b348-59c12fcafe56
+:END:
+#+title: Mabtcl Miuoflx Teksml 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Teksml
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.91
+- sugar :: 17.98
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

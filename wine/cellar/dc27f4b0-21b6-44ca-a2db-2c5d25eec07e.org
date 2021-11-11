@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       dc27f4b0-21b6-44ca-a2db-2c5d25eec07e
+:END:
+#+title: Bhpgaqm Pslnklf Citm 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Citm
+- vintage :: 2010
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.41
+- sugar :: 7.89
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:f65ef769-afdc-458e-ba14-2511ddc1b0d9][Bhpgaqm Pslnklf Citm 2010 - 1990-6-27]]

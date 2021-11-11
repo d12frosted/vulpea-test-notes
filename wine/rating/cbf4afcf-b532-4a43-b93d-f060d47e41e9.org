@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cbf4afcf-b532-4a43-b93d-f060d47e41e9
+:END:
+#+title: Wdcfn Yrra Msilmlrf Zyoxtcy 1965 - 2011-9-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:61132ee8-7b0c-4579-804d-6d7c2eb446b3][Wdcfn Yrra Msilmlrf Zyoxtcy 1965]]
+- date :: 2011-9-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

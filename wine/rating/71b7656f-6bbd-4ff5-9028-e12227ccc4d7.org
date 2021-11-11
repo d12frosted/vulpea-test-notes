@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       71b7656f-6bbd-4ff5-9028-e12227ccc4d7
+:END:
+#+title: Hppbtt Wcnopq Ovrv NV - 2023-3-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:f893fb64-adeb-4f03-af4c-b0412d4d40f5][Hppbtt Wcnopq Ovrv]]
+- date :: 2023-3-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

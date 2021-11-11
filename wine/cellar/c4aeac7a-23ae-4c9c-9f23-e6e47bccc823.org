@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c4aeac7a-23ae-4c9c-9f23-e6e47bccc823
+:END:
+#+title: Fxbahvi Qqezrar Xtkapcjr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Xtkapcjr
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 11.81
+- price :: 61.64 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:41a7b8fb-3775-4120-8be1-c3c90b30e195][Fxbahvi Qqezrar Xtkapcjr NV - 1993-6-2]]

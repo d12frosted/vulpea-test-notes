@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       11124c06-47ff-4f18-939f-5838add46378
+:END:
+#+title: Wdcfn Yrra Wxvbwsfm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Wxvbwsfm
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 13.65
+- sugar :: 21.08
+- price :: 42.75 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 6.5
+- ratings :: [[id:d5d32316-891b-493e-9bb9-76770bdef50d][Wdcfn Yrra Wxvbwsfm NV - 1994-3-20]]

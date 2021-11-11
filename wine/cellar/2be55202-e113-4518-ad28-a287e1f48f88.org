@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2be55202-e113-4518-ad28-a287e1f48f88
+:END:
+#+title: Xnxdlsx Aueubzi Qiustu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Aueubzi Qiustu
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 11.17
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 3.0
+- ratings :: [[id:9fd58cd7-d6ac-43ca-8aa9-277f556f8388][Xnxdlsx Aueubzi Qiustu NV - 1996-10-1]]

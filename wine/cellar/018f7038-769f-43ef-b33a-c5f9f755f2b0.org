@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       018f7038-769f-43ef-b33a-c5f9f755f2b0
+:END:
+#+title: Xnxdlsx Cakqdsg 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Cakqdsg
+- vintage :: 1922
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.75
+- sugar :: 3.35
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 3.0
+- ratings :: [[id:11fd0a47-bde4-4654-879d-a592d4cc2561][Xnxdlsx Cakqdsg 1922 - 2008-12-3]]

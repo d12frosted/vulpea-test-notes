@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       dab0bc71-3dbb-4289-bb7a-aedc38614b77
+:END:
+#+title: Fxbahvi Qqezrar Babyuvau Mnizuqeo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Babyuvau Mnizuqeo
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 11.11
+- sugar :: 11.95
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

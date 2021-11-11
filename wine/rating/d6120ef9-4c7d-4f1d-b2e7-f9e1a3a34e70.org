@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d6120ef9-4c7d-4f1d-b2e7-f9e1a3a34e70
+:END:
+#+title: Mabtcl Miuoflx Pbno Gjhhdori 1904 - 1990-8-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:3419fb01-97b2-44a5-858c-39edc3de4e0a][Mabtcl Miuoflx Pbno Gjhhdori 1904]]
+- date :: 1990-8-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

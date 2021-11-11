@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       da478cad-7cb2-42ce-947d-5962b51f5770
+:END:
+#+title: Wdcfn Yrra Bzonke 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Bzonke
+- vintage :: 1958
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 11.35
+- sugar :: 19.32
+- price :: 84.66 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

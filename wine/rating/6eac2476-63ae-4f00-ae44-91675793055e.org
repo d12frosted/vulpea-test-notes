@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6eac2476-63ae-4f00-ae44-91675793055e
+:END:
+#+title: Xnxdlsx Uui Dxls 1945 - 1991-8-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:44f7b1df-4376-4b12-88ec-b3ea3e6c46f7][Xnxdlsx Uui Dxls 1945]]
+- date :: 1991-8-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

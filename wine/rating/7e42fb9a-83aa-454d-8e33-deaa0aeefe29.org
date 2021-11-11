@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7e42fb9a-83aa-454d-8e33-deaa0aeefe29
+:END:
+#+title: Fxbahvi Qqezrar Pbwuswei NV - 2014-2-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:8854f9fb-5a93-4333-b51a-ec58d9cbb391][Fxbahvi Qqezrar Pbwuswei]]
+- date :: 2014-2-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

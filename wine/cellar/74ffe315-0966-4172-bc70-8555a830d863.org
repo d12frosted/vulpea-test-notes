@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       74ffe315-0966-4172-bc70-8555a830d863
+:END:
+#+title: Hppbtt Eitkyf 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Eitkyf
+- vintage :: 1918
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 13.26
+- sugar :: 3.26
+- price :: 97.54 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

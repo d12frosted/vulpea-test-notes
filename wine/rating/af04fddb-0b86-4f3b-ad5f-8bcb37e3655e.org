@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       af04fddb-0b86-4f3b-ad5f-8bcb37e3655e
+:END:
+#+title: Mgdu Yoomam NV - 2013-6-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:3e756e13-4601-4297-a0c6-1d6ee0086d15][Mgdu Yoomam]]
+- date :: 2013-6-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

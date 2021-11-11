@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f922f4f4-8558-45b8-9612-ff50022bf739
+:END:
+#+title: Fxbahvi Qqezrar Qpjg Lmfc 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Qpjg Lmfc
+- vintage :: 1910
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 9.71
+- sugar :: 7.44
+- price :: 81.31 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

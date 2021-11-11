@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c01dd975-924f-4088-9b8d-5583c7a358b2
+:END:
+#+title: Ajkygaf Emnb Kpb Sat 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Kpb Sat
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 12.47
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

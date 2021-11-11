@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7ef26b0e-0058-4402-a254-bb6934835739
+:END:
+#+title: Wdcfn Yrra Dffpf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Dffpf
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 11.76
+- sugar :: 22.41
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 6.0
+- ratings :: [[id:932c6e62-0e0d-4971-89d4-90a1ebc71c5b][Wdcfn Yrra Dffpf NV - 2020-3-2]]

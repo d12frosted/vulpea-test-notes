@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fe24c0a8-45b7-4bbb-85de-6d4df14b56c2
+:END:
+#+title: Xnxdlsx Wivfwzw Xhywdt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Wivfwzw Xhywdt
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 10.19
+- price :: 70.46 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

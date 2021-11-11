@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9e59c042-b02a-4a07-8ced-579fd6b5781e
+:END:
+#+title: Ibde Iowlof Gkcih Gpudgdzg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Gkcih Gpudgdzg
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 13.09
+- sugar :: 17.8
+- price :: 11.90 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

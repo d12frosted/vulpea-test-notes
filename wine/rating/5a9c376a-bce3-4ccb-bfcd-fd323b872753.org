@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5a9c376a-bce3-4ccb-bfcd-fd323b872753
+:END:
+#+title: Ibde Iowlof Uwnscwh NV - 1992-4-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:87552139-4252-47b4-a979-323996bcb42f][Ibde Iowlof Uwnscwh]]
+- date :: 1992-4-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

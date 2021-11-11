@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b5db94bc-46b1-44e5-93af-5f7c50125245
+:END:
+#+title: Hppbtt Mqxfxjw Hco NV - 2010-11-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:61275109-5e01-4ef7-a881-d974be657b69][Hppbtt Mqxfxjw Hco]]
+- date :: 2010-11-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

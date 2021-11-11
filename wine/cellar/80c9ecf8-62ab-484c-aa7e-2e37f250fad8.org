@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       80c9ecf8-62ab-484c-aa7e-2e37f250fad8
+:END:
+#+title: Xhbm Jqmoc 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Jqmoc
+- vintage :: 1997
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 9.01
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 8.5
+- ratings :: [[id:139174d7-132b-4c1f-bc83-750d3a6a03c8][Xhbm Jqmoc 1997 - 2004-12-13]]

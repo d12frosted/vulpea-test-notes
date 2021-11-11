@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0cd85091-5325-47e0-8766-dda840bc5997
+:END:
+#+title: Xhbm Ghpsaifx Gwmf 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Ghpsaifx Gwmf
+- vintage :: 2010
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 13.41
+- price :: 25.78 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       87333e3b-643d-4f75-b333-1a5f09c5c0e6
+:END:
+#+title: Xnxdlsx Hfwaxqaw Hqkew 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Hfwaxqaw Hqkew
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 11.25
+- price :: 12.24 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:fb631dfa-dd03-407c-8e68-04d99b21d061][Xnxdlsx Hfwaxqaw Hqkew NV - 2011-10-27]]

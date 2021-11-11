@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fcb559e0-b34b-483a-8c5e-d7c9672544fa
+:END:
+#+title: Ibde Iowlof Abl Tkb 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Abl Tkb
+- vintage :: 2001
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 13.14
+- price :: 11.10 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 1.5
+- ratings :: [[id:b3f8d990-c480-4f7d-b649-b37cbec6127f][Ibde Iowlof Abl Tkb 2001 - 2001-10-18]]

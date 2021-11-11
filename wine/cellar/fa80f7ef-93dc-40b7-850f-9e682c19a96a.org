@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fa80f7ef-93dc-40b7-850f-9e682c19a96a
+:END:
+#+title: Bhpgaqm Pslnklf Xihqb Ipg 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Xihqb Ipg
+- vintage :: 1929
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 9.58
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a74c8faa-13b9-434f-8cf9-2ec647aad672
+:END:
+#+title: Hppbtt Cmhpcbsc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Cmhpcbsc
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 10.64
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA

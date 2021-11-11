@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f7617f3a-ba95-4da3-ad53-f507a798c40a
+:END:
+#+title: Mgdu Ahv 1979 - 2021-9-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:8ad343b6-448c-4558-ad17-6c8b929a22f6][Mgdu Ahv 1979]]
+- date :: 2021-9-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

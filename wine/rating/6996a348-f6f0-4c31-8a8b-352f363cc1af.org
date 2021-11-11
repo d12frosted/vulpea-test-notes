@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6996a348-f6f0-4c31-8a8b-352f363cc1af
+:END:
+#+title: Fxbahvi Qqezrar Binzvpf NV - 1991-4-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:cab0754a-4fbf-471a-afc2-969c9051ab6e][Fxbahvi Qqezrar Binzvpf]]
+- date :: 1991-4-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

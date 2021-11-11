@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       70351681-55ce-4c68-aebb-93f133f01318
+:END:
+#+title: Wdcfn Yrra Ikde Iqcro 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Ikde Iqcro
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.97
+- sugar :: 0.54
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.5
+- ratings :: [[id:8421c7b2-7c48-4c5d-8225-2bba76b48be5][Wdcfn Yrra Ikde Iqcro NV - 2002-12-4]]

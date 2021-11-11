@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       63403642-a68f-4569-b40b-70b4cbf1e9ae
+:END:
+#+title: Wdcfn Yrra Pkcuvgyv Qsx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Pkcuvgyv Qsx
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 12.09
+- price :: 82.77 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       98bd9098-8c99-4d0e-882a-9475a852bfc4
+:END:
+#+title: Xhbm Adst Sigbzq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Adst Sigbzq
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 12.56
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

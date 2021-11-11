@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6fb63bec-a5dc-4197-8d4c-e99527d6fd7a
+:END:
+#+title: Hppbtt Xbepmxt 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Xbepmxt
+- vintage :: 1921
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.27
+- sugar :: 14.17
+- price :: 60.66 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:f0730aaa-31d4-4540-a090-a42d055c104c][Hppbtt Xbepmxt 1921 - 2018-5-27]]

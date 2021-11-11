@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d1ab9bd6-5938-42c0-89ec-c30902b4cedc
+:END:
+#+title: Bhpgaqm Pslnklf Gma Gvr 1974 - 2021-2-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:079c8c0b-5aff-4540-9933-04f4f9d43756][Bhpgaqm Pslnklf Gma Gvr 1974]]
+- date :: 2021-2-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

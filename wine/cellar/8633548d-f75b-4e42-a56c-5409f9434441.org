@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8633548d-f75b-4e42-a56c-5409f9434441
+:END:
+#+title: Mgdu Kshvayjc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Kshvayjc
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 10.34
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

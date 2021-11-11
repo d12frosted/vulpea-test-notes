@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       079c8c0b-5aff-4540-9933-04f4f9d43756
+:END:
+#+title: Bhpgaqm Pslnklf Gma Gvr 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Gma Gvr
+- vintage :: 1974
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 12.129999999999999
+- sugar :: 12.61
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:d1ab9bd6-5938-42c0-89ec-c30902b4cedc][Bhpgaqm Pslnklf Gma Gvr 1974 - 2021-2-2]]

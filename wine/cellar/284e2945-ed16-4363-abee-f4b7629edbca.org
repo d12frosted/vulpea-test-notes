@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       284e2945-ed16-4363-abee-f4b7629edbca
+:END:
+#+title: Mgdu Fhyim 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Fhyim
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.99
+- sugar :: 10.78
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:7578550a-b032-4d35-afe4-efbf1df43ea5][Mgdu Fhyim NV - 2011-3-5]]

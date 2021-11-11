@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       91b29d34-7a88-4a10-930d-f5a9f8040aa8
+:END:
+#+title: Wdcfn Yrra Hjz Vuv 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Hjz Vuv
+- vintage :: 2013
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 12.44
+- price :: 99.24 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:1d50fc39-2a2a-485f-b087-f19637854533][Wdcfn Yrra Hjz Vuv 2013 - 1990-3-19]]

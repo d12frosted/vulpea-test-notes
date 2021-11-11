@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d236daf1-ded8-45b3-8ba5-b4b850babca9
+:END:
+#+title: Ibde Iowlof Uqeznopo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Uqeznopo
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 12.51
+- sugar :: 15.22
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

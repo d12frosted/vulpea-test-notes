@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       99e8385c-8e4f-4392-8f46-d41a18bb2ae8
+:END:
+#+title: Ibde Iowlof Avpkn Ohnivnfc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Avpkn Ohnivnfc
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.11
+- sugar :: 10.7
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: duckduckgo
+- rating :: NA

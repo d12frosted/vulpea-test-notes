@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f0c58fdb-6da3-4099-9e6d-c02a046f9fb8
+:END:
+#+title: Bhpgaqm Pslnklf Hfuf Dkk 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Hfuf Dkk
+- vintage :: 1937
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 13.16
+- sugar :: 9.7
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

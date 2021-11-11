@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       47ebd8ba-b867-46d1-b5c1-f7fba3591c5d
+:END:
+#+title: Hppbtt Jfkn 1935 - 2016-10-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:9868fdee-f669-43bd-bb4d-cf7765070fdc][Hppbtt Jfkn 1935]]
+- date :: 2016-10-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

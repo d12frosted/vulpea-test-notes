@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6d55ee5a-a8e2-4699-be42-5e1b2a12ec18
+:END:
+#+title: Ibde Iowlof Qfpt Hmhmtb 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Qfpt Hmhmtb
+- vintage :: 1979
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 10.09
+- sugar :: 6.08
+- price :: 82.81 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

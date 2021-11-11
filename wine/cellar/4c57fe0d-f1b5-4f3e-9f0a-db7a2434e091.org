@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4c57fe0d-f1b5-4f3e-9f0a-db7a2434e091
+:END:
+#+title: Wdcfn Yrra Khy 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Khy
+- vintage :: 1959
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 13.82
+- sugar :: 20.57
+- price :: 48.49 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 5.0
+- ratings :: [[id:c70e9654-f134-44a7-aae3-81ee011b2025][Wdcfn Yrra Khy 1959 - 2020-6-3]]

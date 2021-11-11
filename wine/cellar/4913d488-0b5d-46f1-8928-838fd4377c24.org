@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4913d488-0b5d-46f1-8928-838fd4377c24
+:END:
+#+title: Xnxdlsx Zcmdb 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Zcmdb
+- vintage :: 1983
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.22
+- price :: 6.46 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

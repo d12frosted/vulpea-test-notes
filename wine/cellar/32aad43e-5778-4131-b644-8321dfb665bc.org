@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       32aad43e-5778-4131-b644-8321dfb665bc
+:END:
+#+title: Xnxdlsx Qxc 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Qxc
+- vintage :: 1942
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 9.07
+- price :: 3.38 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:7a803c46-01a5-42e5-88ef-95c1561a92bb][Xnxdlsx Qxc 1942 - 2020-11-21]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       74011960-3a1e-473f-bef5-cf8cebec2355
+:END:
+#+title: Fxbahvi Qqezrar Swrytkts 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Swrytkts
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.74
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 5.5
+- ratings :: [[id:fc2b44f5-562b-455d-b435-d597845d4a87][Fxbahvi Qqezrar Swrytkts NV - 1993-9-11]]

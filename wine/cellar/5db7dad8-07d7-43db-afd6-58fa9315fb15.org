@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5db7dad8-07d7-43db-afd6-58fa9315fb15
+:END:
+#+title: Wdcfn Yrra Nrmqglb Ijr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Nrmqglb Ijr
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 13.67
+- sugar :: 3.85
+- price :: 63.02 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

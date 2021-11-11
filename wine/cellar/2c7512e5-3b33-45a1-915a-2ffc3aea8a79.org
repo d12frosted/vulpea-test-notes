@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2c7512e5-3b33-45a1-915a-2ffc3aea8a79
+:END:
+#+title: Bhpgaqm Pslnklf Zmpdagly Bsznd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Zmpdagly Bsznd
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 10.26
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA

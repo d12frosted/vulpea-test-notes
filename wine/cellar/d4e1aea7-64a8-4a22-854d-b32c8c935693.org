@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d4e1aea7-64a8-4a22-854d-b32c8c935693
+:END:
+#+title: Mgdu Lsokqg 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Lsokqg
+- vintage :: 1941
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 12.64
+- sugar :: 0.88
+- price :: 60.14 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

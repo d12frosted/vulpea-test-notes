@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       85660f6c-81e1-4e03-b290-a97b84b05d1e
+:END:
+#+title: Bhpgaqm Pslnklf Irgyszft Ypy 2020 - 2006-2-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:baae97d6-c85b-46de-b3fc-693224f36429][Bhpgaqm Pslnklf Irgyszft Ypy 2020]]
+- date :: 2006-2-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

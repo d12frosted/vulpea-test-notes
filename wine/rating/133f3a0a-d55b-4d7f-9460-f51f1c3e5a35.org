@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       133f3a0a-d55b-4d7f-9460-f51f1c3e5a35
+:END:
+#+title: Hppbtt Tof 1939 - 2014-11-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:dab5fbeb-109e-4402-b04f-b41ef8a9e5bf][Hppbtt Tof 1939]]
+- date :: 2014-11-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

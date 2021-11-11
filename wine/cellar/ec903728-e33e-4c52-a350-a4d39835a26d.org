@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ec903728-e33e-4c52-a350-a4d39835a26d
+:END:
+#+title: Wdcfn Yrra Rqxtvsj 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Rqxtvsj
+- vintage :: 1900
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 11.03
+- price :: 65.09 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

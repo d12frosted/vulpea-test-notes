@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       744e9ecc-ac2c-4a9b-9372-cce22d85b051
+:END:
+#+title: Mabtcl Miuoflx Ossexxdp Uicldya 1948 - 2003-3-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:dd9bb6b7-bea5-426d-9eab-67ab63180699][Mabtcl Miuoflx Ossexxdp Uicldya 1948]]
+- date :: 2003-3-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

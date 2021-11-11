@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f3f8a631-fcb7-4f61-8101-f09391e265c9
+:END:
+#+title: Hppbtt Gtlakv 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Gtlakv
+- vintage :: 1967
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 11.2
+- price :: 70.03 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

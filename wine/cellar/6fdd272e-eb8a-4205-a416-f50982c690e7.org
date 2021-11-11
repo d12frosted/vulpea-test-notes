@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6fdd272e-eb8a-4205-a416-f50982c690e7
+:END:
+#+title: Fxbahvi Qqezrar Juggom Ypzysfbp 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Juggom Ypzysfbp
+- vintage :: 1964
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 9.23
+- price :: 12.96 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.0
+- ratings :: [[id:50566c86-9f0b-4132-9cce-16b9551c233a][Fxbahvi Qqezrar Juggom Ypzysfbp 1964 - 2018-1-2]]

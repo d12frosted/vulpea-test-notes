@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       74c358fd-bc29-4a40-9eaa-f6e49942e58a
+:END:
+#+title: Bhpgaqm Pslnklf Hxdbok Yadmhzh 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Hxdbok Yadmhzh
+- vintage :: 1902
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 12.29
+- sugar :: 0.16
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:0027dea9-d160-485a-916e-afcb5d73b4cb][Bhpgaqm Pslnklf Hxdbok Yadmhzh 1902 - 1994-10-19]]

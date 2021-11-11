@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ea866091-b2cf-47a4-933d-6e17e73b11c0
+:END:
+#+title: Ajkygaf Emnb Vta Bcgq NV - 1991-11-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:94ec52a2-bf90-4705-be93-734a610a61ca][Ajkygaf Emnb Vta Bcgq]]
+- date :: 1991-11-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

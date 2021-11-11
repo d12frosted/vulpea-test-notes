@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       72e96c78-7e43-49e9-8bb4-bb7ddf0bf22a
+:END:
+#+title: Xnxdlsx Kcdf 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Kcdf
+- vintage :: 1951
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 9.97
+- sugar :: 7.53
+- price :: 77.07 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

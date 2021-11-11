@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       96a712e5-131a-4a81-b680-b1d4c09c4b69
+:END:
+#+title: Ajkygaf Emnb Cav Qdivjutr 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Cav Qdivjutr
+- vintage :: 1935
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 11.04
+- sugar :: 8.19
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

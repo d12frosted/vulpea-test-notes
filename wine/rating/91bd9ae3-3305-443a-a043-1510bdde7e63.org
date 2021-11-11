@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       91bd9ae3-3305-443a-a043-1510bdde7e63
+:END:
+#+title: Mabtcl Miuoflx Jjmywz 1978 - 2023-10-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:0fd05be5-ad9e-4a5b-b41a-4605f9ff04ee][Mabtcl Miuoflx Jjmywz 1978]]
+- date :: 2023-10-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

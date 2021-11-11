@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       aba8d3ac-b79a-47d8-a44d-a61c2d1e6939
+:END:
+#+title: Hppbtt Ywat 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ywat
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.92
+- sugar :: 11.82
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

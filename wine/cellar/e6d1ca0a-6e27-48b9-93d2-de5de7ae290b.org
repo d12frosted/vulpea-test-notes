@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e6d1ca0a-6e27-48b9-93d2-de5de7ae290b
+:END:
+#+title: Ajkygaf Emnb Gbkvifd 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Gbkvifd
+- vintage :: 1934
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.58
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

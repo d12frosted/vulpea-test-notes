@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e1101b1a-de4d-48ea-b5f0-b8e0d6ed1e6e
+:END:
+#+title: Bhpgaqm Pslnklf Ojzj Jsh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ojzj Jsh
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 13.969999999999999
+- sugar :: 14.14
+- price :: 33.94 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

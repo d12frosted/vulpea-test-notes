@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       0a04eabe-64e3-4b47-8dc3-b91ecec61dcf
+:END:
+#+title: Tpl Awctfi
+#+filetags: :wine:appellation:
+
+

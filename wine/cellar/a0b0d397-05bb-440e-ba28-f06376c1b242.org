@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a0b0d397-05bb-440e-ba28-f06376c1b242
+:END:
+#+title: Bhpgaqm Pslnklf Xqq 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Xqq
+- vintage :: 1935
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 11.79
+- sugar :: 15.31
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

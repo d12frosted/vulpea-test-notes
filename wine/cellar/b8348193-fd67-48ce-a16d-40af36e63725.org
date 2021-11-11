@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b8348193-fd67-48ce-a16d-40af36e63725
+:END:
+#+title: Ibde Iowlof Kfnnhpb Mvwgvtg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Kfnnhpb Mvwgvtg
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 13.2
+- price :: 66.43 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

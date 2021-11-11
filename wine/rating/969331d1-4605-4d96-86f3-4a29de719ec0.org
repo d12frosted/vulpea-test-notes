@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       969331d1-4605-4d96-86f3-4a29de719ec0
+:END:
+#+title: Ajkygaf Emnb Aop NV - 2004-2-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:7d696218-2179-473f-b888-a2a8d48a238e][Ajkygaf Emnb Aop]]
+- date :: 2004-2-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

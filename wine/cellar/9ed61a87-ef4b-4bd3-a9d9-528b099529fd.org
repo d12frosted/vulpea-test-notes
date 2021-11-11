@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9ed61a87-ef4b-4bd3-a9d9-528b099529fd
+:END:
+#+title: Bhpgaqm Pslnklf Bufzmyy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Bufzmyy
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 12.379999999999999
+- sugar :: 2.83
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

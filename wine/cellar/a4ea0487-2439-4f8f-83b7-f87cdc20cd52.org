@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a4ea0487-2439-4f8f-83b7-f87cdc20cd52
+:END:
+#+title: Wdcfn Yrra Tednjadc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Tednjadc
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 13.29
+- price :: 86.21 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 6.0
+- ratings :: [[id:9522effa-fa55-400c-9c5b-c657b2edd09c][Wdcfn Yrra Tednjadc NV - 2012-8-9]]

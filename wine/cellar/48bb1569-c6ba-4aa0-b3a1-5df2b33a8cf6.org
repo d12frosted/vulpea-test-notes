@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       48bb1569-c6ba-4aa0-b3a1-5df2b33a8cf6
+:END:
+#+title: Xnxdlsx Ycaxepu 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ycaxepu
+- vintage :: 2012
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 12.01
+- sugar :: 9.11
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 2.5
+- ratings :: [[id:32732a34-cc1a-4039-866a-c8a940204d8a][Xnxdlsx Ycaxepu 2012 - 1996-4-26]]

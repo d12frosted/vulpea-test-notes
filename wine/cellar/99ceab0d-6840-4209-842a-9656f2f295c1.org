@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       99ceab0d-6840-4209-842a-9656f2f295c1
+:END:
+#+title: Mabtcl Miuoflx Guvjtfg Enys 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Guvjtfg Enys
+- vintage :: 1910
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 10.26
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

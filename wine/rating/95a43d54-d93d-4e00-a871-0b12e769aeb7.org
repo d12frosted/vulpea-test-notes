@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       95a43d54-d93d-4e00-a871-0b12e769aeb7
+:END:
+#+title: Ibde Iowlof Yulc Ssvfpmsv 1923 - 2020-3-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:3b7f13ca-4d45-40b2-aee2-7ddc6eae3205][Ibde Iowlof Yulc Ssvfpmsv 1923]]
+- date :: 2020-3-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

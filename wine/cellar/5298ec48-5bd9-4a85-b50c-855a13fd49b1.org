@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5298ec48-5bd9-4a85-b50c-855a13fd49b1
+:END:
+#+title: Hppbtt Qavjj Exsepvkt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Qavjj Exsepvkt
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 9.15
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:087cfe6b-9c1e-4567-a8cd-b7dcbd81c410][Hppbtt Qavjj Exsepvkt NV - 2004-3-8]]

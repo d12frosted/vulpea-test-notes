@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       18658723-86df-44ce-bb64-bc4e1e10c5cc
+:END:
+#+title: Ajkygaf Emnb Sxvhc Kmh 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Sxvhc Kmh
+- vintage :: 1963
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 10.51
+- sugar :: 3.28
+- price :: 85.50 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

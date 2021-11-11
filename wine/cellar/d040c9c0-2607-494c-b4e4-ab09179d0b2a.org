@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d040c9c0-2607-494c-b4e4-ab09179d0b2a
+:END:
+#+title: Ajkygaf Emnb Juwc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Juwc
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 9.06
+- sugar :: 16.28
+- price :: 38.75 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

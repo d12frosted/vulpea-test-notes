@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       824f5280-1fe4-49f7-8656-51721c5a5623
+:END:
+#+title: Wdcfn Yrra Rwwp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Rwwp
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.67
+- price :: 47.40 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 7.5
+- ratings :: [[id:3b23cfab-7cac-44b4-8f24-6efe04a466a1][Wdcfn Yrra Rwwp NV - 2005-12-21]]

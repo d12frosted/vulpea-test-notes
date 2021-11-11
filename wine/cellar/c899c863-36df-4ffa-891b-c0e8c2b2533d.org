@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c899c863-36df-4ffa-891b-c0e8c2b2533d
+:END:
+#+title: Ibde Iowlof Xxt Dzekxbk 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Xxt Dzekxbk
+- vintage :: 1928
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 11.71
+- price :: 89.42 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

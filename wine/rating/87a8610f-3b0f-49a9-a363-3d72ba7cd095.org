@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       87a8610f-3b0f-49a9-a363-3d72ba7cd095
+:END:
+#+title: Wdcfn Yrra Wmvoo Uwmse 1978 - 2002-11-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:a493692d-29c6-4ccd-b125-1ff91756b07b][Wdcfn Yrra Wmvoo Uwmse 1978]]
+- date :: 2002-11-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

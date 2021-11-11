@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c839d82f-dbf2-4ec3-b124-fc3cbf01c088
+:END:
+#+title: Mabtcl Miuoflx Sbtov Qksg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Sbtov Qksg
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 13.1
+- price :: 16.67 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

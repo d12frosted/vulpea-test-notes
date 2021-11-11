@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       74338005-8e60-4837-96a7-5c506bef32eb
+:END:
+#+title: Fxbahvi Qqezrar Chhostai Fdjc 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Chhostai Fdjc
+- vintage :: 1944
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.45
+- price :: 25.77 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

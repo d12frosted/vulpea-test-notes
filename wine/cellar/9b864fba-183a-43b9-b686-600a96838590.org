@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9b864fba-183a-43b9-b686-600a96838590
+:END:
+#+title: Wdcfn Yrra Yute 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Yute
+- vintage :: 1985
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 12.07
+- sugar :: 0.96
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:6988ed97-a4b6-4e7b-8219-501084b09aad][Wdcfn Yrra Yute 1985 - 2011-9-13]]

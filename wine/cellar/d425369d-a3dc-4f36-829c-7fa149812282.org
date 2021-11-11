@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d425369d-a3dc-4f36-829c-7fa149812282
+:END:
+#+title: Bhpgaqm Pslnklf Vlgim 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Vlgim
+- vintage :: 2016
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 12.02
+- sugar :: 4.42
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

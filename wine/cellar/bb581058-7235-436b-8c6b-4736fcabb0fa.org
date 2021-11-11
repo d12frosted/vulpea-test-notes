@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bb581058-7235-436b-8c6b-4736fcabb0fa
+:END:
+#+title: Fxbahvi Qqezrar Zwqrbyu Oytkfup 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Zwqrbyu Oytkfup
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 11.25
+- price :: 31.89 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.0
+- ratings :: [[id:c68fb6be-67dd-4222-90b2-b0e83282643c][Fxbahvi Qqezrar Zwqrbyu Oytkfup NV - 2001-1-20]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       31875a1f-9625-4708-9093-0acf318cf80a
+:END:
+#+title: Ajkygaf Emnb Ykre Nyvb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ykre Nyvb
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 10.36
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

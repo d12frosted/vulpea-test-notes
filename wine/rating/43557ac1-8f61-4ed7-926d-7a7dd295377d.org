@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       43557ac1-8f61-4ed7-926d-7a7dd295377d
+:END:
+#+title: Ajkygaf Emnb Mbhrj Gzpxwrzg 1905 - 1996-6-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:d8256767-10ad-4e92-a663-2c189d9647ce][Ajkygaf Emnb Mbhrj Gzpxwrzg 1905]]
+- date :: 1996-6-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

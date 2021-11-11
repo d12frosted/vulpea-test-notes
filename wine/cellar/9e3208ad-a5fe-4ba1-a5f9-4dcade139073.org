@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9e3208ad-a5fe-4ba1-a5f9-4dcade139073
+:END:
+#+title: Fxbahvi Qqezrar Tzlqakd Spfgqc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Tzlqakd Spfgqc
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.81
+- price :: 17.34 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:9b4a94e7-0580-434d-b380-fcb2ed2f7547][Fxbahvi Qqezrar Tzlqakd Spfgqc NV - 1999-4-10]]

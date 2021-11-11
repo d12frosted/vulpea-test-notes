@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       93c64104-ef00-4265-bccb-88737260431a
+:END:
+#+title: Mabtcl Miuoflx Usiug 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Usiug
+- vintage :: 2001
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 13.9
+- sugar :: 12.92
+- price :: 52.48 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

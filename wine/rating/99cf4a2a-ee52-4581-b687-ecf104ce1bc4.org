@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       99cf4a2a-ee52-4581-b687-ecf104ce1bc4
+:END:
+#+title: Mabtcl Miuoflx Iwrax Dvmutwo NV - 1999-9-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:6638fd04-1fda-4fc0-acda-4a6a2b129c0b][Mabtcl Miuoflx Iwrax Dvmutwo]]
+- date :: 1999-9-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

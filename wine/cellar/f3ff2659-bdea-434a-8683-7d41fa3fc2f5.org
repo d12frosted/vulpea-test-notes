@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f3ff2659-bdea-434a-8683-7d41fa3fc2f5
+:END:
+#+title: Mabtcl Miuoflx Qsqg Nnq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Qsqg Nnq
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 13.89
+- sugar :: 9.27
+- price :: 80.95 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 7.5
+- ratings :: [[id:8cb5173f-4708-4ec6-82d3-d9bbbcf56ee5][Mabtcl Miuoflx Qsqg Nnq NV - 2015-12-10]]

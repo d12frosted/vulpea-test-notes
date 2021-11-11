@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c1aac940-835b-4859-8aa0-9af171e025d6
+:END:
+#+title: Bhpgaqm Pslnklf Fyrjruea NV - 1991-12-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:4c6c6b99-0056-406b-83e4-25b4dfd21194][Bhpgaqm Pslnklf Fyrjruea]]
+- date :: 1991-12-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

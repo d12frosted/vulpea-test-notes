@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fb8fddc0-9897-4ca5-9903-81eb935b43d1
+:END:
+#+title: Mabtcl Miuoflx Vmyuxk Srt NV - 1994-5-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:809b9443-1850-4b15-a28e-91170ae9bbbe][Mabtcl Miuoflx Vmyuxk Srt]]
+- date :: 1994-5-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

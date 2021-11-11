@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       03722670-3a4c-4829-a353-7d131ca18beb
+:END:
+#+title: Wdcfn Yrra Wptk Lwkhvzel NV - 1997-7-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:870075b1-4cc1-4c42-9d04-70ed5bb27e0d][Wdcfn Yrra Wptk Lwkhvzel]]
+- date :: 1997-7-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

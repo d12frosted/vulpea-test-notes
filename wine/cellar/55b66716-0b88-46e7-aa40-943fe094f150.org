@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       55b66716-0b88-46e7-aa40-943fe094f150
+:END:
+#+title: Mgdu Clopw Eqgsns 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Clopw Eqgsns
+- vintage :: 1903
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 10.92
+- price :: 35.14 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:1d69040f-1bd5-43f0-a06b-9201ae27a8a5][Mgdu Clopw Eqgsns 1903 - 2015-3-6]]

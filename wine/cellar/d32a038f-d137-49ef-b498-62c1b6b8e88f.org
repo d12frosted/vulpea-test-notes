@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d32a038f-d137-49ef-b498-62c1b6b8e88f
+:END:
+#+title: Xnxdlsx Lqoxo Vmiyiqkr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Lqoxo Vmiyiqkr
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 11.48
+- sugar :: 19.45
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:22b65909-edb3-438e-bbd1-f68b27b66bf5][Xnxdlsx Lqoxo Vmiyiqkr NV - 1993-6-20]]

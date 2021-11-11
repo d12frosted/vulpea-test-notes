@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       34bb5499-93ea-4e2d-8d9a-033cc49d5464
+:END:
+#+title: Ajkygaf Emnb Uduqeadr Pkbrwv 1940 - 2018-2-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:8b34d75d-9e8d-4102-9ad7-87943b3dd453][Ajkygaf Emnb Uduqeadr Pkbrwv 1940]]
+- date :: 2018-2-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

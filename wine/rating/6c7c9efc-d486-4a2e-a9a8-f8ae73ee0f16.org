@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6c7c9efc-d486-4a2e-a9a8-f8ae73ee0f16
+:END:
+#+title: Xnxdlsx Ivhe Alptbj 1955 - 2009-2-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:0caa4170-d7a5-489a-9d7e-f29f73c44095][Xnxdlsx Ivhe Alptbj 1955]]
+- date :: 2009-2-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ae10586c-cd9c-4756-8eef-76f23171bfa9
+:END:
+#+title: Xnxdlsx Yint Ahyq NV - 2013-7-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:35269fab-7bcf-4f51-8fb9-a9f7cae734b5][Xnxdlsx Yint Ahyq]]
+- date :: 2013-7-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

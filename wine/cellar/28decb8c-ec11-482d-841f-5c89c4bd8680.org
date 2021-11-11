@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       28decb8c-ec11-482d-841f-5c89c4bd8680
+:END:
+#+title: Ibde Iowlof Eltg 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Eltg
+- vintage :: 1902
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.93
+- price :: 100.43 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

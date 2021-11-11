@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       06e820b3-93ea-4111-8340-0d6899a75f24
+:END:
+#+title: Xhbm Jzaodhb Kpe 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Jzaodhb Kpe
+- vintage :: 1933
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.17
+- sugar :: 14.94
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

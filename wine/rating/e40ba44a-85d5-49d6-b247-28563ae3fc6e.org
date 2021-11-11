@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e40ba44a-85d5-49d6-b247-28563ae3fc6e
+:END:
+#+title: Ibde Iowlof Gki Tkwh NV - 2024-3-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:35adc820-f81e-4fc1-a5f0-3ef612429ef1][Ibde Iowlof Gki Tkwh]]
+- date :: 2024-3-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

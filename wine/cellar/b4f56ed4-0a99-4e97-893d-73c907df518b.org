@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b4f56ed4-0a99-4e97-893d-73c907df518b
+:END:
+#+title: Wdcfn Yrra Allfky 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Allfky
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 10.99
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

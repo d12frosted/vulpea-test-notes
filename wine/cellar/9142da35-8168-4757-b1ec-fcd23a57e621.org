@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9142da35-8168-4757-b1ec-fcd23a57e621
+:END:
+#+title: Xnxdlsx Lbeptk Rlstqrk 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Lbeptk Rlstqrk
+- vintage :: 2014
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.73
+- sugar :: 9.21
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 7.0
+- ratings :: [[id:7e57202b-82ca-4a58-9d74-e12e8088c511][Xnxdlsx Lbeptk Rlstqrk 2014 - 2015-8-18]]

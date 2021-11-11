@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4026c4dd-ee15-412c-9ace-225bca623afa
+:END:
+#+title: Wdcfn Yrra Plwgdl Vls 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Plwgdl Vls
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 9.96
+- price :: 54.54 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 6.0
+- ratings :: [[id:6a9960b4-a3ed-4ac0-a155-1ac73a48d2cb][Wdcfn Yrra Plwgdl Vls NV - 1995-3-16]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       66e3c5aa-8e47-47a6-85c6-86a00236984d
+:END:
+#+title: Ajkygaf Emnb Grotcmjc 1993 - 2006-2-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:4e0f6a45-c5dc-43dd-af9a-325729b2cd57][Ajkygaf Emnb Grotcmjc 1993]]
+- date :: 2006-2-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

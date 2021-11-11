@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       50f455e4-da92-4017-bb03-17153f7bff52
+:END:
+#+title: Ibde Iowlof Svsxiz Cwkmoee 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Svsxiz Cwkmoee
+- vintage :: 1981
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.44
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

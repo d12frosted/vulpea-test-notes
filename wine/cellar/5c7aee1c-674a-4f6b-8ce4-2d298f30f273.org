@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5c7aee1c-674a-4f6b-8ce4-2d298f30f273
+:END:
+#+title: Wdcfn Yrra Basiamdo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Basiamdo
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 12.26
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.0
+- ratings :: [[id:f58f16de-366a-4b6f-a6fd-8c0c71f5d4e0][Wdcfn Yrra Basiamdo NV - 2001-10-28]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9259ab86-ca9e-497c-aa40-4b434da878be
+:END:
+#+title: Hppbtt Idbz Rncn 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Idbz Rncn
+- vintage :: 1964
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 9.2
+- sugar :: 15.41
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

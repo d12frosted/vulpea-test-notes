@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3a82d6fb-471f-4273-a90f-8781eb3477aa
+:END:
+#+title: Wdcfn Yrra Pbgwpkhp Cejctt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Pbgwpkhp Cejctt
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 12.26
+- sugar :: 4.72
+- price :: 73.89 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: duckduckgo
+- rating :: 2.5
+- ratings :: [[id:ce59dda2-449d-45e1-bdb8-71776ff321b5][Wdcfn Yrra Pbgwpkhp Cejctt NV - 2019-10-1]]

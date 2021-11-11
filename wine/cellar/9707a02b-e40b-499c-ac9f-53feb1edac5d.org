@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9707a02b-e40b-499c-ac9f-53feb1edac5d
+:END:
+#+title: Fxbahvi Qqezrar Ubsjzb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Ubsjzb
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.53
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:eb9d9848-33bc-4813-98a4-81dd1ff00d65][Fxbahvi Qqezrar Ubsjzb NV - 2001-4-18]]

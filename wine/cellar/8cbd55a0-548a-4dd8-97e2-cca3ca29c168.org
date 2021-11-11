@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8cbd55a0-548a-4dd8-97e2-cca3ca29c168
+:END:
+#+title: Wdcfn Yrra Mpcmt 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Mpcmt
+- vintage :: 1927
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 13.79
+- price :: 73.32 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

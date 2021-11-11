@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a38e10fd-ea91-4d0e-a59e-7abd01c3fd52
+:END:
+#+title: Ajkygaf Emnb Kqmxokl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Kqmxokl
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 10.57
+- price :: 95.80 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:5a8efd3f-5589-4b3b-bb5d-a5acb0d745d2][Ajkygaf Emnb Kqmxokl NV - 2006-12-6]]

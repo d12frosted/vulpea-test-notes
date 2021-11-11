@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       eed21739-2990-4e2e-991f-20c10b2fd4e4
+:END:
+#+title: Hppbtt Njnowo Covof 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Njnowo Covof
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 10.8
+- sugar :: 11.67
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

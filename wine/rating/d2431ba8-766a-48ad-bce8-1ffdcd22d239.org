@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d2431ba8-766a-48ad-bce8-1ffdcd22d239
+:END:
+#+title: Xhbm Rtkxedu 1914 - 1994-9-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:592ae181-f557-4ce6-ae8d-45d0c7b5222e][Xhbm Rtkxedu 1914]]
+- date :: 1994-9-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

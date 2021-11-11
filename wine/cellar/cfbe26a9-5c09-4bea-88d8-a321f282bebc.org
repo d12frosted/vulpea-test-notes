@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cfbe26a9-5c09-4bea-88d8-a321f282bebc
+:END:
+#+title: Ibde Iowlof Coipr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Coipr
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 10.05
+- sugar :: 11.52
+- price :: 77.01 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 4.5
+- ratings :: [[id:55c5b71a-86f0-43d7-9411-f4ccda9e6ca1][Ibde Iowlof Coipr NV - 1990-7-1]]

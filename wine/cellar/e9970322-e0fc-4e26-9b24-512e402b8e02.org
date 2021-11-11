@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e9970322-e0fc-4e26-9b24-512e402b8e02
+:END:
+#+title: Xhbm Fuzhbol 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Fuzhbol
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 9.12
+- sugar :: 19.76
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.5
+- ratings :: [[id:35d2076d-ee76-4c18-81bd-394a447b6a79][Xhbm Fuzhbol NV - 1996-11-27]]

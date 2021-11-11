@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8e12b7b2-c2ec-4c0f-873e-97547805fa3d
+:END:
+#+title: Xhbm Lir Bgruldeg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Lir Bgruldeg
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.190000000000001
+- sugar :: 16.82
+- price :: 68.67 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:bdc473da-0791-4f84-90f7-012c8ca9f84b][Xhbm Lir Bgruldeg NV - 2006-9-5]]

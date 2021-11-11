@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       719399c8-1b89-4ecf-933a-8fa8f8b84b94
+:END:
+#+title: Xhbm Mnc 1973 - 2004-12-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:8a73ccff-6fd2-47c5-911d-612bf0a3634a][Xhbm Mnc 1973]]
+- date :: 2004-12-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

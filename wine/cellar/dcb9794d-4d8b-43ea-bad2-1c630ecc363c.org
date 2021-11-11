@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dcb9794d-4d8b-43ea-bad2-1c630ecc363c
+:END:
+#+title: Fxbahvi Qqezrar Isetxx Uwiiranl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Isetxx Uwiiranl
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 11.45
+- sugar :: 0.42
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 2.5
+- ratings :: [[id:1d27575f-76a7-4107-9e6d-87930941cb89][Fxbahvi Qqezrar Isetxx Uwiiranl NV - 1999-11-24]]

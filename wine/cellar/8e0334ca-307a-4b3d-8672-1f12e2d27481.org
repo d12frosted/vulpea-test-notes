@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8e0334ca-307a-4b3d-8672-1f12e2d27481
+:END:
+#+title: Hppbtt Ubcwwfih 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ubcwwfih
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 11.02
+- sugar :: 2.54
+- price :: 20.55 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:f23b0a48-446c-4893-9dd2-6378cff0bb4e][Hppbtt Ubcwwfih NV - 2010-11-24]]

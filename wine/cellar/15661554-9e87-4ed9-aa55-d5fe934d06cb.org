@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       15661554-9e87-4ed9-aa55-d5fe934d06cb
+:END:
+#+title: Xhbm Wfwtnjb Nib 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Wfwtnjb Nib
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 11.6
+- price :: 88.09 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.0
+- ratings :: [[id:1cd098f7-889f-4845-8277-ac06fa1d7e8e][Xhbm Wfwtnjb Nib NV - 2013-9-26]]

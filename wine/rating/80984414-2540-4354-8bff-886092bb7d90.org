@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       80984414-2540-4354-8bff-886092bb7d90
+:END:
+#+title: Ibde Iowlof Hpev NV - 2015-3-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:eca90fb9-ee9d-46d7-b693-fa4a68e2cf4b][Ibde Iowlof Hpev]]
+- date :: 2015-3-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

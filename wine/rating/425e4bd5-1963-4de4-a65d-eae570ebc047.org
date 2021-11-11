@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       425e4bd5-1963-4de4-a65d-eae570ebc047
+:END:
+#+title: Wdcfn Yrra Mxmvcapr Csaomk NV - 2007-4-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:b7932f0c-be2d-4237-9307-08c7369038c6][Wdcfn Yrra Mxmvcapr Csaomk]]
+- date :: 2007-4-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

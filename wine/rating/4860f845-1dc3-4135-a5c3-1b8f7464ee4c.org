@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4860f845-1dc3-4135-a5c3-1b8f7464ee4c
+:END:
+#+title: Ibde Iowlof Wjznr NV - 2002-8-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:42a153b2-de66-4383-9d76-fb531f266324][Ibde Iowlof Wjznr]]
+- date :: 2002-8-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

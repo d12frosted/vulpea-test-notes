@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       80450d33-bcd4-455c-9309-041f93248e01
+:END:
+#+title: Wdcfn Yrra Crcpzej 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Crcpzej
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 13.52
+- price :: 50.05 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 2.0
+- ratings :: [[id:a4b95cf0-6b53-4350-ad8d-5c78ae334170][Wdcfn Yrra Crcpzej NV - 2009-8-24]]

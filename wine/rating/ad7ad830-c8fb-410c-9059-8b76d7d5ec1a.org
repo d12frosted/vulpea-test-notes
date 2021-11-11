@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ad7ad830-c8fb-410c-9059-8b76d7d5ec1a
+:END:
+#+title: Xhbm Zwza Pyrkr 1987 - 1999-8-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:901f03ab-583c-47c2-837a-64be41bfa234][Xhbm Zwza Pyrkr 1987]]
+- date :: 1999-8-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

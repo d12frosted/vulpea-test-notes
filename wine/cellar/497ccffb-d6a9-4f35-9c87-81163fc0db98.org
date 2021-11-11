@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       497ccffb-d6a9-4f35-9c87-81163fc0db98
+:END:
+#+title: Ajkygaf Emnb Rdb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Rdb
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 9.71
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:f38b955d-b986-43a4-b0ca-323022bcdd60][Ajkygaf Emnb Rdb NV - 2006-12-20]]

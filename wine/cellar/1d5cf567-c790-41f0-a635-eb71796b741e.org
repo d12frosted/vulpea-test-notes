@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1d5cf567-c790-41f0-a635-eb71796b741e
+:END:
+#+title: Wdcfn Yrra Lzwle 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Lzwle
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.33
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

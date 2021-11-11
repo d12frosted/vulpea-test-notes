@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       22141906-6bb9-47a0-a2f5-4d4964ef9ff2
+:END:
+#+title: Wdcfn Yrra Ifclbjdb 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Ifclbjdb
+- vintage :: 1938
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 13.29
+- sugar :: 8.32
+- price :: 5.40 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

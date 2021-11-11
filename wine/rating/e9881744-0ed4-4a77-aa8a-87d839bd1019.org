@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e9881744-0ed4-4a77-aa8a-87d839bd1019
+:END:
+#+title: Xhbm Qtdsp Lrond 1963 - 2009-6-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:c611bfee-12cb-41ef-950e-7900511bdb72][Xhbm Qtdsp Lrond 1963]]
+- date :: 2009-6-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

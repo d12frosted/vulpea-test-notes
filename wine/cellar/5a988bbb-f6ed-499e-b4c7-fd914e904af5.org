@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5a988bbb-f6ed-499e-b4c7-fd914e904af5
+:END:
+#+title: Bhpgaqm Pslnklf Qzy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Qzy
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 10.71
+- price :: 19.81 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:7dae78c5-a40e-4ae2-997b-065c88e8502a][Bhpgaqm Pslnklf Qzy NV - 2008-11-23]]

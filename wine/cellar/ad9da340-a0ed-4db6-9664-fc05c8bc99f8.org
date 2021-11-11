@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ad9da340-a0ed-4db6-9664-fc05c8bc99f8
+:END:
+#+title: Fxbahvi Qqezrar Slxyyn Fnngj 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Slxyyn Fnngj
+- vintage :: 1999
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 13.17
+- sugar :: 19.71
+- price :: 15.53 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

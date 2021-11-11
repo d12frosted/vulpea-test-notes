@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       527c13fa-9ed8-4739-ad65-b7b0f08a2dfa
+:END:
+#+title: Fxbahvi Qqezrar Nej Intxny 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Nej Intxny
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 9.66
+- sugar :: 12.01
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

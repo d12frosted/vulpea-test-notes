@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a8fb20e2-3169-4742-b839-c0adcb14edb1
+:END:
+#+title: Hppbtt Smbhaxe Iygilnjq 1967 - 2001-4-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:642f2e51-e9bb-45b5-8094-0e6ceff1b0f5][Hppbtt Smbhaxe Iygilnjq 1967]]
+- date :: 2001-4-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

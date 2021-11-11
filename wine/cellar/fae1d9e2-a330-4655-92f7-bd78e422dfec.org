@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fae1d9e2-a330-4655-92f7-bd78e422dfec
+:END:
+#+title: Hppbtt Pbe 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Pbe
+- vintage :: 1914
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 10.23
+- sugar :: 9.02
+- price :: 4.82 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f5b28967-5903-4bd6-b864-6f4af68c8773
+:END:
+#+title: Ajkygaf Emnb Drpthgq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Drpthgq
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 10.48
+- price :: 42.35 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

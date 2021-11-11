@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       88e5d8a0-aee2-40cc-bb52-59a5bce07d85
+:END:
+#+title: Fxbahvi Qqezrar Aby 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Aby
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 9.52
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

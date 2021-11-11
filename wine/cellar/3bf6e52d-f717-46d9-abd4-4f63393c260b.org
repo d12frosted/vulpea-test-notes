@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3bf6e52d-f717-46d9-abd4-4f63393c260b
+:END:
+#+title: Mabtcl Miuoflx Wxndikfu Nobigc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Wxndikfu Nobigc
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 11.54
+- sugar :: 14.12
+- price :: 82.56 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:b4ea7367-7712-4c2b-8344-ce386cbe4f1a][Mabtcl Miuoflx Wxndikfu Nobigc NV - 2001-5-4]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c597cb78-ea7e-4ecf-9a92-b70b88dcba0a
+:END:
+#+title: Hppbtt Qdy Fblzgdns 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Qdy Fblzgdns
+- vintage :: 1902
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.81
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

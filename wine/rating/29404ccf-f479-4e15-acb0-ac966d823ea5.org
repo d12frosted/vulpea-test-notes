@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       29404ccf-f479-4e15-acb0-ac966d823ea5
+:END:
+#+title: Ajkygaf Emnb Eiu Odbb 1973 - 1999-3-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:1c12cf51-4510-42d4-a6d4-030a35950259][Ajkygaf Emnb Eiu Odbb 1973]]
+- date :: 1999-3-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

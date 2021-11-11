@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9c3c11b5-3438-4559-a7f7-3135183c34a5
+:END:
+#+title: Mabtcl Miuoflx Llclewcj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Llclewcj
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 13.92
+- price :: 101.58 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       19476842-3c30-4b74-a9f8-d3a173fcc4f1
+:END:
+#+title: Hppbtt Dxxiay NV - 2000-3-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:834d44f8-815f-4c4b-851f-5621c1c8dfcf][Hppbtt Dxxiay]]
+- date :: 2000-3-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

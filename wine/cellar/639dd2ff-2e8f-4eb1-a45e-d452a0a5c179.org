@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       639dd2ff-2e8f-4eb1-a45e-d452a0a5c179
+:END:
+#+title: Hppbtt Mxauroqm Kwwops 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Mxauroqm Kwwops
+- vintage :: 1979
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 12.19
+- sugar :: 19.19
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

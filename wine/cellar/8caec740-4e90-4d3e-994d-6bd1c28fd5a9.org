@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8caec740-4e90-4d3e-994d-6bd1c28fd5a9
+:END:
+#+title: Bhpgaqm Pslnklf Ysy Gdiqyhm 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ysy Gdiqyhm
+- vintage :: 1971
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 9.04
+- sugar :: 10.64
+- price :: 100.46 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

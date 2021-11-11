@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       21af7893-3709-4db1-bf8d-51f9f3bba08b
+:END:
+#+title: Wdcfn Yrra Gxowlrj Ovdkj 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Gxowlrj Ovdkj
+- vintage :: 1963
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.95
+- price :: 7.66 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

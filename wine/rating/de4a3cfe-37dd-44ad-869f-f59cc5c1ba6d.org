@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       de4a3cfe-37dd-44ad-869f-f59cc5c1ba6d
+:END:
+#+title: Mgdu Ouq NV - 1993-9-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:777ce105-f600-42df-b547-80010737bc5a][Mgdu Ouq]]
+- date :: 1993-9-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2441a1af-8b5b-4bd4-b5f8-bb8aac97a313
+:END:
+#+title: Hppbtt Quz NV - 1995-11-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:36723ee5-d55b-4c88-ad08-0d74688d2442][Hppbtt Quz]]
+- date :: 1995-11-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

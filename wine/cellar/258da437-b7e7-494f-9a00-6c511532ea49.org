@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       258da437-b7e7-494f-9a00-6c511532ea49
+:END:
+#+title: Xnxdlsx Ior 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ior
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 11.3
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

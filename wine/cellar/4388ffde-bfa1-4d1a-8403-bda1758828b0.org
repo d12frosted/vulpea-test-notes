@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4388ffde-bfa1-4d1a-8403-bda1758828b0
+:END:
+#+title: Xnxdlsx Xnd Ivqev 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Xnd Ivqev
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- alcohol :: 9.46
+- sugar :: 22.49
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

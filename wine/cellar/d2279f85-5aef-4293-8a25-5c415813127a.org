@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d2279f85-5aef-4293-8a25-5c415813127a
+:END:
+#+title: Mgdu Egcgc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Egcgc
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.82
+- sugar :: 11.06
+- price :: 17.94 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

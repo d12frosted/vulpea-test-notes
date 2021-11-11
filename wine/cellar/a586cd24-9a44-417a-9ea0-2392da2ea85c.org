@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a586cd24-9a44-417a-9ea0-2392da2ea85c
+:END:
+#+title: Xhbm Ypnwzg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Ypnwzg
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 10.55
+- sugar :: 22.52
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:7f11d5fb-38f9-48b9-80e5-a910fbe9bf95][Xhbm Ypnwzg NV - 1999-9-8]]

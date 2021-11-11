@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       33f05227-d91f-4e51-967d-d90c2cebd886
+:END:
+#+title: Fxbahvi Qqezrar Othqe Lhfvjk 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Othqe Lhfvjk
+- vintage :: 1904
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 13.99
+- price :: 73.24 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

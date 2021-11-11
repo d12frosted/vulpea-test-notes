@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       57bae9bc-700f-4495-a92d-5cd99f329e20
+:END:
+#+title: Mabtcl Miuoflx Dhzzvej Gibzb 1948 - 2002-7-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:2d3d028b-33b7-496f-ad92-d328f7efc353][Mabtcl Miuoflx Dhzzvej Gibzb 1948]]
+- date :: 2002-7-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

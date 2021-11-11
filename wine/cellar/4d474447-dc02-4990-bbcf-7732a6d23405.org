@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4d474447-dc02-4990-bbcf-7732a6d23405
+:END:
+#+title: Mabtcl Miuoflx Lgarrdk 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Lgarrdk
+- vintage :: 1926
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 13.21
+- price :: 77.24 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

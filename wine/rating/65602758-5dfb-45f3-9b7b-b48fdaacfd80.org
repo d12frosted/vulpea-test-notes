@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       65602758-5dfb-45f3-9b7b-b48fdaacfd80
+:END:
+#+title: Bhpgaqm Pslnklf Hbhcpli 1918 - 1993-7-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:5347a3b3-17af-45a2-b1af-f87da9f2ea81][Bhpgaqm Pslnklf Hbhcpli 1918]]
+- date :: 1993-7-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

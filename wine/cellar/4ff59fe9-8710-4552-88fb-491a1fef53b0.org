@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4ff59fe9-8710-4552-88fb-491a1fef53b0
+:END:
+#+title: Wdcfn Yrra Kmeiln 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Kmeiln
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 12.16
+- sugar :: 3.91
+- price :: 43.78 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

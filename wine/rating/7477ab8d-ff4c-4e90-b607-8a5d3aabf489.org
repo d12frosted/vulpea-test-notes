@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7477ab8d-ff4c-4e90-b607-8a5d3aabf489
+:END:
+#+title: Fxbahvi Qqezrar Hygkebjc Xox 1964 - 2001-7-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:64a0682f-488f-4c8c-8c19-b54efcf968a7][Fxbahvi Qqezrar Hygkebjc Xox 1964]]
+- date :: 2001-7-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

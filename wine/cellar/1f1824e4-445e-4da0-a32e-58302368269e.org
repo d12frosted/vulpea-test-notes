@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1f1824e4-445e-4da0-a32e-58302368269e
+:END:
+#+title: Xnxdlsx Fvofn Vzsafb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Fvofn Vzsafb
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 12.46
+- sugar :: 22.89
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

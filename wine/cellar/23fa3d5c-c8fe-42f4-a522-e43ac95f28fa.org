@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       23fa3d5c-c8fe-42f4-a522-e43ac95f28fa
+:END:
+#+title: Bhpgaqm Pslnklf Aryoghm Bioobl 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Aryoghm Bioobl
+- vintage :: 1935
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 10.15
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

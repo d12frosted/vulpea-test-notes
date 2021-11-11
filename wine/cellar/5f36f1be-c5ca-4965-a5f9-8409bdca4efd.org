@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5f36f1be-c5ca-4965-a5f9-8409bdca4efd
+:END:
+#+title: Ibde Iowlof Jqosov Vcrfy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Jqosov Vcrfy
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 13.440000000000001
+- price :: 73.10 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

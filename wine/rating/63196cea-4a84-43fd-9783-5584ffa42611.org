@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       63196cea-4a84-43fd-9783-5584ffa42611
+:END:
+#+title: Ibde Iowlof Nto Avt NV - 1992-5-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:11d155f2-491f-45cb-8a75-13cd3f515a00][Ibde Iowlof Nto Avt]]
+- date :: 1992-5-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

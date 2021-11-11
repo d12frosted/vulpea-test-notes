@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       98db07b1-2c9b-4442-bfcb-394f3ce80147
+:END:
+#+title: Hppbtt Sind Rgon NV - 2008-2-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:ae41824c-9153-410d-bca8-96508f55f4ea][Hppbtt Sind Rgon]]
+- date :: 2008-2-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

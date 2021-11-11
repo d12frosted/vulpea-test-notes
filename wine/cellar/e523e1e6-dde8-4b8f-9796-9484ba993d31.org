@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e523e1e6-dde8-4b8f-9796-9484ba993d31
+:END:
+#+title: Xhbm Ttimgcmu Tjqv 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Ttimgcmu Tjqv
+- vintage :: 1994
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 11.44
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

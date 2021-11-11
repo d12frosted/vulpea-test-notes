@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d6e560e7-7f29-46bf-82a1-0ebc3c39b6e8
+:END:
+#+title: Hppbtt Fsk 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fsk
+- vintage :: 1992
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.98
+- sugar :: 14.59
+- price :: 58.98 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:b1c37b49-f19a-4e66-984e-549a67535bfa][Hppbtt Fsk 1992 - 2007-3-28]]

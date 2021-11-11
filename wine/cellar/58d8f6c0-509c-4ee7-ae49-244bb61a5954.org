@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       58d8f6c0-509c-4ee7-ae49-244bb61a5954
+:END:
+#+title: Ibde Iowlof Auuo 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Auuo
+- vintage :: 1953
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 11.39
+- price :: 97.57 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

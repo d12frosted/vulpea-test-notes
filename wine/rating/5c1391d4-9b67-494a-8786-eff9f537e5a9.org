@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5c1391d4-9b67-494a-8786-eff9f537e5a9
+:END:
+#+title: Xnxdlsx Ktj Lctwnpas NV - 2000-3-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:3a75b122-fa53-4073-ab6f-0d2c1cf0073a][Xnxdlsx Ktj Lctwnpas]]
+- date :: 2000-3-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

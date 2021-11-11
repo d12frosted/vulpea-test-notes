@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       e9fbe91a-a80d-459a-880e-360558dcf299
+:END:
+#+title: Ibde Iowlof Jjbzfnx 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Jjbzfnx
+- vintage :: 1980
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.48
+- sugar :: 22.71
+- price :: 15.96 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 2.0
+- ratings :: [[id:47e46a53-5980-4672-954d-fca8142b287d][Ibde Iowlof Jjbzfnx 1980 - 2021-11-5]]

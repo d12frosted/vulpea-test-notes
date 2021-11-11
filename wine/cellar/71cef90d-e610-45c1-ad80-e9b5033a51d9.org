@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       71cef90d-e610-45c1-ad80-e9b5033a51d9
+:END:
+#+title: Wdcfn Yrra Bmv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Bmv
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 9.17
+- sugar :: 16.64
+- price :: 77.54 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

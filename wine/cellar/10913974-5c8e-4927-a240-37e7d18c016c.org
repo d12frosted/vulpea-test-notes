@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       10913974-5c8e-4927-a240-37e7d18c016c
+:END:
+#+title: Wdcfn Yrra Oeynlxnt Rnpftss 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Oeynlxnt Rnpftss
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 12.82
+- sugar :: 9.05
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:01aae964-21a8-4a00-97f9-4844caa99ef3][Wdcfn Yrra Oeynlxnt Rnpftss NV - 1997-5-4]]

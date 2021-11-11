@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aa82adfb-8044-4a60-91a3-32b3d192ff7f
+:END:
+#+title: Bhpgaqm Pslnklf Fsx 2012 - 2022-4-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:7dfbd9c4-1445-43ad-808f-3524f6c5a0c3][Bhpgaqm Pslnklf Fsx 2012]]
+- date :: 2022-4-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

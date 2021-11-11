@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d4fa32ec-431a-4eff-822b-09f208be8529
+:END:
+#+title: Ajkygaf Emnb Mpqyrf Alvzku 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Mpqyrf Alvzku
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 9.3
+- sugar :: 13.32
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

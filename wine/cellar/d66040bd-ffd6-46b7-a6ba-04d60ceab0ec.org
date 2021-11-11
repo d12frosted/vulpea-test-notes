@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d66040bd-ffd6-46b7-a6ba-04d60ceab0ec
+:END:
+#+title: Fxbahvi Qqezrar Yofrf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Yofrf
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.15
+- sugar :: 7.99
+- price :: 91.06 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 3.5
+- ratings :: [[id:0fe46386-5dc0-4e8c-aed9-b1df2a6a0c29][Fxbahvi Qqezrar Yofrf NV - 2014-9-5]]

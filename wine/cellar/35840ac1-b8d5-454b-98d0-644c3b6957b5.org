@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       35840ac1-b8d5-454b-98d0-644c3b6957b5
+:END:
+#+title: Xnxdlsx Zfj Jwtiwy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Zfj Jwtiwy
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 9.21
+- sugar :: 9.14
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

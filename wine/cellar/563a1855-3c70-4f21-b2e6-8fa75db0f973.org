@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       563a1855-3c70-4f21-b2e6-8fa75db0f973
+:END:
+#+title: Wdcfn Yrra Ryeiai Kybp 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Ryeiai Kybp
+- vintage :: 1928
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.47
+- sugar :: 19.66
+- price :: 102.80 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 2.0
+- ratings :: [[id:97b5c509-ef6e-485e-b7ee-0f445405c278][Wdcfn Yrra Ryeiai Kybp 1928 - 2002-3-3]]

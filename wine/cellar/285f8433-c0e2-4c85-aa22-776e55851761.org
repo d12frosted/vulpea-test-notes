@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       285f8433-c0e2-4c85-aa22-776e55851761
+:END:
+#+title: Mgdu Ceaa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ceaa
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 9.35
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:c3d5026a-b846-4908-af2b-8c2d77f4c6cd][Mgdu Ceaa NV - 2011-4-4]]

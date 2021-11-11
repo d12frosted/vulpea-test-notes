@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       da643a8b-1f67-45db-82a4-b338a0edf0d8
+:END:
+#+title: Wdcfn Yrra Wyfwss 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Wyfwss
+- vintage :: 2008
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 13.02
+- sugar :: 1.73
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 8.0
+- ratings :: [[id:062d43d7-2f44-4334-9e88-884f2552f625][Wdcfn Yrra Wyfwss 2008 - 2022-3-2]]

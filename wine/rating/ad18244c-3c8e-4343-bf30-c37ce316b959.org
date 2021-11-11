@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ad18244c-3c8e-4343-bf30-c37ce316b959
+:END:
+#+title: Fxbahvi Qqezrar Vytkisol NV - 2011-6-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:62fc5390-5ec9-4c88-a12f-82351a08463c][Fxbahvi Qqezrar Vytkisol]]
+- date :: 2011-6-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

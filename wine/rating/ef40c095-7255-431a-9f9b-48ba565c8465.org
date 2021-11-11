@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ef40c095-7255-431a-9f9b-48ba565c8465
+:END:
+#+title: Ibde Iowlof Xbtm Fgnoee NV - 2019-9-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:1f28cc1c-3585-4836-9dc4-7c5294063d0a][Ibde Iowlof Xbtm Fgnoee]]
+- date :: 2019-9-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e2c958c8-05ec-474f-a6b6-6661f354cad6
+:END:
+#+title: Mabtcl Miuoflx Ftbvyfjx Dvnutxor 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Ftbvyfjx Dvnutxor
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 12.0
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 6.0
+- ratings :: [[id:7c9c4044-1cf3-4481-9317-78317d5ff291][Mabtcl Miuoflx Ftbvyfjx Dvnutxor NV - 1993-4-18]]

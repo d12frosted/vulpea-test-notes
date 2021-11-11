@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       337a7922-bdd0-4b55-8cd5-1fbb218588d2
+:END:
+#+title: Ajkygaf Emnb Cvsv Lnl 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Cvsv Lnl
+- vintage :: 1995
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.8
+- sugar :: 20.88
+- price :: 16.79 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       1cc45562-edc9-44f6-956f-448cd2083f38
+:END:
+#+title: Xhbm Ivkkrawf Njmnw 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Ivkkrawf Njmnw
+- vintage :: 1900
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.48
+- sugar :: 0.42
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:83fb9933-d969-413d-b0ab-642dcbadd6a9][Xhbm Ivkkrawf Njmnw 1900 - 1994-7-20]]

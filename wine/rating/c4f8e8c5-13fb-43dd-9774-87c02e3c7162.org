@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c4f8e8c5-13fb-43dd-9774-87c02e3c7162
+:END:
+#+title: Mabtcl Miuoflx Uxyxvy Wvnw 1910 - 2017-9-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:bff93f4c-5417-4bbe-a7b6-c000e3616b36][Mabtcl Miuoflx Uxyxvy Wvnw 1910]]
+- date :: 2017-9-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

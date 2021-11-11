@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6f70016f-ce5b-40a0-949d-b568b4e27dbf
+:END:
+#+title: Hppbtt Vgtitooy Ulihyx 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Vgtitooy Ulihyx
+- vintage :: 1981
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 12.17
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

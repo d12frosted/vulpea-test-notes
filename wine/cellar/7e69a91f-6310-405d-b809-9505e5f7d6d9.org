@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7e69a91f-6310-405d-b809-9505e5f7d6d9
+:END:
+#+title: Ajkygaf Emnb Xucz 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Xucz
+- vintage :: 1904
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 9.14
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

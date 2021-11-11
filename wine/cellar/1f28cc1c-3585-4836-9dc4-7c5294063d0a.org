@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1f28cc1c-3585-4836-9dc4-7c5294063d0a
+:END:
+#+title: Ibde Iowlof Xbtm Fgnoee 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Xbtm Fgnoee
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 9.61
+- sugar :: 12.31
+- price :: 95.05 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:ef40c095-7255-431a-9f9b-48ba565c8465][Ibde Iowlof Xbtm Fgnoee NV - 2019-9-13]]

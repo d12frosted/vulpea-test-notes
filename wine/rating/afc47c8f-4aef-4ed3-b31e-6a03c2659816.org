@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       afc47c8f-4aef-4ed3-b31e-6a03c2659816
+:END:
+#+title: Ajkygaf Emnb Ucadw NV - 2010-8-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:1a1595f3-3d9e-4d23-a9ad-5ff92236de8d][Ajkygaf Emnb Ucadw]]
+- date :: 2010-8-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

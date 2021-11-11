@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bf166f52-b9a0-4843-8b91-8a0c9460c9f8
+:END:
+#+title: Xnxdlsx Aanr NV - 2007-7-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:05055388-6127-45a3-96c4-bfbdffb57262][Xnxdlsx Aanr]]
+- date :: 2007-7-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

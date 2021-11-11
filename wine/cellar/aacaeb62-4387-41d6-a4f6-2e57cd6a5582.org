@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aacaeb62-4387-41d6-a4f6-2e57cd6a5582
+:END:
+#+title: Fxbahvi Qqezrar Nodovhog 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Nodovhog
+- vintage :: 1991
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 10.879999999999999
+- sugar :: 22.68
+- price :: 51.18 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7db70e6a-f1e6-4d71-b906-1ecc331072a8
+:END:
+#+title: Mabtcl Miuoflx Jim 1986 - 2010-7-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:d46517e2-6b76-4fad-b762-5a95f13b8a11][Mabtcl Miuoflx Jim 1986]]
+- date :: 2010-7-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

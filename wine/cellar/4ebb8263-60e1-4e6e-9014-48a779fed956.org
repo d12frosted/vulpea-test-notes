@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4ebb8263-60e1-4e6e-9014-48a779fed956
+:END:
+#+title: Fxbahvi Qqezrar Rpyivh 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Rpyivh
+- vintage :: 1986
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 13.08
+- sugar :: 16.46
+- price :: 54.62 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

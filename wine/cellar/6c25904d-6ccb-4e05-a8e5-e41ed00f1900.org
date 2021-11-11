@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6c25904d-6ccb-4e05-a8e5-e41ed00f1900
+:END:
+#+title: Wdcfn Yrra Itsaxh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Itsaxh
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 13.870000000000001
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

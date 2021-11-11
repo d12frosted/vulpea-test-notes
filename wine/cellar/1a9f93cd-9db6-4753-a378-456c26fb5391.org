@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1a9f93cd-9db6-4753-a378-456c26fb5391
+:END:
+#+title: Hppbtt Fxkw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fxkw
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 10.36
+- sugar :: 13.41
+- price :: 33.13 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

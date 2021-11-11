@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       64fa3623-650e-46fb-91c3-6d0d7ac19ff0
+:END:
+#+title: Mgdu Ykvb 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ykvb
+- vintage :: 1944
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 13.4
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 5.5
+- ratings :: [[id:7fc7d481-e426-49fa-bdd0-52bad66e0681][Mgdu Ykvb 1944 - 2004-3-1]]

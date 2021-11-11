@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7a1c66b9-14cd-4fff-84dd-5b668fe735fe
+:END:
+#+title: Xhbm Wtk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Wtk
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 13.02
+- price :: 64.15 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

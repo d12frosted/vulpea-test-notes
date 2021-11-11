@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9ef5a698-0cf1-4305-8c22-a547c2fc5eef
+:END:
+#+title: Wdcfn Yrra Fqcf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Fqcf
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 9.5
+- sugar :: 15.75
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

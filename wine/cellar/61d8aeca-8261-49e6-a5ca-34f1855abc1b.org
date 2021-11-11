@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       61d8aeca-8261-49e6-a5ca-34f1855abc1b
+:END:
+#+title: Ajkygaf Emnb Ogfqwq Fvkvpq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ogfqwq Fvkvpq
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 9.95
+- sugar :: 23.38
+- price :: 76.64 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 2.5
+- ratings :: [[id:c7dcc4d5-1a74-44fd-8cc0-f5825cf87b17][Ajkygaf Emnb Ogfqwq Fvkvpq NV - 2017-12-4]]

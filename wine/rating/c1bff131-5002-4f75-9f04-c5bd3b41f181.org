@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c1bff131-5002-4f75-9f04-c5bd3b41f181
+:END:
+#+title: Ibde Iowlof Iwmlsjo NV - 2002-4-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:b4fced28-ae09-491a-a546-b5d321f7bd06][Ibde Iowlof Iwmlsjo]]
+- date :: 2002-4-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5d62e35a-c826-4d24-902f-974df29fbd8e
+:END:
+#+title: Xhbm Rnsu Agxkctgq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Rnsu Agxkctgq
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 12.94
+- sugar :: 14.76
+- price :: 88.55 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

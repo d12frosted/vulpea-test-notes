@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e6af2a2e-2e2f-4ac7-a6b5-3fe15a0ee80d
+:END:
+#+title: Mgdu Nbj 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Nbj
+- vintage :: 1921
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 9.77
+- price :: 73.22 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 6.0
+- ratings :: [[id:8082b741-7370-43a3-96c0-c8a2d7f8554f][Mgdu Nbj 1921 - 2010-2-27]]

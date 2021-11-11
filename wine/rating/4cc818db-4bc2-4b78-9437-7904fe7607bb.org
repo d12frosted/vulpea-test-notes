@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4cc818db-4bc2-4b78-9437-7904fe7607bb
+:END:
+#+title: Mgdu Kav Qrvyh 1966 - 2013-2-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:848d341f-7209-42c1-a0ad-9126bfd55ddf][Mgdu Kav Qrvyh 1966]]
+- date :: 2013-2-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

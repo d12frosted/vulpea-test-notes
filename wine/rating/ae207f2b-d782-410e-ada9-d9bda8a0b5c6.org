@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ae207f2b-d782-410e-ada9-d9bda8a0b5c6
+:END:
+#+title: Fxbahvi Qqezrar Inlrinvu NV - 1992-5-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:cc0ea7d5-f978-46ba-8db6-64fa4bb6da78][Fxbahvi Qqezrar Inlrinvu]]
+- date :: 1992-5-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

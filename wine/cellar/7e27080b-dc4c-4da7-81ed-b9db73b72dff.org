@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       7e27080b-dc4c-4da7-81ed-b9db73b72dff
+:END:
+#+title: Xhbm Zncvqnz Ocnfv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Zncvqnz Ocnfv
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 10.5
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

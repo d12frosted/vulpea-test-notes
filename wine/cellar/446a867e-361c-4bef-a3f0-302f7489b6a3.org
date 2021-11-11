@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       446a867e-361c-4bef-a3f0-302f7489b6a3
+:END:
+#+title: Wdcfn Yrra Zkdqw Lkr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Zkdqw Lkr
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 13.54
+- price :: 67.96 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

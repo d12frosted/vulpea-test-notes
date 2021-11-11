@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       25ebd2d2-db63-414a-82b2-c65cbafa2443
+:END:
+#+title: Ibde Iowlof Fio 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Fio
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.79
+- sugar :: 22.96
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:addb380a-3d66-4bff-b722-95c532336746][Ibde Iowlof Fio NV - 2015-6-26]]

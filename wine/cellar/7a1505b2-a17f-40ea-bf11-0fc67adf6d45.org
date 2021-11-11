@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7a1505b2-a17f-40ea-bf11-0fc67adf6d45
+:END:
+#+title: Fxbahvi Qqezrar Ijnsafmn 1912
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Ijnsafmn
+- vintage :: 1912
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 9.93
+- sugar :: 0.52
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

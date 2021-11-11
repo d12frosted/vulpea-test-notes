@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       943d24cd-fa39-4285-8c43-5df1247262e7
+:END:
+#+title: Xhbm Tnprpbl Nxfdokoj 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Tnprpbl Nxfdokoj
+- vintage :: 1991
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.86
+- sugar :: 22.96
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:29dfab7a-603c-4bae-874c-c1370787ba1b][Xhbm Tnprpbl Nxfdokoj 1991 - 2019-2-24]]

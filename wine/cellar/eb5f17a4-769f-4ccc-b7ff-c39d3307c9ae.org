@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       eb5f17a4-769f-4ccc-b7ff-c39d3307c9ae
+:END:
+#+title: Mabtcl Miuoflx Txia 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Txia
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 11.8
+- sugar :: 3.05
+- price :: 67.46 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

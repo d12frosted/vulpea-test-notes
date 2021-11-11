@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d0c983a7-2ebd-495f-b0ea-d97ed68f7203
+:END:
+#+title: Bhpgaqm Pslnklf Bfinpf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Bfinpf
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 10.14
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:ac882d71-0ad3-4800-b3ac-a21776bbba64][Bhpgaqm Pslnklf Bfinpf NV - 2005-9-21]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       25516326-bfc1-49e4-9bcf-c93432fcf621
+:END:
+#+title: Ajkygaf Emnb Aqr 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Aqr
+- vintage :: 2001
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 11.51
+- sugar :: 2.44
+- price :: 102.86 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

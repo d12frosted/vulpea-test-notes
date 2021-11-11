@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a8cf1f8c-77b0-41ae-9e0c-6373f8cca37a
+:END:
+#+title: Xnxdlsx Uvcihg Tusx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Uvcihg Tusx
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.11
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dcda47d8-1279-4a0d-84c1-89bb9e0d21cd
+:END:
+#+title: Fxbahvi Qqezrar Zdlh NV - 2016-2-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:ecffdc6d-fdfa-459e-b975-2a6578a3cf43][Fxbahvi Qqezrar Zdlh]]
+- date :: 2016-2-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

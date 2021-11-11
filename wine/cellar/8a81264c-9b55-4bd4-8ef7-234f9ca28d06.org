@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8a81264c-9b55-4bd4-8ef7-234f9ca28d06
+:END:
+#+title: Xnxdlsx Jcbq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Jcbq
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 9.34
+- sugar :: 12.81
+- price :: 15.98 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

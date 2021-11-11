@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       106a6654-6ae0-4642-947f-efe1dbe3368f
+:END:
+#+title: Xnxdlsx Clwxir NV - 2022-10-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:bd93201a-81e9-4cc4-8cf9-564675c1a850][Xnxdlsx Clwxir]]
+- date :: 2022-10-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

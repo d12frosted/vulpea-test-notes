@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       52ba7fc3-c44a-46de-96e5-6b8c6bb73886
+:END:
+#+title: Xnxdlsx Dbimy NV - 1996-5-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:cce2f363-3dfc-4f35-a78d-2e7d4bee1743][Xnxdlsx Dbimy]]
+- date :: 1996-5-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

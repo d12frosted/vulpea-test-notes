@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       75371f5c-10a6-4b20-9940-3231d37b4e00
+:END:
+#+title: Ajkygaf Emnb Apehomhj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Apehomhj
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 12.82
+- price :: 39.29 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:ed8e85a1-1005-4c93-9616-841b59a5f412][Ajkygaf Emnb Apehomhj NV - 2024-1-21]]

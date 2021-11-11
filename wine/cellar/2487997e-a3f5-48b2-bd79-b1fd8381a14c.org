@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2487997e-a3f5-48b2-bd79-b1fd8381a14c
+:END:
+#+title: Hppbtt Xth Isvxjesn 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Xth Isvxjesn
+- vintage :: 1983
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 12.95
+- sugar :: 22.62
+- price :: 44.70 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:7da803dc-b6b6-4862-9186-532cee7cb1f3][Hppbtt Xth Isvxjesn 1983 - 2007-11-9]]

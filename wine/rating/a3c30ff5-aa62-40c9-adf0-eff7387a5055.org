@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a3c30ff5-aa62-40c9-adf0-eff7387a5055
+:END:
+#+title: Mgdu Wdouwxv Uiwde 1974 - 2024-1-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:0523a657-543d-46c1-9e53-0fabc8d120cf][Mgdu Wdouwxv Uiwde 1974]]
+- date :: 2024-1-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

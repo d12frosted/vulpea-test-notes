@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8ff5aab3-7ec5-4233-b63b-da02a666c528
+:END:
+#+title: Wdcfn Yrra Fgxbns Oul 1943 - 1990-2-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:941acdee-9b14-4b9f-a0c1-41cc5454a1f4][Wdcfn Yrra Fgxbns Oul 1943]]
+- date :: 1990-2-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

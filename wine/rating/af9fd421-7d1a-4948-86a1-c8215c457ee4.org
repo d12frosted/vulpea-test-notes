@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       af9fd421-7d1a-4948-86a1-c8215c457ee4
+:END:
+#+title: Ajkygaf Emnb Ftqtza Wkc 1926 - 1996-10-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:7bbbe167-047b-438f-a036-85ae98932103][Ajkygaf Emnb Ftqtza Wkc 1926]]
+- date :: 1996-10-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

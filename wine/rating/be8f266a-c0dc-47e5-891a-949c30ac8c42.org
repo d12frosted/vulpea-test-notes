@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       be8f266a-c0dc-47e5-891a-949c30ac8c42
+:END:
+#+title: Wdcfn Yrra Ghuabpk Awd NV - 1991-8-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:79480fe8-1aac-427e-8ec8-47060343973f][Wdcfn Yrra Ghuabpk Awd]]
+- date :: 1991-8-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dcd9c113-c033-437d-b202-bcaf7c3f6de2
+:END:
+#+title: Xhbm Sevvthvq NV - 2020-11-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:1afa3ec5-fa8f-4054-b0cd-76daa7c4385f][Xhbm Sevvthvq]]
+- date :: 2020-11-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

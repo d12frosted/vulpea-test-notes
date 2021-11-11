@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4195d510-edbb-4e6b-9508-0ccb72445dc1
+:END:
+#+title: Fxbahvi Qqezrar Ieyultmh Lxg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Ieyultmh Lxg
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.93
+- price :: 28.52 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.5
+- ratings :: [[id:99e0e706-f3b8-4e04-8ab6-4b8f0c24b91c][Fxbahvi Qqezrar Ieyultmh Lxg NV - 2014-5-27]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6f08b22c-c0bf-4655-b44d-3f801b451ef1
+:END:
+#+title: Wdcfn Yrra Sreelbv NV - 1995-10-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:7b396618-7526-4627-9b36-1d6f19229215][Wdcfn Yrra Sreelbv]]
+- date :: 1995-10-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

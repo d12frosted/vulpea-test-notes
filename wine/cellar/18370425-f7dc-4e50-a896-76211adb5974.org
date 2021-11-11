@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       18370425-f7dc-4e50-a896-76211adb5974
+:END:
+#+title: Wdcfn Yrra Zhyoq Vtn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Zhyoq Vtn
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 12.77
+- sugar :: 23.11
+- price :: 96.92 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8db92437-1c75-45b2-a5bb-7141a98abf44
+:END:
+#+title: Wdcfn Yrra Snf Kut NV - 2004-5-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:5fe5baf8-cbcc-4b4e-a230-db6e4600de0d][Wdcfn Yrra Snf Kut]]
+- date :: 2004-5-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

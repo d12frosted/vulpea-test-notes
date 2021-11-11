@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f74d94c9-016c-45bf-9f6c-7017833cda67
+:END:
+#+title: Xhbm Kfnhzqto Bicegecc 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Kfnhzqto Bicegecc
+- vintage :: 1994
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 12.9
+- price :: 26.45 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA

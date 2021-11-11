@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4c1f60cf-4cae-4bf3-a877-871586edde2f
+:END:
+#+title: Mgdu Ookoxx Wgkh 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ookoxx Wgkh
+- vintage :: 2007
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 9.6
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

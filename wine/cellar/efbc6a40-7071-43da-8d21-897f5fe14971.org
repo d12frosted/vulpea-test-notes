@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       efbc6a40-7071-43da-8d21-897f5fe14971
+:END:
+#+title: Bhpgaqm Pslnklf Uuzupye 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Uuzupye
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 11.71
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

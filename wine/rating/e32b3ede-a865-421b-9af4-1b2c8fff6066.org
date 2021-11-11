@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e32b3ede-a865-421b-9af4-1b2c8fff6066
+:END:
+#+title: Mabtcl Miuoflx Hqttmkr Joriirw NV - 2021-7-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:f3752d23-f8d8-4ba3-9646-1eeee7b81ebf][Mabtcl Miuoflx Hqttmkr Joriirw]]
+- date :: 2021-7-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

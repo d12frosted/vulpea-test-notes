@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       db4975fe-60fb-487c-b332-0d9cb6d2cd0e
+:END:
+#+title: Ajkygaf Emnb Jamztuai Sxpzd NV - 2009-8-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:ef45a4c8-569f-4eca-a1bc-b0f742fa1cda][Ajkygaf Emnb Jamztuai Sxpzd]]
+- date :: 2009-8-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

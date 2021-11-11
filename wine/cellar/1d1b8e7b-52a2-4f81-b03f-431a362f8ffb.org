@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1d1b8e7b-52a2-4f81-b03f-431a362f8ffb
+:END:
+#+title: Ibde Iowlof Kko Pilr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Kko Pilr
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 12.870000000000001
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

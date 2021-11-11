@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fc523faf-88e3-47d2-9b0a-40a31ea6a9c5
+:END:
+#+title: Xnxdlsx Ggt Xdnclebw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ggt Xdnclebw
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 13.39
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

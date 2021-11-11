@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       57625bed-8151-42b4-ba7a-ad6c1b9f89d0
+:END:
+#+title: Bhpgaqm Pslnklf Wukcjd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Wukcjd
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 9.63
+- price :: 46.37 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

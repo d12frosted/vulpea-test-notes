@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2b18894f-8c20-46f7-b643-bbd2d60eb7da
+:END:
+#+title: Fxbahvi Qqezrar Xumbr Goohggp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Xumbr Goohggp
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 9.69
+- sugar :: 23.68
+- price :: 7.95 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

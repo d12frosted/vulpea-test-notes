@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0872b2e1-6e8b-4bd1-aadf-365252ea5eb0
+:END:
+#+title: Mgdu Diy 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Diy
+- vintage :: 1964
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 10.870000000000001
+- sugar :: 12.02
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

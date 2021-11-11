@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e9c3c6b1-14b3-4821-9e75-cb49b478737f
+:END:
+#+title: Xhbm Wxeu Xvyeew 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Wxeu Xvyeew
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 9.4
+- sugar :: 13.98
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       db3aa071-fd2b-4208-8221-8801cdf96422
+:END:
+#+title: Wdcfn Yrra Ymbvdd Tptm NV - 2017-3-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:7b4edf90-6972-495c-8bd2-50a53bee847e][Wdcfn Yrra Ymbvdd Tptm]]
+- date :: 2017-3-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

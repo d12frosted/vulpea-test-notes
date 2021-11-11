@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       23c7585e-249c-45b9-bba8-87d4ac1769b1
+:END:
+#+title: Ibde Iowlof Gvaa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Gvaa
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 10.47
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

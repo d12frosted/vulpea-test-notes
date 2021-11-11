@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f5a2eb21-f04b-4ff2-b130-94dfa8c41af1
+:END:
+#+title: Wdcfn Yrra Sjwdld 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Sjwdld
+- vintage :: 1942
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 12.96
+- sugar :: 5.56
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:e60e1e2c-4963-4f2b-ae3a-ecbb270e9793][Wdcfn Yrra Sjwdld 1942 - 2013-10-5]]

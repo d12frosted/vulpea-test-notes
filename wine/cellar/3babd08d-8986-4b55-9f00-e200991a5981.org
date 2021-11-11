@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3babd08d-8986-4b55-9f00-e200991a5981
+:END:
+#+title: Bhpgaqm Pslnklf Bln 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Bln
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 9.21
+- sugar :: 0.4
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:b3791c9c-6a6d-49ee-a546-06755c48b3be][Bhpgaqm Pslnklf Bln NV - 1998-10-7]]

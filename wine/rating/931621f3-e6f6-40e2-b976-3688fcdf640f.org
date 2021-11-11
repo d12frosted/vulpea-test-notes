@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       931621f3-e6f6-40e2-b976-3688fcdf640f
+:END:
+#+title: Fxbahvi Qqezrar Rjr 2012 - 1991-6-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:2cdacfcd-906c-4042-a215-ee56340f51d4][Fxbahvi Qqezrar Rjr 2012]]
+- date :: 1991-6-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

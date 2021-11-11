@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b61da5da-38ce-4d3f-9631-4ff8740bf494
+:END:
+#+title: Fxbahvi Qqezrar Ehaqafkv Iyi 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Ehaqafkv Iyi
+- vintage :: 1943
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 12.15
+- price :: 69.77 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

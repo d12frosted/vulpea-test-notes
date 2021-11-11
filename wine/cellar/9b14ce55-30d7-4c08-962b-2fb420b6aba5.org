@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9b14ce55-30d7-4c08-962b-2fb420b6aba5
+:END:
+#+title: Ibde Iowlof Gloswuwo Uaporxa 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Gloswuwo Uaporxa
+- vintage :: 1970
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 12.52
+- sugar :: 17.72
+- price :: 100.77 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

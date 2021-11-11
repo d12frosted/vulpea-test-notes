@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       23d354ea-781c-4506-81f4-ea921698ac1f
+:END:
+#+title: Bhpgaqm Pslnklf Srnwhfpy 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Srnwhfpy
+- vintage :: 1909
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 10.22
+- sugar :: 12.82
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA

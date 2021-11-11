@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       30bd01b6-133e-48e3-9ee6-4607c5a4dcd7
+:END:
+#+title: Hppbtt Xtmxkard Vnypwiu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Xtmxkard Vnypwiu
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.19
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.0
+- ratings :: [[id:34fcfcca-6c0d-46ae-833d-ed61752a5a35][Hppbtt Xtmxkard Vnypwiu NV - 2008-3-22]]

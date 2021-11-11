@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a5aa7d17-337e-48aa-87d6-fabdfcfe313c
+:END:
+#+title: Ajkygaf Emnb Twkcyi Mghtcuw 1934 - 2009-1-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:74798a14-5d5a-4e9f-8fbe-46d0bce9c69c][Ajkygaf Emnb Twkcyi Mghtcuw 1934]]
+- date :: 2009-1-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

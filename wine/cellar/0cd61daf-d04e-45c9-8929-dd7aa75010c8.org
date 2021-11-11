@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0cd61daf-d04e-45c9-8929-dd7aa75010c8
+:END:
+#+title: Xnxdlsx Lnqfm Knlrvv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Lnqfm Knlrvv
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 12.41
+- price :: 38.00 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

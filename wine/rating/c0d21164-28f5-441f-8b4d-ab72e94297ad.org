@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c0d21164-28f5-441f-8b4d-ab72e94297ad
+:END:
+#+title: Mgdu Oxvuqge Wfg NV - 2023-5-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:59b0990b-11b7-47c8-bd49-caa1eb00c7b1][Mgdu Oxvuqge Wfg]]
+- date :: 2023-5-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

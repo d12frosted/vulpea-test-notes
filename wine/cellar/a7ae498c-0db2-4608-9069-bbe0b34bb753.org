@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a7ae498c-0db2-4608-9069-bbe0b34bb753
+:END:
+#+title: Fxbahvi Qqezrar Pqhkqfl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Pqhkqfl
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 9.95
+- sugar :: 1.46
+- price :: 66.34 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

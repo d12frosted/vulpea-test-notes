@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3206fda0-f093-47d4-9859-75b80073f978
+:END:
+#+title: Fxbahvi Qqezrar Svr Ekpendvf NV - 1996-8-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:b3d34824-6641-4533-8cef-2856faa23228][Fxbahvi Qqezrar Svr Ekpendvf]]
+- date :: 1996-8-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7c49f56d-de10-464a-81e2-d0f0dacd03b8
+:END:
+#+title: Ajkygaf Emnb Aew 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Aew
+- vintage :: 1957
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 11.53
+- price :: 18.09 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

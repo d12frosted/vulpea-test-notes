@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a478c086-e447-4fd8-b17f-bf58f95fdfac
+:END:
+#+title: Fxbahvi Qqezrar Qglo Afi 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Qglo Afi
+- vintage :: 1990
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 13.65
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 2.5
+- ratings :: [[id:4407ec64-d724-4e02-8457-4120feb93e19][Fxbahvi Qqezrar Qglo Afi 1990 - 2005-12-4]]

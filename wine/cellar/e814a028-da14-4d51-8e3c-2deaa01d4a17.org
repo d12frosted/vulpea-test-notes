@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       e814a028-da14-4d51-8e3c-2deaa01d4a17
+:END:
+#+title: Fxbahvi Qqezrar Vownk 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Vownk
+- vintage :: 1981
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.93
+- sugar :: 14.82
+- price :: 90.58 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:944c2231-2e1e-411c-816b-a65fcbadcb2c][Fxbahvi Qqezrar Vownk 1981 - 2005-4-15]]

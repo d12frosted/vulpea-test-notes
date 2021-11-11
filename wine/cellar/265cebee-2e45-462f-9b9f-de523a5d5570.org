@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       265cebee-2e45-462f-9b9f-de523a5d5570
+:END:
+#+title: Xnxdlsx Vff 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Vff
+- vintage :: 1962
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 11.83
+- sugar :: 8.01
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

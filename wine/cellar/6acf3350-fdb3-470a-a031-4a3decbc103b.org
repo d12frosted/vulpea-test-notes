@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6acf3350-fdb3-470a-a031-4a3decbc103b
+:END:
+#+title: Fxbahvi Qqezrar Tlq Nngzs 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Tlq Nngzs
+- vintage :: 1915
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 10.7
+- sugar :: 21.13
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

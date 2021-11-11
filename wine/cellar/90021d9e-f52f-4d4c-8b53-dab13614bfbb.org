@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       90021d9e-f52f-4d4c-8b53-dab13614bfbb
+:END:
+#+title: Mgdu Yrrbif 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Yrrbif
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.379999999999999
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:7497c01f-6884-4903-a56d-7e7ed5d798c7][Mgdu Yrrbif NV - 2010-5-18]]

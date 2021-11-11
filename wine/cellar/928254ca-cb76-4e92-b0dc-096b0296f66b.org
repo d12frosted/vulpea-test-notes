@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       928254ca-cb76-4e92-b0dc-096b0296f66b
+:END:
+#+title: Hppbtt Urnyoish 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Urnyoish
+- vintage :: 1908
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.51
+- price :: 56.03 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

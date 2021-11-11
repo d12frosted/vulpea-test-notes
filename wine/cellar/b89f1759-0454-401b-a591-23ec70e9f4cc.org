@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b89f1759-0454-401b-a591-23ec70e9f4cc
+:END:
+#+title: Wdcfn Yrra Bmy 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Bmy
+- vintage :: 1948
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 12.8
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

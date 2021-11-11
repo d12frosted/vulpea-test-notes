@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0b5d8024-3255-4632-a03f-dc77d7bf8a53
+:END:
+#+title: Xnxdlsx Mpef 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Mpef
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.46
+- price :: 47.25 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: wikipedia
+- rating :: 7.0
+- ratings :: [[id:d9e801f6-3285-400b-882d-8ce6648328ea][Xnxdlsx Mpef NV - 2006-8-11]]

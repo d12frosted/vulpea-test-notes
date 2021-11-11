@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b9d7dd49-2b92-4009-8c98-fe4b192d82e5
+:END:
+#+title: Ibde Iowlof Nqiykhk 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Nqiykhk
+- vintage :: 1973
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 9.26
+- sugar :: 19.88
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

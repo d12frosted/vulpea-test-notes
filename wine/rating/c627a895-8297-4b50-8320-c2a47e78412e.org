@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c627a895-8297-4b50-8320-c2a47e78412e
+:END:
+#+title: Hppbtt Ihfx 1985 - 2008-9-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:bf57fce4-c850-4d16-adfc-f9b8e1a53189][Hppbtt Ihfx 1985]]
+- date :: 2008-9-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

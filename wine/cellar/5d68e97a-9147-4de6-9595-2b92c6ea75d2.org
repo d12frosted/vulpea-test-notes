@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5d68e97a-9147-4de6-9595-2b92c6ea75d2
+:END:
+#+title: Hppbtt Fdyprfa 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fdyprfa
+- vintage :: 1908
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 12.0
+- sugar :: 17.73
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

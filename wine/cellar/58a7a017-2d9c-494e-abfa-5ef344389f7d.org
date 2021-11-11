@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       58a7a017-2d9c-494e-abfa-5ef344389f7d
+:END:
+#+title: Xnxdlsx Yqocgbm Didu 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Yqocgbm Didu
+- vintage :: 2010
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.83
+- sugar :: 18.12
+- price :: 71.88 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

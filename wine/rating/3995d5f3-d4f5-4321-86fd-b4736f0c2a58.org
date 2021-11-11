@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3995d5f3-d4f5-4321-86fd-b4736f0c2a58
+:END:
+#+title: Hppbtt Kswmniq Ziy NV - 2003-1-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:aee9c52c-b409-48e8-a3a9-908f82e7a0ac][Hppbtt Kswmniq Ziy]]
+- date :: 2003-1-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5d9b482c-e54b-4f19-b2c4-8607575db67b
+:END:
+#+title: Wdcfn Yrra Esgpaqn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Esgpaqn
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.97
+- sugar :: 13.07
+- price :: 62.98 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:555838be-51b4-44c6-ac95-fac924b67a36][Wdcfn Yrra Esgpaqn NV - 1997-2-24]]

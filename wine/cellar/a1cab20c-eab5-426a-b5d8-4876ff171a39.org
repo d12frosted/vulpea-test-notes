@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a1cab20c-eab5-426a-b5d8-4876ff171a39
+:END:
+#+title: Mabtcl Miuoflx Vuwk Exwe 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Vuwk Exwe
+- vintage :: 1989
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 9.6
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

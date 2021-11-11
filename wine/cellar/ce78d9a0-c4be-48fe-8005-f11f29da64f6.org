@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ce78d9a0-c4be-48fe-8005-f11f29da64f6
+:END:
+#+title: Mabtcl Miuoflx Yrp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Yrp
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 10.47
+- sugar :: 5.34
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:69c674d0-3f85-4d39-9c38-e541633e84bd][Mabtcl Miuoflx Yrp NV - 1994-1-5]]

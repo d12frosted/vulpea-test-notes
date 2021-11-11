@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4ae2585e-da36-46ef-acb3-1d837555c04c
+:END:
+#+title: Wdcfn Yrra Ngm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Ngm
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.620000000000001
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 6.0
+- ratings :: [[id:63f25bdc-e3d6-487f-bd38-bd1bcf0379ab][Wdcfn Yrra Ngm NV - 2013-6-6]]

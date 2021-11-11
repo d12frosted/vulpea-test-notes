@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       31352ba5-dc17-4cca-abea-83a3cf64d4f1
+:END:
+#+title: Xhbm Abjnmv NV - 1992-11-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:6d08e290-f1c8-4b1b-8b4d-35db654a09fe][Xhbm Abjnmv]]
+- date :: 1992-11-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

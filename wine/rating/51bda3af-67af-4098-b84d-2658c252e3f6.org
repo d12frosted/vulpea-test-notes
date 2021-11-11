@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       51bda3af-67af-4098-b84d-2658c252e3f6
+:END:
+#+title: Fxbahvi Qqezrar Ahl Ddkaw NV - 2013-5-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:ead504f2-e5bb-4087-9cf7-9113910c307e][Fxbahvi Qqezrar Ahl Ddkaw]]
+- date :: 2013-5-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

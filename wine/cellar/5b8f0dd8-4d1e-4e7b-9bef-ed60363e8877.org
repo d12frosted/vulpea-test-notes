@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5b8f0dd8-4d1e-4e7b-9bef-ed60363e8877
+:END:
+#+title: Ibde Iowlof Dgnxq Wzma 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Dgnxq Wzma
+- vintage :: 1979
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 10.89
+- sugar :: 14.05
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

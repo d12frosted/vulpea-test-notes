@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       dab84136-b69b-4a76-b139-898d40261ece
+:END:
+#+title: Bhpgaqm Pslnklf Rvggg Yqpnxen 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Rvggg Yqpnxen
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.29
+- price :: 93.42 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:5c0b98b3-76e7-41e7-9e5a-94cd2337c5ab][Bhpgaqm Pslnklf Rvggg Yqpnxen NV - 1993-2-19]]

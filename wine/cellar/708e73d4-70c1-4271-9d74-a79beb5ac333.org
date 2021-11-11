@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       708e73d4-70c1-4271-9d74-a79beb5ac333
+:END:
+#+title: Wdcfn Yrra Pyvzjq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Pyvzjq
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.66
+- sugar :: 1.04
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

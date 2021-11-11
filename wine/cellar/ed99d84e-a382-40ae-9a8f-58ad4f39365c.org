@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ed99d84e-a382-40ae-9a8f-58ad4f39365c
+:END:
+#+title: Bhpgaqm Pslnklf Wgoemvuz 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Wgoemvuz
+- vintage :: 1962
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 13.08
+- sugar :: 9.2
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

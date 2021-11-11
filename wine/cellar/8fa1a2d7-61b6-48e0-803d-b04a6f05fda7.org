@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8fa1a2d7-61b6-48e0-803d-b04a6f05fda7
+:END:
+#+title: Bhpgaqm Pslnklf Wddygzx 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Wddygzx
+- vintage :: 1905
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 10.379999999999999
+- price :: 11.44 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:bbecb732-48ec-4103-943a-5d7bffa56de3][Bhpgaqm Pslnklf Wddygzx 1905 - 2021-2-8]]

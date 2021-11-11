@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c2980ceb-bf31-46ab-9ceb-4562c9eb7b2b
+:END:
+#+title: Bhpgaqm Pslnklf Vjvjfmrc Xwbtelkz 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Vjvjfmrc Xwbtelkz
+- vintage :: 1954
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 10.0
+- sugar :: 0.18
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 5.0
+- ratings :: [[id:1917feb5-dc54-4f17-8b23-3585f403575b][Bhpgaqm Pslnklf Vjvjfmrc Xwbtelkz 1954 - 2013-9-23]]

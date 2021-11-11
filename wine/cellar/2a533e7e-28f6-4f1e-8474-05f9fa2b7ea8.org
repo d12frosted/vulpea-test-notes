@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2a533e7e-28f6-4f1e-8474-05f9fa2b7ea8
+:END:
+#+title: Hppbtt Llzxdkwy Ovrmxi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Llzxdkwy Ovrmxi
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.89
+- price :: 7.74 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

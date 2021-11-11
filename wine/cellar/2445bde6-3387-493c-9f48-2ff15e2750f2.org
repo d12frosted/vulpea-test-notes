@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2445bde6-3387-493c-9f48-2ff15e2750f2
+:END:
+#+title: Mgdu Cgqrwwhg Bxopvmkj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Cgqrwwhg Bxopvmkj
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 13.309999999999999
+- sugar :: 19.27
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 5.0
+- ratings :: [[id:68242dcf-8dbf-4a87-bd4c-ae4988afdc07][Mgdu Cgqrwwhg Bxopvmkj NV - 2009-1-16]]

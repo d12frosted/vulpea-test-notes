@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       206ed693-475d-4d53-9468-804a44175242
+:END:
+#+title: Wdcfn Yrra Msi 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Msi
+- vintage :: 2001
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 10.78
+- sugar :: 3.46
+- price :: 60.89 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

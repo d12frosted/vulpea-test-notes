@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8cc2fea3-d4ce-469c-b724-83e9a3293b4a
+:END:
+#+title: Mgdu Ovnoibd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ovnoibd
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 11.2
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

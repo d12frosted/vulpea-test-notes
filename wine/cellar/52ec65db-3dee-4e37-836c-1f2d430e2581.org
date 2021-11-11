@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       52ec65db-3dee-4e37-836c-1f2d430e2581
+:END:
+#+title: Hppbtt Smfgis Vrgvc 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Smfgis Vrgvc
+- vintage :: 2004
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 13.7
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

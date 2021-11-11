@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       988818a8-62aa-4ba9-a3ec-4b76d2ea1ef0
+:END:
+#+title: Bhpgaqm Pslnklf Bbcr 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Bbcr
+- vintage :: 1910
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 9.82
+- sugar :: 15.49
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:2076feb6-b1fb-49e0-8fc4-140fee7ff539][Bhpgaqm Pslnklf Bbcr 1910 - 2010-7-10]]

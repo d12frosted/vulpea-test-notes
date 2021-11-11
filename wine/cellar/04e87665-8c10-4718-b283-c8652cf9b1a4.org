@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       04e87665-8c10-4718-b283-c8652cf9b1a4
+:END:
+#+title: Xnxdlsx Zidu Awqrf 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Zidu Awqrf
+- vintage :: 1930
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 11.75
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3bce1bce-eb79-4fa6-84ca-ed94df5c3a70
+:END:
+#+title: Mgdu Ecpbx Njcfj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ecpbx Njcfj
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 9.81
+- price :: 28.99 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:c7dfa79b-a3b7-4172-aa1a-d8f8270024bc][Mgdu Ecpbx Njcfj NV - 2018-10-16]]

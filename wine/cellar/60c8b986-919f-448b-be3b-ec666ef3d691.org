@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       60c8b986-919f-448b-be3b-ec666ef3d691
+:END:
+#+title: Mgdu Kyeh Rgcq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Kyeh Rgcq
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 9.09
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 7.5
+- ratings :: [[id:e7de0c39-db4a-4182-9e75-cb28bdcb2739][Mgdu Kyeh Rgcq NV - 2023-3-17]]

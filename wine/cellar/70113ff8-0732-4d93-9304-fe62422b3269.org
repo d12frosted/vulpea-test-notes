@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       70113ff8-0732-4d93-9304-fe62422b3269
+:END:
+#+title: Ajkygaf Emnb Vshkmjo Zocjtlks 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Vshkmjo Zocjtlks
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 12.2
+- price :: 98.52 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

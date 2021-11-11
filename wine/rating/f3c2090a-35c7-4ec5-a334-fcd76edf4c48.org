@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f3c2090a-35c7-4ec5-a334-fcd76edf4c48
+:END:
+#+title: Hppbtt Xpyta Rpusjy NV - 2014-1-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:52e38cbf-9d5c-42c3-a9e2-771d63e6e905][Hppbtt Xpyta Rpusjy]]
+- date :: 2014-1-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

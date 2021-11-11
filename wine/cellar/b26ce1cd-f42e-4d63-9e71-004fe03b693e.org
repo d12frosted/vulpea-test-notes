@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b26ce1cd-f42e-4d63-9e71-004fe03b693e
+:END:
+#+title: Ajkygaf Emnb Wpaedvfp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Wpaedvfp
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 10.77
+- sugar :: 23.84
+- price :: 12.84 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

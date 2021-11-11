@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3c22082c-e8f9-4a82-bd64-3e428bfb5825
+:END:
+#+title: Ibde Iowlof Ifvradea Qmefkc 1965 - 2018-8-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:efd9016e-11d3-41d7-8e6f-0011afdb5d33][Ibde Iowlof Ifvradea Qmefkc 1965]]
+- date :: 2018-8-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

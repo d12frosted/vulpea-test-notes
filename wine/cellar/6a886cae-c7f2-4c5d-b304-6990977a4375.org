@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6a886cae-c7f2-4c5d-b304-6990977a4375
+:END:
+#+title: Mabtcl Miuoflx Xnwjc 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Xnwjc
+- vintage :: 2008
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 11.17
+- sugar :: 23.82
+- price :: 69.53 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

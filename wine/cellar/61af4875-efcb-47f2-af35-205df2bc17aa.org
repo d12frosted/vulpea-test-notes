@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       61af4875-efcb-47f2-af35-205df2bc17aa
+:END:
+#+title: Hppbtt Igjxtiuy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Igjxtiuy
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 13.2
+- price :: 92.68 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

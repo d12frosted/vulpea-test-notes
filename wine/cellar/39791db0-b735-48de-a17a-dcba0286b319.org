@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       39791db0-b735-48de-a17a-dcba0286b319
+:END:
+#+title: Hppbtt Puwgsmnh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Puwgsmnh
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 13.34
+- sugar :: 22.48
+- price :: 61.73 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 1.5
+- ratings :: [[id:4ed2bd3d-f935-48c7-81f8-2de6864b5b5f][Hppbtt Puwgsmnh NV - 2009-9-23]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7ee2de22-dbd7-41b9-8346-f2c8d5815bfa
+:END:
+#+title: Ajkygaf Emnb Ovpf Hseftbvg 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ovpf Hseftbvg
+- vintage :: 1901
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 10.379999999999999
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

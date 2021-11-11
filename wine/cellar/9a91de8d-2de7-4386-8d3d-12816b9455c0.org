@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9a91de8d-2de7-4386-8d3d-12816b9455c0
+:END:
+#+title: Bhpgaqm Pslnklf Wgk Cccb 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Wgk Cccb
+- vintage :: 1956
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 13.86
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

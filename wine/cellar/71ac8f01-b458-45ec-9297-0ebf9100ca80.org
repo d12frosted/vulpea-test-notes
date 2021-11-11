@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       71ac8f01-b458-45ec-9297-0ebf9100ca80
+:END:
+#+title: Xnxdlsx Rzbepi Kwdvuyym 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Rzbepi Kwdvuyym
+- vintage :: 1915
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 13.2
+- price :: 42.36 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

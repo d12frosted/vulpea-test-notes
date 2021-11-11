@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       89523988-6da5-42b3-b867-bd5114240728
+:END:
+#+title: Bhpgaqm Pslnklf Hlpxb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Hlpxb
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 11.73
+- price :: 94.14 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

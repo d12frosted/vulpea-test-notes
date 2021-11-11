@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cc1d2ede-a50b-4d88-b015-79fe19217c0e
+:END:
+#+title: Wdcfn Yrra Pcv Eei 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Pcv Eei
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 9.67
+- price :: 99.49 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

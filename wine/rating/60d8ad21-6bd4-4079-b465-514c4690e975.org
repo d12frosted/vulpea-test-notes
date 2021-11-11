@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       60d8ad21-6bd4-4079-b465-514c4690e975
+:END:
+#+title: Xhbm Teampsal Ykxh NV - 2010-10-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:11e30d0c-ec63-4eeb-a980-f333f125df1a][Xhbm Teampsal Ykxh]]
+- date :: 2010-10-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

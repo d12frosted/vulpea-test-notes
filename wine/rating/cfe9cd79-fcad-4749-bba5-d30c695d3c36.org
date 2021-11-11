@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cfe9cd79-fcad-4749-bba5-d30c695d3c36
+:END:
+#+title: Xhbm Ebqhze 1911 - 2001-10-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:90078068-8c11-4920-8603-92f83cc06027][Xhbm Ebqhze 1911]]
+- date :: 2001-10-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

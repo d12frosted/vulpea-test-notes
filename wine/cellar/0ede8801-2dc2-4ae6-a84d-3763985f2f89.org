@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0ede8801-2dc2-4ae6-a84d-3763985f2f89
+:END:
+#+title: Wdcfn Yrra Mkqe 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Mkqe
+- vintage :: 1945
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 11.92
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 2.5
+- ratings :: [[id:d4562ff2-d42b-4457-86ae-ec2d931b407d][Wdcfn Yrra Mkqe 1945 - 2015-5-21]]

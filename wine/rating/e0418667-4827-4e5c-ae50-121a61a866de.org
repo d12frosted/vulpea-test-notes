@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e0418667-4827-4e5c-ae50-121a61a866de
+:END:
+#+title: Bhpgaqm Pslnklf Ezcohga Fvxzetja NV - 2009-7-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:c5de8b74-de7f-476d-8041-54b936b0c519][Bhpgaqm Pslnklf Ezcohga Fvxzetja]]
+- date :: 2009-7-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

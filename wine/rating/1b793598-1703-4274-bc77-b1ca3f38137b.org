@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1b793598-1703-4274-bc77-b1ca3f38137b
+:END:
+#+title: Xhbm Uhgqhfwg 1965 - 1998-4-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:e6b5c314-ba9c-4211-b92e-e49ad20458bc][Xhbm Uhgqhfwg 1965]]
+- date :: 1998-4-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

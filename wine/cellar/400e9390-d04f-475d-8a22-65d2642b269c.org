@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       400e9390-d04f-475d-8a22-65d2642b269c
+:END:
+#+title: Hppbtt Hsgruynx Eenxixq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Hsgruynx Eenxixq
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.92
+- price :: 38.86 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 2.0
+- ratings :: [[id:f0440353-022d-4a35-9455-5ad73a48b706][Hppbtt Hsgruynx Eenxixq NV - 1995-12-27]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       befd37fe-b4ef-47a4-b1ae-26ca7145a0de
+:END:
+#+title: Fxbahvi Qqezrar Dufdg 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Dufdg
+- vintage :: 1983
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 11.43
+- sugar :: 21.93
+- price :: 32.18 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

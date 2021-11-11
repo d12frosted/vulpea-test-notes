@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       102dc2f2-3c12-4e93-aad0-fa8a911d088b
+:END:
+#+title: Hppbtt Syd Imxg 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Syd Imxg
+- vintage :: 2018
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 13.04
+- sugar :: 21.46
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

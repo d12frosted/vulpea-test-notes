@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       73e12ae6-adaa-4f91-b94c-6d90796e9937
+:END:
+#+title: Fxbahvi Qqezrar Znfzkgml 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Znfzkgml
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.95
+- sugar :: 19.93
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 7.5
+- ratings :: [[id:a1e9746d-dbc3-4d2c-a90a-f5ded896a670][Fxbahvi Qqezrar Znfzkgml NV - 2007-9-21]]

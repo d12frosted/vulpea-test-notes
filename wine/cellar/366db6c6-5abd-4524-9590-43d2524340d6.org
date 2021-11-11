@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       366db6c6-5abd-4524-9590-43d2524340d6
+:END:
+#+title: Hppbtt Nuk Zgbq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Nuk Zgbq
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.9
+- sugar :: 2.77
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 1.5
+- ratings :: [[id:a973bd47-2d2e-4132-a3c4-8648ca5adc69][Hppbtt Nuk Zgbq NV - 2014-3-3]]

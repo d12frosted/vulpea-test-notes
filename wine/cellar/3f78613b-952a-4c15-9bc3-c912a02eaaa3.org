@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3f78613b-952a-4c15-9bc3-c912a02eaaa3
+:END:
+#+title: Mabtcl Miuoflx Rqyv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Rqyv
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 12.57
+- sugar :: 16.87
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.0
+- ratings :: [[id:b722e118-28c3-4818-8ead-d98a1180e74f][Mabtcl Miuoflx Rqyv NV - 1991-8-24]]

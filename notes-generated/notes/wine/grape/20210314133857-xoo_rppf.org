@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:                     4b330cbb-3bc3-4520-af0a-aaa1a7619fa3
-:END:
-#+TITLE: Xoo Rppf
-
-

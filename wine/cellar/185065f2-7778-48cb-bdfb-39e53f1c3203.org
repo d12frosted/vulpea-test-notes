@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       185065f2-7778-48cb-bdfb-39e53f1c3203
+:END:
+#+title: Xnxdlsx Gky Yrcl 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Gky Yrcl
+- vintage :: 1908
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 10.6
+- price :: 19.41 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:31b6c872-b37d-43bb-962c-f7e03e8f3ff0][Xnxdlsx Gky Yrcl 1908 - 2001-6-18]]

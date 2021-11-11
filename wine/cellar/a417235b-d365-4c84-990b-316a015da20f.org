@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a417235b-d365-4c84-990b-316a015da20f
+:END:
+#+title: Xhbm Eodxm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Eodxm
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 13.29
+- price :: 56.10 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

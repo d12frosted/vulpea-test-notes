@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a2b44a0f-9a0b-4a26-8c9f-267ccb63a490
+:END:
+#+title: Bhpgaqm Pslnklf Lohwc NV - 1996-5-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:6c187970-7978-4daa-9cda-06ead2f69447][Bhpgaqm Pslnklf Lohwc]]
+- date :: 1996-5-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

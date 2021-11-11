@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1ee936de-82ec-43fd-894f-827340775d4a
+:END:
+#+title: Mabtcl Miuoflx Sleji 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Sleji
+- vintage :: 1913
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 10.44
+- price :: 76.39 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: duckduckgo
+- rating :: 3.0
+- ratings :: [[id:43f4be31-2a09-446d-aac6-b6db6eff78fd][Mabtcl Miuoflx Sleji 1913 - 2023-7-21]]

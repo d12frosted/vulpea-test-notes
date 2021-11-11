@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3f9a63f9-bf54-49d1-a756-c91125815d6b
+:END:
+#+title: Wdcfn Yrra Rhp 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Rhp
+- vintage :: 1950
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 9.81
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:d152304b-180f-4a60-b382-55f4c1fd7e6c][Wdcfn Yrra Rhp 1950 - 2009-10-12]]

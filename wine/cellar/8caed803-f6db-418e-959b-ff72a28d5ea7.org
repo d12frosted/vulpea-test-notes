@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8caed803-f6db-418e-959b-ff72a28d5ea7
+:END:
+#+title: Ajkygaf Emnb Vubgh Xirkgg 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Vubgh Xirkgg
+- vintage :: 1905
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 11.82
+- price :: 62.68 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 4.0
+- ratings :: [[id:49934bb7-f4ee-4378-a04a-6827853423a7][Ajkygaf Emnb Vubgh Xirkgg 1905 - 1990-7-13]]

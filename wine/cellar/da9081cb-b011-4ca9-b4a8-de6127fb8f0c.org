@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       da9081cb-b011-4ca9-b4a8-de6127fb8f0c
+:END:
+#+title: Ibde Iowlof Fmpn Rysvepm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Fmpn Rysvepm
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 9.7
+- sugar :: 7.71
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:256e94af-8aff-42cb-88fa-15109d5ef905][Ibde Iowlof Fmpn Rysvepm NV - 2012-7-27]]

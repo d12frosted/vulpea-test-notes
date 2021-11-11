@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       737ad628-26e1-46c0-869a-2be61bb21f75
+:END:
+#+title: Ibde Iowlof Kgwzsmm Xfsoywuo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Kgwzsmm Xfsoywuo
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 12.370000000000001
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

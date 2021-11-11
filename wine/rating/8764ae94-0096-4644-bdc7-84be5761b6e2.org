@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8764ae94-0096-4644-bdc7-84be5761b6e2
+:END:
+#+title: Mabtcl Miuoflx Axc NV - 2008-10-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:25770238-c0c3-4ddb-9ca8-fce9f45f806e][Mabtcl Miuoflx Axc]]
+- date :: 2008-10-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

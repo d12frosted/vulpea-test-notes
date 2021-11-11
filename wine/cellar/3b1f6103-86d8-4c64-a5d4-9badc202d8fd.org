@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3b1f6103-86d8-4c64-a5d4-9badc202d8fd
+:END:
+#+title: Bhpgaqm Pslnklf Abtopm Bkaxaa 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Abtopm Bkaxaa
+- vintage :: 1929
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.52
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 6.0
+- ratings :: [[id:d025682f-3d80-43a9-a222-176fab586ec2][Bhpgaqm Pslnklf Abtopm Bkaxaa 1929 - 2016-10-6]]

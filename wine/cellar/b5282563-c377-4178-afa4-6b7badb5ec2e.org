@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b5282563-c377-4178-afa4-6b7badb5ec2e
+:END:
+#+title: Fxbahvi Qqezrar Plveamge 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Plveamge
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 13.27
+- price :: 7.79 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 4.0
+- ratings :: [[id:d0370a60-be46-497d-8df7-46da310d44d3][Fxbahvi Qqezrar Plveamge NV - 1992-5-22]]

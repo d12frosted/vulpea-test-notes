@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       be64ec1b-6055-4b43-a8bc-01ba40805ca3
+:END:
+#+title: Xnxdlsx Yfhts 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Yfhts
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.77
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:67b77623-8a1b-4773-82ad-82c0403d4d46][Xnxdlsx Yfhts NV - 1998-8-18]]

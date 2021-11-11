@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2e298104-58aa-48e0-a4b5-b536d95dc418
+:END:
+#+title: Hppbtt Sjynyegj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Sjynyegj
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 11.9
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: wikipedia
+- rating :: 1.0
+- ratings :: [[id:f960a28f-56b7-47bb-a1fc-547a5a092c1d][Hppbtt Sjynyegj NV - 2006-10-14]]

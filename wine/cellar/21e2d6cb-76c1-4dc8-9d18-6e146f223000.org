@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       21e2d6cb-76c1-4dc8-9d18-6e146f223000
+:END:
+#+title: Ibde Iowlof Ekqhpxn 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ekqhpxn
+- vintage :: 2006
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.29
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:06882217-9318-44a1-bead-4d59ec02ec55][Ibde Iowlof Ekqhpxn 2006 - 2002-1-6]]

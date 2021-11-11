@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f69599cb-63ee-4d9f-bd49-635ec56b298d
+:END:
+#+title: Mabtcl Miuoflx Sovxc Lcapx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Sovxc Lcapx
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 13.84
+- sugar :: 2.03
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

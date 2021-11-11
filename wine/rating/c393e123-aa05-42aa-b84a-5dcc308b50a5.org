@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c393e123-aa05-42aa-b84a-5dcc308b50a5
+:END:
+#+title: Fxbahvi Qqezrar Fmhxhb Eoosz NV - 1992-1-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:199ce049-011a-42ea-9d15-21a939e1183d][Fxbahvi Qqezrar Fmhxhb Eoosz]]
+- date :: 1992-1-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

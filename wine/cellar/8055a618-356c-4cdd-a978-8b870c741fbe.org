@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8055a618-356c-4cdd-a978-8b870c741fbe
+:END:
+#+title: Bhpgaqm Pslnklf Dgibpk 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Dgibpk
+- vintage :: 1936
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 10.3
+- price :: 87.47 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:7c6317cd-68c3-4e25-902c-5226719443dc][Bhpgaqm Pslnklf Dgibpk 1936 - 2024-1-26]]

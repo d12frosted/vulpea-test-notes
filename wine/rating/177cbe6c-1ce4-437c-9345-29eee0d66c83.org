@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       177cbe6c-1ce4-437c-9345-29eee0d66c83
+:END:
+#+title: Xhbm Yzcpfg 1930 - 1998-10-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:a9b81f01-7e94-4f5e-8b27-7a66591d09aa][Xhbm Yzcpfg 1930]]
+- date :: 1998-10-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

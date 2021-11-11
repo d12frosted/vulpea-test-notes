@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f061daa8-9bc3-4cbb-b924-f8b1f9083d21
+:END:
+#+title: Xhbm Iratkj Ykzoqubb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Iratkj Ykzoqubb
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 12.74
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:5c53977e-11c4-4f12-b84c-c78e59e9697a][Xhbm Iratkj Ykzoqubb NV - 2019-3-6]]

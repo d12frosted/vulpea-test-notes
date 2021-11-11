@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d0b53d25-0d99-4d69-9099-1386a29305da
+:END:
+#+title: Bhpgaqm Pslnklf Zkcj 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Zkcj
+- vintage :: 2008
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 12.71
+- sugar :: 17.34
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

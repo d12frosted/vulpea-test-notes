@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5ec69ec4-fb64-43d2-a8dc-df35599e1e6f
+:END:
+#+title: Xnxdlsx Oukexlhq Dqnrscj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Oukexlhq Dqnrscj
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 13.29
+- price :: 25.32 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

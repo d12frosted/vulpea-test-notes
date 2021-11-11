@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d5ab9353-0bbf-4faa-a859-2c410f43414a
+:END:
+#+title: Wdcfn Yrra Dpckx Ayhqzfv 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Dpckx Ayhqzfv
+- vintage :: 1946
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 11.27
+- price :: 93.94 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

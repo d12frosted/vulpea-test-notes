@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       33620f1e-5574-45e2-958b-40771a2fd8de
+:END:
+#+title: Ajkygaf Emnb Ixmrhsdc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ixmrhsdc
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 10.129999999999999
+- sugar :: 21.62
+- price :: 65.27 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:72d742db-4e3d-4301-a29f-097c0a05bdf6][Ajkygaf Emnb Ixmrhsdc NV - 2005-5-14]]

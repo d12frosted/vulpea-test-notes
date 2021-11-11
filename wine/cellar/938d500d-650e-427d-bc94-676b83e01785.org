@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       938d500d-650e-427d-bc94-676b83e01785
+:END:
+#+title: Mabtcl Miuoflx Cqmv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Cqmv
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 12.05
+- sugar :: 20.97
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

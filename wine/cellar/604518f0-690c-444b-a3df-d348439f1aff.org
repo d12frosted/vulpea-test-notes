@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       604518f0-690c-444b-a3df-d348439f1aff
+:END:
+#+title: Ajkygaf Emnb Foiax 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Foiax
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 11.43
+- sugar :: 8.34
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

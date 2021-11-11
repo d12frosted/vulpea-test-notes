@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       461918e7-9261-450d-8f8a-1dbb201d5a8b
+:END:
+#+title: Mabtcl Miuoflx Ngtwn Ybqmk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Ngtwn Ybqmk
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 12.46
+- sugar :: 7.29
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 6.0
+- ratings :: [[id:f8d31878-40b0-48b1-9ac1-7f2d86b39ad0][Mabtcl Miuoflx Ngtwn Ybqmk NV - 2010-3-20]]

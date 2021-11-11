@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bccc1cd7-54cb-4fc2-a556-fb6dd6c03240
+:END:
+#+title: Mgdu Xrhwpm NV - 2018-1-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:0010a40b-9481-4f23-a70a-23f66c9a534c][Mgdu Xrhwpm]]
+- date :: 2018-1-19
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

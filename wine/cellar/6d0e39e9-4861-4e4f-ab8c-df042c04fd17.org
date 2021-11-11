@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6d0e39e9-4861-4e4f-ab8c-df042c04fd17
+:END:
+#+title: Mabtcl Miuoflx Wqae 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Wqae
+- vintage :: 1939
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 12.9
+- sugar :: 17.85
+- price :: 82.07 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

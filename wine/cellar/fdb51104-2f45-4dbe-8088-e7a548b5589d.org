@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fdb51104-2f45-4dbe-8088-e7a548b5589d
+:END:
+#+title: Ibde Iowlof Phkix 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Phkix
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 9.97
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 6.0
+- ratings :: [[id:4cb62d3b-7b0e-4f04-a096-004449b71bc5][Ibde Iowlof Phkix NV - 2022-4-23]]

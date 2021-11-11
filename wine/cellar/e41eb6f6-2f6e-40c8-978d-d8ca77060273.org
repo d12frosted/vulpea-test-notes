@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e41eb6f6-2f6e-40c8-978d-d8ca77060273
+:END:
+#+title: Ajkygaf Emnb Ynkg Tvlyju 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ynkg Tvlyju
+- vintage :: 2004
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 10.43
+- sugar :: 23.97
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

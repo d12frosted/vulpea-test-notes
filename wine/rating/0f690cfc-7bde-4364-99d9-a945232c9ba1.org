@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0f690cfc-7bde-4364-99d9-a945232c9ba1
+:END:
+#+title: Fxbahvi Qqezrar Ysaybnyc Xyzdpoj NV - 2003-5-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:b1e63d45-d421-42e0-8747-5fc8b4ab216f][Fxbahvi Qqezrar Ysaybnyc Xyzdpoj]]
+- date :: 2003-5-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

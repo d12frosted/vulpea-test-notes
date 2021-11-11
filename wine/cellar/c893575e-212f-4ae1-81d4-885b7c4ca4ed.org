@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c893575e-212f-4ae1-81d4-885b7c4ca4ed
+:END:
+#+title: Ibde Iowlof Fja 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Fja
+- vintage :: 1953
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.8
+- price :: 44.65 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:9feaf9d5-5aed-4547-8745-808a64f8ea30][Ibde Iowlof Fja 1953 - 2000-2-10]]

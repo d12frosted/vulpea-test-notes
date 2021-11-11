@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f5d93592-8ab3-4fc7-8f54-975a229b2687
+:END:
+#+title: Mabtcl Miuoflx Vouqbt Pqniwy 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Vouqbt Pqniwy
+- vintage :: 2018
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.51
+- price :: 58.28 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

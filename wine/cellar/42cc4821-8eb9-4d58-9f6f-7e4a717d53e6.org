@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       42cc4821-8eb9-4d58-9f6f-7e4a717d53e6
+:END:
+#+title: Fxbahvi Qqezrar Pkogfjnw Yxpa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Pkogfjnw Yxpa
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 13.5
+- price :: 92.86 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

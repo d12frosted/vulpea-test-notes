@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3f6c5872-7c23-402f-9306-ebeb175144aa
+:END:
+#+title: Ajkygaf Emnb Ygtv Axogi NV - 1991-4-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:f49054a3-435b-4da9-a749-271153d852cb][Ajkygaf Emnb Ygtv Axogi]]
+- date :: 1991-4-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

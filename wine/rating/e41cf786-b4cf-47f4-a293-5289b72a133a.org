@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e41cf786-b4cf-47f4-a293-5289b72a133a
+:END:
+#+title: Hppbtt Oqtx Xrulge 1930 - 2010-4-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:f1354a5e-7db4-48ab-84ca-f27155537982][Hppbtt Oqtx Xrulge 1930]]
+- date :: 2010-4-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

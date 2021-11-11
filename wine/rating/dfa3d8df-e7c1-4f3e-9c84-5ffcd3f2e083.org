@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dfa3d8df-e7c1-4f3e-9c84-5ffcd3f2e083
+:END:
+#+title: Wdcfn Yrra Weuzw Iajjybc 1920 - 2003-1-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:fbd7ec4e-4565-46cf-9bd1-e7ad8c336fc0][Wdcfn Yrra Weuzw Iajjybc 1920]]
+- date :: 2003-1-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

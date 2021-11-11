@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a913b33e-197c-459c-b109-b36d421ab5f3
+:END:
+#+title: Mgdu Eukxu Frreje 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Eukxu Frreje
+- vintage :: 1975
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 13.780000000000001
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:a4b6db84-ed5e-4769-aa45-8f7adc119ad4][Mgdu Eukxu Frreje 1975 - 2013-1-11]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6f6b55da-46b0-4e93-bce8-ec4653910c65
+:END:
+#+title: Wdcfn Yrra Rdaldr Jutvemo 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Rdaldr Jutvemo
+- vintage :: 1910
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 12.05
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.0
+- ratings :: [[id:b0ae6480-cd23-4198-bdec-f8ddd3eb7324][Wdcfn Yrra Rdaldr Jutvemo 1910 - 2006-8-17]]

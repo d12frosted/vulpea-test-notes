@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6ef03c13-9619-4f91-8347-41be62b60595
+:END:
+#+title: Fxbahvi Qqezrar Tyisgv 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Tyisgv
+- vintage :: 1947
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 12.72
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

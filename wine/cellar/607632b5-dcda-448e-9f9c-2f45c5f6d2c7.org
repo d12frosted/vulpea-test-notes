@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       607632b5-dcda-448e-9f9c-2f45c5f6d2c7
+:END:
+#+title: Fxbahvi Qqezrar Jyf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Jyf
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 10.08
+- sugar :: 16.61
+- price :: 100.32 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

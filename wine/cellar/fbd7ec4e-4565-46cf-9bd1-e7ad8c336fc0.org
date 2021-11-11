@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       fbd7ec4e-4565-46cf-9bd1-e7ad8c336fc0
+:END:
+#+title: Wdcfn Yrra Weuzw Iajjybc 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Weuzw Iajjybc
+- vintage :: 1920
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 9.71
+- price :: 30.57 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 4.5
+- ratings :: [[id:dfa3d8df-e7c1-4f3e-9c84-5ffcd3f2e083][Wdcfn Yrra Weuzw Iajjybc 1920 - 2003-1-25]]

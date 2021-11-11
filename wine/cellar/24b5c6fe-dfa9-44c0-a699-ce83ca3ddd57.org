@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       24b5c6fe-dfa9-44c0-a699-ce83ca3ddd57
+:END:
+#+title: Ajkygaf Emnb Kqgxwmhd Lwlzk 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Kqgxwmhd Lwlzk
+- vintage :: 1987
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 12.67
+- sugar :: 12.45
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

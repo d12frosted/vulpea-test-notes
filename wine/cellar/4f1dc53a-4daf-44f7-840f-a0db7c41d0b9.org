@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4f1dc53a-4daf-44f7-840f-a0db7c41d0b9
+:END:
+#+title: Fxbahvi Qqezrar Rmsg Gumpna 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Rmsg Gumpna
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 12.98
+- sugar :: 19.54
+- price :: 19.88 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:f681f306-7148-431c-9186-8f2be2c2b193][Fxbahvi Qqezrar Rmsg Gumpna NV - 2019-11-11]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cc1c7f02-2184-4132-8414-9c547ba48669
+:END:
+#+title: Fxbahvi Qqezrar Jaislie 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Jaislie
+- vintage :: 1941
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.31
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:3c3930b4-a2d5-45c7-ae88-1340115f9c08][Fxbahvi Qqezrar Jaislie 1941 - 2008-1-10]]

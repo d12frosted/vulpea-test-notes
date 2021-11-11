@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       13467115-ae79-40ca-b6d2-a3c638c64d05
+:END:
+#+title: Wdcfn Yrra Frp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Frp
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 10.120000000000001
+- price :: 33.17 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

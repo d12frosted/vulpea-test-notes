@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f0f9d4d1-b6b7-4bf7-a4a5-f954b0838a9d
+:END:
+#+title: Ajkygaf Emnb Mlb Qzgxe 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Mlb Qzgxe
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 13.030000000000001
+- price :: 22.19 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

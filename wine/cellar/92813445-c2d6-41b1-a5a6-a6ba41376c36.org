@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       92813445-c2d6-41b1-a5a6-a6ba41376c36
+:END:
+#+title: Hppbtt Ryqp Xmwez 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ryqp Xmwez
+- vintage :: 1960
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.67
+- sugar :: 16.96
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

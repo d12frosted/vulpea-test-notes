@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       06549520-3409-47fb-8b4f-820e806b5360
+:END:
+#+title: Wdcfn Yrra Utwychf 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Utwychf
+- vintage :: 1900
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.81
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

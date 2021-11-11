@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5d5acb37-5439-47e5-b4bb-12ba4b0d50b4
+:END:
+#+title: Mgdu Eimzbl Oxx 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Eimzbl Oxx
+- vintage :: 1933
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.71
+- sugar :: 15.0
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

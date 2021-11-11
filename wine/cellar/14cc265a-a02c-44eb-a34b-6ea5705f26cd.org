@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       14cc265a-a02c-44eb-a34b-6ea5705f26cd
+:END:
+#+title: Xnxdlsx Xiuolww Eitmqcbj 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Xiuolww Eitmqcbj
+- vintage :: 1959
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 11.78
+- sugar :: 17.71
+- price :: 31.17 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

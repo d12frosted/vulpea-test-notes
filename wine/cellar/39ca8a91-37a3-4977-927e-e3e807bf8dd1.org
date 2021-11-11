@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       39ca8a91-37a3-4977-927e-e3e807bf8dd1
+:END:
+#+title: Wdcfn Yrra Esdqph Vqxryzqb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Esdqph Vqxryzqb
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 11.46
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

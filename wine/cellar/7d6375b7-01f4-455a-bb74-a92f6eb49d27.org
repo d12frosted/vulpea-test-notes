@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7d6375b7-01f4-455a-bb74-a92f6eb49d27
+:END:
+#+title: Xnxdlsx Dtqs 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Dtqs
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 13.42
+- price :: 93.36 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

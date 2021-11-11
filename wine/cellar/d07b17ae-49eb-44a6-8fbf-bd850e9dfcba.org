@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d07b17ae-49eb-44a6-8fbf-bd850e9dfcba
+:END:
+#+title: Mgdu Gmznun Yvwkfc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Gmznun Yvwkfc
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 12.31
+- sugar :: 4.51
+- price :: 86.87 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

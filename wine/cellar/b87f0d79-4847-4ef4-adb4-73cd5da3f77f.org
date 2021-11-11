@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b87f0d79-4847-4ef4-adb4-73cd5da3f77f
+:END:
+#+title: Bhpgaqm Pslnklf Rjj Btmgmju 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Rjj Btmgmju
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 10.49
+- sugar :: 15.78
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 7.0
+- ratings :: [[id:282574dc-a846-4eb7-9a75-da1b9105f49b][Bhpgaqm Pslnklf Rjj Btmgmju NV - 2018-5-12]]

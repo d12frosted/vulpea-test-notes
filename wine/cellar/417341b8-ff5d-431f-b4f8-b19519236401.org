@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       417341b8-ff5d-431f-b4f8-b19519236401
+:END:
+#+title: Ajkygaf Emnb Tgzqbw 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Tgzqbw
+- vintage :: 1977
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 11.16
+- sugar :: 11.58
+- price :: 24.83 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

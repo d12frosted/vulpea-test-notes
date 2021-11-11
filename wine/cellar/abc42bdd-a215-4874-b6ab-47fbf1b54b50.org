@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       abc42bdd-a215-4874-b6ab-47fbf1b54b50
+:END:
+#+title: Xnxdlsx Ozzrqhlk 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ozzrqhlk
+- vintage :: 1967
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 13.07
+- sugar :: 17.76
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 5.0
+- ratings :: [[id:2566f997-ba00-429f-94c0-601fd5588727][Xnxdlsx Ozzrqhlk 1967 - 1993-5-13]]

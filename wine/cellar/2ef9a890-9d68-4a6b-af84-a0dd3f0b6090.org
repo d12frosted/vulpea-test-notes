@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2ef9a890-9d68-4a6b-af84-a0dd3f0b6090
+:END:
+#+title: Xnxdlsx Jkl 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Jkl
+- vintage :: 1970
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 9.33
+- price :: 90.44 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

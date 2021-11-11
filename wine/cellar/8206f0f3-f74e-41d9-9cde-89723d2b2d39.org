@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8206f0f3-f74e-41d9-9cde-89723d2b2d39
+:END:
+#+title: Xnxdlsx Onxy Zbz 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Onxy Zbz
+- vintage :: 1967
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 11.81
+- price :: 42.41 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

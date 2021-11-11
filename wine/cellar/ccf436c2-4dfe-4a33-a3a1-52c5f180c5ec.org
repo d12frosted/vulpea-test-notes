@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ccf436c2-4dfe-4a33-a3a1-52c5f180c5ec
+:END:
+#+title: Mgdu Pzqaekej Tttfhdv 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Pzqaekej Tttfhdv
+- vintage :: 1900
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.879999999999999
+- sugar :: 3.27
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:556f45c7-931f-4ec9-9ded-878d82d9fb26][Mgdu Pzqaekej Tttfhdv 1900 - 2004-12-17]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       23f43f9d-c006-4122-9aaf-a83b3fc1a39d
+:END:
+#+title: Ajkygaf Emnb Igs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Igs
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 9.84
+- sugar :: 0.35
+- price :: 70.73 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ff9355f9-12b7-43ec-9704-f6499e62de3e
+:END:
+#+title: Ibde Iowlof Palm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Palm
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 13.030000000000001
+- sugar :: 8.77
+- price :: 4.35 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

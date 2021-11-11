@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9220d745-9261-4368-b541-03e954acc5d2
+:END:
+#+title: Wdcfn Yrra Xthgvc NV - 2016-5-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:ece7c74f-1fe1-4b4c-90cc-23d9caa99e59][Wdcfn Yrra Xthgvc]]
+- date :: 2016-5-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

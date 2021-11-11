@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       eaf99c2a-7a0c-4404-b1a7-5be6c793b494
+:END:
+#+title: Bhpgaqm Pslnklf Dkeitr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Dkeitr
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 10.91
+- sugar :: 2.43
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

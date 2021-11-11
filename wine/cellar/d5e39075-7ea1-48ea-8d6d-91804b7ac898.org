@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d5e39075-7ea1-48ea-8d6d-91804b7ac898
+:END:
+#+title: Fxbahvi Qqezrar Uhuf Zafwq 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Uhuf Zafwq
+- vintage :: 1947
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 12.379999999999999
+- sugar :: 17.02
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

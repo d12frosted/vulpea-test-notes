@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d06a6bb5-f8a1-4d8c-bdd2-f66b60a78310
+:END:
+#+title: Wdcfn Yrra Turf 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Turf
+- vintage :: 1931
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 9.32
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:036c4e7c-6b7f-4ae0-a632-daa90bb018a3][Wdcfn Yrra Turf 1931 - 2024-7-20]]

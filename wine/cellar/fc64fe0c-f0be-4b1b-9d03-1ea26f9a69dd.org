@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fc64fe0c-f0be-4b1b-9d03-1ea26f9a69dd
+:END:
+#+title: Bhpgaqm Pslnklf Fbn Glbg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Fbn Glbg
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 13.68
+- sugar :: 14.83
+- price :: 55.52 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ecb01c44-637a-4198-8a07-78ab6b0c2f82
+:END:
+#+title: Mabtcl Miuoflx Yzelb Wdrfkfqd 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Yzelb Wdrfkfqd
+- vintage :: 1936
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 10.42
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a37a0ac4-aa37-4651-9f31-0b247a556843
+:END:
+#+title: Hppbtt Mtjd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Mtjd
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 9.38
+- price :: 18.12 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:0880f1d9-a353-439f-8436-dc2df6f40f00][Hppbtt Mtjd NV - 2022-4-12]]

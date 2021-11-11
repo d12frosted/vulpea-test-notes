@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       827eb985-f5be-428a-80ad-e99aefab7982
+:END:
+#+title: Hppbtt Bidrpbtj Jvgjuuq 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Bidrpbtj Jvgjuuq
+- vintage :: 1986
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- alcohol :: 11.86
+- price :: 42.33 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:7eacdeb0-0031-42c3-8b52-7ff10be169fa][Hppbtt Bidrpbtj Jvgjuuq 1986 - 1999-4-25]]

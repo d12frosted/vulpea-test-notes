@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       01a2b2ee-e4ca-462b-9347-e63053a8d560
+:END:
+#+title: Fxbahvi Qqezrar Asetgi 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Asetgi
+- vintage :: 1978
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 12.59
+- price :: 60.43 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 4.5
+- ratings :: [[id:94de433e-17d6-40f2-b5d6-c37ebac9ef8b][Fxbahvi Qqezrar Asetgi 1978 - 2001-1-20]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1ee09fff-dccd-4622-92b8-cfe54dd76891
+:END:
+#+title: Hppbtt Lecav 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Lecav
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 11.0
+- sugar :: 11.98
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:d5ace208-c20a-44ca-92d2-9e78dcaaf954][Hppbtt Lecav NV - 2009-3-19]]

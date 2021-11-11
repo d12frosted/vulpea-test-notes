@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f8626c94-109f-416a-b170-4ff53df8ebee
+:END:
+#+title: Fxbahvi Qqezrar Bwde 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Bwde
+- vintage :: 1920
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 13.530000000000001
+- sugar :: 17.65
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:43c33c01-97a2-4de6-ac74-0acedfe7a7f4][Fxbahvi Qqezrar Bwde 1920 - 2005-9-3]]

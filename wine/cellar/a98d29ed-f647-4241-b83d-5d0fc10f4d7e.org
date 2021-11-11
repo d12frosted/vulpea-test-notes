@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a98d29ed-f647-4241-b83d-5d0fc10f4d7e
+:END:
+#+title: Ajkygaf Emnb Kzjlasi Wmljpx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Kzjlasi Wmljpx
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.91
+- sugar :: 15.21
+- price :: 101.37 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:730b7ae1-f0c8-4fe4-ab16-b79dbfed6ba7][Ajkygaf Emnb Kzjlasi Wmljpx NV - 2022-1-14]]

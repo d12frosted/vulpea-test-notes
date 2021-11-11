@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6fbcf416-4dc2-4108-89c8-6028c4acdaf9
+:END:
+#+title: Bhpgaqm Pslnklf Gjeskuu Vxoicsu 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Gjeskuu Vxoicsu
+- vintage :: 2019
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 11.98
+- sugar :: 5.32
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

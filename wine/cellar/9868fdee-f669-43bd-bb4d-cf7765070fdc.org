@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9868fdee-f669-43bd-bb4d-cf7765070fdc
+:END:
+#+title: Hppbtt Jfkn 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Jfkn
+- vintage :: 1935
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 9.54
+- sugar :: 0.97
+- price :: 6.51 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 2.0
+- ratings :: [[id:47ebd8ba-b867-46d1-b5c1-f7fba3591c5d][Hppbtt Jfkn 1935 - 2016-10-23]]

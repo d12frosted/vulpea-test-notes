@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0a9ccc64-ddee-4390-bed5-97668618c4ee
+:END:
+#+title: Hppbtt Myhmuhpg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Myhmuhpg
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.97
+- price :: 76.49 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:524f3348-09f8-4508-a73d-38206117fa51][Hppbtt Myhmuhpg NV - 2014-7-25]]

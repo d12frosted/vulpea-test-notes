@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       19b9f7e6-7db9-4d2d-8bc3-7ce6119cd055
+:END:
+#+title: Bhpgaqm Pslnklf Xue 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Xue
+- vintage :: 1920
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 9.13
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       aa1f17a8-678c-4c16-baa0-52c7d0aa0067
+:END:
+#+title: Fxbahvi Qqezrar Brt 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Brt
+- vintage :: 2000
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.57
+- sugar :: 2.28
+- price :: 71.72 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

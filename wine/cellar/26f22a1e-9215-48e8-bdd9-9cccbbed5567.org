@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       26f22a1e-9215-48e8-bdd9-9cccbbed5567
+:END:
+#+title: Wdcfn Yrra Unapror 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Unapror
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 11.97
+- sugar :: 13.74
+- price :: 79.04 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 3.5
+- ratings :: [[id:2bbebb44-8bac-4249-9692-df0f2863d8b0][Wdcfn Yrra Unapror NV - 2014-4-28]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       324c375a-161f-40c2-be8a-3c2266d8a1b9
+:END:
+#+title: Xhbm Dnf 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Dnf
+- vintage :: 2014
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 11.24
+- price :: 18.95 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA

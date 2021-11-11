@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       50f16b3a-7666-41b2-8233-bc4d10eb733f
+:END:
+#+title: Hppbtt Sfx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Sfx
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 10.69
+- price :: 29.13 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:c3553f39-c552-4896-a847-b18a8649856e][Hppbtt Sfx NV - 2018-8-21]]

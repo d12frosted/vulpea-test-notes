@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1e0782a1-98f0-4c91-946a-9651936322ce
+:END:
+#+title: Ibde Iowlof Dxbofzd 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Dxbofzd
+- vintage :: 1943
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 9.8
+- price :: 40.05 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:fce607a9-0038-45c5-b4b7-8de7a70c4b1d][Ibde Iowlof Dxbofzd 1943 - 2008-11-3]]

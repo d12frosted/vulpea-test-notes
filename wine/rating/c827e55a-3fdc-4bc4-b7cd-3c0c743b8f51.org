@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c827e55a-3fdc-4bc4-b7cd-3c0c743b8f51
+:END:
+#+title: Hppbtt Jth NV - 1991-12-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:cd8005b2-c7ed-4c78-aae9-dbc2645ed99f][Hppbtt Jth]]
+- date :: 1991-12-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

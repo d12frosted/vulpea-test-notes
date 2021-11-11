@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1d3fb780-169e-4909-874c-7713e1877f4b
+:END:
+#+title: Fxbahvi Qqezrar Osk Bbx 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Osk Bbx
+- vintage :: 1932
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 13.92
+- sugar :: 3.75
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

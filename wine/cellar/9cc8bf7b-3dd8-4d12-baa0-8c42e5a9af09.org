@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9cc8bf7b-3dd8-4d12-baa0-8c42e5a9af09
+:END:
+#+title: Mgdu Gfctiit Wpasv 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Gfctiit Wpasv
+- vintage :: 1932
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 10.06
+- price :: 32.85 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

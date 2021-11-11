@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ce232f30-82de-4e56-814d-eb2ee268db9c
+:END:
+#+title: Xnxdlsx Afggijzw Wcnrmu 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Afggijzw Wcnrmu
+- vintage :: 1979
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.27
+- sugar :: 5.94
+- price :: 23.88 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

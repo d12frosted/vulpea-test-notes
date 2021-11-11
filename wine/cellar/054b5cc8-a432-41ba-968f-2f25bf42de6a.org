@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       054b5cc8-a432-41ba-968f-2f25bf42de6a
+:END:
+#+title: Wdcfn Yrra Igpaluv 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Igpaluv
+- vintage :: 1958
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 10.83
+- sugar :: 23.72
+- price :: 76.19 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

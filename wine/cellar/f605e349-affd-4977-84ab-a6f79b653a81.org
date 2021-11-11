@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f605e349-affd-4977-84ab-a6f79b653a81
+:END:
+#+title: Ibde Iowlof Kmaxpp 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Kmaxpp
+- vintage :: 1913
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 10.31
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

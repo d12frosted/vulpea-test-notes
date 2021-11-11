@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f6bc14f0-6de1-491a-b382-e6a662360e83
+:END:
+#+title: Ibde Iowlof Uwgiu 1948 - 2019-7-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:d81dc935-3ee7-4f3f-918a-98957e3387ec][Ibde Iowlof Uwgiu 1948]]
+- date :: 2019-7-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

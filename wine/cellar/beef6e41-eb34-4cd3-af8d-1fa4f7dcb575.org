@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       beef6e41-eb34-4cd3-af8d-1fa4f7dcb575
+:END:
+#+title: Ibde Iowlof Uobn Qtvmiz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Uobn Qtvmiz
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 13.969999999999999
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 4.0
+- ratings :: [[id:1db37e81-babd-4bf1-8145-fbfca0ee2211][Ibde Iowlof Uobn Qtvmiz NV - 2008-4-26]]

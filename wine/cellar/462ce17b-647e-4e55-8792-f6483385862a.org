@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       462ce17b-647e-4e55-8792-f6483385862a
+:END:
+#+title: Wdcfn Yrra Pbvzyjg 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Pbvzyjg
+- vintage :: 1910
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.91
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

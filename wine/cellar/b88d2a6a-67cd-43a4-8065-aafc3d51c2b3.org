@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b88d2a6a-67cd-43a4-8065-aafc3d51c2b3
+:END:
+#+title: Wdcfn Yrra Dgyjl 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Dgyjl
+- vintage :: 2005
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 10.06
+- sugar :: 16.87
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

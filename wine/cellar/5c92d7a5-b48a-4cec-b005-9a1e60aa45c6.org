@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5c92d7a5-b48a-4cec-b005-9a1e60aa45c6
+:END:
+#+title: Ajkygaf Emnb Lnvccbt Dfko 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Lnvccbt Dfko
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 12.44
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

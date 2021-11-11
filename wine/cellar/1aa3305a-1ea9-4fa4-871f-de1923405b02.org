@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1aa3305a-1ea9-4fa4-871f-de1923405b02
+:END:
+#+title: Hppbtt Shrbgall Bfpjgiln 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Shrbgall Bfpjgiln
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 12.85
+- sugar :: 20.47
+- price :: 60.93 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

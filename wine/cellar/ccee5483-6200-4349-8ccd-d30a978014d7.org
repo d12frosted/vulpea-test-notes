@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ccee5483-6200-4349-8ccd-d30a978014d7
+:END:
+#+title: Ajkygaf Emnb Quelpars 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Quelpars
+- vintage :: 1938
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.07
+- price :: 96.74 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

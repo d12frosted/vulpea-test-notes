@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e4bc37da-d1ad-46e1-a3f4-0d2b1509f7c1
+:END:
+#+title: Xhbm Iwmi Mzkxli 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Iwmi Mzkxli
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 9.9
+- sugar :: 3.51
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

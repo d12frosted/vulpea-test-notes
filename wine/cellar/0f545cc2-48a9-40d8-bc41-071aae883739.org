@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0f545cc2-48a9-40d8-bc41-071aae883739
+:END:
+#+title: Wdcfn Yrra Qeoxd 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Qeoxd
+- vintage :: 1973
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 13.5
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:ccc5d422-1fae-4e5b-8798-3d9f0a9fa308][Wdcfn Yrra Qeoxd 1973 - 2006-8-8]]

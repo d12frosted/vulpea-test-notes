@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1a351713-6343-44d2-9622-2b492e99109a
+:END:
+#+title: Ajkygaf Emnb Wswsd Oimrx 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Wswsd Oimrx
+- vintage :: 1942
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 12.02
+- sugar :: 5.86
+- price :: 96.83 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

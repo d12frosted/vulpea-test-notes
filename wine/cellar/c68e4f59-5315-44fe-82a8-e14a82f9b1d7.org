@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c68e4f59-5315-44fe-82a8-e14a82f9b1d7
+:END:
+#+title: Bhpgaqm Pslnklf Lswpnfwm Qpng 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Lswpnfwm Qpng
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 10.8
+- sugar :: 1.34
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 7.0
+- ratings :: [[id:85cf1f8f-2bed-4f05-873b-373b6ce7fcfe][Bhpgaqm Pslnklf Lswpnfwm Qpng NV - 2016-4-27]]

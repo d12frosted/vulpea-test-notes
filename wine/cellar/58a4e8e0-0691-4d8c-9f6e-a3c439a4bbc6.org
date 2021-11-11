@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       58a4e8e0-0691-4d8c-9f6e-a3c439a4bbc6
+:END:
+#+title: Wdcfn Yrra Mexjmyty 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Mexjmyty
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.81
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b13eec45-6db6-495f-a74c-e76babeea145
+:END:
+#+title: Fxbahvi Qqezrar Hemzec 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Hemzec
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 12.94
+- sugar :: 23.88
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5bd3b6ed-3f7f-47c6-957d-9d3ab14a1e5d
+:END:
+#+title: Wdcfn Yrra Ncsbege Pqe NV - 2024-3-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:a12c79c4-2308-4e95-a6ac-98a3867ea052][Wdcfn Yrra Ncsbege Pqe]]
+- date :: 2024-3-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

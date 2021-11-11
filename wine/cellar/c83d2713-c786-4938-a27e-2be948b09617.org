@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c83d2713-c786-4938-a27e-2be948b09617
+:END:
+#+title: Mabtcl Miuoflx Gluor 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Gluor
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.54
+- price :: 51.97 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:f0a2ca88-bd19-4221-9ff1-5f2fa591848f][Mabtcl Miuoflx Gluor NV - 2001-12-21]]

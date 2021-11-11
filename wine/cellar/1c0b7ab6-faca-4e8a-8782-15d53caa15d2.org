@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1c0b7ab6-faca-4e8a-8782-15d53caa15d2
+:END:
+#+title: Hppbtt Ghfbva 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ghfbva
+- vintage :: 2003
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 9.08
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

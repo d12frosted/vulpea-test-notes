@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dc0e595d-f3ae-41bf-886b-a44491a4565d
+:END:
+#+title: Fxbahvi Qqezrar Rnjnhsgp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Rnjnhsgp
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 13.34
+- sugar :: 7.08
+- price :: 86.28 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 5.0
+- ratings :: [[id:4fe2e7fd-900e-46d7-8a64-516815eb52c1][Fxbahvi Qqezrar Rnjnhsgp NV - 2015-1-25]]

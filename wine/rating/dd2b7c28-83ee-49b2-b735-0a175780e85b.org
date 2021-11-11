@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dd2b7c28-83ee-49b2-b735-0a175780e85b
+:END:
+#+title: Ibde Iowlof Yreq Woccr NV - 1998-6-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:28e005ee-ca61-4baa-b315-2b0b100a775f][Ibde Iowlof Yreq Woccr]]
+- date :: 1998-6-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       9914496d-7685-4700-ad76-7a7579b016ff
+:END:
+#+title: Fxbahvi Qqezrar Xvxuc 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Xvxuc
+- vintage :: 1955
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 11.42
+- sugar :: 17.89
+- price :: 42.35 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA

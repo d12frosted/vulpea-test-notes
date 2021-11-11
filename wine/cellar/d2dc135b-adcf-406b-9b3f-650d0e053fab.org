@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d2dc135b-adcf-406b-9b3f-650d0e053fab
+:END:
+#+title: Ajkygaf Emnb Fux Angc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Fux Angc
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 9.88
+- sugar :: 2.51
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 2.0
+- ratings :: [[id:0e442825-ebaa-4b81-b8e5-182d84211833][Ajkygaf Emnb Fux Angc NV - 2019-7-8]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       21b25dcf-8615-4727-bbcd-439440479f60
+:END:
+#+title: Mabtcl Miuoflx Zjqgvn Olup 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Zjqgvn Olup
+- vintage :: 1960
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 11.01
+- sugar :: 9.32
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: 5.0
+- ratings :: [[id:0ed9042f-4784-43df-b226-d75dfb17973d][Mabtcl Miuoflx Zjqgvn Olup 1960 - 2021-11-11]]

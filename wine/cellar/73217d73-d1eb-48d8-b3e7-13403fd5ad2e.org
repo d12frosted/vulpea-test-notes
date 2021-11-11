@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       73217d73-d1eb-48d8-b3e7-13403fd5ad2e
+:END:
+#+title: Ajkygaf Emnb Btnc 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Btnc
+- vintage :: 1964
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 9.47
+- sugar :: 15.9
+- price :: 102.28 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.5
+- ratings :: [[id:9ba07df2-44de-4498-86f3-5dd12da857dc][Ajkygaf Emnb Btnc 1964 - 2019-2-24]]

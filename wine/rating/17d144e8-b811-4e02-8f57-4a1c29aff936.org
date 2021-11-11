@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       17d144e8-b811-4e02-8f57-4a1c29aff936
+:END:
+#+title: Fxbahvi Qqezrar Qvjxook Rbk 1974 - 2000-8-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:7e60e9f2-bee0-4ee2-ad59-71ceb923ff70][Fxbahvi Qqezrar Qvjxook Rbk 1974]]
+- date :: 2000-8-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

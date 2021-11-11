@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       75364c5e-cef9-437d-a57a-f3d314a033c8
+:END:
+#+title: Xhbm Dmjjhdnv Atcypcl 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Dmjjhdnv Atcypcl
+- vintage :: 1965
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 13.879999999999999
+- sugar :: 21.58
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

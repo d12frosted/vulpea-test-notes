@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       104a3542-1360-4cd7-ba43-6aaed6513d23
+:END:
+#+title: Xnxdlsx Hlqggdd Yua 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Hlqggdd Yua
+- vintage :: 2015
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 11.54
+- sugar :: 14.75
+- price :: 89.15 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:f779d608-0612-4b48-86ec-17e626154ac5][Xnxdlsx Hlqggdd Yua 2015 - 2017-1-27]]

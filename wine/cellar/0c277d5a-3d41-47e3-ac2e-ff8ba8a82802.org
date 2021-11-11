@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0c277d5a-3d41-47e3-ac2e-ff8ba8a82802
+:END:
+#+title: Ibde Iowlof Dedpclgl 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Dedpclgl
+- vintage :: 1904
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.71
+- sugar :: 9.36
+- price :: 66.59 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

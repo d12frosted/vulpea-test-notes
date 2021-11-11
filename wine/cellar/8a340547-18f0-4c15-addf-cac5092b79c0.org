@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8a340547-18f0-4c15-addf-cac5092b79c0
+:END:
+#+title: Xnxdlsx Pbasn Ybsdl 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Pbasn Ybsdl
+- vintage :: 1993
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 11.53
+- sugar :: 20.59
+- price :: 26.88 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

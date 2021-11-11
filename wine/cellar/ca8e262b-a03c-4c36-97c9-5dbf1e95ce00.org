@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ca8e262b-a03c-4c36-97c9-5dbf1e95ce00
+:END:
+#+title: Bhpgaqm Pslnklf Wnjnngtx Nlzngyi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Wnjnngtx Nlzngyi
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.9
+- sugar :: 11.4
+- price :: 64.96 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

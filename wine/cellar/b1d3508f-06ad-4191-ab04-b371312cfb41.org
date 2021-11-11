@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b1d3508f-06ad-4191-ab04-b371312cfb41
+:END:
+#+title: Xnxdlsx Urmkadc Sgpgndt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Urmkadc Sgpgndt
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 12.6
+- sugar :: 4.18
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

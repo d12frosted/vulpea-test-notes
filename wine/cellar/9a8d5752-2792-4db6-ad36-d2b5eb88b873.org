@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9a8d5752-2792-4db6-ad36-d2b5eb88b873
+:END:
+#+title: Mgdu Akknz 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Akknz
+- vintage :: 1919
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 13.36
+- sugar :: 0.26
+- price :: 30.61 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

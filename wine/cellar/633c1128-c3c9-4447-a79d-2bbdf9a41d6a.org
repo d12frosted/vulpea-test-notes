@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       633c1128-c3c9-4447-a79d-2bbdf9a41d6a
+:END:
+#+title: Fxbahvi Qqezrar Wajolsyn 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Wajolsyn
+- vintage :: 1996
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 12.59
+- sugar :: 15.13
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:deb36fbc-a2d6-4691-83fc-cc8174418254][Fxbahvi Qqezrar Wajolsyn 1996 - 1991-10-23]]

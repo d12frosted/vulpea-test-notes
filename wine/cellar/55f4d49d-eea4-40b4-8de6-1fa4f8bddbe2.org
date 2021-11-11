@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       55f4d49d-eea4-40b4-8de6-1fa4f8bddbe2
+:END:
+#+title: Xnxdlsx Psopq 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Psopq
+- vintage :: 1934
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 10.95
+- sugar :: 14.08
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:0808dd05-38b3-4400-a6fe-22f768f07ad0][Xnxdlsx Psopq 1934 - 2016-6-22]]

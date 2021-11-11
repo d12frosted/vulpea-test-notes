@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f78542d4-72a2-4511-ae22-4cd17ae7000f
+:END:
+#+title: Mabtcl Miuoflx Ddckxlsn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Ddckxlsn
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 13.76
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: duckduckgo
+- rating :: 2.0
+- ratings :: [[id:cc5c7148-9faa-47b4-98b1-64ee9c561143][Mabtcl Miuoflx Ddckxlsn NV - 2003-10-17]]

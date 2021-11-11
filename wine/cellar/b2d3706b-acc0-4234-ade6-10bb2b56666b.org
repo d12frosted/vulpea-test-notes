@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b2d3706b-acc0-4234-ade6-10bb2b56666b
+:END:
+#+title: Ajkygaf Emnb Ksalvs Lhd 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ksalvs Lhd
+- vintage :: 2008
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 11.78
+- sugar :: 18.07
+- price :: 17.67 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

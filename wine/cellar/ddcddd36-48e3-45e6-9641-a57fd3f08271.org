@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ddcddd36-48e3-45e6-9641-a57fd3f08271
+:END:
+#+title: Ibde Iowlof Lqbpfewb 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Lqbpfewb
+- vintage :: 1982
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 10.52
+- price :: 21.95 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:3001c8ec-31b9-459a-b89a-932f1ce90891][Ibde Iowlof Lqbpfewb 1982 - 2012-5-7]]

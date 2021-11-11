@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c48d7e60-5500-4958-840f-04b0b0c2ed3c
+:END:
+#+title: Fxbahvi Qqezrar Qnebxor Oebuw 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Qnebxor Oebuw
+- vintage :: 1917
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 11.23
+- sugar :: 21.93
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 8.0
+- ratings :: [[id:70160061-ccac-4e20-b6d2-ec5616f5dec2][Fxbahvi Qqezrar Qnebxor Oebuw 1917 - 2003-10-3]]

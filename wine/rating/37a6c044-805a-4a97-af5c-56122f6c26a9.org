@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       37a6c044-805a-4a97-af5c-56122f6c26a9
+:END:
+#+title: Xnxdlsx Ahjg Ylb 1910 - 2003-10-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:578bc52d-9324-447d-9554-e9dbafe08788][Xnxdlsx Ahjg Ylb 1910]]
+- date :: 2003-10-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

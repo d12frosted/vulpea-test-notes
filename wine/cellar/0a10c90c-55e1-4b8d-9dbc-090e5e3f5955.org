@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0a10c90c-55e1-4b8d-9dbc-090e5e3f5955
+:END:
+#+title: Mgdu Dyodnnw 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Dyodnnw
+- vintage :: 1965
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 10.620000000000001
+- sugar :: 18.8
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

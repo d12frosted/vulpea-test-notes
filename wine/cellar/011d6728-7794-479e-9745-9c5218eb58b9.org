@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       011d6728-7794-479e-9745-9c5218eb58b9
+:END:
+#+title: Fxbahvi Qqezrar Hdcnwq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Hdcnwq
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 13.5
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 4.0
+- ratings :: [[id:6b963445-8e3b-4592-9879-7c49759c6968][Fxbahvi Qqezrar Hdcnwq NV - 1990-5-14]]

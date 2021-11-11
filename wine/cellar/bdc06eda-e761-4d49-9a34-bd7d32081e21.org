@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bdc06eda-e761-4d49-9a34-bd7d32081e21
+:END:
+#+title: Xhbm Ykvuuzg Ihsqrxvy 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Ykvuuzg Ihsqrxvy
+- vintage :: 1991
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 9.91
+- sugar :: 10.82
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:6f205b3e-9d1a-4c27-a51f-3d7904a763aa][Xhbm Ykvuuzg Ihsqrxvy 1991 - 2024-7-16]]

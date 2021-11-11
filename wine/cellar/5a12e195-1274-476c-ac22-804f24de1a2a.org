@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5a12e195-1274-476c-ac22-804f24de1a2a
+:END:
+#+title: Xnxdlsx Lebmobv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Lebmobv
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 13.8
+- price :: 84.66 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 2.0
+- ratings :: [[id:51f5ce22-7497-4507-adb0-fac46ff8adae][Xnxdlsx Lebmobv NV - 2013-9-21]]

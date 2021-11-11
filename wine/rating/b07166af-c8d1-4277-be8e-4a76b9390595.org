@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b07166af-c8d1-4277-be8e-4a76b9390595
+:END:
+#+title: Xhbm Lursewc NV - 1997-10-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:54e46e68-6434-4f8d-806f-7eec9eeb5714][Xhbm Lursewc]]
+- date :: 1997-10-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

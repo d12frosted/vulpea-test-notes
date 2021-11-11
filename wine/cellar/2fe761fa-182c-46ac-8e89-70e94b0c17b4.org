@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2fe761fa-182c-46ac-8e89-70e94b0c17b4
+:END:
+#+title: Hppbtt Rhy Oejn 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Rhy Oejn
+- vintage :: 2010
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 12.99
+- sugar :: 13.01
+- price :: 97.39 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

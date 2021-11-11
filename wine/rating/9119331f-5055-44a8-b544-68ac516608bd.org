@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9119331f-5055-44a8-b544-68ac516608bd
+:END:
+#+title: Xnxdlsx Jqero 1967 - 2003-5-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:887d9950-3f2a-4258-8ed2-da440c16e38a][Xnxdlsx Jqero 1967]]
+- date :: 2003-5-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

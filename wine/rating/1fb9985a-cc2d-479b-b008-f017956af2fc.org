@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1fb9985a-cc2d-479b-b008-f017956af2fc
+:END:
+#+title: Wdcfn Yrra Usdmv Lgzl NV - 2002-6-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:d29219bd-997b-43dc-9dca-32ea427dea7a][Wdcfn Yrra Usdmv Lgzl]]
+- date :: 2002-6-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

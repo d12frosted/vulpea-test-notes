@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b009359b-7888-45d9-9236-4f908ac054a8
+:END:
+#+title: Bhpgaqm Pslnklf Leowlitz NV - 1994-6-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:db8da813-e068-4e18-81c0-7a57d1d6ea75][Bhpgaqm Pslnklf Leowlitz]]
+- date :: 1994-6-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

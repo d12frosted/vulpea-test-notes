@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1ea6e8f1-7fba-47f8-b544-adfc89203ee4
+:END:
+#+title: Mabtcl Miuoflx Ycqdukwd NV - 1996-9-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:d16d3486-08a8-496b-a3c7-0065f2b52087][Mabtcl Miuoflx Ycqdukwd]]
+- date :: 1996-9-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

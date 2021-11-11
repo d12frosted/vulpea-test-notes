@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       db65efdf-1899-46b6-9d74-633953170927
+:END:
+#+title: Mgdu Lbehcd Clwsxk 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Lbehcd Clwsxk
+- vintage :: 1957
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 9.1
+- sugar :: 8.34
+- price :: 80.86 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

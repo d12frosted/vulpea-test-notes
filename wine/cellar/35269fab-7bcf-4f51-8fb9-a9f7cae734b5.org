@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       35269fab-7bcf-4f51-8fb9-a9f7cae734b5
+:END:
+#+title: Xnxdlsx Yint Ahyq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Yint Ahyq
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 13.0
+- sugar :: 14.09
+- price :: 27.87 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:ae10586c-cd9c-4756-8eef-76f23171bfa9][Xnxdlsx Yint Ahyq NV - 2013-7-16]]

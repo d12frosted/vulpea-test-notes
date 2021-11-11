@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       790ae19a-caa9-4009-839c-f3b9abf24e94
+:END:
+#+title: Mabtcl Miuoflx Coiockhy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Coiockhy
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 10.06
+- sugar :: 21.99
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:638c2984-1b94-4b43-ac17-16a63a003f72][Mabtcl Miuoflx Coiockhy NV - 1992-2-25]]

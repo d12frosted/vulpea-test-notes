@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a7022fce-3055-4474-bbab-89787680a8d7
+:END:
+#+title: Hppbtt Oqwpy Vhrl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Oqwpy Vhrl
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 13.190000000000001
+- sugar :: 13.26
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

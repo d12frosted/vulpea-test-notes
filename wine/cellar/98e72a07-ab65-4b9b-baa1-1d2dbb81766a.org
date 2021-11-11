@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       98e72a07-ab65-4b9b-baa1-1d2dbb81766a
+:END:
+#+title: Fxbahvi Qqezrar Uljft Nczesngk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Uljft Nczesngk
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 12.8
+- sugar :: 5.32
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:e7fee3bf-ba4f-4e5a-bc1f-d80dd5d6f08f][Fxbahvi Qqezrar Uljft Nczesngk NV - 2021-8-25]]

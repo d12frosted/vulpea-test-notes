@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6faaf3d5-39de-430a-b61c-ffc7c5f0959f
+:END:
+#+title: Wdcfn Yrra Vexhphvx Ncv 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Vexhphvx Ncv
+- vintage :: 2011
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.01
+- price :: 5.43 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:d0a1303c-fcbf-4961-80a2-647daa87099d][Wdcfn Yrra Vexhphvx Ncv 2011 - 1999-11-8]]

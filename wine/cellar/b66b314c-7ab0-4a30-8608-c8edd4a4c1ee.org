@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b66b314c-7ab0-4a30-8608-c8edd4a4c1ee
+:END:
+#+title: Hppbtt Idj Ggszuhe 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Idj Ggszuhe
+- vintage :: 1931
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 13.559999999999999
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

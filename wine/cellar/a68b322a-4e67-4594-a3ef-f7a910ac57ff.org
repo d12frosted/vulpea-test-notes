@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a68b322a-4e67-4594-a3ef-f7a910ac57ff
+:END:
+#+title: Wdcfn Yrra Thkjc 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Thkjc
+- vintage :: 1942
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 12.6
+- sugar :: 11.92
+- price :: 68.14 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

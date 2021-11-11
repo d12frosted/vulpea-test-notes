@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       91b2c6c6-fed0-44d2-a632-14811e0631b0
+:END:
+#+title: Wdcfn Yrra Iijbt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Iijbt
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 10.2
+- sugar :: 0.86
+- price :: 48.36 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:5d25273b-0381-402b-854c-2b3bd161feb7][Wdcfn Yrra Iijbt NV - 1997-5-2]]

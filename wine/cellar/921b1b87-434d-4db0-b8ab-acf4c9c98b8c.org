@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       921b1b87-434d-4db0-b8ab-acf4c9c98b8c
+:END:
+#+title: Ibde Iowlof Pcjvzv Pqbzxlvb 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Pcjvzv Pqbzxlvb
+- vintage :: 1949
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 11.99
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

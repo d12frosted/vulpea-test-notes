@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4f3e048e-c03b-4bd1-8d88-9a69817beeb2
+:END:
+#+title: Hppbtt Lzlpkr Wlzg 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Lzlpkr Wlzg
+- vintage :: 1934
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.31
+- sugar :: 8.86
+- price :: 14.41 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

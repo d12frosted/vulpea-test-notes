@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e3e71ff3-0eaa-4a49-b6af-eb97ff6550e3
+:END:
+#+title: Xhbm Rnd Ksiae 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Rnd Ksiae
+- vintage :: 1993
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 10.51
+- sugar :: 2.29
+- price :: 90.00 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

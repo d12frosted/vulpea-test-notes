@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a8718d10-afec-4764-aad4-b239f86aaa47
+:END:
+#+title: Fxbahvi Qqezrar Rtsw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Rtsw
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 10.49
+- sugar :: 9.37
+- price :: 7.06 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA

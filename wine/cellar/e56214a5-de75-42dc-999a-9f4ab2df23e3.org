@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e56214a5-de75-42dc-999a-9f4ab2df23e3
+:END:
+#+title: Xnxdlsx Pyblvfnc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Pyblvfnc
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 9.53
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

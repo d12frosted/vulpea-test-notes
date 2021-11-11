@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f6663e71-5f7a-4a81-b5fa-4d514d40d214
+:END:
+#+title: Xhbm Fsbmpfcp Vuierw 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Fsbmpfcp Vuierw
+- vintage :: 1937
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 9.58
+- sugar :: 11.82
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

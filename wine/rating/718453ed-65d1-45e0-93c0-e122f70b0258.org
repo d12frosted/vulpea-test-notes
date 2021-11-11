@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       718453ed-65d1-45e0-93c0-e122f70b0258
+:END:
+#+title: Mgdu Vtp 1982 - 2020-7-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:11bddd5c-8ffa-46f8-991d-a1297e894f8c][Mgdu Vtp 1982]]
+- date :: 2020-7-19
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

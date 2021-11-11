@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1bca7f5d-9d13-4915-bad6-e49527a4768f
+:END:
+#+title: Xhbm Btifq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Btifq
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 10.48
+- sugar :: 17.3
+- price :: 14.68 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

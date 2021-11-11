@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9b2cb693-3b0a-4bab-9025-16b9838c3ead
+:END:
+#+title: Xnxdlsx Clpwl NV - 2020-2-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:89948672-7bcb-4a4e-b847-03f563283657][Xnxdlsx Clpwl]]
+- date :: 2020-2-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

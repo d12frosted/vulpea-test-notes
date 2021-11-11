@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       63d1d220-a22c-4459-b50b-c8324fceb991
+:END:
+#+title: Ibde Iowlof Xjy Cra 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Xjy Cra
+- vintage :: 1976
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 10.45
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

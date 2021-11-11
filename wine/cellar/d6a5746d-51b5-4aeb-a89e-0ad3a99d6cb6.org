@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d6a5746d-51b5-4aeb-a89e-0ad3a99d6cb6
+:END:
+#+title: Hppbtt Bongdhn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Bongdhn
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.01
+- sugar :: 14.13
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

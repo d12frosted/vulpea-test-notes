@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7f5bff8c-73bc-4479-8d8c-6b0c6b75fab3
+:END:
+#+title: Xhbm Jcudg 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Jcudg
+- vintage :: 1949
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 11.129999999999999
+- sugar :: 4.06
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

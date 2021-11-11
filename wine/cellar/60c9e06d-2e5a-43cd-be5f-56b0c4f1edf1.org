@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       60c9e06d-2e5a-43cd-be5f-56b0c4f1edf1
+:END:
+#+title: Hppbtt Ukcn Msvgi 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ukcn Msvgi
+- vintage :: 1920
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 13.65
+- price :: 94.62 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 3.5
+- ratings :: [[id:ff6b27c1-5b10-40c5-b95b-6e4277f12a03][Hppbtt Ukcn Msvgi 1920 - 1991-5-3]]

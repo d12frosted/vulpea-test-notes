@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       da21bdee-2217-457e-8243-d15e5f1bff50
+:END:
+#+title: Hppbtt Uud 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Uud
+- vintage :: 1991
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.03
+- sugar :: 6.85
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

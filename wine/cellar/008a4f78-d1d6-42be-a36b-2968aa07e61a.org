@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       008a4f78-d1d6-42be-a36b-2968aa07e61a
+:END:
+#+title: Ibde Iowlof Vpvxqa Njtsmhoa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Vpvxqa Njtsmhoa
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 11.31
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

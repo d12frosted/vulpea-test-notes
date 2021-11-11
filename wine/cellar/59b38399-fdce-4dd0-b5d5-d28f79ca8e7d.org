@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       59b38399-fdce-4dd0-b5d5-d28f79ca8e7d
+:END:
+#+title: Ibde Iowlof Fnrt Guvou 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Fnrt Guvou
+- vintage :: 1994
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 9.18
+- price :: 36.06 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

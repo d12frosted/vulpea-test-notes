@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b63b4cc2-35b0-4490-9332-c2b4a8e9fa3d
+:END:
+#+title: Xnxdlsx Gvpe 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Gvpe
+- vintage :: 1911
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 11.28
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 6.5
+- ratings :: [[id:e1f914d5-2a29-4af9-86b5-a66e7dd95c13][Xnxdlsx Gvpe 1911 - 2019-2-15]]

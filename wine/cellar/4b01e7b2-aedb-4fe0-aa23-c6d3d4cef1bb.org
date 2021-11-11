@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4b01e7b2-aedb-4fe0-aa23-c6d3d4cef1bb
+:END:
+#+title: Bhpgaqm Pslnklf Ledyqq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ledyqq
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.95
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

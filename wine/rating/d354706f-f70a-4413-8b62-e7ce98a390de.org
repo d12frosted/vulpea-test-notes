@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d354706f-f70a-4413-8b62-e7ce98a390de
+:END:
+#+title: Mabtcl Miuoflx Mts NV - 1994-4-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:04be9366-4487-4dfd-9465-1e7f7d8a13f5][Mabtcl Miuoflx Mts]]
+- date :: 1994-4-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

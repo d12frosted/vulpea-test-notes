@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       514b9975-523f-4fbe-ad79-50ad3d9c8368
+:END:
+#+title: Xnxdlsx Ebzzp 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ebzzp
+- vintage :: 2020
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 9.81
+- sugar :: 9.04
+- price :: 80.36 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

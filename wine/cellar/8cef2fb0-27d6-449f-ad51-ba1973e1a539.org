@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8cef2fb0-27d6-449f-ad51-ba1973e1a539
+:END:
+#+title: Fxbahvi Qqezrar Prfwo Qysytrtz 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Prfwo Qysytrtz
+- vintage :: 1937
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 13.4
+- price :: 49.10 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

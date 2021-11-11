@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       47620aa6-34b7-4208-8658-dfcec6d4f902
+:END:
+#+title: Ibde Iowlof Txyw Lacwexe 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Txyw Lacwexe
+- vintage :: 1994
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.16
+- price :: 12.43 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

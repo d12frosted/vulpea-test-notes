@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fe1890a6-0367-4ddf-ab78-9833eefca741
+:END:
+#+title: Xhbm Ldswildy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Ldswildy
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 13.23
+- price :: 11.39 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

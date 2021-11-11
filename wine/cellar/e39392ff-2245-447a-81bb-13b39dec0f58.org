@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e39392ff-2245-447a-81bb-13b39dec0f58
+:END:
+#+title: Hppbtt Xuxv Vijqg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Xuxv Vijqg
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 11.6
+- sugar :: 9.4
+- price :: 52.84 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

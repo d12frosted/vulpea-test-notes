@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b7b5c8e8-45a3-42eb-aa64-8394df5c76ee
+:END:
+#+title: Fxbahvi Qqezrar Nys 1918 - 2020-9-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:798500e6-db67-454e-931e-8c5ace020022][Fxbahvi Qqezrar Nys 1918]]
+- date :: 2020-9-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

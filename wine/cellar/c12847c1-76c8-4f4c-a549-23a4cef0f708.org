@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c12847c1-76c8-4f4c-a549-23a4cef0f708
+:END:
+#+title: Wdcfn Yrra Trxichn Lsnqbwn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Trxichn Lsnqbwn
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 10.870000000000001
+- price :: 78.51 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

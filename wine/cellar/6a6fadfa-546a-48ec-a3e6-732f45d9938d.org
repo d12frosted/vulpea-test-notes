@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6a6fadfa-546a-48ec-a3e6-732f45d9938d
+:END:
+#+title: Fxbahvi Qqezrar Vbl Lwbcihjn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Vbl Lwbcihjn
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 12.21
+- price :: 44.40 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.5
+- ratings :: [[id:d72bcf60-ea95-4c81-9c41-a256a747db4e][Fxbahvi Qqezrar Vbl Lwbcihjn NV - 2002-6-21]]

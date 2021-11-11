@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c2c80b7f-00f0-4fbd-be8f-3ecd51caa1b0
+:END:
+#+title: Bhpgaqm Pslnklf Lexrgdt Qcvjj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Lexrgdt Qcvjj
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.04
+- sugar :: 14.91
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 5.5
+- ratings :: [[id:89096c10-1072-4c04-917e-9986f118fbe0][Bhpgaqm Pslnklf Lexrgdt Qcvjj NV - 2000-4-4]]

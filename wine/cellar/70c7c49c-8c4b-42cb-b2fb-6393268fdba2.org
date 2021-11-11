@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       70c7c49c-8c4b-42cb-b2fb-6393268fdba2
+:END:
+#+title: Hppbtt Kdeybn 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Kdeybn
+- vintage :: 1953
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 12.79
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

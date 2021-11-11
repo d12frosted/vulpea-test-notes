@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0a503484-5cc9-44ac-9b2b-95dbf51fe6ad
+:END:
+#+title: Ibde Iowlof Pbkaumb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Pbkaumb
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 12.07
+- price :: 88.44 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

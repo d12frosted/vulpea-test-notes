@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a77dd9bd-bca5-45ac-8048-57c9b20a75a8
+:END:
+#+title: Xnxdlsx Mvyqphog 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Mvyqphog
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.92
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

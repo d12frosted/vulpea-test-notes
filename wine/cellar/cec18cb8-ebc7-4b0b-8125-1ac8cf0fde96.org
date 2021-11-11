@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cec18cb8-ebc7-4b0b-8125-1ac8cf0fde96
+:END:
+#+title: Hppbtt Gny Rlxzcr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Gny Rlxzcr
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 13.89
+- price :: 43.63 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 6.5
+- ratings :: [[id:819d3655-8f14-481c-be46-ca217f5b9736][Hppbtt Gny Rlxzcr NV - 1999-11-25]]

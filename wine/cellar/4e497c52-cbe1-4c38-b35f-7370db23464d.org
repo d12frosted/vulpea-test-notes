@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4e497c52-cbe1-4c38-b35f-7370db23464d
+:END:
+#+title: Fxbahvi Qqezrar Cln Bya 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Cln Bya
+- vintage :: 1938
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 10.93
+- price :: 49.26 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

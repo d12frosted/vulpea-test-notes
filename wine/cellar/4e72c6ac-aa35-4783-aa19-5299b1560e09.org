@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4e72c6ac-aa35-4783-aa19-5299b1560e09
+:END:
+#+title: Xhbm Dxc Klqkvs 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Dxc Klqkvs
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.75
+- price :: 50.21 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ac05774c-2cdd-4a4a-8e1f-bfe4adc7213a
+:END:
+#+title: Fxbahvi Qqezrar Xtwejb 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Xtwejb
+- vintage :: 1984
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 10.18
+- price :: 97.19 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

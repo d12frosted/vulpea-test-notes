@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fc78f7fd-440d-4ed5-b9cc-36c561978ba3
+:END:
+#+title: Fxbahvi Qqezrar Nxrg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Nxrg
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 13.6
+- sugar :: 12.63
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:062135c7-286c-4e89-b035-b2a205625f1a][Fxbahvi Qqezrar Nxrg NV - 1991-10-22]]

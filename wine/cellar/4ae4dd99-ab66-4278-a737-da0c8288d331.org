@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4ae4dd99-ab66-4278-a737-da0c8288d331
+:END:
+#+title: Mgdu Hrl Npfv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Hrl Npfv
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.45
+- sugar :: 21.13
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:c4ed304b-78d2-41d6-a938-4a82b6e1d04a][Mgdu Hrl Npfv NV - 2020-5-20]]

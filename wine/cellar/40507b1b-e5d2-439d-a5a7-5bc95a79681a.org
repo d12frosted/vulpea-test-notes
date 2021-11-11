@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       40507b1b-e5d2-439d-a5a7-5bc95a79681a
+:END:
+#+title: Fxbahvi Qqezrar Lnp 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Lnp
+- vintage :: 1954
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 12.24
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

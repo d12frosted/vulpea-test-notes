@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       de04cdac-da59-431e-b4d6-9981dfb63d32
+:END:
+#+title: Ajkygaf Emnb Juts 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Juts
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.47
+- sugar :: 21.93
+- price :: 13.97 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

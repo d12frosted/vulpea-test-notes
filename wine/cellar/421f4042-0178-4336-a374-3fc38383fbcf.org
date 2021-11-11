@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       421f4042-0178-4336-a374-3fc38383fbcf
+:END:
+#+title: Hppbtt Qamzcve 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Qamzcve
+- vintage :: 1941
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 13.25
+- sugar :: 2.78
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

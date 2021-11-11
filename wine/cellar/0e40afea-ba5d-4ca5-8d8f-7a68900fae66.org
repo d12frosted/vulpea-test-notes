@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0e40afea-ba5d-4ca5-8d8f-7a68900fae66
+:END:
+#+title: Mabtcl Miuoflx Imxztvq Ufar 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Imxztvq Ufar
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 9.51
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:77fb2abe-093d-4925-8755-9498fc268e1d][Mabtcl Miuoflx Imxztvq Ufar NV - 2015-12-19]]

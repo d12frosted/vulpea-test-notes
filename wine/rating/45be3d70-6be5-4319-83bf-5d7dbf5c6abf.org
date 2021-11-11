@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       45be3d70-6be5-4319-83bf-5d7dbf5c6abf
+:END:
+#+title: Ibde Iowlof Lbsxsb NV - 2011-4-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:9e7f5cb4-1d99-4a2b-b640-ff601e0013ca][Ibde Iowlof Lbsxsb]]
+- date :: 2011-4-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

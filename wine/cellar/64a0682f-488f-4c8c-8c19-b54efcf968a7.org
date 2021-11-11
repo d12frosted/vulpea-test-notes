@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       64a0682f-488f-4c8c-8c19-b54efcf968a7
+:END:
+#+title: Fxbahvi Qqezrar Hygkebjc Xox 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Hygkebjc Xox
+- vintage :: 1964
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.89
+- sugar :: 5.26
+- price :: 98.97 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:7477ab8d-ff4c-4e90-b607-8a5d3aabf489][Fxbahvi Qqezrar Hygkebjc Xox 1964 - 2001-7-25]]

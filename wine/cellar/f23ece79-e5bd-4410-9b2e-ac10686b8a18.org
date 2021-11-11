@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f23ece79-e5bd-4410-9b2e-ac10686b8a18
+:END:
+#+title: Bhpgaqm Pslnklf Fhwma 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Fhwma
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 13.61
+- price :: 33.48 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

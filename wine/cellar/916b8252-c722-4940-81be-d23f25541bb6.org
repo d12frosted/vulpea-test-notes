@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       916b8252-c722-4940-81be-d23f25541bb6
+:END:
+#+title: Hppbtt Pol 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Pol
+- vintage :: 2015
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 11.07
+- sugar :: 7.32
+- price :: 17.66 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

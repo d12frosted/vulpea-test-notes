@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3f443f6d-2944-4a0b-a468-cffc7b547325
+:END:
+#+title: Mabtcl Miuoflx Hvb 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Hvb
+- vintage :: 2019
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 13.51
+- sugar :: 17.92
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

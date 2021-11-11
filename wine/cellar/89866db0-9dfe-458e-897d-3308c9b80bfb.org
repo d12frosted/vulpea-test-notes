@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       89866db0-9dfe-458e-897d-3308c9b80bfb
+:END:
+#+title: Mgdu Rigdyud Hjuk 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Rigdyud Hjuk
+- vintage :: 1989
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 12.83
+- sugar :: 13.73
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

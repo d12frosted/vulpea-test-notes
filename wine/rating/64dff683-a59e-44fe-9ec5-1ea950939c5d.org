@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       64dff683-a59e-44fe-9ec5-1ea950939c5d
+:END:
+#+title: Hppbtt Byotzwx NV - 2014-12-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:85d01246-0a8e-43d7-9899-eab20f9ac599][Hppbtt Byotzwx]]
+- date :: 2014-12-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

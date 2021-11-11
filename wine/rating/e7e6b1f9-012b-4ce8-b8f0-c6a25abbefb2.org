@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e7e6b1f9-012b-4ce8-b8f0-c6a25abbefb2
+:END:
+#+title: Xhbm Nlonun 1968 - 2004-2-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:bc189d05-3ba1-4772-afa7-5fb916996a7a][Xhbm Nlonun 1968]]
+- date :: 2004-2-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

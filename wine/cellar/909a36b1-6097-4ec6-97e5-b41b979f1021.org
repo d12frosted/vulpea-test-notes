@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       909a36b1-6097-4ec6-97e5-b41b979f1021
+:END:
+#+title: Mgdu Qwyrfl 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Qwyrfl
+- vintage :: 1984
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 13.76
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:b32159f6-8058-43ce-8952-4f817c7dcc85][Mgdu Qwyrfl 1984 - 2013-10-26]]

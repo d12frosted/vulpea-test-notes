@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       54a5b6e1-9414-40ce-ae93-2ebae4dbf5d7
+:END:
+#+title: Mabtcl Miuoflx Pbpbba 1985 - 2006-11-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:7cac39f5-fcd2-44db-af66-11bc3c4870e9][Mabtcl Miuoflx Pbpbba 1985]]
+- date :: 2006-11-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

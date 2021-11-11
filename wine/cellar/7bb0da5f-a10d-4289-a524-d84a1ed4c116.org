@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7bb0da5f-a10d-4289-a524-d84a1ed4c116
+:END:
+#+title: Xnxdlsx Yqtuc Wjhghcv 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Yqtuc Wjhghcv
+- vintage :: 1953
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 13.32
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 8.5
+- ratings :: [[id:736854e2-542e-46f3-bb62-34420c05b701][Xnxdlsx Yqtuc Wjhghcv 1953 - 1994-5-24]]

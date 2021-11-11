@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       24938853-75c3-4c96-aba6-05c359adfb57
+:END:
+#+title: Hppbtt Fuprrxwr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fuprrxwr
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 12.75
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:1c575f82-73d3-4bd2-bc44-4c084d3cbb70][Hppbtt Fuprrxwr NV - 2013-10-9]]

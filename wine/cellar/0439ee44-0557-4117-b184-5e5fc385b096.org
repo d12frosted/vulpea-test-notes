@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0439ee44-0557-4117-b184-5e5fc385b096
+:END:
+#+title: Fxbahvi Qqezrar Iqcsm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Iqcsm
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 9.5
+- price :: 59.45 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

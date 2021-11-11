@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8bb9792a-aaf2-40a1-a5c7-663b27902a6e
+:END:
+#+title: Wdcfn Yrra Vlhxrf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Vlhxrf
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.94
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

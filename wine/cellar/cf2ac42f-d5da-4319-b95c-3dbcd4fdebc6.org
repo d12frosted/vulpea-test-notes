@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cf2ac42f-d5da-4319-b95c-3dbcd4fdebc6
+:END:
+#+title: Wdcfn Yrra Xiljc Jgflmq 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Xiljc Jgflmq
+- vintage :: 2007
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 12.43
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

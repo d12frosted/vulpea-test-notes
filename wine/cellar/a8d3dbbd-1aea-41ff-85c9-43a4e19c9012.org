@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a8d3dbbd-1aea-41ff-85c9-43a4e19c9012
+:END:
+#+title: Hppbtt Kpdbkw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Kpdbkw
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 9.32
+- sugar :: 20.33
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

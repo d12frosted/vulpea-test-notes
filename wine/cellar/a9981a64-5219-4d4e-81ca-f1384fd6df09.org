@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a9981a64-5219-4d4e-81ca-f1384fd6df09
+:END:
+#+title: Bhpgaqm Pslnklf Rcgi Vacnytm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Rcgi Vacnytm
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.92
+- price :: 16.88 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

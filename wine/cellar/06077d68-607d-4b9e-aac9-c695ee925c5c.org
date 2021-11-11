@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       06077d68-607d-4b9e-aac9-c695ee925c5c
+:END:
+#+title: Wdcfn Yrra Dsvohl 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Dsvohl
+- vintage :: 1908
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 9.51
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3922d934-bceb-4845-9308-07cb5dd90ccf
+:END:
+#+title: Xhbm Dmmzno Qofqi 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Dmmzno Qofqi
+- vintage :: 2009
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 9.05
+- price :: 11.87 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

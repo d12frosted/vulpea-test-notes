@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4fc7437b-b7ef-46c1-9d00-cf9db3dd8930
+:END:
+#+title: Xnxdlsx Pmtewl Xcrdfknr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Pmtewl Xcrdfknr
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 10.82
+- sugar :: 15.82
+- price :: 77.87 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:e5721b75-bd7a-452c-b1eb-a8c951f59563][Xnxdlsx Pmtewl Xcrdfknr NV - 2020-9-25]]

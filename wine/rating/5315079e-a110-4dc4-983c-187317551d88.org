@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5315079e-a110-4dc4-983c-187317551d88
+:END:
+#+title: Wdcfn Yrra Vxgoff NV - 2012-5-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:f0910162-832b-4bd9-abf0-966cdaa8f4fa][Wdcfn Yrra Vxgoff]]
+- date :: 2012-5-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f3752d23-f8d8-4ba3-9646-1eeee7b81ebf
+:END:
+#+title: Mabtcl Miuoflx Hqttmkr Joriirw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Hqttmkr Joriirw
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 13.82
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:e32b3ede-a865-421b-9af4-1b2c8fff6066][Mabtcl Miuoflx Hqttmkr Joriirw NV - 2021-7-18]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       50586b5d-d7cb-48d8-b87c-8698af67beb6
+:END:
+#+title: Xhbm Vls Squczm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Vls Squczm
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 9.14
+- sugar :: 15.82
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

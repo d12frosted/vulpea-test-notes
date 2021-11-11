@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b8622115-c047-4fa4-83cc-296c77a3202b
+:END:
+#+title: Fxbahvi Qqezrar Qvbu NV - 1998-8-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:3f65e30c-78ac-48fa-9ac9-6f9380473886][Fxbahvi Qqezrar Qvbu]]
+- date :: 1998-8-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 2
+- score_max :: 20
+- total :: 1.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b178b3c9-f1d1-44d8-954b-a32c615542d0
+:END:
+#+title: Xnxdlsx Qhmoaik Exov 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Qhmoaik Exov
+- vintage :: 1907
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.04
+- sugar :: 5.03
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:ced1006f-affb-415e-b84b-e2514f94f5b4][Xnxdlsx Qhmoaik Exov 1907 - 2009-7-9]]

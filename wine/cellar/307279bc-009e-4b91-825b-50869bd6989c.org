@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       307279bc-009e-4b91-825b-50869bd6989c
+:END:
+#+title: Mgdu Lntrcej 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Lntrcej
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 12.03
+- sugar :: 20.54
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: wikipedia
+- rating :: 7.5
+- ratings :: [[id:a55e98ba-59a4-456a-b9ff-658243e44e0b][Mgdu Lntrcej NV - 2002-8-27]]

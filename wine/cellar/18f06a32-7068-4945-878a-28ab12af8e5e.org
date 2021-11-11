@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       18f06a32-7068-4945-878a-28ab12af8e5e
+:END:
+#+title: Bhpgaqm Pslnklf Uhvs Qpuejc 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Uhvs Qpuejc
+- vintage :: 1926
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 11.71
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:1e65ae54-74d6-4f82-8d6d-884e85956845][Bhpgaqm Pslnklf Uhvs Qpuejc 1926 - 2002-5-9]]

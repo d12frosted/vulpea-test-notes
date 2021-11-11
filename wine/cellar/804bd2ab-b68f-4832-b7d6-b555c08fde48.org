@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       804bd2ab-b68f-4832-b7d6-b555c08fde48
+:END:
+#+title: Ibde Iowlof Dgwxf 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Dgwxf
+- vintage :: 1902
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.79
+- sugar :: 20.38
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

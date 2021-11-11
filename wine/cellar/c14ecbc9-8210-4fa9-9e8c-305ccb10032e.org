@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c14ecbc9-8210-4fa9-9e8c-305ccb10032e
+:END:
+#+title: Ajkygaf Emnb Sguxgo Sbl 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Sguxgo Sbl
+- vintage :: 1943
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 11.83
+- sugar :: 21.75
+- price :: 100.07 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:e8666245-abbc-481d-aba6-3f02187f242b][Ajkygaf Emnb Sguxgo Sbl 1943 - 2015-7-2]]

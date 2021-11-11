@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       824c976d-fcc9-4391-a499-7444ce244eba
+:END:
+#+title: Hppbtt Nteqkdj Wgugttwb 1904 - 2013-3-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:44df6cd0-c9f5-4a36-98f5-834930b90811][Hppbtt Nteqkdj Wgugttwb 1904]]
+- date :: 2013-3-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

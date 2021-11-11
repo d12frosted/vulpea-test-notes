@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cf4a4f74-196c-4139-9c6f-6b7730a434bb
+:END:
+#+title: Bhpgaqm Pslnklf Avfq NV - 1990-6-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:a00a177f-1769-4e1f-828a-2db85a5b4feb][Bhpgaqm Pslnklf Avfq]]
+- date :: 1990-6-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

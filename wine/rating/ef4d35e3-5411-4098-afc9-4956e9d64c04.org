@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ef4d35e3-5411-4098-afc9-4956e9d64c04
+:END:
+#+title: Mgdu Jwt Yhaw NV - 1991-4-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:009c4873-2aca-4e30-bc72-03bb6f2471b4][Mgdu Jwt Yhaw]]
+- date :: 1991-4-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

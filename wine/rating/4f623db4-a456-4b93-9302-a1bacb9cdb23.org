@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4f623db4-a456-4b93-9302-a1bacb9cdb23
+:END:
+#+title: Mgdu Rdj Axyhqal 1934 - 2001-1-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:1315a784-c2b3-4367-b7e8-a9fd4118fab5][Mgdu Rdj Axyhqal 1934]]
+- date :: 2001-1-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

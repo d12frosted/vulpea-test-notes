@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       13cfd852-094b-445f-87a5-8c2189604800
+:END:
+#+title: Ajkygaf Emnb Cywasu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Cywasu
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 11.73
+- sugar :: 19.89
+- price :: 4.20 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:bbf7a577-396d-4db3-88bc-bec54506f18c][Ajkygaf Emnb Cywasu NV - 2006-1-9]]

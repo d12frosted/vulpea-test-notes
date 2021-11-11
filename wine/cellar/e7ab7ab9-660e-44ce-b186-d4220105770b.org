@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e7ab7ab9-660e-44ce-b186-d4220105770b
+:END:
+#+title: Fxbahvi Qqezrar Mzdcb Yodch 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Mzdcb Yodch
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.27
+- sugar :: 13.58
+- price :: 21.17 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

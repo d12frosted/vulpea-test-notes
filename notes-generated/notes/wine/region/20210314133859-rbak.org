@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:                     77991750-dea6-4276-bb68-bc388de42400
-:END:
-#+TITLE: Rbak
-
-

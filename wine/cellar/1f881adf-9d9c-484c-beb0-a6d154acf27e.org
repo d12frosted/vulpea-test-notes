@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1f881adf-9d9c-484c-beb0-a6d154acf27e
+:END:
+#+title: Hppbtt Edqnjhk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Edqnjhk
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 13.030000000000001
+- sugar :: 12.74
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:8f95ffe0-b7f6-43ff-8dc6-82e182b49a08][Hppbtt Edqnjhk NV - 2021-7-19]]

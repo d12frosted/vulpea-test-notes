@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d620f0f6-a150-48b9-97f9-3fede3f08605
+:END:
+#+title: Wdcfn Yrra Hswzuupg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Hswzuupg
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 13.809999999999999
+- sugar :: 16.32
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 3.5
+- ratings :: [[id:7010bcef-3bd1-4cb1-ba6f-d667a68a66cd][Wdcfn Yrra Hswzuupg NV - 1995-4-20]]

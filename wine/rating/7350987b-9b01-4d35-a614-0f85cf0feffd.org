@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7350987b-9b01-4d35-a614-0f85cf0feffd
+:END:
+#+title: Xnxdlsx Oeuop Allvsg NV - 1990-4-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:1f2af89d-e254-4a5e-9f1d-0d9a7eec3e55][Xnxdlsx Oeuop Allvsg]]
+- date :: 1990-4-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

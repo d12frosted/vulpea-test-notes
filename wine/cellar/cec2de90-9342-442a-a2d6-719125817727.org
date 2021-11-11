@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cec2de90-9342-442a-a2d6-719125817727
+:END:
+#+title: Wdcfn Yrra Vxlilrm 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Vxlilrm
+- vintage :: 1909
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 13.559999999999999
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

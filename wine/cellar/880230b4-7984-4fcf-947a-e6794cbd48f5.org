@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       880230b4-7984-4fcf-947a-e6794cbd48f5
+:END:
+#+title: Fxbahvi Qqezrar Oow 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Oow
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 9.5
+- sugar :: 12.44
+- price :: 12.73 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:03c9286b-5396-4739-850b-adbffb59c294][Fxbahvi Qqezrar Oow NV - 1995-12-12]]

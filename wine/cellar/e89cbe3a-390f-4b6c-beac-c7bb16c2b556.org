@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e89cbe3a-390f-4b6c-beac-c7bb16c2b556
+:END:
+#+title: Ibde Iowlof Nbr 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Nbr
+- vintage :: 1958
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 9.0
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:32786dca-4323-4b7a-8ebc-f721517eb37c][Ibde Iowlof Nbr 1958 - 2016-2-23]]

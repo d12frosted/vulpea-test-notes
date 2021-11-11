@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ee2e7014-a402-4fe2-98d6-9f3d55b8445f
+:END:
+#+title: Ajkygaf Emnb Htbqo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Htbqo
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 9.36
+- price :: 95.70 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:b6d505ba-5768-49c3-a4eb-97d113eb01e9][Ajkygaf Emnb Htbqo NV - 2016-2-3]]

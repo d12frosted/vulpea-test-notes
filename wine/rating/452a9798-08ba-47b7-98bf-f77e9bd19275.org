@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       452a9798-08ba-47b7-98bf-f77e9bd19275
+:END:
+#+title: Mabtcl Miuoflx Nzdp 1921 - 2012-7-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:b4736b98-42f4-406d-950f-1d3f2bde1f12][Mabtcl Miuoflx Nzdp 1921]]
+- date :: 2012-7-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

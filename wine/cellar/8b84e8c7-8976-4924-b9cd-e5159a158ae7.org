@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8b84e8c7-8976-4924-b9cd-e5159a158ae7
+:END:
+#+title: Ajkygaf Emnb Jwogo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Jwogo
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 12.31
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

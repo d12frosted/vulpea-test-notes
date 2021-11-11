@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       6630be1f-855d-477b-9b8d-e33a0fac51c7
+:END:
+#+title: Xhbm Sabzfyb Draryz 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Sabzfyb Draryz
+- vintage :: 2005
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 13.129999999999999
+- sugar :: 9.98
+- price :: 96.34 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 1.5
+- ratings :: [[id:b2ee6b0c-f154-4bea-9c48-c807a1e84b62][Xhbm Sabzfyb Draryz 2005 - 2002-3-25]]

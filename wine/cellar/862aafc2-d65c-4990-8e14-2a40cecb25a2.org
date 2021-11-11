@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       862aafc2-d65c-4990-8e14-2a40cecb25a2
+:END:
+#+title: Wdcfn Yrra Aklimwz Voujyvrp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Aklimwz Voujyvrp
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 13.309999999999999
+- price :: 53.27 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 7.0
+- ratings :: [[id:47adfae7-b22b-418a-9c59-af2d02a21ca8][Wdcfn Yrra Aklimwz Voujyvrp NV - 2019-12-8]]

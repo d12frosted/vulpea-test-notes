@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       adf02e95-23fd-4cbb-a23b-0d05645f2ee4
+:END:
+#+title: Ibde Iowlof Jgjbolz 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Jgjbolz
+- vintage :: 2014
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 10.120000000000001
+- sugar :: 5.09
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

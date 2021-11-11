@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f0a11b14-a709-4f6b-9642-6a5867ff2e12
+:END:
+#+title: Fxbahvi Qqezrar Helt Jwhdmz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Helt Jwhdmz
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 10.77
+- price :: 98.67 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:576275eb-8e87-4df7-bea7-9bf3ce822dfe][Fxbahvi Qqezrar Helt Jwhdmz NV - 2022-10-12]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       735831de-3875-40ae-b25d-246e6b00b83c
+:END:
+#+title: Ajkygaf Emnb Dvcb Mqiusf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Dvcb Mqiusf
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.85
+- sugar :: 0.06
+- price :: 53.99 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

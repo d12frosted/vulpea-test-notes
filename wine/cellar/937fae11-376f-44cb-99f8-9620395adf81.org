@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       937fae11-376f-44cb-99f8-9620395adf81
+:END:
+#+title: Ibde Iowlof Izqgqkc Iwrkiad 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Izqgqkc Iwrkiad
+- vintage :: 1957
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.02
+- price :: 83.46 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

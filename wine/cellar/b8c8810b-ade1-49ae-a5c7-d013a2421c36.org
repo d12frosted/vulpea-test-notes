@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b8c8810b-ade1-49ae-a5c7-d013a2421c36
+:END:
+#+title: Mabtcl Miuoflx Kyktf 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Kyktf
+- vintage :: 1945
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 10.4
+- sugar :: 22.72
+- price :: 63.38 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 7.0
+- ratings :: [[id:200fec8a-acbf-467a-9215-15fbc76b6e73][Mabtcl Miuoflx Kyktf 1945 - 1996-9-5]]

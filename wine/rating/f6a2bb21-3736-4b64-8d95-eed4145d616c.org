@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f6a2bb21-3736-4b64-8d95-eed4145d616c
+:END:
+#+title: Hppbtt Pqao Zav NV - 1996-4-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:3aa0c40c-467b-4825-aeee-37491e30e4fc][Hppbtt Pqao Zav]]
+- date :: 1996-4-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

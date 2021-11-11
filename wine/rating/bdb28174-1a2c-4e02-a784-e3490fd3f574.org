@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bdb28174-1a2c-4e02-a784-e3490fd3f574
+:END:
+#+title: Xnxdlsx Gtwhw Yrl NV - 1998-3-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:2ddf74ec-be3f-4e4e-9e2e-bc1c8fd8d84a][Xnxdlsx Gtwhw Yrl]]
+- date :: 1998-3-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

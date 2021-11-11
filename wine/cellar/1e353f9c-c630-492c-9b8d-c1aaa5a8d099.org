@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1e353f9c-c630-492c-9b8d-c1aaa5a8d099
+:END:
+#+title: Hppbtt Pojaly 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Pojaly
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 11.41
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.5
+- ratings :: [[id:36b383ba-fd57-4510-a64d-13a59c67e14b][Hppbtt Pojaly NV - 2008-3-13]]

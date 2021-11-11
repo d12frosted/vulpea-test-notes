@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e6f21978-a6b8-4ad9-9c19-368d6587b1d0
+:END:
+#+title: Xnxdlsx Amlpp Ceqqcye NV - 2010-1-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:b2c32da8-13d3-4079-8476-6c8a1f3a6d00][Xnxdlsx Amlpp Ceqqcye]]
+- date :: 2010-1-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

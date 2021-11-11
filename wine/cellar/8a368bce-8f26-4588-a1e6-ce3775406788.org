@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8a368bce-8f26-4588-a1e6-ce3775406788
+:END:
+#+title: Xhbm Tbzihhaq Ptiigl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Tbzihhaq Ptiigl
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 13.24
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:72a4d7cb-4813-4a24-96e5-54abc522105f][Xhbm Tbzihhaq Ptiigl NV - 2007-5-2]]

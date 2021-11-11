@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9bb12007-eeca-469e-826d-51d8186b1282
+:END:
+#+title: Bhpgaqm Pslnklf Srcfjhbt Yrxedot 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Srcfjhbt Yrxedot
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 13.35
+- sugar :: 3.85
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

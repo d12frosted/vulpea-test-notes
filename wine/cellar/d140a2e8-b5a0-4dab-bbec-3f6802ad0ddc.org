@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d140a2e8-b5a0-4dab-bbec-3f6802ad0ddc
+:END:
+#+title: Fxbahvi Qqezrar Cempalwo Egbd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Cempalwo Egbd
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 12.54
+- sugar :: 5.14
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

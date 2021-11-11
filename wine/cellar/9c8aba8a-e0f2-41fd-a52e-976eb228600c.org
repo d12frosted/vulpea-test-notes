@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9c8aba8a-e0f2-41fd-a52e-976eb228600c
+:END:
+#+title: Xhbm Smtdycmu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Smtdycmu
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 10.48
+- price :: 55.98 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

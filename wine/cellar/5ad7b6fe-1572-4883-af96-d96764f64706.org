@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5ad7b6fe-1572-4883-af96-d96764f64706
+:END:
+#+title: Ajkygaf Emnb Zozix Rycftqr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Zozix Rycftqr
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.39
+- sugar :: 21.63
+- price :: 32.91 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA

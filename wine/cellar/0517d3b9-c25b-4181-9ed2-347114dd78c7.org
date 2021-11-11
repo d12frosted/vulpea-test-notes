@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0517d3b9-c25b-4181-9ed2-347114dd78c7
+:END:
+#+title: Hppbtt Buzklsz Zljv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Buzklsz Zljv
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.89
+- price :: 86.73 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:8b33ec73-b353-4973-bcaf-bcf267b04dfa][Hppbtt Buzklsz Zljv NV - 1999-3-16]]

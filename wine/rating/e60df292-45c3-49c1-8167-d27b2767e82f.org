@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e60df292-45c3-49c1-8167-d27b2767e82f
+:END:
+#+title: Mgdu Hyscgoi Zye NV - 2003-2-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:6ad8fae1-028b-41fb-8c49-17dca0029958][Mgdu Hyscgoi Zye]]
+- date :: 2003-2-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5b67f864-baf1-4319-93f9-84dd39c2d06f
+:END:
+#+title: Mabtcl Miuoflx Apdddy 1958 - 1998-11-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:e29c7c4a-a497-46c2-a819-b3035a529802][Mabtcl Miuoflx Apdddy 1958]]
+- date :: 1998-11-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

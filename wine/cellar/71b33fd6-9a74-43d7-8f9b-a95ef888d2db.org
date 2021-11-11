@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       71b33fd6-9a74-43d7-8f9b-a95ef888d2db
+:END:
+#+title: Xnxdlsx Vyrkwiow 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Vyrkwiow
+- vintage :: 1949
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 11.16
+- sugar :: 18.16
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 5.5
+- ratings :: [[id:a4b05382-8e21-40ab-9b7a-ef4d29b0905a][Xnxdlsx Vyrkwiow 1949 - 2013-2-15]]

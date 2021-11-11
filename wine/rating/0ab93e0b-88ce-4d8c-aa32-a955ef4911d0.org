@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0ab93e0b-88ce-4d8c-aa32-a955ef4911d0
+:END:
+#+title: Mabtcl Miuoflx Iyd Mxizsu 1925 - 2017-6-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:3fedb77e-d24a-47eb-b068-2b7427aecc68][Mabtcl Miuoflx Iyd Mxizsu 1925]]
+- date :: 2017-6-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

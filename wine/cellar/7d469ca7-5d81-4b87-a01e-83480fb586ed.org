@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7d469ca7-5d81-4b87-a01e-83480fb586ed
+:END:
+#+title: Ibde Iowlof Ikqhkpfm 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ikqhkpfm
+- vintage :: 1900
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 10.54
+- sugar :: 23.88
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:e0063335-6372-4446-b927-e658561a474e][Ibde Iowlof Ikqhkpfm 1900 - 2005-10-27]]

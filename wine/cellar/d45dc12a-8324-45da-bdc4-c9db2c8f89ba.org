@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d45dc12a-8324-45da-bdc4-c9db2c8f89ba
+:END:
+#+title: Fxbahvi Qqezrar Qcnltgj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Qcnltgj
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 12.370000000000001
+- price :: 82.09 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

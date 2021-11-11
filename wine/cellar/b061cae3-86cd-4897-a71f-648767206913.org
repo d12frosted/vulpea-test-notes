@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b061cae3-86cd-4897-a71f-648767206913
+:END:
+#+title: Xnxdlsx Kapuljx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Kapuljx
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 11.09
+- price :: 12.23 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

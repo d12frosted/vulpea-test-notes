@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       52004207-5fc7-4660-a602-d79d0c5ea72b
+:END:
+#+title: Mgdu Jvwi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Jvwi
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 11.22
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

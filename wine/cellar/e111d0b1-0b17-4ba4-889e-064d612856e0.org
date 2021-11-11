@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e111d0b1-0b17-4ba4-889e-064d612856e0
+:END:
+#+title: Hppbtt Eket 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Eket
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 9.2
+- sugar :: 6.57
+- price :: 83.53 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

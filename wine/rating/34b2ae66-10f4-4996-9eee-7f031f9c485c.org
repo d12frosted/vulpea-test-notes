@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       34b2ae66-10f4-4996-9eee-7f031f9c485c
+:END:
+#+title: Bhpgaqm Pslnklf Oqvyqnjg Onxueqx NV - 1999-12-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:9654d498-85c7-4653-a2de-4c22b127858b][Bhpgaqm Pslnklf Oqvyqnjg Onxueqx]]
+- date :: 1999-12-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

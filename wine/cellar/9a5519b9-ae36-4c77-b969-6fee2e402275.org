@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9a5519b9-ae36-4c77-b969-6fee2e402275
+:END:
+#+title: Ajkygaf Emnb Kqlvthi Nerlcyd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Kqlvthi Nerlcyd
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.629999999999999
+- sugar :: 7.53
+- price :: 60.59 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

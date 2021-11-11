@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b7edc3e3-bcc3-4cc5-989c-adfe300353b8
+:END:
+#+title: Mabtcl Miuoflx Wbe Apte 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Wbe Apte
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 9.86
+- price :: 59.61 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

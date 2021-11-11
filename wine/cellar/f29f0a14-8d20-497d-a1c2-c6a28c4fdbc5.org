@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f29f0a14-8d20-497d-a1c2-c6a28c4fdbc5
+:END:
+#+title: Fxbahvi Qqezrar Xgteox 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Xgteox
+- vintage :: 1968
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 9.7
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:07593bb7-c27d-4e43-802c-581354492e9e][Fxbahvi Qqezrar Xgteox 1968 - 2011-10-16]]

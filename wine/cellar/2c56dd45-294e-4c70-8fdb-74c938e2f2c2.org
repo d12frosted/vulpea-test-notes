@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2c56dd45-294e-4c70-8fdb-74c938e2f2c2
+:END:
+#+title: Mabtcl Miuoflx Puqho Axcf 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Puqho Axcf
+- vintage :: 1946
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 9.41
+- sugar :: 7.6
+- price :: 77.11 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA

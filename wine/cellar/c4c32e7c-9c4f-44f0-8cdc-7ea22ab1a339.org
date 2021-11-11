@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c4c32e7c-9c4f-44f0-8cdc-7ea22ab1a339
+:END:
+#+title: Fxbahvi Qqezrar Oiim 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Oiim
+- vintage :: 1916
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.26
+- sugar :: 14.54
+- price :: 74.43 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

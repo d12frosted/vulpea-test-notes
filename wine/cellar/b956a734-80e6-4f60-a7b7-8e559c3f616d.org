@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b956a734-80e6-4f60-a7b7-8e559c3f616d
+:END:
+#+title: Hppbtt Yjjqzybs Nensqvar 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Yjjqzybs Nensqvar
+- vintage :: 2020
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 10.06
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:bddd190d-2168-45d2-9eb8-36c7f414d9a4][Hppbtt Yjjqzybs Nensqvar 2020 - 2004-10-16]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e51b4d7f-ecda-480b-bdff-8d877b82a82f
+:END:
+#+title: Xnxdlsx Pqb Wbr 1927 - 1993-10-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:13bc3fbb-8aed-4e3a-b26d-2b06b53e5479][Xnxdlsx Pqb Wbr 1927]]
+- date :: 1993-10-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

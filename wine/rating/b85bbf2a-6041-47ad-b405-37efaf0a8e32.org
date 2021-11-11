@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b85bbf2a-6041-47ad-b405-37efaf0a8e32
+:END:
+#+title: Ajkygaf Emnb Zvtvazta Sudixfsr NV - 2024-1-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:61a32827-4e8a-49ba-bd02-c749f966856b][Ajkygaf Emnb Zvtvazta Sudixfsr]]
+- date :: 2024-1-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

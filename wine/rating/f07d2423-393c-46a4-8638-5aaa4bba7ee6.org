@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f07d2423-393c-46a4-8638-5aaa4bba7ee6
+:END:
+#+title: Fxbahvi Qqezrar Jqvrqv Siwo 1981 - 1994-5-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:5a7327b5-9b21-485f-89c7-e0079d3102da][Fxbahvi Qqezrar Jqvrqv Siwo 1981]]
+- date :: 1994-5-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

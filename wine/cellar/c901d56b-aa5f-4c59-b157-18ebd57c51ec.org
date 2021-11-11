@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c901d56b-aa5f-4c59-b157-18ebd57c51ec
+:END:
+#+title: Wdcfn Yrra Kosb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Kosb
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.309999999999999
+- price :: 8.07 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 6.0
+- ratings :: [[id:1f49355c-dd92-4694-9dae-5bce47458210][Wdcfn Yrra Kosb NV - 2023-5-25]]

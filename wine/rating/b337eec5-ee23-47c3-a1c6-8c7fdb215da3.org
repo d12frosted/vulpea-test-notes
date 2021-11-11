@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b337eec5-ee23-47c3-a1c6-8c7fdb215da3
+:END:
+#+title: Bhpgaqm Pslnklf Rjt NV - 2022-8-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:2f962f37-82bc-489b-946e-ef4c69621cd7][Bhpgaqm Pslnklf Rjt]]
+- date :: 2022-8-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

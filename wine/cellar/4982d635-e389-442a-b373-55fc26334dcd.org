@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4982d635-e389-442a-b373-55fc26334dcd
+:END:
+#+title: Wdcfn Yrra Wzv Pzozzqc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Wzv Pzozzqc
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 10.02
+- sugar :: 6.94
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:766040f6-b5c3-4818-ab65-4cf14ac85c80][Wdcfn Yrra Wzv Pzozzqc NV - 2020-12-1]]

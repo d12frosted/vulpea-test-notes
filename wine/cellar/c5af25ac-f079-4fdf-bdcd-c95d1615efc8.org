@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c5af25ac-f079-4fdf-bdcd-c95d1615efc8
+:END:
+#+title: Xnxdlsx Ogm Cehnjv 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ogm Cehnjv
+- vintage :: 1920
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.14
+- sugar :: 17.88
+- price :: 49.73 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:96ef78b8-0905-413b-ae4f-5721124c8bf6][Xnxdlsx Ogm Cehnjv 1920 - 2023-3-20]]

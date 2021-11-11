@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1ccbbf9d-b7dc-49e6-85d6-37ce07e5987d
+:END:
+#+title: Fxbahvi Qqezrar Uos 1985 - 2005-3-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:64e990cf-d523-44f1-ae69-6de2716bbea9][Fxbahvi Qqezrar Uos 1985]]
+- date :: 2005-3-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

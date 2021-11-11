@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       612aad91-8f6d-4092-8071-bde25e1ff258
+:END:
+#+title: Bhpgaqm Pslnklf Dqc 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Dqc
+- vintage :: 1990
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 10.14
+- sugar :: 22.66
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

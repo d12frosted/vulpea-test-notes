@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       732acbc3-d740-48b9-a50b-6ceeea9a90d4
+:END:
+#+title: Wdcfn Yrra Alleel Eztd 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Alleel Eztd
+- vintage :: 1999
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 12.14
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

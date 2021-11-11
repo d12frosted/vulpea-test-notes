@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       404b3e9d-2cd4-4abd-bb44-15249cb8db21
+:END:
+#+title: Xhbm Arsampx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Arsampx
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 10.55
+- price :: 83.90 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:040d7fff-0181-4d5c-8fa0-171fc75d45ad][Xhbm Arsampx NV - 2010-1-27]]

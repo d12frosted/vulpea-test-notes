@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       067af552-210a-4fc0-a80c-3ebd53ee4a53
+:END:
+#+title: Mgdu Wrmfxuk Evfbiqec 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Wrmfxuk Evfbiqec
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 12.5
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:4c32818f-5126-4025-a029-31382771039b][Mgdu Wrmfxuk Evfbiqec NV - 1997-7-12]]

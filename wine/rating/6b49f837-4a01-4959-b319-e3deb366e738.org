@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6b49f837-4a01-4959-b319-e3deb366e738
+:END:
+#+title: Mgdu Ljysueti Maux 2000 - 2005-2-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:b5009ec9-85b8-405d-ad7e-61d175934d70][Mgdu Ljysueti Maux 2000]]
+- date :: 2005-2-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       13c23974-2093-47de-9ac2-293dbc98a11f
+:END:
+#+title: Mgdu Wpdwel Rts 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Wpdwel Rts
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 12.7
+- sugar :: 9.2
+- price :: 40.65 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

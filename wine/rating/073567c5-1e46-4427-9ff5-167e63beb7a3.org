@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       073567c5-1e46-4427-9ff5-167e63beb7a3
+:END:
+#+title: Ibde Iowlof Wxbujb NV - 2002-3-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:94d929e3-039a-40f1-a301-7e8b9d39149f][Ibde Iowlof Wxbujb]]
+- date :: 2002-3-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

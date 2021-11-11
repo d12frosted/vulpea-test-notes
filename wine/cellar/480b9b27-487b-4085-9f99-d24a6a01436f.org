@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       480b9b27-487b-4085-9f99-d24a6a01436f
+:END:
+#+title: Ajkygaf Emnb Yzvxh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Yzvxh
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.69
+- price :: 99.71 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:d827b039-3d2e-4ba2-b31e-2c8515c32726][Ajkygaf Emnb Yzvxh NV - 1993-9-14]]

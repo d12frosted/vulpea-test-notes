@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       587edc41-a7fd-48b6-aeae-06dd82ae5b1e
+:END:
+#+title: Ibde Iowlof Fyvj NV - 2018-11-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:af4b6b4a-4514-4b21-a85c-57175a1ed692][Ibde Iowlof Fyvj]]
+- date :: 2018-11-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

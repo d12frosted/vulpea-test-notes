@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bc62c75d-8153-488e-9615-ce0e87f90647
+:END:
+#+title: Ajkygaf Emnb Aaaiysz 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Aaaiysz
+- vintage :: 2006
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 9.58
+- price :: 41.42 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

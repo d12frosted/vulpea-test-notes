@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       831c9a22-70d3-44ee-af3a-b43323b1cb55
+:END:
+#+title: Mabtcl Miuoflx Isckhikv Rkzlahc 1969 - 2005-5-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:2721d857-790f-4847-839f-66b6a94bbd87][Mabtcl Miuoflx Isckhikv Rkzlahc 1969]]
+- date :: 2005-5-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

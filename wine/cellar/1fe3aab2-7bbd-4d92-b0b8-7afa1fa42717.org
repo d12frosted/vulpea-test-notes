@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1fe3aab2-7bbd-4d92-b0b8-7afa1fa42717
+:END:
+#+title: Wdcfn Yrra Ibtvb 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Ibtvb
+- vintage :: 1932
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 11.82
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

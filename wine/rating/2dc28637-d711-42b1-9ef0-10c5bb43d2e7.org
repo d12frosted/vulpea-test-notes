@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2dc28637-d711-42b1-9ef0-10c5bb43d2e7
+:END:
+#+title: Xhbm Peekgzlg NV - 2008-6-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:99c8aad0-ae39-404c-900b-3b3b1ee253ab][Xhbm Peekgzlg]]
+- date :: 2008-6-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

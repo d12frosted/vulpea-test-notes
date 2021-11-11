@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b29b6bce-c4d2-468a-9c87-0dde2e60269c
+:END:
+#+title: Ibde Iowlof Gznxyu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Gznxyu
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 11.49
+- price :: 44.66 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

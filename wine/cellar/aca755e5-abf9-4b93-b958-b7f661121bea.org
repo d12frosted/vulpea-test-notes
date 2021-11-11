@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       aca755e5-abf9-4b93-b958-b7f661121bea
+:END:
+#+title: Bhpgaqm Pslnklf Onlbfwgd Bslfhlf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Onlbfwgd Bslfhlf
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 13.559999999999999
+- sugar :: 15.26
+- price :: 81.24 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.5
+- ratings :: [[id:43ebc74a-9a38-454b-8b66-6dfea03b10a4][Bhpgaqm Pslnklf Onlbfwgd Bslfhlf NV - 2023-5-10]]

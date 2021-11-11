@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3d6d7c46-b6c3-4b88-9317-62c7160f1b5d
+:END:
+#+title: Xhbm Jfgul 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Jfgul
+- vintage :: 1943
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 13.74
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:80bdc61d-998b-4c13-a6a4-2940e0711416][Xhbm Jfgul 1943 - 2010-5-18]]

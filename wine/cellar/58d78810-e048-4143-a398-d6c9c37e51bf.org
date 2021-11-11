@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       58d78810-e048-4143-a398-d6c9c37e51bf
+:END:
+#+title: Fxbahvi Qqezrar Iwvnxb Domhns 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Iwvnxb Domhns
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 11.21
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 8.5
+- ratings :: [[id:e168a9fd-f2a5-4b53-8728-f9f8ffcb644c][Fxbahvi Qqezrar Iwvnxb Domhns NV - 1999-8-4]]

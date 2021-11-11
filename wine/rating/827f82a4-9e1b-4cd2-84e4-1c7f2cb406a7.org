@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       827f82a4-9e1b-4cd2-84e4-1c7f2cb406a7
+:END:
+#+title: Mabtcl Miuoflx Zowjqlnn 1903 - 2013-1-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:cde4b14c-e100-498e-b42b-e6c5f3781eba][Mabtcl Miuoflx Zowjqlnn 1903]]
+- date :: 2013-1-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

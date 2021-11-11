@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6f3559ca-3031-4903-8f9f-ac8d6be5ddf0
+:END:
+#+title: Ibde Iowlof Alfcmm Lhje 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Alfcmm Lhje
+- vintage :: 1990
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.01
+- price :: 32.74 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

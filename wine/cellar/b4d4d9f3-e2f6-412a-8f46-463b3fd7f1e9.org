@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b4d4d9f3-e2f6-412a-8f46-463b3fd7f1e9
+:END:
+#+title: Wdcfn Yrra Jdoycb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Jdoycb
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 9.87
+- price :: 69.13 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

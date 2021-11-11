@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1a299ee4-63b3-4f8b-8330-fcfa1ba6efae
+:END:
+#+title: Mabtcl Miuoflx Odbxcu 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Odbxcu
+- vintage :: 1938
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 12.03
+- price :: 10.04 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:af692c0f-b286-411e-bc1a-30f2e1dcc8e0][Mabtcl Miuoflx Odbxcu 1938 - 2023-7-16]]

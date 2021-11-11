@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       34fd312d-8331-4073-bcb8-3bcd8bb2720c
+:END:
+#+title: Bhpgaqm Pslnklf Tdfdoexf Wgg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Tdfdoexf Wgg
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 11.18
+- price :: 31.75 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

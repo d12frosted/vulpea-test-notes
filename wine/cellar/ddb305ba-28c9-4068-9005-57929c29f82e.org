@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ddb305ba-28c9-4068-9005-57929c29f82e
+:END:
+#+title: Xnxdlsx Wbxd 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Wbxd
+- vintage :: 1931
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.61
+- sugar :: 15.64
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: 1.5
+- ratings :: [[id:a24f2880-874a-44bc-8473-b8088344ac8b][Xnxdlsx Wbxd 1931 - 2008-8-24]]

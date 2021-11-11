@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2c60baca-718e-4b1c-a01e-cb4b27670231
+:END:
+#+title: Fxbahvi Qqezrar Pvdor 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Pvdor
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 13.25
+- price :: 73.70 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

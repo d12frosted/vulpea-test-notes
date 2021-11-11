@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       19adde2f-cdc3-4f0b-a5da-aeff8715d06f
+:END:
+#+title: Mgdu Eaoihx 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Eaoihx
+- vintage :: 1955
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 12.26
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

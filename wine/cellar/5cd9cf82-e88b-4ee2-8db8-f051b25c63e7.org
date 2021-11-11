@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5cd9cf82-e88b-4ee2-8db8-f051b25c63e7
+:END:
+#+title: Fxbahvi Qqezrar Bhmfrgqf Bszpbxcc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Bhmfrgqf Bszpbxcc
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 10.66
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

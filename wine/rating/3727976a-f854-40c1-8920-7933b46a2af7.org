@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3727976a-f854-40c1-8920-7933b46a2af7
+:END:
+#+title: Ajkygaf Emnb Qrghtm 1974 - 1990-11-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:8dd6750d-dd4a-4d60-a968-7305a14d2e86][Ajkygaf Emnb Qrghtm 1974]]
+- date :: 1990-11-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

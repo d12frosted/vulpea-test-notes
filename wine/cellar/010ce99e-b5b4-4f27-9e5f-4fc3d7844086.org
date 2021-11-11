@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       010ce99e-b5b4-4f27-9e5f-4fc3d7844086
+:END:
+#+title: Ibde Iowlof Ckesvt Ugt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ckesvt Ugt
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.67
+- sugar :: 0.2
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

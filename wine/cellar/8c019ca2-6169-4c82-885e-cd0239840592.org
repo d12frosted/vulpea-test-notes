@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8c019ca2-6169-4c82-885e-cd0239840592
+:END:
+#+title: Wdcfn Yrra Eekfgvzt Slc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Eekfgvzt Slc
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 13.86
+- sugar :: 7.55
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

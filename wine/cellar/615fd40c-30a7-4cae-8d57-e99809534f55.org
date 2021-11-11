@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       615fd40c-30a7-4cae-8d57-e99809534f55
+:END:
+#+title: Bhpgaqm Pslnklf Lua 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Lua
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 13.83
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

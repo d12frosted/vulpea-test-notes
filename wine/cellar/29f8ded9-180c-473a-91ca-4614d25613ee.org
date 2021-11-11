@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       29f8ded9-180c-473a-91ca-4614d25613ee
+:END:
+#+title: Xhbm Vuzk Joykxp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Vuzk Joykxp
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.58
+- price :: 52.54 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c0baca2d-0d14-471e-9141-fb467a469c4c
+:END:
+#+title: Fxbahvi Qqezrar Micdxot 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Micdxot
+- vintage :: 1905
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 9.77
+- sugar :: 7.52
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

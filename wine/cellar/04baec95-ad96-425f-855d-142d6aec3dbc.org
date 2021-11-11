@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       04baec95-ad96-425f-855d-142d6aec3dbc
+:END:
+#+title: Hppbtt Uejhiu Aptjjgld 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Uejhiu Aptjjgld
+- vintage :: 1900
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 13.79
+- price :: 93.22 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

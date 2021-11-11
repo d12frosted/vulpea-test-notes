@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d1ab277e-e6d2-4f8d-8e97-82d4005d9fc3
+:END:
+#+title: Hppbtt Skjujiv Vsn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Skjujiv Vsn
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 9.49
+- sugar :: 1.79
+- price :: 6.30 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

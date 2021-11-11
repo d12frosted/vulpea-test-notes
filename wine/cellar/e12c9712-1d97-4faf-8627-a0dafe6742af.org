@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e12c9712-1d97-4faf-8627-a0dafe6742af
+:END:
+#+title: Mabtcl Miuoflx Ricq 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Ricq
+- vintage :: 1983
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 12.39
+- price :: 62.95 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:5acf1a59-3fb0-4186-ae12-bb8896aa1ebe][Mabtcl Miuoflx Ricq 1983 - 2022-1-4]]

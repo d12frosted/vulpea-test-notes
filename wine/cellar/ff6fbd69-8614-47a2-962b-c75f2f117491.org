@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ff6fbd69-8614-47a2-962b-c75f2f117491
+:END:
+#+title: Fxbahvi Qqezrar Zfv Ncqfhi 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Zfv Ncqfhi
+- vintage :: 1930
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.88
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

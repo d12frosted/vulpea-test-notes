@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f69e663a-c316-42a4-b0d9-08bf6496c239
+:END:
+#+title: Mabtcl Miuoflx Ihwcny NV - 2003-9-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:e5ba8ffb-783f-4bc9-8631-c741ec5ee4a3][Mabtcl Miuoflx Ihwcny]]
+- date :: 2003-9-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

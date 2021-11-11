@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9faa090a-1f54-4792-a0bb-9fe5b7086889
+:END:
+#+title: Ibde Iowlof Oole Dwlp 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Oole Dwlp
+- vintage :: 2018
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 9.99
+- sugar :: 12.6
+- price :: 16.02 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

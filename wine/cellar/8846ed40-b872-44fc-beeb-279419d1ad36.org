@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8846ed40-b872-44fc-beeb-279419d1ad36
+:END:
+#+title: Ibde Iowlof Cqp 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Cqp
+- vintage :: 1907
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 11.16
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

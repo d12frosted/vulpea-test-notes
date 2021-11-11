@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c0f5dc59-36fb-4e7d-8f50-dd0322918158
+:END:
+#+title: Bhpgaqm Pslnklf Yyfdnug Wzejgvv 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Yyfdnug Wzejgvv
+- vintage :: 1975
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 9.85
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 5.0
+- ratings :: [[id:d548e2a7-9e75-408e-9561-02958f91d59e][Bhpgaqm Pslnklf Yyfdnug Wzejgvv 1975 - 2020-9-17]]

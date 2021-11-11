@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       48056a35-5e14-4ca9-a697-02482e27591c
+:END:
+#+title: Xnxdlsx Shoskpm Vpdbuo NV - 2009-12-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:bdd7391e-7e6c-45cb-9439-2b63ee8f1c5f][Xnxdlsx Shoskpm Vpdbuo]]
+- date :: 2009-12-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

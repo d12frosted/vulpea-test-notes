@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9f6cde80-cb0f-4273-8ca1-26c0e6cde6d3
+:END:
+#+title: Hppbtt Nios 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Nios
+- vintage :: 1948
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.78
+- price :: 44.49 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

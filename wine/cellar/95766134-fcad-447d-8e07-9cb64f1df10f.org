@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       95766134-fcad-447d-8e07-9cb64f1df10f
+:END:
+#+title: Hppbtt Hneo Rtm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Hneo Rtm
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 13.45
+- sugar :: 19.0
+- price :: 24.86 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 2.5
+- ratings :: [[id:b6d731aa-5ed6-4873-ab06-a6152a9b48c0][Hppbtt Hneo Rtm NV - 2023-8-2]]

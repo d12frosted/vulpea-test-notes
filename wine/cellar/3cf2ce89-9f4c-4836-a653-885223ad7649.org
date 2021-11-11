@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3cf2ce89-9f4c-4836-a653-885223ad7649
+:END:
+#+title: Mgdu Fac Dwlzk 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Fac Dwlzk
+- vintage :: 1996
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 13.469999999999999
+- price :: 60.73 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

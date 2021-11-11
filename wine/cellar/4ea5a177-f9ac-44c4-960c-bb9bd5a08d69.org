@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4ea5a177-f9ac-44c4-960c-bb9bd5a08d69
+:END:
+#+title: Ajkygaf Emnb Jweqdbuq Oeftemh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Jweqdbuq Oeftemh
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 12.21
+- price :: 43.75 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 6.5
+- ratings :: [[id:898cbe0e-2cfa-4670-ab13-cb6bdf7a7a63][Ajkygaf Emnb Jweqdbuq Oeftemh NV - 2006-11-21]]

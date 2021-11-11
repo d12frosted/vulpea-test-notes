@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       99ca1033-4c0b-454d-bc56-0b56a0b4b486
+:END:
+#+title: Xnxdlsx Jqypscs 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Jqypscs
+- vintage :: 2015
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 11.02
+- sugar :: 4.41
+- price :: 8.43 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:c82180f5-abb3-4f86-80ec-6693fb009da5][Xnxdlsx Jqypscs 2015 - 2000-2-6]]

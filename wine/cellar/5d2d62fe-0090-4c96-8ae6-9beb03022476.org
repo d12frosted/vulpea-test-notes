@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5d2d62fe-0090-4c96-8ae6-9beb03022476
+:END:
+#+title: Ibde Iowlof Qbnxeqoe 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Qbnxeqoe
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 9.15
+- sugar :: 19.51
+- price :: 83.52 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c7864347-07e7-48ff-a0c7-b5ac4fe088a2
+:END:
+#+title: Wdcfn Yrra Tcicrzza Spmno 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Tcicrzza Spmno
+- vintage :: 1964
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 10.56
+- sugar :: 2.03
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.0
+- ratings :: [[id:bdb2815e-d733-4a3e-9530-9a7f116d2422][Wdcfn Yrra Tcicrzza Spmno 1964 - 2008-6-28]]

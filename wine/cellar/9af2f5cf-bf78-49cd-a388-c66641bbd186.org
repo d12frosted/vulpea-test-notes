@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9af2f5cf-bf78-49cd-a388-c66641bbd186
+:END:
+#+title: Xhbm Aqpnvop Ksinlvtz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Aqpnvop Ksinlvtz
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 9.62
+- sugar :: 23.56
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       743d1f22-6472-4a3e-93b9-9be99c3e3008
+:END:
+#+title: Mgdu Eiqtao Pjdsv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Eiqtao Pjdsv
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 10.23
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

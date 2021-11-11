@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6657c6fa-3870-4ae4-8206-7c9a5305a047
+:END:
+#+title: Bhpgaqm Pslnklf Vyopcbp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Vyopcbp
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.379999999999999
+- price :: 15.04 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:de5896da-fe53-4363-8289-76ab7b57cb55][Bhpgaqm Pslnklf Vyopcbp NV - 2022-9-21]]

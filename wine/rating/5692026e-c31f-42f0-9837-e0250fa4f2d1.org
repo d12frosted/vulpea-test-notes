@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5692026e-c31f-42f0-9837-e0250fa4f2d1
+:END:
+#+title: Wdcfn Yrra Ewujnhqz Tgclxxum NV - 2002-5-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:59a3a52c-8696-4ed3-a3a1-754ddeaf8d1b][Wdcfn Yrra Ewujnhqz Tgclxxum]]
+- date :: 2002-5-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

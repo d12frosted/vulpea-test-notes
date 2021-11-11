@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       280caa72-92c8-436a-8017-cf3c20909491
+:END:
+#+title: Ajkygaf Emnb Tik Zvluqvpw 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Tik Zvluqvpw
+- vintage :: 1963
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.82
+- sugar :: 9.89
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:38e21917-fb34-4581-9306-6974bf1009c9][Ajkygaf Emnb Tik Zvluqvpw 1963 - 2010-11-26]]

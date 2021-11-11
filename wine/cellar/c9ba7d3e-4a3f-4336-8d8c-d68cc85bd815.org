@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c9ba7d3e-4a3f-4336-8d8c-d68cc85bd815
+:END:
+#+title: Hppbtt Ymedb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ymedb
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 10.95
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

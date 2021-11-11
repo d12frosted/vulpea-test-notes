@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a888d69e-c038-4107-adda-2536f8673dd1
+:END:
+#+title: Wdcfn Yrra Orxb 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Orxb
+- vintage :: 1929
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.63
+- price :: 23.09 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:8ae96248-4295-4452-b8e6-06c2c00d0133][Wdcfn Yrra Orxb 1929 - 2003-11-15]]

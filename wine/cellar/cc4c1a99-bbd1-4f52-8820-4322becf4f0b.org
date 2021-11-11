@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       cc4c1a99-bbd1-4f52-8820-4322becf4f0b
+:END:
+#+title: Xhbm Rjyjc Ynkpz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Rjyjc Ynkpz
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 13.71
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

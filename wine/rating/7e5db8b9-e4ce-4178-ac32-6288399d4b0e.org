@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7e5db8b9-e4ce-4178-ac32-6288399d4b0e
+:END:
+#+title: Xnxdlsx Hud Nozmuujn NV - 1995-3-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:75c70e2f-3159-4bce-9aa0-fa4c1523d4cc][Xnxdlsx Hud Nozmuujn]]
+- date :: 1995-3-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       824dd382-9f00-4027-98e2-9f92524a30b5
+:END:
+#+title: Wdcfn Yrra Pgspkbr Esrjqw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Pgspkbr Esrjqw
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 13.68
+- sugar :: 2.31
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 7.5
+- ratings :: [[id:ab8ca778-16c3-47a7-91c0-7456e71362c0][Wdcfn Yrra Pgspkbr Esrjqw NV - 2001-4-16]]

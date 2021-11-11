@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b17d656a-df28-4961-8606-0ce731a8334c
+:END:
+#+title: Ajkygaf Emnb Mdi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Mdi
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 10.68
+- sugar :: 4.14
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

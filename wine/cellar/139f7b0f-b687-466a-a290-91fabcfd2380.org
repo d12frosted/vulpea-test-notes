@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       139f7b0f-b687-466a-a290-91fabcfd2380
+:END:
+#+title: Xnxdlsx Dzlgq Fjroz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Dzlgq Fjroz
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 13.690000000000001
+- sugar :: 8.15
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

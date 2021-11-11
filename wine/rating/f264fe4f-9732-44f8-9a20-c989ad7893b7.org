@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f264fe4f-9732-44f8-9a20-c989ad7893b7
+:END:
+#+title: Fxbahvi Qqezrar Bqjkq Sadsv NV - 2018-7-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:555b6845-2109-4179-9a99-a56dc64a86d0][Fxbahvi Qqezrar Bqjkq Sadsv]]
+- date :: 2018-7-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

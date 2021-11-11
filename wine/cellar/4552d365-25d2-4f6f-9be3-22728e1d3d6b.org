@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4552d365-25d2-4f6f-9be3-22728e1d3d6b
+:END:
+#+title: Xhbm Nzrfal Mklpuq 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Nzrfal Mklpuq
+- vintage :: 1953
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 11.74
+- price :: 42.69 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

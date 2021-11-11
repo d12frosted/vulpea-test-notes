@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5c08bd85-ac3c-4489-822a-3ee189899a87
+:END:
+#+title: Hppbtt Lupr 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Lupr
+- vintage :: 1943
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 11.49
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

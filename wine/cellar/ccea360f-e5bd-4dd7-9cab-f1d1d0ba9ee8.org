@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ccea360f-e5bd-4dd7-9cab-f1d1d0ba9ee8
+:END:
+#+title: Bhpgaqm Pslnklf Dlbrycox Kkciendd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Dlbrycox Kkciendd
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 13.04
+- sugar :: 14.64
+- price :: 100.44 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

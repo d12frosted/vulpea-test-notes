@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3945db95-934e-4422-ac3c-5bc8329c0f8d
+:END:
+#+title: Fxbahvi Qqezrar Yomvg 2000 - 2014-3-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:c4fe6cb0-06ec-42ee-929d-b570d1a30b8f][Fxbahvi Qqezrar Yomvg 2000]]
+- date :: 2014-3-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d55043b7-c409-4149-99cb-2351341149b0
+:END:
+#+title: Mgdu Ksu Qhu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ksu Qhu
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 12.0
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2877858b-711d-4068-af1d-af1a746707f0
+:END:
+#+title: Fxbahvi Qqezrar Onzj Ckcn 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Onzj Ckcn
+- vintage :: 1979
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 13.7
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

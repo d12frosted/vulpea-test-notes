@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d334e307-4d79-441a-ad15-ae3e2301c854
+:END:
+#+title: Xnxdlsx Oyyphr 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Oyyphr
+- vintage :: 1948
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 13.14
+- sugar :: 4.33
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

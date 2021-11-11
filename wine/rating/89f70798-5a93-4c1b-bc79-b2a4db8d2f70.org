@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       89f70798-5a93-4c1b-bc79-b2a4db8d2f70
+:END:
+#+title: Xnxdlsx Afxyfalc 2019 - 2020-7-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:78daa92e-a512-4021-938c-9fc951028e7c][Xnxdlsx Afxyfalc 2019]]
+- date :: 2020-7-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

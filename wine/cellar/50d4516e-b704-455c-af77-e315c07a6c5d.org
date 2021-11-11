@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       50d4516e-b704-455c-af77-e315c07a6c5d
+:END:
+#+title: Mabtcl Miuoflx Esulqd Uhji 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Esulqd Uhji
+- vintage :: 2015
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 10.04
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:19f6e4b9-7aa4-455c-9be6-ecded79dff64][Mabtcl Miuoflx Esulqd Uhji 2015 - 2019-3-3]]

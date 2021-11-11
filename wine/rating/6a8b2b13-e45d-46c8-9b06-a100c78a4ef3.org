@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6a8b2b13-e45d-46c8-9b06-a100c78a4ef3
+:END:
+#+title: Mgdu Uwkrrej NV - 1994-11-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:12027341-62da-422d-8841-0d968dcc904d][Mgdu Uwkrrej]]
+- date :: 1994-11-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

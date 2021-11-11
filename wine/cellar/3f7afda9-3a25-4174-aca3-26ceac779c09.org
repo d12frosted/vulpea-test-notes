@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3f7afda9-3a25-4174-aca3-26ceac779c09
+:END:
+#+title: Xnxdlsx Mtmzjtie Cstux 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Mtmzjtie Cstux
+- vintage :: 1991
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 10.879999999999999
+- sugar :: 1.98
+- price :: 59.18 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

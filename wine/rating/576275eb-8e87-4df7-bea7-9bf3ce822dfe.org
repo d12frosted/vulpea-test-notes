@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       576275eb-8e87-4df7-bea7-9bf3ce822dfe
+:END:
+#+title: Fxbahvi Qqezrar Helt Jwhdmz NV - 2022-10-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:f0a11b14-a709-4f6b-9642-6a5867ff2e12][Fxbahvi Qqezrar Helt Jwhdmz]]
+- date :: 2022-10-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

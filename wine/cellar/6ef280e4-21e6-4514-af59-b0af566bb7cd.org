@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6ef280e4-21e6-4514-af59-b0af566bb7cd
+:END:
+#+title: Ibde Iowlof Gzvjjsx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Gzvjjsx
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 12.57
+- price :: 13.61 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

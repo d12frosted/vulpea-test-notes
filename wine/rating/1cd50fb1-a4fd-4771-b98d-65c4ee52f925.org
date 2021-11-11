@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1cd50fb1-a4fd-4771-b98d-65c4ee52f925
+:END:
+#+title: Mgdu Hkcbxrt NV - 2019-8-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:a2c1263b-cacb-4a3d-a4b5-86ab286d9f6f][Mgdu Hkcbxrt]]
+- date :: 2019-8-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

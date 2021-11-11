@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bc9de484-6799-44c3-998c-0239b43b6088
+:END:
+#+title: Wdcfn Yrra Hvahar 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Hvahar
+- vintage :: 2007
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.91
+- sugar :: 1.35
+- price :: 70.77 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

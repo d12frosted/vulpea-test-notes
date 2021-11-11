@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fbb7dcba-bf00-48ae-8403-b87c6f632f4c
+:END:
+#+title: Ibde Iowlof Uqxz 1966 - 2014-1-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:ada97487-db8b-4723-9bda-d35185f87de7][Ibde Iowlof Uqxz 1966]]
+- date :: 2014-1-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       412a6bb8-d67a-4d60-816d-f1aad7c159e1
+:END:
+#+title: Mgdu Ukkevki NV - 2007-8-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:f9d21f5f-1723-467c-96e3-d449722c884c][Mgdu Ukkevki]]
+- date :: 2007-8-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

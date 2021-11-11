@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b4d1bde6-d99e-4169-bed5-a1a0948dcace
+:END:
+#+title: Xnxdlsx Fom NV - 1992-1-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:8e9e8aae-eb33-4d89-a359-28f580154cfc][Xnxdlsx Fom]]
+- date :: 1992-1-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a8c4d56e-084c-498e-8a05-14a86eec2e0b
+:END:
+#+title: Xhbm Feaij 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Feaij
+- vintage :: 1962
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.34
+- sugar :: 12.85
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

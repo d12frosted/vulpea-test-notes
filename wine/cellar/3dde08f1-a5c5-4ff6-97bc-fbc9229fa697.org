@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3dde08f1-a5c5-4ff6-97bc-fbc9229fa697
+:END:
+#+title: Ajkygaf Emnb Kkv Uuorasgw 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Kkv Uuorasgw
+- vintage :: 1936
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 9.16
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:0f50ab27-c441-4bd8-9b56-532eba69e3c7][Ajkygaf Emnb Kkv Uuorasgw 1936 - 2000-9-16]]

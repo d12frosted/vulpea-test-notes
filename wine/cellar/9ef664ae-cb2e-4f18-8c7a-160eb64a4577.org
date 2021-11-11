@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9ef664ae-cb2e-4f18-8c7a-160eb64a4577
+:END:
+#+title: Ibde Iowlof Nef Bgexv 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Nef Bgexv
+- vintage :: 1964
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 9.6
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

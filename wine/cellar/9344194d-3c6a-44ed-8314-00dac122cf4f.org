@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9344194d-3c6a-44ed-8314-00dac122cf4f
+:END:
+#+title: Mabtcl Miuoflx Zoht 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Zoht
+- vintage :: 1949
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 13.61
+- price :: 93.83 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

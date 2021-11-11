@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dc3dbc63-fd21-47d6-84e2-86746bdbbd6f
+:END:
+#+title: Wdcfn Yrra Nstysrp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Nstysrp
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 12.05
+- price :: 83.08 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:a2cac449-d10c-4f5a-9c4e-ed2ce34424c1][Wdcfn Yrra Nstysrp NV - 2020-7-22]]

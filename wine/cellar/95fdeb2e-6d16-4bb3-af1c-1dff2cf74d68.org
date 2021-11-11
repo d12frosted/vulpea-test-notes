@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       95fdeb2e-6d16-4bb3-af1c-1dff2cf74d68
+:END:
+#+title: Bhpgaqm Pslnklf Ahzvvz 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ahzvvz
+- vintage :: 1999
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 13.92
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

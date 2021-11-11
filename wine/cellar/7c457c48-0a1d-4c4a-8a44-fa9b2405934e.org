@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7c457c48-0a1d-4c4a-8a44-fa9b2405934e
+:END:
+#+title: Wdcfn Yrra Zxtbhzle 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Zxtbhzle
+- vintage :: 1917
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 12.42
+- sugar :: 9.22
+- price :: 24.18 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

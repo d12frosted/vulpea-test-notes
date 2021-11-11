@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8eaad0c1-cee8-41bd-a985-802eb8b3d511
+:END:
+#+title: Hppbtt Qwoewwz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Qwoewwz
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 12.620000000000001
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       af8a9385-6ae1-4c64-83d0-63c09b375d81
+:END:
+#+title: Xnxdlsx Khtogqc Skmga 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Khtogqc Skmga
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 11.75
+- price :: 7.95 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

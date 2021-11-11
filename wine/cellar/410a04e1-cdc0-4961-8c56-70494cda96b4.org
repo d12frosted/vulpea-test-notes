@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       410a04e1-cdc0-4961-8c56-70494cda96b4
+:END:
+#+title: Hppbtt Zfpnvoq Zlnndwxd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Zfpnvoq Zlnndwxd
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 12.21
+- sugar :: 16.26
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

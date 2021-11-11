@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       472414d5-d03d-4f11-a7df-9ba8f90ee335
+:END:
+#+title: Hppbtt Qrmyh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Qrmyh
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 10.05
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

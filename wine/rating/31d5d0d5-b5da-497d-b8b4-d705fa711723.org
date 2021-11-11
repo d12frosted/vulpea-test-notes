@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       31d5d0d5-b5da-497d-b8b4-d705fa711723
+:END:
+#+title: Wdcfn Yrra Rpbcul NV - 2012-8-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:c030e01f-5d77-4502-8271-45e7ff545a9f][Wdcfn Yrra Rpbcul]]
+- date :: 2012-8-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e2350b21-893a-4966-bbf6-eba496f36406
+:END:
+#+title: Hppbtt Bpkqgyz Ske 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Bpkqgyz Ske
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.13
+- price :: 88.23 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

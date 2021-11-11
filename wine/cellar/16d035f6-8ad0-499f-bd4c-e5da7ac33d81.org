@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       16d035f6-8ad0-499f-bd4c-e5da7ac33d81
+:END:
+#+title: Ibde Iowlof Xulmyni Jofi 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Xulmyni Jofi
+- vintage :: 1903
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 13.8
+- sugar :: 14.76
+- price :: 88.87 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

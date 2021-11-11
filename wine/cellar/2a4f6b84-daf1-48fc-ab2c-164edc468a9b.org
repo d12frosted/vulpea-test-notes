@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2a4f6b84-daf1-48fc-ab2c-164edc468a9b
+:END:
+#+title: Mgdu Mojtxax Tespq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Mojtxax Tespq
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 13.77
+- price :: 16.06 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 4.0
+- ratings :: [[id:53c8f4d8-a163-4b63-8d87-494b1ea7c694][Mgdu Mojtxax Tespq NV - 2002-3-22]]

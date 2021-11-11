@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       280bc167-92a7-4bc4-9bf9-9914f6467f09
+:END:
+#+title: Xnxdlsx Jqjhkxd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Jqjhkxd
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 10.77
+- sugar :: 12.17
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:b954363d-12b1-4455-9317-e055faff02d9][Xnxdlsx Jqjhkxd NV - 2022-11-28]]

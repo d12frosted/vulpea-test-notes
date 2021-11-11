@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       490f2e51-6f6d-46bf-9d4f-5b60eefb0754
+:END:
+#+title: Wdcfn Yrra Odz Azlczm 1973 - 2019-7-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:5e12df1e-15cc-47f3-817f-0612715825b4][Wdcfn Yrra Odz Azlczm 1973]]
+- date :: 2019-7-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

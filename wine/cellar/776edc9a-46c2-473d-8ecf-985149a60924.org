@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       776edc9a-46c2-473d-8ecf-985149a60924
+:END:
+#+title: Bhpgaqm Pslnklf Iavafc Lhjhvzgx 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Iavafc Lhjhvzgx
+- vintage :: 1936
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 10.35
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:3f780300-41f1-4d74-b4fe-d80117ebf35e][Bhpgaqm Pslnklf Iavafc Lhjhvzgx 1936 - 1997-1-25]]

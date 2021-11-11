@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e6b5c314-ba9c-4211-b92e-e49ad20458bc
+:END:
+#+title: Xhbm Uhgqhfwg 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Uhgqhfwg
+- vintage :: 1965
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 13.91
+- price :: 6.28 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:1b793598-1703-4274-bc77-b1ca3f38137b][Xhbm Uhgqhfwg 1965 - 1998-4-16]]

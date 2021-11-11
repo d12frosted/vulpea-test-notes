@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       762f6b88-8348-4815-8c29-b50547737439
+:END:
+#+title: Wdcfn Yrra Nar Zclonzw 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Nar Zclonzw
+- vintage :: 2012
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.12
+- price :: 87.90 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

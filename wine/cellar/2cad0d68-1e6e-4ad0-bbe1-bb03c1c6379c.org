@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2cad0d68-1e6e-4ad0-bbe1-bb03c1c6379c
+:END:
+#+title: Xhbm Akd 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Akd
+- vintage :: 1991
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.94
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 6.5
+- ratings :: [[id:0552767a-0e01-4035-9bce-faf3ccf19a91][Xhbm Akd 1991 - 2014-11-22]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f428999f-cf17-43d2-bdcc-3c8bfdaa23ce
+:END:
+#+title: Fxbahvi Qqezrar Hyj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Hyj
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 12.59
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 9.0
+- ratings :: [[id:ad419386-6f24-49f0-8997-f91d89d88bc3][Fxbahvi Qqezrar Hyj NV - 1999-6-13]]

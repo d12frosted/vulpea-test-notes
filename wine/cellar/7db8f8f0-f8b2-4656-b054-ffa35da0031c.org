@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7db8f8f0-f8b2-4656-b054-ffa35da0031c
+:END:
+#+title: Mgdu Cbgew Jxbi 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Cbgew Jxbi
+- vintage :: 1979
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 12.99
+- sugar :: 1.22
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

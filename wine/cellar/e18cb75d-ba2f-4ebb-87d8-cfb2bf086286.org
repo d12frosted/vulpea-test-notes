@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       e18cb75d-ba2f-4ebb-87d8-cfb2bf086286
+:END:
+#+title: Bhpgaqm Pslnklf Eznorvlb Hzqxehvk 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Eznorvlb Hzqxehvk
+- vintage :: 2014
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 13.17
+- sugar :: 13.06
+- price :: 90.31 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:afa51c90-a843-4129-951f-58b5c06f344d][Bhpgaqm Pslnklf Eznorvlb Hzqxehvk 2014 - 2009-9-18]]

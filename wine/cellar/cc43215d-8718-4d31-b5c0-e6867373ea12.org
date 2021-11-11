@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cc43215d-8718-4d31-b5c0-e6867373ea12
+:END:
+#+title: Ibde Iowlof Tzxlvcn Tqdo 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Tzxlvcn Tqdo
+- vintage :: 1944
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 11.14
+- sugar :: 0.7
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

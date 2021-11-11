@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3eda1025-697d-4189-a8ce-429b6bdd87cf
+:END:
+#+title: Ibde Iowlof Vjljayb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Vjljayb
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 9.67
+- sugar :: 9.67
+- price :: 70.07 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

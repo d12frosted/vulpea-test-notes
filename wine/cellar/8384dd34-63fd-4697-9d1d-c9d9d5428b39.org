@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8384dd34-63fd-4697-9d1d-c9d9d5428b39
+:END:
+#+title: Xnxdlsx Qlmpsvgp Vabtu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Qlmpsvgp Vabtu
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 9.38
+- sugar :: 6.21
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

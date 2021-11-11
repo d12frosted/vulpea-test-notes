@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3a5d9f23-a801-4e02-97b4-193e9b4884c6
+:END:
+#+title: Ajkygaf Emnb Swrnyfde 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Swrnyfde
+- vintage :: 1967
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 9.86
+- sugar :: 4.06
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

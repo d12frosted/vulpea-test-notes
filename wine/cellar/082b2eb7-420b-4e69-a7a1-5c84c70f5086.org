@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       082b2eb7-420b-4e69-a7a1-5c84c70f5086
+:END:
+#+title: Wdcfn Yrra Ibd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Ibd
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 12.94
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 3.0
+- ratings :: [[id:935b4fa6-0209-4c7d-be08-9826f0bfc719][Wdcfn Yrra Ibd NV - 2001-4-15]]

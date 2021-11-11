@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4c32818f-5126-4025-a029-31382771039b
+:END:
+#+title: Mgdu Wrmfxuk Evfbiqec NV - 1997-7-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:067af552-210a-4fc0-a80c-3ebd53ee4a53][Mgdu Wrmfxuk Evfbiqec]]
+- date :: 1997-7-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

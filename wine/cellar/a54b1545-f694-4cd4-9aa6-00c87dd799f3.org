@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a54b1545-f694-4cd4-9aa6-00c87dd799f3
+:END:
+#+title: Fxbahvi Qqezrar Kxpf 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Kxpf
+- vintage :: 2009
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 12.39
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:60296df8-9e5f-41cb-ade7-81953931eb47][Fxbahvi Qqezrar Kxpf 2009 - 1994-9-5]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       940adefb-fea7-4226-a99e-c34a2204c166
+:END:
+#+title: Bhpgaqm Pslnklf Theoitg 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Theoitg
+- vintage :: 2000
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 12.4
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 8.0
+- ratings :: [[id:697dbd77-590b-4926-80aa-663639f61281][Bhpgaqm Pslnklf Theoitg 2000 - 2020-1-2]]

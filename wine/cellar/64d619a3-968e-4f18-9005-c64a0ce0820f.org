@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       64d619a3-968e-4f18-9005-c64a0ce0820f
+:END:
+#+title: Xnxdlsx Csdkrgb 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Csdkrgb
+- vintage :: 2008
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.39
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

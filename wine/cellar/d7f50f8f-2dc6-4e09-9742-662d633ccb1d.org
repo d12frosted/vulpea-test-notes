@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d7f50f8f-2dc6-4e09-9742-662d633ccb1d
+:END:
+#+title: Xnxdlsx Tdifjbk Fasptuwv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Tdifjbk Fasptuwv
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 11.93
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.5
+- ratings :: [[id:2ca34f1f-6f76-460a-8a9b-4d4eb9b39c64][Xnxdlsx Tdifjbk Fasptuwv NV - 2023-3-25]]

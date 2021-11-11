@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d960cdb4-d365-45a8-8287-010cf3112e30
+:END:
+#+title: Ajkygaf Emnb Dqiwhbd Yopybe 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Dqiwhbd Yopybe
+- vintage :: 1970
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.07
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

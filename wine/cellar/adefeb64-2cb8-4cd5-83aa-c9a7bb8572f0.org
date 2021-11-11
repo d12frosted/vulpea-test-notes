@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       adefeb64-2cb8-4cd5-83aa-c9a7bb8572f0
+:END:
+#+title: Hppbtt Cjomtr 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Cjomtr
+- vintage :: 1939
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.05
+- price :: 70.85 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:51bcd9ec-ce4f-4c69-a825-18f50d391ffd][Hppbtt Cjomtr 1939 - 2001-6-22]]

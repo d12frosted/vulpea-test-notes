@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       07048b99-2cab-4596-998f-075f488941ff
+:END:
+#+title: Ajkygaf Emnb Cut Kbmjojkm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Cut Kbmjojkm
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 13.17
+- sugar :: 1.0
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:a186cc93-f94c-44f6-9f63-0306f66b8d3d][Ajkygaf Emnb Cut Kbmjojkm NV - 2015-12-21]]

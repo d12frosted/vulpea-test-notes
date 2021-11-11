@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ee1bb3ec-55ef-42c6-a8fc-d0335b6b4c05
+:END:
+#+title: Xhbm Kbgar Ivkpl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Kbgar Ivkpl
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.89
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9d2cb88a-6668-47bb-8cc5-1bf5ed07a9e4
+:END:
+#+title: Xhbm Frfyizcc 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Frfyizcc
+- vintage :: 1923
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 13.11
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

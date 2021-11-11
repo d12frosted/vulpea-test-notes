@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       693c0cef-50d3-48c3-b6e6-2c79e6e6e998
+:END:
+#+title: Wdcfn Yrra Cfqdqho Covf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Cfqdqho Covf
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 11.22
+- sugar :: 2.62
+- price :: 100.42 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

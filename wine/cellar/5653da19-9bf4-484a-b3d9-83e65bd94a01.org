@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5653da19-9bf4-484a-b3d9-83e65bd94a01
+:END:
+#+title: Bhpgaqm Pslnklf Xrmet Hqqhdsl 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Xrmet Hqqhdsl
+- vintage :: 1938
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 12.78
+- price :: 29.52 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

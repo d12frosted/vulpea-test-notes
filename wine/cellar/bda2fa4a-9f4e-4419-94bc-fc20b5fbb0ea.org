@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       bda2fa4a-9f4e-4419-94bc-fc20b5fbb0ea
+:END:
+#+title: Ibde Iowlof Ezpuk 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ezpuk
+- vintage :: 1946
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 9.28
+- sugar :: 22.06
+- price :: 17.86 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

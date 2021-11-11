@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3d46d113-4929-49e0-84ed-b1fb154a0111
+:END:
+#+title: Mabtcl Miuoflx Abqqovda 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Abqqovda
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.84
+- price :: 69.40 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

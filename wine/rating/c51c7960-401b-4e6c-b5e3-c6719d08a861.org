@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c51c7960-401b-4e6c-b5e3-c6719d08a861
+:END:
+#+title: Bhpgaqm Pslnklf Zczhu 1981 - 2016-2-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:c5fcbc8e-2541-42a3-81b3-d702ee8d338f][Bhpgaqm Pslnklf Zczhu 1981]]
+- date :: 2016-2-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3302007b-f239-4448-8401-0a2c0cd9b746
+:END:
+#+title: Hppbtt Kpd Uijuyyn 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Kpd Uijuyyn
+- vintage :: 1942
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 10.42
+- price :: 88.10 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: duckduckgo
+- rating :: NA

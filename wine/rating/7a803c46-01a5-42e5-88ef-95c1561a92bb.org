@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7a803c46-01a5-42e5-88ef-95c1561a92bb
+:END:
+#+title: Xnxdlsx Qxc 1942 - 2020-11-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:32aad43e-5778-4131-b644-8321dfb665bc][Xnxdlsx Qxc 1942]]
+- date :: 2020-11-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

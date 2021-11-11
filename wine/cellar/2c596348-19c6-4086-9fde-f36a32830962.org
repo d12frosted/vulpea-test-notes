@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2c596348-19c6-4086-9fde-f36a32830962
+:END:
+#+title: Xnxdlsx Naodac Mmmdipqi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Naodac Mmmdipqi
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 12.35
+- price :: 9.89 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

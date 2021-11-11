@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       33264795-cdbb-4cc2-8779-72db65770e08
+:END:
+#+title: Wdcfn Yrra Onlzwdol 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Onlzwdol
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.129999999999999
+- sugar :: 13.08
+- price :: 80.20 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:587ecd39-f1ea-404e-b00e-ca4e531f6668][Wdcfn Yrra Onlzwdol NV - 2013-8-15]]

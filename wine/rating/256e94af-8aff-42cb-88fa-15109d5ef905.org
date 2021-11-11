@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       256e94af-8aff-42cb-88fa-15109d5ef905
+:END:
+#+title: Ibde Iowlof Fmpn Rysvepm NV - 2012-7-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:da9081cb-b011-4ca9-b4a8-de6127fb8f0c][Ibde Iowlof Fmpn Rysvepm]]
+- date :: 2012-7-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

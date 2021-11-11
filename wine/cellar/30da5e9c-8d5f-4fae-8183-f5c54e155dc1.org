@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       30da5e9c-8d5f-4fae-8183-f5c54e155dc1
+:END:
+#+title: Wdcfn Yrra Byopcs Fvnfm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Byopcs Fvnfm
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 9.51
+- price :: 58.59 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

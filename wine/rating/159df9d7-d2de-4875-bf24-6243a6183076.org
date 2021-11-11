@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       159df9d7-d2de-4875-bf24-6243a6183076
+:END:
+#+title: Mabtcl Miuoflx Zzsxhdk 1987 - 2011-1-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:94991957-bd84-4222-b5da-f9a855672067][Mabtcl Miuoflx Zzsxhdk 1987]]
+- date :: 2011-1-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

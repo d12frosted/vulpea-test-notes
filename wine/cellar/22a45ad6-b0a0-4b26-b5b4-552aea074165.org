@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       22a45ad6-b0a0-4b26-b5b4-552aea074165
+:END:
+#+title: Mabtcl Miuoflx Oewslx Jthz 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Oewslx Jthz
+- vintage :: 1900
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 10.76
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:60da2eac-492f-4491-aa36-31d4734465e9][Mabtcl Miuoflx Oewslx Jthz 1900 - 1997-10-18]]

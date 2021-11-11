@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       460d17a7-3c51-4fa8-ae94-5bc38653555a
+:END:
+#+title: Bhpgaqm Pslnklf Woujxrdz Zmu 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Woujxrdz Zmu
+- vintage :: 1965
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 12.2
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

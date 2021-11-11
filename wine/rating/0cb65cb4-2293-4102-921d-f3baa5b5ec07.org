@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0cb65cb4-2293-4102-921d-f3baa5b5ec07
+:END:
+#+title: Hppbtt Mots 1945 - 2006-3-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:15fe1ad9-3222-41a3-8504-c74b7e559bed][Hppbtt Mots 1945]]
+- date :: 2006-3-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

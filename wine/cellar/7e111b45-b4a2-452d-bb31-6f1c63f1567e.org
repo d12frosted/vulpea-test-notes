@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7e111b45-b4a2-452d-bb31-6f1c63f1567e
+:END:
+#+title: Xnxdlsx Mxhvjo Lbp 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Mxhvjo Lbp
+- vintage :: 1911
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 12.46
+- sugar :: 14.13
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

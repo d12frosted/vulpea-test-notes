@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       41251ff4-727c-4c68-b3ad-faad7dfed016
+:END:
+#+title: Fxbahvi Qqezrar Cde 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Cde
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 12.93
+- sugar :: 10.51
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:df2c556b-ca5a-4178-9af1-81c57695939a][Fxbahvi Qqezrar Cde NV - 1994-2-10]]

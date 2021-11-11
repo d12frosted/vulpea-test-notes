@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dfaa7854-7275-4a43-98ec-aab9f406fd8f
+:END:
+#+title: Wdcfn Yrra Cldabz Zulntx 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Cldabz Zulntx
+- vintage :: 1943
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 9.03
+- sugar :: 1.65
+- price :: 7.15 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

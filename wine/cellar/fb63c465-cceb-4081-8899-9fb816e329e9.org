@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fb63c465-cceb-4081-8899-9fb816e329e9
+:END:
+#+title: Xhbm Mmprncex 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Mmprncex
+- vintage :: 1985
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 13.18
+- sugar :: 14.78
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

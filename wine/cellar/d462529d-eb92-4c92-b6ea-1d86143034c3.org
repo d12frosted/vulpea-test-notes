@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d462529d-eb92-4c92-b6ea-1d86143034c3
+:END:
+#+title: Wdcfn Yrra Zlmx Csqid 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Zlmx Csqid
+- vintage :: 1929
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 10.31
+- sugar :: 11.94
+- price :: 91.84 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:11695e45-b51a-459e-9202-fc1b1db3a2e6][Wdcfn Yrra Zlmx Csqid 1929 - 2005-7-9]]

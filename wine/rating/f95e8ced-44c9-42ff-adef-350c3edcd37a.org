@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f95e8ced-44c9-42ff-adef-350c3edcd37a
+:END:
+#+title: Ibde Iowlof Tnik Pyeskqix NV - 2021-7-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:26634b0e-3848-44a2-81c9-7d6f1ac9a940][Ibde Iowlof Tnik Pyeskqix]]
+- date :: 2021-7-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

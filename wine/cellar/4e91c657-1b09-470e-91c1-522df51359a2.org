@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4e91c657-1b09-470e-91c1-522df51359a2
+:END:
+#+title: Mgdu Vmnon 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Vmnon
+- vintage :: 1944
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 10.46
+- price :: 66.85 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:8ee5943f-87ea-4542-a02a-22b452e94511][Mgdu Vmnon 1944 - 1994-6-2]]

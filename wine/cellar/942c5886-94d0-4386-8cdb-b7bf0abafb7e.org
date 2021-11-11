@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       942c5886-94d0-4386-8cdb-b7bf0abafb7e
+:END:
+#+title: Mabtcl Miuoflx Wyqltarq Gqn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Wyqltarq Gqn
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 11.879999999999999
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 4.0
+- ratings :: [[id:2eefa465-24e4-43eb-ab82-7f3e564f334a][Mabtcl Miuoflx Wyqltarq Gqn NV - 2016-11-1]]

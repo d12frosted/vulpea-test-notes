@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       dbcd6831-3b0c-40e7-9914-8edbef6e82ee
+:END:
+#+title: Ibde Iowlof Yjvvzv Oogplzf 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Yjvvzv Oogplzf
+- vintage :: 2015
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.23
+- price :: 18.85 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 3.0
+- ratings :: [[id:f8a8c0cd-eba6-4ebe-b035-6ec24de90cb9][Ibde Iowlof Yjvvzv Oogplzf 2015 - 1996-6-15]]

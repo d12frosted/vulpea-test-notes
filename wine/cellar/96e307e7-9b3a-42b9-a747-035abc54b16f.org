@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       96e307e7-9b3a-42b9-a747-035abc54b16f
+:END:
+#+title: Ibde Iowlof Qwbdex Zrnq 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Qwbdex Zrnq
+- vintage :: 1972
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.26
+- price :: 16.48 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

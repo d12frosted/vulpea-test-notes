@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       ddeeea37-a8e0-426b-b2ad-92ae8a0aefaa
+:END:
+#+title: Fxbahvi Qqezrar Pufis Snsvvaf 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Pufis Snsvvaf
+- vintage :: 1959
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 9.84
+- sugar :: 4.75
+- price :: 98.82 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:ce8545cf-e9c4-4dbc-98d8-b3c0eb3c4aee][Fxbahvi Qqezrar Pufis Snsvvaf 1959 - 2021-5-10]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a7dfd5ac-f9df-4203-be37-52ee8117a808
+:END:
+#+title: Bhpgaqm Pslnklf Tdrmgv Xztulo 1917 - 2004-6-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:eddfd6a9-a0ef-4bf1-86be-00466c390b86][Bhpgaqm Pslnklf Tdrmgv Xztulo 1917]]
+- date :: 2004-6-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

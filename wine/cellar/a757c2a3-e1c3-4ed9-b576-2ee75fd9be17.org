@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a757c2a3-e1c3-4ed9-b576-2ee75fd9be17
+:END:
+#+title: Hppbtt Wueozlan 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Wueozlan
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 9.61
+- price :: 50.45 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

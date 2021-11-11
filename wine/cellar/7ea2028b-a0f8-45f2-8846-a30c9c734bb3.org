@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7ea2028b-a0f8-45f2-8846-a30c9c734bb3
+:END:
+#+title: Mgdu Yyv Hqpki 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Yyv Hqpki
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 12.8
+- sugar :: 18.12
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:0e6728ff-7097-49c8-a932-7b89ac0e62e8][Mgdu Yyv Hqpki NV - 2021-2-26]]

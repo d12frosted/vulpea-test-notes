@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       312e8468-8b7f-4a5c-8b45-635e698e2828
+:END:
+#+title: Hppbtt Qqyd Lvkzt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Qqyd Lvkzt
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 9.02
+- sugar :: 19.58
+- price :: 16.53 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ea77905c-fad5-41f4-82d5-39145f0026f5
+:END:
+#+title: Fxbahvi Qqezrar Fjgdn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Fjgdn
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.71
+- sugar :: 16.34
+- price :: 83.09 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

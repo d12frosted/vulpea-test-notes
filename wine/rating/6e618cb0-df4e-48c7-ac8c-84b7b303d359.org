@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6e618cb0-df4e-48c7-ac8c-84b7b303d359
+:END:
+#+title: Fxbahvi Qqezrar Crjvty Hhch 1923 - 2010-10-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:88c40c6f-1896-4962-a37e-38196abed62c][Fxbahvi Qqezrar Crjvty Hhch 1923]]
+- date :: 2010-10-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

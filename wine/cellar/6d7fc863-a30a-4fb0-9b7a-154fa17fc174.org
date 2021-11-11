@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6d7fc863-a30a-4fb0-9b7a-154fa17fc174
+:END:
+#+title: Fxbahvi Qqezrar Myudglmq Uqzhsgx 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Myudglmq Uqzhsgx
+- vintage :: 2017
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 13.29
+- price :: 68.23 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

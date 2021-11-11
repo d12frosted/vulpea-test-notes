@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c8a1ee7b-c83f-438c-bee1-0f3a138ca365
+:END:
+#+title: Ajkygaf Emnb Mevjckw Mim 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Mevjckw Mim
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 12.29
+- price :: 3.55 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:827dd587-fd18-42b4-8aea-91173957db50][Ajkygaf Emnb Mevjckw Mim NV - 2006-8-17]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2c1ed63b-2c37-4d5b-bd02-830ed176e0fd
+:END:
+#+title: Ajkygaf Emnb Xegj 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Xegj
+- vintage :: 1904
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 12.07
+- sugar :: 14.67
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

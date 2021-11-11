@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       070b49e1-75c3-4598-9978-a95dbc2e699f
+:END:
+#+title: Mabtcl Miuoflx Xalvyoen 1939 - 2013-10-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:8806c8ca-1698-4aea-b2e3-2f6f8329f438][Mabtcl Miuoflx Xalvyoen 1939]]
+- date :: 2013-10-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

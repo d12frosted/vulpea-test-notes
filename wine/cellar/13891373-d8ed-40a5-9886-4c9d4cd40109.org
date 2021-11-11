@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       13891373-d8ed-40a5-9886-4c9d4cd40109
+:END:
+#+title: Xhbm Vnsdo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Vnsdo
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.8
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:65229f73-8626-4e75-8674-d96e7ea1bd09][Xhbm Vnsdo NV - 2020-10-1]]

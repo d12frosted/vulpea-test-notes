@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7e37049c-fe64-4451-b22b-159cff63fc73
+:END:
+#+title: Xhbm Enyoeqw Jzcnelse 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Enyoeqw Jzcnelse
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 13.809999999999999
+- sugar :: 7.91
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

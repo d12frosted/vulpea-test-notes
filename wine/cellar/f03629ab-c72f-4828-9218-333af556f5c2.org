@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f03629ab-c72f-4828-9218-333af556f5c2
+:END:
+#+title: Mabtcl Miuoflx Ziuzhqtn Gpyha 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Ziuzhqtn Gpyha
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 11.35
+- price :: 21.11 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

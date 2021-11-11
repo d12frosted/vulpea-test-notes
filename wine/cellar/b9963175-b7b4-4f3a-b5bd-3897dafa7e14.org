@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b9963175-b7b4-4f3a-b5bd-3897dafa7e14
+:END:
+#+title: Ajkygaf Emnb Qrb Tpwheyrp 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Qrb Tpwheyrp
+- vintage :: 1982
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 12.86
+- price :: 88.68 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 4.0
+- ratings :: [[id:094befbf-1388-465c-9242-0d7fd7f7aa9b][Ajkygaf Emnb Qrb Tpwheyrp 1982 - 1991-4-12]]

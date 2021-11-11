@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       76239f03-9967-4c1c-a00a-a4f79d6257cd
+:END:
+#+title: Xhbm Duruqtmv 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Duruqtmv
+- vintage :: 1993
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 13.16
+- sugar :: 6.86
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       edfb1a25-fb23-4739-aee2-5a17a6982962
+:END:
+#+title: Ibde Iowlof Ioyoe 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ioyoe
+- vintage :: 1975
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 10.69
+- sugar :: 1.24
+- price :: 52.81 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 4.5
+- ratings :: [[id:4f11932c-23a5-435f-a24b-491616cfe089][Ibde Iowlof Ioyoe 1975 - 2009-12-19]]

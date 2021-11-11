@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d89052b3-de54-48fe-b0d5-c6642447bf58
+:END:
+#+title: Hppbtt Kylevwb NV - 1997-4-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:6dc9fc49-6d31-4611-b373-9b3a9c19f7e7][Hppbtt Kylevwb]]
+- date :: 1997-4-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

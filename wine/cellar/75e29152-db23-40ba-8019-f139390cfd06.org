@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       75e29152-db23-40ba-8019-f139390cfd06
+:END:
+#+title: Mgdu Rwyngyue Emwdk 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Rwyngyue Emwdk
+- vintage :: 1980
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.69
+- price :: 58.06 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0958802b-872a-463d-a4a4-762b2529a918
+:END:
+#+title: Hppbtt Dgqyibk 1910 - 2010-4-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:cf8925a3-7582-4647-ac78-8f52ea1ef2d5][Hppbtt Dgqyibk 1910]]
+- date :: 2010-4-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

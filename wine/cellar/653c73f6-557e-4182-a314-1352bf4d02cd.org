@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       653c73f6-557e-4182-a314-1352bf4d02cd
+:END:
+#+title: Hppbtt Tofq Fpguma 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Tofq Fpguma
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.870000000000001
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

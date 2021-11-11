@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       18f9d8e4-747c-4002-9c42-04f19759935b
+:END:
+#+title: Fxbahvi Qqezrar Bkpe Uaijqly 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Bkpe Uaijqly
+- vintage :: 2012
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 12.72
+- price :: 58.92 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.5
+- ratings :: [[id:426ce09f-f2aa-4e85-8561-b6e7411fd44f][Fxbahvi Qqezrar Bkpe Uaijqly 2012 - 1991-9-21]]

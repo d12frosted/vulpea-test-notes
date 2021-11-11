@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1a840ef9-a17a-4fb2-89e7-8810f9f59fef
+:END:
+#+title: Xnxdlsx Wmtsbq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Wmtsbq
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 10.6
+- price :: 96.26 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

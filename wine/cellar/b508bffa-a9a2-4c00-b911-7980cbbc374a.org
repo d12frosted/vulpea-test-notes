@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b508bffa-a9a2-4c00-b911-7980cbbc374a
+:END:
+#+title: Ibde Iowlof Gtsmxpd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Gtsmxpd
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 12.370000000000001
+- price :: 16.95 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

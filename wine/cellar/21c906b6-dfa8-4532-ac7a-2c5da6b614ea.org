@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       21c906b6-dfa8-4532-ac7a-2c5da6b614ea
+:END:
+#+title: Wdcfn Yrra Hpt Osmm 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Hpt Osmm
+- vintage :: 1965
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.83
+- sugar :: 15.1
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

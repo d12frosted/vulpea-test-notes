@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       12c73741-0412-43aa-98c4-3d067b84ba07
+:END:
+#+title: Hppbtt Cezrl Lfvkugo NV - 1999-4-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:ea9eec79-816d-4029-aa17-bce0a00897cd][Hppbtt Cezrl Lfvkugo]]
+- date :: 1999-4-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:                     c8fd643f-17cf-4963-8cdb-3997b5b1f19c
-:END:
-#+TITLE: Qay
-
-

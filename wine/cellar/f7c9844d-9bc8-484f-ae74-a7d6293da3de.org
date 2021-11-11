@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f7c9844d-9bc8-484f-ae74-a7d6293da3de
+:END:
+#+title: Wdcfn Yrra Levml 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Levml
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.9
+- sugar :: 10.88
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

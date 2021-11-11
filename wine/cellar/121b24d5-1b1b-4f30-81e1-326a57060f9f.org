@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       121b24d5-1b1b-4f30-81e1-326a57060f9f
+:END:
+#+title: Wdcfn Yrra Vcjfo Szfgrgn 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Vcjfo Szfgrgn
+- vintage :: 1940
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 10.620000000000001
+- sugar :: 5.32
+- price :: 35.49 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:4b93a22e-c828-4731-8ff8-28af9e8f6a7f][Wdcfn Yrra Vcjfo Szfgrgn 1940 - 2017-6-19]]

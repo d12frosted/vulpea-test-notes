@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3e27f2a7-356b-478d-acf0-f9b14beedf0f
+:END:
+#+title: Wdcfn Yrra Xwrbmsr 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Xwrbmsr
+- vintage :: 1909
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.75
+- sugar :: 17.37
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       51224a73-aeab-4217-b834-83134c56ce09
+:END:
+#+title: Xhbm Nwvfj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Nwvfj
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 10.21
+- sugar :: 7.96
+- price :: 68.57 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

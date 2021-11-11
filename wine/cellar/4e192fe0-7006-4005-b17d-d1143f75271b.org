@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4e192fe0-7006-4005-b17d-d1143f75271b
+:END:
+#+title: Bhpgaqm Pslnklf Wbeqnpfu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Wbeqnpfu
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 11.14
+- sugar :: 7.73
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:7e5640ed-5a7c-4d6d-b23f-60beae4777d9][Bhpgaqm Pslnklf Wbeqnpfu NV - 1990-5-19]]

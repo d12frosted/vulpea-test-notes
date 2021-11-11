@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b9454b86-543b-4a6c-a95a-feb2478be780
+:END:
+#+title: Hppbtt Bsautbip Qfoq 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Bsautbip Qfoq
+- vintage :: 2010
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 12.6
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

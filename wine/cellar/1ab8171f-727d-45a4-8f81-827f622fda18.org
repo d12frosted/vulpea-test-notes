@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1ab8171f-727d-45a4-8f81-827f622fda18
+:END:
+#+title: Fxbahvi Qqezrar Mxyilkeo Kmxxlpn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Mxyilkeo Kmxxlpn
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 12.07
+- price :: 31.97 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d694c1e4-020a-47c0-b1bf-179b22ad75a2
+:END:
+#+title: Ajkygaf Emnb Vmpbilmm Qenv 1973 - 2024-10-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:5d28148c-e293-40a7-b418-6d22fad5bfa4][Ajkygaf Emnb Vmpbilmm Qenv 1973]]
+- date :: 2024-10-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

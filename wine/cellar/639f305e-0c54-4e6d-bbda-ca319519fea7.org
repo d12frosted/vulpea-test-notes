@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       639f305e-0c54-4e6d-bbda-ca319519fea7
+:END:
+#+title: Xhbm Lsyw Wbyrbpi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Lsyw Wbyrbpi
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 12.6
+- sugar :: 11.24
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

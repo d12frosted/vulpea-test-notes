@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       808bb3b9-1b41-4992-b3d3-ff1cd191ac7d
+:END:
+#+title: Xhbm Pqslqx Mqy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Pqslqx Mqy
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 10.51
+- sugar :: 0.95
+- price :: 67.33 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

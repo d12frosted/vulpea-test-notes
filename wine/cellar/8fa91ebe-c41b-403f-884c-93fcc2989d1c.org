@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8fa91ebe-c41b-403f-884c-93fcc2989d1c
+:END:
+#+title: Fxbahvi Qqezrar Uxjqyobc Fxewa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Uxjqyobc Fxewa
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 13.86
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       64e15a77-2566-460e-a47c-105a1a9b8c1e
+:END:
+#+title: Xhbm Qypdnj Mzbov 1945 - 1994-2-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:25cb5bc3-9c0e-4910-b090-2870ac60906e][Xhbm Qypdnj Mzbov 1945]]
+- date :: 1994-2-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

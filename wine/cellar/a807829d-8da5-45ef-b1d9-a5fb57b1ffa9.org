@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a807829d-8da5-45ef-b1d9-a5fb57b1ffa9
+:END:
+#+title: Fxbahvi Qqezrar Cxkjsuu Jelmuabs 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Cxkjsuu Jelmuabs
+- vintage :: 1911
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 9.98
+- sugar :: 12.88
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:b53cd834-70e4-4374-a8e9-5874e1637213][Fxbahvi Qqezrar Cxkjsuu Jelmuabs 1911 - 2003-11-10]]

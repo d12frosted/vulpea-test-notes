@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       81825243-26ad-4cff-a7fa-13f8be591278
+:END:
+#+title: Wdcfn Yrra Piajxkkp 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Piajxkkp
+- vintage :: 1910
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.55
+- price :: 58.58 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:3c8adc3a-7247-44eb-b6ca-1b3f1d858b12][Wdcfn Yrra Piajxkkp 1910 - 2011-4-21]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b715feec-15c9-4375-b175-92f3863ba66b
+:END:
+#+title: Mabtcl Miuoflx Cghez Uhivdkf 2005 - 2020-6-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:bf43aa88-544b-4bbf-b2ab-2cd38973d69a][Mabtcl Miuoflx Cghez Uhivdkf 2005]]
+- date :: 2020-6-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

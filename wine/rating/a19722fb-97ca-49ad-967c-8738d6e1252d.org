@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a19722fb-97ca-49ad-967c-8738d6e1252d
+:END:
+#+title: Mabtcl Miuoflx Pcm Czcwk NV - 2014-7-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:8aa507e4-0905-441a-aaeb-4cb7d5d6316c][Mabtcl Miuoflx Pcm Czcwk]]
+- date :: 2014-7-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

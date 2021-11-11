@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       071f5749-59a2-4d8e-a286-1c8c2f103f47
+:END:
+#+title: Mabtcl Miuoflx Als 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Als
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.68
+- price :: 85.80 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

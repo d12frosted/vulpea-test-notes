@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d46517e2-6b76-4fad-b762-5a95f13b8a11
+:END:
+#+title: Mabtcl Miuoflx Jim 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Jim
+- vintage :: 1986
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 12.57
+- price :: 15.73 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 8.0
+- ratings :: [[id:7db70e6a-f1e6-4d71-b906-1ecc331072a8][Mabtcl Miuoflx Jim 1986 - 2010-7-26]]

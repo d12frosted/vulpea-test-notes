@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0ec1cc75-995b-4f07-8f25-5bb4c1466f9d
+:END:
+#+title: Hppbtt Mzxqyo Ajhcewcu 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Mzxqyo Ajhcewcu
+- vintage :: 1908
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 10.4
+- sugar :: 21.25
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 4.5
+- ratings :: [[id:da167c6b-da35-4b6b-97ec-04d6ed93bc8b][Hppbtt Mzxqyo Ajhcewcu 1908 - 2020-1-4]]

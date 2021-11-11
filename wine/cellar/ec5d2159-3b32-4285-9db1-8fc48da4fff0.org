@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ec5d2159-3b32-4285-9db1-8fc48da4fff0
+:END:
+#+title: Ibde Iowlof Vhxpzp Jqbrjbu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Vhxpzp Jqbrjbu
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 13.27
+- sugar :: 9.9
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

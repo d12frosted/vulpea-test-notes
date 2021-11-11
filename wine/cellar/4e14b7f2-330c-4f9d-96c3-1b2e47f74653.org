@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4e14b7f2-330c-4f9d-96c3-1b2e47f74653
+:END:
+#+title: Hppbtt Hdexufw Afn 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Hdexufw Afn
+- vintage :: 1950
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 9.09
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

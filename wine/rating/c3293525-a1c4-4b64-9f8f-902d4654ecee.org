@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c3293525-a1c4-4b64-9f8f-902d4654ecee
+:END:
+#+title: Ajkygaf Emnb Zpue Upjomjp 1931 - 2001-10-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:cc82954c-e5e3-45d6-b291-763272b16f2a][Ajkygaf Emnb Zpue Upjomjp 1931]]
+- date :: 2001-10-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

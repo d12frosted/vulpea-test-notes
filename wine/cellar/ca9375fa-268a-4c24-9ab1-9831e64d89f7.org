@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ca9375fa-268a-4c24-9ab1-9831e64d89f7
+:END:
+#+title: Xnxdlsx Jjbgcxq 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Jjbgcxq
+- vintage :: 1984
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 10.57
+- sugar :: 4.76
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 5.0
+- ratings :: [[id:0dafa5f5-8f80-40b7-b7c0-7cbe8daf23b0][Xnxdlsx Jjbgcxq 1984 - 2003-5-20]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d6dd51f6-b87c-4ad1-9842-8e1ecfe52950
+:END:
+#+title: Xnxdlsx Lpaqf Pvqth 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Lpaqf Pvqth
+- vintage :: 2002
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 10.24
+- sugar :: 18.27
+- price :: 51.59 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:89260ad9-f323-436f-9ed3-c9440e933e9f][Xnxdlsx Lpaqf Pvqth 2002 - 2023-5-28]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6a977e35-8926-4243-8e52-7388971dad1e
+:END:
+#+title: Ajkygaf Emnb Ahu 1907 - 2000-1-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:63d88062-9b0d-4312-986b-cfdc4d01e779][Ajkygaf Emnb Ahu 1907]]
+- date :: 2000-1-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

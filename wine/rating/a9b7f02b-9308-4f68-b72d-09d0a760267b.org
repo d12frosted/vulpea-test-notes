@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a9b7f02b-9308-4f68-b72d-09d0a760267b
+:END:
+#+title: Bhpgaqm Pslnklf Iqgin 1947 - 2018-3-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:a0f098cc-0f41-48c1-b2a8-bba426bf8ed8][Bhpgaqm Pslnklf Iqgin 1947]]
+- date :: 2018-3-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

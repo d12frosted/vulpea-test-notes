@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1f4865cb-4da2-4720-ad99-106bba973af3
+:END:
+#+title: Bhpgaqm Pslnklf Twfoj Jfezjdx 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Twfoj Jfezjdx
+- vintage :: 1958
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 13.82
+- sugar :: 21.57
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.5
+- ratings :: [[id:ee95953f-7e8b-4461-8eca-1e21d9d6244c][Bhpgaqm Pslnklf Twfoj Jfezjdx 1958 - 2011-12-2]]

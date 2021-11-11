@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7df81d93-6ca2-4d87-8a0f-160b38c32bac
+:END:
+#+title: Xhbm Iylvky 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Iylvky
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.75
+- price :: 55.33 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

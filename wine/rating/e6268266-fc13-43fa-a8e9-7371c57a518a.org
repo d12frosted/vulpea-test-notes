@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e6268266-fc13-43fa-a8e9-7371c57a518a
+:END:
+#+title: Bhpgaqm Pslnklf Ccggb NV - 2013-3-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:965e684e-e68a-4c15-98c0-e0e7ae2f9851][Bhpgaqm Pslnklf Ccggb]]
+- date :: 2013-3-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

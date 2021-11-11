@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       be8df692-b51b-44e1-b19c-b7cf584155f0
+:END:
+#+title: Fxbahvi Qqezrar Iqgh 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Iqgh
+- vintage :: 1948
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 12.17
+- sugar :: 15.53
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 9.0
+- ratings :: [[id:6bf06833-52f3-48db-b932-0a1b088280aa][Fxbahvi Qqezrar Iqgh 1948 - 1990-12-14]]

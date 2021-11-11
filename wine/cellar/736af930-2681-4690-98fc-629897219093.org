@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       736af930-2681-4690-98fc-629897219093
+:END:
+#+title: Xnxdlsx Kqcqtt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Kqcqtt
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 12.84
+- sugar :: 9.66
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 7.0
+- ratings :: [[id:19c6be42-0b0f-4654-82da-053e6724cd5e][Xnxdlsx Kqcqtt NV - 2013-7-12]]

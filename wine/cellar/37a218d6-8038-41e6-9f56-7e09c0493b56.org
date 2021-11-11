@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       37a218d6-8038-41e6-9f56-7e09c0493b56
+:END:
+#+title: Xhbm Avtfela Inblpto 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Avtfela Inblpto
+- vintage :: 2013
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 9.07
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       25518f1e-4300-4e94-8aaf-9a0ef63cc468
+:END:
+#+title: Mgdu Jlooqdfd 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Jlooqdfd
+- vintage :: 1939
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 12.68
+- price :: 66.74 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

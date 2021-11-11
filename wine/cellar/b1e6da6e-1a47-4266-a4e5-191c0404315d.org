@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b1e6da6e-1a47-4266-a4e5-191c0404315d
+:END:
+#+title: Hppbtt Yzzbqnl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Yzzbqnl
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 10.379999999999999
+- sugar :: 11.73
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

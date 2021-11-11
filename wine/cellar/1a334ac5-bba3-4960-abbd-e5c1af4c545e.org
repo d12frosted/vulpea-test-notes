@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1a334ac5-bba3-4960-abbd-e5c1af4c545e
+:END:
+#+title: Mgdu Uypia Kcfdjo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Uypia Kcfdjo
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 13.99
+- sugar :: 20.21
+- price :: 69.68 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

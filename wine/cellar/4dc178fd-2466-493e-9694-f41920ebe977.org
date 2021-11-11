@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4dc178fd-2466-493e-9694-f41920ebe977
+:END:
+#+title: Hppbtt Lhdhovah 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Lhdhovah
+- vintage :: 1903
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.07
+- price :: 87.67 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:26f4e0b5-4624-4b01-8d5b-19d5eeab6c92][Hppbtt Lhdhovah 1903 - 2004-6-14]]

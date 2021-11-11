@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       feefe6c7-f492-4af5-9bc0-c0a723d026cc
+:END:
+#+title: Xnxdlsx Acwlcwmm 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Acwlcwmm
+- vintage :: 2006
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 13.05
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

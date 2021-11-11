@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       16a3b572-6986-4e5d-a5d4-01dbb2423016
+:END:
+#+title: Mabtcl Miuoflx Znzzxp Edwjaryl 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Znzzxp Edwjaryl
+- vintage :: 2014
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 13.64
+- sugar :: 4.13
+- price :: 23.46 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 7.0
+- ratings :: [[id:1e1a8eb8-86c1-4fc6-8560-6167ebddf122][Mabtcl Miuoflx Znzzxp Edwjaryl 2014 - 2000-11-11]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4dea24c9-1ec0-4efc-a2c5-a174df17e04e
+:END:
+#+title: Bhpgaqm Pslnklf Lmxywl 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Lmxywl
+- vintage :: 1950
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 13.809999999999999
+- price :: 95.88 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

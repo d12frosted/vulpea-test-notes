@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ac226a23-b45e-4b7d-89e4-7b485f8efcdb
+:END:
+#+title: Fxbahvi Qqezrar Bjsgbov 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Bjsgbov
+- vintage :: 1950
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.52
+- sugar :: 3.64
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

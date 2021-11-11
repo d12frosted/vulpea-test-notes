@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b536a16c-44dc-44d9-aa51-5fb1499daecc
+:END:
+#+title: Wdcfn Yrra Gwvyvveh 1954 - 1990-5-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:11d6915a-6d73-42fe-8d88-6edbe3d9065b][Wdcfn Yrra Gwvyvveh 1954]]
+- date :: 1990-5-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

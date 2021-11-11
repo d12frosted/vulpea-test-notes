@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       91a3a8e4-770d-466f-b8e2-493cdd252147
+:END:
+#+title: Xhbm Lvzolnle Kkictt NV - 1994-3-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:ade136c9-cf14-42db-be68-c54f703e983f][Xhbm Lvzolnle Kkictt]]
+- date :: 1994-3-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

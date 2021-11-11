@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e86de5d0-cdde-4944-beda-dbccf11c6550
+:END:
+#+title: Ibde Iowlof Vggkt Ptwcwmmw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Vggkt Ptwcwmmw
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 12.54
+- sugar :: 20.85
+- price :: 3.80 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:b9939200-6552-465a-a397-4d5070ccb945][Ibde Iowlof Vggkt Ptwcwmmw NV - 2003-6-25]]

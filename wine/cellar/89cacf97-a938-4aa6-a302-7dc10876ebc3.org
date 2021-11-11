@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       89cacf97-a938-4aa6-a302-7dc10876ebc3
+:END:
+#+title: Ajkygaf Emnb Uty 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Uty
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 12.26
+- sugar :: 20.67
+- price :: 60.01 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:f92bc610-9b0e-4c5a-87f7-bbc8c34ebef2][Ajkygaf Emnb Uty NV - 2000-7-16]]

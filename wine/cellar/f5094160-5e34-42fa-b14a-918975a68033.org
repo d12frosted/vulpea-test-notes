@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f5094160-5e34-42fa-b14a-918975a68033
+:END:
+#+title: Mabtcl Miuoflx Txhjh Scff 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Txhjh Scff
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 13.73
+- sugar :: 22.48
+- price :: 29.95 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

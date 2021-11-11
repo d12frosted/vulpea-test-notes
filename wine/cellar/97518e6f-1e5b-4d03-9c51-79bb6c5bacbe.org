@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       97518e6f-1e5b-4d03-9c51-79bb6c5bacbe
+:END:
+#+title: Mgdu Mmqbyoh Qbbug 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Mmqbyoh Qbbug
+- vintage :: 1972
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 10.48
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

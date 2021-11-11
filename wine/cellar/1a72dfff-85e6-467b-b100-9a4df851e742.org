@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1a72dfff-85e6-467b-b100-9a4df851e742
+:END:
+#+title: Xnxdlsx Ppvbo Bgf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ppvbo Bgf
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 13.780000000000001
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

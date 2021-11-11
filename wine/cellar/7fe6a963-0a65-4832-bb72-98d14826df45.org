@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7fe6a963-0a65-4832-bb72-98d14826df45
+:END:
+#+title: Fxbahvi Qqezrar Gsqwbs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Gsqwbs
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 10.41
+- price :: 30.27 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

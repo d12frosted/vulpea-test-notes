@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       19f95f8d-33c3-4aab-b910-6f4953bf62f3
+:END:
+#+title: Hppbtt Djkafjz Pjcbbia 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Djkafjz Pjcbbia
+- vintage :: 1991
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 13.0
+- sugar :: 16.88
+- price :: 24.31 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

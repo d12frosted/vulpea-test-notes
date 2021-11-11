@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       42763f8b-6ce6-4efd-88aa-d0a5fedf09d5
+:END:
+#+title: Mabtcl Miuoflx Pkgfqvv Cphanvc 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Pkgfqvv Cphanvc
+- vintage :: 1960
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 12.74
+- sugar :: 21.85
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

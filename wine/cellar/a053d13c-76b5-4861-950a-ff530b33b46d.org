@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a053d13c-76b5-4861-950a-ff530b33b46d
+:END:
+#+title: Xnxdlsx Yxrqzmjx 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Yxrqzmjx
+- vintage :: 2002
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 9.73
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4605e669-324a-4490-b930-4be98d9848ed
+:END:
+#+title: Bhpgaqm Pslnklf Vjcjnksp Fcwoyh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Vjcjnksp Fcwoyh
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 11.3
+- sugar :: 18.79
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

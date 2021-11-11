@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c43d0696-dc86-43ff-8a95-7e6e20915dc4
+:END:
+#+title: Wdcfn Yrra Rqmasbwp Uev 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Rqmasbwp Uev
+- vintage :: 2003
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 12.6
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

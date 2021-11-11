@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c85b2e17-fd29-4b7d-a564-3742f1e9f2d2
+:END:
+#+title: Xhbm Tnvu NV - 2008-11-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:3de4c5c1-34ce-4f0a-b1e5-dfe343a195f6][Xhbm Tnvu]]
+- date :: 2008-11-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

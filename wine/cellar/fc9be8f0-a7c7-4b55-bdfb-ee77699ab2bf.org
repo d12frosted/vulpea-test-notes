@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fc9be8f0-a7c7-4b55-bdfb-ee77699ab2bf
+:END:
+#+title: Hppbtt Rmgogsr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Rmgogsr
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 10.44
+- sugar :: 11.9
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 1.5
+- ratings :: [[id:bdae6387-32b1-49d8-b51b-9456438b9a67][Hppbtt Rmgogsr NV - 2019-6-27]]

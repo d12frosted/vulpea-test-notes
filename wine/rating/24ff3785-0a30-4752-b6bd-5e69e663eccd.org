@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       24ff3785-0a30-4752-b6bd-5e69e663eccd
+:END:
+#+title: Hppbtt Jcs NV - 2018-8-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:2e22a121-f509-40ef-8da9-a35e3b417e08][Hppbtt Jcs]]
+- date :: 2018-8-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

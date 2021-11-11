@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dbbebd7e-20d7-49f0-9411-c5b4c0d103f3
+:END:
+#+title: Wdcfn Yrra Isbd 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Isbd
+- vintage :: 2014
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.44
+- sugar :: 8.89
+- price :: 42.62 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

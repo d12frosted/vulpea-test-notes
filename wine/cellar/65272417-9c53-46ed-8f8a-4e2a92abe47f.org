@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       65272417-9c53-46ed-8f8a-4e2a92abe47f
+:END:
+#+title: Xhbm Qtxzorcr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Qtxzorcr
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 9.0
+- price :: 83.57 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:60ab0f9e-fcb2-439b-9a42-dcfe33be93c7][Xhbm Qtxzorcr NV - 1999-4-7]]

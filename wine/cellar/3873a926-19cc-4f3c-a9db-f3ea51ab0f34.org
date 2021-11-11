@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3873a926-19cc-4f3c-a9db-f3ea51ab0f34
+:END:
+#+title: Mabtcl Miuoflx Vnwrbqf 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Vnwrbqf
+- vintage :: 2001
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 11.120000000000001
+- price :: 36.04 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:45f455b9-d4cf-4335-ab8f-6b2bf6e17597][Mabtcl Miuoflx Vnwrbqf 2001 - 1994-4-22]]

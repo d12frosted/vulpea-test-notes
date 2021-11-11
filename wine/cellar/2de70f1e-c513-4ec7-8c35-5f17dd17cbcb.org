@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2de70f1e-c513-4ec7-8c35-5f17dd17cbcb
+:END:
+#+title: Ajkygaf Emnb Aedbscr Reujtbo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Aedbscr Reujtbo
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 11.76
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

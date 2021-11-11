@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c82665d9-8943-4ed8-96a3-0c5b7646d3d2
+:END:
+#+title: Xnxdlsx Pexk NV - 2006-5-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:80b6ff97-c065-4f06-91e8-a5fc4262c50f][Xnxdlsx Pexk]]
+- date :: 2006-5-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

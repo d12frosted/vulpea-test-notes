@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d21fae0c-f2f0-402d-aba1-030d99c0d779
+:END:
+#+title: Hppbtt Zpz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Zpz
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.56
+- price :: 41.06 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

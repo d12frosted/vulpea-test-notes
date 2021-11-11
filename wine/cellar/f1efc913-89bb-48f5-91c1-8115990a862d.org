@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f1efc913-89bb-48f5-91c1-8115990a862d
+:END:
+#+title: Hppbtt Dsksbvn 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Dsksbvn
+- vintage :: 1990
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 10.77
+- price :: 54.99 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:b0727052-d72b-43c1-8c07-cbdf57741b5f][Hppbtt Dsksbvn 1990 - 2019-7-13]]

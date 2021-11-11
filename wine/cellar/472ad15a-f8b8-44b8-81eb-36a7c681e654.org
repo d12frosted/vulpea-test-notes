@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       472ad15a-f8b8-44b8-81eb-36a7c681e654
+:END:
+#+title: Fxbahvi Qqezrar Dztqfgq Tcp 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Dztqfgq Tcp
+- vintage :: 1968
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 12.03
+- sugar :: 20.29
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:4967664e-0fc0-4ab7-8f67-0cf6ba2d0f03][Fxbahvi Qqezrar Dztqfgq Tcp 1968 - 2007-7-14]]

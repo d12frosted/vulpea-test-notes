@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c2dd520a-17d0-4f6e-8360-66b5bae9260c
+:END:
+#+title: Fxbahvi Qqezrar Gmgqvpt Hana 2006 - 2022-8-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:0a5a4fb3-664d-422f-82cb-2fc0254b496c][Fxbahvi Qqezrar Gmgqvpt Hana 2006]]
+- date :: 2022-8-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

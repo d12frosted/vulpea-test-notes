@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ff000aab-9f8c-42e5-8a49-d1429c233986
+:END:
+#+title: Bhpgaqm Pslnklf Ubfimgj Urhll 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ubfimgj Urhll
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 11.56
+- sugar :: 2.93
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 5.0
+- ratings :: [[id:e9fd225b-1490-4c0c-9715-c45ca04c1588][Bhpgaqm Pslnklf Ubfimgj Urhll NV - 2008-2-27]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0d741f7a-0bb9-4395-9cbc-a514c106744e
+:END:
+#+title: Bhpgaqm Pslnklf Bqb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Bqb
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 12.67
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

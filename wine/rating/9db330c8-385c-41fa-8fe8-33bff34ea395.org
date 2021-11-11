@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9db330c8-385c-41fa-8fe8-33bff34ea395
+:END:
+#+title: Ajkygaf Emnb Erjax Irbq 1943 - 1990-6-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:d01a7d63-cdcf-4aae-bd9f-69b06eb727bb][Ajkygaf Emnb Erjax Irbq 1943]]
+- date :: 1990-6-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

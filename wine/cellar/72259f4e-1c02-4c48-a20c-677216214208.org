@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       72259f4e-1c02-4c48-a20c-677216214208
+:END:
+#+title: Hppbtt Odncbf 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Odncbf
+- vintage :: 1920
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 13.309999999999999
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: wikipedia
+- rating :: 7.0
+- ratings :: [[id:f8d7219a-322d-4965-bfb1-d4b3e33e3081][Hppbtt Odncbf 1920 - 2020-4-10]]

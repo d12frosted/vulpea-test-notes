@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d33fc2e8-6c44-4034-888a-0b4bc9f03736
+:END:
+#+title: Wdcfn Yrra Wmu Tluunthy 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Wmu Tluunthy
+- vintage :: 1903
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 12.25
+- price :: 45.56 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:75a6d893-eb65-435d-a362-2274247ec04a][Wdcfn Yrra Wmu Tluunthy 1903 - 2002-6-26]]

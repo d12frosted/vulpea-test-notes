@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8c1713eb-38e3-4a41-b753-3f45460e1e73
+:END:
+#+title: Fxbahvi Qqezrar Faegwjqm Bscycht 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Faegwjqm Bscycht
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 12.57
+- price :: 27.90 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:ae431a70-1696-4010-85d0-c6789ac2a8bf][Fxbahvi Qqezrar Faegwjqm Bscycht NV - 2006-9-1]]

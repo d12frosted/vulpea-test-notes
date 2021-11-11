@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3fdb639e-9756-43f1-8a89-4f126e70e390
+:END:
+#+title: Hppbtt Mxqtrqy Rjotg 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Mxqtrqy Rjotg
+- vintage :: 1916
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 9.95
+- sugar :: 4.19
+- price :: 100.74 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

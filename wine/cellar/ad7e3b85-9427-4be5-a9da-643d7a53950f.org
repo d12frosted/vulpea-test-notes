@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ad7e3b85-9427-4be5-a9da-643d7a53950f
+:END:
+#+title: Fxbahvi Qqezrar Vbechzo Rennsq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Vbechzo Rennsq
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.2
+- price :: 101.37 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2062492f-576b-416a-9362-210d8fc8104e
+:END:
+#+title: Ajkygaf Emnb Azkekn Dtks 2018 - 2010-8-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:80479a15-23ad-4f54-abe7-52e9feca2fdd][Ajkygaf Emnb Azkekn Dtks 2018]]
+- date :: 2010-8-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

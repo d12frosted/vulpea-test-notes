@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fd5d1f82-f4f5-4822-ada6-73c2cb82aa55
+:END:
+#+title: Bhpgaqm Pslnklf Uxeaiexb 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Uxeaiexb
+- vintage :: 1927
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 12.91
+- price :: 59.27 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f7e8ebf4-3d51-4894-a14f-98c53639c33c
+:END:
+#+title: Fxbahvi Qqezrar Wfa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Wfa
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 11.36
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

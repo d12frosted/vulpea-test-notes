@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       07b1e0f0-fc52-41a4-ad54-831da631cd93
+:END:
+#+title: Xnxdlsx Yvdn Yoo 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Yvdn Yoo
+- vintage :: 1930
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.39
+- sugar :: 16.68
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: 2.5
+- ratings :: [[id:5ac5b166-a4e9-4404-96d6-4b0dc2a75b0e][Xnxdlsx Yvdn Yoo 1930 - 1994-11-24]]

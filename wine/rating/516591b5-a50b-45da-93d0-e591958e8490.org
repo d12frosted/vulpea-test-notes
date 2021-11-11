@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       516591b5-a50b-45da-93d0-e591958e8490
+:END:
+#+title: Fxbahvi Qqezrar Jczc Nddihgq 2002 - 2014-8-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:f0388403-7eb1-49a6-9746-12d69521981c][Fxbahvi Qqezrar Jczc Nddihgq 2002]]
+- date :: 2014-8-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

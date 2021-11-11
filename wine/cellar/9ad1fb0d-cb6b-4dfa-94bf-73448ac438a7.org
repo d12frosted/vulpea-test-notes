@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9ad1fb0d-cb6b-4dfa-94bf-73448ac438a7
+:END:
+#+title: Wdcfn Yrra Ejiqyu Fvotas 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Ejiqyu Fvotas
+- vintage :: 1929
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 9.04
+- price :: 3.04 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

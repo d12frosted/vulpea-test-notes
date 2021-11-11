@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       eca90fb9-ee9d-46d7-b693-fa4a68e2cf4b
+:END:
+#+title: Ibde Iowlof Hpev 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Hpev
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 12.41
+- sugar :: 8.44
+- price :: 97.06 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.0
+- ratings :: [[id:80984414-2540-4354-8bff-886092bb7d90][Ibde Iowlof Hpev NV - 2015-3-21]]

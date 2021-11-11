@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       49e8a3b8-418d-493b-a22a-3e92013d45e3
+:END:
+#+title: Fxbahvi Qqezrar Zlwg 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Zlwg
+- vintage :: 1977
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 13.09
+- sugar :: 1.46
+- price :: 12.47 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

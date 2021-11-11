@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c3a9d4c3-a3f6-4fbb-b75e-77c8a418a451
+:END:
+#+title: Bhpgaqm Pslnklf Kgeighfv Xyeo 1968 - 2010-1-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:86fb8580-a2de-4d55-a450-befaf2cc4a14][Bhpgaqm Pslnklf Kgeighfv Xyeo 1968]]
+- date :: 2010-1-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

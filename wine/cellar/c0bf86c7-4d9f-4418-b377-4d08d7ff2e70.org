@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c0bf86c7-4d9f-4418-b377-4d08d7ff2e70
+:END:
+#+title: Fxbahvi Qqezrar Xctyaxa Qygz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Xctyaxa Qygz
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 9.66
+- price :: 100.91 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

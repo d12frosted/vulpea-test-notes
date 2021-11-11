@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0c291ff8-fa98-41bc-b308-5446621ed09c
+:END:
+#+title: Mgdu Mxanfsv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Mxanfsv
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 9.22
+- sugar :: 16.42
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 7.0
+- ratings :: [[id:0508898f-cdee-448f-b08d-601a7eb6119e][Mgdu Mxanfsv NV - 1996-1-25]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       919104b3-3d23-43d4-94b6-473c8d7e13e1
+:END:
+#+title: Mabtcl Miuoflx Elvnjoe Lbyltcj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Elvnjoe Lbyltcj
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 13.61
+- sugar :: 6.62
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

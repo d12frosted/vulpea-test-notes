@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       ce3f2f6e-24cd-4e83-89fc-e41199e82a54
+:END:
+#+title: Mabtcl Miuoflx Lxoptm 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Lxoptm
+- vintage :: 1915
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.44
+- sugar :: 17.51
+- price :: 36.98 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

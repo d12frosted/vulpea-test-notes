@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fa84df3b-548f-4fd7-b9cf-1e6bf51a6b79
+:END:
+#+title: Xnxdlsx Puhsrh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Puhsrh
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 13.77
+- sugar :: 14.18
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

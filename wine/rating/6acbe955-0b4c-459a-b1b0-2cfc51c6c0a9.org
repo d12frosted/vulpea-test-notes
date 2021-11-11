@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6acbe955-0b4c-459a-b1b0-2cfc51c6c0a9
+:END:
+#+title: Xnxdlsx Kuxrvs 1984 - 2003-1-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:5e57ae8b-5b78-4a0b-abc9-6eab7a89c261][Xnxdlsx Kuxrvs 1984]]
+- date :: 2003-1-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8ad84dc5-a449-467c-9d14-593a62b58e42
+:END:
+#+title: Xnxdlsx Ijkwhc 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ijkwhc
+- vintage :: 1982
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.19
+- sugar :: 1.41
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

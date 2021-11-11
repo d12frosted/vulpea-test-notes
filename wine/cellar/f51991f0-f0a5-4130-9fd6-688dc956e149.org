@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f51991f0-f0a5-4130-9fd6-688dc956e149
+:END:
+#+title: Mgdu Wkbxm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Wkbxm
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 9.52
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: duckduckgo
+- rating :: 8.0
+- ratings :: [[id:622eb4d1-bc02-4a0d-b248-a24dec309de7][Mgdu Wkbxm NV - 2009-9-4]]

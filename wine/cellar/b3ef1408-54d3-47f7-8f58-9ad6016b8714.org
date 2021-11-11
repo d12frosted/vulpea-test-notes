@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b3ef1408-54d3-47f7-8f58-9ad6016b8714
+:END:
+#+title: Xnxdlsx Mpulr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Mpulr
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.77
+- price :: 20.05 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:2fd9794b-f315-48a4-8edc-76fe3da2e020][Xnxdlsx Mpulr NV - 2004-3-6]]

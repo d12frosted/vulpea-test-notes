@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       feea8204-5d3f-4ce0-bc0d-8b1f1c6c255b
+:END:
+#+title: Fxbahvi Qqezrar Yfocsux 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Yfocsux
+- vintage :: 1924
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.52
+- sugar :: 3.15
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.5
+- ratings :: [[id:f17e7a81-c6ed-4632-b588-d15c46dc4bb0][Fxbahvi Qqezrar Yfocsux 1924 - 2016-11-9]]

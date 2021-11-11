@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3857246e-520d-4469-9526-6200cf289036
+:END:
+#+title: Mabtcl Miuoflx Ophcvon Mwpua 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Ophcvon Mwpua
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 12.370000000000001
+- price :: 40.61 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

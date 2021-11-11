@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e22bd2f1-fa6e-42e8-a952-0722864c373c
+:END:
+#+title: Xhbm Jshzqae 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Jshzqae
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 11.22
+- price :: 18.19 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:3152ba6a-2542-43a9-bafe-411b35f8f826][Xhbm Jshzqae NV - 1999-10-28]]

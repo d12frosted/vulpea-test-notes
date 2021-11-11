@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       99d2dfb0-88d9-4142-9863-ff7eeb9c068c
+:END:
+#+title: Xnxdlsx Btno 1953 - 1995-8-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:503a1950-6a8e-40df-bebc-81561e6bc729][Xnxdlsx Btno 1953]]
+- date :: 1995-8-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

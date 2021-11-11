@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       28453d4d-6561-491c-9426-fe15161584d4
+:END:
+#+title: Mgdu Sgjrslk Gogfb 1983 - 1991-2-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:1310a105-b452-4a86-ae32-be2009ebb405][Mgdu Sgjrslk Gogfb 1983]]
+- date :: 1991-2-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 18
+- score_max :: 20
+- total :: 9.0

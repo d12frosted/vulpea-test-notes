@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f2c8b96f-302d-482d-8f2d-0326aafdfbc5
+:END:
+#+title: Wdcfn Yrra Iyylrrg Zbfh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Iyylrrg Zbfh
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 13.5
+- price :: 5.73 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

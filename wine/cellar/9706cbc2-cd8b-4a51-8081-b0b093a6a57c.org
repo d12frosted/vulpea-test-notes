@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9706cbc2-cd8b-4a51-8081-b0b093a6a57c
+:END:
+#+title: Xnxdlsx Aae Xhuocrk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Aae Xhuocrk
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- alcohol :: 12.71
+- price :: 49.22 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:50ca236f-68dd-48fa-900c-2ee34528e318][Xnxdlsx Aae Xhuocrk NV - 2019-10-15]]

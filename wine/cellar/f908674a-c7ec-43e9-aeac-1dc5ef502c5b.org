@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f908674a-c7ec-43e9-aeac-1dc5ef502c5b
+:END:
+#+title: Wdcfn Yrra Jeyufjas Mhng 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Jeyufjas Mhng
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 13.73
+- sugar :: 20.43
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

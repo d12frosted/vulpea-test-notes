@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e8289b73-eccd-492f-8ab9-f36b2ddfd583
+:END:
+#+title: Fxbahvi Qqezrar Pfkxlnbl 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Pfkxlnbl
+- vintage :: 1991
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.78
+- price :: 50.27 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

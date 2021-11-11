@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1df93949-5bd6-4186-a6a6-01c0515606d4
+:END:
+#+title: Ajkygaf Emnb Komp NV - 1999-2-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:8ffd4bd4-9c7b-45ee-8524-7f638e16e913][Ajkygaf Emnb Komp]]
+- date :: 1999-2-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

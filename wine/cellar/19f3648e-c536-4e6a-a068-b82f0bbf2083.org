@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       19f3648e-c536-4e6a-a068-b82f0bbf2083
+:END:
+#+title: Wdcfn Yrra Vlgqmo Nviycalk 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Vlgqmo Nviycalk
+- vintage :: 1988
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 13.35
+- price :: 75.70 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

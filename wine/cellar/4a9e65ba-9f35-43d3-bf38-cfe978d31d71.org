@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4a9e65ba-9f35-43d3-bf38-cfe978d31d71
+:END:
+#+title: Ajkygaf Emnb Dhwvgonp 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Dhwvgonp
+- vintage :: 1929
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.74
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4fcc2dca-a52a-4cfb-9ac9-9d7f675ff450
+:END:
+#+title: Hppbtt Tkfouf Bfptwzea 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Tkfouf Bfptwzea
+- vintage :: 1964
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 12.72
+- sugar :: 0.66
+- price :: 83.74 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

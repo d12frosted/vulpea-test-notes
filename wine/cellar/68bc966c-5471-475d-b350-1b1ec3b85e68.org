@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       68bc966c-5471-475d-b350-1b1ec3b85e68
+:END:
+#+title: Ibde Iowlof Zkxdx Wmedxdhz 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Zkxdx Wmedxdhz
+- vintage :: 1940
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 12.08
+- price :: 41.66 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

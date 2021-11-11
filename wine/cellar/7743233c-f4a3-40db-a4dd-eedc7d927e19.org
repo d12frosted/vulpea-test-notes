@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7743233c-f4a3-40db-a4dd-eedc7d927e19
+:END:
+#+title: Mabtcl Miuoflx Xxifdo Zfgoqkvj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Xxifdo Zfgoqkvj
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 12.59
+- sugar :: 23.69
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a79b68e4-c6d2-4df8-9511-804855c210a1
+:END:
+#+title: Ibde Iowlof Ebzej 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ebzej
+- vintage :: 1999
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 13.25
+- sugar :: 18.85
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:c7b8e564-e732-457d-b506-223b1aa3259d][Ibde Iowlof Ebzej 1999 - 2012-5-3]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a029307e-0183-42a4-970e-a46bd6ae619b
+:END:
+#+title: Bhpgaqm Pslnklf Ikgvzoci 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ikgvzoci
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 13.83
+- sugar :: 22.19
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 8.0
+- ratings :: [[id:d5d8e538-cc12-4bba-b76d-67a1526f014b][Bhpgaqm Pslnklf Ikgvzoci NV - 2016-7-26]]

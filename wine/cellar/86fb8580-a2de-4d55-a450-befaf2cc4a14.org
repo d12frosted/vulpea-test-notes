@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       86fb8580-a2de-4d55-a450-befaf2cc4a14
+:END:
+#+title: Bhpgaqm Pslnklf Kgeighfv Xyeo 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Kgeighfv Xyeo
+- vintage :: 1968
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 12.39
+- sugar :: 14.2
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:c3a9d4c3-a3f6-4fbb-b75e-77c8a418a451][Bhpgaqm Pslnklf Kgeighfv Xyeo 1968 - 2010-1-8]]

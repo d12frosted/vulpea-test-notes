@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c6b9a844-5370-4703-826b-effc9455ddb2
+:END:
+#+title: Xhbm Vvd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Vvd
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 11.33
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:8929e76d-32d9-4228-940f-0794e2aeee5a][Xhbm Vvd NV - 2004-7-18]]

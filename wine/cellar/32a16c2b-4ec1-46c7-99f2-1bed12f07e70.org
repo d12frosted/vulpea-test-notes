@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       32a16c2b-4ec1-46c7-99f2-1bed12f07e70
+:END:
+#+title: Ibde Iowlof Dacbfgd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Dacbfgd
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 13.8
+- price :: 81.61 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

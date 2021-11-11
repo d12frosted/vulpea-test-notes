@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       7ef4bb15-2dfb-4e05-9c60-353cef00be0f
+:END:
+#+title: Mabtcl Miuoflx Han 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Han
+- vintage :: 1992
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 13.17
+- sugar :: 4.31
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:da1a2507-d230-4dfe-b022-393d3bfe5b11][Mabtcl Miuoflx Han 1992 - 2009-5-22]]

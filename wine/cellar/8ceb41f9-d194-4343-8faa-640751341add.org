@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8ceb41f9-d194-4343-8faa-640751341add
+:END:
+#+title: Fxbahvi Qqezrar Weeparnr 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Weeparnr
+- vintage :: 2014
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 9.75
+- sugar :: 16.07
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

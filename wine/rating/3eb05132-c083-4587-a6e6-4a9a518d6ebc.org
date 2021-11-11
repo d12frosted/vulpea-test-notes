@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3eb05132-c083-4587-a6e6-4a9a518d6ebc
+:END:
+#+title: Ajkygaf Emnb Gjiwawo 1959 - 2005-9-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:dbaa3a6e-c787-4d78-86fc-848d03722497][Ajkygaf Emnb Gjiwawo 1959]]
+- date :: 2005-9-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

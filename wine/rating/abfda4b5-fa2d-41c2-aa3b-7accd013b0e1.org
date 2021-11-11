@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       abfda4b5-fa2d-41c2-aa3b-7accd013b0e1
+:END:
+#+title: Mgdu Xovemtw 2003 - 2013-12-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:e8b2bbcd-3baa-464a-933a-68e104585882][Mgdu Xovemtw 2003]]
+- date :: 2013-12-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

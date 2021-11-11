@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       35731b18-97a3-4aa6-8ffa-4898a0de12ef
+:END:
+#+title: Bhpgaqm Pslnklf Cyryvfj Ytfpcie 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Cyryvfj Ytfpcie
+- vintage :: 1982
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 10.26
+- sugar :: 12.68
+- price :: 63.95 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 6.0
+- ratings :: [[id:21c418c7-1cc3-4047-9a4d-2ac2c04bf85e][Bhpgaqm Pslnklf Cyryvfj Ytfpcie 1982 - 2011-11-6]]

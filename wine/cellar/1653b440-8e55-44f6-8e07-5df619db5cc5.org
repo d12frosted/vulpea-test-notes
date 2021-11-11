@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       1653b440-8e55-44f6-8e07-5df619db5cc5
+:END:
+#+title: Fxbahvi Qqezrar Capqx Rvp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Capqx Rvp
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.64
+- sugar :: 4.4
+- price :: 96.56 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:48895a9a-c693-43d2-ad04-ae959e502b83][Fxbahvi Qqezrar Capqx Rvp NV - 2013-8-5]]

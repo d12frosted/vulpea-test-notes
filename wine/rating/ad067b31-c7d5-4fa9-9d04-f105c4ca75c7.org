@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ad067b31-c7d5-4fa9-9d04-f105c4ca75c7
+:END:
+#+title: Xhbm Dtf Nlzs NV - 2024-8-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:5bd54f92-8e53-4921-b25b-3b6ab784842a][Xhbm Dtf Nlzs]]
+- date :: 2024-8-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

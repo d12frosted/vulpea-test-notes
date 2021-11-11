@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       272b0b2e-f87a-4f9b-8ce9-0a348ceb45da
+:END:
+#+title: Bhpgaqm Pslnklf Lqpauu 2019 - 2003-5-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:7edfef2d-5d62-4825-ac86-b674623161b5][Bhpgaqm Pslnklf Lqpauu 2019]]
+- date :: 2003-5-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

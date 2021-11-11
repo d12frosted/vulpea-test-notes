@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       5443c029-ea73-45c9-9126-b9f5d4190499
+:END:
+#+title: Ajkygaf Emnb Flmq Jpwv 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Flmq Jpwv
+- vintage :: 1986
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 12.8
+- price :: 19.23 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 8.0
+- ratings :: [[id:bce7bf4c-d3b5-42c2-b4e5-879a842cbf2d][Ajkygaf Emnb Flmq Jpwv 1986 - 2011-3-26]]

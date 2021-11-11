@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2db4ec6c-0bb0-40fb-81a5-1320d77a5aa3
+:END:
+#+title: Xhbm Vkit 1951 - 2004-6-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:606fe65a-b702-4f5f-adba-8a72a67a1132][Xhbm Vkit 1951]]
+- date :: 2004-6-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

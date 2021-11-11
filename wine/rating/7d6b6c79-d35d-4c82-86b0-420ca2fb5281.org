@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7d6b6c79-d35d-4c82-86b0-420ca2fb5281
+:END:
+#+title: Wdcfn Yrra Ozud Blscxbzy NV - 2012-5-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:8b46da9c-bb6e-439d-9d32-c61efceebc09][Wdcfn Yrra Ozud Blscxbzy]]
+- date :: 2012-5-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6ce3f9c0-4ae7-4c2a-a5b8-dbc26a8f5e6a
+:END:
+#+title: Mgdu Tao Vriy 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Tao Vriy
+- vintage :: 1934
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.66
+- sugar :: 14.28
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       412a0e19-c0ac-4972-a9c0-524dbe61905b
+:END:
+#+title: Bhpgaqm Pslnklf Mweoyz Jxlrx 1944 - 2024-1-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:d59c0edf-a75d-40a1-9a9d-671f496eee95][Bhpgaqm Pslnklf Mweoyz Jxlrx 1944]]
+- date :: 2024-1-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

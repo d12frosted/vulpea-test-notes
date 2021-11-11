@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       fa812cfd-b7a6-4cfa-9f09-7893679dd7da
+:END:
+#+title: Hppbtt Ulewk Uce 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ulewk Uce
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 11.93
+- sugar :: 15.36
+- price :: 74.55 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:26116390-f559-4697-87b9-83bdaea9214b][Hppbtt Ulewk Uce NV - 2021-7-12]]

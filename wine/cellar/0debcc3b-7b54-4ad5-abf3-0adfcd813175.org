@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0debcc3b-7b54-4ad5-abf3-0adfcd813175
+:END:
+#+title: Xhbm Usp 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Usp
+- vintage :: 1991
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.01
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 4.5
+- ratings :: [[id:b51f3bcf-01a1-488b-8aeb-862464851017][Xhbm Usp 1991 - 2012-1-25]]

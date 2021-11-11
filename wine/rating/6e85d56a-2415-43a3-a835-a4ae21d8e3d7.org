@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6e85d56a-2415-43a3-a835-a4ae21d8e3d7
+:END:
+#+title: Mabtcl Miuoflx Tbzhx Oyet NV - 1995-2-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:b899630c-3079-42c7-af3f-60bfd2c87e35][Mabtcl Miuoflx Tbzhx Oyet]]
+- date :: 1995-2-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

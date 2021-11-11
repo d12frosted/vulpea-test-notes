@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a617d61e-47a8-4cb8-a8e5-f8482498fcc7
+:END:
+#+title: Xhbm Wclzs 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Wclzs
+- vintage :: 1949
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 11.06
+- sugar :: 1.14
+- price :: 79.50 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1724083a-8688-4ece-83dc-ba0863d0f3ba
+:END:
+#+title: Hppbtt Gtudblvb Upic 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Gtudblvb Upic
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 13.969999999999999
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

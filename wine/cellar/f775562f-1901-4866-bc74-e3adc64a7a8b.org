@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f775562f-1901-4866-bc74-e3adc64a7a8b
+:END:
+#+title: Ibde Iowlof Qdf Qjpojvbn 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Qdf Qjpojvbn
+- vintage :: 1949
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 12.52
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 2.5
+- ratings :: [[id:7ef2a27f-4ca4-4ac4-9947-4115a6f726de][Ibde Iowlof Qdf Qjpojvbn 1949 - 2010-11-18]]

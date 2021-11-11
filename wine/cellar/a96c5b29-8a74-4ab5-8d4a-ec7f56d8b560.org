@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a96c5b29-8a74-4ab5-8d4a-ec7f56d8b560
+:END:
+#+title: Xnxdlsx Mbaev Gbyzbzp 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Mbaev Gbyzbzp
+- vintage :: 1999
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- alcohol :: 12.98
+- sugar :: 0.81
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

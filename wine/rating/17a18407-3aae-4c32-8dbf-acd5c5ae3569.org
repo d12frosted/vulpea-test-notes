@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       17a18407-3aae-4c32-8dbf-acd5c5ae3569
+:END:
+#+title: Ajkygaf Emnb Ktrovy Xbmsovbb 2012 - 2017-5-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:d5d40f3c-043f-4517-bfa4-429be884add7][Ajkygaf Emnb Ktrovy Xbmsovbb 2012]]
+- date :: 2017-5-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

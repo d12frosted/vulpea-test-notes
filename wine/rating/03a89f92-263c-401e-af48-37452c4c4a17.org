@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       03a89f92-263c-401e-af48-37452c4c4a17
+:END:
+#+title: Ajkygaf Emnb Ftuv NV - 1999-4-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:015ea43b-7f34-4b75-a86f-3c1d81b7a3f6][Ajkygaf Emnb Ftuv]]
+- date :: 1999-4-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6758e1e1-ac76-4253-8f29-8fd2c4e192f9
+:END:
+#+title: Ibde Iowlof Zni Xmr 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Zni Xmr
+- vintage :: 1955
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 9.49
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 3.0
+- ratings :: [[id:c4e52a03-1060-4075-afb4-5f3812d918b1][Ibde Iowlof Zni Xmr 1955 - 2023-7-17]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d337887e-246f-497f-a72b-54a4478de8b4
+:END:
+#+title: Ajkygaf Emnb Hkl Xqnzys 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Hkl Xqnzys
+- vintage :: 1977
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 13.3
+- price :: 7.84 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

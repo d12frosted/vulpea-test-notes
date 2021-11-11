@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       414ac332-734e-4f93-bd09-0e3f365fd57c
+:END:
+#+title: Xhbm Tav Nccij 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Tav Nccij
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 10.370000000000001
+- price :: 36.22 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:6b509268-363f-4e49-9e0f-c710b8ef1e07][Xhbm Tav Nccij NV - 2014-1-12]]

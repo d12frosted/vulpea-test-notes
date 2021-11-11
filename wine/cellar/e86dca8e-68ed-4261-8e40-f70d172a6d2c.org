@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e86dca8e-68ed-4261-8e40-f70d172a6d2c
+:END:
+#+title: Hppbtt Nzjup 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Nzjup
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.89
+- price :: 41.74 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:9cae62c3-b9ff-4d76-8c06-e228c1efde7b][Hppbtt Nzjup NV - 2023-6-26]]

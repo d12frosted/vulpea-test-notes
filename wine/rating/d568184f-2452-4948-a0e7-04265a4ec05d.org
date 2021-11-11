@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d568184f-2452-4948-a0e7-04265a4ec05d
+:END:
+#+title: Ibde Iowlof Wtvc Dqcgwczb NV - 2016-5-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:e3af37f3-a8bc-4103-8929-e29be4338390][Ibde Iowlof Wtvc Dqcgwczb]]
+- date :: 2016-5-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

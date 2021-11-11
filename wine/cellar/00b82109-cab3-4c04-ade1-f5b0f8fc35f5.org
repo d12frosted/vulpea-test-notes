@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       00b82109-cab3-4c04-ade1-f5b0f8fc35f5
+:END:
+#+title: Xhbm Hsuq 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Hsuq
+- vintage :: 1962
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 11.59
+- price :: 70.60 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:596c981a-9ee0-4ae4-b6df-8d81bc17aabf][Xhbm Hsuq 1962 - 2020-4-18]]

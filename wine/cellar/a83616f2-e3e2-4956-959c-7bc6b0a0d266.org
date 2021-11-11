@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a83616f2-e3e2-4956-959c-7bc6b0a0d266
+:END:
+#+title: Ibde Iowlof Pmjnqtap Ahcgkfu 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Pmjnqtap Ahcgkfu
+- vintage :: 1917
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 11.27
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 7.0
+- ratings :: [[id:9aeb4da5-ed42-4fa6-a08f-323cfb929df9][Ibde Iowlof Pmjnqtap Ahcgkfu 1917 - 2001-6-10]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3eb20c29-d5d3-4957-8760-2e500c4d9495
+:END:
+#+title: Ajkygaf Emnb Kqn NV - 1991-1-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:c65cccfe-49ba-48a6-bb89-df630fe9dd31][Ajkygaf Emnb Kqn]]
+- date :: 1991-1-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 2
+- score_max :: 20
+- total :: 1.0

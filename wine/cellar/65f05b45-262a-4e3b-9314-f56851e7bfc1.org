@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       65f05b45-262a-4e3b-9314-f56851e7bfc1
+:END:
+#+title: Mgdu Crcdj Mgdj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Crcdj Mgdj
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 10.27
+- sugar :: 19.26
+- price :: 60.40 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 8.0
+- ratings :: [[id:584085c1-3132-490f-9a36-3d84d74cd834][Mgdu Crcdj Mgdj NV - 2021-1-15]]

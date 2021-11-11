@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       44e50346-9edf-4e94-b8ca-ab02b5314e25
+:END:
+#+title: Xnxdlsx Epvueds Zfske 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Epvueds Zfske
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 10.47
+- sugar :: 13.41
+- price :: 7.45 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 3.0
+- ratings :: [[id:cac3c87b-9acd-4da0-8b10-fc51f9d59d81][Xnxdlsx Epvueds Zfske NV - 1999-3-15]]

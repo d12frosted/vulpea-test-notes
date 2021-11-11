@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b8fbe4e4-cd60-4be8-9c79-b1edff6ad053
+:END:
+#+title: Xnxdlsx Ghasftxs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ghasftxs
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 12.27
+- sugar :: 13.42
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:1aec2cd9-d360-4c5a-a831-e1af8a671111][Xnxdlsx Ghasftxs NV - 2011-8-11]]

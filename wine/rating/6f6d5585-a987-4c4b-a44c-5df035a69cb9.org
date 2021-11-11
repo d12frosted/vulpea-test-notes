@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6f6d5585-a987-4c4b-a44c-5df035a69cb9
+:END:
+#+title: Xnxdlsx Ndd Sscyo NV - 2008-12-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:5140c3a8-80d6-4019-b957-e7c64b69e1bb][Xnxdlsx Ndd Sscyo]]
+- date :: 2008-12-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

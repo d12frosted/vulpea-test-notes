@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a9ab9de9-f3fc-4960-9a8d-5296933a2d8a
+:END:
+#+title: Hppbtt Vxrpvpx Mgxthm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Vxrpvpx Mgxthm
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 13.04
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

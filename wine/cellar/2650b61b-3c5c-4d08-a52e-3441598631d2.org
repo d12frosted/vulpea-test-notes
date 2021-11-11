@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2650b61b-3c5c-4d08-a52e-3441598631d2
+:END:
+#+title: Xnxdlsx Tcwkrhx 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Tcwkrhx
+- vintage :: 1921
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 13.2
+- price :: 6.19 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:446e95cc-82ca-40dc-9480-d4b3c26cc66d][Xnxdlsx Tcwkrhx 1921 - 2015-4-12]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       96cc4312-d80c-4419-8ecb-ce8192aa867d
+:END:
+#+title: Mabtcl Miuoflx Pniydr NV - 2021-3-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:31ab6d5d-cb06-413b-8f0f-d123e5d3ec9a][Mabtcl Miuoflx Pniydr]]
+- date :: 2021-3-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

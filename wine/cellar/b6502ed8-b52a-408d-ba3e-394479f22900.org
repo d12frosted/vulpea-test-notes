@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b6502ed8-b52a-408d-ba3e-394479f22900
+:END:
+#+title: Bhpgaqm Pslnklf Jwiq Sfg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Jwiq Sfg
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.21
+- price :: 78.29 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

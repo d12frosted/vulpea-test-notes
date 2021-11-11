@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       848c7e09-f631-4cd8-a855-61861e64f4a0
+:END:
+#+title: Fxbahvi Qqezrar Jwe 1966 - 2007-1-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:ebc57cb1-7869-4530-8298-9f57103a6ff1][Fxbahvi Qqezrar Jwe 1966]]
+- date :: 2007-1-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

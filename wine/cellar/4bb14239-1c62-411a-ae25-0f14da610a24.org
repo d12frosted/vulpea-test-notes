@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4bb14239-1c62-411a-ae25-0f14da610a24
+:END:
+#+title: Bhpgaqm Pslnklf Nhlzcggd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Nhlzcggd
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 9.13
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 7.0
+- ratings :: [[id:e13fb8f9-5381-420d-98b3-7b323967f5de][Bhpgaqm Pslnklf Nhlzcggd NV - 1991-4-19]]

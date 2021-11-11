@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       94761d54-ddf3-49ec-ae7f-33c3b0321f17
+:END:
+#+title: Mgdu Cbouff Drokbzbl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Cbouff Drokbzbl
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 9.2
+- sugar :: 17.0
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 3.0
+- ratings :: [[id:45f1717e-ec1a-40ba-abca-8b48a4721af3][Mgdu Cbouff Drokbzbl NV - 1991-7-1]]

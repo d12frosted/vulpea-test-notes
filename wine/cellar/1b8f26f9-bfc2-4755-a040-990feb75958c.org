@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1b8f26f9-bfc2-4755-a040-990feb75958c
+:END:
+#+title: Xnxdlsx Sbve 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Sbve
+- vintage :: 1910
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 9.8
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 3.0
+- ratings :: [[id:54595abb-7f45-40d1-884a-507b38a62a4a][Xnxdlsx Sbve 1910 - 2012-6-1]]

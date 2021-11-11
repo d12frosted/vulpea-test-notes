@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3c26d68f-d57a-4f04-95d4-62402c2342b3
+:END:
+#+title: Fxbahvi Qqezrar Aqmvv Ntvbfztz 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Aqmvv Ntvbfztz
+- vintage :: 1980
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 13.1
+- sugar :: 6.28
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

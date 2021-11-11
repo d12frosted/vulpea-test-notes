@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       68482a94-280f-4a7c-904c-f5b36084a259
+:END:
+#+title: Mgdu Kqah 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Kqah
+- vintage :: 1991
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 11.75
+- price :: 92.67 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

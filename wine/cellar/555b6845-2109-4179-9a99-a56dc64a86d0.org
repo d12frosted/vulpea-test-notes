@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       555b6845-2109-4179-9a99-a56dc64a86d0
+:END:
+#+title: Fxbahvi Qqezrar Bqjkq Sadsv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Bqjkq Sadsv
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.53
+- price :: 59.51 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 7.0
+- ratings :: [[id:f264fe4f-9732-44f8-9a20-c989ad7893b7][Fxbahvi Qqezrar Bqjkq Sadsv NV - 2018-7-4]]

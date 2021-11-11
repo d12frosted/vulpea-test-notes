@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5a2efa85-ed80-46c4-81ea-cb55e528b34d
+:END:
+#+title: Ibde Iowlof Fxwoj Tifgq 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Fxwoj Tifgq
+- vintage :: 2007
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.19
+- sugar :: 10.09
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

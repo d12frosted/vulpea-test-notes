@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0055807b-1b6a-45ab-a477-dd51db93e014
+:END:
+#+title: Fxbahvi Qqezrar Odcucxkw 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Odcucxkw
+- vintage :: 1935
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 11.84
+- sugar :: 12.82
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

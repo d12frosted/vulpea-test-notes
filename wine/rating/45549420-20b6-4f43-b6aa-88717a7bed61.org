@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       45549420-20b6-4f43-b6aa-88717a7bed61
+:END:
+#+title: Ajkygaf Emnb Jos Oivxaysc 1966 - 2013-4-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:1fad58c9-5a4d-459a-8e4a-373acdca04d0][Ajkygaf Emnb Jos Oivxaysc 1966]]
+- date :: 2013-4-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

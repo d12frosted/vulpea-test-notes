@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       24fa74ab-69de-412e-a0c8-b533cb95576b
+:END:
+#+title: Fxbahvi Qqezrar Citwoxj 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Citwoxj
+- vintage :: 1978
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 12.91
+- sugar :: 12.13
+- price :: 66.52 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: 8.5
+- ratings :: [[id:6eb537ff-0dd2-49b6-ac52-04bc199958b5][Fxbahvi Qqezrar Citwoxj 1978 - 2004-5-15]]

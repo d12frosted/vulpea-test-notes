@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f478b56f-0cb8-42ef-bfab-9a363041cb26
+:END:
+#+title: Ajkygaf Emnb Tkpc Iant 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Tkpc Iant
+- vintage :: 1939
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 12.34
+- sugar :: 19.93
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

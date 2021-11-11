@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       97c0e2d4-72b3-47af-9bf9-9aa1ebcf5b3f
+:END:
+#+title: Hppbtt Bunrlb Cijhior 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Bunrlb Cijhior
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 12.02
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 4.0
+- ratings :: [[id:d18e8fad-309b-4aa6-bc63-29f8795612b8][Hppbtt Bunrlb Cijhior NV - 2017-1-9]]

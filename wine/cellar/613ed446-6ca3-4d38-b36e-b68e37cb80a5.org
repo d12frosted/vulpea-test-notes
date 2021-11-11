@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       613ed446-6ca3-4d38-b36e-b68e37cb80a5
+:END:
+#+title: Bhpgaqm Pslnklf Hzmsq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Hzmsq
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 10.34
+- sugar :: 12.42
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

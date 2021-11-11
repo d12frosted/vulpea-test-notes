@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c1f70dcd-7798-4099-8ca5-2b9fc9973fbd
+:END:
+#+title: Wdcfn Yrra Eidiwyw 1966 - 2001-10-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:cef5352d-11b8-4b11-9a53-c1f378141f6d][Wdcfn Yrra Eidiwyw 1966]]
+- date :: 2001-10-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

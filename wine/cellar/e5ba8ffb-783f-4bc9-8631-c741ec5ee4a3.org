@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e5ba8ffb-783f-4bc9-8631-c741ec5ee4a3
+:END:
+#+title: Mabtcl Miuoflx Ihwcny 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Ihwcny
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 11.05
+- sugar :: 2.43
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 5.0
+- ratings :: [[id:f69e663a-c316-42a4-b0d9-08bf6496c239][Mabtcl Miuoflx Ihwcny NV - 2003-9-17]]

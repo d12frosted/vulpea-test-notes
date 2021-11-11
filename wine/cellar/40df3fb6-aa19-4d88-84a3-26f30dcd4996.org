@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       40df3fb6-aa19-4d88-84a3-26f30dcd4996
+:END:
+#+title: Wdcfn Yrra Ecg Rnelpm 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Ecg Rnelpm
+- vintage :: 1979
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 9.27
+- sugar :: 23.75
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.0
+- ratings :: [[id:a2d9fa2d-76b2-4d5f-9e41-3d366c7dc3c5][Wdcfn Yrra Ecg Rnelpm 1979 - 1990-2-14]]

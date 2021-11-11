@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a4597f41-a635-4d02-9095-8be7717e0357
+:END:
+#+title: Xnxdlsx Cmjv Qsrny NV - 1996-3-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:1f8af78b-ed8b-4c5f-941b-3b6d14aa0cd9][Xnxdlsx Cmjv Qsrny]]
+- date :: 1996-3-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

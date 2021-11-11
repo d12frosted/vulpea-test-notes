@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       571ed01a-b4b1-4c06-83f1-a0fe105f7e96
+:END:
+#+title: Hppbtt Hlxuxhdn Hqpvm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Hlxuxhdn Hqpvm
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 12.22
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 7.5
+- ratings :: [[id:d33a5766-21e6-4681-9223-cca6494536a3][Hppbtt Hlxuxhdn Hqpvm NV - 2001-7-10]]

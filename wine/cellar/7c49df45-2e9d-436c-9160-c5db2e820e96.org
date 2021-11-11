@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7c49df45-2e9d-436c-9160-c5db2e820e96
+:END:
+#+title: Wdcfn Yrra Cxpoxgfo Ygprhxqb 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Cxpoxgfo Ygprhxqb
+- vintage :: 1986
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 9.7
+- sugar :: 20.95
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

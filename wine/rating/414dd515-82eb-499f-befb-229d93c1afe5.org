@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       414dd515-82eb-499f-befb-229d93c1afe5
+:END:
+#+title: Bhpgaqm Pslnklf Nyjk 1923 - 2006-2-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:3dde2449-3a97-4c9b-947a-5604bed1b5f3][Bhpgaqm Pslnklf Nyjk 1923]]
+- date :: 2006-2-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

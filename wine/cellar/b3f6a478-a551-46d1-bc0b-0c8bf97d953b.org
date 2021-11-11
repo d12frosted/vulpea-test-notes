@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b3f6a478-a551-46d1-bc0b-0c8bf97d953b
+:END:
+#+title: Mabtcl Miuoflx Sqs Ekllmvs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Sqs Ekllmvs
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 12.46
+- price :: 3.95 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:653df616-3fbd-4e69-9474-54dc7cea02ce][Mabtcl Miuoflx Sqs Ekllmvs NV - 2004-6-3]]

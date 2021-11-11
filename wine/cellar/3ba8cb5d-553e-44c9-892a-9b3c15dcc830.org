@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3ba8cb5d-553e-44c9-892a-9b3c15dcc830
+:END:
+#+title: Wdcfn Yrra Ntnt 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Ntnt
+- vintage :: 1963
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 13.17
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

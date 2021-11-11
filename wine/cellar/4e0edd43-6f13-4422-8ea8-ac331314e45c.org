@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4e0edd43-6f13-4422-8ea8-ac331314e45c
+:END:
+#+title: Mgdu Ggq Listdj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ggq Listdj
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 12.74
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 6.5
+- ratings :: [[id:1fdff06e-6791-41ee-a551-f7a217e83401][Mgdu Ggq Listdj NV - 2004-12-6]]

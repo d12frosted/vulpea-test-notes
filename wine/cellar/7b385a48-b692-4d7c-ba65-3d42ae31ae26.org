@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7b385a48-b692-4d7c-ba65-3d42ae31ae26
+:END:
+#+title: Mabtcl Miuoflx Hffrrg 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Hffrrg
+- vintage :: 1974
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 10.24
+- sugar :: 11.28
+- price :: 81.69 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

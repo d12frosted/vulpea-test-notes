@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e28b3dfa-98dc-407b-819d-f35dd9805f75
+:END:
+#+title: Fxbahvi Qqezrar Ygtjmaf 1951 - 2023-5-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:17a96967-cdca-4cb7-b1bd-b704479a0204][Fxbahvi Qqezrar Ygtjmaf 1951]]
+- date :: 2023-5-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

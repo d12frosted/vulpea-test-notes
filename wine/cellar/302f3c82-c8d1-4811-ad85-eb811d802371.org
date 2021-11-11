@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       302f3c82-c8d1-4811-ad85-eb811d802371
+:END:
+#+title: Fxbahvi Qqezrar Ljbixd Bhw 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Ljbixd Bhw
+- vintage :: 1971
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.46
+- sugar :: 21.23
+- price :: 51.00 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 5.0
+- ratings :: [[id:eae096d0-5124-48e5-94a5-1c3fe7d38913][Fxbahvi Qqezrar Ljbixd Bhw 1971 - 2011-9-16]]

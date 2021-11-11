@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b959ce5c-d252-4ff3-b644-5172018c7a15
+:END:
+#+title: Wdcfn Yrra Tjilzgxc Gtnc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Tjilzgxc Gtnc
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.58
+- price :: 41.61 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:a6fc2e62-e7e9-437d-b129-cd5c637d76b6][Wdcfn Yrra Tjilzgxc Gtnc NV - 2013-9-10]]

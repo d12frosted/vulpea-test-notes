@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       99cc2cff-46fe-49cc-874f-5363b642d8bb
+:END:
+#+title: Ajkygaf Emnb Gcaeax 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Gcaeax
+- vintage :: 1969
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 9.46
+- sugar :: 21.1
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

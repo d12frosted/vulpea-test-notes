@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6d8c5685-ec5b-4357-8fe6-47dbdb59dcde
+:END:
+#+title: Bhpgaqm Pslnklf Ofu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ofu
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.39
+- sugar :: 3.12
+- price :: 73.78 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

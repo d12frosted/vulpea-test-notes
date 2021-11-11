@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       87fb0f53-75cf-4b07-b7fc-b337609559b1
+:END:
+#+title: Xhbm Fkcon Tcleuz 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Fkcon Tcleuz
+- vintage :: 2000
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 13.5
+- price :: 72.41 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

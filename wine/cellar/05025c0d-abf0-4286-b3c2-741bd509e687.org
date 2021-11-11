@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       05025c0d-abf0-4286-b3c2-741bd509e687
+:END:
+#+title: Wdcfn Yrra Tywupd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Tywupd
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 12.11
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

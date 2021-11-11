@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ad419386-6f24-49f0-8997-f91d89d88bc3
+:END:
+#+title: Fxbahvi Qqezrar Hyj NV - 1999-6-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:f428999f-cf17-43d2-bdcc-3c8bfdaa23ce][Fxbahvi Qqezrar Hyj]]
+- date :: 1999-6-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 18
+- score_max :: 20
+- total :: 9.0

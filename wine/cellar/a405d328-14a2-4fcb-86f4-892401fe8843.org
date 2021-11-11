@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a405d328-14a2-4fcb-86f4-892401fe8843
+:END:
+#+title: Wdcfn Yrra Jnmlkua 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Jnmlkua
+- vintage :: 1965
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 10.21
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

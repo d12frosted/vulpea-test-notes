@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       58c22a9f-c32d-42d5-ad56-fb7db4dce774
+:END:
+#+title: Fxbahvi Qqezrar Dkidujor Ggoisf 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Dkidujor Ggoisf
+- vintage :: 1993
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 13.35
+- sugar :: 4.0
+- price :: 58.26 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 3.5
+- ratings :: [[id:4fdd4b6e-e105-4553-bd0d-4a3d5d7bb336][Fxbahvi Qqezrar Dkidujor Ggoisf 1993 - 1997-9-12]]

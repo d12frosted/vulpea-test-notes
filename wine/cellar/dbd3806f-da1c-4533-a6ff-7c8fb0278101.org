@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dbd3806f-da1c-4533-a6ff-7c8fb0278101
+:END:
+#+title: Hppbtt Nvamjz Pkod 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Nvamjz Pkod
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 9.65
+- price :: 13.28 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bb270ee2-d46e-4a8f-8d16-62f3d9424c1a
+:END:
+#+title: Wdcfn Yrra Medti Lwssvbqb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Medti Lwssvbqb
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.8
+- price :: 90.44 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

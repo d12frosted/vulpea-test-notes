@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c1b1025e-768b-4fc8-930e-9579116472cd
+:END:
+#+title: Hppbtt Ksfupom 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ksfupom
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 10.21
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:864b0668-aeb9-4179-9f8a-29e6ec5c305b][Hppbtt Ksfupom NV - 1998-3-2]]

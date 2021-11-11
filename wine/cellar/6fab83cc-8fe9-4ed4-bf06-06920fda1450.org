@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6fab83cc-8fe9-4ed4-bf06-06920fda1450
+:END:
+#+title: Fxbahvi Qqezrar Feure 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Feure
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.83
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

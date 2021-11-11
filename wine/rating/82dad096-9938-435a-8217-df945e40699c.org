@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       82dad096-9938-435a-8217-df945e40699c
+:END:
+#+title: Mabtcl Miuoflx Dphlyl 1997 - 2019-11-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:9a83de31-9eff-4dc3-90cf-04f29d55217b][Mabtcl Miuoflx Dphlyl 1997]]
+- date :: 2019-11-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d368b7ab-bd05-4b69-9bb4-9de8d47f5a21
+:END:
+#+title: Bhpgaqm Pslnklf Bdzlq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Bdzlq
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 11.74
+- sugar :: 10.42
+- price :: 82.08 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

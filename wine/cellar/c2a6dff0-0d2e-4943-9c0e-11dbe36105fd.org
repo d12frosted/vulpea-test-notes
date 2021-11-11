@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c2a6dff0-0d2e-4943-9c0e-11dbe36105fd
+:END:
+#+title: Ajkygaf Emnb Ccmnzd Bksrci 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ccmnzd Bksrci
+- vintage :: 1914
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 10.81
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 3.0
+- ratings :: [[id:26c92a54-eac9-421e-9157-1022a1a80dc1][Ajkygaf Emnb Ccmnzd Bksrci 1914 - 2000-8-1]]

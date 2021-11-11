@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4e703da6-81a5-4ba0-8e37-476299efb8ff
+:END:
+#+title: Xhbm Hsa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Hsa
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 11.72
+- sugar :: 18.57
+- price :: 75.75 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: wikipedia
+- rating :: 8.0
+- ratings :: [[id:23f574c1-362e-46cb-a9fa-3d136176f21e][Xhbm Hsa NV - 2018-8-23]]

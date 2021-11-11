@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e41c0a2f-fcbd-4c33-9218-5fb6af9f3ea8
+:END:
+#+title: Fxbahvi Qqezrar Evkjwp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Evkjwp
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.16
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

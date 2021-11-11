@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       86c3f011-deef-4f2c-a391-47cc4175c995
+:END:
+#+title: Fxbahvi Qqezrar Gcltt Jrv 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Gcltt Jrv
+- vintage :: 1905
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.47
+- sugar :: 8.14
+- price :: 43.98 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

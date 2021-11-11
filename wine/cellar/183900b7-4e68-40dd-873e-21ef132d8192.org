@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       183900b7-4e68-40dd-873e-21ef132d8192
+:END:
+#+title: Mabtcl Miuoflx Buxvqq Ybo 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Buxvqq Ybo
+- vintage :: 1966
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.62
+- price :: 14.75 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

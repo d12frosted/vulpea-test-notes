@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       94d7c74e-cc16-4f2c-9524-9531dbc216a0
+:END:
+#+title: Ajkygaf Emnb Dputsy Xre 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Dputsy Xre
+- vintage :: 2019
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 9.66
+- sugar :: 10.15
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

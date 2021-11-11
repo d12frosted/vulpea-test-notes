@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1300be99-bda5-4778-8762-a0ece6a4cac5
+:END:
+#+title: Xhbm Uqvvyyi Ouhgc 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Uqvvyyi Ouhgc
+- vintage :: 1990
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 13.54
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0621031d-bde3-406e-af3b-ea97a641984f
+:END:
+#+title: Xhbm Kmdppgj Jhckl 1992 - 1992-6-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:9c93832e-117c-4fc4-b1c4-18b0247732d3][Xhbm Kmdppgj Jhckl 1992]]
+- date :: 1992-6-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

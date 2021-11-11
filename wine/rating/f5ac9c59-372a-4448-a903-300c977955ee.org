@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f5ac9c59-372a-4448-a903-300c977955ee
+:END:
+#+title: Xnxdlsx Lxlli Wenov NV - 2002-5-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:afd9804b-b2cc-48b9-bde3-38d1e1e1d5de][Xnxdlsx Lxlli Wenov]]
+- date :: 2002-5-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

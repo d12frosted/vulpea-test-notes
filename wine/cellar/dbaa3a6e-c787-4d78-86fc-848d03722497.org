@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       dbaa3a6e-c787-4d78-86fc-848d03722497
+:END:
+#+title: Ajkygaf Emnb Gjiwawo 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Gjiwawo
+- vintage :: 1959
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 10.05
+- sugar :: 7.56
+- price :: 28.42 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:3eb05132-c083-4587-a6e6-4a9a518d6ebc][Ajkygaf Emnb Gjiwawo 1959 - 2005-9-12]]

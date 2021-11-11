@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9878941c-7db6-4137-9910-092c1d915828
+:END:
+#+title: Hppbtt Fiwu Cnl 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fiwu Cnl
+- vintage :: 1948
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.46
+- price :: 63.17 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

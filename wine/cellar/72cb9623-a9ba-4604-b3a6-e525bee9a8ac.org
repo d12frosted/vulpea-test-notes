@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       72cb9623-a9ba-4604-b3a6-e525bee9a8ac
+:END:
+#+title: Ajkygaf Emnb Reic Sdav 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Reic Sdav
+- vintage :: 1983
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 12.01
+- sugar :: 3.22
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:46e088f6-383e-4673-9e07-7b087ac37204][Ajkygaf Emnb Reic Sdav 1983 - 2023-5-17]]

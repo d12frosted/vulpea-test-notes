@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       664c7008-3802-4e1e-9538-d8d8f88de489
+:END:
+#+title: Xnxdlsx Jhnrikw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Jhnrikw
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 12.44
+- price :: 46.99 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA

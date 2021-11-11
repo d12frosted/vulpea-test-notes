@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3e447d80-f852-404e-b49e-877d49ffa225
+:END:
+#+title: Bhpgaqm Pslnklf Nxib 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Nxib
+- vintage :: 1969
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 13.440000000000001
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

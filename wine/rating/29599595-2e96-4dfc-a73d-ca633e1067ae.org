@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       29599595-2e96-4dfc-a73d-ca633e1067ae
+:END:
+#+title: Hppbtt Yzbir Jmmf 1974 - 2016-4-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:f4e7c3c1-3256-4615-bbd4-b64cf74fcc05][Hppbtt Yzbir Jmmf 1974]]
+- date :: 2016-4-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

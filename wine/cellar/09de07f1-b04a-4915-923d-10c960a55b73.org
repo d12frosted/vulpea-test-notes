@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       09de07f1-b04a-4915-923d-10c960a55b73
+:END:
+#+title: Hppbtt Imug Gndj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Imug Gndj
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.48
+- price :: 4.21 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

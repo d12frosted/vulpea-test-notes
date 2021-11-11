@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c9d64002-d9c9-4a14-bf62-aa188fe5041e
+:END:
+#+title: Xhbm Aaxdz NV - 2024-2-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:fdc67a86-8605-4fd3-a9d7-6e2608401094][Xhbm Aaxdz]]
+- date :: 2024-2-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

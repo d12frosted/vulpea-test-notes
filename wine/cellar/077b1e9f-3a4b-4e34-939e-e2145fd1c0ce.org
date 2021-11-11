@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       077b1e9f-3a4b-4e34-939e-e2145fd1c0ce
+:END:
+#+title: Mgdu Xtst Xjnvoncf 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Xtst Xjnvoncf
+- vintage :: 2008
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 12.56
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 7.0
+- ratings :: [[id:998e1782-81cb-45a4-a868-519bb7d09008][Mgdu Xtst Xjnvoncf 2008 - 2023-9-10]]

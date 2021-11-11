@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6305625c-5aa7-4776-92d5-3e35b5881c41
+:END:
+#+title: Fxbahvi Qqezrar Jyljbsk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Jyljbsk
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 10.879999999999999
+- sugar :: 0.9
+- price :: 7.29 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:e559ec07-5aa2-48a3-82b9-fc1bbc9b8f35][Fxbahvi Qqezrar Jyljbsk NV - 2013-6-24]]

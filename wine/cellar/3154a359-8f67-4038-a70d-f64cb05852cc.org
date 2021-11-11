@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3154a359-8f67-4038-a70d-f64cb05852cc
+:END:
+#+title: Wdcfn Yrra Brsb Xcgs 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Brsb Xcgs
+- vintage :: 1953
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 12.23
+- price :: 65.32 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

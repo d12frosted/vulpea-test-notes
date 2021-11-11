@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e973f78f-10ad-4415-8d2f-6731a1c3e1b6
+:END:
+#+title: Hppbtt Rytiid Mrdstv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Rytiid Mrdstv
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 10.61
+- sugar :: 3.84
+- price :: 25.03 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

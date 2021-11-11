@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2cdacfcd-906c-4042-a215-ee56340f51d4
+:END:
+#+title: Fxbahvi Qqezrar Rjr 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Rjr
+- vintage :: 2012
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 9.12
+- price :: 100.47 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:931621f3-e6f6-40e2-b976-3688fcdf640f][Fxbahvi Qqezrar Rjr 2012 - 1991-6-5]]

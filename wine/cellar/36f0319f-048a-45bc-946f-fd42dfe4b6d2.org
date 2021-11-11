@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       36f0319f-048a-45bc-946f-fd42dfe4b6d2
+:END:
+#+title: Xnxdlsx Rpbt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Rpbt
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 11.95
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       456f9595-34cd-44d8-9506-4e297e2a8945
+:END:
+#+title: Bhpgaqm Pslnklf Dbpsew Kprdsnwl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Dbpsew Kprdsnwl
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.66
+- sugar :: 0.11
+- price :: 8.17 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 4.0
+- ratings :: [[id:9b941626-c92a-422d-970e-07f35c8a8965][Bhpgaqm Pslnklf Dbpsew Kprdsnwl NV - 2004-5-9]]

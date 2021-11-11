@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b33384b5-1143-4d8c-8e2c-5648c5b47680
+:END:
+#+title: Fxbahvi Qqezrar Riac 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Riac
+- vintage :: 1914
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 12.94
+- price :: 28.57 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 5.0
+- ratings :: [[id:2888deb1-dc24-45d8-8688-d47b2add3d5b][Fxbahvi Qqezrar Riac 1914 - 2019-11-1]]

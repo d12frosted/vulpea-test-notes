@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       34fa6ec0-0f28-43d8-af28-e8d4b3323ad3
+:END:
+#+title: Bhpgaqm Pslnklf Acdm 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Acdm
+- vintage :: 2011
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.27
+- price :: 75.81 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

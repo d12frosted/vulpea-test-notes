@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0330ffe8-931e-4094-a882-cf61e782c9f4
+:END:
+#+title: Hppbtt Zsjhpxc Nmrcl 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Zsjhpxc Nmrcl
+- vintage :: 1996
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 12.44
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9dbe1892-f279-4b8c-b575-5e6200ffd5fe
+:END:
+#+title: Fxbahvi Qqezrar Gbe 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Gbe
+- vintage :: 1918
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.02
+- price :: 6.45 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

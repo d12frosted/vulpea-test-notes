@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c00b5d88-b09b-4702-8009-5275d16643f0
+:END:
+#+title: Bhpgaqm Pslnklf Dpv NV - 1996-11-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:a2d4a19d-efd2-4ae4-9dab-46aa98d2c3ab][Bhpgaqm Pslnklf Dpv]]
+- date :: 1996-11-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       54832152-5027-4c6e-b8fe-b315873e7dda
+:END:
+#+title: Mgdu Xixoxz 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Xixoxz
+- vintage :: 1936
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 11.52
+- price :: 37.60 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

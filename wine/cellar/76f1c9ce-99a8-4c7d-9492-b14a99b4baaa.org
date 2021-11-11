@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       76f1c9ce-99a8-4c7d-9492-b14a99b4baaa
+:END:
+#+title: Wdcfn Yrra Gdfqrk Ejjd 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Gdfqrk Ejjd
+- vintage :: 1944
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 9.23
+- sugar :: 12.8
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

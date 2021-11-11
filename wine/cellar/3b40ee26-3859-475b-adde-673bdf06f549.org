@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3b40ee26-3859-475b-adde-673bdf06f549
+:END:
+#+title: Hppbtt Xjxtfjo 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Xjxtfjo
+- vintage :: 1940
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 9.19
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:679dd561-396c-4489-bc54-46439fe181f4][Hppbtt Xjxtfjo 1940 - 1991-3-15]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       769179f2-6ff9-4c48-b8ed-7c0ee1595654
+:END:
+#+title: Xhbm Zbd 1976 - 1995-1-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:ddb04d63-adc8-4f3c-bcfb-d5537b758cfe][Xhbm Zbd 1976]]
+- date :: 1995-1-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

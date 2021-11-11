@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7386db21-f9ed-4143-9876-a409361b9139
+:END:
+#+title: Wdcfn Yrra Pdphifem 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Pdphifem
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 13.74
+- sugar :: 3.83
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

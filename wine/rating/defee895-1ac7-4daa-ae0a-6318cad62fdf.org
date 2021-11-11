@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       defee895-1ac7-4daa-ae0a-6318cad62fdf
+:END:
+#+title: Xnxdlsx Yxs NV - 2011-6-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:db7001ba-31c8-41ac-a14f-ca9fed28b5cb][Xnxdlsx Yxs]]
+- date :: 2011-6-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

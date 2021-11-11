@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       dbbcdad4-48e3-4202-b4aa-7f2702b47a69
+:END:
+#+title: Xhbm Dbhzxo 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Dbhzxo
+- vintage :: 2003
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 9.15
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

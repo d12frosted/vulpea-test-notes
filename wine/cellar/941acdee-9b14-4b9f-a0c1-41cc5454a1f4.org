@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       941acdee-9b14-4b9f-a0c1-41cc5454a1f4
+:END:
+#+title: Wdcfn Yrra Fgxbns Oul 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Fgxbns Oul
+- vintage :: 1943
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 10.23
+- sugar :: 15.88
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 7.0
+- ratings :: [[id:8ff5aab3-7ec5-4233-b63b-da02a666c528][Wdcfn Yrra Fgxbns Oul 1943 - 1990-2-17]]

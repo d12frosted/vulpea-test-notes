@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c58389a6-d633-4641-a59d-488dae37dfa1
+:END:
+#+title: Hppbtt Nqgyzrj 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Nqgyzrj
+- vintage :: 1932
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 9.15
+- price :: 102.64 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

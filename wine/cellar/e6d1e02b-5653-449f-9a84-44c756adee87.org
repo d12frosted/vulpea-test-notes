@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e6d1e02b-5653-449f-9a84-44c756adee87
+:END:
+#+title: Hppbtt Zcl Ntzjpx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Zcl Ntzjpx
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 11.61
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:16ce0ea8-6454-47e9-ab67-5cde66a71ec5][Hppbtt Zcl Ntzjpx NV - 2007-5-9]]

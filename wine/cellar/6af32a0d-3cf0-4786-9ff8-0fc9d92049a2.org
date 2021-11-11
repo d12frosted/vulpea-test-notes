@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6af32a0d-3cf0-4786-9ff8-0fc9d92049a2
+:END:
+#+title: Xhbm Xxfp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Xxfp
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 11.56
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 5.0
+- ratings :: [[id:d302f9d2-cfbd-41a3-934e-ebe0de236a80][Xhbm Xxfp NV - 2001-10-26]]

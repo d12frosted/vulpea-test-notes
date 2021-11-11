@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       18402563-b16f-4566-990f-e259b6db5899
+:END:
+#+title: Xhbm Tutk 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Tutk
+- vintage :: 1953
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 11.42
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

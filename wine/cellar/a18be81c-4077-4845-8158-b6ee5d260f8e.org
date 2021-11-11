@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a18be81c-4077-4845-8158-b6ee5d260f8e
+:END:
+#+title: Hppbtt Ztferarp 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ztferarp
+- vintage :: 1977
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 10.94
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 3.5
+- ratings :: [[id:a43d4e3d-11a4-4553-b6fd-71fab839353f][Hppbtt Ztferarp 1977 - 2019-7-19]]

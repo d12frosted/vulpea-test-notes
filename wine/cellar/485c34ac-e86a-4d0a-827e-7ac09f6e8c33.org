@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       485c34ac-e86a-4d0a-827e-7ac09f6e8c33
+:END:
+#+title: Xnxdlsx Hpsi Cqyjg 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Hpsi Cqyjg
+- vintage :: 1905
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 10.24
+- sugar :: 16.19
+- price :: 59.84 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

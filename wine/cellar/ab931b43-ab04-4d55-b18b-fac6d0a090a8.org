@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ab931b43-ab04-4d55-b18b-fac6d0a090a8
+:END:
+#+title: Bhpgaqm Pslnklf Irar 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Irar
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 13.29
+- price :: 93.14 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

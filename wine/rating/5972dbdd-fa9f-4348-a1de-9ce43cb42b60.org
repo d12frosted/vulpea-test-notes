@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5972dbdd-fa9f-4348-a1de-9ce43cb42b60
+:END:
+#+title: Bhpgaqm Pslnklf Ifnols Ujl NV - 1996-6-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:bf8995f3-abff-41fd-bce7-294fdc0e3dc4][Bhpgaqm Pslnklf Ifnols Ujl]]
+- date :: 1996-6-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0d2d74ae-3718-46fd-8185-20645e3eea9f
+:END:
+#+title: Fxbahvi Qqezrar Lucmw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Lucmw
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.85
+- price :: 71.25 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:e5d244b1-eda6-472c-b323-e96da9542161][Fxbahvi Qqezrar Lucmw NV - 2009-3-2]]

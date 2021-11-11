@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e4eeb545-67d2-411d-8e91-37cf37b666eb
+:END:
+#+title: Xnxdlsx Hgaarh 1990 - 2005-9-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:95f99a3f-1760-442b-9916-55833d45c09f][Xnxdlsx Hgaarh 1990]]
+- date :: 2005-9-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

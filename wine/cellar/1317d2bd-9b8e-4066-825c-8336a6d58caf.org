@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1317d2bd-9b8e-4066-825c-8336a6d58caf
+:END:
+#+title: Bhpgaqm Pslnklf Kbbjjoc Nvkkvpnr 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Kbbjjoc Nvkkvpnr
+- vintage :: 1989
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 13.01
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:89dbc5a5-61e4-4a2b-a98f-a4213962098c][Bhpgaqm Pslnklf Kbbjjoc Nvkkvpnr 1989 - 2011-4-27]]

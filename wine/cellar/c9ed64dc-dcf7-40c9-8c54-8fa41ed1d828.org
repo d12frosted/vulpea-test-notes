@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c9ed64dc-dcf7-40c9-8c54-8fa41ed1d828
+:END:
+#+title: Bhpgaqm Pslnklf Uma Gykxxu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Uma Gykxxu
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.05
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

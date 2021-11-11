@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e2892d32-cbff-4c1b-aeaa-11fac73856bd
+:END:
+#+title: Xnxdlsx Aslbfun 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Aslbfun
+- vintage :: 2014
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 10.4
+- sugar :: 19.0
+- price :: 50.53 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

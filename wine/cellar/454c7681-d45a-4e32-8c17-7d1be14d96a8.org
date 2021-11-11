@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       454c7681-d45a-4e32-8c17-7d1be14d96a8
+:END:
+#+title: Ibde Iowlof Ddcz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ddcz
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 12.14
+- price :: 43.58 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

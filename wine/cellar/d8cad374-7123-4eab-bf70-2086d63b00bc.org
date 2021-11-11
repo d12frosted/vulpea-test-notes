@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d8cad374-7123-4eab-bf70-2086d63b00bc
+:END:
+#+title: Ibde Iowlof Dpvpxwfx Klrgjfh 1912
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Dpvpxwfx Klrgjfh
+- vintage :: 1912
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 10.120000000000001
+- sugar :: 8.54
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

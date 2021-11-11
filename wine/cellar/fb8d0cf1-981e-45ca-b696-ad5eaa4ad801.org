@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fb8d0cf1-981e-45ca-b696-ad5eaa4ad801
+:END:
+#+title: Hppbtt Xnxu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Xnxu
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.59
+- price :: 54.06 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: wikipedia
+- rating :: NA

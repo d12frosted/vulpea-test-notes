@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6e637243-c503-4a98-a572-7bfc5cca0e99
+:END:
+#+title: Bhpgaqm Pslnklf Plzciqno 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Plzciqno
+- vintage :: 2009
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.69
+- sugar :: 12.01
+- price :: 68.67 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 3.0
+- ratings :: [[id:3b2d103d-4dcd-4610-8ccb-599671c737b6][Bhpgaqm Pslnklf Plzciqno 2009 - 2004-3-24]]

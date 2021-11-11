@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fa729846-42ce-4f60-904b-9749dc06dd4a
+:END:
+#+title: Hppbtt Mazms 1961 - 1994-10-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:dedd5138-0321-4e65-96a0-8279984ab691][Hppbtt Mazms 1961]]
+- date :: 1994-10-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

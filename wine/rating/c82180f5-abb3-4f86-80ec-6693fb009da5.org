@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c82180f5-abb3-4f86-80ec-6693fb009da5
+:END:
+#+title: Xnxdlsx Jqypscs 2015 - 2000-2-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:99ca1033-4c0b-454d-bc56-0b56a0b4b486][Xnxdlsx Jqypscs 2015]]
+- date :: 2000-2-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       a249640e-0d6d-4a83-968d-0fd9e5bde70e
+:END:
+#+title: Bhpgaqm Pslnklf Kvbdbszz Nlibek 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Kvbdbszz Nlibek
+- vintage :: 1986
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 13.49
+- price :: 65.31 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 7.5
+- ratings :: [[id:73a09456-674c-4538-a824-fb7d37b0ff6b][Bhpgaqm Pslnklf Kvbdbszz Nlibek 1986 - 1990-11-8]]

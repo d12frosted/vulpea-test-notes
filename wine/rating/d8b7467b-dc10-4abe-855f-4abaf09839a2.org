@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d8b7467b-dc10-4abe-855f-4abaf09839a2
+:END:
+#+title: Mgdu Qghukup 1958 - 2006-4-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:c86c378a-bde9-4ec8-a67a-1460e3aa1389][Mgdu Qghukup 1958]]
+- date :: 2006-4-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

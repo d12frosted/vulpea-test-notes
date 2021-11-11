@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       320ef088-3120-4bd4-96d1-d6f369624302
+:END:
+#+title: Mabtcl Miuoflx Bfiv NV - 2014-9-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:946960ce-fdb3-4b5a-b91d-14b60a21d3d8][Mabtcl Miuoflx Bfiv]]
+- date :: 2014-9-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

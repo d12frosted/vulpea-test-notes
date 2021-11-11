@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c4748dc7-fc7a-4b6a-9d24-9af7702f6949
+:END:
+#+title: Hppbtt Pzknm Ueviq 1976 - 1992-9-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:f2d65db6-db5d-4c53-8d69-63680387d4f3][Hppbtt Pzknm Ueviq 1976]]
+- date :: 1992-9-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

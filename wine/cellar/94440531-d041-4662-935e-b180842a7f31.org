@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       94440531-d041-4662-935e-b180842a7f31
+:END:
+#+title: Mabtcl Miuoflx Kxwkgz Khnkgz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Kxwkgz Khnkgz
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 9.25
+- price :: 50.17 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

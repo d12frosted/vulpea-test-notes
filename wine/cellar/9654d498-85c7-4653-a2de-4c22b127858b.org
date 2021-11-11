@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9654d498-85c7-4653-a2de-4c22b127858b
+:END:
+#+title: Bhpgaqm Pslnklf Oqvyqnjg Onxueqx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Oqvyqnjg Onxueqx
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.16
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 5.5
+- ratings :: [[id:34b2ae66-10f4-4996-9eee-7f031f9c485c][Bhpgaqm Pslnklf Oqvyqnjg Onxueqx NV - 1999-12-11]]

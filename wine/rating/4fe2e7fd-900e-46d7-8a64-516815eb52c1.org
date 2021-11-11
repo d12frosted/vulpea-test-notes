@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4fe2e7fd-900e-46d7-8a64-516815eb52c1
+:END:
+#+title: Fxbahvi Qqezrar Rnjnhsgp NV - 2015-1-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:dc0e595d-f3ae-41bf-886b-a44491a4565d][Fxbahvi Qqezrar Rnjnhsgp]]
+- date :: 2015-1-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0a996546-81b9-4259-9670-9b3e1159a9d7
+:END:
+#+title: Bhpgaqm Pslnklf Zmvqmw Kgwum 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Zmvqmw Kgwum
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 12.67
+- sugar :: 6.06
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:ff6959ae-0dcb-48fb-a684-85789f9b70fe][Bhpgaqm Pslnklf Zmvqmw Kgwum NV - 2012-2-24]]

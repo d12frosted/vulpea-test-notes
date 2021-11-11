@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       77180443-b2ca-448a-9f42-ded1af6481b6
+:END:
+#+title: Mgdu Khqzcwd Ifdq NV - 2009-6-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:cf778919-1adb-4ff2-8c7a-a666a7e0b689][Mgdu Khqzcwd Ifdq]]
+- date :: 2009-6-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

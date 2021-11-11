@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       fb51514f-4cfd-4ad4-bc6a-84db8f10e794
+:END:
+#+title: Mgdu Byx 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Byx
+- vintage :: 1908
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 9.42
+- sugar :: 9.78
+- price :: 84.43 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:ca7e1725-7ef6-43e9-baf0-4dae68924bce][Mgdu Byx 1908 - 2017-6-6]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       64e777e9-ca91-4c2e-a13b-de7fb26c7c9a
+:END:
+#+title: Mabtcl Miuoflx Uauqn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Uauqn
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 11.870000000000001
+- sugar :: 16.65
+- price :: 61.80 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.0
+- ratings :: [[id:9854a6de-2d88-428a-a086-9c880fce8cbe][Mabtcl Miuoflx Uauqn NV - 2001-11-13]]

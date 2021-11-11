@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       debbb4e7-6605-4035-8ba2-32efe8c22c11
+:END:
+#+title: Hppbtt Xnemv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Xnemv
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- alcohol :: 10.53
+- sugar :: 22.46
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

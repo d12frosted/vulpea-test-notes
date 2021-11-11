@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d3b1d28e-e910-4f0a-b3ae-be705e5fd38d
+:END:
+#+title: Mgdu Rojgkf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Rojgkf
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 12.73
+- sugar :: 11.81
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 3.5
+- ratings :: [[id:47180bd0-761e-4689-bcbc-736ec94b18fb][Mgdu Rojgkf NV - 2010-2-13]]

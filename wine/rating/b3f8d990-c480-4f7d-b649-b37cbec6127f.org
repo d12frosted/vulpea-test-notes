@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b3f8d990-c480-4f7d-b649-b37cbec6127f
+:END:
+#+title: Ibde Iowlof Abl Tkb 2001 - 2001-10-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:fcb559e0-b34b-483a-8c5e-d7c9672544fa][Ibde Iowlof Abl Tkb 2001]]
+- date :: 2001-10-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5

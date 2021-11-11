@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2526a819-0dc3-44d9-bdc1-189fa0cb71e7
+:END:
+#+title: Ajkygaf Emnb Dmf Hnutda NV - 1990-10-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:5a090db2-f248-43d8-8269-0dcbd5547962][Ajkygaf Emnb Dmf Hnutda]]
+- date :: 1990-10-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

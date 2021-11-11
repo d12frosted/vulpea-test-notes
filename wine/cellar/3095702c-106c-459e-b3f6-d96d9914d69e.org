@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3095702c-106c-459e-b3f6-d96d9914d69e
+:END:
+#+title: Wdcfn Yrra Mkzsid 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Mkzsid
+- vintage :: 1996
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 13.8
+- price :: 19.33 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: wikipedia
+- rating :: NA

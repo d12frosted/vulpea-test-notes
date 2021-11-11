@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d3e985dc-7226-4a5b-a2e3-56e7f42b64dc
+:END:
+#+title: Fxbahvi Qqezrar Kvjwmbgm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Kvjwmbgm
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 9.08
+- sugar :: 0.33
+- price :: 93.27 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       66b4da83-018a-4066-9622-6794cb41a597
+:END:
+#+title: Fxbahvi Qqezrar Hble NV - 2000-1-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:2313d9ab-c6c7-4668-b3ec-fb07223af733][Fxbahvi Qqezrar Hble]]
+- date :: 2000-1-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

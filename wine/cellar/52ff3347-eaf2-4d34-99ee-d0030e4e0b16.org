@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       52ff3347-eaf2-4d34-99ee-d0030e4e0b16
+:END:
+#+title: Xnxdlsx Stbga Ser 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Stbga Ser
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 12.95
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

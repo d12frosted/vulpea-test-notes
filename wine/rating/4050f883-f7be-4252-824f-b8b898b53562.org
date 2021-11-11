@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4050f883-f7be-4252-824f-b8b898b53562
+:END:
+#+title: Hppbtt Bvtgzq 1973 - 2002-11-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:c835c992-582d-4990-b263-3535b1f081c2][Hppbtt Bvtgzq 1973]]
+- date :: 2002-11-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

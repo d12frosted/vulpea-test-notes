@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9568769b-29ec-4833-b1d9-590a61735ea3
+:END:
+#+title: Hppbtt Xjsekvsq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Xjsekvsq
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 12.58
+- price :: 63.68 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: 5.0
+- ratings :: [[id:0fea947f-2408-4b9f-b298-d3c6d9fa9da0][Hppbtt Xjsekvsq NV - 1997-5-25]]

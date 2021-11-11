@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5e85bf4f-9874-4833-9409-cdf7c03370f4
+:END:
+#+title: Ajkygaf Emnb Sbogft Dagt NV - 1994-12-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:06f0e174-bb5b-4c9e-b9c5-79f344b191ab][Ajkygaf Emnb Sbogft Dagt]]
+- date :: 1994-12-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

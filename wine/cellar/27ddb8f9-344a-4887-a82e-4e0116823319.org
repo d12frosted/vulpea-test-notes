@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       27ddb8f9-344a-4887-a82e-4e0116823319
+:END:
+#+title: Mgdu Xdfjbkcs Nsbbkmdk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Xdfjbkcs Nsbbkmdk
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 13.68
+- sugar :: 3.46
+- price :: 64.11 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

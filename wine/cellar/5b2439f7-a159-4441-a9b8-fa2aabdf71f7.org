@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5b2439f7-a159-4441-a9b8-fa2aabdf71f7
+:END:
+#+title: Wdcfn Yrra Dapcvvor 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Dapcvvor
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 11.120000000000001
+- price :: 98.39 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 7.0
+- ratings :: [[id:0bca83e4-456a-4acb-9ec2-1e70981d7e4c][Wdcfn Yrra Dapcvvor NV - 1992-3-3]]

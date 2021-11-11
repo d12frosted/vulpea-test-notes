@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fbb36094-eacc-4ec5-8e1a-780598684540
+:END:
+#+title: Bhpgaqm Pslnklf Wkd Oqu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Wkd Oqu
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 10.0
+- sugar :: 23.61
+- price :: 68.32 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7b805fc6-49fa-4bad-9163-8daaa31868b2
+:END:
+#+title: Mgdu Punmozh Csys 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Punmozh Csys
+- vintage :: 1900
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.65
+- sugar :: 5.3
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 2.0
+- ratings :: [[id:c9a8c7e2-20b5-4c8c-8f0c-b5bd2213dac3][Mgdu Punmozh Csys 1900 - 2011-5-10]]

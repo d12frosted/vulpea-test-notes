@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e89c10e0-3c08-48ed-a066-57c7854ec405
+:END:
+#+title: Ibde Iowlof Yuram Vrmxzwgj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Yuram Vrmxzwgj
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 13.89
+- sugar :: 5.12
+- price :: 81.40 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:4e3fb1f6-05d1-4940-9c6e-676eca1601a7][Ibde Iowlof Yuram Vrmxzwgj NV - 2017-3-2]]

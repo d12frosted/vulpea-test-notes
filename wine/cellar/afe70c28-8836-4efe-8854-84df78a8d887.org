@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       afe70c28-8836-4efe-8854-84df78a8d887
+:END:
+#+title: Bhpgaqm Pslnklf Ctjqqtfv Exnkfqw 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Ctjqqtfv Exnkfqw
+- vintage :: 1982
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 12.92
+- price :: 95.38 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       513a81f5-fda8-45fc-8638-ada459e5045d
+:END:
+#+title: Xnxdlsx Xgm Vgqrg NV - 2020-7-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:d32a7433-3f17-48a6-86fc-6f4159d7e4d1][Xnxdlsx Xgm Vgqrg]]
+- date :: 2020-7-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

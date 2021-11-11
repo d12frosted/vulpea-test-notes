@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1e35ac46-4cdc-4646-b0f9-f4f64bdc8a8d
+:END:
+#+title: Xhbm Kdloc 1920 - 2005-2-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:5c3cad80-63d1-4839-80ed-cbffdb606ee4][Xhbm Kdloc 1920]]
+- date :: 2005-2-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

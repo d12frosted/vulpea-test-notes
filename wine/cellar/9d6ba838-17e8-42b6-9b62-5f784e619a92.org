@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9d6ba838-17e8-42b6-9b62-5f784e619a92
+:END:
+#+title: Bhpgaqm Pslnklf Qeihuh Zoaby 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Qeihuh Zoaby
+- vintage :: 1915
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 11.68
+- sugar :: 14.77
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

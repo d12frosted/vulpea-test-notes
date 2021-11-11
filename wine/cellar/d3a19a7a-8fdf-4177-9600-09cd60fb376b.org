@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d3a19a7a-8fdf-4177-9600-09cd60fb376b
+:END:
+#+title: Xnxdlsx Smuyw 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Smuyw
+- vintage :: 1900
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 11.73
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:d47692ab-f606-4921-82c6-02068f5c192f][Xnxdlsx Smuyw 1900 - 1999-4-9]]

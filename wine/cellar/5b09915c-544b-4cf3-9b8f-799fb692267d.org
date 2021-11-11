@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5b09915c-544b-4cf3-9b8f-799fb692267d
+:END:
+#+title: Hppbtt Aqmpwqrf Uffvswmg 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Aqmpwqrf Uffvswmg
+- vintage :: 1919
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.79
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

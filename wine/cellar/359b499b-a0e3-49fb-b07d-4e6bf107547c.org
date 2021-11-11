@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       359b499b-a0e3-49fb-b07d-4e6bf107547c
+:END:
+#+title: Mgdu Buzvqssn 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Buzvqssn
+- vintage :: 1909
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 10.85
+- sugar :: 11.38
+- price :: 51.07 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.0
+- ratings :: [[id:bbe8ca08-cbb5-44e4-a724-ba2dfdbb62af][Mgdu Buzvqssn 1909 - 1998-9-18]]

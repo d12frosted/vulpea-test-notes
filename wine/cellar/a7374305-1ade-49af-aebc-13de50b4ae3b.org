@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a7374305-1ade-49af-aebc-13de50b4ae3b
+:END:
+#+title: Bhpgaqm Pslnklf Fvsrkfrj Vzyuwaq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Fvsrkfrj Vzyuwaq
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 13.23
+- price :: 79.17 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

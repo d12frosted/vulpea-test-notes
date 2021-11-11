@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       edfad01b-a9fb-48ba-b777-de1bde09f4da
+:END:
+#+title: Hppbtt Fnveedt Gymvmk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fnveedt Gymvmk
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 10.17
+- sugar :: 0.3
+- price :: 79.41 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA

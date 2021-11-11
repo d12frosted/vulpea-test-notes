@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5fae1273-df7c-43ed-8052-36fbd5886b3b
+:END:
+#+title: Mabtcl Miuoflx Tcqyc 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Tcqyc
+- vintage :: 1986
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 12.620000000000001
+- price :: 47.86 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

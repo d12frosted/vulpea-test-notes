@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       974cd4d9-36b5-454e-adb2-c5fa808ccf2a
+:END:
+#+title: Ibde Iowlof Xsyml 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Xsyml
+- vintage :: 2005
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 9.39
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 2.5
+- ratings :: [[id:0d53caae-5576-48af-80dd-3a4f76d59fcb][Ibde Iowlof Xsyml 2005 - 2007-8-16]]

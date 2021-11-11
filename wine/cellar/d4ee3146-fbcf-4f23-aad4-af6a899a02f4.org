@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d4ee3146-fbcf-4f23-aad4-af6a899a02f4
+:END:
+#+title: Hppbtt Vrpiej Idka 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Vrpiej Idka
+- vintage :: 1976
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 9.97
+- price :: 92.98 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:d781b138-bad0-4e60-9b0f-e4b42b395c9d][Hppbtt Vrpiej Idka 1976 - 2024-7-22]]

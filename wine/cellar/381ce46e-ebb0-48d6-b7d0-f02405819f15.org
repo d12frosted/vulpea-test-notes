@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       381ce46e-ebb0-48d6-b7d0-f02405819f15
+:END:
+#+title: Fxbahvi Qqezrar Wlwurp 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Wlwurp
+- vintage :: 1986
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 12.01
+- price :: 78.19 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

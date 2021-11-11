@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       858e5f07-8369-4867-badb-cbc8221c8f7f
+:END:
+#+title: Xhbm Ppiwbmo Zdxmsjt 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Ppiwbmo Zdxmsjt
+- vintage :: 2000
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 11.42
+- sugar :: 18.04
+- price :: 33.85 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

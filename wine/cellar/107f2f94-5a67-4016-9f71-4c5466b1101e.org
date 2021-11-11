@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       107f2f94-5a67-4016-9f71-4c5466b1101e
+:END:
+#+title: Hppbtt Gairouwz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Gairouwz
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 9.64
+- sugar :: 1.94
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       af6c55f1-d4e1-4ed1-8a43-cec6c62d7419
+:END:
+#+title: Mgdu Wlirpd Cjqve 1953 - 1992-12-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:a3dc4163-4c99-4b8e-a04f-bcf37cfbebca][Mgdu Wlirpd Cjqve 1953]]
+- date :: 1992-12-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

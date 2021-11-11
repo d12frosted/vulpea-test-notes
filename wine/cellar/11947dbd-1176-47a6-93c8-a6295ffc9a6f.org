@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       11947dbd-1176-47a6-93c8-a6295ffc9a6f
+:END:
+#+title: Bhpgaqm Pslnklf Fiqe Ayem 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Fiqe Ayem
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 11.32
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

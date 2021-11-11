@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0aa1439c-21c5-483a-b76e-883cc0cbcd24
+:END:
+#+title: Fxbahvi Qqezrar Yzkjgso Soi 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Yzkjgso Soi
+- vintage :: 1933
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 12.49
+- sugar :: 3.99
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 4.0
+- ratings :: [[id:f2498058-b74d-49af-bd3f-aa2dd914acfa][Fxbahvi Qqezrar Yzkjgso Soi 1933 - 2015-7-14]]

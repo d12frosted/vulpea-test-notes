@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9cebe845-8d2b-4dd0-bb44-40dae9bc85e6
+:END:
+#+title: Mabtcl Miuoflx Saj 1947 - 2020-12-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:4b99115c-d0a2-4fc7-92fd-9d823a41e6c9][Mabtcl Miuoflx Saj 1947]]
+- date :: 2020-12-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cf0852c2-8f02-4dfb-a1e2-a4ddf167a940
+:END:
+#+title: Wdcfn Yrra Bhqvrl Kpumj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Bhqvrl Kpumj
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 12.77
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:88c75c26-191b-4aa7-84e7-11c247650419][Wdcfn Yrra Bhqvrl Kpumj NV - 1993-10-15]]

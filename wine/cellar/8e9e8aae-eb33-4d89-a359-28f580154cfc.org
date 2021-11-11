@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8e9e8aae-eb33-4d89-a359-28f580154cfc
+:END:
+#+title: Xnxdlsx Fom 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Fom
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 11.41
+- price :: 46.74 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 7.0
+- ratings :: [[id:b4d1bde6-d99e-4169-bed5-a1a0948dcace][Xnxdlsx Fom NV - 1992-1-14]]

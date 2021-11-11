@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       91e32571-477f-4c78-8b02-2a235311c1d1
+:END:
+#+title: Wdcfn Yrra Dqowpw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Dqowpw
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 9.41
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

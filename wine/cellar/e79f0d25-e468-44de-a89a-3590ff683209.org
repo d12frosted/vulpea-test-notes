@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e79f0d25-e468-44de-a89a-3590ff683209
+:END:
+#+title: Mabtcl Miuoflx Mvtxg Kujej 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Mvtxg Kujej
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 10.58
+- sugar :: 6.75
+- price :: 35.93 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:9b09eb9a-fadd-459e-924e-62ad72c581ef][Mabtcl Miuoflx Mvtxg Kujej NV - 2014-9-11]]

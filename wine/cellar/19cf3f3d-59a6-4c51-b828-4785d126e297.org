@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       19cf3f3d-59a6-4c51-b828-4785d126e297
+:END:
+#+title: Hppbtt Mgv 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Mgv
+- vintage :: 2019
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 11.08
+- sugar :: 22.58
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 6.0
+- ratings :: [[id:2d124150-3973-487f-bee2-a48408f64a68][Hppbtt Mgv 2019 - 2014-5-6]]

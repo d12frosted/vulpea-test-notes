@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9f5e1e45-4d2d-4614-bd84-46cf39c8f07e
+:END:
+#+title: Xnxdlsx Glko Tcppbbmz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Glko Tcppbbmz
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.42
+- sugar :: 7.73
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.5
+- ratings :: [[id:e4be45c3-792a-4d71-a644-e92fa27bc645][Xnxdlsx Glko Tcppbbmz NV - 2022-1-14]]

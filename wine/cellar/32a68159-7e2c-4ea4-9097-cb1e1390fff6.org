@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       32a68159-7e2c-4ea4-9097-cb1e1390fff6
+:END:
+#+title: Mabtcl Miuoflx Wzqlkr Rpvgqq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Wzqlkr Rpvgqq
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 11.82
+- price :: 68.18 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 6.0
+- ratings :: [[id:6caeceef-1799-4f56-b7f1-f68fad8d1ddd][Mabtcl Miuoflx Wzqlkr Rpvgqq NV - 2001-10-15]]

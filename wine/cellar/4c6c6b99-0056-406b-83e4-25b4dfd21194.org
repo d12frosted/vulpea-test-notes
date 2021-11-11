@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4c6c6b99-0056-406b-83e4-25b4dfd21194
+:END:
+#+title: Bhpgaqm Pslnklf Fyrjruea 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Fyrjruea
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 10.47
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 5.0
+- ratings :: [[id:c1aac940-835b-4859-8aa0-9af171e025d6][Bhpgaqm Pslnklf Fyrjruea NV - 1991-12-24]]

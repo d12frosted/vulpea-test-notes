@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d7fb314a-1ec7-4fe8-a446-1f95e002dd9e
+:END:
+#+title: Fxbahvi Qqezrar Rira 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Rira
+- vintage :: 1981
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 9.4
+- sugar :: 17.03
+- price :: 68.52 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:264351a9-a705-4407-b646-36484a46f30c][Fxbahvi Qqezrar Rira 1981 - 1999-6-1]]

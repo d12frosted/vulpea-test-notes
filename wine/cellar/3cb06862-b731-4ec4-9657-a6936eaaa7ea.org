@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3cb06862-b731-4ec4-9657-a6936eaaa7ea
+:END:
+#+title: Wdcfn Yrra Yqhx Zqkjg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Yqhx Zqkjg
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 9.55
+- price :: 11.92 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

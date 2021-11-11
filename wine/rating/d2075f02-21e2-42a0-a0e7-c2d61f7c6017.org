@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d2075f02-21e2-42a0-a0e7-c2d61f7c6017
+:END:
+#+title: Ajkygaf Emnb Pkwfrrt Pevpad NV - 2015-3-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:785e4772-a7d7-4806-afae-0868a0532bdd][Ajkygaf Emnb Pkwfrrt Pevpad]]
+- date :: 2015-3-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

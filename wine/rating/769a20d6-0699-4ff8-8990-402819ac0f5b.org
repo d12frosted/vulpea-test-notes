@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       769a20d6-0699-4ff8-8990-402819ac0f5b
+:END:
+#+title: Xnxdlsx Zfizbg NV - 2002-5-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:14b46fac-6bfa-43f3-91a1-f5ee8a942100][Xnxdlsx Zfizbg]]
+- date :: 2002-5-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

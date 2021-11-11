@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       613a0751-e152-425e-94ab-39f367ef54eb
+:END:
+#+title: Ajkygaf Emnb Jhayuyqi 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Jhayuyqi
+- vintage :: 1997
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 11.43
+- sugar :: 19.7
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:24588b11-f28d-4256-b259-5d86150fc6d3][Ajkygaf Emnb Jhayuyqi 1997 - 2015-4-19]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       86d7fb47-ed4e-45cd-8c5b-2ca62c0501bd
+:END:
+#+title: Ajkygaf Emnb Zzvqdsz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Zzvqdsz
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 9.32
+- sugar :: 13.65
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

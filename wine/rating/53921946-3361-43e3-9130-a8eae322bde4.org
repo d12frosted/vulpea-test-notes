@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       53921946-3361-43e3-9130-a8eae322bde4
+:END:
+#+title: Ajkygaf Emnb Vfwehik 1902 - 2005-8-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:1ded21f0-a9cc-4a1e-9261-344ac7a44227][Ajkygaf Emnb Vfwehik 1902]]
+- date :: 2005-8-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

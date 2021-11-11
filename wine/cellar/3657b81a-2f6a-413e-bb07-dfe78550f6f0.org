@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3657b81a-2f6a-413e-bb07-dfe78550f6f0
+:END:
+#+title: Fxbahvi Qqezrar Jiquoh Muvnoz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Jiquoh Muvnoz
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 10.08
+- sugar :: 17.31
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

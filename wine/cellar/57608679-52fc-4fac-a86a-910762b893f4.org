@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       57608679-52fc-4fac-a86a-910762b893f4
+:END:
+#+title: Hppbtt Vpnmfw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Vpnmfw
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 12.52
+- sugar :: 5.41
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

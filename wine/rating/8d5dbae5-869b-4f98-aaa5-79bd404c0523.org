@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8d5dbae5-869b-4f98-aaa5-79bd404c0523
+:END:
+#+title: Bhpgaqm Pslnklf Sqi Ktcn 1984 - 2020-11-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:d5ccb907-061c-4f95-9473-a02da35922dd][Bhpgaqm Pslnklf Sqi Ktcn 1984]]
+- date :: 2020-11-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

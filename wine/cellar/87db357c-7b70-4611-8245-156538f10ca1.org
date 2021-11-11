@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       87db357c-7b70-4611-8245-156538f10ca1
+:END:
+#+title: Ibde Iowlof Slo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Slo
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.57
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:daf34cd0-0439-484f-8afc-abf9a304cb84][Ibde Iowlof Slo NV - 2021-3-20]]

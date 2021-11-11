@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c67c2d23-715c-4b30-af4c-8dde4b2e0297
+:END:
+#+title: Ajkygaf Emnb Pzjbcbbn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Pzjbcbbn
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 9.21
+- sugar :: 8.58
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

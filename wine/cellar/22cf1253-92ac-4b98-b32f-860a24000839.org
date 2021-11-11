@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       22cf1253-92ac-4b98-b32f-860a24000839
+:END:
+#+title: Xnxdlsx Xzratyox 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Xzratyox
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 10.879999999999999
+- sugar :: 16.04
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

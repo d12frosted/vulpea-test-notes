@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6698a777-ba28-4896-aa2e-5ddd19c813cd
+:END:
+#+title: Ajkygaf Emnb Hlgeoyw Zny 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Hlgeoyw Zny
+- vintage :: 1935
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.85
+- sugar :: 20.26
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

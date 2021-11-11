@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4efa9fda-8b5c-4be3-adbc-f5b6114d0cc8
+:END:
+#+title: Hppbtt Tpbb Alqn 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Tpbb Alqn
+- vintage :: 1924
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 12.09
+- sugar :: 17.35
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

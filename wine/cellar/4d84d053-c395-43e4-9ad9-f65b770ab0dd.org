@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4d84d053-c395-43e4-9ad9-f65b770ab0dd
+:END:
+#+title: Ajkygaf Emnb Kuo Dqq 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Kuo Dqq
+- vintage :: 2010
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 13.26
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:da8a2d2f-eb1d-4f2f-821b-1939eaafbeb5][Ajkygaf Emnb Kuo Dqq 2010 - 2013-8-16]]

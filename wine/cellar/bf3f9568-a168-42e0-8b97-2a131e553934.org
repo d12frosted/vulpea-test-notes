@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bf3f9568-a168-42e0-8b97-2a131e553934
+:END:
+#+title: Xnxdlsx Clhzt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Clhzt
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- alcohol :: 13.34
+- sugar :: 7.17
+- price :: 87.62 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: 7.0
+- ratings :: [[id:5c234fe7-f360-4484-af16-ff34121aef32][Xnxdlsx Clhzt NV - 2024-3-2]]

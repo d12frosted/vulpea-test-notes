@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6fe36087-ee14-4d87-a007-e26931c9ad4c
+:END:
+#+title: Fxbahvi Qqezrar Zhghx 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Zhghx
+- vintage :: 1995
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 10.03
+- sugar :: 0.37
+- price :: 24.48 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

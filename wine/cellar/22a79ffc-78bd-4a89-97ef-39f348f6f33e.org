@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       22a79ffc-78bd-4a89-97ef-39f348f6f33e
+:END:
+#+title: Fxbahvi Qqezrar Jgjhqwr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Jgjhqwr
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 9.8
+- price :: 60.53 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:90c99f17-99d6-43e7-a435-c98df203b5af][Fxbahvi Qqezrar Jgjhqwr NV - 1990-4-6]]

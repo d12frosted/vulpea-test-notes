@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bd092f33-4767-4ce7-86e9-c38dca0a0dfb
+:END:
+#+title: Bhpgaqm Pslnklf Oobxwwc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Oobxwwc
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 9.14
+- price :: 89.91 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       92b1e69c-850d-4405-986f-a64ee05713c2
+:END:
+#+title: Mabtcl Miuoflx Vrwm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Vrwm
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.74
+- sugar :: 12.36
+- price :: 7.23 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

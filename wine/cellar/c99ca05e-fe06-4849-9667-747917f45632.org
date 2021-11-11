@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c99ca05e-fe06-4849-9667-747917f45632
+:END:
+#+title: Fxbahvi Qqezrar Rfienp Pzxxamtm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Rfienp Pzxxamtm
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 13.45
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

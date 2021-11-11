@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       30a5b839-e039-45ed-bd56-30b1038669ad
+:END:
+#+title: Xnxdlsx Vwrx 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Vwrx
+- vintage :: 1931
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 10.03
+- price :: 26.72 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

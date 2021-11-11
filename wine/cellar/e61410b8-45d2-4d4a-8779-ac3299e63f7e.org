@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e61410b8-45d2-4d4a-8779-ac3299e63f7e
+:END:
+#+title: Hppbtt Ijfhxpeu 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ijfhxpeu
+- vintage :: 2011
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 9.86
+- sugar :: 6.25
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 3.5
+- ratings :: [[id:6ba007cf-ee45-4b16-ad73-bb438620cc8e][Hppbtt Ijfhxpeu 2011 - 2007-11-24]]

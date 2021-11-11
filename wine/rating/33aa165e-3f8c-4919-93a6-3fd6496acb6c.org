@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       33aa165e-3f8c-4919-93a6-3fd6496acb6c
+:END:
+#+title: Ajkygaf Emnb Aoghnzpw Wpdwq NV - 2008-12-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:bc8b9d89-f60e-4983-9119-9f5a884c3e85][Ajkygaf Emnb Aoghnzpw Wpdwq]]
+- date :: 2008-12-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

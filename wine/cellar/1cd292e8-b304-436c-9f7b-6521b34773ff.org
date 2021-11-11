@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1cd292e8-b304-436c-9f7b-6521b34773ff
+:END:
+#+title: Ajkygaf Emnb Neax 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Neax
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 9.84
+- sugar :: 23.51
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

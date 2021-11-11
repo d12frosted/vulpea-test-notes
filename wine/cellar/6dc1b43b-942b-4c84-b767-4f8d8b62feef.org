@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6dc1b43b-942b-4c84-b767-4f8d8b62feef
+:END:
+#+title: Hppbtt Qmqb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Qmqb
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 9.47
+- price :: 54.82 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

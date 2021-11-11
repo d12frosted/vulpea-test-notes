@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0fdbd44f-2a30-4ced-91b6-1ae873211865
+:END:
+#+title: Bhpgaqm Pslnklf Wus 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Wus
+- vintage :: 2005
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 13.17
+- sugar :: 22.95
+- price :: 86.92 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:62e87c29-e3e9-4a77-bc29-bcc05c3b9888][Bhpgaqm Pslnklf Wus 2005 - 2006-8-15]]

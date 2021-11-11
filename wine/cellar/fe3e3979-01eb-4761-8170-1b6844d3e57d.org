@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fe3e3979-01eb-4761-8170-1b6844d3e57d
+:END:
+#+title: Hppbtt Ygioi Sblnm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ygioi Sblnm
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 12.19
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:ecd00c5d-0615-498e-8e53-366b1d6bc0a1][Hppbtt Ygioi Sblnm NV - 2016-10-11]]

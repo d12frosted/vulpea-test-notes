@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1f8c9ff2-b0ed-4c07-8fb9-51f8672b9d63
+:END:
+#+title: Wdcfn Yrra Jhhxky Vtqxzm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Jhhxky Vtqxzm
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 13.61
+- sugar :: 16.43
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

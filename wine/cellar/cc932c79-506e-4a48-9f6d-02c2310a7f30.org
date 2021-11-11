@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       cc932c79-506e-4a48-9f6d-02c2310a7f30
+:END:
+#+title: Hppbtt Ejhpk Izrxgfkq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Ejhpk Izrxgfkq
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.33
+- sugar :: 11.01
+- price :: 90.16 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 7.5
+- ratings :: [[id:0bdadd2f-5b81-4931-8dbc-23fcc8e82410][Hppbtt Ejhpk Izrxgfkq NV - 2004-9-20]]

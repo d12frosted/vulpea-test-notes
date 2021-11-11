@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0dee62b1-13b4-445e-b4a0-012bb4902328
+:END:
+#+title: Ibde Iowlof Dwnezilf Fqxu NV - 2016-1-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:bc2f509d-2e06-452c-a95f-725bb2341cc3][Ibde Iowlof Dwnezilf Fqxu]]
+- date :: 2016-1-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

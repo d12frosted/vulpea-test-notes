@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       baaf91fe-7bc7-4c56-9d38-624a7f952d20
+:END:
+#+title: Bhpgaqm Pslnklf Oaqfm Xswmvznc 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Oaqfm Xswmvznc
+- vintage :: 1940
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 10.48
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:a8cce04d-79a1-49ae-9ba9-dfb33a1d3f07][Bhpgaqm Pslnklf Oaqfm Xswmvznc 1940 - 2006-1-19]]

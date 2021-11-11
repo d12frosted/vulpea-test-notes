@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       880c31b8-b46d-48d7-bbe5-092b091cd4b4
+:END:
+#+title: Fxbahvi Qqezrar Roq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Roq
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.17
+- sugar :: 3.15
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

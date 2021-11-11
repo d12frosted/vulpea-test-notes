@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b899630c-3079-42c7-af3f-60bfd2c87e35
+:END:
+#+title: Mabtcl Miuoflx Tbzhx Oyet 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Tbzhx Oyet
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:e0cf3509-7c66-40e9-bff4-481a31418932][Moowba]]
+- alcohol :: 13.34
+- sugar :: 10.63
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:6e85d56a-2415-43a3-a835-a4ae21d8e3d7][Mabtcl Miuoflx Tbzhx Oyet NV - 1995-2-10]]

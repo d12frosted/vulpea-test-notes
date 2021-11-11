@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       be2f589f-3416-4adf-8578-1698475ed90c
+:END:
+#+title: Xnxdlsx Nptpninx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Nptpninx
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 11.71
+- sugar :: 18.52
+- price :: 61.16 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

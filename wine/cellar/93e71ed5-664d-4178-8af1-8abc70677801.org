@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       93e71ed5-664d-4178-8af1-8abc70677801
+:END:
+#+title: Hppbtt Drb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Drb
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.8
+- price :: 57.22 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3b384921-8b9a-4034-90d8-49f407eedd9e
+:END:
+#+title: Mgdu Zoanq Nenbpms 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Zoanq Nenbpms
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.67
+- price :: 28.54 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:a8a27819-e0c4-43fe-9c51-39afd82ad60c][Mgdu Zoanq Nenbpms NV - 2012-12-11]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4c2e63de-b82b-4185-aaba-8b96100522fb
+:END:
+#+title: Ajkygaf Emnb Ftfywnw Alvzc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Ftfywnw Alvzc
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- alcohol :: 9.94
+- sugar :: 17.9
+- price :: 46.98 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

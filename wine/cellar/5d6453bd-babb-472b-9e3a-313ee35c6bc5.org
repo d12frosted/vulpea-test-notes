@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5d6453bd-babb-472b-9e3a-313ee35c6bc5
+:END:
+#+title: Xhbm Rmdtq Ipl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Rmdtq Ipl
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.75
+- sugar :: 6.61
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.0
+- ratings :: [[id:c22a67f5-ca3a-4c8c-8e78-553c106a0983][Xhbm Rmdtq Ipl NV - 2018-8-25]]

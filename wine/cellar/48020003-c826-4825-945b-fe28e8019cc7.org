@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       48020003-c826-4825-945b-fe28e8019cc7
+:END:
+#+title: Ibde Iowlof Bmyb 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Bmyb
+- vintage :: 1987
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 9.96
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

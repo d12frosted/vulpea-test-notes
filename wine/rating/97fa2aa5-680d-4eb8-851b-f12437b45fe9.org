@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       97fa2aa5-680d-4eb8-851b-f12437b45fe9
+:END:
+#+title: Wdcfn Yrra Lkq NV - 2000-8-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:5ea52dd8-eb2b-4b39-a925-18e432956376][Wdcfn Yrra Lkq]]
+- date :: 2000-8-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

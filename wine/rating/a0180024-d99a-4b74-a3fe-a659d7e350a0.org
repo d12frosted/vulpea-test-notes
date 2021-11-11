@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a0180024-d99a-4b74-a3fe-a659d7e350a0
+:END:
+#+title: Bhpgaqm Pslnklf Afzokcv 1939 - 2023-3-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:b6018e1c-6a91-4421-baea-98b0832ab8e0][Bhpgaqm Pslnklf Afzokcv 1939]]
+- date :: 2023-3-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

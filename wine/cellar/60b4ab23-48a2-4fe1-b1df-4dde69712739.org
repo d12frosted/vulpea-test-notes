@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       60b4ab23-48a2-4fe1-b1df-4dde69712739
+:END:
+#+title: Wdcfn Yrra Uifdi Cwl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Uifdi Cwl
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 9.98
+- sugar :: 12.28
+- price :: 22.57 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2172deaf-6dfc-44a0-82de-a43dfd7316a8
+:END:
+#+title: Mgdu Qpi Dvau 1958 - 1999-7-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:a0f78729-3a2c-4104-9d15-afaba9cfb193][Mgdu Qpi Dvau 1958]]
+- date :: 1999-7-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0f3a14af-0661-4a0c-a455-9d370b205a5c
+:END:
+#+title: Hppbtt Zki Uutbhoic 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Zki Uutbhoic
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 12.73
+- sugar :: 15.25
+- price :: 50.92 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

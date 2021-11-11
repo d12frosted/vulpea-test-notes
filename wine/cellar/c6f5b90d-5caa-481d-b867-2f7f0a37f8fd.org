@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c6f5b90d-5caa-481d-b867-2f7f0a37f8fd
+:END:
+#+title: Mabtcl Miuoflx Ruj Ebtyqw 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Ruj Ebtyqw
+- vintage :: 1901
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 11.39
+- sugar :: 20.73
+- price :: 39.77 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

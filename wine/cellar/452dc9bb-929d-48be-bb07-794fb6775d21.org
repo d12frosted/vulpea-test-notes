@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       452dc9bb-929d-48be-bb07-794fb6775d21
+:END:
+#+title: Ibde Iowlof Gyralerm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Gyralerm
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 12.92
+- sugar :: 19.66
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 5.0
+- ratings :: [[id:b7bd8d5e-5010-4250-9924-b9570467b763][Ibde Iowlof Gyralerm NV - 2011-8-20]]

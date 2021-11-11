@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e8da511c-96a8-4a9c-a76a-bb47997c80df
+:END:
+#+title: Xhbm Mwptfdpd Fgjej 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Mwptfdpd Fgjej
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 9.71
+- price :: 17.89 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

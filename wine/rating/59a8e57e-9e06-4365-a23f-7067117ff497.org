@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       59a8e57e-9e06-4365-a23f-7067117ff497
+:END:
+#+title: Wdcfn Yrra Xghs Zxevwkeo 1998 - 1993-6-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:20cc5694-3fe3-47ec-bfcc-61fd1159e8ad][Wdcfn Yrra Xghs Zxevwkeo 1998]]
+- date :: 1993-6-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

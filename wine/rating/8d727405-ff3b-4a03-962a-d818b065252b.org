@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8d727405-ff3b-4a03-962a-d818b065252b
+:END:
+#+title: Xnxdlsx Rfs 1955 - 1998-9-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:d5ed094d-f764-49ee-8e79-f7c664c0b98c][Xnxdlsx Rfs 1955]]
+- date :: 1998-9-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

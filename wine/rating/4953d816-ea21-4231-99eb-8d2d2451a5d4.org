@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4953d816-ea21-4231-99eb-8d2d2451a5d4
+:END:
+#+title: Fxbahvi Qqezrar Iimjczoh Pfaobni NV - 2006-5-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:3c9ac2b1-41a7-467b-abce-a2e993a8a747][Fxbahvi Qqezrar Iimjczoh Pfaobni]]
+- date :: 2006-5-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

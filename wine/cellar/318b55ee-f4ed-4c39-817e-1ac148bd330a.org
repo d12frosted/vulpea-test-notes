@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       318b55ee-f4ed-4c39-817e-1ac148bd330a
+:END:
+#+title: Wdcfn Yrra Lvezsft Cijyxtpk 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Lvezsft Cijyxtpk
+- vintage :: 1973
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.120000000000001
+- price :: 49.03 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 5.0
+- ratings :: [[id:76ff6215-b4e2-4eef-8411-5f57429843b3][Wdcfn Yrra Lvezsft Cijyxtpk 1973 - 2004-2-18]]

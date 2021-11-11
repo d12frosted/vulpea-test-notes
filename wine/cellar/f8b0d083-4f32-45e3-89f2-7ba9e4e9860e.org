@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f8b0d083-4f32-45e3-89f2-7ba9e4e9860e
+:END:
+#+title: Mabtcl Miuoflx Yapw Zevosb 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Yapw Zevosb
+- vintage :: 1968
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 11.05
+- price :: 15.40 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

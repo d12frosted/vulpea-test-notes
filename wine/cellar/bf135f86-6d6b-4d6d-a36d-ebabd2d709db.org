@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       bf135f86-6d6b-4d6d-a36d-ebabd2d709db
+:END:
+#+title: Ibde Iowlof Fdvllkri Kbnp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Fdvllkri Kbnp
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 12.46
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

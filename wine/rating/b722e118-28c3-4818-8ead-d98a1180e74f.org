@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b722e118-28c3-4818-8ead-d98a1180e74f
+:END:
+#+title: Mabtcl Miuoflx Rqyv NV - 1991-8-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:3f78613b-952a-4c15-9bc3-c912a02eaaa3][Mabtcl Miuoflx Rqyv]]
+- date :: 1991-8-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

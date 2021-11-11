@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2af4be27-a825-47e0-af1d-729d6639e36a
+:END:
+#+title: Mgdu All Dmr 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: All Dmr
+- vintage :: 1917
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 11.29
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

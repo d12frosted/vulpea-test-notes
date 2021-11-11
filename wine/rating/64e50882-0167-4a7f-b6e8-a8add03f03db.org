@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       64e50882-0167-4a7f-b6e8-a8add03f03db
+:END:
+#+title: Wdcfn Yrra Wcbj 1916 - 2018-2-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:3193b8d9-41c2-493a-a62c-650d59ac8cc8][Wdcfn Yrra Wcbj 1916]]
+- date :: 2018-2-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

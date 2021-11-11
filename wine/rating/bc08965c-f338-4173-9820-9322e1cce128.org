@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bc08965c-f338-4173-9820-9322e1cce128
+:END:
+#+title: Mgdu Grcgcaai 1982 - 2020-6-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:05f546de-ffdb-4295-a7d3-b9f70e19b4ad][Mgdu Grcgcaai 1982]]
+- date :: 2020-6-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

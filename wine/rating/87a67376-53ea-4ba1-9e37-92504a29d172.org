@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       87a67376-53ea-4ba1-9e37-92504a29d172
+:END:
+#+title: Fxbahvi Qqezrar Dylqxt NV - 2013-4-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:816e35aa-a532-4919-8aae-a538668f1c03][Fxbahvi Qqezrar Dylqxt]]
+- date :: 2013-4-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       486f1a3c-9cec-4b28-aef1-b76e1c431519
+:END:
+#+title: Ibde Iowlof Mwxknwmy Fuu NV - 1997-10-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:d31445d7-243f-4071-b3fd-749e07c55285][Ibde Iowlof Mwxknwmy Fuu]]
+- date :: 1997-10-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e537cefb-59c6-4ecd-b129-6137d3dbb3d0
+:END:
+#+title: Mgdu Ajhypxi Vqcsaiz 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ajhypxi Vqcsaiz
+- vintage :: 1975
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 10.41
+- price :: 65.39 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

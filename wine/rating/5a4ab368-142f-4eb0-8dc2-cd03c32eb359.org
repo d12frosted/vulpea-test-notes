@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5a4ab368-142f-4eb0-8dc2-cd03c32eb359
+:END:
+#+title: Hppbtt Phadrrku NV - 2003-12-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:e17a7bfe-9cec-41e8-8f84-b8b28b7e0d30][Hppbtt Phadrrku]]
+- date :: 2003-12-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

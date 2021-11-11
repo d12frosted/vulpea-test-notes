@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a986796a-ae52-4e9e-9873-9a1b0112af81
+:END:
+#+title: Wdcfn Yrra Dmecnb Jbobpb 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Dmecnb Jbobpb
+- vintage :: 1987
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 13.620000000000001
+- sugar :: 12.8
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b6f02a0d-fd2c-4f58-8261-19c4ae363587
+:END:
+#+title: Mabtcl Miuoflx Iglsk 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Iglsk
+- vintage :: 1922
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.94
+- sugar :: 7.8
+- price :: 35.81 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:fa3379e4-8768-4530-9747-c47c353f486f][Mabtcl Miuoflx Iglsk 1922 - 2019-3-19]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       24420acc-b311-46f0-a72b-b1f8c12fb067
+:END:
+#+title: Ajkygaf Emnb Bjfrty 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Bjfrty
+- vintage :: 1932
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 13.26
+- sugar :: 8.23
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

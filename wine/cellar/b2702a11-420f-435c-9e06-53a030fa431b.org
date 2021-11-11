@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b2702a11-420f-435c-9e06-53a030fa431b
+:END:
+#+title: Ibde Iowlof Yhsqwir 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Yhsqwir
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- alcohol :: 10.68
+- sugar :: 10.52
+- price :: 37.86 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

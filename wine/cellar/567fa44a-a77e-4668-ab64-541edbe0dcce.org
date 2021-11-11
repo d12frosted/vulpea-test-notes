@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       567fa44a-a77e-4668-ab64-541edbe0dcce
+:END:
+#+title: Hppbtt Rporz 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Rporz
+- vintage :: 1990
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 13.969999999999999
+- sugar :: 0.87
+- price :: 13.46 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

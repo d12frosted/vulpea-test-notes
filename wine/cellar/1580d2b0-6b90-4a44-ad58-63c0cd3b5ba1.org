@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1580d2b0-6b90-4a44-ad58-63c0cd3b5ba1
+:END:
+#+title: Mabtcl Miuoflx Whvch Umzlr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Whvch Umzlr
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 12.55
+- sugar :: 18.91
+- price :: 35.88 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

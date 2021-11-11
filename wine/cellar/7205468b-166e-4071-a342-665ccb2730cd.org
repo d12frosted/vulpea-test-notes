@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7205468b-166e-4071-a342-665ccb2730cd
+:END:
+#+title: Mabtcl Miuoflx Dvgbk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Dvgbk
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- alcohol :: 11.95
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:46c656c7-6e47-4b58-9956-5a95e3382482][Mabtcl Miuoflx Dvgbk NV - 2017-11-26]]

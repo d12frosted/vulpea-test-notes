@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       200082bf-8343-4309-b8c5-9f5c710eee2c
+:END:
+#+title: Fxbahvi Qqezrar Xnpiynq 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Xnpiynq
+- vintage :: 1984
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 10.43
+- sugar :: 19.71
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

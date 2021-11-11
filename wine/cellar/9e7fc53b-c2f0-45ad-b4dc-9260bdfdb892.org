@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9e7fc53b-c2f0-45ad-b4dc-9260bdfdb892
+:END:
+#+title: Xnxdlsx Ywzwfts 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ywzwfts
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 10.43
+- sugar :: 8.68
+- price :: 55.81 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:3795bc87-df2e-49b7-8c74-eb1bd761ee85][Xnxdlsx Ywzwfts NV - 2012-11-19]]

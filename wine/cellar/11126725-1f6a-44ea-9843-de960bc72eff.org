@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       11126725-1f6a-44ea-9843-de960bc72eff
+:END:
+#+title: Wdcfn Yrra Tkb Gqztvfw 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Tkb Gqztvfw
+- vintage :: 1981
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 11.75
+- price :: 43.24 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:da3040db-4466-4502-b2c7-11a86a7117c3][Wdcfn Yrra Tkb Gqztvfw 1981 - 2021-3-5]]

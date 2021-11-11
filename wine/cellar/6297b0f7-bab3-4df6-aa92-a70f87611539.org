@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6297b0f7-bab3-4df6-aa92-a70f87611539
+:END:
+#+title: Xhbm Wqyrgtxt 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Wqyrgtxt
+- vintage :: 1947
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.29
+- sugar :: 16.22
+- price :: 49.99 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

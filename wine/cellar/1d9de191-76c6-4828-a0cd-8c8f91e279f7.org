@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1d9de191-76c6-4828-a0cd-8c8f91e279f7
+:END:
+#+title: Bhpgaqm Pslnklf Jrjpc Eqs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Jrjpc Eqs
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 12.56
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:1e29fa5c-e469-4028-9043-970937591e19][Bhpgaqm Pslnklf Jrjpc Eqs NV - 1995-8-15]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4e4db96c-7149-40eb-a140-374d104896f6
+:END:
+#+title: Hppbtt Bwk 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Bwk
+- vintage :: 1970
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 9.49
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

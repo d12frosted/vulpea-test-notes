@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d840d563-f4e3-4514-a0de-49b37abefa71
+:END:
+#+title: Fxbahvi Qqezrar Wqv Hax 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Wqv Hax
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 11.91
+- sugar :: 20.22
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

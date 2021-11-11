@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       29b24837-1eca-453c-b1cb-3f35cc44d13b
+:END:
+#+title: Xnxdlsx Wmxm NV - 1992-5-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:dd2c431b-ee16-48e6-a92d-764fdf7fd606][Xnxdlsx Wmxm]]
+- date :: 1992-5-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

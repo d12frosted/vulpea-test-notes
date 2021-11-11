@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       087cfe6b-9c1e-4567-a8cd-b7dcbd81c410
+:END:
+#+title: Hppbtt Qavjj Exsepvkt NV - 2004-3-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:5298ec48-5bd9-4a85-b50c-855a13fd49b1][Hppbtt Qavjj Exsepvkt]]
+- date :: 2004-3-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

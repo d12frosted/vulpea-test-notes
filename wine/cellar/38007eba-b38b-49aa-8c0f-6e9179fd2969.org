@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       38007eba-b38b-49aa-8c0f-6e9179fd2969
+:END:
+#+title: Ibde Iowlof Hych 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Hych
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 11.94
+- price :: 63.29 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

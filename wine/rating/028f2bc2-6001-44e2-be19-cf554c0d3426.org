@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       028f2bc2-6001-44e2-be19-cf554c0d3426
+:END:
+#+title: Hppbtt Kouww NV - 2009-11-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:17a6701f-4479-481f-b7c9-1f671718727f][Hppbtt Kouww]]
+- date :: 2009-11-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9ba199b7-e822-406b-b416-dc489f4e32d1
+:END:
+#+title: Xhbm Vvdezjjl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Vvdezjjl
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- grapes :: [[id:7f6a2645-8e86-4cbb-b307-7cae5f753593][Sxhqvqa Gspprll]]
+- alcohol :: 10.28
+- sugar :: 22.04
+- price :: 68.75 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9b6dfeda-d70a-455b-8642-cad332339a1c
+:END:
+#+title: Xnxdlsx Fjnwjwb Vlhlnxmt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Fjnwjwb Vlhlnxmt
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 13.780000000000001
+- sugar :: 14.34
+- price :: 80.96 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:6af5563a-07df-48ea-a8b1-ae84984e4155][Xnxdlsx Fjnwjwb Vlhlnxmt NV - 2020-8-16]]

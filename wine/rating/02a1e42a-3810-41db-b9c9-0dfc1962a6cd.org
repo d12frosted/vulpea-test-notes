@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       02a1e42a-3810-41db-b9c9-0dfc1962a6cd
+:END:
+#+title: Hppbtt Qwfy Lta NV - 2015-8-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:ffc8abfa-076f-4176-961f-1af987e7f84d][Hppbtt Qwfy Lta]]
+- date :: 2015-8-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

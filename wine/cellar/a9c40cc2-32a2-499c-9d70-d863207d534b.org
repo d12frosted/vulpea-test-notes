@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a9c40cc2-32a2-499c-9d70-d863207d534b
+:END:
+#+title: Ajkygaf Emnb Oydcmjw 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Oydcmjw
+- vintage :: 1947
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- alcohol :: 10.95
+- sugar :: 17.72
+- price :: 23.34 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:9e5424cb-6172-43b4-9c68-3bb5309d67cb][Ajkygaf Emnb Oydcmjw 1947 - 2015-4-17]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b95cb387-37e8-4a16-a7dc-3b9b80f46474
+:END:
+#+title: Xhbm Fprhjgb 1926 - 2010-4-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:30fda62d-17cf-48d5-9c37-2f91a41da384][Xhbm Fprhjgb 1926]]
+- date :: 2010-4-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

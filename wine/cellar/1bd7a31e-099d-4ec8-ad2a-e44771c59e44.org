@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1bd7a31e-099d-4ec8-ad2a-e44771c59e44
+:END:
+#+title: Fxbahvi Qqezrar Uchsty Xgzikac 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Uchsty Xgzikac
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 11.870000000000001
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 6.0
+- ratings :: [[id:bb4913a1-a82b-4101-ac09-c64c8a11f1dd][Fxbahvi Qqezrar Uchsty Xgzikac NV - 2010-2-8]]

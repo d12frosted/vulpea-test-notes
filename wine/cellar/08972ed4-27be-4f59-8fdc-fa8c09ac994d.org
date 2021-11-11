@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       08972ed4-27be-4f59-8fdc-fa8c09ac994d
+:END:
+#+title: Xnxdlsx Xte 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Xte
+- vintage :: 1987
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- alcohol :: 10.96
+- sugar :: 12.45
+- price :: 32.20 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

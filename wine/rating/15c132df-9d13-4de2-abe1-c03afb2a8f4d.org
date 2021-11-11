@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       15c132df-9d13-4de2-abe1-c03afb2a8f4d
+:END:
+#+title: Wdcfn Yrra Hfnx NV - 2022-2-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:e6f3474e-848a-402b-b781-1c63740adb28][Wdcfn Yrra Hfnx]]
+- date :: 2022-2-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

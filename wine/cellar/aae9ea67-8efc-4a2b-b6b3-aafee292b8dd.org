@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       aae9ea67-8efc-4a2b-b6b3-aafee292b8dd
+:END:
+#+title: Fxbahvi Qqezrar Hbdrtyk Qjhdp 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Hbdrtyk Qjhdp
+- vintage :: 1991
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 12.31
+- sugar :: 7.8
+- price :: 6.57 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: NA

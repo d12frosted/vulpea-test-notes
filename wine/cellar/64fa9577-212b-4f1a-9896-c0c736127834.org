@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       64fa9577-212b-4f1a-9896-c0c736127834
+:END:
+#+title: Wdcfn Yrra Giv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Giv
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.97
+- price :: 41.81 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

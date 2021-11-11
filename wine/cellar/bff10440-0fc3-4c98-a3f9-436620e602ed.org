@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bff10440-0fc3-4c98-a3f9-436620e602ed
+:END:
+#+title: Bhpgaqm Pslnklf Qjk Xjqt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Qjk Xjqt
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- alcohol :: 13.59
+- sugar :: 8.03
+- price :: 43.32 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

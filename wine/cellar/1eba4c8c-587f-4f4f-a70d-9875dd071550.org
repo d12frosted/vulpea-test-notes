@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1eba4c8c-587f-4f4f-a70d-9875dd071550
+:END:
+#+title: Bhpgaqm Pslnklf Oezei Rlkmqnib 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Oezei Rlkmqnib
+- vintage :: 1958
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- alcohol :: 12.33
+- sugar :: 10.97
+- price :: 13.56 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2de5b1d9-e728-4136-aecb-ce48dd11f6b6
+:END:
+#+title: Mgdu Ssoysvlg 1912
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Ssoysvlg
+- vintage :: 1912
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 12.21
+- sugar :: 3.01
+- price :: 14.68 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

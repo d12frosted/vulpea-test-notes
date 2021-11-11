@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8496ea67-d634-4348-b498-89c2a92d978d
+:END:
+#+title: Ajkygaf Emnb Hvbfjfc Xrzqusl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Hvbfjfc Xrzqusl
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 11.39
+- sugar :: 15.36
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:622d20a5-3b51-4121-ae10-a06c9d7205fa][Ajkygaf Emnb Hvbfjfc Xrzqusl NV - 1990-10-18]]

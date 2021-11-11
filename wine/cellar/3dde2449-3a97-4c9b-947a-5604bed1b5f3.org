@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3dde2449-3a97-4c9b-947a-5604bed1b5f3
+:END:
+#+title: Bhpgaqm Pslnklf Nyjk 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Nyjk
+- vintage :: 1923
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 13.54
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:414dd515-82eb-499f-befb-229d93c1afe5][Bhpgaqm Pslnklf Nyjk 1923 - 2006-2-7]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       12cadf86-13ae-4921-871d-7c8499d1e0c7
+:END:
+#+title: Xnxdlsx Aupq Fpqut 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Aupq Fpqut
+- vintage :: 1965
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 12.7
+- price :: 42.37 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

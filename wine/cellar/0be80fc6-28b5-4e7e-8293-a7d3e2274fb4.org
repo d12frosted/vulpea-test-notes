@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0be80fc6-28b5-4e7e-8293-a7d3e2274fb4
+:END:
+#+title: Ajkygaf Emnb Pjx Mjqwdqy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Pjx Mjqwdqy
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- alcohol :: 11.73
+- sugar :: 5.67
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 5.5
+- ratings :: [[id:7013ed37-4400-4def-88b4-91217ee75389][Ajkygaf Emnb Pjx Mjqwdqy NV - 2008-4-1]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8f595c35-08ca-4a2a-b8c0-0741ab85d76f
+:END:
+#+title: Xnxdlsx Wtul 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Wtul
+- vintage :: 2011
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 12.24
+- sugar :: 12.85
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 5.5
+- ratings :: [[id:8188b62f-a3e1-417c-982b-49498d26d4f0][Xnxdlsx Wtul 2011 - 2020-12-1]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a15de363-bee0-4dda-975f-1b53936a8d6f
+:END:
+#+title: Hppbtt Vevtw 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Vevtw
+- vintage :: 1920
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 11.879999999999999
+- price :: 82.07 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:7657bf14-0db0-46e6-807b-ef9058e0342c][Hppbtt Vevtw 1920 - 1996-6-26]]

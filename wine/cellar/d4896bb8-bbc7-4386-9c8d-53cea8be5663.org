@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d4896bb8-bbc7-4386-9c8d-53cea8be5663
+:END:
+#+title: Mabtcl Miuoflx Wcawn 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Wcawn
+- vintage :: 1968
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- alcohol :: 11.31
+- sugar :: 22.68
+- price :: 55.28 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f6859288-2455-41cd-9347-fbb295fa18f1
+:END:
+#+title: Xnxdlsx Ejxraroh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ejxraroh
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- alcohol :: 11.32
+- sugar :: 14.49
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:7ae9db1f-139e-4d76-9e69-a0b4e4dcddd2][Xnxdlsx Ejxraroh NV - 2008-2-24]]

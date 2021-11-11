@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c16ceed9-1299-4a71-b8c9-18d352307fc4
+:END:
+#+title: Ajkygaf Emnb Bsxn 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Bsxn
+- vintage :: 1902
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 13.58
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:225a58d6-b82b-442e-a9ae-b38151cfcc9e][Ajkygaf Emnb Bsxn 1902 - 2007-2-14]]

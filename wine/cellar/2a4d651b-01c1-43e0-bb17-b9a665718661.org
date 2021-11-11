@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2a4d651b-01c1-43e0-bb17-b9a665718661
+:END:
+#+title: Fxbahvi Qqezrar Lmmwbec Yrvteg 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Lmmwbec Yrvteg
+- vintage :: 1931
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- alcohol :: 12.49
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: 4.5
+- ratings :: [[id:bb67ffc0-6f5e-4bef-b092-e4e09c12a836][Fxbahvi Qqezrar Lmmwbec Yrvteg 1931 - 1994-12-8]]

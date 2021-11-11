@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       edf41541-c674-4a84-8156-2701b946da26
+:END:
+#+title: Wdcfn Yrra Vwuk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Vwuk
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 11.61
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

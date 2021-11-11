@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       a3275ff2-f760-464c-b2d2-c8e4a36c26c9
+:END:
+#+title: Ibde Iowlof Hri Lskwqmr 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Hri Lskwqmr
+- vintage :: 1968
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 12.84
+- sugar :: 14.16
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:93b3d412-fce6-4668-88b9-dc77af9e77f1][Ibde Iowlof Hri Lskwqmr 1968 - 2007-3-28]]

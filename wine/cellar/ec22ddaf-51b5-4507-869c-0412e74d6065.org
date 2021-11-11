@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ec22ddaf-51b5-4507-869c-0412e74d6065
+:END:
+#+title: Hppbtt Fdzldt 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Fdzldt
+- vintage :: 1909
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- alcohol :: 9.98
+- sugar :: 4.52
+- price :: 25.67 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:87ea21df-7913-4a61-b34a-252083ba7c0d][Hppbtt Fdzldt 1909 - 2008-3-2]]

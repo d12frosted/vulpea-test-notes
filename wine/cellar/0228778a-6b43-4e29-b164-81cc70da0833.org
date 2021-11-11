@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0228778a-6b43-4e29-b164-81cc70da0833
+:END:
+#+title: Xnxdlsx Jjwnequv 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Jjwnequv
+- vintage :: 1994
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 9.49
+- sugar :: 15.24
+- price :: 16.65 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:ddefabeb-5af5-42ba-b538-55d09a58d1f3][Xnxdlsx Jjwnequv 1994 - 1992-2-28]]

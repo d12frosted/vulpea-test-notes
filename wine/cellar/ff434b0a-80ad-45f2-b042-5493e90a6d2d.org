@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       ff434b0a-80ad-45f2-b042-5493e90a6d2d
+:END:
+#+title: Mabtcl Miuoflx Abs 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Abs
+- vintage :: 1984
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.29
+- sugar :: 5.98
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 5.5
+- ratings :: [[id:d32b27d5-1b83-4edd-813a-58c6ac43ada1][Mabtcl Miuoflx Abs 1984 - 2020-6-23]]

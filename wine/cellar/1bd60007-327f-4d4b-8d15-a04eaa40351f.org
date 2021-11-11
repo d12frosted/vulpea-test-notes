@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1bd60007-327f-4d4b-8d15-a04eaa40351f
+:END:
+#+title: Xnxdlsx Stsgll 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Stsgll
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 13.14
+- price :: 38.84 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

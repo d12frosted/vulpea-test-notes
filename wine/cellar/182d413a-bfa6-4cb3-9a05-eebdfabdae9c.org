@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       182d413a-bfa6-4cb3-9a05-eebdfabdae9c
+:END:
+#+title: Hppbtt Anoix Nrenlucm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Anoix Nrenlucm
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.35
+- sugar :: 22.12
+- price :: 74.98 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.5
+- ratings :: [[id:e291a641-f42f-4382-b106-e0fd1778bec1][Hppbtt Anoix Nrenlucm NV - 2000-10-9]]

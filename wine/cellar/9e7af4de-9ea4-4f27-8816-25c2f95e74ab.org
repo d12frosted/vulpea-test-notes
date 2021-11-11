@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9e7af4de-9ea4-4f27-8816-25c2f95e74ab
+:END:
+#+title: Wdcfn Yrra Oaxhhpt Qolhib 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Oaxhhpt Qolhib
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- alcohol :: 13.54
+- sugar :: 18.93
+- price :: 76.95 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 4.0
+- ratings :: [[id:2eb7b121-6466-4471-96f4-871c4382f66d][Wdcfn Yrra Oaxhhpt Qolhib NV - 2010-10-21]]

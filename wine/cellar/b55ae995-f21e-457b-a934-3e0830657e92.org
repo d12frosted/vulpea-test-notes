@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b55ae995-f21e-457b-a934-3e0830657e92
+:END:
+#+title: Mgdu Twwlz 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Twwlz
+- vintage :: 1961
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 12.74
+- price :: 6.07 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

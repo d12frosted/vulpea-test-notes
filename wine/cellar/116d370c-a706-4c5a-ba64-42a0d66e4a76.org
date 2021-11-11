@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       116d370c-a706-4c5a-ba64-42a0d66e4a76
+:END:
+#+title: Ajkygaf Emnb Qlqdmxqr Gjqiquu 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Qlqdmxqr Gjqiquu
+- vintage :: 1996
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 10.3
+- price :: 37.60 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

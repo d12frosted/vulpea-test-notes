@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       25d7b368-417b-477f-b092-534efd31f677
+:END:
+#+title: Xnxdlsx Cyzf Cyb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Cyzf Cyb
+- region :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- grapes :: [[id:15a20bf0-5983-4259-95d7-6cbaaba90e19][Dudnyp Ediqcbf]]
+- alcohol :: 10.76
+- sugar :: 19.51
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

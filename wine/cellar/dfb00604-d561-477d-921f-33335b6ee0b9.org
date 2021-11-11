@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       dfb00604-d561-477d-921f-33335b6ee0b9
+:END:
+#+title: Fxbahvi Qqezrar Ujuq Cybf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Ujuq Cybf
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 12.16
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

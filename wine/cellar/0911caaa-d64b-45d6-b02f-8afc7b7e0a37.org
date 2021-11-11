@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0911caaa-d64b-45d6-b02f-8afc7b7e0a37
+:END:
+#+title: Bhpgaqm Pslnklf Xdchttu Nms 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Xdchttu Nms
+- vintage :: 1974
+- region :: [[id:eeb41921-e647-4e8b-9402-1a576499015c][Biy Wudvlu]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 9.66
+- sugar :: 5.28
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.5
+- ratings :: [[id:edac7e72-5017-400e-a403-640cc12a0b16][Bhpgaqm Pslnklf Xdchttu Nms 1974 - 2000-10-13]]

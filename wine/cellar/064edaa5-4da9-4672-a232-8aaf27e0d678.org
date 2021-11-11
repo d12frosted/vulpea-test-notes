@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       064edaa5-4da9-4672-a232-8aaf27e0d678
+:END:
+#+title: Mgdu Iaynau 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Iaynau
+- vintage :: 1957
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 13.66
+- price :: 98.45 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       81186d37-6811-4cbc-95b4-9596a6c04f81
+:END:
+#+title: Fxbahvi Qqezrar Snrzkw NV - 2014-4-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:a59b3d21-b9bb-4ab7-9389-22bc066b2176][Fxbahvi Qqezrar Snrzkw]]
+- date :: 2014-4-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

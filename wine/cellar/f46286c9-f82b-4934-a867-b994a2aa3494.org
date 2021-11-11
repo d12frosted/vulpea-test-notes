@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f46286c9-f82b-4934-a867-b994a2aa3494
+:END:
+#+title: Fxbahvi Qqezrar Ntfvxjdo 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Ntfvxjdo
+- vintage :: 2020
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- alcohol :: 11.6
+- sugar :: 17.38
+- price :: 34.86 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

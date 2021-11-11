@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       98d2349e-81d8-462e-9374-db955beae98a
+:END:
+#+title: Hppbtt Dqwva 1955 - 2011-6-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:8a3e438c-f4d8-4f53-9902-81e4fb7d4944][Hppbtt Dqwva 1955]]
+- date :: 2011-6-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

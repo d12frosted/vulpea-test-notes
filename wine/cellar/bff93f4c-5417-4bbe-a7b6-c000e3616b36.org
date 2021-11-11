@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bff93f4c-5417-4bbe-a7b6-c000e3616b36
+:END:
+#+title: Mabtcl Miuoflx Uxyxvy Wvnw 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Uxyxvy Wvnw
+- vintage :: 1910
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 11.73
+- sugar :: 9.87
+- price :: 71.37 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:c4f8e8c5-13fb-43dd-9774-87c02e3c7162][Mabtcl Miuoflx Uxyxvy Wvnw 1910 - 2017-9-21]]

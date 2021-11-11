@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c3dd5db5-92ec-4bc8-8e31-f5bba50ff2fe
+:END:
+#+title: Ibde Iowlof Rifk 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Rifk
+- vintage :: 1971
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 13.34
+- price :: 102.91 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 2.0
+- ratings :: [[id:61a5260d-92af-4229-8d9b-a4e48ee5bce5][Ibde Iowlof Rifk 1971 - 1999-1-2]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7a3d33d4-a282-4114-9684-aaf46481e889
+:END:
+#+title: Wdcfn Yrra Cklbixr Orous 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Cklbixr Orous
+- vintage :: 1930
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 11.27
+- price :: 75.74 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- rating :: 4.0
+- ratings :: [[id:8e390838-c6f5-4221-a45b-88189db16b2f][Wdcfn Yrra Cklbixr Orous 1930 - 2010-9-11]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       94d929e3-039a-40f1-a301-7e8b9d39149f
+:END:
+#+title: Ibde Iowlof Wxbujb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Wxbujb
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 12.85
+- price :: 3.03 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:073567c5-1e46-4427-9ff5-167e63beb7a3][Ibde Iowlof Wxbujb NV - 2002-3-6]]

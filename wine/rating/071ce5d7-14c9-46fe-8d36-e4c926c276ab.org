@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       071ce5d7-14c9-46fe-8d36-e4c926c276ab
+:END:
+#+title: Mabtcl Miuoflx Zjun NV - 2016-11-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:b0496d3c-6730-4548-8565-52a847179d6c][Mabtcl Miuoflx Zjun]]
+- date :: 2016-11-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

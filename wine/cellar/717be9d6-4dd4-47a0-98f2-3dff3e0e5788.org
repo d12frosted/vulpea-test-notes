@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       717be9d6-4dd4-47a0-98f2-3dff3e0e5788
+:END:
+#+title: Mabtcl Miuoflx Llabdt Wyuxpqpu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Llabdt Wyuxpqpu
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 10.4
+- sugar :: 10.73
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:fa3658d7-0ff4-47bc-8dff-42d2200d32e9][Mabtcl Miuoflx Llabdt Wyuxpqpu NV - 1993-5-23]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       76ca69f4-2129-4a7a-ac2a-379b573bc5b1
+:END:
+#+title: Hppbtt Biyh 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Biyh
+- vintage :: 1948
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 13.98
+- price :: 38.07 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

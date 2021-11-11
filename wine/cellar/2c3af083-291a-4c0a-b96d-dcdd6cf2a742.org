@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2c3af083-291a-4c0a-b96d-dcdd6cf2a742
+:END:
+#+title: Hppbtt Mpscfewe 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Mpscfewe
+- vintage :: 1965
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.71
+- sugar :: 16.2
+- price :: 66.94 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:3ab88acf-95a1-4a94-b3e6-68aebbfc812d][Hppbtt Mpscfewe 1965 - 1990-10-2]]

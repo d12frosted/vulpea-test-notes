@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b36dbf9f-5437-4254-9a09-0feecc786a5d
+:END:
+#+title: Wdcfn Yrra Zolhzny 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Zolhzny
+- vintage :: 1930
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 11.49
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:d0382ea1-e8b6-4b4e-b83f-f6e6bdc000f8][Wdcfn Yrra Zolhzny 1930 - 1994-2-14]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4dda070a-6c1a-4107-9510-539b65a5b37b
+:END:
+#+title: Bhpgaqm Pslnklf Zrtnom 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Zrtnom
+- vintage :: 1977
+- appellation :: [[id:e62c169f-30cb-40da-ab3c-26554ebc0d2e][Xktoz]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 9.26
+- price :: 28.88 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 1.5
+- ratings :: [[id:aa5be969-ef25-4455-a73f-dc0af8754aff][Bhpgaqm Pslnklf Zrtnom 1977 - 1994-4-8]]

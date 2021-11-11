@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8b8c5611-50db-4836-a0f1-7a47e17d48e9
+:END:
+#+title: Hppbtt Uwir Bxxa 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Uwir Bxxa
+- vintage :: 1927
+- region :: [[id:351dcbba-0fdf-440d-90bf-0277abbd6279][Kaywg]]
+- alcohol :: 12.1
+- price :: 25.39 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:83d4391d-e95f-4537-a46c-21fb7f2fd769][Rpywidc Bspjm]]
+- rating :: NA

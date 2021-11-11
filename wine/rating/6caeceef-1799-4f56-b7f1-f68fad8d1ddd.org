@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6caeceef-1799-4f56-b7f1-f68fad8d1ddd
+:END:
+#+title: Mabtcl Miuoflx Wzqlkr Rpvgqq NV - 2001-10-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:32a68159-7e2c-4ea4-9097-cb1e1390fff6][Mabtcl Miuoflx Wzqlkr Rpvgqq]]
+- date :: 2001-10-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9c4d2db0-8638-4f81-8c1b-f0bf3e2e595f
+:END:
+#+title: Mabtcl Miuoflx Rvkr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Rvkr
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 10.26
+- sugar :: 23.27
+- price :: 38.74 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:9cc4d5a4-8909-4749-a85f-74cba41c695a][Mabtcl Miuoflx Rvkr NV - 2013-6-8]]

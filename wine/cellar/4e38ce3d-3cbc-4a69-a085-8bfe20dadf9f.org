@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4e38ce3d-3cbc-4a69-a085-8bfe20dadf9f
+:END:
+#+title: Hppbtt Rcjlkt Lwr 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Rcjlkt Lwr
+- vintage :: 1982
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:b625ff6d-ab4b-4b78-b7f8-a29176565f5e][Ipllavhe Ysxpr]]
+- alcohol :: 11.03
+- sugar :: 5.57
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:fcc11a88-1e7e-483e-8bcd-c04be1846a8c][Hppbtt Rcjlkt Lwr 1982 - 1990-5-12]]

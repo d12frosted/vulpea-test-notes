@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       363ced22-ab92-4517-a218-7b0492e8bfaa
+:END:
+#+title: Ibde Iowlof Ojtarwi Uhuykts 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ebb78e18-67ac-47db-a0e3-468c5cb4d224][Ibde Iowlof]]
+- name :: Ojtarwi Uhuykts
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- alcohol :: 12.98
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:43d92da9-7816-4393-80cd-867c0d411beb][Ibde Iowlof Ojtarwi Uhuykts NV - 1991-10-10]]

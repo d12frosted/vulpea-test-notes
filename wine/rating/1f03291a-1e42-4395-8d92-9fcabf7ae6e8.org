@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1f03291a-1e42-4395-8d92-9fcabf7ae6e8
+:END:
+#+title: Mgdu Evkj NV - 2018-7-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:00c12b51-9553-4fff-b909-880be698d291][Mgdu Evkj]]
+- date :: 2018-7-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

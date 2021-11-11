@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cee231ea-0d98-45bd-892e-c0df40313162
+:END:
+#+title: Wdcfn Yrra Rjvzeczb Xpwh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Rjvzeczb Xpwh
+- appellation :: [[id:fdaa579e-3004-45ec-b57d-c3f08b9525da][Ccdap Mdczs]]
+- alcohol :: 11.6
+- sugar :: 7.12
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: NA

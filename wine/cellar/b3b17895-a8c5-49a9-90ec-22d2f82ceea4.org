@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b3b17895-a8c5-49a9-90ec-22d2f82ceea4
+:END:
+#+title: Wdcfn Yrra Filbetxj Edk 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Filbetxj Edk
+- vintage :: 1980
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:4970ff55-7beb-4127-aa64-f3804d4ad4de][Isekerqi]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 13.61
+- price :: 96.66 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

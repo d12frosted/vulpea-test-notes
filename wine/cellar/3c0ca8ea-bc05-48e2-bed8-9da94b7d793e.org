@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3c0ca8ea-bc05-48e2-bed8-9da94b7d793e
+:END:
+#+title: Xhbm Cqt Bbtpqg 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Cqt Bbtpqg
+- vintage :: 1979
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- alcohol :: 9.69
+- sugar :: 20.49
+- price :: 38.94 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:87afa20d-370e-4595-b2ce-e4940012a077][Xhbm Cqt Bbtpqg 1979 - 2013-9-15]]

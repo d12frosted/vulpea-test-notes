@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c6193d31-cd52-437d-a638-044c5c9f71a8
+:END:
+#+title: Hppbtt Hbji Nnv 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Hbji Nnv
+- vintage :: 1983
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 13.85
+- sugar :: 18.04
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

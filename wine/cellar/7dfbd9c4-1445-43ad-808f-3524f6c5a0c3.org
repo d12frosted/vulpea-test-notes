@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       7dfbd9c4-1445-43ad-808f-3524f6c5a0c3
+:END:
+#+title: Bhpgaqm Pslnklf Fsx 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Fsx
+- vintage :: 2012
+- appellation :: [[id:a1a76f19-31f9-45bf-a407-cc8aca3f23ec][Wszufggh]]
+- grapes :: [[id:ce54c68d-fd0c-4dd6-8b1c-d60406562b45][Amcmnkcp Qrzfk]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- alcohol :: 13.059999999999999
+- sugar :: 0.28
+- price :: 27.36 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 8.5
+- ratings :: [[id:aa82adfb-8044-4a60-91a3-32b3d192ff7f][Bhpgaqm Pslnklf Fsx 2012 - 2022-4-7]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       051ab380-2501-4e51-903b-907ff93f1161
+:END:
+#+title: Hppbtt Vigckzce 1982 - 2010-4-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:066a5d96-b3d6-44c8-968e-62a11e63eac6][Hppbtt Vigckzce 1982]]
+- date :: 2010-4-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 18
+- score_max :: 20
+- total :: 9.0

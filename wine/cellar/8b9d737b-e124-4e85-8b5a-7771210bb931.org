@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8b9d737b-e124-4e85-8b5a-7771210bb931
+:END:
+#+title: Mabtcl Miuoflx Zkpokyuy Zmnyr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:66dd5020-8066-4453-b34e-69eeaa2209bc][Mabtcl Miuoflx]]
+- name :: Zkpokyuy Zmnyr
+- region :: [[id:b4824bed-835d-47a6-bb0f-c854cbfd3cd3][Pmowc Ydeefop]]
+- grapes :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 13.17
+- sugar :: 7.17
+- price :: 76.55 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:541493be-b6ff-46d6-8044-7ce229840744][Mabtcl Miuoflx Zkpokyuy Zmnyr NV - 1993-6-2]]

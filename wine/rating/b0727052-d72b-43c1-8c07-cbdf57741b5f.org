@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b0727052-d72b-43c1-8c07-cbdf57741b5f
+:END:
+#+title: Hppbtt Dsksbvn 1990 - 2019-7-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:f1efc913-89bb-48f5-91c1-8115990a862d][Hppbtt Dsksbvn 1990]]
+- date :: 2019-7-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

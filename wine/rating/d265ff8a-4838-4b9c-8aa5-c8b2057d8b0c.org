@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d265ff8a-4838-4b9c-8aa5-c8b2057d8b0c
+:END:
+#+title: Mabtcl Miuoflx Yvk 2001 - 2016-10-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:a7ffb6d2-078b-4ea5-af2c-db20a0474179][Mabtcl Miuoflx Yvk 2001]]
+- date :: 2016-10-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

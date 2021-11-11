@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e300a690-407b-422b-81aa-bce069dae145
+:END:
+#+title: Xnxdlsx Kmk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Kmk
+- appellation :: [[id:02fc2ad3-09d0-41c2-bcb3-5e68252f05eb][Fczqqa Phbe]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 12.379999999999999
+- sugar :: 3.83
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

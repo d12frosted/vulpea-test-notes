@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       801903f9-dfd8-4efa-ba62-2019a7d500ef
+:END:
+#+title: Xnxdlsx Anezalq 1993 - 2024-2-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:97d5f20d-a2c3-4925-b236-fbdfba0ec8c6][Xnxdlsx Anezalq 1993]]
+- date :: 2024-2-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

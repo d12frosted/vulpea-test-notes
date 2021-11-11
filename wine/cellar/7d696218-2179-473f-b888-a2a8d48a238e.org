@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7d696218-2179-473f-b888-a2a8d48a238e
+:END:
+#+title: Ajkygaf Emnb Aop 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Aop
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 13.95
+- sugar :: 7.44
+- price :: 101.33 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:969331d1-4605-4d96-86f3-4a29de719ec0][Ajkygaf Emnb Aop NV - 2004-2-26]]

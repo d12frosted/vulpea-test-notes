@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7e9d39c7-4e54-4bc0-aab6-fc861ba60d28
+:END:
+#+title: Ibde Iowlof Wmopcw 1967 - 2006-2-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:5a2cf732-380a-4999-9046-8241e5a62103][Ibde Iowlof Wmopcw 1967]]
+- date :: 2006-2-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

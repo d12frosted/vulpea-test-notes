@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       85aad813-4f7b-4083-b302-483b37cd4585
+:END:
+#+title: Fxbahvi Qqezrar Dvq Gilq NV - 1993-9-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:19ba502a-2a48-4b8d-9718-86f98793d431][Fxbahvi Qqezrar Dvq Gilq]]
+- date :: 1993-9-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

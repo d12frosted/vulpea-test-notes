@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       138a7983-7a5f-4cab-afb0-944f71f05ee4
+:END:
+#+title: Wdcfn Yrra Rfyrv Abbz 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Rfyrv Abbz
+- vintage :: 1907
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:dd747a71-886c-4476-8b62-94e45da010d5][Adyy Hswyj]]
+- alcohol :: 13.440000000000001
+- price :: 54.79 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

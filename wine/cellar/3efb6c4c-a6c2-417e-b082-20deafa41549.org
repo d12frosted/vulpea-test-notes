@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3efb6c4c-a6c2-417e-b082-20deafa41549
+:END:
+#+title: Fxbahvi Qqezrar Ltplmniy Kouzlumk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Ltplmniy Kouzlumk
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- alcohol :: 10.76
+- sugar :: 21.24
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: 5.5
+- ratings :: [[id:5e42bad2-fa56-480c-8d89-ee1d25a9b671][Fxbahvi Qqezrar Ltplmniy Kouzlumk NV - 2014-1-8]]

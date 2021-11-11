@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c7f7e46a-9bfc-40ae-b8a4-d7bdae1918bf
+:END:
+#+title: Ibde Iowlof Tjdbhjcc Yxu 2005 - 2014-4-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:5a459ead-e737-4f7e-9e8d-17aa653d76d6][Ibde Iowlof Tjdbhjcc Yxu 2005]]
+- date :: 2014-4-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

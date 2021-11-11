@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       91a75a0a-c2c2-49f5-a69e-3111d048e1cb
+:END:
+#+title: Wdcfn Yrra Przhkk Wbic 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Przhkk Wbic
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- alcohol :: 10.03
+- sugar :: 2.77
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

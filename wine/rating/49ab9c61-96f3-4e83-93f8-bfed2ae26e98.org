@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       49ab9c61-96f3-4e83-93f8-bfed2ae26e98
+:END:
+#+title: Bhpgaqm Pslnklf Bamqsf Bubkib NV - 2006-6-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:57baaff4-6e0d-488a-baab-828b8bd79c96][Bhpgaqm Pslnklf Bamqsf Bubkib]]
+- date :: 2006-6-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

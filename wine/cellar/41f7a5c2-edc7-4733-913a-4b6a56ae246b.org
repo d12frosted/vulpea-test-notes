@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       41f7a5c2-edc7-4733-913a-4b6a56ae246b
+:END:
+#+title: Mgdu Pzzlz 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Pzzlz
+- vintage :: 1943
+- region :: [[id:6a558f18-b8a4-4227-9270-e2d419b2cda8][Onfwelf Mejpqc]]
+- alcohol :: 12.89
+- price :: 43.48 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- rating :: NA

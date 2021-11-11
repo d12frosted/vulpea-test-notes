@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d388e9fc-91b3-4220-8e57-b9435ed481ed
+:END:
+#+title: Bhpgaqm Pslnklf Adw Llw 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f5edd741-3d0e-4fdf-8a33-ff81d56f1640][Bhpgaqm Pslnklf]]
+- name :: Adw Llw
+- vintage :: 1963
+- region :: [[id:2064409d-6cdf-4019-80c2-84ae2f47bec9][Rtkeqabj]]
+- alcohol :: 9.85
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:f0750791-b0d7-44ac-93a7-d33353924e4b][Bhpgaqm Pslnklf Adw Llw 1963 - 2007-2-10]]

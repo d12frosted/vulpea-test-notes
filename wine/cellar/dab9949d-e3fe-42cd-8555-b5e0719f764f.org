@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       dab9949d-e3fe-42cd-8555-b5e0719f764f
+:END:
+#+title: Xhbm Vrogllr Rrvoynk 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Vrogllr Rrvoynk
+- vintage :: 1984
+- region :: [[id:90078ef5-0e2e-47a7-a368-bb3a1983fe30][Kyck Nahry]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:05c5a9a7-dc81-4613-aa23-29affb950c87][Cati Momr]]
+- alcohol :: 11.56
+- sugar :: 9.59
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

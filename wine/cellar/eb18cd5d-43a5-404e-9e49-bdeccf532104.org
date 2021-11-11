@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       eb18cd5d-43a5-404e-9e49-bdeccf532104
+:END:
+#+title: Wdcfn Yrra Qnql Ncre 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e2e0ce87-872b-432d-96ae-751df977b127][Wdcfn Yrra]]
+- name :: Qnql Ncre
+- appellation :: [[id:3f006ae6-5440-48d9-8d6a-bde57e75ebce][Wmczdc]]
+- grapes :: [[id:6c156f5b-4aa0-44dd-be21-210977716b8e][Fkz]]
+- alcohol :: 12.75
+- sugar :: 4.36
+- price :: 99.32 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       70a44c3c-aaa0-430a-9819-d352ef02b682
+:END:
+#+title: Ajkygaf Emnb Hkojl Icnfegm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Hkojl Icnfegm
+- appellation :: [[id:5ae29203-5196-4ad6-ba49-e0428b517657][Uezg]]
+- grapes :: [[id:6c893ffa-b1eb-4bbd-827e-7fce33e8fdc2][Dfea Obgtfn]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 10.9
+- price :: 62.89 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:feb77adc-fbb1-45cb-a4e6-72081f70df42][Ajkygaf Emnb Hkojl Icnfegm NV - 2008-9-10]]

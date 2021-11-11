@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       503aa323-7278-43a7-80c6-6ec012d2182d
+:END:
+#+title: Fxbahvi Qqezrar Lggg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:5343662a-4392-4603-8f16-4dd45e4e6c2b][Fxbahvi Qqezrar]]
+- name :: Lggg
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- alcohol :: 11.48
+- sugar :: 7.05
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

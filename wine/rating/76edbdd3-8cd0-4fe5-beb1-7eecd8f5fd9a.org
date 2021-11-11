@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       76edbdd3-8cd0-4fe5-beb1-7eecd8f5fd9a
+:END:
+#+title: Xhbm Iwwdr Txeau 1928 - 2016-1-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:a307a0e1-d12f-434f-98e1-5d9773aba47c][Xhbm Iwwdr Txeau 1928]]
+- date :: 2016-1-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

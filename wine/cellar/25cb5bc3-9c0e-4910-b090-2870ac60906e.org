@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       25cb5bc3-9c0e-4910-b090-2870ac60906e
+:END:
+#+title: Xhbm Qypdnj Mzbov 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Qypdnj Mzbov
+- vintage :: 1945
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:149e26a5-d2f0-43de-aa31-dd26c2484f89][Kzpxh]]
+- grapes :: [[id:9145a3cc-1c88-4e49-98fd-d93f069d46a5][Fjfxgv]]
+- alcohol :: 11.31
+- sugar :: 19.74
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:64e15a77-2566-460e-a47c-105a1a9b8c1e][Xhbm Qypdnj Mzbov 1945 - 1994-2-10]]

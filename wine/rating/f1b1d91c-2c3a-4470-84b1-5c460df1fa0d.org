@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f1b1d91c-2c3a-4470-84b1-5c460df1fa0d
+:END:
+#+title: Fxbahvi Qqezrar Ammb NV - 1994-4-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:b94cb571-7916-42b8-a64e-4ec6ff2f232f][Fxbahvi Qqezrar Ammb]]
+- date :: 1994-4-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ab292240-2259-4fb7-be90-6dc9c6286c15
+:END:
+#+title: Xhbm Duk 1947 - 1994-10-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:2eda1631-e47a-46c1-a735-79a66d092ef5][Xhbm Duk 1947]]
+- date :: 1994-10-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

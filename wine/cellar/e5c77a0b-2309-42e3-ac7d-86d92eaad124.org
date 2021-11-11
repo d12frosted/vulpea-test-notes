@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e5c77a0b-2309-42e3-ac7d-86d92eaad124
+:END:
+#+title: Hppbtt Rvhe 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:17b2e01b-99ad-4df3-9576-08196a08f9b0][Hppbtt]]
+- name :: Rvhe
+- appellation :: [[id:97b01cf4-343f-45c3-a90d-8bb18daf5578][Hgqp Bak]]
+- grapes :: [[id:007e7126-8b07-40e2-8551-6b72ff755701][Qvspypdj]]
+- grapes :: [[id:f500e78c-1ae4-4123-a070-9c87eb417666][Ndhj Agar]]
+- alcohol :: 11.73
+- sugar :: 9.42
+- price :: 33.89 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

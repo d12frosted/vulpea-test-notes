@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fab4000d-656c-4bf2-b771-0932a08143ea
+:END:
+#+title: Xnxdlsx Siaeh Wkcor 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Siaeh Wkcor
+- vintage :: 1963
+- region :: [[id:0c128685-21dd-4458-bd1f-bad2d7a795a7][Jqjueqeo Otpj]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 12.29
+- sugar :: 10.3
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:c1ab0f97-07aa-4b6c-bc21-fa6a2c897304][Xnxdlsx Siaeh Wkcor 1963 - 2012-2-7]]

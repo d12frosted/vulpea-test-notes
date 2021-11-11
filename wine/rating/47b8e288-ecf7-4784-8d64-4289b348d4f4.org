@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       47b8e288-ecf7-4784-8d64-4289b348d4f4
+:END:
+#+title: Bhpgaqm Pslnklf Oakfqrj NV - 2007-12-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:719eb4ee-684f-4b34-8ae2-6a8a4b24a8c7][Bhpgaqm Pslnklf Oakfqrj]]
+- date :: 2007-12-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

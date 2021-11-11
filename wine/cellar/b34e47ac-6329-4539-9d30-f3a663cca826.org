@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b34e47ac-6329-4539-9d30-f3a663cca826
+:END:
+#+title: Xhbm Nreifiq Iwkh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:6b2ca36a-7f14-4133-89a8-a54548ad13ed][Xhbm]]
+- name :: Nreifiq Iwkh
+- appellation :: [[id:92c92b64-8f99-4dc2-a572-515d1f0abb38][Wlyamq]]
+- grapes :: [[id:c0c52c66-4f45-4232-886f-a154a2dbdbb1][Pluffc Dozwjpc]]
+- alcohol :: 12.28
+- sugar :: 11.29
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

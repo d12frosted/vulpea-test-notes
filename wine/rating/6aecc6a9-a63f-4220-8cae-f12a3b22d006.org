@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6aecc6a9-a63f-4220-8cae-f12a3b22d006
+:END:
+#+title: Mgdu Hncad 1923 - 2002-11-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:f0713f84-3ce5-4e9d-932f-d9ee6179e283][Mgdu Hncad 1923]]
+- date :: 2002-11-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

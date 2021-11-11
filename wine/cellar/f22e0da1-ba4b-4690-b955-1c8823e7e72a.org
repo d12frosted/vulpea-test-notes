@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f22e0da1-ba4b-4690-b955-1c8823e7e72a
+:END:
+#+title: Mgdu Lilqfw Djprn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c8582a04-9ebe-484a-a936-2b9f94ac948b][Mgdu]]
+- name :: Lilqfw Djprn
+- region :: [[id:938c50a5-7791-4a5a-bdb9-d9603b6b1cc0][Vaj]]
+- grapes :: [[id:6650dcef-9daf-4944-b00a-809ddfc5a9b3][Liw]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 10.15
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

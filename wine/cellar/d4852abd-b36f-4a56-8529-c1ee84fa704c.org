@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d4852abd-b36f-4a56-8529-c1ee84fa704c
+:END:
+#+title: Xnxdlsx Ipretbe 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Ipretbe
+- vintage :: 1920
+- region :: [[id:50278f28-f2c5-43f4-b661-0467fe293d49][Mzjervg]]
+- grapes :: [[id:92392b39-9d42-40c5-879f-c579ee9e146a][Gevespr]]
+- grapes :: [[id:f1b86869-96ef-43d4-b197-ca3d209b2a3b][Xogkg Ruxtxxui]]
+- alcohol :: 11.31
+- sugar :: 1.69
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:1dec9f90-3fd1-4d19-90d6-a56d11bcf6da][Vajkb Iuhlqlp]]
+- rating :: 4.5
+- ratings :: [[id:07a1875b-0694-498d-8ba3-0f7fed0d34f6][Xnxdlsx Ipretbe 1920 - 2013-3-19]]

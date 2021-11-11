@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       46dfda43-9440-4ab3-a4fb-8908b5ceca08
+:END:
+#+title: Bhpgaqm Pslnklf Pyywhbp Bysaz NV - 1996-8-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:a929ad7c-10b4-481d-aff0-2ff76d269454][Bhpgaqm Pslnklf Pyywhbp Bysaz]]
+- date :: 1996-8-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

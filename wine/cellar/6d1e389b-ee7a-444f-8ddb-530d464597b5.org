@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6d1e389b-ee7a-444f-8ddb-530d464597b5
+:END:
+#+title: Ajkygaf Emnb Qqaex Bvufxio 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:4fdb8223-92a8-4e46-b7d9-124fbd7561e8][Ajkygaf Emnb]]
+- name :: Qqaex Bvufxio
+- appellation :: [[id:b358031f-5575-47ed-8704-7d901defd507][Ujlnuc Hbuewng]]
+- alcohol :: 12.6
+- sugar :: 12.21
+- price :: 10.44 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA

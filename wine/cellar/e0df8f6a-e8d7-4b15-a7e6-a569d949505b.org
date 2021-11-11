@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e0df8f6a-e8d7-4b15-a7e6-a569d949505b
+:END:
+#+title: Xnxdlsx Piivhs Nopupcjg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3532ea12-0aad-4449-8368-dea2f3c56a66][Xnxdlsx]]
+- name :: Piivhs Nopupcjg
+- appellation :: [[id:0a04eabe-64e3-4b47-8dc3-b91ecec61dcf][Tpl Awctfi]]
+- grapes :: [[id:ca9fe251-5327-4c6a-9ee9-a9416bd37e95][Fsslnxmh Agft]]
+- alcohol :: 9.59
+- sugar :: 21.56
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

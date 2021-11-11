@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ae8acb25-2676-4d55-a274-29b92efe37ea
+:END:
+#+title: Ajkygaf Emnb Rlqfnag Imswntxq 1960 - 2016-6-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:bcb43997-9c70-43b5-8bd4-da173a0249b7][Ajkygaf Emnb Rlqfnag Imswntxq 1960]]
+- date :: 2016-6-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5

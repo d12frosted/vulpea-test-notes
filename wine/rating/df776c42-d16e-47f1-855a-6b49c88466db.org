@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       df776c42-d16e-47f1-855a-6b49c88466db
+:END:
+#+title: Mgdu Yyhjsywu Fuwvb 1904 - 2023-3-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:f39d4edc-665c-4d2d-ba0f-715cf95f620a][Mgdu Yyhjsywu Fuwvb 1904]]
+- date :: 2023-3-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5
