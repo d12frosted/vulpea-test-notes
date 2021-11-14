@@ -1,0 +1,20 @@
+; -*- mode: emacs-lisp; lexical-binding: t -*-
+
+(eldev-use-package-archive 'gnu)
+(eldev-use-package-archive 'nongnu)
+(eldev-use-package-archive 'melpa-unstable)
+
+;; Eldev-local is loaded after Eldev, meaning that it's impossible to
+;; set this env per user.
+(let ((path (expand-file-name "Developer/vulpea" (getenv "HOME"))))
+  (when (file-exists-p path)
+    (setenv "VULPEA_PATH" path)))
+(let ((path (expand-file-name "Developer/vino" (getenv "HOME"))))
+  (when (file-exists-p path)
+    (setenv "VINO_PATH" path)))
+
+;; Use local version of org-roam until it is released.
+(eldev-use-local-dependency (getenv "VULPEA_PATH"))
+(eldev-use-local-dependency (getenv "VINO_PATH"))
+
+(setq-default org-roam-v2-ack t)
