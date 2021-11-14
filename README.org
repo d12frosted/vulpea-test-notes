@@ -1,0 +1,112 @@
+* vulpea test notes
+:PROPERTIES:
+:ID:                     4fe3f346-d3fc-4d88-a641-459a73f21f3a
+:END:
+
+A set of generated notes for testing purposes. Used by [[https://github.com/d12frosted/vulpea][vulpea]] library.
+This repository contains the following items.
+
+1. Scripts to generate notes and database.
+2. 9k+ generated notes.
+3. =org-roam.db= for these notes. It is included along with notes,
+   because it takes few minutes to build it. In order to make it
+   usable, all file paths are converted into =org-roam-directory=
+   relative file paths. See usage instructions to learn how to restore
+   database. Also keep in mind that this database also contains extra
+   tables defined by [[https://github.com/d12frosted/vulpea][vulpea]] library.
+
+** Rebuild org-roam.db
+:PROPERTIES:
+:ID:                     7891b0a7-7449-4bf2-8d4c-b2650751a344
+:END:
+
+If you wish to simply update/synchronise =org-roam.db= file, use the
+following command.
+
+#+begin_src bash
+  $ make db
+#+end_src
+
+** Generate notes
+:PROPERTIES:
+:ID:                     6fcd7cec-b587-4a46-bd81-8dfeec560b7f
+:END:
+
+In case you wish to generate a new set of notes, use the following
+command. Please note that it might take more than an hour (because it
+uses [[https://github.com/d12frosted/vino][vino]] library to create semi-real notes).
+
+#+begin_src bash
+  $ make generate
+#+end_src
+
+** Using in tests
+:PROPERTIES:
+:ID:                     4cc6c127-8533-44c4-a91d-1f33562ae0bd
+:END:
+
+Since =org-roam= uses absolute file paths, generally =org-roam.db= is
+not portable. So in order to achieve this, all file paths in
+=org-roam.db= are turned into =org-roam-directory= relative file
+paths. In order to restore them, use the following code in your tests.
+
+#+begin_src emacs-lisp
+  (when (file-exists-p org-roam-db-location)
+    (let ((db (emacsql-sqlite org-roam-db-location)))
+      (message "Count of notes: %s"
+               (caar (emacsql db "select count(*) from nodes")))
+      (emacsql db [:pragma (= foreign_keys 0)])
+      (emacsql db (format "update nodes set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
+                          (string-remove-suffix "/" org-roam-directory)))
+      (emacsql db (format "update files set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
+                          (string-remove-suffix "/" org-roam-directory)))
+      (emacsql db (format "update notes set path = '\"' || '%s' || replace(path, '\"', '') || '\"'"
+                          (string-remove-suffix "/" org-roam-directory)))))
+#+end_src
+
+Full example of initialization can be found in [[https://github.com/d12frosted/vulpea/blob/master/test/vulpea-perf-test.el][vulpea-perf-test.el]].
+Just for future-proof reference:
+
+#+begin_src emacs-lisp
+  (cl-defun vulpea-perf--init (&key db-file-name
+                                    disable-org-roam-autosync
+                                    disable-vulpea-autosync)
+    "Initialize performance testing environment.
+
+  DB-FILE-NAME allows to override default file name of
+  `org-roam-db-location'.
+
+  When DISABLE-ORG-ROAM-AUTOSYNC is non-nil,
+  `org-roam-db-autosync-mode' will not be enabled.
+
+  When DISABLE-VULPEA-AUTOSYNC is non-nil,
+  `vulpea-db-autosync-mode' will not be enabled."
+    (let* ((temp-loc (expand-file-name (make-temp-name "note-files") temporary-file-directory))
+           (zip-file-loc (concat temp-loc ".zip"))
+           (_ (url-copy-file vulpea-perf-zip-url zip-file-loc))
+           (_ (shell-command (format "mkdir -p %s && unzip -qq %s -d %s" temp-loc zip-file-loc temp-loc)))
+           (test-notes-dir (expand-file-name
+                            (format "vulpea-test-notes-%s/"
+                                    vulpea-perf-zip-branch)
+                            temp-loc))
+           (db-file-name (or db-file-name "org-roam.db")))
+      (setq org-roam-directory (expand-file-name "notes/" test-notes-dir)
+            org-roam-db-location (expand-file-name db-file-name org-roam-directory))
+      (message "Initializing vulpea in %s" org-roam-directory)
+      ;; fix file path values
+      (when (file-exists-p org-roam-db-location)
+        (let ((db (emacsql-sqlite org-roam-db-location)))
+          (message "Count of notes: %s"
+                   (caar (emacsql db "select count(*) from nodes")))
+          (emacsql db [:pragma (= foreign_keys 0)])
+          (emacsql db (format "update nodes set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
+                              (string-remove-suffix "/" org-roam-directory)))
+          (emacsql db (format "update files set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
+                              (string-remove-suffix "/" org-roam-directory)))
+          (emacsql db (format "update notes set path = '\"' || '%s' || replace(path, '\"', '') || '\"'"
+                              (string-remove-suffix "/" org-roam-directory)))))
+      (unless disable-vulpea-autosync
+        (vulpea-db-autosync-enable))
+      (unless disable-org-roam-autosync
+        (org-roam-db-autosync-enable))))
+#+end_src
