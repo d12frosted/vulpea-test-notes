@@ -45,6 +45,17 @@
   (setq org-roam-directory dir
         org-roam-db-location (expand-file-name "org-roam.db" dir)
         vino-db-gc-threshold most-positive-fixnum)
+  (when (file-exists-p org-roam-db-location)
+    (let ((db (emacsql-sqlite org-roam-db-location)))
+      (message "Count of notes: %s"
+               (caar (emacsql db "select count(*) from nodes")))
+      (emacsql db [:pragma (= foreign_keys 0)])
+      (emacsql db (format "update nodes set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
+                          (string-remove-suffix "/" org-roam-directory)))
+      (emacsql db (format "update files set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
+                          (string-remove-suffix "/" org-roam-directory)))
+      (emacsql db (format "update notes set path = '\"' || '%s' || replace(path, '\"', '') || '\"'"
+                          (string-remove-suffix "/" org-roam-directory)))))
   (vulpea-db-autosync-enable)
   (org-roam-db-autosync-enable)
   (vino-setup)
@@ -93,6 +104,11 @@ Shuffling is done in place."
   list)
 
 
+
+(defun sync-db (dir)
+  "Synchronise `org-roam-db' in DIR."
+  (let ((notes-dir (expand-file-name "notes" dir)))
+    (init-in notes-dir)))
 
 (defun generate-data (dir &optional verbose)
   "Generate test data in DIR.
