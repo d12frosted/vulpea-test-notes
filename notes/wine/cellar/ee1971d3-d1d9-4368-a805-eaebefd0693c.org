@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ee1971d3-d1d9-4368-a805-eaebefd0693c
+:END:
+#+title: Novr Rlrt Bnv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bnv
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.09
+- price :: 62.99 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: 2.5
+- ratings :: [[id:6b3396e8-fe64-4118-aedf-300acae7a7ed][Novr Rlrt Bnv NV - 2004-6-11]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a7706e80-6ff7-4e6a-8577-704369da3670
+:END:
+#+title: Novr Rlrt Lboqwq 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lboqwq
+- vintage :: 2014
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 10.5
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.5
+- ratings :: [[id:bca8f75e-b411-4cea-b535-29999195e25f][Novr Rlrt Lboqwq 2014 - 2008-3-10]]

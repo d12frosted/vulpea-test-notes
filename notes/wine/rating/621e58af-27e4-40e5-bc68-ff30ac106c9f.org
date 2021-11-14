@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       621e58af-27e4-40e5-bc68-ff30ac106c9f
+:END:
+#+title: Vjjtw Hvrja Ziev NV - 2023-11-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:a0e64474-7eec-4cb5-a573-2ef359876fde][Vjjtw Hvrja Ziev]]
+- date :: 2023-11-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

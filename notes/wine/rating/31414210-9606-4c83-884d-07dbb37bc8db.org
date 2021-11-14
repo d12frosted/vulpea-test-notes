@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       31414210-9606-4c83-884d-07dbb37bc8db
+:END:
+#+title: Mkmt Dclnrx 1980 - 2013-1-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:35daa67f-499d-4cd1-ad02-7e26014e32fb][Mkmt Dclnrx 1980]]
+- date :: 2013-1-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

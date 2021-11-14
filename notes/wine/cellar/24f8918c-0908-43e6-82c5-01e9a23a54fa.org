@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       24f8918c-0908-43e6-82c5-01e9a23a54fa
+:END:
+#+title: Dseajc Jinm Ufsndey Jnfnhn 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ufsndey Jnfnhn
+- vintage :: 1983
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.01
+- sugar :: 20.92
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:882bc08f-38fc-46ca-af1c-c0643cc9477b][Dseajc Jinm Ufsndey Jnfnhn 1983 - 1996-8-27]]

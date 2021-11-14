@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       bfbc5a26-3e7f-4027-8317-f4821c4baf1d
+:END:
+#+title: Vjjtw Hvrja Dzg Wctlm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dzg Wctlm
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.52
+- sugar :: 19.56
+- price :: 87.33 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.5
+- ratings :: [[id:5427ac3e-6229-471d-ace0-128e8ba04082][Vjjtw Hvrja Dzg Wctlm NV - 2020-4-19]]

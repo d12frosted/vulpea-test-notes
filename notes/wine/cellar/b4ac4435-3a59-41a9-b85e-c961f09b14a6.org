@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b4ac4435-3a59-41a9-b85e-c961f09b14a6
+:END:
+#+title: Dfsxtmx Bbedcg Fhad 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Bbedcg Fhad
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 11.27
+- sugar :: 7.89
+- price :: 15.43 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

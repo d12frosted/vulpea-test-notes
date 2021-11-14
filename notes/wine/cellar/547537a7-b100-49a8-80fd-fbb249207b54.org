@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       547537a7-b100-49a8-80fd-fbb249207b54
+:END:
+#+title: Miv Sdwum 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sdwum
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.5
+- sugar :: 21.71
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1bfb4855-c449-4c11-970b-f4fd09269b41
+:END:
+#+title: Novr Rlrt Bir Wnhyzygz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bir Wnhyzygz
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.16
+- sugar :: 23.99
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

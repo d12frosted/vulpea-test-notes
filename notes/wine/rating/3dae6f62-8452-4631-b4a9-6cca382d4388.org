@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3dae6f62-8452-4631-b4a9-6cca382d4388
+:END:
+#+title: Vjjtw Hvrja Zclf 1951 - 2008-6-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:ed81d472-4e0b-41e9-908e-9dfd8f1952ae][Vjjtw Hvrja Zclf 1951]]
+- date :: 2008-6-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

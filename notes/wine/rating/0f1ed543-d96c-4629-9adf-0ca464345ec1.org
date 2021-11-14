@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0f1ed543-d96c-4629-9adf-0ca464345ec1
+:END:
+#+title: Miv Sipluiul NV - 2007-5-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:b1f4ba8a-db14-4e79-a2aa-61745ef17050][Miv Sipluiul]]
+- date :: 2007-5-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5

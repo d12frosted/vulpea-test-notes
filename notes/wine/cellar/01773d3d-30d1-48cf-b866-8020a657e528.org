@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       01773d3d-30d1-48cf-b866-8020a657e528
+:END:
+#+title: Vjjtw Hvrja Swszbdb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Swszbdb
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.52
+- sugar :: 5.99
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:27241049-7c0d-4d22-aa35-5a61535aabfd][Vjjtw Hvrja Swszbdb NV - 1997-9-12]]

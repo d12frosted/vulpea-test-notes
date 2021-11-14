@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       93a8b9a9-77af-43e2-a47d-d9f26880ecf3
+:END:
+#+title: Novr Rlrt Oibogy Phi 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Oibogy Phi
+- vintage :: 1938
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.76
+- price :: 60.51 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a7f1d9fe-02ee-44ea-9cc4-da4ab30ae93f
+:END:
+#+title: Dseajc Jinm Clou Vhv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Clou Vhv
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 13.93
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.5
+- ratings :: [[id:c586613b-58b8-4c12-b638-b5fdaa4b8254][Dseajc Jinm Clou Vhv NV - 2005-1-21]]

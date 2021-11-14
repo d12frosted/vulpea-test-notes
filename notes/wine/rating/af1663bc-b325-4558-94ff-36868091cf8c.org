@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       af1663bc-b325-4558-94ff-36868091cf8c
+:END:
+#+title: Njtzvl Rmq Ieg 1915 - 2023-2-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:617c2360-a5b0-4464-8e98-8f4d40bab332][Njtzvl Rmq Ieg 1915]]
+- date :: 2023-2-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

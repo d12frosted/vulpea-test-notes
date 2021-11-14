@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       23c135b4-cb23-40c9-ae71-360d382989d6
+:END:
+#+title: Lzf Kaislm 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Kaislm
+- vintage :: 1947
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.71
+- price :: 64.66 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

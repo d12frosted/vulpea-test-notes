@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bf632369-3bf7-4453-a1ee-4de188733b56
+:END:
+#+title: Dfsxtmx Ipokk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ipokk
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.61
+- price :: 28.30 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:19a36b77-269e-428f-a5ff-192f2f76daf5][Dfsxtmx Ipokk NV - 1999-11-26]]

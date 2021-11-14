@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d16808f6-daf0-407e-954e-7f6ede3feb47
+:END:
+#+title: Mkmt Ywyajq Kgxlmdu 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ywyajq Kgxlmdu
+- vintage :: 1917
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.71
+- sugar :: 12.44
+- price :: 30.35 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

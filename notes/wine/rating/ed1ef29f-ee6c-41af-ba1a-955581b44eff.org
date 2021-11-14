@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ed1ef29f-ee6c-41af-ba1a-955581b44eff
+:END:
+#+title: Miv Olzk NV - 2021-7-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:134d6d9e-8049-49ae-8d90-1636d22e5884][Miv Olzk]]
+- date :: 2021-7-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

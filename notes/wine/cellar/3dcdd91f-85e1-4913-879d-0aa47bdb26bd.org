@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3dcdd91f-85e1-4913-879d-0aa47bdb26bd
+:END:
+#+title: Njtzvl Ftxwsfk Olfzju 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ftxwsfk Olfzju
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.28
+- sugar :: 7.21
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

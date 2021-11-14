@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2a783add-e7f9-4a25-b072-c8bdf18d897e
+:END:
+#+title: Dfsxtmx Yeowxabm Loguoh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Yeowxabm Loguoh
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 10.96
+- sugar :: 20.31
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:a1f90fdb-2b72-4f94-bb08-38b84d08110f][Dfsxtmx Yeowxabm Loguoh NV - 2012-12-17]]

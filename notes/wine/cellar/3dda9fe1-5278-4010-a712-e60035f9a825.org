@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3dda9fe1-5278-4010-a712-e60035f9a825
+:END:
+#+title: Vjjtw Hvrja Jpisgu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Jpisgu
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 11.89
+- sugar :: 3.05
+- price :: 39.37 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

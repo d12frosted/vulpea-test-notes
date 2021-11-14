@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e9fb2e9c-4b0c-4335-8e5e-b08c104cff8c
+:END:
+#+title: Miv Uucirzik Qafzi NV - 1998-9-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:752d0aff-c1c5-49d7-988a-2c91b0aca5ac][Miv Uucirzik Qafzi]]
+- date :: 1998-9-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a4117c6f-d911-4406-aa1f-027c51a6d8fc
+:END:
+#+title: Mkmt Zjfz 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zjfz
+- vintage :: 1958
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.79
+- sugar :: 11.92
+- price :: 12.95 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cbc75434-051e-4099-aa05-622d576eca09
+:END:
+#+title: Dseajc Jinm Pfyqcx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Pfyqcx
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.620000000000001
+- sugar :: 9.6
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

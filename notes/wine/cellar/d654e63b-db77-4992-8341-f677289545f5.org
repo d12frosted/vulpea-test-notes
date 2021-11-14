@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d654e63b-db77-4992-8341-f677289545f5
+:END:
+#+title: Mkmt Ijmleyz 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ijmleyz
+- vintage :: 1967
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 11.99
+- sugar :: 14.61
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a6a7c603-43da-4ed5-a06e-7a2e1a3025fa
+:END:
+#+title: Njtzvl Ztsk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ztsk
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.08
+- sugar :: 18.89
+- price :: 16.03 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.0
+- ratings :: [[id:c993d7fa-2d91-458d-a62f-44a23606576f][Njtzvl Ztsk NV - 2020-4-25]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4fdbd534-328d-4b38-9f8f-3a01928d0a9d
+:END:
+#+title: Miv Coyll 1995 - 2013-11-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:b50bd1ff-e57f-4f57-ae9b-735d60b126e8][Miv Coyll 1995]]
+- date :: 2013-11-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

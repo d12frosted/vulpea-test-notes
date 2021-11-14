@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       468b0183-8cda-486c-b880-e8cb13b0b7df
+:END:
+#+title: Mkmt Wscbia 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Wscbia
+- vintage :: 1978
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.8
+- sugar :: 9.28
+- price :: 9.07 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:1fe48737-0afd-4eab-a045-686d7c3f88ab][Mkmt Wscbia 1978 - 2015-3-27]]

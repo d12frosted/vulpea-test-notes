@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2cd54f87-208a-498c-bdfa-fb2bd340e1f8
+:END:
+#+title: Dfsxtmx Vqce Jpjec 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vqce Jpjec
+- vintage :: 1946
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.51
+- price :: 63.03 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:30ee7cae-8e8a-4e4a-aa13-cf2ee057a327][Dfsxtmx Vqce Jpjec 1946 - 2021-4-8]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1179ccbb-7531-432b-b2cb-ef82aa2f350c
+:END:
+#+title: Miv Wdzok 1960 - 2001-2-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:6d376273-8485-4b52-ac35-c3ab25c9517a][Miv Wdzok 1960]]
+- date :: 2001-2-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

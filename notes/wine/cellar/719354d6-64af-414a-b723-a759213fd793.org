@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       719354d6-64af-414a-b723-a759213fd793
+:END:
+#+title: Miv Eroxltbs 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Eroxltbs
+- vintage :: 1925
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.9
+- sugar :: 0.38
+- price :: 26.68 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

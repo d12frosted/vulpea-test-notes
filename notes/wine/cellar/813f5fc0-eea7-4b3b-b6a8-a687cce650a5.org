@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       813f5fc0-eea7-4b3b-b6a8-a687cce650a5
+:END:
+#+title: Lzf Dqcblxqe Lmnlqy 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Dqcblxqe Lmnlqy
+- vintage :: 1935
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.86
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.5
+- ratings :: [[id:0ec8c103-1d31-49c4-be21-8d8027986694][Lzf Dqcblxqe Lmnlqy 1935 - 2021-9-17]]

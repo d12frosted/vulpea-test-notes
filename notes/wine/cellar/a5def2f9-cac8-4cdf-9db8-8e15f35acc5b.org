@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a5def2f9-cac8-4cdf-9db8-8e15f35acc5b
+:END:
+#+title: Njtzvl Nxjxs 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Nxjxs
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.629999999999999
+- sugar :: 21.45
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

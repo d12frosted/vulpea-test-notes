@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       86bfed62-cd69-4a2c-9ad6-22b292e0b749
+:END:
+#+title: Lzf Fgy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Fgy
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.35
+- sugar :: 13.36
+- price :: 80.98 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:37e762fa-a75a-4f23-9d52-f061e0c52278][Lzf Fgy NV - 2000-4-9]]

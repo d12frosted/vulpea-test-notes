@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a8c7d4ee-71af-4a89-8239-b9af68523033
+:END:
+#+title: Lzf Ynxxttss Kfyk 1990 - 2021-11-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:611792e4-da01-4692-9191-73f7abb40091][Lzf Ynxxttss Kfyk 1990]]
+- date :: 2021-11-19
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d80d09ea-421c-43a0-9a93-8fb59143e99b
+:END:
+#+title: Vjjtw Hvrja Egvbmk NV - 2017-1-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:729f7ee2-f459-4bde-b661-7adbfa80390d][Vjjtw Hvrja Egvbmk]]
+- date :: 2017-1-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

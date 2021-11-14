@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7c05098a-bfb4-4be3-b1f9-2a9a7d9e834c
+:END:
+#+title: Miv Jomv Gbwicqqq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Jomv Gbwicqqq
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.23
+- sugar :: 13.78
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

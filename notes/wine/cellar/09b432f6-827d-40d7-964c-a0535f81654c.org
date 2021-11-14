@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       09b432f6-827d-40d7-964c-a0535f81654c
+:END:
+#+title: Miv Ayoqj Zqsyqvw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ayoqj Zqsyqvw
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.53
+- sugar :: 17.01
+- price :: 37.80 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

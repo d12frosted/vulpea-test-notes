@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2d2f3c9b-ce36-4d60-84bc-795fe96fa333
+:END:
+#+title: Novr Rlrt Dguzy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Dguzy
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 13.120000000000001
+- price :: 96.98 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

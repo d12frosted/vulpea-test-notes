@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       9aaa5f47-00e6-490b-a58f-e4ebee02dbdc
+:END:
+#+title: Mkmt Ffeltj Zdpjwdh 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ffeltj Zdpjwdh
+- vintage :: 1943
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.5
+- sugar :: 1.87
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:5fc2071f-7a2f-4f76-87f3-5edfdf6860ff][Mkmt Ffeltj Zdpjwdh 1943 - 2020-12-26]]

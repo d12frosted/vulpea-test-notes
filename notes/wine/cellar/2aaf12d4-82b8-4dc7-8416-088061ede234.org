@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2aaf12d4-82b8-4dc7-8416-088061ede234
+:END:
+#+title: Miv Xjoukl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xjoukl
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.86
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:c26f11e3-27ef-44e6-98e5-0a6fe2a12df8][Miv Xjoukl NV - 2014-2-25]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       44ea3651-59b6-4a3b-a4a2-f260de3b9a30
+:END:
+#+title: Vjjtw Hvrja Uhu 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Uhu
+- vintage :: 2003
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.07
+- sugar :: 4.5
+- price :: 12.91 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

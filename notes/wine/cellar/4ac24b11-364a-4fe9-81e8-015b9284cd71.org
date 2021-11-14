@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4ac24b11-364a-4fe9-81e8-015b9284cd71
+:END:
+#+title: Rue Lph Dcblbs 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Lph Dcblbs
+- vintage :: 2002
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.8
+- price :: 56.90 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:372db138-19c4-46ed-8c0d-0d363fa43089][Rue Lph Dcblbs 2002 - 2012-2-4]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5fa245d1-c9c2-40a7-b8d2-fe9518b24669
+:END:
+#+title: Rue Ehlm Brobupgj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ehlm Brobupgj
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.58
+- price :: 74.29 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

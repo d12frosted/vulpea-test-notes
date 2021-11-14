@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3649669a-431b-403a-a93f-869fcedb1bcc
+:END:
+#+title: Vjjtw Hvrja Dow Bxf 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dow Bxf
+- vintage :: 1948
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.52
+- sugar :: 8.4
+- price :: 55.91 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

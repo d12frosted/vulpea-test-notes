@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d9c10677-4067-42c5-b4ce-20bc9b1f9740
+:END:
+#+title: Miv Ldjpg NV - 2009-8-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:350248ab-107a-4fff-b612-40efbb274445][Miv Ldjpg]]
+- date :: 2009-8-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

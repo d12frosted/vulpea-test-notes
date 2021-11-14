@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       687b72e7-63e2-428c-ae50-e68e9d17ac9a
+:END:
+#+title: Dfsxtmx Rwjvcl 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rwjvcl
+- vintage :: 1994
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 10.0
+- sugar :: 22.98
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       41e18356-8a3c-4cfa-ae82-5611e7b23b89
+:END:
+#+title: Rue Khibnfi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Khibnfi
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.57
+- sugar :: 21.43
+- price :: 48.27 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

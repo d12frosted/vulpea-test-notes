@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       59d00c89-259d-401e-b81b-02e4babd1a51
+:END:
+#+title: Cdeexg Vdurs NV - 2017-8-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:12aee567-e467-4677-9199-f9abecfa04c0][Cdeexg Vdurs]]
+- date :: 2017-8-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       54fed6b7-d13a-4bbd-bbb7-292ab6148d2d
+:END:
+#+title: Vjjtw Hvrja Ielgcu Wfyvpode NV - 2021-3-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:7f2a3c38-254e-49a8-a046-fad6afcf26a2][Vjjtw Hvrja Ielgcu Wfyvpode]]
+- date :: 2021-3-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

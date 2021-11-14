@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d3f3bd39-84fc-4fd9-8228-cdf75cc396b6
+:END:
+#+title: Cdeexg Yahc Dbzpjx 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Yahc Dbzpjx
+- vintage :: 1909
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.59
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

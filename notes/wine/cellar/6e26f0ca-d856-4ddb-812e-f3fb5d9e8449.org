@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6e26f0ca-d856-4ddb-812e-f3fb5d9e8449
+:END:
+#+title: Rue Nhax Nycxa 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Nhax Nycxa
+- vintage :: 1974
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.86
+- sugar :: 5.3
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

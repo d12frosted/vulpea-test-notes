@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       248f8ff8-ef43-4233-b365-2ac3c9e867a5
+:END:
+#+title: Miv Ydn NV - 2016-12-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:d08496f0-808a-4c1e-acd1-e7b65060a261][Miv Ydn]]
+- date :: 2016-12-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

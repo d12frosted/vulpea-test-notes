@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d241ee4c-177a-44e4-8a7b-8bc9bee62620
+:END:
+#+title: Njtzvl Ynjgotbv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ynjgotbv
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 10.18
+- sugar :: 2.46
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.0
+- ratings :: [[id:1d433f1c-5edd-4d21-97d6-92066c4b806d][Njtzvl Ynjgotbv NV - 2007-8-18]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ef2ee9d6-8f0c-42d0-90b2-8b9a7229329a
+:END:
+#+title: Dfsxtmx Hhtxtfzf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Hhtxtfzf
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.17
+- sugar :: 20.42
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.5
+- ratings :: [[id:0c249920-ee65-4bd6-90f2-e75f2f5be4b8][Dfsxtmx Hhtxtfzf NV - 2008-5-16]]

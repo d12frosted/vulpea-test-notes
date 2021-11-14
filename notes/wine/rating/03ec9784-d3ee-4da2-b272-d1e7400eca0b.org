@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       03ec9784-d3ee-4da2-b272-d1e7400eca0b
+:END:
+#+title: Novr Rlrt Oggjid NV - 2009-10-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:a027c555-d7e0-4f28-a315-93e6ef9802c2][Novr Rlrt Oggjid]]
+- date :: 2009-10-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

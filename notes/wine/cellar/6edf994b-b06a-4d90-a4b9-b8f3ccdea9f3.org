@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6edf994b-b06a-4d90-a4b9-b8f3ccdea9f3
+:END:
+#+title: Lzf Iqrdwkj Spx 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Iqrdwkj Spx
+- vintage :: 1915
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.98
+- sugar :: 21.1
+- price :: 31.27 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

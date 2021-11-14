@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c7943547-881f-4a79-a92a-958b403750a7
+:END:
+#+title: Dseajc Jinm Jed Mqqdmxk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jed Mqqdmxk
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.59
+- sugar :: 14.95
+- price :: 56.49 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 7.0
+- ratings :: [[id:29d264c3-d359-4db6-8db1-159a418d6ff0][Dseajc Jinm Jed Mqqdmxk NV - 2023-6-11]]

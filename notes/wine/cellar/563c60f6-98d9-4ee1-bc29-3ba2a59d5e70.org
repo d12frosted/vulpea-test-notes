@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       563c60f6-98d9-4ee1-bc29-3ba2a59d5e70
+:END:
+#+title: Dseajc Jinm Yuedfvzu Ebhy 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Yuedfvzu Ebhy
+- vintage :: 2017
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 10.870000000000001
+- price :: 47.72 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

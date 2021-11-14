@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       caf7b038-f23c-403a-a90e-9e3c0368520c
+:END:
+#+title: Cdeexg Svxmx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Svxmx
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.44
+- price :: 76.40 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:1351d594-97c2-448a-a809-5b5d8c81f424][Cdeexg Svxmx NV - 2005-7-14]]

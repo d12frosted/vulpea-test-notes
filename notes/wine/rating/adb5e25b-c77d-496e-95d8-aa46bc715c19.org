@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       adb5e25b-c77d-496e-95d8-aa46bc715c19
+:END:
+#+title: Rue Aqwhcmrk NV - 1995-12-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:a0b96912-dc9c-4316-b584-4c53637acffc][Rue Aqwhcmrk]]
+- date :: 1995-12-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

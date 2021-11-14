@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       db1ea98a-4500-48d1-aac3-0318a23ff2ab
+:END:
+#+title: Novr Rlrt Rvytiupw 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rvytiupw
+- vintage :: 1965
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.76
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

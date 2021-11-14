@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       aa6dc1cd-ecd5-4d5f-8299-557edc443c77
+:END:
+#+title: Novr Rlrt Bjx Cpm 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bjx Cpm
+- vintage :: 2016
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.309999999999999
+- price :: 19.60 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

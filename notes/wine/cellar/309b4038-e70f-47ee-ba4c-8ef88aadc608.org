@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       309b4038-e70f-47ee-ba4c-8ef88aadc608
+:END:
+#+title: Novr Rlrt Ndmlfmyx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ndmlfmyx
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.48
+- sugar :: 4.0
+- price :: 38.38 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:36e0e7ac-7614-436f-ae30-8ee722cd7264][Novr Rlrt Ndmlfmyx NV - 2019-4-8]]

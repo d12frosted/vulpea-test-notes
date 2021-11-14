@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6c6ba755-4c51-486b-852d-89a18e377b8f
+:END:
+#+title: Njtzvl Zsioio Acmoea 1904 - 2020-11-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:17c1c990-0bc3-4741-b9d6-ba1859525123][Njtzvl Zsioio Acmoea 1904]]
+- date :: 2020-11-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

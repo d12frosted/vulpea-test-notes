@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       44f64cbd-3408-4295-b652-c3284801e08b
+:END:
+#+title: Rue Ghdm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ghdm
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.24
+- sugar :: 13.57
+- price :: 78.55 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

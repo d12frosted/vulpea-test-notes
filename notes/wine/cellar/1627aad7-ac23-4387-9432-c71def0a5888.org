@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1627aad7-ac23-4387-9432-c71def0a5888
+:END:
+#+title: Lzf Mzvhhsb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mzvhhsb
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.46
+- price :: 63.45 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

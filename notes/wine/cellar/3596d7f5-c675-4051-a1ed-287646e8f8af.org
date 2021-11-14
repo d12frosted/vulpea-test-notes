@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3596d7f5-c675-4051-a1ed-287646e8f8af
+:END:
+#+title: Njtzvl Huen 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Huen
+- vintage :: 1982
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.62
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

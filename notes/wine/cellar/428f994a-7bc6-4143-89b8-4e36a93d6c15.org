@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       428f994a-7bc6-4143-89b8-4e36a93d6c15
+:END:
+#+title: Dfsxtmx Fdbjhi Mozimb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Fdbjhi Mozimb
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.77
+- price :: 29.60 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

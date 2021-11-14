@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3dddadc2-1cf2-42b7-8d8c-fcf7deb776d3
+:END:
+#+title: Njtzvl Iczpab 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Iczpab
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.29
+- price :: 65.88 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.0
+- ratings :: [[id:66a586e1-9f24-4cb5-8b75-0441f2dfa2ed][Njtzvl Iczpab NV - 2018-11-15]]

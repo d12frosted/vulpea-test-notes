@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c7bc30b7-33a6-4e50-83f0-4d9c8c6fe0d9
+:END:
+#+title: Miv Vswizphq 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vswizphq
+- vintage :: 1951
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.120000000000001
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

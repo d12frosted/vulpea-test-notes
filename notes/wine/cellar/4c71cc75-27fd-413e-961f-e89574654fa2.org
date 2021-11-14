@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4c71cc75-27fd-413e-961f-e89574654fa2
+:END:
+#+title: Vjjtw Hvrja Cra Cwwaql 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Cra Cwwaql
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.71
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:c6a06326-ef1c-4fde-924a-f3c7060d0ec3][Vjjtw Hvrja Cra Cwwaql NV - 2014-4-26]]

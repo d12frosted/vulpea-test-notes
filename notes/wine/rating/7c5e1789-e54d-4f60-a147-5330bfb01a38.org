@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7c5e1789-e54d-4f60-a147-5330bfb01a38
+:END:
+#+title: Lzf Mbpwhhw NV - 2008-7-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:d515e38f-37ad-42ad-8351-65dbd09abdce][Lzf Mbpwhhw]]
+- date :: 2008-7-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

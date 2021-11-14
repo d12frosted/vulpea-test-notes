@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       df5f6c67-8fb5-4a8d-b00f-531e618c82a2
+:END:
+#+title: Njtzvl Utuvdxec 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Utuvdxec
+- vintage :: 1919
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.66
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

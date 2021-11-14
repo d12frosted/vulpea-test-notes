@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fe42aeb5-77ed-44cb-84da-87ebb66b8635
+:END:
+#+title: Miv Xftlnh 1937 - 2017-1-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:5c9c582c-0f5e-4aea-be33-80b674fe1b6a][Miv Xftlnh 1937]]
+- date :: 2017-1-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       391766d6-54d2-4826-9ad5-a67d2f0bcb1b
+:END:
+#+title: Mkmt Lmcggmi 1929 - 1992-12-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:7ab092ad-e571-4ccf-a169-7ab6051348c3][Mkmt Lmcggmi 1929]]
+- date :: 1992-12-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9d938c6f-7d8c-471f-abf9-d94b357d5728
+:END:
+#+title: Njtzvl Zhlyoh Xpxmt 2016 - 1990-2-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:91acf7ab-ad4c-4892-b302-ea0586013cb6][Njtzvl Zhlyoh Xpxmt 2016]]
+- date :: 1990-2-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

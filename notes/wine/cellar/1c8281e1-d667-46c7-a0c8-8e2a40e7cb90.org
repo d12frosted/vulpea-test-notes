@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1c8281e1-d667-46c7-a0c8-8e2a40e7cb90
+:END:
+#+title: Njtzvl Tzhl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Tzhl
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.89
+- sugar :: 13.97
+- price :: 73.16 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:78786d61-bd6c-46b4-b5fb-3cfc1f0c1f0f][Njtzvl Tzhl NV - 2021-5-22]]

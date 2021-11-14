@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       58d9a1cb-d6cb-403c-a7ec-c689b9569bdd
+:END:
+#+title: Vjjtw Hvrja Yexgm Tmxik 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Yexgm Tmxik
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.18
+- sugar :: 23.22
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

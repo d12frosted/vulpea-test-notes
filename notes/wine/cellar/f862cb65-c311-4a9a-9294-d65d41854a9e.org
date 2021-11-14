@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f862cb65-c311-4a9a-9294-d65d41854a9e
+:END:
+#+title: Cdeexg Txgab Dhaq 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Txgab Dhaq
+- vintage :: 1994
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.02
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 7.5
+- ratings :: [[id:30d9109f-9733-4485-b6de-c6a94d46a740][Cdeexg Txgab Dhaq 1994 - 2002-6-5]]

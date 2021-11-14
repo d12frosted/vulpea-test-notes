@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       36051d2e-fbb1-4b54-907b-ed4c14562beb
+:END:
+#+title: Rue Oxcsoug 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Oxcsoug
+- vintage :: 1920
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 11.77
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

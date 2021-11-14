@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5bc9ed97-976a-4a5d-b824-5e5805b538c1
+:END:
+#+title: Miv Oxwzovd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Oxwzovd
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.77
+- sugar :: 3.32
+- price :: 21.20 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: wikipedia
+- rating :: NA

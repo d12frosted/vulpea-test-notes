@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       eb096daa-7672-4b01-9053-355871e81dba
+:END:
+#+title: Rue Jnwv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jnwv
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 11.5
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:5e41e15a-3656-403d-ba08-5ddcfe646706][Rue Jnwv NV - 2010-6-3]]

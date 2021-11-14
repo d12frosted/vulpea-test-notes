@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       dc6e5f30-5547-431e-826c-5d152f52d437
+:END:
+#+title: Dseajc Jinm Ukqorb Pthxc 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ukqorb Pthxc
+- vintage :: 1996
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 13.8
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

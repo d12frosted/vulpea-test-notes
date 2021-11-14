@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3a2a6274-9f02-4c4e-9ecf-96d1b20a6251
+:END:
+#+title: Dseajc Jinm Ggb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ggb
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 13.89
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

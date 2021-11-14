@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2d29d0de-0173-4f7a-b58b-85ec0b1e80cd
+:END:
+#+title: Cdeexg Smgy 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Smgy
+- vintage :: 2010
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.91
+- sugar :: 15.8
+- price :: 69.23 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f483f538-b3ae-4f20-b44f-a32e7e09f058
+:END:
+#+title: Mkmt Ocw 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ocw
+- vintage :: 1986
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.15
+- sugar :: 6.9
+- price :: 95.07 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 4.0
+- ratings :: [[id:ff8cd454-7356-47ae-8f9e-8e36e2a230fc][Mkmt Ocw 1986 - 1996-12-27]]

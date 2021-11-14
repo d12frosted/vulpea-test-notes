@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4f3094cb-6123-4dc9-9d6c-c16e502f6f00
+:END:
+#+title: Cdeexg Lbxv Yitlqf NV - 1993-8-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:58dd4380-a16c-46bc-bd32-7eca73ad0b30][Cdeexg Lbxv Yitlqf]]
+- date :: 1993-8-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

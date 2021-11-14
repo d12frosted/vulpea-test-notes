@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c06bd1fb-d411-4ad3-867a-c7b3102e4e08
+:END:
+#+title: Rue Utfpnyzv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Utfpnyzv
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.71
+- sugar :: 6.51
+- price :: 90.24 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:bbda2bbe-f363-4f13-8e86-cf11fdd576d2][Rue Utfpnyzv NV - 2017-5-27]]

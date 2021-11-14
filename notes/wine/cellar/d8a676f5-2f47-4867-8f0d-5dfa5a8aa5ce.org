@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d8a676f5-2f47-4867-8f0d-5dfa5a8aa5ce
+:END:
+#+title: Cdeexg Aiaytadb Zsbukfqf 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Aiaytadb Zsbukfqf
+- vintage :: 1957
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.75
+- sugar :: 20.96
+- price :: 44.07 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:3eddbf49-3262-4d6f-920f-69ad4e347caf][Cdeexg Aiaytadb Zsbukfqf 1957 - 2007-6-27]]

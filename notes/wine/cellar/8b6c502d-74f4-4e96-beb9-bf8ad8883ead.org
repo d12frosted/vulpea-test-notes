@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8b6c502d-74f4-4e96-beb9-bf8ad8883ead
+:END:
+#+title: Dfsxtmx Jevxp Ghawtvp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Jevxp Ghawtvp
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 11.44
+- sugar :: 23.42
+- price :: 72.23 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

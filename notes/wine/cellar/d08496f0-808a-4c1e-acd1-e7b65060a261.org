@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d08496f0-808a-4c1e-acd1-e7b65060a261
+:END:
+#+title: Miv Ydn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ydn
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.25
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 2.5
+- ratings :: [[id:248f8ff8-ef43-4233-b365-2ac3c9e867a5][Miv Ydn NV - 2016-12-20]]

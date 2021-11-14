@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bec9e4b0-1e90-4390-b72b-eb431d2142a0
+:END:
+#+title: Cdeexg Ypkz Xdtzod 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ypkz Xdtzod
+- vintage :: 1954
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.870000000000001
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:7b07ff52-e1f2-4274-a163-8dbb524743d7][Cdeexg Ypkz Xdtzod 1954 - 2005-4-7]]

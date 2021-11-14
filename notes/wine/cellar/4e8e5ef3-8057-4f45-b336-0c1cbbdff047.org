@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4e8e5ef3-8057-4f45-b336-0c1cbbdff047
+:END:
+#+title: Vjjtw Hvrja Picubpuo Drvaw 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Picubpuo Drvaw
+- vintage :: 1900
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.71
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

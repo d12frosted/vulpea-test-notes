@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c6632141-36d1-4e8e-88e2-7105c7bc6c1e
+:END:
+#+title: Njtzvl Mdv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Mdv
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.36
+- sugar :: 17.22
+- price :: 78.08 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:c521ac97-cb3f-41ad-832f-fd2391d49cbe][Njtzvl Mdv NV - 2022-10-19]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       58e1dd32-e5db-451c-bc40-c69bd3f33bfd
+:END:
+#+title: Dseajc Jinm Zbalvlff 2009 - 1993-2-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:689eb1f9-5a74-4b2b-abce-37fdac99a497][Dseajc Jinm Zbalvlff 2009]]
+- date :: 1993-2-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

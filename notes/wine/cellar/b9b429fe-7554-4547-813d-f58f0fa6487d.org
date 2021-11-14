@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b9b429fe-7554-4547-813d-f58f0fa6487d
+:END:
+#+title: Njtzvl Yczqun Zdnyyszh 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Yczqun Zdnyyszh
+- vintage :: 2019
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.82
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:883d6afb-e239-4a4c-9aef-1133f79f8fe5][Njtzvl Yczqun Zdnyyszh 2019 - 2005-2-23]]

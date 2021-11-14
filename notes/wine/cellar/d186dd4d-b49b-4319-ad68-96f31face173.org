@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d186dd4d-b49b-4319-ad68-96f31face173
+:END:
+#+title: Rue Jaqoocs Jnl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jaqoocs Jnl
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.64
+- price :: 69.29 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

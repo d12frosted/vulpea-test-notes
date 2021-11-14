@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       111353b8-7a6b-4039-bfb3-8ba9ace4dece
+:END:
+#+title: Lzf Zbtjxghf 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Zbtjxghf
+- vintage :: 1940
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.51
+- price :: 85.96 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

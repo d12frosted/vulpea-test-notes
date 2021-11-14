@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ce1dcdc9-ffcf-4c71-adcd-23b8f70b8790
+:END:
+#+title: Miv Noyssa Frhengj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Noyssa Frhengj
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.58
+- sugar :: 13.09
+- price :: 22.93 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:b8c28962-a362-4f16-be23-bbc3d819dec6][Miv Noyssa Frhengj NV - 1999-8-22]]

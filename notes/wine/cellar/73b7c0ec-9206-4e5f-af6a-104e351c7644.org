@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       73b7c0ec-9206-4e5f-af6a-104e351c7644
+:END:
+#+title: Rue Uyew Rbuc 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Uyew Rbuc
+- vintage :: 1970
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 12.36
+- sugar :: 21.53
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:a58fcadc-6888-41be-9326-82192e4a520a][Rue Uyew Rbuc 1970 - 1998-12-8]]

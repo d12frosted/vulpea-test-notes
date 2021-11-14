@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       039653e9-2a03-4387-88cc-ffb844929ce8
+:END:
+#+title: Miv Bmbjqyou 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Bmbjqyou
+- vintage :: 1933
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 9.66
+- price :: 65.64 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:4060f666-69e4-4932-88b6-786c1a782c6e][Miv Bmbjqyou 1933 - 2023-5-13]]

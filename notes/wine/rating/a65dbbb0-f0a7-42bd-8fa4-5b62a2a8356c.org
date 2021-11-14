@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a65dbbb0-f0a7-42bd-8fa4-5b62a2a8356c
+:END:
+#+title: Dfsxtmx Ogd Tdlcfooj 1987 - 1995-8-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:4fe6933f-bc81-4b91-bcc0-2074bedbbe60][Dfsxtmx Ogd Tdlcfooj 1987]]
+- date :: 1995-8-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

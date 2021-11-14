@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bd98552b-8e25-43c5-991b-6eadc85db943
+:END:
+#+title: Lzf Lmzylnj Sslkypzy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Lmzylnj Sslkypzy
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.52
+- sugar :: 3.76
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA

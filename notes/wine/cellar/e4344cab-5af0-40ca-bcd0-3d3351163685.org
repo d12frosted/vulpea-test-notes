@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e4344cab-5af0-40ca-bcd0-3d3351163685
+:END:
+#+title: Rue Dtly Oza 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Dtly Oza
+- vintage :: 1911
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.34
+- sugar :: 4.86
+- price :: 36.31 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

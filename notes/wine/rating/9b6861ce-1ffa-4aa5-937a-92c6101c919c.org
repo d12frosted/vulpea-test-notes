@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9b6861ce-1ffa-4aa5-937a-92c6101c919c
+:END:
+#+title: Novr Rlrt Jno Knoj NV - 2000-5-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:e40841e2-a045-4fed-95db-7fcfd5a1c979][Novr Rlrt Jno Knoj]]
+- date :: 2000-5-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

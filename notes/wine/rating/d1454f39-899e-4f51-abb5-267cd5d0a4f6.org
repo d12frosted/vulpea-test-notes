@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d1454f39-899e-4f51-abb5-267cd5d0a4f6
+:END:
+#+title: Rue Bbb Mefm 1902 - 1994-3-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:31f3bf69-9261-4843-8e8d-30e2ec699e60][Rue Bbb Mefm 1902]]
+- date :: 1994-3-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

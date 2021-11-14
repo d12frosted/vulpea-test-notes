@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       161d735c-dc6c-4d5f-b7e8-85da10702b84
+:END:
+#+title: Mkmt Zmsw Eqok 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zmsw Eqok
+- vintage :: 1983
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.78
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

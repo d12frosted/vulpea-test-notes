@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f8f3e281-6162-48ee-bbb4-fe1a1ce68759
+:END:
+#+title: Dfsxtmx Gcyrq Xcswfsej 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gcyrq Xcswfsej
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.69
+- sugar :: 14.5
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:f5d8db4a-0bb6-45ee-9949-9d9fc741fec6][Dfsxtmx Gcyrq Xcswfsej NV - 2010-10-7]]

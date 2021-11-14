@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       996739e5-d8df-4e64-9c6a-fede001b6ed1
+:END:
+#+title: Dseajc Jinm Emi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Emi
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.65
+- price :: 22.99 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a2e21298-bbc5-4e26-ba9d-82c1924d9ef8
+:END:
+#+title: Dfsxtmx Npvczre 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Npvczre
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.92
+- sugar :: 3.67
+- price :: 80.43 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:9f348f28-fc63-4f1d-a028-4e009fcafa55][Dfsxtmx Npvczre NV - 1999-9-5]]

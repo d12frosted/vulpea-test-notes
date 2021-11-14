@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7f20d999-e93e-4d65-98c7-ab5e57b506d1
+:END:
+#+title: Rue Vqkkt NV - 2016-1-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:569d2704-a325-49d7-82c0-c07182e556e3][Rue Vqkkt]]
+- date :: 2016-1-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

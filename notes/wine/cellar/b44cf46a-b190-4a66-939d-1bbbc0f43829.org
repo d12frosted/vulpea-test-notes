@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b44cf46a-b190-4a66-939d-1bbbc0f43829
+:END:
+#+title: Miv Mtjtqea 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mtjtqea
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.6
+- sugar :: 14.19
+- price :: 96.93 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

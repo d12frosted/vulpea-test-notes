@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d892e186-9bd1-4b23-a15b-f6788cfd5fff
+:END:
+#+title: Vjjtw Hvrja Lobn 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Lobn
+- vintage :: 1984
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.78
+- sugar :: 11.48
+- price :: 92.40 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

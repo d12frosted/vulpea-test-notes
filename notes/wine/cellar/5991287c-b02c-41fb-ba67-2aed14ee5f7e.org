@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5991287c-b02c-41fb-ba67-2aed14ee5f7e
+:END:
+#+title: Dfsxtmx Exl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Exl
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.03
+- sugar :: 7.06
+- price :: 102.87 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

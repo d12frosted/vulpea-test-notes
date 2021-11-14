@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       97babcbe-7dec-448f-9641-fd6af3289290
+:END:
+#+title: Vjjtw Hvrja Gedzybi Smgcs 1901 - 2011-3-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:0cdf2001-6716-426b-948d-c5850c309307][Vjjtw Hvrja Gedzybi Smgcs 1901]]
+- date :: 2011-3-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

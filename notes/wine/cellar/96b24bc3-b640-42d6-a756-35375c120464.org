@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       96b24bc3-b640-42d6-a756-35375c120464
+:END:
+#+title: Mkmt Sxqlh Otugtjtj 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Sxqlh Otugtjtj
+- vintage :: 2011
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.76
+- sugar :: 17.14
+- price :: 79.91 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

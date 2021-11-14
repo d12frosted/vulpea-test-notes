@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       18635767-dfa4-47b1-af4e-897b9f518be4
+:END:
+#+title: Dfsxtmx Fxdy 1924 - 1998-10-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:05d5c13d-4ece-42d0-a40e-a8d4460366b2][Dfsxtmx Fxdy 1924]]
+- date :: 1998-10-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

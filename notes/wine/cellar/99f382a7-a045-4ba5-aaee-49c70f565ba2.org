@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       99f382a7-a045-4ba5-aaee-49c70f565ba2
+:END:
+#+title: Mkmt Btbdbfcj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Btbdbfcj
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.78
+- sugar :: 0.49
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

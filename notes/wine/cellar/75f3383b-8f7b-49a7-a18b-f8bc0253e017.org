@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       75f3383b-8f7b-49a7-a18b-f8bc0253e017
+:END:
+#+title: Njtzvl Lppbpff 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lppbpff
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.120000000000001
+- sugar :: 21.03
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:8db2f8ed-db9e-42fc-88f7-8df8877d1da8][Njtzvl Lppbpff NV - 2004-7-3]]

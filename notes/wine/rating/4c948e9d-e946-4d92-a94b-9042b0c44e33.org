@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4c948e9d-e946-4d92-a94b-9042b0c44e33
+:END:
+#+title: Dseajc Jinm Ysirvh NV - 1992-9-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:6cfdf969-e257-4353-8738-504857136aa0][Dseajc Jinm Ysirvh]]
+- date :: 1992-9-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

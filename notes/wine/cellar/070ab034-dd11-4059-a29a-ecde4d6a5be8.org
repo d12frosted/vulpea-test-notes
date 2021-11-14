@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       070ab034-dd11-4059-a29a-ecde4d6a5be8
+:END:
+#+title: Mkmt Bgehfg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Bgehfg
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 10.629999999999999
+- sugar :: 5.66
+- price :: 43.19 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

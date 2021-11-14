@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e0597ab1-f698-491f-859e-8f24480b3922
+:END:
+#+title: Novr Rlrt Rqduccm 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rqduccm
+- vintage :: 1931
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 12.34
+- price :: 45.37 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

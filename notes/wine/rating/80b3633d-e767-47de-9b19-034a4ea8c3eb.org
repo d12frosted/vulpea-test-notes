@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       80b3633d-e767-47de-9b19-034a4ea8c3eb
+:END:
+#+title: Dseajc Jinm Sirt Pecwkg 1976 - 2016-12-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:7a225169-150d-437c-aedc-8fbbf71a36b4][Dseajc Jinm Sirt Pecwkg 1976]]
+- date :: 2016-12-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aba20c4f-8c4f-41ab-aec3-4ca41daca067
+:END:
+#+title: Dseajc Jinm Npxg NV - 1999-4-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:97e3e55b-d61e-46ec-8075-34098a04bcf9][Dseajc Jinm Npxg]]
+- date :: 1999-4-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

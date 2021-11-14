@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c83a7b5e-6fd7-46b0-9b19-c6e23f932359
+:END:
+#+title: Vjjtw Hvrja Phhzyoru 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Phhzyoru
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 13.280000000000001
+- sugar :: 5.33
+- price :: 27.93 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: duckduckgo
+- rating :: 2.5
+- ratings :: [[id:c795c1fe-cae4-461e-9f85-93bb7cc489fc][Vjjtw Hvrja Phhzyoru NV - 1991-2-14]]

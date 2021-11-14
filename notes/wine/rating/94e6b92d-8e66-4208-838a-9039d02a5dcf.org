@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       94e6b92d-8e66-4208-838a-9039d02a5dcf
+:END:
+#+title: Novr Rlrt Oym Slfqk NV - 2018-1-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:d9186dc6-be55-4ca2-a081-7a6936e24a60][Novr Rlrt Oym Slfqk]]
+- date :: 2018-1-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

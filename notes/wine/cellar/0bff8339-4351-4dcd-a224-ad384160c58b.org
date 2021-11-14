@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0bff8339-4351-4dcd-a224-ad384160c58b
+:END:
+#+title: Cdeexg Cqnap Yxme 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Cqnap Yxme
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.15
+- price :: 66.41 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

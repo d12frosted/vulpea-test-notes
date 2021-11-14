@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b7ccd529-9950-4ef2-b3f3-3ae5cd4a2fb2
+:END:
+#+title: Dfsxtmx Houk 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Houk
+- vintage :: 2006
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.95
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

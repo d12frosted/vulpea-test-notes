@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c37434bb-1f79-43be-9ba9-e1c9c32abbe2
+:END:
+#+title: Mkmt Kohfbeqw 1974 - 2018-5-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:ed364f8d-86e9-435f-b707-1723b7bc892f][Mkmt Kohfbeqw 1974]]
+- date :: 2018-5-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

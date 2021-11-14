@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f6ce18ea-7781-4f11-9c91-6a915d55d39f
+:END:
+#+title: Dfsxtmx Qxadcc Rut 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qxadcc Rut
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.69
+- price :: 8.86 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

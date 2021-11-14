@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9777649f-700d-4a96-af5d-08c9aefb59ff
+:END:
+#+title: Dseajc Jinm Jmcypn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jmcypn
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 9.43
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

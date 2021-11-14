@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6d3ad4a6-152f-433f-b444-9ec97bcaaa69
+:END:
+#+title: Dseajc Jinm Ruvq Mvoiddrl 1971 - 2023-7-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:9e0c5e0f-237d-40af-a480-a2680a4e115f][Dseajc Jinm Ruvq Mvoiddrl 1971]]
+- date :: 2023-7-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

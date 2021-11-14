@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fe7b6fc5-6e14-45ee-9b8d-d2659555c534
+:END:
+#+title: Dseajc Jinm Jznugs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jznugs
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 10.69
+- price :: 36.17 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

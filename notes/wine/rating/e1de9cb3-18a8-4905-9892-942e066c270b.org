@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e1de9cb3-18a8-4905-9892-942e066c270b
+:END:
+#+title: Rue Lsbhmsd Hyi NV - 2024-1-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:ba42ec5e-dbf8-4f3b-b28c-78d652b4acb4][Rue Lsbhmsd Hyi]]
+- date :: 2024-1-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

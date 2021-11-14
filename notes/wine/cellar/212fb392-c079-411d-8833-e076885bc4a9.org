@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       212fb392-c079-411d-8833-e076885bc4a9
+:END:
+#+title: Njtzvl Nfjxcx 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Nfjxcx
+- vintage :: 2018
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 9.36
+- sugar :: 11.62
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

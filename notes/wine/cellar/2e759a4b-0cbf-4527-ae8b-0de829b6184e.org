@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2e759a4b-0cbf-4527-ae8b-0de829b6184e
+:END:
+#+title: Rue Kodbb Tdrj 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kodbb Tdrj
+- vintage :: 2009
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.06
+- price :: 70.45 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

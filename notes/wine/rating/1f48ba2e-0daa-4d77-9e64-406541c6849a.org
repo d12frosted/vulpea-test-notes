@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1f48ba2e-0daa-4d77-9e64-406541c6849a
+:END:
+#+title: Cdeexg Jsdb NV - 2015-7-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:35d06863-7f52-4c45-b4e0-59f557202b6f][Cdeexg Jsdb]]
+- date :: 2015-7-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

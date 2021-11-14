@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1557c7b5-9cbd-471d-ba87-56e760c812df
+:END:
+#+title: Dfsxtmx Cqzbzd Nqe 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Cqzbzd Nqe
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.55
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:d6a9e1f5-b116-4443-ab3e-e9d9809a4542][Dfsxtmx Cqzbzd Nqe NV - 2023-6-1]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c9407694-2fd3-4363-8be4-bc0d17adcfca
+:END:
+#+title: Cdeexg Encoma 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Encoma
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 10.01
+- price :: 98.44 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

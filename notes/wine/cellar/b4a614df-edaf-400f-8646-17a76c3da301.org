@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b4a614df-edaf-400f-8646-17a76c3da301
+:END:
+#+title: Cdeexg Opjw 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Opjw
+- vintage :: 1902
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.02
+- sugar :: 23.72
+- price :: 46.77 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

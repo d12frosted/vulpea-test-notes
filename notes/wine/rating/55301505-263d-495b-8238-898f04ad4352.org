@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       55301505-263d-495b-8238-898f04ad4352
+:END:
+#+title: Mkmt Cqige 2003 - 2019-11-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:8b4dc8a0-5a21-4aef-8f3e-55bfb151dd0f][Mkmt Cqige 2003]]
+- date :: 2019-11-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

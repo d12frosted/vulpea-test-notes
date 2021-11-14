@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       380cb369-59dc-414f-b662-0a697a024b6f
+:END:
+#+title: Novr Rlrt Bsow 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bsow
+- vintage :: 1990
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.89
+- price :: 21.11 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

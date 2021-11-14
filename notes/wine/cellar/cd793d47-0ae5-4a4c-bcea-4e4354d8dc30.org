@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       cd793d47-0ae5-4a4c-bcea-4e4354d8dc30
+:END:
+#+title: Rue Hznxb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hznxb
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.28
+- sugar :: 7.9
+- price :: 100.88 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:6b4def41-ef00-4adb-aa53-305cf87ff0f7][Rue Hznxb NV - 2001-8-10]]

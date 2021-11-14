@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b6781e9b-a838-4fd9-a412-8814861dd21f
+:END:
+#+title: Vjjtw Hvrja Wlxrz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Wlxrz
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.17
+- sugar :: 7.92
+- price :: 64.58 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4efa9566-b9d6-4553-9290-19161e5ecd56
+:END:
+#+title: Dfsxtmx Ykm Xgtod 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ykm Xgtod
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.75
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

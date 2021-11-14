@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5ac9678f-5ee3-4e6b-8a80-c61800d6ef1a
+:END:
+#+title: Rue Jbfm 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jbfm
+- vintage :: 1905
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 10.8
+- sugar :: 12.19
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

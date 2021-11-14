@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fd5ebd10-6ce1-41fb-a309-51b714c27f65
+:END:
+#+title: Miv Dcndiyvt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Dcndiyvt
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.77
+- price :: 88.47 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

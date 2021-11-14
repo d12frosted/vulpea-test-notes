@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f76e8462-17e7-45d1-a94f-e1c1e5d8d702
+:END:
+#+title: Rue Mypoog 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mypoog
+- vintage :: 1901
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.87
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: 2.0
+- ratings :: [[id:97b837d1-5e67-4a37-aabe-cef485cd323b][Rue Mypoog 1901 - 2013-7-12]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       191e3542-c354-4422-9b05-67baafe9155b
+:END:
+#+title: Dfsxtmx Shhewsa Utwwke NV - 2017-10-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:2c59b7b4-80f9-41c9-b6e0-a1c24f31afcc][Dfsxtmx Shhewsa Utwwke]]
+- date :: 2017-10-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

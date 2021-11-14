@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       885da125-350c-46cd-8998-ad9b968845bd
+:END:
+#+title: Mkmt Nxpuerq Gtbwwn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Nxpuerq Gtbwwn
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.26
+- price :: 64.31 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b1d6e6e3-4e80-4551-9dab-43afb9ab5544
+:END:
+#+title: Vjjtw Hvrja Mqfa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mqfa
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 12.98
+- sugar :: 15.95
+- price :: 49.89 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b1a7a7c1-e325-44e1-896f-c806194e81dd
+:END:
+#+title: Cdeexg Akzn 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Akzn
+- vintage :: 2015
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.28
+- sugar :: 21.12
+- price :: 44.27 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

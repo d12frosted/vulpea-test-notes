@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       856cde99-8d70-4cb3-9f27-31480b127355
+:END:
+#+title: Novr Rlrt Fhbbn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Fhbbn
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.76
+- price :: 29.81 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

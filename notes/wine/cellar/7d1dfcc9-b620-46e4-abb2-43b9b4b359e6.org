@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7d1dfcc9-b620-46e4-abb2-43b9b4b359e6
+:END:
+#+title: Rue Vwrfgz Zwsca 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vwrfgz Zwsca
+- vintage :: 1926
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.27
+- price :: 6.87 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:0f925709-f982-4ac6-83fd-80f808b8dde7][Rue Vwrfgz Zwsca 1926 - 1993-3-2]]

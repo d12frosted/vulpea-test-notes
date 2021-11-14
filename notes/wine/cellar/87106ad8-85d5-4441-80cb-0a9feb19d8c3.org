@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       87106ad8-85d5-4441-80cb-0a9feb19d8c3
+:END:
+#+title: Dfsxtmx Xgkwdnqg 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xgkwdnqg
+- vintage :: 2015
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.97
+- price :: 48.86 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:e2848912-432e-4dba-8c4b-fdf097ff5a4e][Dfsxtmx Xgkwdnqg 2015 - 2016-1-5]]

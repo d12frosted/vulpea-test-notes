@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       800c5688-c36e-4e99-9dd1-8e2921eb8246
+:END:
+#+title: Novr Rlrt Bew Vrpxz NV - 2012-3-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:86f273d0-e1ea-4026-bca3-3b356eebf200][Novr Rlrt Bew Vrpxz]]
+- date :: 2012-3-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

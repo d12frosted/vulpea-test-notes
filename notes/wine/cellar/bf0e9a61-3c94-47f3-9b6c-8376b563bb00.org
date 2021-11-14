@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bf0e9a61-3c94-47f3-9b6c-8376b563bb00
+:END:
+#+title: Dfsxtmx Myg Yji 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Myg Yji
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.06
+- sugar :: 16.07
+- price :: 28.61 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

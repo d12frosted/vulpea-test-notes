@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       70051b77-323e-40e1-aa3f-54f84c6f4c30
+:END:
+#+title: Lzf Vlgfzcas Yqnqrxe 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vlgfzcas Yqnqrxe
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.879999999999999
+- price :: 8.56 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:031e9ede-eb3e-4fac-8216-fab2f82d2433][Lzf Vlgfzcas Yqnqrxe NV - 2008-11-5]]

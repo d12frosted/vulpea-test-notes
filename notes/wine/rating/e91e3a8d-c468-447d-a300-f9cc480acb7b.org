@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e91e3a8d-c468-447d-a300-f9cc480acb7b
+:END:
+#+title: Cdeexg Twe Yyma NV - 1991-11-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:f6c1a8f4-88d9-418a-a122-d58dedc8bb5c][Cdeexg Twe Yyma]]
+- date :: 1991-11-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

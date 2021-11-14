@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       62f05a3d-0e70-4faa-9210-6dc7c0973efa
+:END:
+#+title: Njtzvl Flysjj Bmovqql 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Flysjj Bmovqql
+- vintage :: 2000
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.33
+- sugar :: 15.27
+- price :: 63.01 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

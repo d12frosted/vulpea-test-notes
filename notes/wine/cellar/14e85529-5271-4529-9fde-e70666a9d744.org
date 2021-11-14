@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       14e85529-5271-4529-9fde-e70666a9d744
+:END:
+#+title: Cdeexg Krrifshb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Krrifshb
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.48
+- price :: 45.45 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       18b51e49-62fa-4a8b-8b36-1077918cfadc
+:END:
+#+title: Vjjtw Hvrja Puk Btwzhfk 1903 - 1995-9-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:c3daefc6-c998-4f87-af9e-9ba42d717514][Vjjtw Hvrja Puk Btwzhfk 1903]]
+- date :: 1995-9-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

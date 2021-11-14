@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4adc6275-b6d2-49f6-a8bb-3430e9cb5baa
+:END:
+#+title: Rue Hrji 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hrji
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.57
+- sugar :: 21.23
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e2baa003-914a-4022-ad23-d3b6159f8f8a
+:END:
+#+title: Cdeexg Lva Nbxfjwe 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Lva Nbxfjwe
+- vintage :: 1943
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.67
+- sugar :: 9.85
+- price :: 91.80 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 7.5
+- ratings :: [[id:e6be5f72-6e0a-4a5c-99f5-1f7b6cb4ef47][Cdeexg Lva Nbxfjwe 1943 - 2003-4-8]]

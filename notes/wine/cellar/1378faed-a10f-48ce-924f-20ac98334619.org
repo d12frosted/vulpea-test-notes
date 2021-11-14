@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1378faed-a10f-48ce-924f-20ac98334619
+:END:
+#+title: Miv Upm Ssttxh 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Upm Ssttxh
+- vintage :: 1977
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.2
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 1.5
+- ratings :: [[id:ce24dbbb-3039-4240-a0c5-3cccc933dfeb][Miv Upm Ssttxh 1977 - 2008-1-18]]

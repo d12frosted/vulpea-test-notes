@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       15f5ddbd-8cd1-4e2c-a245-030459ef98f1
+:END:
+#+title: Lzf Tvurrmm Wvmkgwqg 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tvurrmm Wvmkgwqg
+- vintage :: 1945
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 12.98
+- sugar :: 6.05
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e2424ab3-05ba-4535-ad3b-a8913032cf6d
+:END:
+#+title: Novr Rlrt Ryrj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ryrj
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.77
+- price :: 22.85 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

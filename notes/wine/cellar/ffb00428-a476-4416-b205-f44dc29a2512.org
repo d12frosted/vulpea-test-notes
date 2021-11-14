@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ffb00428-a476-4416-b205-f44dc29a2512
+:END:
+#+title: Miv Yaj Wqpoheqp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Yaj Wqpoheqp
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.74
+- sugar :: 15.63
+- price :: 49.66 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

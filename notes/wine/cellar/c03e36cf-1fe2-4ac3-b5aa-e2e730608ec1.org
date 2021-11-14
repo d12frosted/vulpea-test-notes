@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c03e36cf-1fe2-4ac3-b5aa-e2e730608ec1
+:END:
+#+title: Novr Rlrt Cfyxkpve Pxj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Cfyxkpve Pxj
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.05
+- sugar :: 18.78
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:c8dd0b77-4204-4f62-8643-e76e010787b9][Novr Rlrt Cfyxkpve Pxj NV - 2012-2-4]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b4a0dade-cb18-4177-9ad2-8d153a10369f
+:END:
+#+title: Njtzvl Ldwfa Zjkubu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ldwfa Zjkubu
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.97
+- price :: 34.33 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

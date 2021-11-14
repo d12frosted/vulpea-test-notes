@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b0a9e25d-7a15-4cd6-ab0b-7b40945cc940
+:END:
+#+title: Cdeexg Iasvzfq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Iasvzfq
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.7
+- sugar :: 14.99
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:3f813bc0-6b69-41af-8c28-7c2126e4e965][Cdeexg Iasvzfq NV - 2012-5-11]]

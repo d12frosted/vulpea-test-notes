@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0c64365b-1bfb-46bb-9c85-3b6bc8b4e73d
+:END:
+#+title: Lzf Tinj Nwpfq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tinj Nwpfq
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.07
+- sugar :: 21.52
+- price :: 36.40 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 8.0
+- ratings :: [[id:7163c6d5-6420-422e-b520-47cc4669a97c][Lzf Tinj Nwpfq NV - 2003-4-20]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       24ed1b63-7383-41ce-9a72-d37cc083406b
+:END:
+#+title: Cdeexg Uwxbbrv 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Uwxbbrv
+- vintage :: 1928
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.370000000000001
+- sugar :: 20.9
+- price :: 31.06 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       575d0696-a07f-4c86-afbf-02ada79d764e
+:END:
+#+title: Lzf Zxs 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Zxs
+- vintage :: 1989
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.51
+- sugar :: 8.29
+- price :: 63.21 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

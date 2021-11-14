@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e464a4fc-4bee-43fe-94d2-2ec991867100
+:END:
+#+title: Njtzvl Lovspbd 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lovspbd
+- vintage :: 1976
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.95
+- sugar :: 6.4
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

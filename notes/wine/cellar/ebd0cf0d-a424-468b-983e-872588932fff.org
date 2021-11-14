@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ebd0cf0d-a424-468b-983e-872588932fff
+:END:
+#+title: Cdeexg Eutjodew Vpzj 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Eutjodew Vpzj
+- vintage :: 2006
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.49
+- sugar :: 17.57
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:b365278a-6592-4794-87a9-4130169b33b3][Cdeexg Eutjodew Vpzj 2006 - 1993-8-7]]

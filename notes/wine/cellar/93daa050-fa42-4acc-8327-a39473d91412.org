@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       93daa050-fa42-4acc-8327-a39473d91412
+:END:
+#+title: Lzf Bikmmd Oidvsyat 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Bikmmd Oidvsyat
+- vintage :: 1962
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.08
+- sugar :: 13.36
+- price :: 89.31 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0dbe80ab-be17-4e7a-975d-465e58c9219d
+:END:
+#+title: Dfsxtmx Miqe 1999 - 2015-3-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:ddc660c1-1156-4184-b4af-6a05383a41ee][Dfsxtmx Miqe 1999]]
+- date :: 2015-3-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

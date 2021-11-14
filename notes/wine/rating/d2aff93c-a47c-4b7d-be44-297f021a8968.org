@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d2aff93c-a47c-4b7d-be44-297f021a8968
+:END:
+#+title: Njtzvl Kyu Irgry 2012 - 2021-2-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:9d9ac225-101a-4dd6-b2d8-be49f1a74678][Njtzvl Kyu Irgry 2012]]
+- date :: 2021-2-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

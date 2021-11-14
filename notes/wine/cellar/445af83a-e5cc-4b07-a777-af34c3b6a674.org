@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       445af83a-e5cc-4b07-a777-af34c3b6a674
+:END:
+#+title: Miv Eanwsr Wlmc 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Eanwsr Wlmc
+- vintage :: 1967
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.17
+- sugar :: 1.51
+- price :: 73.02 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:60125967-ae9c-42e6-b75d-4acc4746a3b8][Miv Eanwsr Wlmc 1967 - 2006-1-1]]

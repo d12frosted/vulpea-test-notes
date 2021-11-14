@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       18f7e87a-215b-4082-84fc-652143507d5d
+:END:
+#+title: Dseajc Jinm Tkkcukg 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tkkcukg
+- vintage :: 1941
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.75
+- sugar :: 5.19
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 8.0
+- ratings :: [[id:a5e76747-9e4c-4c43-93c7-f8d94ddcf02f][Dseajc Jinm Tkkcukg 1941 - 2008-11-26]]

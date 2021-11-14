@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bf408f56-0196-436a-b4a2-d358e049d592
+:END:
+#+title: Rue Xlboo 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Xlboo
+- vintage :: 1949
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.7
+- sugar :: 17.9
+- price :: 66.53 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

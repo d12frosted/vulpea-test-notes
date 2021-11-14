@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       67e38b7a-6bfb-4da6-92b0-58a10df292cb
+:END:
+#+title: Dfsxtmx Nqsvjbvr Dhaxx NV - 1995-9-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:ad7d3615-b7f0-4b97-ae0e-5d23d20e8c50][Dfsxtmx Nqsvjbvr Dhaxx]]
+- date :: 1995-9-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

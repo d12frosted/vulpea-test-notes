@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       045bfdb9-e252-46cd-a5d1-b34109683609
+:END:
+#+title: Cdeexg Tew 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Tew
+- vintage :: 1950
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.3
+- sugar :: 7.11
+- price :: 17.03 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:96b5b1a4-2461-41ed-9810-cf6147ea6b08][Cdeexg Tew 1950 - 2001-9-23]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       19ea5d2a-5338-440d-9b92-87fd6281c66d
+:END:
+#+title: Njtzvl Byiaihje 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Byiaihje
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.32
+- price :: 83.52 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

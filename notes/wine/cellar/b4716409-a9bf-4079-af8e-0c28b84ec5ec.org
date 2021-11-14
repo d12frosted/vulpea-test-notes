@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b4716409-a9bf-4079-af8e-0c28b84ec5ec
+:END:
+#+title: Rue Ctqd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ctqd
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 12.02
+- sugar :: 5.66
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

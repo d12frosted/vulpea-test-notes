@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f927174b-ca05-4fcf-ae2d-f1a09d2d0480
+:END:
+#+title: Mkmt Hqd Xaicpmak 1905 - 2016-9-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:5f836478-cba9-46d9-8405-b1186d851735][Mkmt Hqd Xaicpmak 1905]]
+- date :: 2016-9-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

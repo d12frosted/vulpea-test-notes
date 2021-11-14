@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aaab70a5-fd47-4fc5-b975-de34eb061d5f
+:END:
+#+title: Dseajc Jinm Mmc 1905 - 1997-11-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:beebf8b9-4907-4235-a542-422869e6eccf][Dseajc Jinm Mmc 1905]]
+- date :: 1997-11-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       14e55486-945a-4e07-96f6-7efde0a0f06c
+:END:
+#+title: Miv Sxw Zbbim 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sxw Zbbim
+- vintage :: 1915
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.7
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:126290f5-f675-4a6b-9e5d-2b2ab21f315d][Miv Sxw Zbbim 1915 - 2023-1-3]]

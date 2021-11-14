@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2dba0cd6-cb18-474d-9519-15217856a7e1
+:END:
+#+title: Lzf Vmaytb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vmaytb
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.84
+- sugar :: 4.58
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

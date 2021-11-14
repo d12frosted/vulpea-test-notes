@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1c5667d6-020c-4fe8-abf4-6990605f3033
+:END:
+#+title: Dseajc Jinm Sohe Zzgvz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Sohe Zzgvz
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.72
+- price :: 31.65 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:e3299853-21ca-4fd6-bec2-bf42a890858f][Dseajc Jinm Sohe Zzgvz NV - 2008-11-5]]

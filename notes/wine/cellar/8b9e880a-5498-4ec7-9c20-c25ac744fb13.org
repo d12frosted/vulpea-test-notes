@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8b9e880a-5498-4ec7-9c20-c25ac744fb13
+:END:
+#+title: Dseajc Jinm Ouvwfckk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ouvwfckk
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.68
+- sugar :: 6.37
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2b096ebc-5f95-4415-bc20-92da25bce1cb
+:END:
+#+title: Novr Rlrt Zybn 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Zybn
+- vintage :: 1971
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.64
+- price :: 68.12 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.0
+- ratings :: [[id:311292f7-d251-4f52-8ea3-2dd5a9638550][Novr Rlrt Zybn 1971 - 2016-3-20]]

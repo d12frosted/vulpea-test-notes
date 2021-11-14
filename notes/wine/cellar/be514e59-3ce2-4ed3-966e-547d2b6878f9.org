@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       be514e59-3ce2-4ed3-966e-547d2b6878f9
+:END:
+#+title: Lzf Fgmnqu 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Fgmnqu
+- vintage :: 1917
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.15
+- sugar :: 23.92
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:5b1a10aa-b708-4fe9-962b-98ddd24251c8][Lzf Fgmnqu 1917 - 2002-7-17]]

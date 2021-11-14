@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       30d9109f-9733-4485-b6de-c6a94d46a740
+:END:
+#+title: Cdeexg Txgab Dhaq 1994 - 2002-6-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:f862cb65-c311-4a9a-9294-d65d41854a9e][Cdeexg Txgab Dhaq 1994]]
+- date :: 2002-6-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e5f8f804-fc6d-40b4-ae39-3adfb67edceb
+:END:
+#+title: Rue Ofpj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ofpj
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.65
+- sugar :: 18.03
+- price :: 98.72 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

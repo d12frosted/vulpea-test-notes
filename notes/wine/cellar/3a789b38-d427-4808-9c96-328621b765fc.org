@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3a789b38-d427-4808-9c96-328621b765fc
+:END:
+#+title: Rue Uqloho Ztd 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Uqloho Ztd
+- vintage :: 2020
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.54
+- sugar :: 4.95
+- price :: 48.44 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:9349e9a6-f2a2-4bc9-b8a0-a157d8b3f3b2][Rue Uqloho Ztd 2020 - 2011-1-18]]

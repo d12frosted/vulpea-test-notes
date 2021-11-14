@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5793dd79-cb52-4452-b8d7-66ab80366596
+:END:
+#+title: Cdeexg Saxjyut Dqdlsp NV - 2023-2-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:62e292e3-0d06-4dde-8501-29377e4d4a20][Cdeexg Saxjyut Dqdlsp]]
+- date :: 2023-2-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

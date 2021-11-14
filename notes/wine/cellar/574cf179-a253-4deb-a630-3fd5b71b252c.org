@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       574cf179-a253-4deb-a630-3fd5b71b252c
+:END:
+#+title: Lzf Wkye 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Wkye
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.81
+- sugar :: 5.2
+- price :: 53.64 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e21096e1-611f-431b-8bfa-e2b15e67f6f7
+:END:
+#+title: Miv Uwh Zpaschz 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Uwh Zpaschz
+- vintage :: 2004
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 10.72
+- sugar :: 6.18
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

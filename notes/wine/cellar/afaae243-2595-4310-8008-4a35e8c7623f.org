@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       afaae243-2595-4310-8008-4a35e8c7623f
+:END:
+#+title: Dfsxtmx Ppr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ppr
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 11.43
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       736aaaac-6ef7-4ead-8423-023734e60850
+:END:
+#+title: Cdeexg Yfpgfgt 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Yfpgfgt
+- vintage :: 2005
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 9.38
+- sugar :: 9.06
+- price :: 29.47 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

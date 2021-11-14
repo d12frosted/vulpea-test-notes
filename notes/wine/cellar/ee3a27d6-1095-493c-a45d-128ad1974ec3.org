@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ee3a27d6-1095-493c-a45d-128ad1974ec3
+:END:
+#+title: Vjjtw Hvrja Ust Sxhnsjqy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ust Sxhnsjqy
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.96
+- sugar :: 20.71
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.0
+- ratings :: [[id:9ebfa5fc-10af-4947-a0e2-719da4da0410][Vjjtw Hvrja Ust Sxhnsjqy NV - 1992-4-13]]

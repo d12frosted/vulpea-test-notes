@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a2aeac73-fa8f-4f5f-a35e-ec1e205ac15a
+:END:
+#+title: Vjjtw Hvrja Lrchuaoo Fjngxvo 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Lrchuaoo Fjngxvo
+- vintage :: 1916
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.15
+- price :: 79.28 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:cc73a2f5-f3f8-49be-951f-9ce178e178b5][Vjjtw Hvrja Lrchuaoo Fjngxvo 1916 - 1993-11-6]]

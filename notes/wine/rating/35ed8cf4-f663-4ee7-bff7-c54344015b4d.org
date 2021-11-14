@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       35ed8cf4-f663-4ee7-bff7-c54344015b4d
+:END:
+#+title: Novr Rlrt Seuozsd Dms NV - 2022-2-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:faf02dfa-f3a4-499e-972b-971d971628d7][Novr Rlrt Seuozsd Dms]]
+- date :: 2022-2-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

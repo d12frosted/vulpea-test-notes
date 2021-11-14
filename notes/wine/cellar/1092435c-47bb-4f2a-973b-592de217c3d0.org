@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1092435c-47bb-4f2a-973b-592de217c3d0
+:END:
+#+title: Dseajc Jinm Lljn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lljn
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.47
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 6.0
+- ratings :: [[id:3b680667-e938-4295-893b-fab47f684400][Dseajc Jinm Lljn NV - 2017-9-26]]

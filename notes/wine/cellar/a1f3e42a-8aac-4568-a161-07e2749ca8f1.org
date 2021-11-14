@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a1f3e42a-8aac-4568-a161-07e2749ca8f1
+:END:
+#+title: Miv Ftbvhcgy Ywmrrq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ftbvhcgy Ywmrrq
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.09
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:2884218a-f128-4d93-8f8a-f282e6b01a36][Miv Ftbvhcgy Ywmrrq NV - 2013-4-27]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       70d171fb-8989-4486-8022-2d6accd55b5d
+:END:
+#+title: Vjjtw Hvrja Jpth NV - 2019-10-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:c77de4d7-47b1-4567-82a8-3f072c1862cb][Vjjtw Hvrja Jpth]]
+- date :: 2019-10-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

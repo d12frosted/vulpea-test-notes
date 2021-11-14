@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       85a72e8d-05cb-4d15-8c87-d9057f4a97c8
+:END:
+#+title: Novr Rlrt Uqok Swfezk 1922 - 1993-4-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:5edbc4fd-2f9c-412d-873a-6d8df1f341cf][Novr Rlrt Uqok Swfezk 1922]]
+- date :: 1993-4-17
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

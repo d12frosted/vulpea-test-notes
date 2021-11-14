@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d29174fe-d575-4abd-8816-536bcce11e6c
+:END:
+#+title: Miv Pqlzlp 1977 - 2010-1-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:11da5ce6-cafd-44a2-9700-93af39543f83][Miv Pqlzlp 1977]]
+- date :: 2010-1-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

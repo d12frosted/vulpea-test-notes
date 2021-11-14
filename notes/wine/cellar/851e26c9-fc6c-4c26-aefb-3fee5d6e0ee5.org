@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       851e26c9-fc6c-4c26-aefb-3fee5d6e0ee5
+:END:
+#+title: Dseajc Jinm Rthewbbe Zvkb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rthewbbe Zvkb
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.74
+- sugar :: 6.48
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

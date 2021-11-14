@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       ac0d70bd-1579-4019-a0c8-9ef98497c20d
+:END:
+#+title: Zxttde
+#+filetags: :wine:appellation:
+
+

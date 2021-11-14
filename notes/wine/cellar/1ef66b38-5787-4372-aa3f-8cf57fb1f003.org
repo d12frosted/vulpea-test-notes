@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1ef66b38-5787-4372-aa3f-8cf57fb1f003
+:END:
+#+title: Rue Etgwk Vnixpy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Etgwk Vnixpy
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.71
+- sugar :: 20.44
+- price :: 90.05 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 7.5
+- ratings :: [[id:6dc9540d-cc2b-4722-848e-9db159ed92f2][Rue Etgwk Vnixpy NV - 1991-12-22]]

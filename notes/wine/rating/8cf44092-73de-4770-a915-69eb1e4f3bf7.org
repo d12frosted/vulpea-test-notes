@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8cf44092-73de-4770-a915-69eb1e4f3bf7
+:END:
+#+title: Cdeexg Uwktk Dxtmbws NV - 2012-4-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:66b07a59-7020-4b97-a172-251d831b1cf8][Cdeexg Uwktk Dxtmbws]]
+- date :: 2012-4-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       de4a58b8-bed2-4b30-ba77-9603fc1d1822
+:END:
+#+title: Dfsxtmx Dywdfb Uadspk 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dywdfb Uadspk
+- vintage :: 1988
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 9.33
+- price :: 77.60 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

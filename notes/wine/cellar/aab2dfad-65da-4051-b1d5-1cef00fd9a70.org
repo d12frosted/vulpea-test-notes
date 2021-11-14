@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       aab2dfad-65da-4051-b1d5-1cef00fd9a70
+:END:
+#+title: Novr Rlrt Nzrszeuc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nzrszeuc
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 12.05
+- price :: 85.74 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:bc104f88-d241-4594-b871-6b7d5c3046f8][Novr Rlrt Nzrszeuc NV - 1994-7-24]]

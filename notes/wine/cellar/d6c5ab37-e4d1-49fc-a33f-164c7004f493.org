@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d6c5ab37-e4d1-49fc-a33f-164c7004f493
+:END:
+#+title: Dseajc Jinm Kbfml Cbczt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Kbfml Cbczt
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.6
+- sugar :: 11.55
+- price :: 60.14 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

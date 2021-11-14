@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a53e7cee-2a19-4cfc-ae6f-2d3be386d5ba
+:END:
+#+title: Dfsxtmx Azlcpa Pvwn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Azlcpa Pvwn
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.7
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

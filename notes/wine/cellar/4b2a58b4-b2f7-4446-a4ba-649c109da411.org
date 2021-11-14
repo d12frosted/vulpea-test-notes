@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4b2a58b4-b2f7-4446-a4ba-649c109da411
+:END:
+#+title: Dseajc Jinm Gjn Dfbfqboa 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gjn Dfbfqboa
+- vintage :: 1950
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.620000000000001
+- sugar :: 20.14
+- price :: 56.14 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA

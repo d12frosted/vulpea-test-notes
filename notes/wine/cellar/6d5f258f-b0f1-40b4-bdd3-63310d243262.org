@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6d5f258f-b0f1-40b4-bdd3-63310d243262
+:END:
+#+title: Njtzvl Ixzdc Wwiq 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ixzdc Wwiq
+- vintage :: 1963
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.95
+- price :: 62.97 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:489dcd49-9cbf-4e43-9a25-ae1b251433c2][Njtzvl Ixzdc Wwiq 1963 - 2003-7-4]]

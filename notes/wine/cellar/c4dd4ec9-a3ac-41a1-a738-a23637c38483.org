@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c4dd4ec9-a3ac-41a1-a738-a23637c38483
+:END:
+#+title: Dfsxtmx Ifgmvc Nlt 1912
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ifgmvc Nlt
+- vintage :: 1912
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.17
+- price :: 10.33 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

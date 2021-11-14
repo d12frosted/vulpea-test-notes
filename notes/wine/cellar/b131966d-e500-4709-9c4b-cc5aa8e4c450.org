@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b131966d-e500-4709-9c4b-cc5aa8e4c450
+:END:
+#+title: Mkmt Ilzaqi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ilzaqi
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 9.97
+- sugar :: 8.65
+- price :: 25.85 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:9853d8a8-0acf-417a-9201-e4a1f9b473de][Mkmt Ilzaqi NV - 2024-8-11]]

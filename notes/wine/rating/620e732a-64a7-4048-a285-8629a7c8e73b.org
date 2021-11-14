@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       620e732a-64a7-4048-a285-8629a7c8e73b
+:END:
+#+title: Lzf Koqy 1936 - 2017-5-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:5d35d342-18da-42e8-b5cc-3a9cdb47c0a1][Lzf Koqy 1936]]
+- date :: 2017-5-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4dd78165-f5e0-4298-97f6-f8593b8d79f1
+:END:
+#+title: Lzf Zew Sxm 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Zew Sxm
+- vintage :: 1969
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.93
+- sugar :: 11.94
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

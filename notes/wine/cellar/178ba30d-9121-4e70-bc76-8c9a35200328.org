@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       178ba30d-9121-4e70-bc76-8c9a35200328
+:END:
+#+title: Dseajc Jinm Rxfq Bcrvdj 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rxfq Bcrvdj
+- vintage :: 1942
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.66
+- price :: 89.90 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 6.5
+- ratings :: [[id:9ebc7ea5-edac-4f8e-a70f-cc28a73d0cf7][Dseajc Jinm Rxfq Bcrvdj 1942 - 2006-2-19]]

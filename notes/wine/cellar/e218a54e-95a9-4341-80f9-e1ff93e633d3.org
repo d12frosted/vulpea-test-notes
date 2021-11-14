@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e218a54e-95a9-4341-80f9-e1ff93e633d3
+:END:
+#+title: Novr Rlrt Udakqw 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Udakqw
+- vintage :: 1927
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.03
+- sugar :: 12.73
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:a5330e9e-71dc-434c-a86d-452cddd622ef][Novr Rlrt Udakqw 1927 - 2021-9-12]]

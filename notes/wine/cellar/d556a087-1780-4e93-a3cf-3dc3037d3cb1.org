@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d556a087-1780-4e93-a3cf-3dc3037d3cb1
+:END:
+#+title: Cdeexg Rgghrpl 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Rgghrpl
+- vintage :: 1928
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.19
+- sugar :: 22.36
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 2.5
+- ratings :: [[id:bbe35aaf-0677-48f7-8986-6c69013f54b1][Cdeexg Rgghrpl 1928 - 2018-8-22]]

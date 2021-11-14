@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       49917570-7178-4136-8255-b12bb21bcbfc
+:END:
+#+title: Rue Bmzu Ktv 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Bmzu Ktv
+- vintage :: 1946
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.48
+- sugar :: 12.13
+- price :: 22.39 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

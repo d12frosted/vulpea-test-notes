@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       023bf24c-2067-41ce-994d-2fe73f4db5e6
+:END:
+#+title: Mkmt Bjmkzqg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Bjmkzqg
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.92
+- price :: 19.45 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: wikipedia
+- rating :: NA

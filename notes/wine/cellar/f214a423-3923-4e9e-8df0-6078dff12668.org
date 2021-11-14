@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f214a423-3923-4e9e-8df0-6078dff12668
+:END:
+#+title: Dseajc Jinm Qufquua Ycawj 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Qufquua Ycawj
+- vintage :: 1945
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.24
+- price :: 97.11 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:58ed04dc-2d65-41b0-809d-1ef12aa113fe][Dseajc Jinm Qufquua Ycawj 1945 - 2009-3-12]]

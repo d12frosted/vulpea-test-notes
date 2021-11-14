@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       78961afe-204a-443c-be54-01ec7932bf45
+:END:
+#+title: Miv Kdomnjd 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Kdomnjd
+- vintage :: 1953
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.2
+- sugar :: 8.03
+- price :: 51.42 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

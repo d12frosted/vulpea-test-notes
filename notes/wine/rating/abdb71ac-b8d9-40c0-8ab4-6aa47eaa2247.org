@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       abdb71ac-b8d9-40c0-8ab4-6aa47eaa2247
+:END:
+#+title: Novr Rlrt Ioqnihi Fmhflllh NV - 2009-10-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:2b53be28-8257-4c6b-8873-28b330168627][Novr Rlrt Ioqnihi Fmhflllh]]
+- date :: 2009-10-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

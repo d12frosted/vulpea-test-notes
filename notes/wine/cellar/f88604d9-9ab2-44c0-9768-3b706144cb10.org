@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f88604d9-9ab2-44c0-9768-3b706144cb10
+:END:
+#+title: Dfsxtmx Kslobna Fnii 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kslobna Fnii
+- vintage :: 1995
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.18
+- sugar :: 20.45
+- price :: 30.18 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

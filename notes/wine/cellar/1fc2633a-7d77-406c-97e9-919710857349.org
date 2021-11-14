@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1fc2633a-7d77-406c-97e9-919710857349
+:END:
+#+title: Cdeexg Fffv Nizvqmom 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Fffv Nizvqmom
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 13.64
+- sugar :: 11.05
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:17ceb0cf-e90a-4c5b-a653-b1356402f799][Cdeexg Fffv Nizvqmom NV - 1996-10-16]]

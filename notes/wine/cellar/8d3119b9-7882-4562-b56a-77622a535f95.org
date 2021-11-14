@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8d3119b9-7882-4562-b56a-77622a535f95
+:END:
+#+title: Vjjtw Hvrja Skxnje Wwesv 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Skxnje Wwesv
+- vintage :: 1949
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.71
+- sugar :: 2.11
+- price :: 86.28 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

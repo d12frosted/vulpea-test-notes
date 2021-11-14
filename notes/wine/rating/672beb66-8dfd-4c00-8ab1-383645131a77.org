@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       672beb66-8dfd-4c00-8ab1-383645131a77
+:END:
+#+title: Novr Rlrt Imk 1912 - 2002-7-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:e4f56b15-f576-4b0c-81a3-7522afeda684][Novr Rlrt Imk 1912]]
+- date :: 2002-7-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

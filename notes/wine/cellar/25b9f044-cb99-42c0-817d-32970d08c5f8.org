@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       25b9f044-cb99-42c0-817d-32970d08c5f8
+:END:
+#+title: Novr Rlrt Hkrqftg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hkrqftg
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 13.95
+- price :: 76.19 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

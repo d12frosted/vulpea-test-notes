@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       28b9c6b8-5e2c-4d64-ad3f-71cfed906c71
+:END:
+#+title: Vjjtw Hvrja Onraffl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Onraffl
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.27
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

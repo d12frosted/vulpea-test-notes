@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       07f2caff-def9-4838-8a75-40c4031dcd94
+:END:
+#+title: Cdeexg Knbyf NV - 2007-4-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:e203cbe9-bf2b-4a93-9881-0f7eeccb0b36][Cdeexg Knbyf]]
+- date :: 2007-4-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

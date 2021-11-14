@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       94b63246-cecb-49f4-b96c-05e1428fc089
+:END:
+#+title: Njtzvl Ecbbtj Cuwcp 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ecbbtj Cuwcp
+- vintage :: 1983
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 10.06
+- sugar :: 9.89
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

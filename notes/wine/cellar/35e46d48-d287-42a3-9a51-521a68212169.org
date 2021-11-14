@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       35e46d48-d287-42a3-9a51-521a68212169
+:END:
+#+title: Dfsxtmx Ygr Ikd 1906
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ygr Ikd
+- vintage :: 1906
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.02
+- sugar :: 22.56
+- price :: 34.49 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

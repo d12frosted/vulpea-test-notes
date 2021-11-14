@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       952c1684-8987-41b7-b51f-d0f29fca4472
+:END:
+#+title: Rue Opxuintr Huho 2012 - 2015-12-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:bd7c4d1d-1fa7-455f-bad4-03fb84c6823c][Rue Opxuintr Huho 2012]]
+- date :: 2015-12-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4ac2ef23-d543-485c-8f7a-ede7831d0832
+:END:
+#+title: Rue Ephhz Ouyqs 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ephhz Ouyqs
+- vintage :: 2018
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.94
+- sugar :: 23.96
+- price :: 94.78 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:e412c98c-cdde-4351-abd6-b736d316ae9a][Rue Ephhz Ouyqs 2018 - 2018-1-5]]

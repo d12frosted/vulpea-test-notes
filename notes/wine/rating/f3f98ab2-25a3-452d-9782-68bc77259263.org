@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f3f98ab2-25a3-452d-9782-68bc77259263
+:END:
+#+title: Lzf Svlibphk Mooxnbdq NV - 2000-3-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:ec3b2fba-3aee-478d-b720-fe9e3c680bf3][Lzf Svlibphk Mooxnbdq]]
+- date :: 2000-3-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

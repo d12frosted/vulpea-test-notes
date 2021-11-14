@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fffa3475-b5ba-4b7e-ab15-605d1e249533
+:END:
+#+title: Miv Abk Mdcmb 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Abk Mdcmb
+- vintage :: 1967
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.94
+- price :: 76.53 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:2a848d53-2692-493c-801c-bc49a8e842c2][Miv Abk Mdcmb 1967 - 1995-2-11]]

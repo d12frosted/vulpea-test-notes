@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5888078f-61b5-4850-91c2-a4717d9e33c8
+:END:
+#+title: Rue Krbaqjen Mvqzxy 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Krbaqjen Mvqzxy
+- vintage :: 1922
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.41
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 2.0
+- ratings :: [[id:4e9b7a71-c455-4c42-b379-0035cf9248a4][Rue Krbaqjen Mvqzxy 1922 - 1991-1-16]]

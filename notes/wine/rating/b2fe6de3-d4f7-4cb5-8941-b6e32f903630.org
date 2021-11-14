@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b2fe6de3-d4f7-4cb5-8941-b6e32f903630
+:END:
+#+title: Vjjtw Hvrja Bya 1915 - 2018-8-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:96176beb-cd42-4533-900a-93e3631f6f32][Vjjtw Hvrja Bya 1915]]
+- date :: 2018-8-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       883e9e92-e692-4c6a-bb70-b5e412209144
+:END:
+#+title: Dseajc Jinm Eltsez Amw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Eltsez Amw
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.66
+- sugar :: 5.68
+- price :: 39.83 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

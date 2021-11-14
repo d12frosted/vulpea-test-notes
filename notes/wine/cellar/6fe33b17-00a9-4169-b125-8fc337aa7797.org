@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6fe33b17-00a9-4169-b125-8fc337aa7797
+:END:
+#+title: Rue Pgahksax 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Pgahksax
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.54
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:79f2b93f-7d0b-4391-a946-eeb16678231d][Rue Pgahksax NV - 2004-9-12]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7abec3b6-2547-4a96-806e-87cb68a07444
+:END:
+#+title: Njtzvl Oqktmty 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Oqktmty
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.379999999999999
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:fdaac04f-8bd9-48f2-a40b-5a2404668aff][Njtzvl Oqktmty NV - 2009-5-26]]

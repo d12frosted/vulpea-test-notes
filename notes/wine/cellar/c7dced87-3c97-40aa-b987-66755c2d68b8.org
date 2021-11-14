@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c7dced87-3c97-40aa-b987-66755c2d68b8
+:END:
+#+title: Dseajc Jinm Jjht 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jjht
+- vintage :: 1971
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.84
+- sugar :: 15.08
+- price :: 25.17 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 2.5
+- ratings :: [[id:30b39021-16e3-458c-a97a-24f79938e999][Dseajc Jinm Jjht 1971 - 2008-1-7]]

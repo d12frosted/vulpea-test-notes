@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3a217889-c39b-451b-bec9-237f6186260d
+:END:
+#+title: Vjjtw Hvrja Mzazntyh Tkbm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mzazntyh Tkbm
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.059999999999999
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

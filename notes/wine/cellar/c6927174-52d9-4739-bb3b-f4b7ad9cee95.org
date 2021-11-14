@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c6927174-52d9-4739-bb3b-f4b7ad9cee95
+:END:
+#+title: Mkmt Fwnngpau 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fwnngpau
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.66
+- sugar :: 16.72
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

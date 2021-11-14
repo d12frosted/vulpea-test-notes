@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       48c37e05-607f-4703-8a38-3d0a9e046a26
+:END:
+#+title: Novr Rlrt Myvfzjj Tzixgk 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Myvfzjj Tzixgk
+- vintage :: 2010
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 12.16
+- price :: 100.01 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:4cef2948-5136-4310-91c0-564dbeb2067e][Novr Rlrt Myvfzjj Tzixgk 2010 - 2012-6-19]]

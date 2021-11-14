@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5b8e526f-7859-41fe-9fbd-1b132cdea7a1
+:END:
+#+title: Cdeexg Smzvooit 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Smzvooit
+- vintage :: 1984
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.71
+- price :: 28.64 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:e45e8dcf-26ff-4853-9bbe-b73d81e83f50][Cdeexg Smzvooit 1984 - 2013-8-14]]

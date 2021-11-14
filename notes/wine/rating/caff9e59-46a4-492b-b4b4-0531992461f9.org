@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       caff9e59-46a4-492b-b4b4-0531992461f9
+:END:
+#+title: Lzf Nvop Pleo NV - 1993-3-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:12dcf328-3730-4974-806b-6d4b9fbedfa6][Lzf Nvop Pleo]]
+- date :: 1993-3-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

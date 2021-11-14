@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       dfa42b6d-856e-4e4a-acc7-aec980c74b5a
+:END:
+#+title: Novr Rlrt Aleszim 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Aleszim
+- vintage :: 2012
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 10.26
+- sugar :: 3.48
+- price :: 24.70 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       147df925-8c5b-4698-9cd8-c2053e67fa24
+:END:
+#+title: Vjjtw Hvrja Rjfqlur Uijbussq 1998 - 2023-5-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:c71dc63d-2ba7-4050-938a-e2c994bec171][Vjjtw Hvrja Rjfqlur Uijbussq 1998]]
+- date :: 2023-5-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

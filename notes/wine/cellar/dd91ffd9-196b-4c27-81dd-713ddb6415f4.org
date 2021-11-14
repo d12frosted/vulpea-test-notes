@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dd91ffd9-196b-4c27-81dd-713ddb6415f4
+:END:
+#+title: Mkmt Wmpqvki Nmbkwsd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Wmpqvki Nmbkwsd
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.77
+- price :: 24.77 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:60204b19-4339-4acc-a225-432eaf6ab4a0][Mkmt Wmpqvki Nmbkwsd NV - 2022-2-11]]

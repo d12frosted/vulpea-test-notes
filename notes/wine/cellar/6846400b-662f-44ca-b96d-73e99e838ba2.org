@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6846400b-662f-44ca-b96d-73e99e838ba2
+:END:
+#+title: Lzf Kzbnji Ugh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Kzbnji Ugh
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.42
+- sugar :: 11.32
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.0
+- ratings :: [[id:ce93ba83-7637-4025-b3e0-8f815b652383][Lzf Kzbnji Ugh NV - 2016-2-9]]

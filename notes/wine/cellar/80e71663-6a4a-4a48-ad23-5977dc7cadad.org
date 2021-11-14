@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       80e71663-6a4a-4a48-ad23-5977dc7cadad
+:END:
+#+title: Dfsxtmx Nsnbdyy Ubqvisi 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nsnbdyy Ubqvisi
+- vintage :: 1955
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.6
+- sugar :: 6.9
+- price :: 85.86 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 7.0
+- ratings :: [[id:181a29cd-8d48-4292-8372-322709b5ace4][Dfsxtmx Nsnbdyy Ubqvisi 1955 - 2021-9-25]]

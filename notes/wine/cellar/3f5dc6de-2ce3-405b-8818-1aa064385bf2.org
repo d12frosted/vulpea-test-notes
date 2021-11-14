@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3f5dc6de-2ce3-405b-8818-1aa064385bf2
+:END:
+#+title: Rue Xpsmc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Xpsmc
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.57
+- sugar :: 0.72
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 7.5
+- ratings :: [[id:9417a880-27b5-41c6-b927-23970a26cf07][Rue Xpsmc NV - 1992-5-16]]

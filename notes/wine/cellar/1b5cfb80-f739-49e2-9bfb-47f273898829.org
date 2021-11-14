@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1b5cfb80-f739-49e2-9bfb-47f273898829
+:END:
+#+title: Njtzvl Yrq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Yrq
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.84
+- price :: 76.24 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       08849eab-9c21-48a1-8953-d687a13a200b
+:END:
+#+title: Mkmt Udsrotmt 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Udsrotmt
+- vintage :: 1923
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 12.79
+- sugar :: 4.17
+- price :: 99.87 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

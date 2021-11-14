@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c9663129-5fec-4cc4-9c6c-7eebe32551a8
+:END:
+#+title: Rue Zks NV - 1992-6-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:be1b52a1-0500-41ee-ac32-76bfe6be79b2][Rue Zks]]
+- date :: 1992-6-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

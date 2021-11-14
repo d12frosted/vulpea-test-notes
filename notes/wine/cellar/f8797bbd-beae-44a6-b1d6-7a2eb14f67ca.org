@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       f8797bbd-beae-44a6-b1d6-7a2eb14f67ca
+:END:
+#+title: Dfsxtmx Tvkwi 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Tvkwi
+- vintage :: 1985
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.05
+- sugar :: 19.14
+- price :: 71.81 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:89913725-5245-4992-aaa4-b7a4ddeea937][Dfsxtmx Tvkwi 1985 - 1994-9-10]]

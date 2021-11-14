@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3f9ab886-6bd4-4ee7-826c-e2e1e5debdea
+:END:
+#+title: Rue Qnntrghk Jgmy 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qnntrghk Jgmy
+- vintage :: 1933
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.32
+- sugar :: 1.02
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

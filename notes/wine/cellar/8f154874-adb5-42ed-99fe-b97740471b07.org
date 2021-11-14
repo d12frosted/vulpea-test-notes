@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8f154874-adb5-42ed-99fe-b97740471b07
+:END:
+#+title: Lzf Jkgaxh 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jkgaxh
+- vintage :: 1930
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 12.01
+- sugar :: 17.48
+- price :: 75.68 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 2.0
+- ratings :: [[id:d820af31-b4e1-4b2a-a583-303b8d8f131c][Lzf Jkgaxh 1930 - 1998-6-19]]

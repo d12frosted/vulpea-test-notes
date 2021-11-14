@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       51f75414-b580-47a6-b4f9-4e140c51f7fd
+:END:
+#+title: Novr Rlrt Opabew Jymoup 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Opabew Jymoup
+- vintage :: 1981
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.34
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

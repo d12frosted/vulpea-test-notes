@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       881f4a96-5d0d-428e-b24b-8f7ee6cefe8a
+:END:
+#+title: Mkmt Sgnkls 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Sgnkls
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.82
+- sugar :: 5.22
+- price :: 78.07 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:eff133f6-f43c-4b65-834f-c9d2902fa195][Mkmt Sgnkls NV - 2022-5-7]]

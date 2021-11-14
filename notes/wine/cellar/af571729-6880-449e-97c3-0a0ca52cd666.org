@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       af571729-6880-449e-97c3-0a0ca52cd666
+:END:
+#+title: Lzf Aqazqhxc 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Aqazqhxc
+- vintage :: 1926
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.13
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

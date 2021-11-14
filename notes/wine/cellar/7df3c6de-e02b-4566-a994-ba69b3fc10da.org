@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7df3c6de-e02b-4566-a994-ba69b3fc10da
+:END:
+#+title: Mkmt Cmycq 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Cmycq
+- vintage :: 2014
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.58
+- price :: 36.82 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 7.0
+- ratings :: [[id:ebc8dfef-44fc-45eb-9a43-d52bf0173c70][Mkmt Cmycq 2014 - 2015-1-25]]

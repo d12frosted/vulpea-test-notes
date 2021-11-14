@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a10bf9ee-4bfa-4888-8933-5590259cf930
+:END:
+#+title: Dseajc Jinm Mqwpy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Mqwpy
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.35
+- sugar :: 0.24
+- price :: 31.81 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

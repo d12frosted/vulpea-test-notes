@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       994150f2-e2cb-44b1-99bd-20e30b86d5c3
+:END:
+#+title: Novr Rlrt Ufsvfev Qrbuvl 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ufsvfev Qrbuvl
+- vintage :: 1969
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.41
+- sugar :: 8.72
+- price :: 88.26 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:ea487aea-6269-4fe0-8992-ae54836dfd74][Novr Rlrt Ufsvfev Qrbuvl 1969 - 2011-8-22]]

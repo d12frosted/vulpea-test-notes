@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1bd83ce4-797a-4f04-9de3-28d28418f4cf
+:END:
+#+title: Novr Rlrt Hmjbieru Ddf 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hmjbieru Ddf
+- vintage :: 1986
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.51
+- sugar :: 22.33
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

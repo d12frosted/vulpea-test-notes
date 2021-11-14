@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c258ab2b-fd93-42e7-81f2-1a97db10c396
+:END:
+#+title: Njtzvl Ucccml Oodawwry 1932 - 2012-5-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:09f0d78a-9b57-4be4-8026-314d8bc015bd][Njtzvl Ucccml Oodawwry 1932]]
+- date :: 2012-5-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

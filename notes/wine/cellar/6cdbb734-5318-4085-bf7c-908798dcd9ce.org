@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6cdbb734-5318-4085-bf7c-908798dcd9ce
+:END:
+#+title: Novr Rlrt New Ffpieral 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: New Ffpieral
+- vintage :: 1945
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.3
+- price :: 99.81 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3ba573bd-7c3d-4a0e-b2d8-857eae1d5d47
+:END:
+#+title: Dseajc Jinm Jdvzmusl 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jdvzmusl
+- vintage :: 1963
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.98
+- price :: 68.24 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 7.5
+- ratings :: [[id:e3bec6af-3d73-4f45-863f-24219ac44f66][Dseajc Jinm Jdvzmusl 1963 - 2020-7-26]]

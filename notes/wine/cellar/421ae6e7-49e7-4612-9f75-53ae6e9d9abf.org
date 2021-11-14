@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       421ae6e7-49e7-4612-9f75-53ae6e9d9abf
+:END:
+#+title: Dfsxtmx Ulwzj 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ulwzj
+- vintage :: 1994
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.9
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:c9c8949b-5606-4384-93f4-86d99fd2a4e9][Dfsxtmx Ulwzj 1994 - 2007-2-20]]

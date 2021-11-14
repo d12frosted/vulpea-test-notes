@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9579a2df-0d5f-4aaf-a4c7-b03154a4fa39
+:END:
+#+title: Mkmt Oahvhx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Oahvhx
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.18
+- price :: 36.42 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:a287b5b3-ca9b-4f93-8126-e6787d1dddc9][Mkmt Oahvhx NV - 2005-9-6]]

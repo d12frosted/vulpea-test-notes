@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       421c30e0-fdf3-452d-80f8-f524777a06b1
+:END:
+#+title: Miv Hkl Krag 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Hkl Krag
+- vintage :: 1949
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.68
+- sugar :: 21.47
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:ac6c97aa-9b08-4b1d-8eb0-2c7c75b40394][Miv Hkl Krag 1949 - 2010-11-12]]

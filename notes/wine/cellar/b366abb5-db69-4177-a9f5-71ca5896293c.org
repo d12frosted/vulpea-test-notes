@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b366abb5-db69-4177-a9f5-71ca5896293c
+:END:
+#+title: Lzf Yisijuaa Yjcva 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Yisijuaa Yjcva
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.04
+- price :: 57.25 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

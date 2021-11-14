@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       86c15de6-2e13-4c8f-a1cf-6c1fe3c2471d
+:END:
+#+title: Rue Eiww Vqrta 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Eiww Vqrta
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.71
+- sugar :: 18.4
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

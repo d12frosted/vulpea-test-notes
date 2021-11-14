@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bc204462-bfb0-4923-aca7-7c6fe6cda0e9
+:END:
+#+title: Njtzvl Zotrb Pkvqg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zotrb Pkvqg
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.9
+- sugar :: 12.83
+- price :: 77.61 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:728f976c-0c0f-4ea9-b625-2d84d56eeab2][Njtzvl Zotrb Pkvqg NV - 1994-10-12]]

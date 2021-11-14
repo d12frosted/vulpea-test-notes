@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f062f026-8eef-437f-9d5c-235571b42a0a
+:END:
+#+title: Dfsxtmx Sfk Zfpclif 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Sfk Zfpclif
+- vintage :: 1957
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.36
+- price :: 19.29 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

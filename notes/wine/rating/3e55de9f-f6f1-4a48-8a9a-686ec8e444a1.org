@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3e55de9f-f6f1-4a48-8a9a-686ec8e444a1
+:END:
+#+title: Rue Gnk 1916 - 2004-11-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:f0a159d4-7ff2-4e5d-99b6-2bdd7d54793e][Rue Gnk 1916]]
+- date :: 2004-11-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

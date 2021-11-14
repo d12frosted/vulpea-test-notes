@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       48ff0127-0fbc-46d8-bf3b-6d09937ca7b3
+:END:
+#+title: Njtzvl Cqak Qqjgvfg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Cqak Qqjgvfg
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.72
+- sugar :: 9.16
+- price :: 51.99 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 5.0
+- ratings :: [[id:0b0ce046-095b-4e3d-82bd-6e2aecbbbf86][Njtzvl Cqak Qqjgvfg NV - 2016-2-13]]

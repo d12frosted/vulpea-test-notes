@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       49aa0d27-69cc-4219-80b1-b152aeaf07a7
+:END:
+#+title: Rue Njd 1979 - 2006-4-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:d6f5f426-50cc-45d5-89f5-06657adb2eb3][Rue Njd 1979]]
+- date :: 2006-4-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

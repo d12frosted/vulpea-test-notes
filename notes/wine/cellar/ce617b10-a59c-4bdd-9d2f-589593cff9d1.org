@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ce617b10-a59c-4bdd-9d2f-589593cff9d1
+:END:
+#+title: Mkmt Prj Wvgp 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Prj Wvgp
+- vintage :: 1980
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.32
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

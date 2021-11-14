@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       62e292e3-0d06-4dde-8501-29377e4d4a20
+:END:
+#+title: Cdeexg Saxjyut Dqdlsp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Saxjyut Dqdlsp
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.19
+- price :: 57.23 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:5793dd79-cb52-4452-b8d7-66ab80366596][Cdeexg Saxjyut Dqdlsp NV - 2023-2-3]]

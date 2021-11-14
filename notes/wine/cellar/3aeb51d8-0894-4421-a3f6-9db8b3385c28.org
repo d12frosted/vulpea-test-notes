@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3aeb51d8-0894-4421-a3f6-9db8b3385c28
+:END:
+#+title: Miv Eeahm 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Eeahm
+- vintage :: 2004
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.120000000000001
+- price :: 48.27 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:8306b1bb-6a37-4fcd-8701-5f97597de86e][Miv Eeahm 2004 - 2022-9-5]]

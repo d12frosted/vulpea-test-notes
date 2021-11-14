@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9fc4450a-8f98-439f-a64a-a2a187b0c609
+:END:
+#+title: Miv Xkm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xkm
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.55
+- sugar :: 23.85
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

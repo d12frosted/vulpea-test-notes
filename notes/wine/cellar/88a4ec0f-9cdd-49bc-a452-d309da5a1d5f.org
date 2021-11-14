@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       88a4ec0f-9cdd-49bc-a452-d309da5a1d5f
+:END:
+#+title: Vjjtw Hvrja Koixzw Vhyrtt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Koixzw Vhyrtt
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.91
+- price :: 45.54 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 2.5
+- ratings :: [[id:5a83a4c3-5dcf-4359-8b63-37f632d0d61c][Vjjtw Hvrja Koixzw Vhyrtt NV - 2024-6-19]]

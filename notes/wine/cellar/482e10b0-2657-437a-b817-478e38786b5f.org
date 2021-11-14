@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       482e10b0-2657-437a-b817-478e38786b5f
+:END:
+#+title: Dseajc Jinm Ijoaxk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ijoaxk
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.85
+- sugar :: 22.64
+- price :: 45.45 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:eaaba0e4-9312-4661-b17c-1e8720b297a3][Dseajc Jinm Ijoaxk NV - 2019-10-3]]

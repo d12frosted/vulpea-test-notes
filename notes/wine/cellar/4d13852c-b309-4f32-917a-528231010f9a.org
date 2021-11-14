@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4d13852c-b309-4f32-917a-528231010f9a
+:END:
+#+title: Miv Xxo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xxo
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.35
+- price :: 38.08 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA

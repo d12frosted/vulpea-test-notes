@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d56c9914-6b16-425e-a4fa-4380702946ca
+:END:
+#+title: Vjjtw Hvrja Nqleibx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Nqleibx
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.02
+- sugar :: 23.97
+- price :: 86.42 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:e2a9ce94-7206-4cf6-bbbc-8008b2169b40][Vjjtw Hvrja Nqleibx NV - 2008-12-8]]

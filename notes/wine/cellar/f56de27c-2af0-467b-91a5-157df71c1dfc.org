@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f56de27c-2af0-467b-91a5-157df71c1dfc
+:END:
+#+title: Miv Scjh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Scjh
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.61
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

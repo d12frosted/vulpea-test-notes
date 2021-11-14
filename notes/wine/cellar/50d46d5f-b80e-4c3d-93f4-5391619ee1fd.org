@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       50d46d5f-b80e-4c3d-93f4-5391619ee1fd
+:END:
+#+title: Rue Jufrv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jufrv
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.96
+- sugar :: 11.07
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

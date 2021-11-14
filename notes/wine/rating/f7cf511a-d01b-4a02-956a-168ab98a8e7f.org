@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f7cf511a-d01b-4a02-956a-168ab98a8e7f
+:END:
+#+title: Lzf Fjcbroez Gyqkin 1945 - 2000-5-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:7c7d9686-ab6b-4f71-aac3-30b193dd0963][Lzf Fjcbroez Gyqkin 1945]]
+- date :: 2000-5-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

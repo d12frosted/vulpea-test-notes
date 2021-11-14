@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       955bcca9-49b1-472f-a52d-f7a485b36fa3
+:END:
+#+title: Rue Wungkjdb Qdmnw 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Wungkjdb Qdmnw
+- vintage :: 1946
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.18
+- sugar :: 6.01
+- price :: 19.12 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.0
+- ratings :: [[id:35b7031d-7b8a-4cd7-b5c0-051b92d945be][Rue Wungkjdb Qdmnw 1946 - 2002-12-12]]

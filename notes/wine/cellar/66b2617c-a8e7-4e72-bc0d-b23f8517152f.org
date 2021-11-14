@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       66b2617c-a8e7-4e72-bc0d-b23f8517152f
+:END:
+#+title: Novr Rlrt Fhel Iacvpx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Fhel Iacvpx
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.1
+- price :: 23.47 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

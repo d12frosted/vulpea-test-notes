@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       29d7b748-d3fd-4b3b-81e1-583b888bf4d0
+:END:
+#+title: Njtzvl Rmsgafd Shxig NV - 2019-11-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:959a2b39-f82c-479b-b54c-5ea5481b4467][Njtzvl Rmsgafd Shxig]]
+- date :: 2019-11-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

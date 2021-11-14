@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3155fc31-6f45-4da1-b2b8-f30d9bb91faa
+:END:
+#+title: Novr Rlrt Esyq Lchgdq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Esyq Lchgdq
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.75
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

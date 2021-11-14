@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d6231ed0-cf65-4662-bb17-f39237763e67
+:END:
+#+title: Dseajc Jinm Trwyt Zteuwum 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Trwyt Zteuwum
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 9.91
+- sugar :: 13.64
+- price :: 59.02 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

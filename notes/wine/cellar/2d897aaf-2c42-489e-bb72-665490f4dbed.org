@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2d897aaf-2c42-489e-bb72-665490f4dbed
+:END:
+#+title: Rue Xfcrmojf Syj 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Xfcrmojf Syj
+- vintage :: 1934
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.84
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

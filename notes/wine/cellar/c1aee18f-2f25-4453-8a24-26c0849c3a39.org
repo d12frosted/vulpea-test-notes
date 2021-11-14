@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c1aee18f-2f25-4453-8a24-26c0849c3a39
+:END:
+#+title: Mkmt Nhr Xzwrlz 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Nhr Xzwrlz
+- vintage :: 2005
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 10.73
+- sugar :: 12.67
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 3.5
+- ratings :: [[id:78bb2b54-85cf-44d6-aa6b-5bac42d43af4][Mkmt Nhr Xzwrlz 2005 - 1996-10-26]]

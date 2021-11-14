@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2da8e968-e1fd-4ad8-8501-84f9a056d563
+:END:
+#+title: Lzf Iusn 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Iusn
+- vintage :: 2000
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 10.4
+- sugar :: 19.85
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 7.0
+- ratings :: [[id:96eec0b6-4949-4d7a-a2e2-1db096c51fb7][Lzf Iusn 2000 - 2007-8-1]]

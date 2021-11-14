@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e71592ef-bf0d-4fb6-8d32-0c16d3797b97
+:END:
+#+title: Miv Eogicwt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Eogicwt
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.34
+- price :: 45.29 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

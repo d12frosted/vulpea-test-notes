@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2233bc23-6a37-423e-99d2-a4150243e091
+:END:
+#+title: Mkmt Pfmti 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Pfmti
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.54
+- price :: 45.03 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

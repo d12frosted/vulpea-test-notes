@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       35e82786-4427-4556-adbd-1ccd3e4355a5
+:END:
+#+title: Njtzvl Fgbsr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Fgbsr
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.73
+- sugar :: 17.36
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:25c72e40-3e6a-4ad4-867d-ffa19b2373b7][Njtzvl Fgbsr NV - 2015-1-1]]

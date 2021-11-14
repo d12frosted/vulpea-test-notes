@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ed7a529f-c7d1-410f-a14d-34e107fdcc9a
+:END:
+#+title: Lzf Pij Lruckk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Pij Lruckk
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 10.85
+- sugar :: 9.47
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

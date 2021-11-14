@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cd68eb94-1d4e-4690-8f88-2dc898e0a39d
+:END:
+#+title: Dfsxtmx Jxtvzhh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Jxtvzhh
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.379999999999999
+- sugar :: 21.76
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

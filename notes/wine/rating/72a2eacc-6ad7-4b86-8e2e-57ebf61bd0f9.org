@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       72a2eacc-6ad7-4b86-8e2e-57ebf61bd0f9
+:END:
+#+title: Dfsxtmx Hsip NV - 2013-11-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:da9cc11e-5833-4ecf-bc8b-d7dc55a078a5][Dfsxtmx Hsip]]
+- date :: 2013-11-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

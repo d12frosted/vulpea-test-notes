@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4478c486-5e1a-47c3-a9a5-eda5129b0cdb
+:END:
+#+title: Lzf Hdybhcr Jkjin NV - 2024-2-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:473e8613-7d15-40d7-8b29-85d47bc8a535][Lzf Hdybhcr Jkjin]]
+- date :: 2024-2-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       87f264e5-bd76-491d-b475-7be2511c5ee9
+:END:
+#+title: Mkmt Veyjl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Veyjl
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.25
+- sugar :: 8.37
+- price :: 95.88 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

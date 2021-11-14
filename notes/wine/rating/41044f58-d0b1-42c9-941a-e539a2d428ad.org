@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       41044f58-d0b1-42c9-941a-e539a2d428ad
+:END:
+#+title: Dfsxtmx Ccaozjz NV - 2007-8-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:8e0322af-813c-488d-8bbf-10b7a22cca43][Dfsxtmx Ccaozjz]]
+- date :: 2007-8-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

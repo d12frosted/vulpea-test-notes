@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8f005b8b-f74c-4522-8c50-e2cb8d28d0c4
+:END:
+#+title: Dfsxtmx Pgj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pgj
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.4
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

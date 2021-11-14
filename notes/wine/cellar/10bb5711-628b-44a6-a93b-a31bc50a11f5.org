@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       10bb5711-628b-44a6-a93b-a31bc50a11f5
+:END:
+#+title: Rue Swipnf Fhmahbir 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Swipnf Fhmahbir
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.34
+- price :: 43.97 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

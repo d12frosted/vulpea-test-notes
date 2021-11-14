@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fb95f6cf-1f8d-4c34-92bc-eadffc7719d3
+:END:
+#+title: Njtzvl Hqaeuyx Bebnk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hqaeuyx Bebnk
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.77
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:3efb60fe-dbfa-43e7-a375-c0af77613c2d][Njtzvl Hqaeuyx Bebnk NV - 1992-8-17]]

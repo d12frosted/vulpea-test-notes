@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f5fbea03-cfe9-49d2-a081-718e0dbfc475
+:END:
+#+title: Njtzvl Xzjlflny 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xzjlflny
+- vintage :: 1989
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.63
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

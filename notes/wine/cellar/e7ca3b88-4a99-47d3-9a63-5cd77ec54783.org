@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e7ca3b88-4a99-47d3-9a63-5cd77ec54783
+:END:
+#+title: Miv Vlihu Tfum 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vlihu Tfum
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.68
+- sugar :: 1.16
+- price :: 52.77 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

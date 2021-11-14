@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dbf677ca-6edd-47ce-a1fb-97ac1ed40b5f
+:END:
+#+title: Cdeexg Dahyil NV - 1997-6-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:37d46698-1f21-49c6-9bb0-80503b9bbe94][Cdeexg Dahyil]]
+- date :: 1997-6-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5cac9d39-23a4-4989-a251-e31951d76bf5
+:END:
+#+title: Miv Oijyc 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Oijyc
+- vintage :: 1973
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.94
+- sugar :: 10.41
+- price :: 53.18 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

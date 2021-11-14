@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9d9ac225-101a-4dd6-b2d8-be49f1a74678
+:END:
+#+title: Njtzvl Kyu Irgry 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kyu Irgry
+- vintage :: 2012
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.78
+- sugar :: 20.62
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:d2aff93c-a47c-4b7d-be44-297f021a8968][Njtzvl Kyu Irgry 2012 - 2021-2-24]]

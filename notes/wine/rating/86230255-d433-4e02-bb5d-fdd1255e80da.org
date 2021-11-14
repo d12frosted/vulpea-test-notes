@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       86230255-d433-4e02-bb5d-fdd1255e80da
+:END:
+#+title: Miv Klqp Oqor NV - 1992-4-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:9fea75a1-a349-4786-a448-b33b67e37dd9][Miv Klqp Oqor]]
+- date :: 1992-4-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

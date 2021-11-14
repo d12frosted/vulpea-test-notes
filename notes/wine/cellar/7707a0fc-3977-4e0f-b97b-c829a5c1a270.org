@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7707a0fc-3977-4e0f-b97b-c829a5c1a270
+:END:
+#+title: Novr Rlrt Rlqx Qwi 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rlqx Qwi
+- vintage :: 1956
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.86
+- sugar :: 1.67
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

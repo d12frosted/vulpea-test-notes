@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       eff21d12-e4d9-4f18-8c8f-3ef60992e0e8
+:END:
+#+title: Novr Rlrt Xmwzzv Tluqlhkg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Xmwzzv Tluqlhkg
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.41
+- sugar :: 12.56
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

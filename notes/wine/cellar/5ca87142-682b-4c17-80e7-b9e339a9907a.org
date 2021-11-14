@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       5ca87142-682b-4c17-80e7-b9e339a9907a
+:END:
+#+title: Njtzvl Ufao Blwmnj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ufao Blwmnj
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.379999999999999
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

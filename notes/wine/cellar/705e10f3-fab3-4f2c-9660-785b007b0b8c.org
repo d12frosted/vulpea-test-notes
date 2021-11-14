@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       705e10f3-fab3-4f2c-9660-785b007b0b8c
+:END:
+#+title: Dfsxtmx Ncmroigr Zlwdam 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ncmroigr Zlwdam
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.25
+- price :: 50.51 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:319da268-9019-483f-8f43-829d89eddfcc][Dfsxtmx Ncmroigr Zlwdam NV - 1998-3-25]]

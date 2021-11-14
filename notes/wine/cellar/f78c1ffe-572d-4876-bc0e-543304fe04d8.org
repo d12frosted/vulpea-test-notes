@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f78c1ffe-572d-4876-bc0e-543304fe04d8
+:END:
+#+title: Miv Evpavv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Evpavv
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.559999999999999
+- price :: 26.44 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

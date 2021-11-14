@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ce97d997-2ccd-434b-b9e2-36c1115bd7cb
+:END:
+#+title: Mkmt Fydxe 1961 - 1995-4-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:175ba8d2-7816-4e0e-8a13-2e643d2fee6f][Mkmt Fydxe 1961]]
+- date :: 1995-4-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

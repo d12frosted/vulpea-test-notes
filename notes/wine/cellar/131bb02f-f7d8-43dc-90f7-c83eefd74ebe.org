@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       131bb02f-f7d8-43dc-90f7-c83eefd74ebe
+:END:
+#+title: Cdeexg Gailni Zflulxza 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Gailni Zflulxza
+- vintage :: 1962
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.65
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

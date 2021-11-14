@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1cb9fae3-0c36-46a5-8281-d9ecbdfd8957
+:END:
+#+title: Lzf Dfeohz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Dfeohz
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.26
+- sugar :: 0.39
+- price :: 14.43 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

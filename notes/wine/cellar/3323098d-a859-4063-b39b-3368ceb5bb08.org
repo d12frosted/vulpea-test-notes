@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3323098d-a859-4063-b39b-3368ceb5bb08
+:END:
+#+title: Novr Rlrt Wowd Wpfwx 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wowd Wpfwx
+- vintage :: 1996
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.92
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:37af0c60-4fa6-4d59-b086-d1e498217d70][Novr Rlrt Wowd Wpfwx 1996 - 1993-12-18]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       803f5cd2-9aa2-4b62-89bd-0e22b07383d8
+:END:
+#+title: Rue Ajgvtz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ajgvtz
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 13.98
+- sugar :: 8.51
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

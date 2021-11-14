@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e12fac73-4efd-4770-854b-3cdf5d6c37ec
+:END:
+#+title: Miv Qkxvdbd NV - 1991-1-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:20a4a958-7af9-4b9e-974c-835b2f8c7076][Miv Qkxvdbd]]
+- date :: 1991-1-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

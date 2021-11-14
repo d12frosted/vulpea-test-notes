@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       722b1d5f-8492-4eb6-b72d-73faeb2df7c5
+:END:
+#+title: Dfsxtmx Euhctfr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Euhctfr
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.15
+- sugar :: 1.71
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

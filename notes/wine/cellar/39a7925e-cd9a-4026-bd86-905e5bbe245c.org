@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       39a7925e-cd9a-4026-bd86-905e5bbe245c
+:END:
+#+title: Rue Bempfj 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Bempfj
+- vintage :: 1953
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.66
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.0
+- ratings :: [[id:bebb3aef-10e7-40b2-a509-d71ded398033][Rue Bempfj 1953 - 2015-7-15]]

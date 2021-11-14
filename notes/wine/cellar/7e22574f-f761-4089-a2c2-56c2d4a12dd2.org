@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7e22574f-f761-4089-a2c2-56c2d4a12dd2
+:END:
+#+title: Dseajc Jinm Zwxqkdsw Xrkerw 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zwxqkdsw Xrkerw
+- vintage :: 1915
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.93
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

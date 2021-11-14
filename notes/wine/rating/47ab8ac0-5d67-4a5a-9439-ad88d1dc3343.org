@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       47ab8ac0-5d67-4a5a-9439-ad88d1dc3343
+:END:
+#+title: Dseajc Jinm Bedtmgzy Vmqretm NV - 2012-10-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:f602e411-9209-4d66-9561-2675bf04d9d3][Dseajc Jinm Bedtmgzy Vmqretm]]
+- date :: 2012-10-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

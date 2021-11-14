@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f18e93d1-ad0f-4580-9f08-a3fd8d2affb3
+:END:
+#+title: Miv Dlzdj Pmlrxhf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Dlzdj Pmlrxhf
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 11.92
+- price :: 65.53 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

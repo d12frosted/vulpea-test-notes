@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       72e4ac69-5a8a-4c04-a5f9-d9fccb3322bf
+:END:
+#+title: Rue Lnka 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Lnka
+- vintage :: 1963
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 10.55
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 6.5
+- ratings :: [[id:9a158ae5-a3e7-4664-b5c0-42600fdefe5e][Rue Lnka 1963 - 2008-8-2]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b694bf63-1c14-410b-b797-7ec33c2564eb
+:END:
+#+title: Miv Cjv 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Cjv
+- vintage :: 1929
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.74
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:0683791f-bf82-402a-83b1-10af588d8ccc][Miv Cjv 1929 - 1995-6-7]]

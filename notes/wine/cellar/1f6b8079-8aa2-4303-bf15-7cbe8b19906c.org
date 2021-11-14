@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1f6b8079-8aa2-4303-bf15-7cbe8b19906c
+:END:
+#+title: Miv Dpvou 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Dpvou
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.21
+- sugar :: 9.87
+- price :: 45.53 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:debaf262-06a1-4720-88b0-0ce9f7a5eba8][Miv Dpvou NV - 1992-1-25]]

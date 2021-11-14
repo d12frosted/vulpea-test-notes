@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3a4c3326-ca09-406b-9a8f-6754bca64954
+:END:
+#+title: Dfsxtmx Txvmgo Hcfnuee 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Txvmgo Hcfnuee
+- vintage :: 1966
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.66
+- price :: 73.97 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

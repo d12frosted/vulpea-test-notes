@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       44b0c0dd-a450-4480-9305-3ac24db517c8
+:END:
+#+title: Vjjtw Hvrja Ylen 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ylen
+- vintage :: 1942
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.31
+- sugar :: 1.7
+- price :: 51.54 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cbe23ec2-40d6-40f4-aa00-b6301324924e
+:END:
+#+title: Mkmt Beakfapi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Beakfapi
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.22
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.5
+- ratings :: [[id:63709416-ee3a-4715-a8d6-7ce80ba14b0a][Mkmt Beakfapi NV - 2008-2-14]]

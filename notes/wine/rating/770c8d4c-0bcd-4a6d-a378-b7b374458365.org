@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       770c8d4c-0bcd-4a6d-a378-b7b374458365
+:END:
+#+title: Njtzvl Gzpgerrh NV - 2005-7-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:1dc078d9-b899-4a30-96bf-da779a2b183c][Njtzvl Gzpgerrh]]
+- date :: 2005-7-17
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       352074d0-ae9c-4847-8696-ccc217a68fef
+:END:
+#+title: Dfsxtmx Lydzrpwu Dzclsn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Lydzrpwu Dzclsn
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.54
+- sugar :: 5.93
+- price :: 101.27 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

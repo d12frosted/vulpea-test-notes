@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a3f7a611-5c81-4ba5-bead-cb198a5f2f57
+:END:
+#+title: Dfsxtmx Jrtnnfw Zgkc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Jrtnnfw Zgkc
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.06
+- price :: 94.46 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 4.5
+- ratings :: [[id:b3dc405a-42a5-4799-968e-7a8892e7a820][Dfsxtmx Jrtnnfw Zgkc NV - 1995-11-24]]

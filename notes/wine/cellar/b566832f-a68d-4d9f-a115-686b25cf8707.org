@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b566832f-a68d-4d9f-a115-686b25cf8707
+:END:
+#+title: Cdeexg Rbr Mqfp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Rbr Mqfp
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.04
+- sugar :: 7.47
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

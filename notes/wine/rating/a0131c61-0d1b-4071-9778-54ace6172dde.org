@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a0131c61-0d1b-4071-9778-54ace6172dde
+:END:
+#+title: Cdeexg Raq Lpz NV - 2003-10-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:41abf816-9414-4e75-a12f-35545027c8b6][Cdeexg Raq Lpz]]
+- date :: 2003-10-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

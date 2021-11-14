@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8ca48e3e-7209-40df-bcc8-cac4af932a65
+:END:
+#+title: Cdeexg Xcagqzf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Xcagqzf
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.83
+- sugar :: 2.56
+- price :: 40.06 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

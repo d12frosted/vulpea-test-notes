@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d9ec039a-c489-4fd4-9f29-3fc8aa47a7cc
+:END:
+#+title: Novr Rlrt Rftbkyb Ucnhzh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rftbkyb Ucnhzh
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.52
+- sugar :: 2.53
+- price :: 101.62 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: duckduckgo
+- rating :: 7.0
+- ratings :: [[id:564ba053-4f11-48da-a22d-41c80ddc4131][Novr Rlrt Rftbkyb Ucnhzh NV - 2003-4-15]]

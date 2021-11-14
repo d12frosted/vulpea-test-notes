@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       23456608-f7d6-4f46-bbbf-5a72ac07f3b3
+:END:
+#+title: Vjjtw Hvrja Hvckiz Ytuweu 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hvckiz Ytuweu
+- vintage :: 1926
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.58
+- sugar :: 9.04
+- price :: 62.99 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

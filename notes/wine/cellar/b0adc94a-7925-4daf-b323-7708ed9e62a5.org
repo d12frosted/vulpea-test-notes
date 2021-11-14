@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b0adc94a-7925-4daf-b323-7708ed9e62a5
+:END:
+#+title: Dfsxtmx Ymcyazv Yzvczj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ymcyazv Yzvczj
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.28
+- sugar :: 15.08
+- price :: 96.61 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

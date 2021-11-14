@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7ff8a03a-95e6-4fd9-aa37-148abccd98f7
+:END:
+#+title: Cdeexg Yxuy Twsbdanm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Yxuy Twsbdanm
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.4
+- price :: 101.63 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:f74fed07-4252-4383-beab-221b077b9a25][Cdeexg Yxuy Twsbdanm NV - 2019-7-7]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       48fef18f-f605-4d7d-b7c5-c725337ab8ab
+:END:
+#+title: Dfsxtmx Adnxhwkl Uwa 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Adnxhwkl Uwa
+- vintage :: 1900
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 9.47
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

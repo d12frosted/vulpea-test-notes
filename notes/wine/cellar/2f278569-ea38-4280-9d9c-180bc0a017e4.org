@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2f278569-ea38-4280-9d9c-180bc0a017e4
+:END:
+#+title: Novr Rlrt Pypvxo Cemqjyv 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Pypvxo Cemqjyv
+- vintage :: 2012
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.02
+- sugar :: 10.34
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:13d81c5e-3e61-4100-8b70-b276ce86560b][Novr Rlrt Pypvxo Cemqjyv 2012 - 2001-11-1]]

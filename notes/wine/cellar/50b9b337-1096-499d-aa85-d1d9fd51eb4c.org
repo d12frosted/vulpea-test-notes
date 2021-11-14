@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       50b9b337-1096-499d-aa85-d1d9fd51eb4c
+:END:
+#+title: Dfsxtmx Bffplkd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Bffplkd
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 13.86
+- price :: 63.70 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a7699fb8-fd66-4a94-a5e2-4d59f7040b6e
+:END:
+#+title: Novr Rlrt Byfx NV - 2003-5-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:705905be-812a-4e31-b440-2a8171189056][Novr Rlrt Byfx]]
+- date :: 2003-5-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a09d0a5f-2882-432b-a513-74a10a1c47c6
+:END:
+#+title: Novr Rlrt Mxg 2006 - 2013-12-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:d496d3f6-3d79-4d78-97fc-1741ff7cabcb][Novr Rlrt Mxg 2006]]
+- date :: 2013-12-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

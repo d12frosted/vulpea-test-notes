@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       93142d9d-405c-4f76-b4ad-f17301f3aac3
+:END:
+#+title: Dfsxtmx Jsuezvw Wugeqcwx 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Jsuezvw Wugeqcwx
+- vintage :: 1916
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.36
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 2.5
+- ratings :: [[id:5622980c-2e52-46f1-b538-b33b92f66b0b][Dfsxtmx Jsuezvw Wugeqcwx 1916 - 2003-12-3]]

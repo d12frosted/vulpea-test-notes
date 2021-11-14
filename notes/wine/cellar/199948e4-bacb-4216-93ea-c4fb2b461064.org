@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       199948e4-bacb-4216-93ea-c4fb2b461064
+:END:
+#+title: Dfsxtmx Crwgm 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Crwgm
+- vintage :: 1928
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.66
+- sugar :: 3.85
+- price :: 35.30 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 4.5
+- ratings :: [[id:aea52273-283b-40d7-8d0e-334504256914][Dfsxtmx Crwgm 1928 - 2024-8-10]]

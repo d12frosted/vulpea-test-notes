@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       87b5d901-f49a-4d14-a9c4-e8a36006d77c
+:END:
+#+title: Lzf Squwwmr 1932 - 2008-10-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:cdd26844-2add-48f2-9a1b-b4b4d968b1de][Lzf Squwwmr 1932]]
+- date :: 2008-10-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

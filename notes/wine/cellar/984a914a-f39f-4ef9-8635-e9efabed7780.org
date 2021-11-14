@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       984a914a-f39f-4ef9-8635-e9efabed7780
+:END:
+#+title: Novr Rlrt Nsae Zyjtcfzv 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nsae Zyjtcfzv
+- vintage :: 1997
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.8
+- price :: 20.74 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:f5dd3957-9bd8-4f25-b548-e0d070c912f9][Novr Rlrt Nsae Zyjtcfzv 1997 - 1999-11-16]]

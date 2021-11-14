@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b61c832c-3c0d-4b87-818b-4ccdeaa3eb68
+:END:
+#+title: Dfsxtmx Ohycpjlg NV - 1990-10-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:3cb4b85d-5035-4ded-9196-2ed51dedab3f][Dfsxtmx Ohycpjlg]]
+- date :: 1990-10-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 18
+- score_max :: 20
+- total :: 9.0

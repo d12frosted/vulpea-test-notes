@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5997bfed-835d-4d24-b899-37049ee5006a
+:END:
+#+title: Njtzvl Hizjiwdl 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hizjiwdl
+- vintage :: 1925
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.47
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 3.5
+- ratings :: [[id:9600b355-d09d-4173-81b8-40b84234dab8][Njtzvl Hizjiwdl 1925 - 2006-9-25]]

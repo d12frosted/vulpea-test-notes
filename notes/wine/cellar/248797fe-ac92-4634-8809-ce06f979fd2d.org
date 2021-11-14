@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       248797fe-ac92-4634-8809-ce06f979fd2d
+:END:
+#+title: Vjjtw Hvrja Saatssat Hsa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Saatssat Hsa
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.73
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

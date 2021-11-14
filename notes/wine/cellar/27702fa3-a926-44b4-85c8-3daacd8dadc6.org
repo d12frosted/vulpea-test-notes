@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       27702fa3-a926-44b4-85c8-3daacd8dadc6
+:END:
+#+title: Dseajc Jinm Dhvflkiv 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Dhvflkiv
+- vintage :: 1984
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.04
+- price :: 65.09 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

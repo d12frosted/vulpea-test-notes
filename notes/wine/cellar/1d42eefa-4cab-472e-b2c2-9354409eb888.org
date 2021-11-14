@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1d42eefa-4cab-472e-b2c2-9354409eb888
+:END:
+#+title: Dfsxtmx Ahgpkmjf Fdbwhz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ahgpkmjf Fdbwhz
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.82
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:d32c4c8a-09a2-4b27-8c2f-0d826e8a6119][Dfsxtmx Ahgpkmjf Fdbwhz NV - 1998-10-8]]

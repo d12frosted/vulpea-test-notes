@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1f9528b7-7514-4f41-9469-9fca24ea3e44
+:END:
+#+title: Mkmt Vkamyn Zrkbgqfk 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Vkamyn Zrkbgqfk
+- vintage :: 1924
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.29
+- sugar :: 1.05
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a190f029-a668-4c87-beac-5c0e70c53f19
+:END:
+#+title: Vjjtw Hvrja Ybrt 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ybrt
+- vintage :: 1932
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.02
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

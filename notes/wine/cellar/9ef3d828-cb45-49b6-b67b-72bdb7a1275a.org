@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9ef3d828-cb45-49b6-b67b-72bdb7a1275a
+:END:
+#+title: Cdeexg Ulmwi Xssgb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ulmwi Xssgb
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.63
+- price :: 3.59 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

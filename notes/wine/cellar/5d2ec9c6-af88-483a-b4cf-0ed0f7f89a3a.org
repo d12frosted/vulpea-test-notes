@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5d2ec9c6-af88-483a-b4cf-0ed0f7f89a3a
+:END:
+#+title: Miv Ngio Prcqxso 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ngio Prcqxso
+- vintage :: 1956
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.69
+- sugar :: 1.47
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

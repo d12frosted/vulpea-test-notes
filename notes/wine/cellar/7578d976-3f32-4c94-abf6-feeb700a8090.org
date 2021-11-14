@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7578d976-3f32-4c94-abf6-feeb700a8090
+:END:
+#+title: Njtzvl Phyeom Houbn 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Phyeom Houbn
+- vintage :: 1942
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 13.36
+- price :: 42.11 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

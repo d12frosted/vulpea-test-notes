@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1f0477e0-9ab6-4e57-8a1a-e6d3e8b4f68f
+:END:
+#+title: Dfsxtmx Dzkpztff Wgffzja 1962 - 1991-6-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:b3e53466-e8a7-4d6e-879a-62759644bda8][Dfsxtmx Dzkpztff Wgffzja 1962]]
+- date :: 1991-6-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       602b6ff8-7fff-4d8c-910c-8db7e4440072
+:END:
+#+title: Rue Qifeynpe Buczcmth 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qifeynpe Buczcmth
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.09
+- price :: 32.48 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.0
+- ratings :: [[id:f6d22c5b-896b-4666-99bd-ecaa1ff724de][Rue Qifeynpe Buczcmth NV - 2022-9-18]]

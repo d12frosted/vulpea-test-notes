@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c0cdcc8c-1516-4392-982c-a136aa08af58
+:END:
+#+title: Njtzvl Obikh Jvbns 1976 - 1992-7-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:b72abfb8-bb6d-4446-b2c4-27ed8cc55b2a][Njtzvl Obikh Jvbns 1976]]
+- date :: 1992-7-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

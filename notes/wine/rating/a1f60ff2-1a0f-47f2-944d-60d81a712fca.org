@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a1f60ff2-1a0f-47f2-944d-60d81a712fca
+:END:
+#+title: Dfsxtmx Nhugai Imfgdjhi NV - 2008-8-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:947d1b7b-3b38-4652-b7c8-8e580b16a84c][Dfsxtmx Nhugai Imfgdjhi]]
+- date :: 2008-8-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

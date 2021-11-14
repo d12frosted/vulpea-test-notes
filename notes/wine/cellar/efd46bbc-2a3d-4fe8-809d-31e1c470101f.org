@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       efd46bbc-2a3d-4fe8-809d-31e1c470101f
+:END:
+#+title: Dfsxtmx Umlrj Vdycfe 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Umlrj Vdycfe
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.5
+- sugar :: 21.41
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:ab513180-8cf9-4cd4-9e6d-8ae36ab9a237][Dfsxtmx Umlrj Vdycfe NV - 2013-8-27]]

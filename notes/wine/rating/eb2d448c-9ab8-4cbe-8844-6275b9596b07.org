@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       eb2d448c-9ab8-4cbe-8844-6275b9596b07
+:END:
+#+title: Dseajc Jinm Utablmdk Viu NV - 2017-12-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:4e2e4e91-e7bb-48c1-83b5-8c7b8eb2878e][Dseajc Jinm Utablmdk Viu]]
+- date :: 2017-12-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

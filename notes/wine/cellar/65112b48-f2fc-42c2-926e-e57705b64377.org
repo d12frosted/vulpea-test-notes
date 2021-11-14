@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       65112b48-f2fc-42c2-926e-e57705b64377
+:END:
+#+title: Miv Taajsmkh 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Taajsmkh
+- vintage :: 1989
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.11
+- sugar :: 10.69
+- price :: 8.18 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:5f1df959-700d-4480-aa62-9212b54be447][Miv Taajsmkh 1989 - 2017-6-4]]

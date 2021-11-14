@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       7e4c28ff-9771-4446-8c69-011b6a1c4b28
+:END:
+#+title: Cdeexg Siyypwjl Nsnzha 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Siyypwjl Nsnzha
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.39
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

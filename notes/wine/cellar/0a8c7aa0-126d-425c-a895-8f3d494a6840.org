@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0a8c7aa0-126d-425c-a895-8f3d494a6840
+:END:
+#+title: Dseajc Jinm Qmjht Olkwawt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Qmjht Olkwawt
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.06
+- price :: 21.08 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

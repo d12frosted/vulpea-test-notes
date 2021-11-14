@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7f01915f-1c41-430f-8cd4-8ad2e89d618e
+:END:
+#+title: Lzf Oictwhwg Hol 1927 - 2004-11-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:6b97eb0b-c09a-4c64-9c1c-009b2f26ec08][Lzf Oictwhwg Hol 1927]]
+- date :: 2004-11-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

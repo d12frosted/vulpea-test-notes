@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e17af922-3717-4dac-8c59-dc951ee3763c
+:END:
+#+title: Miv Qthgcvz 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Qthgcvz
+- vintage :: 2002
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.19
+- sugar :: 13.73
+- price :: 8.50 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

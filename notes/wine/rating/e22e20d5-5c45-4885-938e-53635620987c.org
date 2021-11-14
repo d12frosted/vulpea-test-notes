@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e22e20d5-5c45-4885-938e-53635620987c
+:END:
+#+title: Mkmt Rdfitwxr NV - 2007-5-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:b7821fb9-0b5f-4ac8-80a0-214466d304d4][Mkmt Rdfitwxr]]
+- date :: 2007-5-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

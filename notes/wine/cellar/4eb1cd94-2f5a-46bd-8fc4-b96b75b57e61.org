@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4eb1cd94-2f5a-46bd-8fc4-b96b75b57e61
+:END:
+#+title: Njtzvl Lebilzwv Axevzb 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lebilzwv Axevzb
+- vintage :: 2013
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.129999999999999
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

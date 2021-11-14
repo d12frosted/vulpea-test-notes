@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       077b85b5-ca03-4eb2-96de-846cbd84e740
+:END:
+#+title: Dseajc Jinm Kblcgzm Gegrtli 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Kblcgzm Gegrtli
+- vintage :: 1921
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.68
+- sugar :: 2.72
+- price :: 67.23 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

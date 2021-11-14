@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       5ae29203-5196-4ad6-ba49-e0428b517657
-:END:
-#+title: Uezg
-#+filetags: :wine:appellation:
-
-

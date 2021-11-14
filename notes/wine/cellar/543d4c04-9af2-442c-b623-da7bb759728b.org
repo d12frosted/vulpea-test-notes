@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       543d4c04-9af2-442c-b623-da7bb759728b
+:END:
+#+title: Mkmt Ree Bwsu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ree Bwsu
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.54
+- price :: 87.52 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: duckduckgo
+- rating :: 2.5
+- ratings :: [[id:edc67c78-13f6-40d6-99d8-08d4faf84ece][Mkmt Ree Bwsu NV - 2019-11-2]]

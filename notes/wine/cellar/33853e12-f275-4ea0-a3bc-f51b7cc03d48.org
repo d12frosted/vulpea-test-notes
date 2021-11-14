@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       33853e12-f275-4ea0-a3bc-f51b7cc03d48
+:END:
+#+title: Novr Rlrt Oaacxcv Iunmhvl 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Oaacxcv Iunmhvl
+- vintage :: 1916
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.88
+- sugar :: 1.55
+- price :: 17.51 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

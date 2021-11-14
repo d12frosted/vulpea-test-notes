@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       456a689e-310d-4a96-8c45-575013c5e00f
+:END:
+#+title: Njtzvl Wht Oroolwjg 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Wht Oroolwjg
+- vintage :: 1932
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.56
+- price :: 58.81 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

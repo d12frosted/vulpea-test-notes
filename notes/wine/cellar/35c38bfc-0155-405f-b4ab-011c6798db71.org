@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       35c38bfc-0155-405f-b4ab-011c6798db71
+:END:
+#+title: Dfsxtmx Mzwrpxem 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mzwrpxem
+- vintage :: 1939
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.35
+- price :: 64.03 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

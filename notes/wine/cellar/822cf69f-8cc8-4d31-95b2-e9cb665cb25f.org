@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       822cf69f-8cc8-4d31-95b2-e9cb665cb25f
+:END:
+#+title: Dseajc Jinm Qqfwtgrh Srj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Qqfwtgrh Srj
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.49
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:346c8215-650b-4e61-b4ce-1e39f6644362][Dseajc Jinm Qqfwtgrh Srj NV - 2018-8-6]]

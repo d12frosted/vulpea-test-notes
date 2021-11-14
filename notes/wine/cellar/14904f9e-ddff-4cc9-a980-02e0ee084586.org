@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       14904f9e-ddff-4cc9-a980-02e0ee084586
+:END:
+#+title: Lzf Ctoo Lpz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ctoo Lpz
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.32
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

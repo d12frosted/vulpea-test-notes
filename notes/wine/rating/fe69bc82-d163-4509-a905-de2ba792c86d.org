@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fe69bc82-d163-4509-a905-de2ba792c86d
+:END:
+#+title: Njtzvl Tzk Uwcmi NV - 2023-7-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:0bfb97c6-ee8c-4597-8094-03cf721b9b82][Njtzvl Tzk Uwcmi]]
+- date :: 2023-7-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

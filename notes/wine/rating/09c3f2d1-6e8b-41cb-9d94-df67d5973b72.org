@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       09c3f2d1-6e8b-41cb-9d94-df67d5973b72
+:END:
+#+title: Lzf Chwm Oaevj NV - 2007-6-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:412e253a-5449-44c6-b484-a66946a850cf][Lzf Chwm Oaevj]]
+- date :: 2007-6-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

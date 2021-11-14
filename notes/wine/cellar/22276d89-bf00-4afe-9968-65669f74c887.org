@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       22276d89-bf00-4afe-9968-65669f74c887
+:END:
+#+title: Njtzvl Pjjjbem Orfzhubh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Pjjjbem Orfzhubh
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.57
+- sugar :: 14.28
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

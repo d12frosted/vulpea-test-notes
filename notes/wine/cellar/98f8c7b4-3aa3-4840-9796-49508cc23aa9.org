@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       98f8c7b4-3aa3-4840-9796-49508cc23aa9
+:END:
+#+title: Mkmt Ryc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ryc
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.67
+- price :: 15.47 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:aba5de33-d66f-4034-aa48-1f838705f049][Mkmt Ryc NV - 1997-3-25]]

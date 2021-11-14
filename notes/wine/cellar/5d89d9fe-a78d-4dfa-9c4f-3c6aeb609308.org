@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5d89d9fe-a78d-4dfa-9c4f-3c6aeb609308
+:END:
+#+title: Vjjtw Hvrja Huveq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Huveq
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.69
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

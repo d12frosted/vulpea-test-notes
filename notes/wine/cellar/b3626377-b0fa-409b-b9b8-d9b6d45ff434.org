@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b3626377-b0fa-409b-b9b8-d9b6d45ff434
+:END:
+#+title: Rue Hba 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hba
+- vintage :: 1929
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.01
+- price :: 21.70 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:948ce1c6-245f-4ab7-9aca-193b67bb350b][Rue Hba 1929 - 2016-11-23]]

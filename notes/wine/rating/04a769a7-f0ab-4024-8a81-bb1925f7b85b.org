@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       04a769a7-f0ab-4024-8a81-bb1925f7b85b
+:END:
+#+title: Cdeexg Yspxbdbp NV - 1996-1-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:e4e6d540-f25f-4f93-a678-38aa626c1dfe][Cdeexg Yspxbdbp]]
+- date :: 1996-1-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

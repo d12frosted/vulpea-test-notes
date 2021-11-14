@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7d93cd30-3fa9-4acf-b522-a13481184b58
+:END:
+#+title: Dfsxtmx Pzrkkhji 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pzrkkhji
+- vintage :: 1929
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.0
+- sugar :: 22.35
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

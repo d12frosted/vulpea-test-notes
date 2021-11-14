@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c8ae1a5c-cb5e-4156-8d74-96e92baa3700
+:END:
+#+title: Lzf Izstrzcc Vmssrtqh 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Izstrzcc Vmssrtqh
+- vintage :: 1967
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.89
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:a809aff0-3829-4a5d-9f07-2b35ddd73e12][Lzf Izstrzcc Vmssrtqh 1967 - 2002-12-27]]

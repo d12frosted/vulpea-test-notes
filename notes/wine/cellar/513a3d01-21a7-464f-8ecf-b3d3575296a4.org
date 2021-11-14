@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       513a3d01-21a7-464f-8ecf-b3d3575296a4
+:END:
+#+title: Rue Cgydfp Biiov 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Cgydfp Biiov
+- vintage :: 1944
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.84
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:4c83c244-0809-4464-8ea9-805cbf975e39][Rue Cgydfp Biiov 1944 - 2000-11-19]]

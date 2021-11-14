@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       933f2127-707f-4852-b55b-07ea9481c804
+:END:
+#+title: Dseajc Jinm Aoj 1999 - 2012-1-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:128ab341-f53f-4abd-b3ef-cdcb4d0c7142][Dseajc Jinm Aoj 1999]]
+- date :: 2012-1-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

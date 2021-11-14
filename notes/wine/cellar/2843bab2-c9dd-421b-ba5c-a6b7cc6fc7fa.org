@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2843bab2-c9dd-421b-ba5c-a6b7cc6fc7fa
+:END:
+#+title: Dfsxtmx Xvlimv 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xvlimv
+- vintage :: 1959
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.35
+- sugar :: 6.05
+- price :: 74.00 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

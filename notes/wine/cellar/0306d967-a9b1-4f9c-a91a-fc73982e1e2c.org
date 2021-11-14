@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0306d967-a9b1-4f9c-a91a-fc73982e1e2c
+:END:
+#+title: Miv Tsykh Vwosgk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Tsykh Vwosgk
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 13.870000000000001
+- sugar :: 23.09
+- price :: 56.33 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: wikipedia
+- rating :: 7.0
+- ratings :: [[id:d9b781ab-ada4-4caf-8cee-1e72082f0447][Miv Tsykh Vwosgk NV - 2023-7-19]]

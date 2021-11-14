@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fdb99031-534e-48e7-9d65-ff91bd0f0aa0
+:END:
+#+title: Rue Obk 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Obk
+- vintage :: 2006
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.82
+- sugar :: 12.92
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 5.5
+- ratings :: [[id:fecfa26c-cf9a-4e03-bf7a-29703c7e216f][Rue Obk 2006 - 1996-11-18]]

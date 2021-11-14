@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1a165119-eea4-4446-8325-5214013dd7de
+:END:
+#+title: Lzf Tvxaf Faix 1930 - 2009-6-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:184267e1-febb-4ea3-a16f-eb368e8e536c][Lzf Tvxaf Faix 1930]]
+- date :: 2009-6-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

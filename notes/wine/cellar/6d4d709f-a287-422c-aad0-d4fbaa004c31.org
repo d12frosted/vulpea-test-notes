@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6d4d709f-a287-422c-aad0-d4fbaa004c31
+:END:
+#+title: Njtzvl Lldfbntm Bvgzukb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lldfbntm Bvgzukb
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.370000000000001
+- price :: 43.03 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

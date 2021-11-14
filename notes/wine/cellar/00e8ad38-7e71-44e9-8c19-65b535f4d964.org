@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       00e8ad38-7e71-44e9-8c19-65b535f4d964
+:END:
+#+title: Dseajc Jinm Hlk Olgqm 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Hlk Olgqm
+- vintage :: 1915
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.54
+- sugar :: 3.22
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

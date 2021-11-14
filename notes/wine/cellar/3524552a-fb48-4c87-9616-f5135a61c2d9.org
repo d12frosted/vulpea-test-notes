@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3524552a-fb48-4c87-9616-f5135a61c2d9
+:END:
+#+title: Dseajc Jinm Muze Hczd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Muze Hczd
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.45
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

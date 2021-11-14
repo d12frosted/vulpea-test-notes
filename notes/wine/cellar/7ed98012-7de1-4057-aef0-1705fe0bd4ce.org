@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7ed98012-7de1-4057-aef0-1705fe0bd4ce
+:END:
+#+title: Mkmt Cubnimp 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Cubnimp
+- vintage :: 1913
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.9
+- sugar :: 12.31
+- price :: 16.27 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

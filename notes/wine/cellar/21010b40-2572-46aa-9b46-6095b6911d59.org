@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       21010b40-2572-46aa-9b46-6095b6911d59
+:END:
+#+title: Njtzvl Zhfnony 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zhfnony
+- vintage :: 1944
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.2
+- sugar :: 11.64
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

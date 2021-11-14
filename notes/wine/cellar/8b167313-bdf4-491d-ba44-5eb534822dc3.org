@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8b167313-bdf4-491d-ba44-5eb534822dc3
+:END:
+#+title: Rue Rzm Coqqzu 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Rzm Coqqzu
+- vintage :: 1958
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.1
+- sugar :: 13.77
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

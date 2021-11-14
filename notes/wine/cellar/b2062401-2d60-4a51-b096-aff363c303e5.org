@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b2062401-2d60-4a51-b096-aff363c303e5
+:END:
+#+title: Novr Rlrt Vgywy Cepegehd 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vgywy Cepegehd
+- vintage :: 1907
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.51
+- sugar :: 17.18
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:1a2e5fd3-ccbf-43e7-9551-8c9983716a26][Novr Rlrt Vgywy Cepegehd 1907 - 2005-7-18]]

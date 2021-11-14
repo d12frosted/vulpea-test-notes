@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a6363a62-a441-4f96-863f-9e3928554b9b
+:END:
+#+title: Rue Qmk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qmk
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.91
+- price :: 32.37 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

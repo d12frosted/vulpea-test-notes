@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       eb027b0e-bae0-4577-93ec-ae78b18d768a
+:END:
+#+title: Vjjtw Hvrja Aowyhzl 2015 - 2001-9-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:578d3949-2c00-4388-ae8f-1c9cdd1ade6d][Vjjtw Hvrja Aowyhzl 2015]]
+- date :: 2001-9-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

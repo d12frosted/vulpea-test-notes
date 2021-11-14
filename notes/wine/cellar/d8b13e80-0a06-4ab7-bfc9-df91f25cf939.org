@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d8b13e80-0a06-4ab7-bfc9-df91f25cf939
+:END:
+#+title: Miv Odgyrrkp 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Odgyrrkp
+- vintage :: 2006
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.55
+- sugar :: 10.6
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

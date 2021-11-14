@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c0143750-964c-4a11-8248-cbd0be43116f
+:END:
+#+title: Njtzvl Liv Aen NV - 2000-12-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:95fbed1e-58bb-40b5-9319-4d6709e0b6a5][Njtzvl Liv Aen]]
+- date :: 2000-12-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

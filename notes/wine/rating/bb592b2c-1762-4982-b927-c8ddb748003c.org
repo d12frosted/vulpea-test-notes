@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bb592b2c-1762-4982-b927-c8ddb748003c
+:END:
+#+title: Novr Rlrt Csgtnz 1938 - 1990-11-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:993079b3-bd68-4b17-99c7-56c3bfaf0768][Novr Rlrt Csgtnz 1938]]
+- date :: 1990-11-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

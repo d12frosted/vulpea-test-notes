@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3c573350-d42f-4016-b658-304d19e52b00
+:END:
+#+title: Vjjtw Hvrja Gxgwxhrx Mhtlxuk 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Gxgwxhrx Mhtlxuk
+- vintage :: 1968
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.35
+- price :: 19.98 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

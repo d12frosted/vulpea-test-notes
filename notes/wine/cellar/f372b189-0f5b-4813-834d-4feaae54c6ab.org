@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f372b189-0f5b-4813-834d-4feaae54c6ab
+:END:
+#+title: Novr Rlrt Mpuzxwv Aldcslj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Mpuzxwv Aldcslj
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.97
+- sugar :: 16.59
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       dc6ae351-ec1e-426d-8469-44f561af4e12
+:END:
+#+title: Miv Omr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Omr
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.68
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.5
+- ratings :: [[id:f81b44a6-e140-46d2-a963-c7d597c32aca][Miv Omr NV - 1999-6-4]]

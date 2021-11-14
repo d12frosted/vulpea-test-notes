@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       64490af2-3575-4970-b385-caae7ba9d9ea
+:END:
+#+title: Vjjtw Hvrja Arv 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Arv
+- vintage :: 1929
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.39
+- sugar :: 18.08
+- price :: 49.22 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

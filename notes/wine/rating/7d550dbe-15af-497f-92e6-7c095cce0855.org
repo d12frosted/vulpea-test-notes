@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7d550dbe-15af-497f-92e6-7c095cce0855
+:END:
+#+title: Rue Mvwanm Wjl NV - 2017-10-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:6bddf897-80be-4b2c-991a-6ef0bd23092c][Rue Mvwanm Wjl]]
+- date :: 2017-10-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

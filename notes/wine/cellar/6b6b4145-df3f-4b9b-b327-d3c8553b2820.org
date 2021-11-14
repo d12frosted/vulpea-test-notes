@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6b6b4145-df3f-4b9b-b327-d3c8553b2820
+:END:
+#+title: Lzf Qbfvioua Qokcssn 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Qbfvioua Qokcssn
+- vintage :: 1949
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.8
+- sugar :: 1.74
+- price :: 26.58 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

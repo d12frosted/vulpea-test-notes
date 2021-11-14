@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a8aa1385-8cf2-41f1-a8ef-c61ddebb6bda
+:END:
+#+title: Miv Xdkcrbwx Hlrko 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xdkcrbwx Hlrko
+- vintage :: 2016
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.54
+- sugar :: 5.48
+- price :: 76.01 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:bd192cd3-98fd-436f-b0a5-e73483543fc9][Miv Xdkcrbwx Hlrko 2016 - 1998-4-10]]

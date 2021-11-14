@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1e4839ae-8083-42d6-8871-0112e7024e3b
+:END:
+#+title: Dfsxtmx Ojyrbld 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ojyrbld
+- vintage :: 1917
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.32
+- price :: 67.41 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

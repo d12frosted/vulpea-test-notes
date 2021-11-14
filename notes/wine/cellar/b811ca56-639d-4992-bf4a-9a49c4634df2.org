@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b811ca56-639d-4992-bf4a-9a49c4634df2
+:END:
+#+title: Dfsxtmx Qhfsyg 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qhfsyg
+- vintage :: 1936
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.77
+- price :: 90.26 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

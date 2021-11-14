@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bbeb0622-f12f-49e1-a9ea-0aae8e3f13c8
+:END:
+#+title: Dseajc Jinm Ifpizaon Grxbt NV - 2012-4-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:84aecd16-3e58-43e1-aeff-c22dae9958f5][Dseajc Jinm Ifpizaon Grxbt]]
+- date :: 2012-4-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

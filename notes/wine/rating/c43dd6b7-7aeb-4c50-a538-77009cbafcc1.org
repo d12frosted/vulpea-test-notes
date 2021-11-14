@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c43dd6b7-7aeb-4c50-a538-77009cbafcc1
+:END:
+#+title: Cdeexg Tjqm Vvirpmz 1904 - 2000-2-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:1322f605-ead8-4935-9643-bba1b9ece074][Cdeexg Tjqm Vvirpmz 1904]]
+- date :: 2000-2-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

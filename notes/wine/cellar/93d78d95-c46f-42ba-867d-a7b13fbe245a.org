@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       93d78d95-c46f-42ba-867d-a7b13fbe245a
+:END:
+#+title: Mkmt Vfzqxrmf Nxk 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Vfzqxrmf Nxk
+- vintage :: 1909
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.46
+- sugar :: 23.69
+- price :: 37.54 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

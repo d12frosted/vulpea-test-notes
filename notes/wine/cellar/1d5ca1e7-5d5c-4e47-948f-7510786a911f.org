@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1d5ca1e7-5d5c-4e47-948f-7510786a911f
+:END:
+#+title: Dfsxtmx Ptkcqyl Huksjy 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ptkcqyl Huksjy
+- vintage :: 1935
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 10.1
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:a5c44b0d-db07-4e2d-868e-81d55120e941][Dfsxtmx Ptkcqyl Huksjy 1935 - 2022-9-19]]

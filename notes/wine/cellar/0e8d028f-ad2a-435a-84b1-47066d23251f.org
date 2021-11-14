@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0e8d028f-ad2a-435a-84b1-47066d23251f
+:END:
+#+title: Dfsxtmx Rts Wxgs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rts Wxgs
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.43
+- sugar :: 18.18
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 3.0
+- ratings :: [[id:f7454f44-00b9-47f9-916a-0c57dc9438ba][Dfsxtmx Rts Wxgs NV - 2023-2-8]]

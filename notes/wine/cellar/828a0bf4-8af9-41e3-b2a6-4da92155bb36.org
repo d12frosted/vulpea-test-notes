@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       828a0bf4-8af9-41e3-b2a6-4da92155bb36
+:END:
+#+title: Vjjtw Hvrja Hrfc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hrfc
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.35
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.5
+- ratings :: [[id:61b2c8f5-b8e7-4af3-ad99-92c01f2f0ba4][Vjjtw Hvrja Hrfc NV - 2017-7-13]]

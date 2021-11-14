@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cb56ba3f-8f50-4d04-8e97-db4036b85d48
+:END:
+#+title: Cdeexg Xgfmzlr Hpyiq 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Xgfmzlr Hpyiq
+- vintage :: 1974
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.68
+- sugar :: 21.97
+- price :: 101.17 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

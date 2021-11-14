@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f7097f3b-08c0-47ba-932d-a286de37c2ee
+:END:
+#+title: Rue Urjjho 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Urjjho
+- vintage :: 1904
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.28
+- sugar :: 8.28
+- price :: 34.41 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

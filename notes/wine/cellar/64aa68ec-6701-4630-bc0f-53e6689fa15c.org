@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       64aa68ec-6701-4630-bc0f-53e6689fa15c
+:END:
+#+title: Dseajc Jinm Hegv Mvhan 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Hegv Mvhan
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.39
+- sugar :: 16.0
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:9c46479e-48db-413b-bd49-e6e971d5c9c3][Dseajc Jinm Hegv Mvhan NV - 2016-6-27]]

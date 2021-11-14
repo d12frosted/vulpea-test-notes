@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       541f6a11-57e1-49be-98b1-12257c5060c2
+:END:
+#+title: Mkmt Mlqv Fwxmfl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Mlqv Fwxmfl
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.34
+- sugar :: 21.87
+- price :: 38.83 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       028bf5f6-827a-436d-bcea-47ef2aad12ce
+:END:
+#+title: Dfsxtmx Dujoa 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dujoa
+- vintage :: 1993
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.17
+- sugar :: 10.81
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

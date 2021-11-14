@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0e0a64f5-77c3-4845-afa4-9a0d39001fbe
+:END:
+#+title: Lzf Tqsdtyb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tqsdtyb
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 11.629999999999999
+- sugar :: 22.86
+- price :: 83.73 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

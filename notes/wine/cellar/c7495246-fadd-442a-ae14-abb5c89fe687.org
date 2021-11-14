@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c7495246-fadd-442a-ae14-abb5c89fe687
+:END:
+#+title: Dseajc Jinm Chvjyig Qld 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Chvjyig Qld
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 11.29
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

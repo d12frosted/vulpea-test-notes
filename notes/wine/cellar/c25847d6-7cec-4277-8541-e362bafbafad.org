@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c25847d6-7cec-4277-8541-e362bafbafad
+:END:
+#+title: Njtzvl Axsuxucg Hliketlu 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Axsuxucg Hliketlu
+- vintage :: 1902
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.92
+- sugar :: 2.8
+- price :: 69.51 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

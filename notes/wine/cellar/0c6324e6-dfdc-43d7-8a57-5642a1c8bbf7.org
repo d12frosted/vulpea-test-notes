@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0c6324e6-dfdc-43d7-8a57-5642a1c8bbf7
+:END:
+#+title: Lzf Ykxaoz 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ykxaoz
+- vintage :: 1978
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.71
+- sugar :: 14.48
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:b71f0d8c-2a8b-4503-b867-cebc50e866ad][Lzf Ykxaoz 1978 - 2021-9-27]]

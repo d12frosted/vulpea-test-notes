@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f3dc5cf2-efbf-46bf-9af6-b10589a25f87
+:END:
+#+title: Vjjtw Hvrja Eyzwxv Idytgl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Eyzwxv Idytgl
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.22
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

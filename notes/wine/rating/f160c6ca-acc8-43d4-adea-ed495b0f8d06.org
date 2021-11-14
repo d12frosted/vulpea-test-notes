@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f160c6ca-acc8-43d4-adea-ed495b0f8d06
+:END:
+#+title: Rue Dkex Wsbu NV - 2011-12-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:3073fcc8-f326-49ed-bd1f-7edac4341072][Rue Dkex Wsbu]]
+- date :: 2011-12-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

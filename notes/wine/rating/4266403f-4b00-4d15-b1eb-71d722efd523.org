@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4266403f-4b00-4d15-b1eb-71d722efd523
+:END:
+#+title: Dseajc Jinm Gfoja 1944 - 2006-6-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:831ea755-2fcb-4002-8501-eeb32a7b4aa5][Dseajc Jinm Gfoja 1944]]
+- date :: 2006-6-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

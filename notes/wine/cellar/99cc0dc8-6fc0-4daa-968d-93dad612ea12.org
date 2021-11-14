@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       99cc0dc8-6fc0-4daa-968d-93dad612ea12
+:END:
+#+title: Miv Xed 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xed
+- vintage :: 2013
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.99
+- sugar :: 3.92
+- price :: 96.61 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

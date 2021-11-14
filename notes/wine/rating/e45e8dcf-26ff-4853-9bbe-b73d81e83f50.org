@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e45e8dcf-26ff-4853-9bbe-b73d81e83f50
+:END:
+#+title: Cdeexg Smzvooit 1984 - 2013-8-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:5b8e526f-7859-41fe-9fbd-1b132cdea7a1][Cdeexg Smzvooit 1984]]
+- date :: 2013-8-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

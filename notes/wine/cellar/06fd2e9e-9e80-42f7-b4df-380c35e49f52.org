@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       06fd2e9e-9e80-42f7-b4df-380c35e49f52
+:END:
+#+title: Dfsxtmx Ecviw Dzvyvszn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ecviw Dzvyvszn
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.629999999999999
+- sugar :: 21.49
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

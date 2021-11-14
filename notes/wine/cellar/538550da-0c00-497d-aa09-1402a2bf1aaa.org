@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       538550da-0c00-497d-aa09-1402a2bf1aaa
+:END:
+#+title: Novr Rlrt Jjrgylzb Ppgp 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jjrgylzb Ppgp
+- vintage :: 1934
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.69
+- sugar :: 22.63
+- price :: 33.16 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

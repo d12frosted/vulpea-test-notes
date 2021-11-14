@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0e76e5a4-1779-45d0-b0dd-17073ed79350
+:END:
+#+title: Cdeexg Eljiepnq Fyg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Eljiepnq Fyg
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.27
+- sugar :: 4.98
+- price :: 25.55 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

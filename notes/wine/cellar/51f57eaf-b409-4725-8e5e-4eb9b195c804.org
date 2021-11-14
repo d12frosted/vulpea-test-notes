@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       51f57eaf-b409-4725-8e5e-4eb9b195c804
+:END:
+#+title: Njtzvl Kswqc Nxj 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kswqc Nxj
+- vintage :: 1911
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.81
+- sugar :: 2.94
+- price :: 35.48 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

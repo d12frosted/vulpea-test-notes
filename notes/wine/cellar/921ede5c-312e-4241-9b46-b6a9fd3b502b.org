@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       921ede5c-312e-4241-9b46-b6a9fd3b502b
+:END:
+#+title: Njtzvl Ajh Iamlg 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ajh Iamlg
+- vintage :: 1996
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.82
+- sugar :: 5.34
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

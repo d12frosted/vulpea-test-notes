@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ee6ef182-377d-4166-bb44-95d29a44bf6c
+:END:
+#+title: Vjjtw Hvrja Wvns 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Wvns
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.49
+- sugar :: 19.97
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

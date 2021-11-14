@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b357c1e2-8b99-48ed-9b56-6b028bf529aa
+:END:
+#+title: Njtzvl Tsgbhmio 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Tsgbhmio
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.41
+- price :: 60.42 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:f9281f0c-6196-4600-b89a-e1631bd47d01][Njtzvl Tsgbhmio NV - 2021-5-6]]

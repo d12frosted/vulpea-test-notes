@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8d032310-b466-4bd9-92d4-e8436f21d879
+:END:
+#+title: Dfsxtmx Flxpr Auresch 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Flxpr Auresch
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.09
+- price :: 60.23 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       680cbbcc-cc8b-42a9-8e70-a5476bd16cf2
+:END:
+#+title: Novr Rlrt Lzeezv 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lzeezv
+- vintage :: 2010
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.58
+- price :: 9.23 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

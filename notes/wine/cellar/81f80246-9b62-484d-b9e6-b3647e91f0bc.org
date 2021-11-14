@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       81f80246-9b62-484d-b9e6-b3647e91f0bc
+:END:
+#+title: Dseajc Jinm Fvsocr Flbzrdq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Fvsocr Flbzrdq
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.45
+- sugar :: 2.26
+- price :: 62.00 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

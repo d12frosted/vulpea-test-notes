@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       340727d2-6aff-4230-80f8-98bc1b5b1168
+:END:
+#+title: Dseajc Jinm Kbeha Qdv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Kbeha Qdv
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 10.35
+- price :: 77.89 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:c56a1494-40db-4bbc-b90e-c63f9577977e][Dseajc Jinm Kbeha Qdv NV - 1994-1-19]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       10b2b540-4917-4b0c-9b9c-791671b14b03
+:END:
+#+title: Vjjtw Hvrja Pcokumf 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pcokumf
+- vintage :: 1927
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.31
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:289efe8a-b134-4264-8441-49a99ec2a63d][Vjjtw Hvrja Pcokumf 1927 - 1992-5-4]]

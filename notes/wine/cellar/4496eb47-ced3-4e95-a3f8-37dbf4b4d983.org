@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4496eb47-ced3-4e95-a3f8-37dbf4b4d983
+:END:
+#+title: Dseajc Jinm Qcpvdqhg Fsfffnd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Qcpvdqhg Fsfffnd
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.17
+- sugar :: 4.12
+- price :: 82.63 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.0
+- ratings :: [[id:75b4925f-4a36-410e-8622-ccc964848eb5][Dseajc Jinm Qcpvdqhg Fsfffnd NV - 1993-6-26]]

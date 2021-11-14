@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b88dfd71-078b-4b79-9077-cc7ea74db5f6
+:END:
+#+title: Vjjtw Hvrja Exja 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Exja
+- vintage :: 1979
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.15
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 8.0
+- ratings :: [[id:981013b1-4db6-412c-8b4c-aa16357a0de0][Vjjtw Hvrja Exja 1979 - 2024-1-22]]

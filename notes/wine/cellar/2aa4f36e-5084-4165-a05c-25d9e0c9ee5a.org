@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2aa4f36e-5084-4165-a05c-25d9e0c9ee5a
+:END:
+#+title: Cdeexg Pnfilw Xvkambu 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Pnfilw Xvkambu
+- vintage :: 2013
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.65
+- sugar :: 14.88
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

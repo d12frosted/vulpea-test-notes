@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e5bd8d16-9e6b-485e-a04b-8d302cb2bf8c
+:END:
+#+title: Novr Rlrt Eltsxotc NV - 1991-12-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:14a00643-d359-47ea-b1ef-460a3c1199f8][Novr Rlrt Eltsxotc]]
+- date :: 1991-12-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

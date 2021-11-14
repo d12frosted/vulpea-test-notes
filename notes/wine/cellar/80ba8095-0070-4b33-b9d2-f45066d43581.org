@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       80ba8095-0070-4b33-b9d2-f45066d43581
+:END:
+#+title: Dfsxtmx Axknel Npktqjqy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Axknel Npktqjqy
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.59
+- sugar :: 6.88
+- price :: 63.82 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

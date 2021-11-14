@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1b055e20-2dc0-4011-a1e2-4d95de95f680
+:END:
+#+title: Vjjtw Hvrja Ksh 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ksh
+- vintage :: 1972
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.99
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 8.0
+- ratings :: [[id:07499586-b83e-48a4-907a-7c56ac78b07c][Vjjtw Hvrja Ksh 1972 - 1993-7-18]]

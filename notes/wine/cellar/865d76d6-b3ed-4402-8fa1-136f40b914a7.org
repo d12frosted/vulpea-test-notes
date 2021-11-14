@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       865d76d6-b3ed-4402-8fa1-136f40b914a7
+:END:
+#+title: Dfsxtmx Nhnel 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nhnel
+- vintage :: 2010
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.97
+- sugar :: 15.36
+- price :: 23.32 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

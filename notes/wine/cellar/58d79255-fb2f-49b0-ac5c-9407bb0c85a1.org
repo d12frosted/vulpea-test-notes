@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       58d79255-fb2f-49b0-ac5c-9407bb0c85a1
+:END:
+#+title: Cdeexg Rbldcwv Fynepebs 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Rbldcwv Fynepebs
+- vintage :: 1995
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.7
+- price :: 31.36 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.0
+- ratings :: [[id:e172981a-640c-4a87-bfd1-019fcac81190][Cdeexg Rbldcwv Fynepebs 1995 - 1993-4-14]]

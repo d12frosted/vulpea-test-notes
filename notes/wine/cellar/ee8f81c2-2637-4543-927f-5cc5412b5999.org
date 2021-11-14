@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ee8f81c2-2637-4543-927f-5cc5412b5999
+:END:
+#+title: Mkmt Mgndng 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Mgndng
+- vintage :: 1927
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 12.43
+- price :: 72.83 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:69ef0a2b-9b72-4c0d-a102-eadd8e57314d][Mkmt Mgndng 1927 - 1994-1-5]]

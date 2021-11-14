@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       efc18739-56d2-45ed-b05c-47f6862a7aff
+:END:
+#+title: Cdeexg Vmfdby Xeayjs 1935 - 2017-6-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:ded5844b-e697-41b9-9b79-6ceb897d43f8][Cdeexg Vmfdby Xeayjs 1935]]
+- date :: 2017-6-3
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

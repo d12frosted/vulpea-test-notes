@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       edbb353d-6cd5-4400-820c-733f233771d3
+:END:
+#+title: Lzf Jvfhu Wpgdpza NV - 2005-7-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:6a37fceb-7b5e-4412-9729-daa4d0b7959a][Lzf Jvfhu Wpgdpza]]
+- date :: 2005-7-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

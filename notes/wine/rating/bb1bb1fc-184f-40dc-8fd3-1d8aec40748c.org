@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bb1bb1fc-184f-40dc-8fd3-1d8aec40748c
+:END:
+#+title: Miv Enlm Rhffw 2010 - 1998-3-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:ed9cf3a2-28fb-4381-89f0-e1e9ed2989f8][Miv Enlm Rhffw 2010]]
+- date :: 1998-3-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

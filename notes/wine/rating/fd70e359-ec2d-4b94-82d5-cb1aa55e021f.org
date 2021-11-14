@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fd70e359-ec2d-4b94-82d5-cb1aa55e021f
+:END:
+#+title: Dfsxtmx Jmp Assq NV - 2002-1-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:a596375c-e79a-4b04-a08d-5481ea3c7bfd][Dfsxtmx Jmp Assq]]
+- date :: 2002-1-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

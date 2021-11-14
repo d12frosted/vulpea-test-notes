@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fd4baa9c-c9d7-45be-b7e2-df40e9138a0f
+:END:
+#+title: Njtzvl Pexqxzm Mlulye 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Pexqxzm Mlulye
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.16
+- sugar :: 1.37
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d8407b3d-08e1-4ed7-968b-361da8f4927f
+:END:
+#+title: Vjjtw Hvrja Rqmgnuac Fbdzbxih 1929 - 2000-2-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:9cebc66c-c10f-47ea-b8c6-9728afc8cd18][Vjjtw Hvrja Rqmgnuac Fbdzbxih 1929]]
+- date :: 2000-2-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

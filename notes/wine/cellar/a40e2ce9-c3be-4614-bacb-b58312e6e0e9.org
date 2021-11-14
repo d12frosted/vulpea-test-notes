@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a40e2ce9-c3be-4614-bacb-b58312e6e0e9
+:END:
+#+title: Dfsxtmx Nhlyfts 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nhlyfts
+- vintage :: 2001
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.34
+- sugar :: 16.42
+- price :: 37.13 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

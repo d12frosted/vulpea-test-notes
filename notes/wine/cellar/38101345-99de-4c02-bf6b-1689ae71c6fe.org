@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       38101345-99de-4c02-bf6b-1689ae71c6fe
+:END:
+#+title: Dseajc Jinm Vlj Hbbtal 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vlj Hbbtal
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 11.92
+- sugar :: 17.02
+- price :: 7.90 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

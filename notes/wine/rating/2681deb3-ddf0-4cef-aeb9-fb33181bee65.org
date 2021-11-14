@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2681deb3-ddf0-4cef-aeb9-fb33181bee65
+:END:
+#+title: Mkmt Qqrzlk 1999 - 2000-4-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:4905213b-e719-4192-a89d-0e6b76b33e5a][Mkmt Qqrzlk 1999]]
+- date :: 2000-4-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

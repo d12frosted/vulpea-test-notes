@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1c26cbf0-058f-409a-8fe8-aacb8563de8b
+:END:
+#+title: Njtzvl Ojwzbq Aikan 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ojwzbq Aikan
+- vintage :: 1991
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.47
+- price :: 10.30 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       88c0db7f-c00f-48c8-9562-905634b7495e
+:END:
+#+title: Cdeexg Ecuwj Lshowwaf 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ecuwj Lshowwaf
+- vintage :: 2002
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 11.8
+- sugar :: 13.37
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

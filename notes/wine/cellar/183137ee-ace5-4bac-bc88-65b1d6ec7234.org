@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       183137ee-ace5-4bac-bc88-65b1d6ec7234
+:END:
+#+title: Lzf Sxnp Gxzj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Sxnp Gxzj
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.13
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:65cdb797-7a3f-4851-b9c3-50b65f3b6b89][Lzf Sxnp Gxzj NV - 1990-10-25]]

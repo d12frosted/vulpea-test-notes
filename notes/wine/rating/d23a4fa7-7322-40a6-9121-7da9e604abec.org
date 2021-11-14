@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d23a4fa7-7322-40a6-9121-7da9e604abec
+:END:
+#+title: Cdeexg Enyr Fvamga 1982 - 2002-10-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:a17e6b7e-8e5b-4c5f-a9c2-de3052268d7c][Cdeexg Enyr Fvamga 1982]]
+- date :: 2002-10-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

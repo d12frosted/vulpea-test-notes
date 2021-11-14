@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a0b94f4b-1e68-4edd-b4b6-796d3db7944e
+:END:
+#+title: Dseajc Jinm Tgi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tgi
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.59
+- sugar :: 6.93
+- price :: 44.62 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

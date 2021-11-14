@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9fd6ca11-63b1-4f66-8a60-b28d95b3e75a
+:END:
+#+title: Lzf Oyjb Qsyizly NV - 2019-6-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:b50cb23a-fc90-4b9d-9101-92074b2216fc][Lzf Oyjb Qsyizly]]
+- date :: 2019-6-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

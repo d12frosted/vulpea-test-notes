@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       120b0970-f79d-4ea7-b522-d574a8092539
+:END:
+#+title: Rue Brhn Camnyxf 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Brhn Camnyxf
+- vintage :: 1919
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.24
+- price :: 80.23 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

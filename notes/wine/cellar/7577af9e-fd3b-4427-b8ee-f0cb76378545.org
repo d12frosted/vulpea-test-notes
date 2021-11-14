@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7577af9e-fd3b-4427-b8ee-f0cb76378545
+:END:
+#+title: Rue Otltih Blkveu 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Otltih Blkveu
+- vintage :: 2018
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.530000000000001
+- sugar :: 0.29
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 1.5
+- ratings :: [[id:33f9248e-c72f-4f7d-94fd-f21c1212effe][Rue Otltih Blkveu 2018 - 2012-8-24]]

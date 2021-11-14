@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       28c36ac4-3168-419c-8bc2-be6b1c0d4527
+:END:
+#+title: Njtzvl Jbksgpt Sgydout 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Jbksgpt Sgydout
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.73
+- sugar :: 10.52
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:9ee3e60f-2b7b-48bb-8ad5-7fb92aac69b2][Njtzvl Jbksgpt Sgydout NV - 2010-8-26]]

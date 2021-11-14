@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       50c74c9b-b5c4-463f-b637-ba7ae3eb6360
+:END:
+#+title: Lzf Htseykw 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Htseykw
+- vintage :: 1982
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.72
+- sugar :: 21.2
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:93e31c38-c9a5-4be3-be6f-ea26b046ba2a][Lzf Htseykw 1982 - 1991-9-25]]

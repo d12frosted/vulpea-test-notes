@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7f23801d-3108-4c0f-9414-bd4530eae2e2
+:END:
+#+title: Lzf Hszwydn Uhaazwz 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Hszwydn Uhaazwz
+- vintage :: 2006
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.48
+- sugar :: 14.73
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:fffd85f6-7493-4f5d-83df-5f2e6be631b6][Lzf Hszwydn Uhaazwz 2006 - 2015-3-21]]

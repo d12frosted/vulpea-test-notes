@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c1e36add-86cc-457f-8dc5-2736ec5a983a
+:END:
+#+title: Cdeexg Slvs Alqcv 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Slvs Alqcv
+- vintage :: 1980
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 9.08
+- sugar :: 13.77
+- price :: 41.01 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

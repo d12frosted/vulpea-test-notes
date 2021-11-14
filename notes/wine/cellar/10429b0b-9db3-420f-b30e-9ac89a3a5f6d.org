@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       10429b0b-9db3-420f-b30e-9ac89a3a5f6d
+:END:
+#+title: Dfsxtmx Uoxrmlxy Qxommwxt 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Uoxrmlxy Qxommwxt
+- vintage :: 1968
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.870000000000001
+- sugar :: 18.93
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:3fcf585b-58de-4c03-952c-1e8697b74609][Dfsxtmx Uoxrmlxy Qxommwxt 1968 - 2023-4-14]]

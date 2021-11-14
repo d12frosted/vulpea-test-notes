@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       078de551-09a5-43c0-96a8-598c70ab6a34
+:END:
+#+title: Miv Weekwcrw Evtd 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Weekwcrw Evtd
+- vintage :: 1913
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.280000000000001
+- price :: 54.01 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:323b86ef-3ce7-479e-b0ff-ad059c92543f][Miv Weekwcrw Evtd 1913 - 2013-11-24]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a6bd4329-ad17-4c7b-b35c-bd684af90d52
+:END:
+#+title: Dfsxtmx Jga Onqinxeg 1930 - 2022-9-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:0157c359-1efd-4f82-b4ac-f4f24f82e7ba][Dfsxtmx Jga Onqinxeg 1930]]
+- date :: 2022-9-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       12a9ae57-3219-4da3-bec4-16f55a7daa80
+:END:
+#+title: Novr Rlrt Rslywqri 1987 - 2010-6-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:df1c7517-a929-4cf9-b309-ae62ab72ead2][Novr Rlrt Rslywqri 1987]]
+- date :: 2010-6-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

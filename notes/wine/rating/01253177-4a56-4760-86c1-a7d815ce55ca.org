@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       01253177-4a56-4760-86c1-a7d815ce55ca
+:END:
+#+title: Dseajc Jinm Vfpwafj Yxgcb NV - 2006-4-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:74726d3e-2c69-4ab5-a3c2-8ed318e483c8][Dseajc Jinm Vfpwafj Yxgcb]]
+- date :: 2006-4-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

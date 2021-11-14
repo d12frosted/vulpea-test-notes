@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d4da6bfa-fcbc-4c6d-b58d-a0000098b9d4
+:END:
+#+title: Novr Rlrt Opmzy 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Opmzy
+- vintage :: 2012
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.53
+- sugar :: 5.97
+- price :: 57.12 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:e49b8f0a-03e4-4e19-a731-c99bfbb9b1d9][Novr Rlrt Opmzy 2012 - 1999-2-14]]

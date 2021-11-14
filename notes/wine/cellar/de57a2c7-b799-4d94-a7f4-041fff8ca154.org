@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       de57a2c7-b799-4d94-a7f4-041fff8ca154
+:END:
+#+title: Cdeexg Uutlijde Qbe 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Uutlijde Qbe
+- vintage :: 1908
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.98
+- sugar :: 22.63
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

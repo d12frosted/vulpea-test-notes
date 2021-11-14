@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9a8e78bb-2150-4995-9026-9c22ab3bf388
+:END:
+#+title: Dfsxtmx Qsdw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qsdw
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.8
+- price :: 58.12 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

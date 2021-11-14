@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0596fbf8-1018-43ca-ae1b-c511d126a4cb
+:END:
+#+title: Vjjtw Hvrja Cmce Aypz 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Cmce Aypz
+- vintage :: 1937
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.84
+- price :: 61.44 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

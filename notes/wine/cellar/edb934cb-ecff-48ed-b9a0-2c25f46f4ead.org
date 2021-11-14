@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       edb934cb-ecff-48ed-b9a0-2c25f46f4ead
+:END:
+#+title: Novr Rlrt Rlkm Ceaastve 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rlkm Ceaastve
+- vintage :: 1929
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 12.07
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:040ad919-61e4-408c-940a-1ebd99c1a1e5][Novr Rlrt Rlkm Ceaastve 1929 - 1994-2-5]]

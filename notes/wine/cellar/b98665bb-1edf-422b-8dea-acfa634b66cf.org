@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b98665bb-1edf-422b-8dea-acfa634b66cf
+:END:
+#+title: Mkmt Ahord 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ahord
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.65
+- sugar :: 17.14
+- price :: 7.60 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA

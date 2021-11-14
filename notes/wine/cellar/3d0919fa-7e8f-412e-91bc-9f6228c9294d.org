@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3d0919fa-7e8f-412e-91bc-9f6228c9294d
+:END:
+#+title: Novr Rlrt Pkmocoxw Hmguqyl 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Pkmocoxw Hmguqyl
+- vintage :: 2012
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.5
+- price :: 97.38 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

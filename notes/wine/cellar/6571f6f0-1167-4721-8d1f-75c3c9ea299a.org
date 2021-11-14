@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6571f6f0-1167-4721-8d1f-75c3c9ea299a
+:END:
+#+title: Miv Fernxm Mqsnzpiq 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Fernxm Mqsnzpiq
+- vintage :: 2001
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.04
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

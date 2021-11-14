@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f4c34058-5d28-4548-866f-ae840318f538
+:END:
+#+title: Cdeexg Nxptr Twdwtsb 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Nxptr Twdwtsb
+- vintage :: 1911
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.92
+- price :: 35.54 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7b07ff52-e1f2-4274-a163-8dbb524743d7
+:END:
+#+title: Cdeexg Ypkz Xdtzod 1954 - 2005-4-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:bec9e4b0-1e90-4390-b72b-eb431d2142a0][Cdeexg Ypkz Xdtzod 1954]]
+- date :: 2005-4-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

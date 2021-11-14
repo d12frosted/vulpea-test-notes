@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       257be46c-6122-48a3-a9f9-1a2229df737c
+:END:
+#+title: Novr Rlrt Zxmrfk 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Zxmrfk
+- vintage :: 1933
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.379999999999999
+- price :: 64.57 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:583a3f76-6747-4c24-982c-0b70b0ab2d57][Novr Rlrt Zxmrfk 1933 - 2005-7-10]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       50c93c73-7fbf-41e4-91d4-293b3f34fd1b
+:END:
+#+title: Lzf Mkop 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mkop
+- vintage :: 1983
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.86
+- sugar :: 6.81
+- price :: 31.96 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: 2.5
+- ratings :: [[id:754737ab-be28-47b2-adf8-be27872950f3][Lzf Mkop 1983 - 1998-10-18]]

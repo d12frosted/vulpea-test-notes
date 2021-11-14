@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       beb23f16-d964-46d1-b6b3-4f54cda9b6ae
+:END:
+#+title: Novr Rlrt Hctjjkbi Dttoi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hctjjkbi Dttoi
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.91
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5a9d2bb5-23a5-4570-9bd2-9d309680e41f
+:END:
+#+title: Lzf Bpcqkzxe Ckmusw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Bpcqkzxe Ckmusw
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 12.29
+- price :: 71.99 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

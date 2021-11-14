@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a05bbd71-feae-4049-8e30-c017a6a5a8ae
+:END:
+#+title: Njtzvl Ljz Gbwzbo 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ljz Gbwzbo
+- vintage :: 1917
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.6
+- sugar :: 7.63
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.0
+- ratings :: [[id:f2f1e5bd-997d-49a2-af0e-50c8aee68474][Njtzvl Ljz Gbwzbo 1917 - 2010-5-10]]

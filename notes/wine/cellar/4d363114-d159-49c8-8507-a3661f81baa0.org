@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4d363114-d159-49c8-8507-a3661f81baa0
+:END:
+#+title: Novr Rlrt Hfszsue Izjx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hfszsue Izjx
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.04
+- price :: 14.98 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:e99da28a-b59b-423a-b08a-d66919dfec8a][Novr Rlrt Hfszsue Izjx NV - 2021-2-19]]

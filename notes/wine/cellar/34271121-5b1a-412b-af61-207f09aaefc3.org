@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       34271121-5b1a-412b-af61-207f09aaefc3
+:END:
+#+title: Njtzvl Bswxc Zvho 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Bswxc Zvho
+- vintage :: 1954
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.34
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

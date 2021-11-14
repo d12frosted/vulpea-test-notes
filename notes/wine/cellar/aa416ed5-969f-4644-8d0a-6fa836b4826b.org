@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       aa416ed5-969f-4644-8d0a-6fa836b4826b
+:END:
+#+title: Rue Ombpc 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ombpc
+- vintage :: 1936
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.84
+- sugar :: 1.19
+- price :: 37.06 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

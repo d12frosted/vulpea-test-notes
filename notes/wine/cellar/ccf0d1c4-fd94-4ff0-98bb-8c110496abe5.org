@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ccf0d1c4-fd94-4ff0-98bb-8c110496abe5
+:END:
+#+title: Cdeexg Xmcvkr 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Xmcvkr
+- vintage :: 1915
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.48
+- sugar :: 9.78
+- price :: 18.20 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

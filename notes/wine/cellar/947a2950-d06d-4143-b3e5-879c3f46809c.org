@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       947a2950-d06d-4143-b3e5-879c3f46809c
+:END:
+#+title: Novr Rlrt Pqpu Cyukc 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Pqpu Cyukc
+- vintage :: 1961
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.97
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.0
+- ratings :: [[id:d31de7aa-3640-4e3c-99a1-9c28e883658f][Novr Rlrt Pqpu Cyukc 1961 - 1998-8-18]]

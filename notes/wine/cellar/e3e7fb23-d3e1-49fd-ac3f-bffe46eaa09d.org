@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e3e7fb23-d3e1-49fd-ac3f-bffe46eaa09d
+:END:
+#+title: Dseajc Jinm Hpcvlvvy 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Hpcvlvvy
+- vintage :: 2009
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.64
+- sugar :: 20.56
+- price :: 12.91 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

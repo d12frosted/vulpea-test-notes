@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       55ac8f55-8909-40d9-a3c1-0859bfa6023c
+:END:
+#+title: Mkmt Stzd Ggxrxrdq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Stzd Ggxrxrdq
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.65
+- price :: 69.31 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

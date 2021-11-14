@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4853f2b5-df8e-4be3-8e1e-364acc8920a9
+:END:
+#+title: Dfsxtmx Oacx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Oacx
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.93
+- sugar :: 4.2
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:c33befcd-5ac4-4e3f-a694-aa75e6b6cf6f][Dfsxtmx Oacx NV - 2023-7-4]]

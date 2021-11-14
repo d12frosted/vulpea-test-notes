@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       361f9b3e-9412-4732-910e-bcd71ed8fbfc
+:END:
+#+title: Dfsxtmx Wfisjd 1986 - 2013-7-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:0739405f-f39d-4fcc-bb6f-ac83b1dae5d7][Dfsxtmx Wfisjd 1986]]
+- date :: 2013-7-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

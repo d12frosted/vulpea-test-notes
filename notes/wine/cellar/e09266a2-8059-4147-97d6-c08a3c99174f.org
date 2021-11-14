@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e09266a2-8059-4147-97d6-c08a3c99174f
+:END:
+#+title: Dseajc Jinm Psfcytl Hprp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Psfcytl Hprp
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.04
+- sugar :: 20.92
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

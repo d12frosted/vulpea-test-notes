@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       411a755c-5fed-4771-820f-32aa7fb92e52
+:END:
+#+title: Dfsxtmx Txm 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Txm
+- vintage :: 1966
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.04
+- sugar :: 4.81
+- price :: 88.95 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

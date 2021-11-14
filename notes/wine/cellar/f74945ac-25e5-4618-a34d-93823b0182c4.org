@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f74945ac-25e5-4618-a34d-93823b0182c4
+:END:
+#+title: Novr Rlrt Dsa Pacahnk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Dsa Pacahnk
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 13.39
+- sugar :: 16.76
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:52801660-76e3-462d-974a-08913e93c47f][Novr Rlrt Dsa Pacahnk NV - 2010-10-10]]

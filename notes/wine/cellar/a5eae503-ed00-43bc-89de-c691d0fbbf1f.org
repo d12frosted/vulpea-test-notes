@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a5eae503-ed00-43bc-89de-c691d0fbbf1f
+:END:
+#+title: Miv Spc Jmtgcumy 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Spc Jmtgcumy
+- vintage :: 1918
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.9
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.5
+- ratings :: [[id:476c9f68-1280-428a-9c0f-1a240e32c835][Miv Spc Jmtgcumy 1918 - 2024-12-15]]

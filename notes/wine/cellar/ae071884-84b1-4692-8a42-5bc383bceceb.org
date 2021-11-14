@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ae071884-84b1-4692-8a42-5bc383bceceb
+:END:
+#+title: Miv Rwgvh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rwgvh
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.57
+- sugar :: 15.89
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:b445d308-d92d-4bf8-91b6-98559d1f8ba4][Miv Rwgvh NV - 2021-7-21]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       440b3835-194e-48ae-bbf0-7ca2deaee37c
+:END:
+#+title: Novr Rlrt Nti Sotqfcej 1976 - 2008-7-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:c85f1895-dad6-4914-a987-a5d9f06064c9][Novr Rlrt Nti Sotqfcej 1976]]
+- date :: 2008-7-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

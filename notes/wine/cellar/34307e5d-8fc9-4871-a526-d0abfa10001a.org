@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       34307e5d-8fc9-4871-a526-d0abfa10001a
+:END:
+#+title: Lzf Jvcssu Ttelxwdp 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jvcssu Ttelxwdp
+- vintage :: 1968
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.35
+- sugar :: 19.98
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 8.5
+- ratings :: [[id:8476509a-0462-4184-9409-471412b66602][Lzf Jvcssu Ttelxwdp 1968 - 2024-8-16]]

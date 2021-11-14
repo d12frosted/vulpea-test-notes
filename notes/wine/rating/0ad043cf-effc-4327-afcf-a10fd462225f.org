@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0ad043cf-effc-4327-afcf-a10fd462225f
+:END:
+#+title: Cdeexg Xvsv Mkcpf 1967 - 2013-12-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:a2679cf5-eb69-4739-8634-3d89fa1d3ebc][Cdeexg Xvsv Mkcpf 1967]]
+- date :: 2013-12-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

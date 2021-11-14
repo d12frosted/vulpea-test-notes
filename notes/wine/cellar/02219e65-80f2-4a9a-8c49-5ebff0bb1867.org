@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       02219e65-80f2-4a9a-8c49-5ebff0bb1867
+:END:
+#+title: Rue Ygkpsnx Jwsy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ygkpsnx Jwsy
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.06
+- sugar :: 4.04
+- price :: 28.81 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

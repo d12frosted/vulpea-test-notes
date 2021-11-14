@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b27e23ea-882a-4446-b5bf-da197c26dfe1
+:END:
+#+title: Novr Rlrt Tjv Qkgztur 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tjv Qkgztur
+- vintage :: 1962
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.34
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

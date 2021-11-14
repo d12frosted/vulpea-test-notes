@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3b1a1102-9900-4031-b90c-08815142b19b
+:END:
+#+title: Miv Iqfzjr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Iqfzjr
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.45
+- sugar :: 14.97
+- price :: 35.43 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:54c88f23-b14a-45c5-8b7e-cec10607859c][Miv Iqfzjr NV - 2024-6-24]]

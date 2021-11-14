@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       94886196-da1c-41d2-aa9e-bf57e2f41180
+:END:
+#+title: Vjjtw Hvrja Bol Ppvi 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bol Ppvi
+- vintage :: 2008
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 10.82
+- sugar :: 22.99
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

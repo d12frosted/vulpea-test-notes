@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a1f165c7-1ccf-4b3e-9150-76479842c700
+:END:
+#+title: Vjjtw Hvrja Dlouxrc NV - 2024-6-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:39667b92-2589-4d92-84f0-8dacd321876e][Vjjtw Hvrja Dlouxrc]]
+- date :: 2024-6-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

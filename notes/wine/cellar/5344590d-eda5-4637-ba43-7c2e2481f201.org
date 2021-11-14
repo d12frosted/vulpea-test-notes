@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5344590d-eda5-4637-ba43-7c2e2481f201
+:END:
+#+title: Novr Rlrt Ysvrquf Jeli 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ysvrquf Jeli
+- vintage :: 1982
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.29
+- sugar :: 7.78
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

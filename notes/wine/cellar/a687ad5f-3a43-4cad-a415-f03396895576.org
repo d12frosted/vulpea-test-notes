@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a687ad5f-3a43-4cad-a415-f03396895576
+:END:
+#+title: Rue Icp 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Icp
+- vintage :: 1966
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 9.73
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

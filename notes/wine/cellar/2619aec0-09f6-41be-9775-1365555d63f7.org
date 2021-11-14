@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2619aec0-09f6-41be-9775-1365555d63f7
+:END:
+#+title: Njtzvl Kcc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kcc
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 11.25
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:102c39dd-79fd-4551-8edb-a8aafadf7759][Njtzvl Kcc NV - 1995-9-26]]

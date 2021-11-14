@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8b4dc8a0-5a21-4aef-8f3e-55bfb151dd0f
+:END:
+#+title: Mkmt Cqige 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Cqige
+- vintage :: 2003
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.65
+- sugar :: 8.33
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.0
+- ratings :: [[id:55301505-263d-495b-8238-898f04ad4352][Mkmt Cqige 2003 - 2019-11-13]]

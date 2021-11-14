@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       74c62430-44eb-48fd-a7a8-eaa4be652841
+:END:
+#+title: Novr Rlrt Mqia Zrcglvs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Mqia Zrcglvs
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.05
+- sugar :: 21.42
+- price :: 86.70 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ae9df793-b5cd-4fcf-bce6-a49975420c04
+:END:
+#+title: Dfsxtmx Gqs Tioeqr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gqs Tioeqr
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.120000000000001
+- price :: 69.68 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

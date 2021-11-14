@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       77cf30f5-6d2a-4175-8aab-a9c9011aea8a
+:END:
+#+title: Njtzvl Cpy 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Cpy
+- vintage :: 1964
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.9
+- sugar :: 12.55
+- price :: 27.39 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 4.0
+- ratings :: [[id:6a99c1f5-bcdd-4037-8df2-097a9966461d][Njtzvl Cpy 1964 - 1991-7-25]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0739405f-f39d-4fcc-bb6f-ac83b1dae5d7
+:END:
+#+title: Dfsxtmx Wfisjd 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Wfisjd
+- vintage :: 1986
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.49
+- sugar :: 3.06
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:361f9b3e-9412-4732-910e-bcd71ed8fbfc][Dfsxtmx Wfisjd 1986 - 2013-7-2]]

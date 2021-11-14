@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3a9d4291-1fcb-4826-bd4d-8a74e18e14d0
+:END:
+#+title: Miv Vjatld 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vjatld
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.35
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 3.5
+- ratings :: [[id:9c288690-aed3-492e-8f5f-b1d635781b5c][Miv Vjatld NV - 2016-4-28]]

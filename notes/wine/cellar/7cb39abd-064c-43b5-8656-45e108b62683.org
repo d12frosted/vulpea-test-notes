@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7cb39abd-064c-43b5-8656-45e108b62683
+:END:
+#+title: Miv Ddvxm 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ddvxm
+- vintage :: 1968
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.84
+- sugar :: 8.89
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

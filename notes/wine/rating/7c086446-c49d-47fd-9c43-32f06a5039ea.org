@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7c086446-c49d-47fd-9c43-32f06a5039ea
+:END:
+#+title: Rue Cxmuabw Qqgosjt 1957 - 2007-8-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:aab6f2ec-6c34-4aae-bd81-43752cf24668][Rue Cxmuabw Qqgosjt 1957]]
+- date :: 2007-8-17
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

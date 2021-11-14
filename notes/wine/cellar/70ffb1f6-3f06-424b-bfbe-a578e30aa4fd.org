@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       70ffb1f6-3f06-424b-bfbe-a578e30aa4fd
+:END:
+#+title: Vjjtw Hvrja Dxjh 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dxjh
+- vintage :: 1954
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.31
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.0
+- ratings :: [[id:70c65776-4e54-4934-b51f-4ad88960e7e9][Vjjtw Hvrja Dxjh 1954 - 1996-4-18]]

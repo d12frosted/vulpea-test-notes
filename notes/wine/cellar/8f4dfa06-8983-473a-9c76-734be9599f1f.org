@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8f4dfa06-8983-473a-9c76-734be9599f1f
+:END:
+#+title: Novr Rlrt Tymkm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tymkm
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 10.81
+- sugar :: 7.32
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

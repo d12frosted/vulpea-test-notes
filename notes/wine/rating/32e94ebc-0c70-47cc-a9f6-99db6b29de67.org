@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       32e94ebc-0c70-47cc-a9f6-99db6b29de67
+:END:
+#+title: Njtzvl Zrj 1974 - 2016-1-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:1064da8e-766f-4829-a6c5-ad0aaccae6f3][Njtzvl Zrj 1974]]
+- date :: 2016-1-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

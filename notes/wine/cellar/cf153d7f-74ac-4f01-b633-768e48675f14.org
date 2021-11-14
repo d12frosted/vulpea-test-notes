@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cf153d7f-74ac-4f01-b633-768e48675f14
+:END:
+#+title: Dfsxtmx Gsrekqlb 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gsrekqlb
+- vintage :: 2015
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.68
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

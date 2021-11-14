@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d202c913-69c6-4d93-9b69-d1ba8bbad9f8
+:END:
+#+title: Cdeexg Zybnfdg Qeukndps 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Zybnfdg Qeukndps
+- vintage :: 1980
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.0
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:a601095b-d2e0-4d7c-8a9f-45eb7d20c042][Cdeexg Zybnfdg Qeukndps 1980 - 2009-10-6]]

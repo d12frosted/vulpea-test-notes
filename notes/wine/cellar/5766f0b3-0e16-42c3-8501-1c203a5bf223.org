@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5766f0b3-0e16-42c3-8501-1c203a5bf223
+:END:
+#+title: Mkmt Gide 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Gide
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.02
+- sugar :: 17.19
+- price :: 97.93 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

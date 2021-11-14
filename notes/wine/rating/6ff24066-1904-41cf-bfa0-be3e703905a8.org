@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6ff24066-1904-41cf-bfa0-be3e703905a8
+:END:
+#+title: Dseajc Jinm Nlrprt 1921 - 1992-9-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:3233f0dc-ac80-432e-8dfe-44a3e050e716][Dseajc Jinm Nlrprt 1921]]
+- date :: 1992-9-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

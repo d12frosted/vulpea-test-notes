@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       a540ccd1-9a19-4f4e-bfd0-06f5909a68db
+:END:
+#+title: Dseajc Jinm Zzshyxw Izjy 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zzshyxw Izjy
+- vintage :: 1937
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.879999999999999
+- price :: 90.73 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:4d260da0-f7ba-4f51-9050-ceec2ac3c63e][Dseajc Jinm Zzshyxw Izjy 1937 - 2004-11-26]]

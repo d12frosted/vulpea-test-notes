@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       47e375df-439f-4c5e-9066-5e69e89cbfa3
+:END:
+#+title: Novr Rlrt Nockc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nockc
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 12.25
+- sugar :: 10.67
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

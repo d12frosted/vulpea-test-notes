@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cf7ee8a2-ee30-4c73-8743-2e7c7d8b6bfd
+:END:
+#+title: Miv Sljbkfhk Wioywrp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sljbkfhk Wioywrp
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.17
+- price :: 37.45 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

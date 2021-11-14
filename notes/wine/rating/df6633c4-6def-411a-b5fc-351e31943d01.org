@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       df6633c4-6def-411a-b5fc-351e31943d01
+:END:
+#+title: Vjjtw Hvrja Syotjnx 2009 - 2014-10-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:b9d97116-c8f3-433f-b5bb-cee338517975][Vjjtw Hvrja Syotjnx 2009]]
+- date :: 2014-10-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

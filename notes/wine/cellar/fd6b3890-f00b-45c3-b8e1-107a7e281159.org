@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fd6b3890-f00b-45c3-b8e1-107a7e281159
+:END:
+#+title: Lzf Rdhudq Whdzloj 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Rdhudq Whdzloj
+- vintage :: 1971
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.04
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

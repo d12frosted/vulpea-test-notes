@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ea564558-3b63-4c67-ad8a-c16e82309c2b
+:END:
+#+title: Cdeexg Cwa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Cwa
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.92
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:dd3f4922-6e1c-4934-a027-5691c2875907][Cdeexg Cwa NV - 1990-12-24]]

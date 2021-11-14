@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a5ecb866-a531-48c9-bc44-5611dbb8d8d8
+:END:
+#+title: Rue Hixtmy Sencwhmv 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hixtmy Sencwhmv
+- vintage :: 1994
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.2
+- price :: 69.29 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

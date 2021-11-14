@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f2cd4421-4eab-4c01-b0e5-178a56b80d34
+:END:
+#+title: Vjjtw Hvrja Suq Anyxtdl 1966 - 1990-8-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:777b051c-4b77-4b0b-b2ed-cfc97bc1ca87][Vjjtw Hvrja Suq Anyxtdl 1966]]
+- date :: 1990-8-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

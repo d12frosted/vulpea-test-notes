@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ce6a941f-0e02-4087-a2cc-43839dfadc82
+:END:
+#+title: Njtzvl Mazdcna Wrejgxt NV - 2002-6-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:9df03460-f746-4680-b4bf-db2f25f69488][Njtzvl Mazdcna Wrejgxt]]
+- date :: 2002-6-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

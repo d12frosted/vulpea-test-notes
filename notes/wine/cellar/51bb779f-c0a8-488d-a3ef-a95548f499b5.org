@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       51bb779f-c0a8-488d-a3ef-a95548f499b5
+:END:
+#+title: Cdeexg Irlqbgi Ejcjgee 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Irlqbgi Ejcjgee
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.28
+- sugar :: 19.91
+- price :: 4.13 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 8.5
+- ratings :: [[id:bc080dae-b504-4292-8016-70f374d90a27][Cdeexg Irlqbgi Ejcjgee NV - 2020-10-10]]

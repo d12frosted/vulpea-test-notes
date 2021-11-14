@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0eff6a51-4cc5-47ab-9bfb-e1a1f2c1bdce
+:END:
+#+title: Mkmt Ruvgdq Ily 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ruvgdq Ily
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.24
+- sugar :: 7.32
+- price :: 16.56 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

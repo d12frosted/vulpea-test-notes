@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5df9d1ed-098d-4503-92c0-c2814aeb5570
+:END:
+#+title: Miv Oflunggs 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Oflunggs
+- vintage :: 1957
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.51
+- sugar :: 3.87
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

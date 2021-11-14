@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4191ffd1-223d-4e4d-a757-e46098fe93ae
+:END:
+#+title: Vjjtw Hvrja Oupgbff 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Oupgbff
+- vintage :: 1982
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.51
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:34b8590d-2f37-4303-99a0-e2d907f14467][Vjjtw Hvrja Oupgbff 1982 - 2011-2-8]]

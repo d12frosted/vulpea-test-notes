@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5abe1611-6e34-4ade-8ad6-69fd4ed65932
+:END:
+#+title: Cdeexg Koqeojk 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Koqeojk
+- vintage :: 1948
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.31
+- sugar :: 9.83
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:84718cdc-3f24-4259-b4f0-52f19e5a6498][Cdeexg Koqeojk 1948 - 1998-12-26]]

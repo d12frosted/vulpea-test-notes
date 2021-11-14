@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       02025d43-a864-4255-bf5c-11ab6dcb7ca2
+:END:
+#+title: Vjjtw Hvrja Luot Qmxfjf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Luot Qmxfjf
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.53
+- sugar :: 1.56
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c5cde660-cbe8-4e2b-8493-b4e715ce69cf
+:END:
+#+title: Lzf Qzbhlw Nhlcjfko 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Qzbhlw Nhlcjfko
+- vintage :: 1959
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.09
+- sugar :: 13.43
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:e821b4d3-a169-4474-8f68-6aecec4d56b3][Lzf Qzbhlw Nhlcjfko 1959 - 2019-1-3]]

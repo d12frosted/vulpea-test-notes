@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       181091ff-aa27-4f6b-96c2-6a83341e70e0
+:END:
+#+title: Miv Vtbbaor 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vtbbaor
+- vintage :: 1999
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.43
+- sugar :: 14.86
+- price :: 81.55 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.0
+- ratings :: [[id:d4296ae3-8e6f-442e-b260-ecefd54dfbd4][Miv Vtbbaor 1999 - 2017-4-10]]

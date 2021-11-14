@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d4e48726-0ee0-46e4-bc54-a0eca8b114bb
+:END:
+#+title: Rue Rwf Vkae 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Rwf Vkae
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.79
+- sugar :: 21.0
+- price :: 88.08 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

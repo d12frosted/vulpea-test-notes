@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b0cd33ae-293c-4557-a469-0794713818a2
+:END:
+#+title: Dseajc Jinm Qyxh Eowml 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Qyxh Eowml
+- vintage :: 1931
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.91
+- sugar :: 8.96
+- price :: 15.63 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

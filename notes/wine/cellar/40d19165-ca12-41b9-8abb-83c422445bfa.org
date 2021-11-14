@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       40d19165-ca12-41b9-8abb-83c422445bfa
+:END:
+#+title: Dfsxtmx Qhgnk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qhgnk
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 10.06
+- price :: 4.04 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:14fe40fe-6c4b-4f1d-8691-a32ea3161b2d][Dfsxtmx Qhgnk NV - 1997-12-5]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6c64944a-cb34-4575-bca1-d46971462604
+:END:
+#+title: Lzf Hwqf 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Hwqf
+- vintage :: 2016
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 13.879999999999999
+- sugar :: 6.9
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:8970accd-a0fa-4b28-9bec-75dd3754da7b][Lzf Hwqf 2016 - 2023-10-27]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2850167d-9b07-4f51-bff5-2325c98704a3
+:END:
+#+title: Mkmt Onmvf 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Onmvf
+- vintage :: 1910
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.6
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

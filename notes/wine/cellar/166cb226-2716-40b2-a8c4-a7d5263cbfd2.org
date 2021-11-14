@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       166cb226-2716-40b2-a8c4-a7d5263cbfd2
+:END:
+#+title: Mkmt Eki 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Eki
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.15
+- price :: 68.08 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

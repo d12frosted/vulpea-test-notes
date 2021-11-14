@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       52f4a176-ad3c-460c-a36d-283ea097f5c3
+:END:
+#+title: Njtzvl Kugwv 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kugwv
+- vintage :: 1918
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.34
+- sugar :: 12.94
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

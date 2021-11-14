@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ac8e914e-f175-40b6-bbad-42d1b7d700a0
+:END:
+#+title: Cdeexg Wxhjdue Wnjigwr NV - 1994-5-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:f87c7c15-3697-46bd-b42b-ec3ef14543cd][Cdeexg Wxhjdue Wnjigwr]]
+- date :: 1994-5-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

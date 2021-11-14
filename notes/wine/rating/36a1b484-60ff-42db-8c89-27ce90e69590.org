@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       36a1b484-60ff-42db-8c89-27ce90e69590
+:END:
+#+title: Dfsxtmx Ippc 1987 - 2020-8-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:5ac03193-e62c-4b05-9ce5-1dbdeebdf6b1][Dfsxtmx Ippc 1987]]
+- date :: 2020-8-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       58bc2db7-1489-4837-b544-b0d8480516a2
+:END:
+#+title: Novr Rlrt Tlfioz Crcp 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tlfioz Crcp
+- vintage :: 1900
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.15
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

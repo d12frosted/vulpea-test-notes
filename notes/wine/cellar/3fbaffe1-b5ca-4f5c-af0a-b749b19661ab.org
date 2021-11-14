@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3fbaffe1-b5ca-4f5c-af0a-b749b19661ab
+:END:
+#+title: Lzf Uimy Nqu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Uimy Nqu
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.42
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

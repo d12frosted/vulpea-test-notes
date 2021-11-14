@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       82fb3571-fce4-41ef-b6ea-a9baa9717557
+:END:
+#+title: Rue Emifh 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Emifh
+- vintage :: 1981
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.61
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:50d33cc0-cc57-42f6-bc45-5babff3b2380][Rue Emifh 1981 - 2016-12-1]]

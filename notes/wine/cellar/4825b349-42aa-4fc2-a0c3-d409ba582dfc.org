@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4825b349-42aa-4fc2-a0c3-d409ba582dfc
+:END:
+#+title: Vjjtw Hvrja Ryamgcs 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ryamgcs
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.54
+- sugar :: 18.3
+- price :: 48.40 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.0
+- ratings :: [[id:baeb30fc-5533-41b7-adb6-849d940cbaa8][Vjjtw Hvrja Ryamgcs NV - 2023-8-3]]

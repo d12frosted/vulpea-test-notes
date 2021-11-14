@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       86cbbb3e-b2da-499b-b24c-4b65dd7b014a
+:END:
+#+title: Rue Ajci Imtpyejc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ajci Imtpyejc
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 12.08
+- sugar :: 0.84
+- price :: 19.00 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       830fe645-d82f-473f-85ec-d50770487a63
+:END:
+#+title: Miv Sdnwkp Sdae 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sdnwkp Sdae
+- vintage :: 1963
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.28
+- price :: 79.71 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

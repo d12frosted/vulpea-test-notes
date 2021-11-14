@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       41c186cf-7e09-4e07-a1cd-7e458aba8de2
+:END:
+#+title: Miv Uwthmpuj Pynjdzp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Uwthmpuj Pynjdzp
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.51
+- price :: 51.37 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.0
+- ratings :: [[id:15abe592-a254-4bcb-b113-2c1c8969b732][Miv Uwthmpuj Pynjdzp NV - 2007-7-10]]

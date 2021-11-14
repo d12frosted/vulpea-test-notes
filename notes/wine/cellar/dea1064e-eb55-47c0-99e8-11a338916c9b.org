@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       dea1064e-eb55-47c0-99e8-11a338916c9b
+:END:
+#+title: Vjjtw Hvrja Hwwk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hwwk
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 10.92
+- sugar :: 23.79
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

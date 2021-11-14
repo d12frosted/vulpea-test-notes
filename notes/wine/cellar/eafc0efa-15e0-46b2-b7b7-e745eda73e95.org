@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       eafc0efa-15e0-46b2-b7b7-e745eda73e95
+:END:
+#+title: Mkmt Mug 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Mug
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.59
+- sugar :: 22.66
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 2.0
+- ratings :: [[id:aa8027e2-d17b-46de-9b2f-e8b04603ad04][Mkmt Mug NV - 2021-5-20]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       18563069-8a0c-4395-9ccf-6ec6c946e73a
+:END:
+#+title: Vjjtw Hvrja Vonuyk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vonuyk
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 9.56
+- price :: 34.72 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

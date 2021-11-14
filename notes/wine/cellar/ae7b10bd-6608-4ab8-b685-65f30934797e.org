@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ae7b10bd-6608-4ab8-b685-65f30934797e
+:END:
+#+title: Njtzvl Zbjfbby 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zbjfbby
+- vintage :: 1977
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.04
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: wikipedia
+- rating :: NA

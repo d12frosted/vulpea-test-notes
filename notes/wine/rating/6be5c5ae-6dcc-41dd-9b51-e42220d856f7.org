@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6be5c5ae-6dcc-41dd-9b51-e42220d856f7
+:END:
+#+title: Dfsxtmx Axeq NV - 2010-4-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:4ed9977e-3e95-473c-a845-3db1d597cd5e][Dfsxtmx Axeq]]
+- date :: 2010-4-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

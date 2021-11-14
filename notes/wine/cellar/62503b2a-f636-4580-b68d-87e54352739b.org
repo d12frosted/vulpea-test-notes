@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       62503b2a-f636-4580-b68d-87e54352739b
+:END:
+#+title: Njtzvl Mqb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Mqb
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.44
+- sugar :: 13.76
+- price :: 29.56 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:1384ff2d-54f6-447d-be04-5c527e2e99f1][Njtzvl Mqb NV - 2003-6-17]]

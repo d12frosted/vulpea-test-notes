@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       20308ec8-7a97-4168-a9df-1c1bdc6573c3
+:END:
+#+title: Cdeexg Pdiujitj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Pdiujitj
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.64
+- sugar :: 15.72
+- price :: 14.97 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

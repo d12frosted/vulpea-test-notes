@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e3ba8700-9de8-498b-9779-fa938fc33b93
+:END:
+#+title: Lzf Qgy Exmkqy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Qgy Exmkqy
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.54
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.5
+- ratings :: [[id:39146f6c-50fd-4e8b-b151-e0728ea5865d][Lzf Qgy Exmkqy NV - 2018-10-24]]

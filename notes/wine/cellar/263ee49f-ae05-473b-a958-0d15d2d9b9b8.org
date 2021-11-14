@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       263ee49f-ae05-473b-a958-0d15d2d9b9b8
+:END:
+#+title: Mkmt Ztzaa Gevglixz 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ztzaa Gevglixz
+- vintage :: 1959
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.36
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

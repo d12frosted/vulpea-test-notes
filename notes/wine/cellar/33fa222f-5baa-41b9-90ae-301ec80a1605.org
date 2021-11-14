@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       33fa222f-5baa-41b9-90ae-301ec80a1605
+:END:
+#+title: Mkmt Stq 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Stq
+- vintage :: 1994
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.83
+- sugar :: 6.0
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

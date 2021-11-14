@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       02b95574-0139-4792-9d2b-2a251f74b032
+:END:
+#+title: Dseajc Jinm Zeobufps Sjgai 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zeobufps Sjgai
+- vintage :: 1992
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.67
+- sugar :: 21.62
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

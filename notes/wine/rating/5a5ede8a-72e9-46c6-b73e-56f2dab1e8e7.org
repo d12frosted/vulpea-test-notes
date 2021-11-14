@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5a5ede8a-72e9-46c6-b73e-56f2dab1e8e7
+:END:
+#+title: Vjjtw Hvrja Yarlibb NV - 1992-11-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:e741e321-ed2a-4379-afe0-93ed26f47b25][Vjjtw Hvrja Yarlibb]]
+- date :: 1992-11-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

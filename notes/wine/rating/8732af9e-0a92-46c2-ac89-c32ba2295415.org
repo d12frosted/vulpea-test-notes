@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8732af9e-0a92-46c2-ac89-c32ba2295415
+:END:
+#+title: Novr Rlrt Psrqd NV - 2001-8-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:26a92a52-7a7d-4b5d-a446-0a7b49456319][Novr Rlrt Psrqd]]
+- date :: 2001-8-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

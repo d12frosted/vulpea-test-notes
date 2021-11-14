@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4d6a0688-a986-435c-8a64-c4f55d2ddab4
+:END:
+#+title: Miv Ojmct Tkrloy 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ojmct Tkrloy
+- vintage :: 1933
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.07
+- price :: 80.97 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:f29025cb-e515-490d-89a6-eeb88883bc5d][Miv Ojmct Tkrloy 1933 - 1992-12-9]]

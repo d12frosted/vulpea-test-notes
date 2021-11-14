@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3622898d-036d-4344-bdd0-89fb92553c85
+:END:
+#+title: Miv Bxpjtmbs Ivyn NV - 2009-7-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:19e3a1c1-fd14-4adf-beb4-6752d304fdae][Miv Bxpjtmbs Ivyn]]
+- date :: 2009-7-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

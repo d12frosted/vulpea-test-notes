@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9528b9d6-5cb8-4100-a374-6ade2a9716be
+:END:
+#+title: Njtzvl Lbw 1933 - 2005-8-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:966dc602-a5bc-4944-acc7-c7d7523c0066][Njtzvl Lbw 1933]]
+- date :: 2005-8-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c72f89e2-bcb1-45e7-bb19-a0b3575b58ff
+:END:
+#+title: Novr Rlrt Fsds 1939 - 2010-4-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:0de97993-cdd5-4c3a-8df2-bb48850a8ee0][Novr Rlrt Fsds 1939]]
+- date :: 2010-4-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

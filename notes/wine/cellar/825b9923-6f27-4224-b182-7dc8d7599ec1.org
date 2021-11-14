@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       825b9923-6f27-4224-b182-7dc8d7599ec1
+:END:
+#+title: Rue Mymfmks Edvum 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mymfmks Edvum
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.75
+- sugar :: 14.97
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

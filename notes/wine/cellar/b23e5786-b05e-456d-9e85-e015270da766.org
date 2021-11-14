@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b23e5786-b05e-456d-9e85-e015270da766
+:END:
+#+title: Miv Ijm 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ijm
+- vintage :: 1978
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.39
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:93de086c-0365-4825-8696-91cf71db6de4][Miv Ijm 1978 - 1993-8-10]]

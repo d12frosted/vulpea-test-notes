@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e0af64ef-7827-4eda-a74b-038071944a88
+:END:
+#+title: Novr Rlrt Evrxo Xnwch 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Evrxo Xnwch
+- vintage :: 1901
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.91
+- price :: 3.20 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.5
+- ratings :: [[id:7f2669af-6469-4d52-9b25-de527a04aea3][Novr Rlrt Evrxo Xnwch 1901 - 2023-9-24]]

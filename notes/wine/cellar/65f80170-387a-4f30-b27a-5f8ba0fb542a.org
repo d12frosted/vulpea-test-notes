@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       65f80170-387a-4f30-b27a-5f8ba0fb542a
+:END:
+#+title: Novr Rlrt Xiif Odg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Xiif Odg
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.08
+- price :: 38.25 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:04d2c17b-e264-49d6-8477-ad850d3639f6][Novr Rlrt Xiif Odg NV - 2011-9-26]]

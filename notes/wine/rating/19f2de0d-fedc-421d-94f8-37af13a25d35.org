@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       19f2de0d-fedc-421d-94f8-37af13a25d35
+:END:
+#+title: Novr Rlrt Hvelxz NV - 2021-12-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:df35525f-59fe-451d-a257-4dadded582d2][Novr Rlrt Hvelxz]]
+- date :: 2021-12-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

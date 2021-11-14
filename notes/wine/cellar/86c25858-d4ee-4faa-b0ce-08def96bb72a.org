@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       86c25858-d4ee-4faa-b0ce-08def96bb72a
+:END:
+#+title: Dseajc Jinm Ytf 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ytf
+- vintage :: 2004
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.46
+- sugar :: 10.66
+- price :: 89.33 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

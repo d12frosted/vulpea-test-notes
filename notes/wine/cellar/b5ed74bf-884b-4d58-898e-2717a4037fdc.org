@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b5ed74bf-884b-4d58-898e-2717a4037fdc
+:END:
+#+title: Miv Gepnz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Gepnz
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.6
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

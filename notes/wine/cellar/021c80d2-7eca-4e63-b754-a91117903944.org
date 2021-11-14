@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       021c80d2-7eca-4e63-b754-a91117903944
+:END:
+#+title: Njtzvl Erdtu 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Erdtu
+- vintage :: 1932
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.92
+- sugar :: 3.23
+- price :: 48.93 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

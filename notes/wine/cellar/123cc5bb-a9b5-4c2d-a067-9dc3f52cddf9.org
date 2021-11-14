@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       123cc5bb-a9b5-4c2d-a067-9dc3f52cddf9
+:END:
+#+title: Miv Pegesl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Pegesl
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.93
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA

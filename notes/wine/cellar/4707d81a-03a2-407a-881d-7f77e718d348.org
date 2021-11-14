@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4707d81a-03a2-407a-881d-7f77e718d348
+:END:
+#+title: Mkmt Fakvpqmo 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fakvpqmo
+- vintage :: 1994
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.07
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

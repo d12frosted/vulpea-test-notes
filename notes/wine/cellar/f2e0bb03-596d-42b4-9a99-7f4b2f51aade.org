@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f2e0bb03-596d-42b4-9a99-7f4b2f51aade
+:END:
+#+title: Novr Rlrt Yowqyypk Axkmgid 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Yowqyypk Axkmgid
+- vintage :: 1995
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 9.07
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

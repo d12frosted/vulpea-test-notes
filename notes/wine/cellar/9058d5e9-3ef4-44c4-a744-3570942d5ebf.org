@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9058d5e9-3ef4-44c4-a744-3570942d5ebf
+:END:
+#+title: Miv Hswu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Hswu
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.82
+- price :: 80.41 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

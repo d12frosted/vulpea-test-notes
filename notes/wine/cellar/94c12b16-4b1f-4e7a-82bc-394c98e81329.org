@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       94c12b16-4b1f-4e7a-82bc-394c98e81329
+:END:
+#+title: Rue Tnzb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Tnzb
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.96
+- price :: 60.75 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:7ed257aa-d876-435a-9c95-d1a00ca69dbb][Rue Tnzb NV - 1997-8-19]]

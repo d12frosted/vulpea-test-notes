@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b3a9d7bf-a8c2-4d88-be95-a21a47e62242
+:END:
+#+title: Mkmt Bkno NV - 1992-3-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:d1829f7a-6e6d-44cb-90e0-0ae034aa2ec1][Mkmt Bkno]]
+- date :: 1992-3-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

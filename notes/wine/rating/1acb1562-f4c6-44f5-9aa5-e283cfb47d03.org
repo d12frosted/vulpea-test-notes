@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1acb1562-f4c6-44f5-9aa5-e283cfb47d03
+:END:
+#+title: Novr Rlrt Xetzxr NV - 2005-12-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:bab4e122-2f77-4b60-b4b9-488a9f33a5b0][Novr Rlrt Xetzxr]]
+- date :: 2005-12-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

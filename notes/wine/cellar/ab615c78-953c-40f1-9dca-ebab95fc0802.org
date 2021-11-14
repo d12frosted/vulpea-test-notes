@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ab615c78-953c-40f1-9dca-ebab95fc0802
+:END:
+#+title: Lzf Indwm Afpvikyg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Indwm Afpvikyg
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.35
+- sugar :: 7.0
+- price :: 84.08 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 7.5
+- ratings :: [[id:359b1206-1170-4480-99b5-7c360a14e8e9][Lzf Indwm Afpvikyg NV - 1994-11-7]]

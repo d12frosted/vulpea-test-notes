@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3cdd7422-8b83-4ed3-a99f-c4dcdaaa6030
+:END:
+#+title: Rue Swqptotw Yecu 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Swqptotw Yecu
+- vintage :: 1941
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 11.73
+- price :: 24.85 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:3dcedbb5-1999-4822-a235-1be10e9bb3b8][Rue Swqptotw Yecu 1941 - 2008-2-6]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       da196652-8c67-4d5c-a16c-8d6461454969
+:END:
+#+title: Njtzvl Fhm 1980 - 2011-7-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:f5772a0d-f2fd-4fdc-88c3-26c30efb3d34][Njtzvl Fhm 1980]]
+- date :: 2011-7-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

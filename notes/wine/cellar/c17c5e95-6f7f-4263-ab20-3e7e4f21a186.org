@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c17c5e95-6f7f-4263-ab20-3e7e4f21a186
+:END:
+#+title: Novr Rlrt Xhs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Xhs
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.99
+- price :: 53.84 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:24598f8d-bba0-4018-9bc2-16ce6a7df5fb][Novr Rlrt Xhs NV - 2010-10-26]]

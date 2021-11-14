@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5d4ea743-3dbf-45b3-8ea5-b96240b60924
+:END:
+#+title: Cdeexg Evqdtbi 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Evqdtbi
+- vintage :: 1998
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.93
+- sugar :: 1.97
+- price :: 4.61 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

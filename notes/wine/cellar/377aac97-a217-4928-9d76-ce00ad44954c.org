@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       377aac97-a217-4928-9d76-ce00ad44954c
+:END:
+#+title: Mkmt Ymoxqzzp Zvbyv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ymoxqzzp Zvbyv
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.2
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.0
+- ratings :: [[id:2c016fc6-61e0-4a4b-ab18-7d9c5d5b72e8][Mkmt Ymoxqzzp Zvbyv NV - 2015-10-23]]

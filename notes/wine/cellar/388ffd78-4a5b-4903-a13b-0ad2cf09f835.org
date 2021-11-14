@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       388ffd78-4a5b-4903-a13b-0ad2cf09f835
+:END:
+#+title: Dseajc Jinm Bozfzum 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Bozfzum
+- vintage :: 1974
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.35
+- sugar :: 17.68
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:bfd883ee-316d-4b1f-8b08-f3457beb1dbd][Dseajc Jinm Bozfzum 1974 - 2004-11-1]]

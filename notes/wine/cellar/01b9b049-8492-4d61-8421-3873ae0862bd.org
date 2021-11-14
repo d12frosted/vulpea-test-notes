@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       01b9b049-8492-4d61-8421-3873ae0862bd
+:END:
+#+title: Njtzvl Even 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Even
+- vintage :: 1980
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.51
+- price :: 71.55 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 7.0
+- ratings :: [[id:f181c999-5808-454f-a7f6-a53e4582761e][Njtzvl Even 1980 - 2002-11-14]]

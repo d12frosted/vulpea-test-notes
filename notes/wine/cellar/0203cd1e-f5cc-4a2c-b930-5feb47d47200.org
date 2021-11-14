@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0203cd1e-f5cc-4a2c-b930-5feb47d47200
+:END:
+#+title: Miv Caayqk Lgd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Caayqk Lgd
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.23
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

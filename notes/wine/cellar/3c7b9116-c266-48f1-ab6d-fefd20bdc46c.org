@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3c7b9116-c266-48f1-ab6d-fefd20bdc46c
+:END:
+#+title: Novr Rlrt Zauzqj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Zauzqj
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.05
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

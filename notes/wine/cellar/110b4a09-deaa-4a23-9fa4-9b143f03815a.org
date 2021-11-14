@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       110b4a09-deaa-4a23-9fa4-9b143f03815a
+:END:
+#+title: Dseajc Jinm Uzd Opcqw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Uzd Opcqw
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.3
+- sugar :: 1.89
+- price :: 72.44 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

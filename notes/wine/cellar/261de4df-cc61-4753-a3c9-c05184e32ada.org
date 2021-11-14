@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       261de4df-cc61-4753-a3c9-c05184e32ada
+:END:
+#+title: Novr Rlrt Hwjf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hwjf
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.05
+- sugar :: 23.23
+- price :: 72.42 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:a9105956-1cf1-442a-a45a-ec213cdd30ea][Novr Rlrt Hwjf NV - 2014-7-7]]

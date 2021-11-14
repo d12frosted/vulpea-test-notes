@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       28e6379c-f886-470f-a449-4d4af95eb240
+:END:
+#+title: Miv Equedyy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Equedyy
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.27
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 8.0
+- ratings :: [[id:e5708cd2-0af1-41e0-acf4-1cfd19d4df0a][Miv Equedyy NV - 2009-3-20]]

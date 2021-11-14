@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6e646ea8-d587-45cc-8f19-571ce236da6c
+:END:
+#+title: Mkmt Wfjkk Dpfgp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Wfjkk Dpfgp
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.98
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.5
+- ratings :: [[id:8cb96cf3-2bea-423a-813c-3dfbebd90f08][Mkmt Wfjkk Dpfgp NV - 2002-8-14]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4fef1b3f-b34a-4541-80fa-ea894181ac8e
+:END:
+#+title: Cdeexg Gnjbpow Nhg 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Gnjbpow Nhg
+- vintage :: 2005
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.3
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:1696a6a8-3192-4473-bcfc-428df9e4d9a0][Cdeexg Gnjbpow Nhg 2005 - 2014-4-21]]

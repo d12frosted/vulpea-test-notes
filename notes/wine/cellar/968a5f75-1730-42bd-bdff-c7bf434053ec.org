@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       968a5f75-1730-42bd-bdff-c7bf434053ec
+:END:
+#+title: Rue Yvv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Yvv
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.34
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

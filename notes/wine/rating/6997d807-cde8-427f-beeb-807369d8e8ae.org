@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6997d807-cde8-427f-beeb-807369d8e8ae
+:END:
+#+title: Cdeexg Afu Rwu 1906 - 2022-2-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:d1384b09-3b47-4899-83c7-191d12c9ef17][Cdeexg Afu Rwu 1906]]
+- date :: 2022-2-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

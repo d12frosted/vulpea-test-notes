@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       26ebe12e-993f-4c18-bc63-285691a22e86
+:END:
+#+title: Cdeexg Urn 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Urn
+- vintage :: 1980
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.94
+- sugar :: 6.49
+- price :: 101.34 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 6.5
+- ratings :: [[id:cfe8c406-b984-45bc-aac5-2ba690f12cb4][Cdeexg Urn 1980 - 2018-6-22]]

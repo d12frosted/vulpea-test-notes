@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4db84ac2-f825-41e1-be0e-54deca940f56
+:END:
+#+title: Dfsxtmx Vioz 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vioz
+- vintage :: 1933
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.17
+- sugar :: 15.93
+- price :: 33.29 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

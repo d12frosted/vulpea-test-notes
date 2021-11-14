@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       57d76a76-c2ae-4f2c-a4d3-1de880143540
+:END:
+#+title: Vjjtw Hvrja Dcw Gbyvab 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dcw Gbyvab
+- vintage :: 1979
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.68
+- sugar :: 23.96
+- price :: 52.22 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

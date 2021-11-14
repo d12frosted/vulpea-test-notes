@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a8a1146a-311f-4844-9418-675d30b27be8
+:END:
+#+title: Mkmt Ocijjmnn Ewhvfzs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ocijjmnn Ewhvfzs
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.44
+- price :: 94.69 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

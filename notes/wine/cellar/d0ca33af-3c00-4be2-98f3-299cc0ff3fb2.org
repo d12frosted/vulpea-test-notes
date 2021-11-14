@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d0ca33af-3c00-4be2-98f3-299cc0ff3fb2
+:END:
+#+title: Dfsxtmx Xfbq Ujqq 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xfbq Ujqq
+- vintage :: 1936
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.48
+- price :: 96.11 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

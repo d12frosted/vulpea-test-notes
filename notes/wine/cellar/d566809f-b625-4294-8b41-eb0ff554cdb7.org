@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d566809f-b625-4294-8b41-eb0ff554cdb7
+:END:
+#+title: Miv Kck 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Kck
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.79
+- sugar :: 7.7
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:63e0f46c-3e54-4923-aa63-ba8850a3b0dd][Miv Kck NV - 2012-8-14]]

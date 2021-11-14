@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b5476632-8081-4610-9f63-9a82c0980ee5
+:END:
+#+title: Dfsxtmx Xai Obsnjnu 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xai Obsnjnu
+- vintage :: 1970
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.45
+- price :: 52.46 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: 3.0
+- ratings :: [[id:81e13a7c-f1a7-49b2-824c-31f3f63ea0b1][Dfsxtmx Xai Obsnjnu 1970 - 2009-10-4]]

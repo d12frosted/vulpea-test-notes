@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c4a19dc6-e2e3-48c1-8245-1ae62338f7df
+:END:
+#+title: Miv Kxxvzy Dlvbrnet 1983 - 1998-6-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:ff682929-e05c-4ab5-94d6-2c092eedd3f0][Miv Kxxvzy Dlvbrnet 1983]]
+- date :: 1998-6-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

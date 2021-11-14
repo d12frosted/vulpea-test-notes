@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       9f5769b9-1feb-45d6-8fff-5c61aad16a29
+:END:
+#+title: Cdeexg Hzdlb Wcfu 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Hzdlb Wcfu
+- vintage :: 1940
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.06
+- sugar :: 0.96
+- price :: 17.12 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:5a62606c-081e-49af-b3c3-3e2c779605af][Cdeexg Hzdlb Wcfu 1940 - 2004-11-23]]

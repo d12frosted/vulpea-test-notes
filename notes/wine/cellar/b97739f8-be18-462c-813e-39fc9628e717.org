@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b97739f8-be18-462c-813e-39fc9628e717
+:END:
+#+title: Rue Nujfohq 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Nujfohq
+- vintage :: 1915
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.8
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

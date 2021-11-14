@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5da4ea26-d965-4d24-9813-26372e898a83
+:END:
+#+title: Rue Htusftrt Mktcjzc 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Htusftrt Mktcjzc
+- vintage :: 1908
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.78
+- price :: 86.98 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

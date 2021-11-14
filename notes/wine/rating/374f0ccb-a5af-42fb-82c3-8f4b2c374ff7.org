@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       374f0ccb-a5af-42fb-82c3-8f4b2c374ff7
+:END:
+#+title: Mkmt Vbth Rmk 1947 - 2003-12-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:2da7c982-bf01-4851-aaab-3977728ab1ba][Mkmt Vbth Rmk 1947]]
+- date :: 2003-12-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

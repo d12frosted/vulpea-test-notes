@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6f564e0f-7b49-4992-9200-8ef2d424c4b0
+:END:
+#+title: Rue Dmnnpy 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Dmnnpy
+- vintage :: 2011
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.4
+- sugar :: 23.62
+- price :: 59.83 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

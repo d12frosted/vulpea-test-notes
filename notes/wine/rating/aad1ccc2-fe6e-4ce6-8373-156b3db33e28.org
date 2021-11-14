@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aad1ccc2-fe6e-4ce6-8373-156b3db33e28
+:END:
+#+title: Mkmt Poqa NV - 2002-5-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:550136c8-0463-43a2-b814-6427ec4c2278][Mkmt Poqa]]
+- date :: 2002-5-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

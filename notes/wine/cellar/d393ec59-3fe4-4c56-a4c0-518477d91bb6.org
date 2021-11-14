@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d393ec59-3fe4-4c56-a4c0-518477d91bb6
+:END:
+#+title: Dseajc Jinm Crjfb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Crjfb
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.27
+- price :: 97.38 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

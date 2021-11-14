@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       42cb04cd-4598-4f94-b952-676cbe6413c6
+:END:
+#+title: Mkmt Zkguiy Bjbaip 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zkguiy Bjbaip
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.379999999999999
+- sugar :: 23.39
+- price :: 84.79 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:324fb634-7072-416a-a776-9360d86c3c7e][Mkmt Zkguiy Bjbaip NV - 2011-2-10]]

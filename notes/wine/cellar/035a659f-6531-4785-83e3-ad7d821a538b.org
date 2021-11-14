@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       035a659f-6531-4785-83e3-ad7d821a538b
+:END:
+#+title: Novr Rlrt Cbios Ttlkadqu 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Cbios Ttlkadqu
+- vintage :: 1909
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.81
+- sugar :: 11.01
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       606cc523-0ed1-4cf3-80af-0fcabfa9f58d
+:END:
+#+title: Mkmt Nftxxfa Ttqhwo 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Nftxxfa Ttqhwo
+- vintage :: 1931
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.84
+- sugar :: 4.13
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

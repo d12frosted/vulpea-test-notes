@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e76be9ce-8b2d-45a3-ae1c-58446ab65c8d
+:END:
+#+title: Vjjtw Hvrja Knh 1938 - 2020-12-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:d9aef84b-3356-40af-ac3b-0b73dea30e5c][Vjjtw Hvrja Knh 1938]]
+- date :: 2020-12-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

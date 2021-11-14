@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       45aa6a57-71ea-4129-9556-c41e2bf17c36
+:END:
+#+title: Vjjtw Hvrja Erzhvnx NV - 1991-9-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:e331233a-4e8e-4a3f-96bf-87b9ea4efb88][Vjjtw Hvrja Erzhvnx]]
+- date :: 1991-9-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

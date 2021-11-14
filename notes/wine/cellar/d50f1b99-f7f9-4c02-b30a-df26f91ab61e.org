@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d50f1b99-f7f9-4c02-b30a-df26f91ab61e
+:END:
+#+title: Dfsxtmx Orlhpmz 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Orlhpmz
+- vintage :: 1923
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.46
+- price :: 52.59 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

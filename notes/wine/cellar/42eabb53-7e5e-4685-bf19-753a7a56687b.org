@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       42eabb53-7e5e-4685-bf19-753a7a56687b
+:END:
+#+title: Cdeexg Ugnhsh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ugnhsh
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.4
+- sugar :: 23.66
+- price :: 85.28 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:bf18b528-bc88-49cc-a053-31ace488d442][Cdeexg Ugnhsh NV - 2019-5-18]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       81c2754c-5665-4235-b2e5-2e3fbff60ff5
+:END:
+#+title: Novr Rlrt Hob 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hob
+- vintage :: 1984
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.05
+- sugar :: 5.4
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

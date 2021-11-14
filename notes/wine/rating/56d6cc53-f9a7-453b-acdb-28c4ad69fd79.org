@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       56d6cc53-f9a7-453b-acdb-28c4ad69fd79
+:END:
+#+title: Cdeexg Jwu 1970 - 1994-7-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:6c2deeb9-bc03-41e0-a5b6-4d30aaaa968a][Cdeexg Jwu 1970]]
+- date :: 1994-7-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

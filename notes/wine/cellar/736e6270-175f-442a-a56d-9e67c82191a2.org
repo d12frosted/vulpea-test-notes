@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       736e6270-175f-442a-a56d-9e67c82191a2
+:END:
+#+title: Lzf Nabgxnr 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Nabgxnr
+- vintage :: 1910
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.5
+- sugar :: 21.96
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 2.5
+- ratings :: [[id:909fcb37-f8d4-4851-8357-79699f5551b7][Lzf Nabgxnr 1910 - 1992-12-10]]

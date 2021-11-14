@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       53015776-46b0-4de5-af32-a611355201c5
+:END:
+#+title: Dfsxtmx Gyikdd Ufznkuik 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gyikdd Ufznkuik
+- vintage :: 1998
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.92
+- sugar :: 12.55
+- price :: 98.99 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

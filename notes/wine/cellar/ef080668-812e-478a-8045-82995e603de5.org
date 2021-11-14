@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ef080668-812e-478a-8045-82995e603de5
+:END:
+#+title: Njtzvl Dgoulpmt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Dgoulpmt
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.87
+- sugar :: 23.18
+- price :: 16.78 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

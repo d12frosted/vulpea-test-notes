@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       eb6a08a7-6c24-4c1d-b1ac-56424ffb1a0c
+:END:
+#+title: Novr Rlrt Jmbjx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jmbjx
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.02
+- sugar :: 13.2
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

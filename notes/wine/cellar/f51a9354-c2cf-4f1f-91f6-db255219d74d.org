@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f51a9354-c2cf-4f1f-91f6-db255219d74d
+:END:
+#+title: Dfsxtmx Svupdq Tpirgtgx 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Svupdq Tpirgtgx
+- vintage :: 1976
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.39
+- sugar :: 15.69
+- price :: 39.03 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

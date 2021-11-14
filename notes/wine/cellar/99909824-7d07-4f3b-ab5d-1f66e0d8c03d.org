@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       99909824-7d07-4f3b-ab5d-1f66e0d8c03d
+:END:
+#+title: Dseajc Jinm Htf Wtbosct 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Htf Wtbosct
+- vintage :: 1982
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 13.83
+- sugar :: 0.26
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:c760a1dd-d58b-458b-a96c-dea6fea60f78][Dseajc Jinm Htf Wtbosct 1982 - 2023-12-26]]

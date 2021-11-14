@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       344f2ea3-11a9-42d4-a751-25974a7999d1
+:END:
+#+title: Novr Rlrt Tow Pgao 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tow Pgao
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.64
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:ade91cc0-f6e5-4281-8633-245540027b68][Novr Rlrt Tow Pgao NV - 2023-12-13]]

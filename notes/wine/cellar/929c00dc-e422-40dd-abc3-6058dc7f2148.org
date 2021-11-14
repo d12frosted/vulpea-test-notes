@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       929c00dc-e422-40dd-abc3-6058dc7f2148
+:END:
+#+title: Lzf Ubihequ 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ubihequ
+- vintage :: 1914
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.6
+- sugar :: 23.44
+- price :: 78.37 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:0f836230-9759-4fd3-88af-c7da391f2de3][Lzf Ubihequ 1914 - 1997-1-13]]

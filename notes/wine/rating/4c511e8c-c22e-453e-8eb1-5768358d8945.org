@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4c511e8c-c22e-453e-8eb1-5768358d8945
+:END:
+#+title: Miv Gie 1929 - 2019-4-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:71237a56-5a22-411d-9987-1f35240f17d2][Miv Gie 1929]]
+- date :: 2019-4-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

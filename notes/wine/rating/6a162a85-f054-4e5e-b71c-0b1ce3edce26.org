@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6a162a85-f054-4e5e-b71c-0b1ce3edce26
+:END:
+#+title: Dfsxtmx Xozfdwd NV - 2010-5-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:b4c20dc8-b5aa-4d78-bb03-8ec06efbefcf][Dfsxtmx Xozfdwd]]
+- date :: 2010-5-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

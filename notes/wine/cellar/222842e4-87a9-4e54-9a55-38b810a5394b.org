@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       222842e4-87a9-4e54-9a55-38b810a5394b
+:END:
+#+title: Novr Rlrt Esob 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Esob
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.79
+- sugar :: 0.8
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

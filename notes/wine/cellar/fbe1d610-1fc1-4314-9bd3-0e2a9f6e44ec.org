@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       fbe1d610-1fc1-4314-9bd3-0e2a9f6e44ec
+:END:
+#+title: Dfsxtmx Dljb Mnpxth 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dljb Mnpxth
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.58
+- sugar :: 1.44
+- price :: 83.13 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:32a2b6b7-95f3-48ef-ac97-b3777205d2cd][Dfsxtmx Dljb Mnpxth NV - 2019-6-28]]

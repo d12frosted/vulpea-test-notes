@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       547a03a7-7469-4b31-b3fe-dc72b74fe259
+:END:
+#+title: Dfsxtmx Fhktt Zewnn 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Fhktt Zewnn
+- vintage :: 1996
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 9.77
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

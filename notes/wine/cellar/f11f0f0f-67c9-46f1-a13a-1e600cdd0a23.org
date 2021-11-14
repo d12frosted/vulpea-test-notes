@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f11f0f0f-67c9-46f1-a13a-1e600cdd0a23
+:END:
+#+title: Miv Pddycaw Kblxnrhe 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Pddycaw Kblxnrhe
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.07
+- sugar :: 13.85
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

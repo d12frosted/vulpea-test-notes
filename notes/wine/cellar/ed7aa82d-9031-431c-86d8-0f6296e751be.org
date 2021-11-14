@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ed7aa82d-9031-431c-86d8-0f6296e751be
+:END:
+#+title: Njtzvl Eakkkfyr 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Eakkkfyr
+- vintage :: 1982
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.78
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

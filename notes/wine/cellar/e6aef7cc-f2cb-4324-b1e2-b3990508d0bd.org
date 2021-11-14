@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e6aef7cc-f2cb-4324-b1e2-b3990508d0bd
+:END:
+#+title: Lzf Lvbl Uggrxqfm 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Lvbl Uggrxqfm
+- vintage :: 1940
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.96
+- sugar :: 10.36
+- price :: 84.31 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

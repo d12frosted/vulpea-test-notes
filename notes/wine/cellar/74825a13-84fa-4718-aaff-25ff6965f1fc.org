@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       74825a13-84fa-4718-aaff-25ff6965f1fc
+:END:
+#+title: Dfsxtmx Ygnzxuk Iivxs 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ygnzxuk Iivxs
+- vintage :: 2010
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.370000000000001
+- sugar :: 0.23
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

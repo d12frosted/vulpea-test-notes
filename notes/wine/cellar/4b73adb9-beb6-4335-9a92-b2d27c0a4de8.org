@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4b73adb9-beb6-4335-9a92-b2d27c0a4de8
+:END:
+#+title: Lzf Drthezy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Drthezy
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.85
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:79279f4e-2291-4a6b-88fc-c79b7097f604][Lzf Drthezy NV - 1999-4-23]]

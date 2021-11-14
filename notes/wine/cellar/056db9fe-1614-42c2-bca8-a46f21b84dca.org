@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       056db9fe-1614-42c2-bca8-a46f21b84dca
+:END:
+#+title: Lzf Vslzag Uktyd 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vslzag Uktyd
+- vintage :: 1907
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.3
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

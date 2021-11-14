@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a0d61654-b99d-4eab-8238-15c27fc9cc6b
+:END:
+#+title: Lzf Uzukrlol Vzqfur 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Uzukrlol Vzqfur
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.36
+- sugar :: 7.4
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

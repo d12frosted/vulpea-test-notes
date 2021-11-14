@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1e6ebba6-d2cd-4e85-b211-26cc875d2093
+:END:
+#+title: Novr Rlrt Rlu 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rlu
+- vintage :: 1917
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 10.45
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

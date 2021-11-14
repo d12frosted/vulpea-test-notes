@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9e747e91-0a15-4378-a55b-57dc8dceee88
+:END:
+#+title: Rue Sourp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Sourp
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.9
+- sugar :: 6.27
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1ffc2915-c509-4626-9339-9822665f605c
+:END:
+#+title: Vjjtw Hvrja Phiphnv 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Phiphnv
+- vintage :: 1967
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 11.91
+- sugar :: 10.22
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.5
+- ratings :: [[id:d74d1fec-2416-4694-a729-26ee8e59be6b][Vjjtw Hvrja Phiphnv 1967 - 1994-7-20]]

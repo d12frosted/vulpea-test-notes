@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       92c92b64-8f99-4dc2-a572-515d1f0abb38
-:END:
-#+title: Wlyamq
-#+filetags: :wine:appellation:
-
-

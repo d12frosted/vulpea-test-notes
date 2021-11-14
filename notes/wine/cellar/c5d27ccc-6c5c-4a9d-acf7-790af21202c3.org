@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c5d27ccc-6c5c-4a9d-acf7-790af21202c3
+:END:
+#+title: Dseajc Jinm Gelhtr 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gelhtr
+- vintage :: 1949
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.72
+- sugar :: 13.33
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:5819aaa3-fe41-4f17-b9ab-d9f6df2f9ab3][Dseajc Jinm Gelhtr 1949 - 2021-5-18]]

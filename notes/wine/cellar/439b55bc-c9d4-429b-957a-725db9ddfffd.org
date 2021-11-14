@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       439b55bc-c9d4-429b-957a-725db9ddfffd
+:END:
+#+title: Dseajc Jinm Tcnt Xaf 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tcnt Xaf
+- vintage :: 2010
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.809999999999999
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA

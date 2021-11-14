@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c741aeb1-995d-4e89-a9e2-86dd07f2a05b
+:END:
+#+title: Miv Guonl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Guonl
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.22
+- price :: 43.90 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

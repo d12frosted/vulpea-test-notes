@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       06a058e3-9c4e-4b7e-9138-fb39511de35e
+:END:
+#+title: Rue Rxd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Rxd
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.32
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:3893c715-dbe9-4143-b4c3-b0e2e3e64ea0][Rue Rxd NV - 2024-5-6]]

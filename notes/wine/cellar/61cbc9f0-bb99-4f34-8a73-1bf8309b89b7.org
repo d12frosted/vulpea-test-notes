@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       61cbc9f0-bb99-4f34-8a73-1bf8309b89b7
+:END:
+#+title: Mkmt Eni Pvnlc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Eni Pvnlc
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.76
+- sugar :: 2.59
+- price :: 90.41 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:d9b68b2a-3f11-4d55-9158-e9e6f0649b5a][Mkmt Eni Pvnlc NV - 1991-4-4]]

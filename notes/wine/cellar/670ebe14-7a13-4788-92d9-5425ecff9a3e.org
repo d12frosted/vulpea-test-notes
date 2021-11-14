@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       670ebe14-7a13-4788-92d9-5425ecff9a3e
+:END:
+#+title: Miv Cmwezr 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Cmwezr
+- vintage :: 1980
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.49
+- sugar :: 9.67
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

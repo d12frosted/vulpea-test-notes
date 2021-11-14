@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       05c5a9a7-dc81-4613-aa23-29affb950c87
-:END:
-#+title: Cati Momr
-#+filetags: :wine:grape:
-
-

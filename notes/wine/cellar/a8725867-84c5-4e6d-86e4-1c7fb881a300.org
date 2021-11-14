@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a8725867-84c5-4e6d-86e4-1c7fb881a300
+:END:
+#+title: Rue Xewxb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Xewxb
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.14
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

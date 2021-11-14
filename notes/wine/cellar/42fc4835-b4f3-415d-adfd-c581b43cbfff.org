@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       42fc4835-b4f3-415d-adfd-c581b43cbfff
+:END:
+#+title: Dseajc Jinm Hsn Crhordw 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Hsn Crhordw
+- vintage :: 1923
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.83
+- sugar :: 9.35
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 3.0
+- ratings :: [[id:3fabf6b5-bd30-433a-b70f-6b066f03173d][Dseajc Jinm Hsn Crhordw 1923 - 2001-11-28]]

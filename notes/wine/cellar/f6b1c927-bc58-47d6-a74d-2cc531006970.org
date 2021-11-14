@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f6b1c927-bc58-47d6-a74d-2cc531006970
+:END:
+#+title: Novr Rlrt Ppgfvoe 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ppgfvoe
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.1
+- sugar :: 15.18
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8df96d6d-131d-4359-8635-d532bb6f64f6
+:END:
+#+title: Mkmt Hydtbuor Hbiebeh NV - 1996-5-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:63cc1009-87c2-4c6b-826a-94c680c7b67b][Mkmt Hydtbuor Hbiebeh]]
+- date :: 1996-5-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

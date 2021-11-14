@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       aeabebf3-df70-47f2-a3bd-ff666bc0691c
+:END:
+#+title: Dseajc Jinm Vgrn 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vgrn
+- vintage :: 1961
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.75
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

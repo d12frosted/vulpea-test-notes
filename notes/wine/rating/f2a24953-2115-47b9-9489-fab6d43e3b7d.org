@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f2a24953-2115-47b9-9489-fab6d43e3b7d
+:END:
+#+title: Novr Rlrt Eng NV - 2007-6-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:5a21a6a9-d04f-4c55-a868-3166aee3cb83][Novr Rlrt Eng]]
+- date :: 2007-6-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

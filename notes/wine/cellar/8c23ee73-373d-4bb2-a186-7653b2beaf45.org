@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8c23ee73-373d-4bb2-a186-7653b2beaf45
+:END:
+#+title: Vjjtw Hvrja Llgkcc Lnqmmrt 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Llgkcc Lnqmmrt
+- vintage :: 1933
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.62
+- price :: 37.74 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

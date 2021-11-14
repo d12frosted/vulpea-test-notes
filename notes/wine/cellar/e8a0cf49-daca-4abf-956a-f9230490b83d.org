@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e8a0cf49-daca-4abf-956a-f9230490b83d
+:END:
+#+title: Novr Rlrt Xbq Dggarbrk 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Xbq Dggarbrk
+- vintage :: 2016
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.79
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

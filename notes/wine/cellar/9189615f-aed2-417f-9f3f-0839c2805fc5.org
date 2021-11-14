@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9189615f-aed2-417f-9f3f-0839c2805fc5
+:END:
+#+title: Mkmt Daijr Oix 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Daijr Oix
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.870000000000001
+- sugar :: 21.62
+- price :: 10.70 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

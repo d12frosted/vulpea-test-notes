@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       35a28e5a-465d-4098-8daf-a49461b2a45c
+:END:
+#+title: Novr Rlrt Cdrkg 1947 - 1999-4-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:4b8924bb-75ed-485f-9faf-e033460abd35][Novr Rlrt Cdrkg 1947]]
+- date :: 1999-4-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

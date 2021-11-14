@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6be8fa5b-7dcd-43df-896b-c487d14f2497
+:END:
+#+title: Mkmt Tsaow 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Tsaow
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.09
+- sugar :: 1.85
+- price :: 55.74 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

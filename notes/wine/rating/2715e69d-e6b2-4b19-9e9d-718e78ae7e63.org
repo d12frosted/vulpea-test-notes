@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2715e69d-e6b2-4b19-9e9d-718e78ae7e63
+:END:
+#+title: Njtzvl Tbnxe Ooxt NV - 2002-10-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:9e8a244e-18fe-4053-9fb2-e4b1e37596fc][Njtzvl Tbnxe Ooxt]]
+- date :: 2002-10-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

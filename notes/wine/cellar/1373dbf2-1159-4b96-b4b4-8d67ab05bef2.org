@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1373dbf2-1159-4b96-b4b4-8d67ab05bef2
+:END:
+#+title: Dfsxtmx Sohmxwh Bpfz 1906
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Sohmxwh Bpfz
+- vintage :: 1906
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.99
+- sugar :: 17.94
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

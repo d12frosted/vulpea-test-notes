@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5f4ce903-7b3d-4931-9a92-f83149b7d13b
+:END:
+#+title: Rue Wmmeb 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Wmmeb
+- vintage :: 1920
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.0
+- sugar :: 10.91
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:e191d30c-30a7-41a0-bafb-815e8850e2e2][Rue Wmmeb 1920 - 2013-4-11]]

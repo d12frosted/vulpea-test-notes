@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bf1ce038-c720-470f-b2da-106b9543c6aa
+:END:
+#+title: Dseajc Jinm Xrhj 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xrhj
+- vintage :: 1947
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.77
+- sugar :: 14.63
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

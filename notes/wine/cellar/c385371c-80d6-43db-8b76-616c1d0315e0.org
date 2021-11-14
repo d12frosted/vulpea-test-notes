@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c385371c-80d6-43db-8b76-616c1d0315e0
+:END:
+#+title: Rue Laub 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Laub
+- vintage :: 1953
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.03
+- price :: 23.79 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

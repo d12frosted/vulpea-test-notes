@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6f48fc8b-f1a2-4241-b1f4-7e63a2d99504
+:END:
+#+title: Vjjtw Hvrja Wougnnq Pjxf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Wougnnq Pjxf
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.0
+- price :: 87.75 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:f8943e61-acca-4871-8362-a1d7982276a2][Vjjtw Hvrja Wougnnq Pjxf NV - 2013-6-19]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c3acfdaf-e73a-4266-b4cb-2292ea6187b0
+:END:
+#+title: Mkmt Auyyj Wphh 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Auyyj Wphh
+- vintage :: 1934
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.14
+- sugar :: 20.12
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:c67cbd28-be99-46b1-b4c3-e25ac6f0ab04][Mkmt Auyyj Wphh 1934 - 1991-2-3]]

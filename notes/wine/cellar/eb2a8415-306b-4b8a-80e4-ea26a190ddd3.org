@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       eb2a8415-306b-4b8a-80e4-ea26a190ddd3
+:END:
+#+title: Cdeexg Aru Rfvgwqkj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Aru Rfvgwqkj
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.34
+- sugar :: 6.03
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

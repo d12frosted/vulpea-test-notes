@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0c3da8ff-cddf-4030-898a-800d56f3d16d
+:END:
+#+title: Cdeexg Izmsn Ctjx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Izmsn Ctjx
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.65
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

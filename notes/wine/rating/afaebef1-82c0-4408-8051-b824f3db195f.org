@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       afaebef1-82c0-4408-8051-b824f3db195f
+:END:
+#+title: Rue Azwcr NV - 2021-11-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:fcf0a880-74fe-4ce7-87dd-cd4e6bc52a1e][Rue Azwcr]]
+- date :: 2021-11-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5393b219-0d3e-41b7-b496-ac56cca431e4
+:END:
+#+title: Vjjtw Hvrja Scvqjso 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Scvqjso
+- vintage :: 1959
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.95
+- price :: 93.07 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

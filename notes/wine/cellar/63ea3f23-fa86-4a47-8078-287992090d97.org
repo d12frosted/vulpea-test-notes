@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       63ea3f23-fa86-4a47-8078-287992090d97
+:END:
+#+title: Dseajc Jinm Yfiie Nwczwmf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Yfiie Nwczwmf
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.97
+- price :: 77.49 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

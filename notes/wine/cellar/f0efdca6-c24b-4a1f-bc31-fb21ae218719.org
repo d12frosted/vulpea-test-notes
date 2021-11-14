@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f0efdca6-c24b-4a1f-bc31-fb21ae218719
+:END:
+#+title: Dfsxtmx Wjfpkfm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Wjfpkfm
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 11.33
+- sugar :: 1.36
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

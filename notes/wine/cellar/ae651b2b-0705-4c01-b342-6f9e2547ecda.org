@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ae651b2b-0705-4c01-b342-6f9e2547ecda
+:END:
+#+title: Njtzvl Tqb Gvqnt 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Tqb Gvqnt
+- vintage :: 2004
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.21
+- sugar :: 20.2
+- price :: 87.93 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

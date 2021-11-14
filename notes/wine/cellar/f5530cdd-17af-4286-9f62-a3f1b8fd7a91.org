@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f5530cdd-17af-4286-9f62-a3f1b8fd7a91
+:END:
+#+title: Lzf Livm Gwhyw 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Livm Gwhyw
+- vintage :: 1989
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 9.62
+- sugar :: 0.17
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a4c738b3-5d38-45f5-b64e-87b0630b032e
+:END:
+#+title: Novr Rlrt Lzdd Csownmz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lzdd Csownmz
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.72
+- sugar :: 22.34
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       eb900f35-3cf8-4969-b803-81270c9085ce
+:END:
+#+title: Miv Xafgdng 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xafgdng
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.9
+- sugar :: 22.32
+- price :: 95.69 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 2.0
+- ratings :: [[id:c5e614c2-89a0-4487-9315-da6b1489e237][Miv Xafgdng NV - 2012-5-12]]

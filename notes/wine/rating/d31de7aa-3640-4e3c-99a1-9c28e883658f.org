@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d31de7aa-3640-4e3c-99a1-9c28e883658f
+:END:
+#+title: Novr Rlrt Pqpu Cyukc 1961 - 1998-8-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:947a2950-d06d-4143-b3e5-879c3f46809c][Novr Rlrt Pqpu Cyukc 1961]]
+- date :: 1998-8-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

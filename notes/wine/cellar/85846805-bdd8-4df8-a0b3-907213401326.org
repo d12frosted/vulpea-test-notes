@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       85846805-bdd8-4df8-a0b3-907213401326
+:END:
+#+title: Rue Cwgvs Dbejhjw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Cwgvs Dbejhjw
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 11.89
+- sugar :: 11.83
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:ec179ffe-5b1d-4b0b-ba75-89522f075e23][Rue Cwgvs Dbejhjw NV - 1991-8-27]]

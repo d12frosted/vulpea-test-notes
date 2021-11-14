@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d90fd03c-18b0-450f-beb2-96cef87a38aa
+:END:
+#+title: Njtzvl Spvwpedo 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Spvwpedo
+- vintage :: 1947
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.01
+- price :: 59.16 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:4be8c6a7-d889-45c5-b30c-67aa3aca00b1][Njtzvl Spvwpedo 1947 - 2017-2-8]]

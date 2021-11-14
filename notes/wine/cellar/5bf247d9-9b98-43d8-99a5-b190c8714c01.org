@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5bf247d9-9b98-43d8-99a5-b190c8714c01
+:END:
+#+title: Vjjtw Hvrja Eleoigb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Eleoigb
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 9.6
+- price :: 52.71 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: 2.0
+- ratings :: [[id:c6d15c53-22fc-4e02-a4b3-a84ebd135a3e][Vjjtw Hvrja Eleoigb NV - 2012-12-5]]

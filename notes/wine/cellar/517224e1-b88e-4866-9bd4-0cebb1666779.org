@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       517224e1-b88e-4866-9bd4-0cebb1666779
+:END:
+#+title: Dseajc Jinm Bpvwusq Wefye 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Bpvwusq Wefye
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.629999999999999
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: 6.0
+- ratings :: [[id:69c0752e-3a6e-4f2e-88ab-9a83bedc26b5][Dseajc Jinm Bpvwusq Wefye NV - 2010-9-24]]

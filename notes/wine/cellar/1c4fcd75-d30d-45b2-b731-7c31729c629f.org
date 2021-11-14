@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1c4fcd75-d30d-45b2-b731-7c31729c629f
+:END:
+#+title: Miv Qvu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Qvu
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.14
+- sugar :: 9.4
+- price :: 26.70 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

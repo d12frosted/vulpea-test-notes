@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3a873609-0334-44dc-8224-8c300be4751e
+:END:
+#+title: Dfsxtmx Wnvqgf NV - 2020-2-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:5050580b-ef50-4579-aaf1-5bb0d65eb6bb][Dfsxtmx Wnvqgf]]
+- date :: 2020-2-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

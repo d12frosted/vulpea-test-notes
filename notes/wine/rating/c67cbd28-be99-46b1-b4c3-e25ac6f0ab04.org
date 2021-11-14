@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c67cbd28-be99-46b1-b4c3-e25ac6f0ab04
+:END:
+#+title: Mkmt Auyyj Wphh 1934 - 1991-2-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:c3acfdaf-e73a-4266-b4cb-2292ea6187b0][Mkmt Auyyj Wphh 1934]]
+- date :: 1991-2-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

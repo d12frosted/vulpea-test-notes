@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6786a686-5352-4991-89a7-fcb9f96b303a
+:END:
+#+title: Novr Rlrt Epqz Pgmiz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Epqz Pgmiz
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.25
+- price :: 97.62 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

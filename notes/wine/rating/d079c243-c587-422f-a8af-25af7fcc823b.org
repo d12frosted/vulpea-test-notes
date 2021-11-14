@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d079c243-c587-422f-a8af-25af7fcc823b
+:END:
+#+title: Cdeexg Osrlbmt NV - 1997-10-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:603b3838-cdb7-468e-a834-57492d5e36c2][Cdeexg Osrlbmt]]
+- date :: 1997-10-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

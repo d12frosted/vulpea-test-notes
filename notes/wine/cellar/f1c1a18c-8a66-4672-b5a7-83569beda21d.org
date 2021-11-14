@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f1c1a18c-8a66-4672-b5a7-83569beda21d
+:END:
+#+title: Vjjtw Hvrja Vltjnjxw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vltjnjxw
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 9.36
+- sugar :: 4.84
+- price :: 73.89 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

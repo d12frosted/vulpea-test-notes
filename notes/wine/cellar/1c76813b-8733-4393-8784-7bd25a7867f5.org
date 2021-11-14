@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1c76813b-8733-4393-8784-7bd25a7867f5
+:END:
+#+title: Njtzvl Rcnpd Mat 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Rcnpd Mat
+- vintage :: 1967
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.82
+- sugar :: 22.16
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

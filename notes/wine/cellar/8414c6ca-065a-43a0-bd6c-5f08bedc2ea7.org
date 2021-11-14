@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8414c6ca-065a-43a0-bd6c-5f08bedc2ea7
+:END:
+#+title: Cdeexg Vuxrhg Yxyzvv 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Vuxrhg Yxyzvv
+- vintage :: 1966
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.19
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 4.0
+- ratings :: [[id:55d0740e-45e1-4071-8800-16971ce70041][Cdeexg Vuxrhg Yxyzvv 1966 - 2023-10-21]]

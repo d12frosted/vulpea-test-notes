@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       66853f5c-b8c9-47ac-9035-45c11ba8dbb1
+:END:
+#+title: Novr Rlrt Saxeaxk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Saxeaxk
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.3
+- sugar :: 3.96
+- price :: 69.68 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

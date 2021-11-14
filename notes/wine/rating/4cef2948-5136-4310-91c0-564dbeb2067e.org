@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4cef2948-5136-4310-91c0-564dbeb2067e
+:END:
+#+title: Novr Rlrt Myvfzjj Tzixgk 2010 - 2012-6-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:48c37e05-607f-4703-8a38-3d0a9e046a26][Novr Rlrt Myvfzjj Tzixgk 2010]]
+- date :: 2012-6-19
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

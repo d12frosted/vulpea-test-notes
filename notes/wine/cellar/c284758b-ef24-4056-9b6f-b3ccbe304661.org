@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c284758b-ef24-4056-9b6f-b3ccbe304661
+:END:
+#+title: Mkmt Abgf Eteylv 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Abgf Eteylv
+- vintage :: 1950
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.72
+- sugar :: 3.15
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:89b3384e-e51e-4123-935b-0638500b68d9][Mkmt Abgf Eteylv 1950 - 2009-4-20]]

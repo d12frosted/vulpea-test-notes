@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c75ad123-88ac-40e3-b672-459f523e5ad9
+:END:
+#+title: Cdeexg Zligywpn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Zligywpn
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 10.620000000000001
+- price :: 81.38 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: 4.5
+- ratings :: [[id:85416551-0e3b-4bc3-b119-c9c5f44e53ac][Cdeexg Zligywpn NV - 2012-6-8]]

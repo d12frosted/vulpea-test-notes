@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c7759f9e-8b8c-4d4b-a6bf-ba20a2980c8a
+:END:
+#+title: Vjjtw Hvrja Eniiu 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Eniiu
+- vintage :: 1973
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.280000000000001
+- price :: 89.79 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 7.0
+- ratings :: [[id:06883241-834f-4d1b-9559-00fa80299c27][Vjjtw Hvrja Eniiu 1973 - 1998-1-10]]

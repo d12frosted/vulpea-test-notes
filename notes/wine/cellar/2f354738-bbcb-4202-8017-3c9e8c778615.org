@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2f354738-bbcb-4202-8017-3c9e8c778615
+:END:
+#+title: Novr Rlrt Jergzzgg Ejy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jergzzgg Ejy
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 13.120000000000001
+- sugar :: 4.08
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.0
+- ratings :: [[id:1c32888c-a033-400a-b64c-a9b9f84c9fc1][Novr Rlrt Jergzzgg Ejy NV - 2020-4-26]]

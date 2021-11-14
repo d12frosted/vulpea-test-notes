@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4e2e4e91-e7bb-48c1-83b5-8c7b8eb2878e
+:END:
+#+title: Dseajc Jinm Utablmdk Viu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Utablmdk Viu
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.9
+- sugar :: 3.42
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:eb2d448c-9ab8-4cbe-8844-6275b9596b07][Dseajc Jinm Utablmdk Viu NV - 2017-12-12]]

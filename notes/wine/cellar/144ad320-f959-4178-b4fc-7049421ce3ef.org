@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       144ad320-f959-4178-b4fc-7049421ce3ef
+:END:
+#+title: Mkmt Egouln Nvns 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Egouln Nvns
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 11.9
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

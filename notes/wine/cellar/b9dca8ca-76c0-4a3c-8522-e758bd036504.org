@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b9dca8ca-76c0-4a3c-8522-e758bd036504
+:END:
+#+title: Dfsxtmx Vtdv Qdymeh 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vtdv Qdymeh
+- vintage :: 1955
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.58
+- sugar :: 23.85
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

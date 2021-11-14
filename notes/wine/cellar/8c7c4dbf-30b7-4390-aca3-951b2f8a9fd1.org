@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8c7c4dbf-30b7-4390-aca3-951b2f8a9fd1
+:END:
+#+title: Cdeexg Vgrtugo Fwng 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Vgrtugo Fwng
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.3
+- sugar :: 2.9
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:2f06c8f4-abdf-43fe-a2ac-62fa32e08f10][Cdeexg Vgrtugo Fwng NV - 2023-10-13]]

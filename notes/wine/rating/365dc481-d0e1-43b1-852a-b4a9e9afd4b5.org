@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       365dc481-d0e1-43b1-852a-b4a9e9afd4b5
+:END:
+#+title: Dseajc Jinm Vvdx Dcjnd NV - 2006-8-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:aff6c5db-a993-4914-8376-17c9e989d41e][Dseajc Jinm Vvdx Dcjnd]]
+- date :: 2006-8-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

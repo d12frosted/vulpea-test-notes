@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1265bec9-7dab-4215-974e-3de07dd92d8f
+:END:
+#+title: Rue Dnfjuq Alzptmqk NV - 1991-9-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:cb435f09-d649-460f-a72e-0ba8774b2c81][Rue Dnfjuq Alzptmqk]]
+- date :: 1991-9-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

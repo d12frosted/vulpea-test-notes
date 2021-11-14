@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b8202c03-66f8-423a-b7ae-74580d3810a8
+:END:
+#+title: Rue Ovsckgg Xue NV - 2009-7-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:3b2574ab-b3ee-488d-ae82-53c36cfe7e47][Rue Ovsckgg Xue]]
+- date :: 2009-7-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

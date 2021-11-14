@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4bd7348a-3a1d-40a4-9b80-9e982294431a
+:END:
+#+title: Cdeexg Msyxfa 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Msyxfa
+- vintage :: 1968
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.47
+- sugar :: 23.22
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:2c831e15-ba9f-42f1-bb1c-1a8c000f1c8f][Cdeexg Msyxfa 1968 - 2016-3-24]]

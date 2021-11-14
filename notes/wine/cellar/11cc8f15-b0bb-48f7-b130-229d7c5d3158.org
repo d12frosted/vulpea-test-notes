@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       11cc8f15-b0bb-48f7-b130-229d7c5d3158
+:END:
+#+title: Cdeexg Bitd Nkzsot 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bitd Nkzsot
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.1
+- sugar :: 21.21
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: duckduckgo
+- rating :: NA

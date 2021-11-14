@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       116664b2-60b7-4c60-b5aa-5fbc961df1b2
+:END:
+#+title: Rue Jbaxwvv 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jbaxwvv
+- vintage :: 2014
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.59
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b899cb85-dd03-4de0-a563-454ac4001030
+:END:
+#+title: Dseajc Jinm Xverlot 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xverlot
+- vintage :: 1976
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.27
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:1bd8a786-6656-4ee0-ac83-9621862673c6][Dseajc Jinm Xverlot 1976 - 2001-9-11]]

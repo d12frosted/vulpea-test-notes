@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       53efbc83-0a21-4153-bb00-9ecd877bb641
+:END:
+#+title: Lzf Igyb Lph 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Igyb Lph
+- vintage :: 1993
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.18
+- price :: 99.07 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:515afdd6-e19f-43c8-838d-0b91d9cdf60a][Lzf Igyb Lph 1993 - 2020-8-15]]

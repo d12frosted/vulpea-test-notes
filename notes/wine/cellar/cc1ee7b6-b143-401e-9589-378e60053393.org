@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cc1ee7b6-b143-401e-9589-378e60053393
+:END:
+#+title: Dfsxtmx Xfnbss 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xfnbss
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.95
+- price :: 5.65 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:c9d6fba8-7714-4072-add1-c3667282226e][Dfsxtmx Xfnbss NV - 1993-4-26]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       27241049-7c0d-4d22-aa35-5a61535aabfd
+:END:
+#+title: Vjjtw Hvrja Swszbdb NV - 1997-9-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:01773d3d-30d1-48cf-b866-8020a657e528][Vjjtw Hvrja Swszbdb]]
+- date :: 1997-9-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d4870971-0a05-4dc0-ba35-29d4ae61fafc
+:END:
+#+title: Rue Jbcpaqv Tehhrsg 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jbcpaqv Tehhrsg
+- vintage :: 1994
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.56
+- price :: 48.41 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:d20646f4-a3c7-4043-a644-024bf876e5b3][Rue Jbcpaqv Tehhrsg 1994 - 2006-9-23]]

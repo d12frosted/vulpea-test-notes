@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       82530312-ec6f-4db8-83ed-9f7767172d7c
+:END:
+#+title: Cdeexg Sekubc Dcpfnuur 1929 - 2024-4-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:08566be8-9f3c-44f6-b085-f3274ecb920b][Cdeexg Sekubc Dcpfnuur 1929]]
+- date :: 2024-4-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

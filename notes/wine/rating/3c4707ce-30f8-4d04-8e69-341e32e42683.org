@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3c4707ce-30f8-4d04-8e69-341e32e42683
+:END:
+#+title: Cdeexg Hifnyihi Lrmin 1957 - 1990-4-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:04366e1d-9c61-4748-8639-f667c7a1ad7b][Cdeexg Hifnyihi Lrmin 1957]]
+- date :: 1990-4-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

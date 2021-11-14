@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0183269f-6783-479f-867b-1c65e570b0eb
+:END:
+#+title: Lzf Gslub Wzlzcjm 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Gslub Wzlzcjm
+- vintage :: 1976
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.5
+- sugar :: 23.39
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

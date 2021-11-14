@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       69ea57c3-3edd-4923-ae75-584f320e1c29
+:END:
+#+title: Cdeexg Nkssrpx NV - 1995-3-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:594f0e96-25ed-47d6-9c52-ac114cc6d56e][Cdeexg Nkssrpx]]
+- date :: 1995-3-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

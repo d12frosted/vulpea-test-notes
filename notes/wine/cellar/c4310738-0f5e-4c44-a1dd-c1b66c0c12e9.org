@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c4310738-0f5e-4c44-a1dd-c1b66c0c12e9
+:END:
+#+title: Lzf Khtbip Ocnpgyw 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Khtbip Ocnpgyw
+- vintage :: 1934
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.47
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:ea6277dd-950b-4d37-a28a-05303b7747c7][Lzf Khtbip Ocnpgyw 1934 - 2020-12-8]]

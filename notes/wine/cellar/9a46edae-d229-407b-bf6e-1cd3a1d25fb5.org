@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9a46edae-d229-407b-bf6e-1cd3a1d25fb5
+:END:
+#+title: Njtzvl Hbybnc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hbybnc
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.65
+- sugar :: 15.59
+- price :: 43.81 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

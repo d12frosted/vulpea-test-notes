@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2179c29c-fe62-48dd-998a-bfadee065752
+:END:
+#+title: Novr Rlrt Uffms Gav 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Uffms Gav
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.21
+- sugar :: 16.16
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

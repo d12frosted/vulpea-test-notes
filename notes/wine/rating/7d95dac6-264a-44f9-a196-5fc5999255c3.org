@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7d95dac6-264a-44f9-a196-5fc5999255c3
+:END:
+#+title: Mkmt Glhy Vzsxpqcx NV - 2013-3-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:6c5ca7ba-f8e5-4fd7-b866-a2be72e0b39d][Mkmt Glhy Vzsxpqcx]]
+- date :: 2013-3-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

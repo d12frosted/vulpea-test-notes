@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5c9c582c-0f5e-4aea-be33-80b674fe1b6a
+:END:
+#+title: Miv Xftlnh 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xftlnh
+- vintage :: 1937
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.46
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.5
+- ratings :: [[id:fe42aeb5-77ed-44cb-84da-87ebb66b8635][Miv Xftlnh 1937 - 2017-1-10]]

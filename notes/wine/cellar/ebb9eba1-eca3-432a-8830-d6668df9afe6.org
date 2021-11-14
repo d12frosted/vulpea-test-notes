@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ebb9eba1-eca3-432a-8830-d6668df9afe6
+:END:
+#+title: Dseajc Jinm Thsj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Thsj
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.379999999999999
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:1f141439-6679-4329-aa1c-88802f0682b3][Dseajc Jinm Thsj NV - 2012-1-13]]

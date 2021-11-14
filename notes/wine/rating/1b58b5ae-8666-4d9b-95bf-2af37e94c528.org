@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1b58b5ae-8666-4d9b-95bf-2af37e94c528
+:END:
+#+title: Miv Rrqx Thcsmga 1985 - 2013-9-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:b7f94b4b-e8c4-4710-9234-df619c69ab26][Miv Rrqx Thcsmga 1985]]
+- date :: 2013-9-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

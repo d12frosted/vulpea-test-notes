@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c6831166-d82e-4d9e-9568-2577bb99c92b
+:END:
+#+title: Vjjtw Hvrja Hltd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hltd
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.47
+- price :: 23.24 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

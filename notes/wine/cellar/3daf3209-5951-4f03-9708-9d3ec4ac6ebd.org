@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3daf3209-5951-4f03-9708-9d3ec4ac6ebd
+:END:
+#+title: Miv Egifydvc Sqhrqkp 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Egifydvc Sqhrqkp
+- vintage :: 2006
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.42
+- sugar :: 17.11
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

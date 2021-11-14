@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b7ab2485-3895-4ea3-91e0-715dd870bed5
+:END:
+#+title: Novr Rlrt Znufvo Hlqsade 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Znufvo Hlqsade
+- vintage :: 1969
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.95
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA

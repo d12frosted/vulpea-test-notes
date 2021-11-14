@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       97c04585-850f-4fc7-a775-3db000ec20f1
+:END:
+#+title: Mkmt Khtb Ofwiy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Khtb Ofwiy
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.05
+- sugar :: 19.88
+- price :: 12.91 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

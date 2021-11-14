@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d0c17363-b2d9-48a2-80f1-06dc752a8689
+:END:
+#+title: Miv Nsm Ifqigsx 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Nsm Ifqigsx
+- vintage :: 1921
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.06
+- price :: 84.53 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

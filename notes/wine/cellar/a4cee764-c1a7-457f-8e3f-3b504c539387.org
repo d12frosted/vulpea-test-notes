@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a4cee764-c1a7-457f-8e3f-3b504c539387
+:END:
+#+title: Miv Akylvlbu Pfp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Akylvlbu Pfp
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 10.16
+- sugar :: 11.28
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

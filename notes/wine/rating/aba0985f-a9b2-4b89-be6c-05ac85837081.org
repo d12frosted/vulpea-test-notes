@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aba0985f-a9b2-4b89-be6c-05ac85837081
+:END:
+#+title: Dfsxtmx Qds Yqlg 1985 - 1999-4-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:ee279aea-4a48-450c-96c6-8ee18fd6da61][Dfsxtmx Qds Yqlg 1985]]
+- date :: 1999-4-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

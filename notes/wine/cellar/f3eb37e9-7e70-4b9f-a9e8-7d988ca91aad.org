@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f3eb37e9-7e70-4b9f-a9e8-7d988ca91aad
+:END:
+#+title: Lzf Dogetjq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Dogetjq
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.49
+- price :: 88.78 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

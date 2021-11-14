@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       df4f64f8-c55b-4a62-b583-a0029c82ae61
+:END:
+#+title: Rue Yrsof 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Yrsof
+- vintage :: 1975
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.469999999999999
+- sugar :: 1.56
+- price :: 49.31 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: wikipedia
+- rating :: NA

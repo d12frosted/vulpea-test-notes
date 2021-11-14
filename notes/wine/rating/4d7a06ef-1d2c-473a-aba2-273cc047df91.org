@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4d7a06ef-1d2c-473a-aba2-273cc047df91
+:END:
+#+title: Dfsxtmx Gknox Uwl 1931 - 2011-9-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:37953bcf-790a-444e-89bd-844bb16f1c3f][Dfsxtmx Gknox Uwl 1931]]
+- date :: 2011-9-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

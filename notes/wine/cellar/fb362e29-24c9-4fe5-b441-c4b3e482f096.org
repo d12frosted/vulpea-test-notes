@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fb362e29-24c9-4fe5-b441-c4b3e482f096
+:END:
+#+title: Novr Rlrt Jnavftd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jnavftd
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.67
+- sugar :: 2.41
+- price :: 35.44 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

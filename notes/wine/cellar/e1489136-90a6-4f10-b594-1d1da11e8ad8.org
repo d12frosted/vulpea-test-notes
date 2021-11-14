@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e1489136-90a6-4f10-b594-1d1da11e8ad8
+:END:
+#+title: Vjjtw Hvrja Dmkh Oiabtuhw 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dmkh Oiabtuhw
+- vintage :: 1901
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.43
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 8.0
+- ratings :: [[id:fbee872b-fe87-4535-b204-cfdd6e4820ea][Vjjtw Hvrja Dmkh Oiabtuhw 1901 - 2023-7-10]]

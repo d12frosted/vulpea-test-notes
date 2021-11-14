@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       716774ab-6376-4df7-b914-d26b6b652c50
+:END:
+#+title: Miv Nolynit Aspog 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Nolynit Aspog
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.57
+- sugar :: 14.27
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:15d99d15-c378-4401-8101-8c6c90c73944][Miv Nolynit Aspog NV - 2010-8-19]]

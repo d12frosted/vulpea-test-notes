@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       88477fd7-b665-43a8-a193-dd067f1f7a09
+:END:
+#+title: Dfsxtmx Sndeot Nodinht 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Sndeot Nodinht
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.91
+- price :: 98.22 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

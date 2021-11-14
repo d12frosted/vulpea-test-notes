@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       20a4a958-7af9-4b9e-974c-835b2f8c7076
+:END:
+#+title: Miv Qkxvdbd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Qkxvdbd
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.55
+- price :: 82.56 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:e12fac73-4efd-4770-854b-3cdf5d6c37ec][Miv Qkxvdbd NV - 1991-1-16]]

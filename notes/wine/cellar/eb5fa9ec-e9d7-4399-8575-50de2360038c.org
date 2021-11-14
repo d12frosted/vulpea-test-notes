@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       eb5fa9ec-e9d7-4399-8575-50de2360038c
+:END:
+#+title: Njtzvl Mawh Iygyba 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Mawh Iygyba
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.24
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

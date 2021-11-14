@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       349fbfd9-dcf5-44e1-a4fb-dd9f08af2155
+:END:
+#+title: Novr Rlrt Qlss 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Qlss
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.54
+- sugar :: 9.41
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

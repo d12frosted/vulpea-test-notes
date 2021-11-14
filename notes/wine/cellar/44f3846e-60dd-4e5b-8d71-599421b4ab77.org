@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       44f3846e-60dd-4e5b-8d71-599421b4ab77
+:END:
+#+title: Lzf Djl 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Djl
+- vintage :: 1910
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.46
+- price :: 58.67 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:6ebfb1dc-fe81-4719-b2fe-fdc8ac5b5847][Lzf Djl 1910 - 2022-11-3]]

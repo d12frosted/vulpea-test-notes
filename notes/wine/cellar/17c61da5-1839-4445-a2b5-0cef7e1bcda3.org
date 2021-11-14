@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       17c61da5-1839-4445-a2b5-0cef7e1bcda3
+:END:
+#+title: Mkmt Hsch Kjbxsv 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Hsch Kjbxsv
+- vintage :: 1958
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.02
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:459f6412-d00e-4e5a-a174-13595955c848][Mkmt Hsch Kjbxsv 1958 - 2014-4-12]]

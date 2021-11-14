@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e66a0769-9185-47f9-bd89-d047cfb4e305
+:END:
+#+title: Lzf Yjruo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Yjruo
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.47
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:570b8982-f228-4255-ba71-334ed015adb3][Lzf Yjruo NV - 2017-10-23]]

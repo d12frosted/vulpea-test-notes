@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d76ac5bc-9d1f-43dc-ae97-fbdd91bfd422
+:END:
+#+title: Dfsxtmx Zfhjjy Wnkifiyq 1978 - 2006-12-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:d415c276-9440-467a-9174-bc267e60b806][Dfsxtmx Zfhjjy Wnkifiyq 1978]]
+- date :: 2006-12-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

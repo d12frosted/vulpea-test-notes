@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2c699451-03a9-4adb-8e22-e7dbba194de8
+:END:
+#+title: Lzf Pdmgkgb 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Pdmgkgb
+- vintage :: 1936
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.1
+- sugar :: 2.1
+- price :: 70.63 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

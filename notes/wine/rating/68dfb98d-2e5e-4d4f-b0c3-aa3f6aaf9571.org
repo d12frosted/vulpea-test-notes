@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       68dfb98d-2e5e-4d4f-b0c3-aa3f6aaf9571
+:END:
+#+title: Miv Qwufloc 1947 - 2004-6-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:8ca7d1f4-047a-412d-af7f-d50bd6eb5724][Miv Qwufloc 1947]]
+- date :: 2004-6-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       628deeac-8fd9-4107-8776-e02de92d97c3
+:END:
+#+title: Vjjtw Hvrja Xpzvlhlz Adcjzu 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Xpzvlhlz Adcjzu
+- vintage :: 2003
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.0
+- sugar :: 20.91
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 1.5
+- ratings :: [[id:3e7550c7-47c8-44f8-92fd-0e95762dd3d6][Vjjtw Hvrja Xpzvlhlz Adcjzu 2003 - 1997-1-20]]

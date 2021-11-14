@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1e8a3ce9-6ce5-4b23-bb9e-3aae93763d1d
+:END:
+#+title: Cdeexg Pyjsa Jwv 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Pyjsa Jwv
+- vintage :: 1952
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 12.02
+- sugar :: 10.8
+- price :: 26.60 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:0cf429d8-8d8c-4448-998f-535f1b23732f][Cdeexg Pyjsa Jwv 1952 - 2019-3-25]]

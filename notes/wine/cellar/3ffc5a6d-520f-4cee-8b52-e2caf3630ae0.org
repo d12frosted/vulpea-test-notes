@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3ffc5a6d-520f-4cee-8b52-e2caf3630ae0
+:END:
+#+title: Mkmt Tjpjk 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Tjpjk
+- vintage :: 2015
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 13.59
+- sugar :: 5.07
+- price :: 27.93 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

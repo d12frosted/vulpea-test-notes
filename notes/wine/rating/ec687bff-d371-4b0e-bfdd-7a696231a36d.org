@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ec687bff-d371-4b0e-bfdd-7a696231a36d
+:END:
+#+title: Novr Rlrt Fgw Akwayaru NV - 2002-9-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:2b25d34d-ca53-4a4d-b7b2-15a6f59f32a0][Novr Rlrt Fgw Akwayaru]]
+- date :: 2002-9-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

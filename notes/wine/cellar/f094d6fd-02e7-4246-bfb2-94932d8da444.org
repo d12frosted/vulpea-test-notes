@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f094d6fd-02e7-4246-bfb2-94932d8da444
+:END:
+#+title: Dseajc Jinm Asvraep Xitzwa 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Asvraep Xitzwa
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 11.24
+- sugar :: 18.51
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

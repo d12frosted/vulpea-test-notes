@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3f199dbd-7c66-4bcb-a9da-0eef89c4e673
+:END:
+#+title: Novr Rlrt Oawugjkc Wjdgnjq 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Oawugjkc Wjdgnjq
+- vintage :: 1946
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.690000000000001
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

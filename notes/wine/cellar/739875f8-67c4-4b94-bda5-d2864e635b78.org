@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       739875f8-67c4-4b94-bda5-d2864e635b78
+:END:
+#+title: Dseajc Jinm Lzs Cyhettbe 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lzs Cyhettbe
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.57
+- sugar :: 0.98
+- price :: 84.81 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 7.0
+- ratings :: [[id:b418a1e5-0f7b-43b6-9fb1-bd615c2c9f48][Dseajc Jinm Lzs Cyhettbe NV - 2023-10-18]]

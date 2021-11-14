@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       57cf2b78-f2ab-4f9c-b5f2-9230bcb625c6
+:END:
+#+title: Rue Yvptxnl Ihk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Yvptxnl Ihk
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.92
+- price :: 53.86 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.5
+- ratings :: [[id:6b9a192f-bbb7-4cec-a49a-98f0d34a4ff2][Rue Yvptxnl Ihk NV - 1998-4-7]]

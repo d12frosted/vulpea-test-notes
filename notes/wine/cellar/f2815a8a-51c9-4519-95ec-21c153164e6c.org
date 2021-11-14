@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f2815a8a-51c9-4519-95ec-21c153164e6c
+:END:
+#+title: Dfsxtmx Pkp 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pkp
+- vintage :: 2010
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.09
+- sugar :: 2.72
+- price :: 95.76 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

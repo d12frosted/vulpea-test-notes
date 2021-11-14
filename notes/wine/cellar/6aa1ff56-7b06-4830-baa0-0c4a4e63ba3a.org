@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6aa1ff56-7b06-4830-baa0-0c4a4e63ba3a
+:END:
+#+title: Njtzvl Uxtiui 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Uxtiui
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.27
+- sugar :: 0.49
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f902a2ce-70f2-4dae-87d2-6cbb45f56cc3
+:END:
+#+title: Cdeexg Rjykqf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Rjykqf
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.83
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

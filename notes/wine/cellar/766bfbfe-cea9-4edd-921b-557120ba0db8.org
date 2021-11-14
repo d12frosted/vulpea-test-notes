@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       766bfbfe-cea9-4edd-921b-557120ba0db8
+:END:
+#+title: Novr Rlrt Vapx Zdwust 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vapx Zdwust
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.370000000000001
+- price :: 77.03 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

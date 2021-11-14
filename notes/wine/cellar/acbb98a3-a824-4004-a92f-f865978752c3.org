@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       acbb98a3-a824-4004-a92f-f865978752c3
+:END:
+#+title: Miv Lnastfwz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Lnastfwz
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.32
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:843ea1f1-4c2a-4c0e-a191-fe14021f3894][Miv Lnastfwz NV - 2019-8-26]]

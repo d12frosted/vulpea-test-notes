@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       371789b6-7b38-4663-b99b-947ba3ad7b13
+:END:
+#+title: Lzf Ppi Hwodzy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ppi Hwodzy
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 10.95
+- price :: 32.46 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

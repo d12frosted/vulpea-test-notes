@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       8bad7256-7486-49c9-a059-ce4ef231d2d5
+:END:
+#+title: Dfsxtmx Dijm 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dijm
+- vintage :: 1981
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.08
+- sugar :: 16.97
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 7.0
+- ratings :: [[id:297026d2-1ac2-4158-9823-0b07e3a213bf][Dfsxtmx Dijm 1981 - 2012-4-11]]

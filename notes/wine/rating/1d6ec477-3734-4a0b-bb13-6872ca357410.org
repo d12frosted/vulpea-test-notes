@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1d6ec477-3734-4a0b-bb13-6872ca357410
+:END:
+#+title: Dseajc Jinm Tofw Fpidoihg NV - 1992-3-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:389b97f8-1b4e-4fd3-8f17-bf673485243f][Dseajc Jinm Tofw Fpidoihg]]
+- date :: 1992-3-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       65617778-7ee2-4057-91de-ba6e3514f729
+:END:
+#+title: Cdeexg Muwxhvq NV - 2016-2-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:b061203f-8da6-4160-96a5-794e509fa08c][Cdeexg Muwxhvq]]
+- date :: 2016-2-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

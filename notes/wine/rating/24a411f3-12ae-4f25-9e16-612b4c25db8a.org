@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       24a411f3-12ae-4f25-9e16-612b4c25db8a
+:END:
+#+title: Rue Gynxhws NV - 1997-7-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:3da65a7f-7639-4108-9721-c9789882fe4f][Rue Gynxhws]]
+- date :: 1997-7-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       82f26e85-7a30-413f-ba93-c9f8dc00de41
+:END:
+#+title: Dseajc Jinm Ilpyxt NV - 2010-9-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:c6fcdf6d-aeb3-4da8-a0fb-4cc3f2cf44e6][Dseajc Jinm Ilpyxt]]
+- date :: 2010-9-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2e40e501-f5ff-47f0-8ca3-26d3e2ac0722
+:END:
+#+title: Cdeexg Fyrb Axsjxa 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Fyrb Axsjxa
+- vintage :: 1938
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.84
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:964e3f16-2b9e-46af-984b-4d9798c03e12][Cdeexg Fyrb Axsjxa 1938 - 2014-3-27]]

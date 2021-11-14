@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9c54b15e-45d9-401d-b51f-4889607818a6
+:END:
+#+title: Rue Wcqhc Nabsuwzo 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Wcqhc Nabsuwzo
+- vintage :: 1914
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.18
+- sugar :: 22.4
+- price :: 61.32 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 5.5
+- ratings :: [[id:a7f91b5f-a167-4478-94b4-01c225b46e8b][Rue Wcqhc Nabsuwzo 1914 - 1995-8-11]]

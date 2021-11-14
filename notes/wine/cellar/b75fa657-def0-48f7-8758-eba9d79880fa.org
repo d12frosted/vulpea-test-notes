@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b75fa657-def0-48f7-8758-eba9d79880fa
+:END:
+#+title: Dseajc Jinm Sldfmhsc Wwadirl 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Sldfmhsc Wwadirl
+- vintage :: 1977
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.86
+- sugar :: 5.7
+- price :: 58.40 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

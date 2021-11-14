@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0cbe0312-e4fe-4957-bca5-2a444cd41cef
+:END:
+#+title: Dseajc Jinm Ila 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ila
+- vintage :: 1938
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.97
+- sugar :: 11.83
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

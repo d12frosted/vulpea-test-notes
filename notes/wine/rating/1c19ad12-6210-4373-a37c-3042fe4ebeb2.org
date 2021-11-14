@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1c19ad12-6210-4373-a37c-3042fe4ebeb2
+:END:
+#+title: Cdeexg Nzgxtfs Jphcwtxj 1974 - 2023-4-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:fbb3ef97-0d75-403d-8779-243d0257a257][Cdeexg Nzgxtfs Jphcwtxj 1974]]
+- date :: 2023-4-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

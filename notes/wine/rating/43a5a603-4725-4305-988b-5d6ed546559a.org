@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       43a5a603-4725-4305-988b-5d6ed546559a
+:END:
+#+title: Njtzvl Fif Plamy 2006 - 1993-1-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:5223f45f-0dd4-4d9e-843e-83a36c7d8c5b][Njtzvl Fif Plamy 2006]]
+- date :: 1993-1-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

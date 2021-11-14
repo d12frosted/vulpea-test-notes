@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d6722ee3-ec06-4745-8f7e-39b14f1702f0
+:END:
+#+title: Dfsxtmx Dtpjhba 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dtpjhba
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.69
+- price :: 6.67 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 2.5
+- ratings :: [[id:a3af525f-39e9-4c49-8c09-ed6b29698f8e][Dfsxtmx Dtpjhba NV - 1997-6-9]]

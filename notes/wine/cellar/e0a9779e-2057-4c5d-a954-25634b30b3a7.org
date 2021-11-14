@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e0a9779e-2057-4c5d-a954-25634b30b3a7
+:END:
+#+title: Dfsxtmx Qdggbz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qdggbz
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.879999999999999
+- sugar :: 10.26
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

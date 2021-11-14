@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0cf8ca21-53c7-4e86-8cae-f3ff080baac0
+:END:
+#+title: Cdeexg Gfvyybbr 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Gfvyybbr
+- vintage :: 1959
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 9.48
+- price :: 50.61 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.5
+- ratings :: [[id:efc97077-3f33-45f3-80f8-d63b0f32d282][Cdeexg Gfvyybbr 1959 - 2010-11-1]]

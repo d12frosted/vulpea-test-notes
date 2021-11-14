@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4d28fef2-ff55-48e8-898b-76d98662f436
+:END:
+#+title: Vjjtw Hvrja Xivt Mmepbfg 1909 - 2021-10-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:52bef2ac-a85b-4557-bb9b-9b3d5dd640fd][Vjjtw Hvrja Xivt Mmepbfg 1909]]
+- date :: 2021-10-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5

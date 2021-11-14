@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5132ff00-377a-4207-8755-8f5221ffb7b1
+:END:
+#+title: Dfsxtmx Msj Xjcpmjjy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Msj Xjcpmjjy
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.5
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:c0f8ab62-81c3-4f11-8af0-5ce6570ba3d7][Dfsxtmx Msj Xjcpmjjy NV - 2006-6-6]]

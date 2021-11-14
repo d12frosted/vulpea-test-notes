@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       cd7d04ff-4ed5-4f7c-85a7-03e2eabb25c0
+:END:
+#+title: Vjjtw Hvrja Jyhe Snrsad 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Jyhe Snrsad
+- vintage :: 1966
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.719999999999999
+- sugar :: 15.92
+- price :: 36.30 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 6.5
+- ratings :: [[id:d7d9f603-f953-483a-9586-4010b01e35b3][Vjjtw Hvrja Jyhe Snrsad 1966 - 2003-10-11]]

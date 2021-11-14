@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3429c12c-1ac5-47b8-bc61-72d3d1eaeab4
+:END:
+#+title: Novr Rlrt Pmtw NV - 2017-8-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:8012050e-94e4-47a9-8138-2b24fa4c1534][Novr Rlrt Pmtw]]
+- date :: 2017-8-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

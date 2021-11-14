@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       160b0d88-80da-45d3-8e70-b8d7b0ad836d
+:END:
+#+title: Dfsxtmx Wotdbzi Zxuaia NV - 2001-1-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:caf1e6bb-2aac-40c4-80f1-c0b0c8cc10f6][Dfsxtmx Wotdbzi Zxuaia]]
+- date :: 2001-1-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

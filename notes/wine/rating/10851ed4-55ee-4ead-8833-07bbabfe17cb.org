@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       10851ed4-55ee-4ead-8833-07bbabfe17cb
+:END:
+#+title: Dfsxtmx Ibs Ylxrbiq NV - 2018-4-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:16450aeb-f369-446a-9680-fa69a408c152][Dfsxtmx Ibs Ylxrbiq]]
+- date :: 2018-4-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

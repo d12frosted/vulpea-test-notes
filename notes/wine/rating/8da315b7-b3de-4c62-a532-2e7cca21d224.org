@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8da315b7-b3de-4c62-a532-2e7cca21d224
+:END:
+#+title: Cdeexg Bonrvykh Evfxvgij NV - 2010-6-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:4a5f1cc2-2ba0-4e32-9c37-2f86ab874a36][Cdeexg Bonrvykh Evfxvgij]]
+- date :: 2010-6-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       15792d15-2e61-44d6-b393-f59dd978cc38
+:END:
+#+title: Mkmt Aaciytgz 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Aaciytgz
+- vintage :: 1984
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.61
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 7.5
+- ratings :: [[id:1e75cbb7-d39c-4a00-b395-de4f676c48ce][Mkmt Aaciytgz 1984 - 1995-10-13]]

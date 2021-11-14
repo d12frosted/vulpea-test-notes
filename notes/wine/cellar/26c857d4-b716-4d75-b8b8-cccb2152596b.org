@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       26c857d4-b716-4d75-b8b8-cccb2152596b
+:END:
+#+title: Njtzvl Lboehom 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lboehom
+- vintage :: 1913
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.39
+- price :: 88.51 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:a6d436e5-2757-4d37-9a72-d6880a5766af][Njtzvl Lboehom 1913 - 1996-1-25]]

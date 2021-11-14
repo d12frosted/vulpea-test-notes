@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       541141c7-4b39-42c4-8b2d-52c719c03e01
+:END:
+#+title: Dfsxtmx Amclemb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Amclemb
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.120000000000001
+- sugar :: 1.12
+- price :: 51.32 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:d1f146f3-a4f1-4c78-848b-5527acae3199][Dfsxtmx Amclemb NV - 1990-12-22]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9a80428f-dff8-470b-8a6e-fa41b1f0e4ea
+:END:
+#+title: Dseajc Jinm Hauyn Tldirdu 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Hauyn Tldirdu
+- vintage :: 1977
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.91
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       28c0dae5-fea3-405b-803f-9a936dda89e1
+:END:
+#+title: Dseajc Jinm Saintd Hafizi 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Saintd Hafizi
+- vintage :: 1987
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.06
+- price :: 76.61 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

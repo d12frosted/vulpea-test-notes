@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e88e9341-502a-4172-a220-44d6a3bd3ddb
+:END:
+#+title: Miv Ffsuw 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ffsuw
+- vintage :: 1913
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.879999999999999
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

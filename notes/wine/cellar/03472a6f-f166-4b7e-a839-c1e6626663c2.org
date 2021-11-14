@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       03472a6f-f166-4b7e-a839-c1e6626663c2
+:END:
+#+title: Vjjtw Hvrja Nbmwedq Qas 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Nbmwedq Qas
+- vintage :: 1998
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.03
+- sugar :: 8.06
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 2.5
+- ratings :: [[id:36e520d1-6803-4baf-8355-00f85013c170][Vjjtw Hvrja Nbmwedq Qas 1998 - 1997-2-16]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       325cd516-9462-46fe-b09f-df123cae1880
+:END:
+#+title: Rue Wldjmx Omwimved 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Wldjmx Omwimved
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 9.8
+- sugar :: 23.77
+- price :: 44.33 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

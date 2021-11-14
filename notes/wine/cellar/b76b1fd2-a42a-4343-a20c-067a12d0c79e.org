@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b76b1fd2-a42a-4343-a20c-067a12d0c79e
+:END:
+#+title: Mkmt Yil Fkz 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Yil Fkz
+- vintage :: 1908
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.26
+- sugar :: 5.85
+- price :: 83.39 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA

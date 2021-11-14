@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       89f40b0f-3a2e-4afa-b035-76404790d6f5
+:END:
+#+title: Lzf Bzpiwejz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Bzpiwejz
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.99
+- sugar :: 3.02
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 7.5
+- ratings :: [[id:de51217e-323c-4e40-b106-2c5b4c9e01bf][Lzf Bzpiwejz NV - 2022-9-18]]

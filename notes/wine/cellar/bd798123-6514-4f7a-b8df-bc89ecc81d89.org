@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bd798123-6514-4f7a-b8df-bc89ecc81d89
+:END:
+#+title: Dseajc Jinm Ntmprfpx Idzux 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ntmprfpx Idzux
+- vintage :: 1977
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.629999999999999
+- price :: 52.78 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

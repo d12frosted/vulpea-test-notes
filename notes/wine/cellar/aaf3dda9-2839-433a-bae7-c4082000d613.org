@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       aaf3dda9-2839-433a-bae7-c4082000d613
+:END:
+#+title: Njtzvl Keuc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Keuc
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.43
+- price :: 51.38 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:53c6b368-916a-476f-b0fe-ac005d01db76][Njtzvl Keuc NV - 1992-8-17]]

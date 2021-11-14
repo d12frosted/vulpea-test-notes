@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       db355195-b366-4e0d-bb32-70dfc25cc83c
+:END:
+#+title: Vjjtw Hvrja Fhzntss Zdao 1987 - 2005-6-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:98bdeeda-fe5f-4dad-a1b6-7e7bdddca148][Vjjtw Hvrja Fhzntss Zdao 1987]]
+- date :: 2005-6-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

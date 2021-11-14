@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3a862595-1170-42bf-8850-d89541f8cd30
+:END:
+#+title: Miv Xeimn 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xeimn
+- vintage :: 1930
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.57
+- sugar :: 3.71
+- price :: 35.00 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       915e1a98-44dd-4e29-8646-ed4effa07261
+:END:
+#+title: Lzf Djpmy 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Djpmy
+- vintage :: 1919
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.84
+- sugar :: 7.72
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

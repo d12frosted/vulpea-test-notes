@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f768e094-f7a9-4ff7-ae22-19b2a31597c9
+:END:
+#+title: Novr Rlrt Gxjowfsd Thc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Gxjowfsd Thc
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 10.74
+- price :: 93.57 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

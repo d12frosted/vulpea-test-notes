@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       45ba227c-504f-456b-8010-fe8ff6f9cfd3
+:END:
+#+title: Cdeexg Rcz Vuntkszr 2018 - 2020-8-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:a6ac78c3-719a-481b-8cc6-0c5e37b1751a][Cdeexg Rcz Vuntkszr 2018]]
+- date :: 2020-8-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

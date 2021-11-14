@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       bcb3efc1-e68a-41c7-b7ea-95c1910afd11
+:END:
+#+title: Lzf Tuunyc 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tuunyc
+- vintage :: 1986
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.71
+- sugar :: 18.08
+- price :: 101.46 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

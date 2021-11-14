@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       03a55a8f-1c3c-4daa-8d6b-5de17855707a
+:END:
+#+title: Vjjtw Hvrja Uuwyqdct Nutrkq 1921 - 2000-10-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:ee3d9934-7fee-4475-a73b-a3430feaffa2][Vjjtw Hvrja Uuwyqdct Nutrkq 1921]]
+- date :: 2000-10-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

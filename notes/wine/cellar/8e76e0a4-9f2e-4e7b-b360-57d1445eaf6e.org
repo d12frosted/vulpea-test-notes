@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8e76e0a4-9f2e-4e7b-b360-57d1445eaf6e
+:END:
+#+title: Njtzvl Ncgqtbsi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ncgqtbsi
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.6
+- sugar :: 1.49
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

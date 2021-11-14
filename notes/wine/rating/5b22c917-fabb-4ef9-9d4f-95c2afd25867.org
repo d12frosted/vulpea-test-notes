@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5b22c917-fabb-4ef9-9d4f-95c2afd25867
+:END:
+#+title: Mkmt Lki NV - 2019-9-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:ece6a050-7ea6-42e0-a842-1fa85037410b][Mkmt Lki]]
+- date :: 2019-9-3
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

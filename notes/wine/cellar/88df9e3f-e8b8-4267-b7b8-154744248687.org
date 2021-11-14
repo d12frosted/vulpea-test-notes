@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       88df9e3f-e8b8-4267-b7b8-154744248687
+:END:
+#+title: Vjjtw Hvrja Yna 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Yna
+- vintage :: 2009
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.13
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

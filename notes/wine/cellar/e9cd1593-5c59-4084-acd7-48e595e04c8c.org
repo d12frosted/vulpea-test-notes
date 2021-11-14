@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e9cd1593-5c59-4084-acd7-48e595e04c8c
+:END:
+#+title: Njtzvl Wcsy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Wcsy
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.03
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

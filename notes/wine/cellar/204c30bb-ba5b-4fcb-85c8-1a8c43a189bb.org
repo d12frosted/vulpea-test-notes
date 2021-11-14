@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       204c30bb-ba5b-4fcb-85c8-1a8c43a189bb
+:END:
+#+title: Dseajc Jinm Daacid 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Daacid
+- vintage :: 2010
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.629999999999999
+- sugar :: 4.64
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 6.0
+- ratings :: [[id:c04f04b8-53d3-4e4c-bfb5-9076cf703627][Dseajc Jinm Daacid 2010 - 2019-4-23]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9fea035f-38fd-4b7b-8301-006d90fb3c6b
+:END:
+#+title: Dfsxtmx Kwso 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kwso
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.35
+- sugar :: 3.68
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

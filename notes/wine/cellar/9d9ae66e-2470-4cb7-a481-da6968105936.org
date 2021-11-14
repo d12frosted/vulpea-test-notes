@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9d9ae66e-2470-4cb7-a481-da6968105936
+:END:
+#+title: Novr Rlrt Vqcmea Aisvuiqb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vqcmea Aisvuiqb
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.57
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 2.5
+- ratings :: [[id:8a1893c2-5935-49c2-861e-efa9b13975cc][Novr Rlrt Vqcmea Aisvuiqb NV - 2019-2-4]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       47b086c7-d673-4bc9-bc0c-bc750aab333c
+:END:
+#+title: Vjjtw Hvrja Kflyu Vgawvuw 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Kflyu Vgawvuw
+- vintage :: 1945
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.52
+- sugar :: 20.83
+- price :: 48.16 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 8.0
+- ratings :: [[id:7742ac4b-86e6-40cc-a181-479cc63f4ea8][Vjjtw Hvrja Kflyu Vgawvuw 1945 - 2002-12-5]]

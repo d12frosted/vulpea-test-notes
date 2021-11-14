@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       50f665b3-c615-4dc7-bff1-8a2bd4a41b02
+:END:
+#+title: Dfsxtmx Xvlmsg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xvlmsg
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.05
+- sugar :: 8.29
+- price :: 21.09 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

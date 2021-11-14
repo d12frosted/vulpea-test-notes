@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d6a974e2-4267-4778-8ef8-28c9bb84a9d7
+:END:
+#+title: Dseajc Jinm Dpis 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Dpis
+- vintage :: 2016
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.28
+- price :: 45.03 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:7e10761c-114b-4c11-9eee-326e6d001900][Dseajc Jinm Dpis 2016 - 2019-6-16]]

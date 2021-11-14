@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       739a6b63-da93-4842-a71e-1d520613f92e
+:END:
+#+title: Dfsxtmx Kzlsit NV - 1993-10-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:23c82959-a83f-44e8-b6fd-c67262161289][Dfsxtmx Kzlsit]]
+- date :: 1993-10-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

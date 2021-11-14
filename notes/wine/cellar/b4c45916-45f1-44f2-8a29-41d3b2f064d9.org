@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b4c45916-45f1-44f2-8a29-41d3b2f064d9
+:END:
+#+title: Cdeexg Zxb 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Zxb
+- vintage :: 1961
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 9.5
+- sugar :: 12.63
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:2dd8d88a-4ecd-409c-b866-14d825365efe][Cdeexg Zxb 1961 - 2007-10-9]]

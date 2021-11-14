@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e2f3ef42-6e72-4012-91e0-8db61cfd6e5f
+:END:
+#+title: Rue Fipdi 1963 - 1995-10-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:00535321-3609-4e11-a6a1-8bc8d44da268][Rue Fipdi 1963]]
+- date :: 1995-10-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

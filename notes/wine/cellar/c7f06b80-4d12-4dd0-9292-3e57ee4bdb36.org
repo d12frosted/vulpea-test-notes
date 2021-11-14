@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c7f06b80-4d12-4dd0-9292-3e57ee4bdb36
+:END:
+#+title: Njtzvl Saz Wub 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Saz Wub
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.94
+- price :: 72.70 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 4.0
+- ratings :: [[id:36a183ab-1e9c-48ac-86ce-d0d778d14bf1][Njtzvl Saz Wub NV - 2003-9-14]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e4048597-d79d-4838-a144-0c664be40faa
+:END:
+#+title: Lzf Kmceqbt 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Kmceqbt
+- vintage :: 1922
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.9
+- sugar :: 0.23
+- price :: 31.17 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 3.0
+- ratings :: [[id:b6538004-8c43-432e-a366-899fe417f7ef][Lzf Kmceqbt 1922 - 2019-8-5]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d8fc38dd-5f41-44ee-ad66-a7d6f4c95f77
+:END:
+#+title: Novr Rlrt Izy 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Izy
+- vintage :: 1959
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.92
+- sugar :: 7.89
+- price :: 29.56 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: 2.0
+- ratings :: [[id:ca8bba7b-7b81-4459-be42-7e31cbab1533][Novr Rlrt Izy 1959 - 2005-10-25]]

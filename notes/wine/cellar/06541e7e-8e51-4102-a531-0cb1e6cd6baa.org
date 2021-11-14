@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       06541e7e-8e51-4102-a531-0cb1e6cd6baa
+:END:
+#+title: Dfsxtmx Kbajixs Mzfxlic 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kbajixs Mzfxlic
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.04
+- sugar :: 17.79
+- price :: 15.98 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

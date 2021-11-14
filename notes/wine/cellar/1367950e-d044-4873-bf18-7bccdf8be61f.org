@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       1367950e-d044-4873-bf18-7bccdf8be61f
+:END:
+#+title: Cdeexg Kcg 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Kcg
+- vintage :: 1908
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.78
+- sugar :: 22.62
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 2.5
+- ratings :: [[id:e80a3e24-56dd-4625-be7f-ebbdf71193f4][Cdeexg Kcg 1908 - 2003-7-7]]

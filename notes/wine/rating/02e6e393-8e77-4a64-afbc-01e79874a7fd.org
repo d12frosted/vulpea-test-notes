@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       02e6e393-8e77-4a64-afbc-01e79874a7fd
+:END:
+#+title: Dseajc Jinm Blu Uzd NV - 1994-11-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:b92d47dc-0992-4ad9-9ae8-c03a582115c3][Dseajc Jinm Blu Uzd]]
+- date :: 1994-11-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

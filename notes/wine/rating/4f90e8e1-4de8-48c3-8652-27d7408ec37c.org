@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4f90e8e1-4de8-48c3-8652-27d7408ec37c
+:END:
+#+title: Rue Edkkq NV - 2011-3-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:ee4b82e8-c5c7-4750-9d0f-2be4850cc56e][Rue Edkkq]]
+- date :: 2011-3-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

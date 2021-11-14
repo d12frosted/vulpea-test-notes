@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bd95cc34-422e-4917-b00c-2c79bc1ed628
+:END:
+#+title: Njtzvl Lbc Lsd NV - 1993-3-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:4f0cb2ab-8035-428d-8acc-33cb440ca839][Njtzvl Lbc Lsd]]
+- date :: 1993-3-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e93b75ec-b1c6-486a-b623-17434344ff29
+:END:
+#+title: Cdeexg Guxpyibz Ocfbljw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Guxpyibz Ocfbljw
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.1
+- sugar :: 11.01
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

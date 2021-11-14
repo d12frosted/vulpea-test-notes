@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dfd80ba5-cc09-40c2-8c5b-c9bc7e466f86
+:END:
+#+title: Lzf Ojdhe 1984 - 2001-9-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:645e4fc8-6848-4643-85e4-bf9845b6ed02][Lzf Ojdhe 1984]]
+- date :: 2001-9-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

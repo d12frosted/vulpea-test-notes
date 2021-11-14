@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ca566437-41ba-48d3-b3f6-d9efb18649aa
+:END:
+#+title: Dseajc Jinm Ehistnbp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ehistnbp
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 13.46
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

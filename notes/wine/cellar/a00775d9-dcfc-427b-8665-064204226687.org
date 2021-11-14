@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a00775d9-dcfc-427b-8665-064204226687
+:END:
+#+title: Miv Mfj Awfttbwn 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mfj Awfttbwn
+- vintage :: 2014
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.22
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.0
+- ratings :: [[id:5e1b9202-6285-4650-b942-d79ab8656d39][Miv Mfj Awfttbwn 2014 - 2016-10-27]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f553a7ad-5817-4e2d-b371-f3387b240f62
+:END:
+#+title: Lzf Nvq 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Nvq
+- vintage :: 1932
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 12.28
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:6ab22ad8-aa28-44c7-807f-782ae1b6bef9][Lzf Nvq 1932 - 1998-1-4]]

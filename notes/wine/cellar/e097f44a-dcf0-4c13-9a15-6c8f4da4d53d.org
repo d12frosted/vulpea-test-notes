@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e097f44a-dcf0-4c13-9a15-6c8f4da4d53d
+:END:
+#+title: Dfsxtmx Mbkxda Ydagepku 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mbkxda Ydagepku
+- vintage :: 2001
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.9
+- sugar :: 12.67
+- price :: 86.83 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

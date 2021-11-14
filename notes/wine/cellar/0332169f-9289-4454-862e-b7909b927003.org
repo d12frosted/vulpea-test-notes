@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0332169f-9289-4454-862e-b7909b927003
+:END:
+#+title: Miv Kjkgwvd Uuforca 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Kjkgwvd Uuforca
+- vintage :: 1967
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.28
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:28b47d26-2494-481c-a6f9-ee0eb69d210e][Miv Kjkgwvd Uuforca 1967 - 2020-8-21]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       71b8f44f-522c-44e0-ad47-8efc7d58da35
+:END:
+#+title: Dseajc Jinm Iinxz 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Iinxz
+- vintage :: 1903
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.2
+- sugar :: 6.71
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

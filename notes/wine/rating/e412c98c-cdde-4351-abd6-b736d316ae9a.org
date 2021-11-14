@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e412c98c-cdde-4351-abd6-b736d316ae9a
+:END:
+#+title: Rue Ephhz Ouyqs 2018 - 2018-1-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:4ac2ef23-d543-485c-8f7a-ede7831d0832][Rue Ephhz Ouyqs 2018]]
+- date :: 2018-1-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

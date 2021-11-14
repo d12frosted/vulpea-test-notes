@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       43f090b7-8d69-472f-9952-34f53fd81224
+:END:
+#+title: Dseajc Jinm Uepjxuz 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Uepjxuz
+- vintage :: 1941
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.98
+- sugar :: 11.34
+- price :: 73.49 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

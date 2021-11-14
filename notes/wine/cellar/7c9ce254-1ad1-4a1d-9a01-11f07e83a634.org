@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7c9ce254-1ad1-4a1d-9a01-11f07e83a634
+:END:
+#+title: Lzf Jmvn Nkqirw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jmvn Nkqirw
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 13.29
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:b2533bdd-1d51-4066-9191-eee01a7f0532][Lzf Jmvn Nkqirw NV - 2010-7-15]]

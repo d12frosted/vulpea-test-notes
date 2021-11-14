@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       20dd0daa-07c2-4d59-b65f-068d891c5934
+:END:
+#+title: Vjjtw Hvrja Pikyeby 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pikyeby
+- vintage :: 1938
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.35
+- price :: 80.97 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

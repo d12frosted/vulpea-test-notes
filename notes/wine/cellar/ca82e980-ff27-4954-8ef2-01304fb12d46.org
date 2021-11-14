@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ca82e980-ff27-4954-8ef2-01304fb12d46
+:END:
+#+title: Cdeexg Lve 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Lve
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.19
+- sugar :: 8.5
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.5
+- ratings :: [[id:45eb6df8-7b0f-4fa6-8707-507f3bda194d][Cdeexg Lve NV - 1996-8-1]]

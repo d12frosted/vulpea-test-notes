@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       efde6e5e-c687-4d7d-989b-d2305b137371
+:END:
+#+title: Mkmt Vbaq 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Vbaq
+- vintage :: 1987
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.71
+- price :: 58.18 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.0
+- ratings :: [[id:cfc5d9ac-3eab-4b05-8331-4e56b5a6482e][Mkmt Vbaq 1987 - 2018-1-27]]

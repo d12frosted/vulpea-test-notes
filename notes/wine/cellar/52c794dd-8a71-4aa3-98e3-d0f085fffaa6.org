@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       52c794dd-8a71-4aa3-98e3-d0f085fffaa6
+:END:
+#+title: Cdeexg Lefjqkaf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Lefjqkaf
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.55
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

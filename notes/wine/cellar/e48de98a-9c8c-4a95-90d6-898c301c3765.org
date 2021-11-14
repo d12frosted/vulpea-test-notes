@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e48de98a-9c8c-4a95-90d6-898c301c3765
+:END:
+#+title: Novr Rlrt Klpf 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Klpf
+- vintage :: 1981
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 11.35
+- sugar :: 18.57
+- price :: 55.23 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

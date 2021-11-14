@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0bb76790-b2da-42d2-a2ab-4825405eaed5
+:END:
+#+title: Njtzvl Ytcxp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ytcxp
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.95
+- sugar :: 19.65
+- price :: 76.17 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: 2.5
+- ratings :: [[id:266d54fe-0ef5-40a9-b6d4-f976bfb2bee3][Njtzvl Ytcxp NV - 2001-2-10]]

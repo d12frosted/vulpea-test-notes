@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ef774318-b063-4778-b3d7-ba1b22049f5e
+:END:
+#+title: Lzf Hmrfcoh 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Hmrfcoh
+- vintage :: 1939
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.44
+- price :: 53.46 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

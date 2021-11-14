@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       35b733a6-51e1-4209-a534-8d3fafa2bf56
+:END:
+#+title: Rue Gcdqvak Pnlorcpp 1971 - 2014-10-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:2fe4867d-a656-4200-95ab-0dd0c1c5ce53][Rue Gcdqvak Pnlorcpp 1971]]
+- date :: 2014-10-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

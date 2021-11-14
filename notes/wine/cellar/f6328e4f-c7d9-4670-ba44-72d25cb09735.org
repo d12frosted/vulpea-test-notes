@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f6328e4f-c7d9-4670-ba44-72d25cb09735
+:END:
+#+title: Miv Qeghmzqw 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Qeghmzqw
+- vintage :: 1902
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.07
+- price :: 72.69 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

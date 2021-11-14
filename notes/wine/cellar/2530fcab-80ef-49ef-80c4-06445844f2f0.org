@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2530fcab-80ef-49ef-80c4-06445844f2f0
+:END:
+#+title: Njtzvl Kjmkhh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kjmkhh
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.62
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

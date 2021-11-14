@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f48e6c84-2d85-4d48-a2c6-2a80ef2e40d9
+:END:
+#+title: Rue Hbiwq 2011 - 2004-8-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:685fdbd4-8972-41fc-9685-85d8cf615de3][Rue Hbiwq 2011]]
+- date :: 2004-8-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

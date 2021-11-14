@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b67de0c7-0091-4fa9-a485-ad21c7af580a
+:END:
+#+title: Novr Rlrt Ncc Jwuadwk NV - 1994-8-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:141e1ee3-4bb8-4a92-8d1a-e35d125e93f5][Novr Rlrt Ncc Jwuadwk]]
+- date :: 1994-8-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 18
+- score_max :: 20
+- total :: 9.0

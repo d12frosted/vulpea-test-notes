@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5291e22d-13f5-4799-b1f2-e6030b524421
+:END:
+#+title: Cdeexg Vtp Vbaprj 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Vtp Vbaprj
+- vintage :: 1991
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.59
+- sugar :: 12.11
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

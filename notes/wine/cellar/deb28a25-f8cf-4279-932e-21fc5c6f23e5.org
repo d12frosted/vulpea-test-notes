@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       deb28a25-f8cf-4279-932e-21fc5c6f23e5
+:END:
+#+title: Lzf Vncej Xshwxc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vncej Xshwxc
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.55
+- price :: 4.49 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

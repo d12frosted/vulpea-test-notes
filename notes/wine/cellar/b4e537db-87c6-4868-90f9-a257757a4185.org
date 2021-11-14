@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b4e537db-87c6-4868-90f9-a257757a4185
+:END:
+#+title: Lzf Wzeflbfm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Wzeflbfm
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.67
+- sugar :: 20.72
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:0abc896a-b180-4daa-a90d-406e9640e037][Lzf Wzeflbfm NV - 2000-9-4]]

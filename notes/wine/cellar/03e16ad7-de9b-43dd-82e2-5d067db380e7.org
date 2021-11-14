@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       03e16ad7-de9b-43dd-82e2-5d067db380e7
+:END:
+#+title: Rue Kbzjvz Zeakvrnk 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kbzjvz Zeakvrnk
+- vintage :: 1995
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 9.96
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:c39efd14-c278-4fad-bd6a-967c36d146f6][Rue Kbzjvz Zeakvrnk 1995 - 2024-12-6]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6b0816bd-31d1-4897-ac93-e43a5c45d228
+:END:
+#+title: Cdeexg Ppyorqa Nrvkkk 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ppyorqa Nrvkkk
+- vintage :: 2002
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.13
+- price :: 23.14 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

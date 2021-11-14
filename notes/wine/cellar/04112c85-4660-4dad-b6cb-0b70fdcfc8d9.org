@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       04112c85-4660-4dad-b6cb-0b70fdcfc8d9
+:END:
+#+title: Dseajc Jinm Vrjdws 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vrjdws
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.56
+- sugar :: 21.62
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

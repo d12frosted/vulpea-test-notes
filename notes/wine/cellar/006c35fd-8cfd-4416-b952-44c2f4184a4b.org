@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       006c35fd-8cfd-4416-b952-44c2f4184a4b
+:END:
+#+title: Vjjtw Hvrja Ghimadr Houf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ghimadr Houf
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.39
+- sugar :: 16.79
+- price :: 74.19 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

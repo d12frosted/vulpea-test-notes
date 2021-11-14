@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a19db35f-a642-4d34-af20-e2dfc28c0ee3
+:END:
+#+title: Dfsxtmx Nxlucnc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nxlucnc
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.05
+- price :: 32.37 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:5f685e58-11fb-41a2-81fe-df871f0a34d5][Dfsxtmx Nxlucnc NV - 2006-8-26]]

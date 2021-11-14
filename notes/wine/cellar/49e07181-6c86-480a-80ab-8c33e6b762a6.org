@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       49e07181-6c86-480a-80ab-8c33e6b762a6
+:END:
+#+title: Rue Oiuryn Iqayhfa 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Oiuryn Iqayhfa
+- vintage :: 2006
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.879999999999999
+- price :: 90.49 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

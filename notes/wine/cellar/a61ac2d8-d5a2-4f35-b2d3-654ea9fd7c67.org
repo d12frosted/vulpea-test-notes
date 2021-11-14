@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a61ac2d8-d5a2-4f35-b2d3-654ea9fd7c67
+:END:
+#+title: Njtzvl Vqjmln Rpwdz 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Vqjmln Rpwdz
+- vintage :: 1911
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 10.33
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:2fae00ec-d973-4bc8-9946-baacb5f7ebf8][Njtzvl Vqjmln Rpwdz 1911 - 2015-6-18]]

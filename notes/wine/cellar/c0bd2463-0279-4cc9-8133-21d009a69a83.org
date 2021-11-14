@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c0bd2463-0279-4cc9-8133-21d009a69a83
+:END:
+#+title: Vjjtw Hvrja Xagafq 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Xagafq
+- vintage :: 1951
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.08
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.0
+- ratings :: [[id:0042fd90-5d1f-4ab0-b961-f154d9fe8e86][Vjjtw Hvrja Xagafq 1951 - 2020-7-8]]

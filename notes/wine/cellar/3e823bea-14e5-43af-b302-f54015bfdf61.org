@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3e823bea-14e5-43af-b302-f54015bfdf61
+:END:
+#+title: Dseajc Jinm Rrrv Bimaq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rrrv Bimaq
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.5
+- sugar :: 21.51
+- price :: 73.98 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

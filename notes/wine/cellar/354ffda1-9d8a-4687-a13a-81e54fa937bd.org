@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       354ffda1-9d8a-4687-a13a-81e54fa937bd
+:END:
+#+title: Cdeexg Fklafr Bewto 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Fklafr Bewto
+- vintage :: 2016
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.54
+- price :: 16.78 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d1edae36-678d-451b-979d-2b12a7d6fc91
+:END:
+#+title: Cdeexg Oobcdxr Hdcfwpb NV - 1991-11-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:de169e60-4820-423f-a06c-82edb484c051][Cdeexg Oobcdxr Hdcfwpb]]
+- date :: 1991-11-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

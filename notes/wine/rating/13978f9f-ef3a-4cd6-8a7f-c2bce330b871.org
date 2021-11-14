@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       13978f9f-ef3a-4cd6-8a7f-c2bce330b871
+:END:
+#+title: Dfsxtmx Twongugg NV - 2013-4-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:4516100d-f7b9-4c9a-92e1-8d9c42727731][Dfsxtmx Twongugg]]
+- date :: 2013-4-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

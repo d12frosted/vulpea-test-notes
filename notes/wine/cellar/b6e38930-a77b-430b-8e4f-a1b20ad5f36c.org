@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b6e38930-a77b-430b-8e4f-a1b20ad5f36c
+:END:
+#+title: Vjjtw Hvrja Mjamsdq Afu 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mjamsdq Afu
+- vintage :: 1993
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.94
+- price :: 30.03 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

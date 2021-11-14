@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       693ea39b-ad62-4378-8d22-e920d0a539e0
+:END:
+#+title: Rue Omr Clkfvlg NV - 2024-7-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:5f31c7eb-e484-4b72-a62a-72e8c5202303][Rue Omr Clkfvlg]]
+- date :: 2024-7-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

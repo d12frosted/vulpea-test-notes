@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b12f0af5-b058-4738-bbcf-34efbfd70f90
+:END:
+#+title: Novr Rlrt Bkcsqfll Rcecz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bkcsqfll Rcecz
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.79
+- price :: 21.00 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

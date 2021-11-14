@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       51259215-d60d-4d3b-b00f-c97a8dcd7f9d
+:END:
+#+title: Dseajc Jinm Udjnes 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Udjnes
+- vintage :: 2016
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 10.370000000000001
+- sugar :: 0.12
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

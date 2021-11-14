@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       af1563f8-854f-4298-a235-fe64c1148f71
+:END:
+#+title: Cdeexg Mvdyg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Mvdyg
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.09
+- price :: 58.27 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

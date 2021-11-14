@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f0c44d3c-0d83-489c-8944-b0f56cc230b3
+:END:
+#+title: Cdeexg Iuwyup 1990 - 2011-10-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:59bd1f41-4d08-4acb-8902-215b09b7d744][Cdeexg Iuwyup 1990]]
+- date :: 2011-10-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

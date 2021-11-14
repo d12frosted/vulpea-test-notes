@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       052034d2-0e5b-4133-8e5a-cb9e69cc68bb
+:END:
+#+title: Cdeexg Ozwp Syzjo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ozwp Syzjo
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.47
+- price :: 99.42 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

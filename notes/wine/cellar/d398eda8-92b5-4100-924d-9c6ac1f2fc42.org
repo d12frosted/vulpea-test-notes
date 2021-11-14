@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d398eda8-92b5-4100-924d-9c6ac1f2fc42
+:END:
+#+title: Dfsxtmx Edsmxx Pxwovx 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Edsmxx Pxwovx
+- vintage :: 1962
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.21
+- price :: 55.98 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

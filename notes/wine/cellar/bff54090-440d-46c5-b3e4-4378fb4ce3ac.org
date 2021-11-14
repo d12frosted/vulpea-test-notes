@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bff54090-440d-46c5-b3e4-4378fb4ce3ac
+:END:
+#+title: Novr Rlrt Prpbeq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Prpbeq
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.01
+- sugar :: 5.0
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: duckduckgo
+- rating :: NA

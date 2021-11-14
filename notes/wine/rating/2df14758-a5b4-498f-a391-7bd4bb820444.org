@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2df14758-a5b4-498f-a391-7bd4bb820444
+:END:
+#+title: Vjjtw Hvrja Hjwv NV - 2022-10-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:010b9ea6-c72f-4925-9897-8d3da8c8d823][Vjjtw Hvrja Hjwv]]
+- date :: 2022-10-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

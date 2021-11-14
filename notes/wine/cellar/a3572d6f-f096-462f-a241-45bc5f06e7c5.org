@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a3572d6f-f096-462f-a241-45bc5f06e7c5
+:END:
+#+title: Miv Del Ymzvhi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Del Ymzvhi
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 13.51
+- sugar :: 14.78
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

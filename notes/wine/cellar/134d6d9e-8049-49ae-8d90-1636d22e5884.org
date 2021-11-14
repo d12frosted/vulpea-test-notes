@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       134d6d9e-8049-49ae-8d90-1636d22e5884
+:END:
+#+title: Miv Olzk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Olzk
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 13.46
+- sugar :: 15.35
+- price :: 36.87 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 7.0
+- ratings :: [[id:ed1ef29f-ee6c-41af-ba1a-955581b44eff][Miv Olzk NV - 2021-7-21]]

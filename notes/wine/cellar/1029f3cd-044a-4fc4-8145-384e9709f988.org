@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1029f3cd-044a-4fc4-8145-384e9709f988
+:END:
+#+title: Njtzvl Lgjh Gdkdwqku 1906
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lgjh Gdkdwqku
+- vintage :: 1906
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.16
+- sugar :: 22.92
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:7b68d9fe-bddb-47de-b52e-159414218924][Njtzvl Lgjh Gdkdwqku 1906 - 2012-7-24]]

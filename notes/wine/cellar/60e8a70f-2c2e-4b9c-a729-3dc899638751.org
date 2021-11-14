@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       60e8a70f-2c2e-4b9c-a729-3dc899638751
+:END:
+#+title: Dfsxtmx Xnq 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xnq
+- vintage :: 1990
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.57
+- sugar :: 3.86
+- price :: 99.22 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e35c584d-8639-4e3e-8fc7-5915bdf41e93
+:END:
+#+title: Vjjtw Hvrja Gygahw Crb 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Gygahw Crb
+- vintage :: 1907
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.17
+- sugar :: 1.93
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

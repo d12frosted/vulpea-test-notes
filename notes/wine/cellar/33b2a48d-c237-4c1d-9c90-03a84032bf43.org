@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       33b2a48d-c237-4c1d-9c90-03a84032bf43
+:END:
+#+title: Mkmt Iwlk Nrsprezk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Iwlk Nrsprezk
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.24
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

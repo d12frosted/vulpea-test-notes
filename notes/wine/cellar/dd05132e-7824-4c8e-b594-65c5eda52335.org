@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       dd05132e-7824-4c8e-b594-65c5eda52335
+:END:
+#+title: Miv Ngu 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ngu
+- vintage :: 1921
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.73
+- sugar :: 2.15
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:ab020d8b-a12d-4401-ac63-0b96304813c5][Miv Ngu 1921 - 2012-5-23]]

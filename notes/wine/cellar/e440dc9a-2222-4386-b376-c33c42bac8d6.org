@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e440dc9a-2222-4386-b376-c33c42bac8d6
+:END:
+#+title: Novr Rlrt Rfwqob Dupk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rfwqob Dupk
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.95
+- sugar :: 7.49
+- price :: 59.23 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:c1fef840-2f5d-49d3-91e6-c6d85f140adf][Novr Rlrt Rfwqob Dupk NV - 2001-5-7]]

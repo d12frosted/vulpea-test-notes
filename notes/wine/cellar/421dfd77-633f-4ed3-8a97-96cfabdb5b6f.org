@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       421dfd77-633f-4ed3-8a97-96cfabdb5b6f
+:END:
+#+title: Vjjtw Hvrja Ksb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ksb
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.690000000000001
+- sugar :: 18.56
+- price :: 93.96 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

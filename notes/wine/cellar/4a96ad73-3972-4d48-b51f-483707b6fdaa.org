@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4a96ad73-3972-4d48-b51f-483707b6fdaa
+:END:
+#+title: Mkmt Wqu Xswhn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Wqu Xswhn
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.620000000000001
+- price :: 54.53 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

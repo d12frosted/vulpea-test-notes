@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1aae5746-5208-4d75-a51e-3e03eef853f0
+:END:
+#+title: Njtzvl Efwai 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Efwai
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.68
+- sugar :: 16.33
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:fb7cf2eb-e754-421f-84b9-b18750bc52fe][Njtzvl Efwai NV - 2010-7-11]]

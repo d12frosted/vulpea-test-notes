@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fcbbefb1-80b4-42a0-abf2-cecb9b9cc142
+:END:
+#+title: Njtzvl Xhyaugc 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xhyaugc
+- vintage :: 2017
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 9.5
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

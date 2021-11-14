@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f7321c7c-a632-4e1e-a15f-04b256c41264
+:END:
+#+title: Dseajc Jinm Ojfxetm Wzlmyn 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ojfxetm Wzlmyn
+- vintage :: 2011
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.75
+- price :: 7.87 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

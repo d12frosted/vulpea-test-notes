@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       02acd795-8fed-4185-be1d-679b6d85d061
+:END:
+#+title: Miv Mojigo 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mojigo
+- vintage :: 1956
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.92
+- price :: 16.75 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:0b0ed92c-2df3-4a5b-bc09-d93f4231680f][Miv Mojigo 1956 - 2009-6-3]]

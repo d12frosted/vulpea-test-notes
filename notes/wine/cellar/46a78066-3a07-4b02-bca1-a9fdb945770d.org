@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       46a78066-3a07-4b02-bca1-a9fdb945770d
+:END:
+#+title: Njtzvl Vmjhewse 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Vmjhewse
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.76
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 7.0
+- ratings :: [[id:a9be1b0b-bd22-4e0b-a5bf-946f8dce07a5][Njtzvl Vmjhewse NV - 1995-7-23]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b608a155-caa4-4ce4-b59d-23c7d06fe968
+:END:
+#+title: Mkmt Coteyylb Scyvbomh NV - 1991-12-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:5fea6449-2967-4952-a7dd-6f305ff5568c][Mkmt Coteyylb Scyvbomh]]
+- date :: 1991-12-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d9bc0117-c3d7-4661-8318-296ff95243d6
+:END:
+#+title: Cdeexg Uviii 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Uviii
+- vintage :: 1933
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.36
+- sugar :: 2.64
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       55778b87-66e7-4260-9fd0-197e38c103cd
+:END:
+#+title: Miv Nfsgbfup Ovtnrl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Nfsgbfup Ovtnrl
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.49
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f280c8c5-fca7-42ff-9399-caeaec05d15b
+:END:
+#+title: Rue Prcmj Luo 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Prcmj Luo
+- vintage :: 1995
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.0
+- sugar :: 12.58
+- price :: 37.51 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       52e6a0a8-ce9c-4093-bae5-b944bbb5fd76
+:END:
+#+title: Dfsxtmx Wtbdxa 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Wtbdxa
+- vintage :: 1953
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.34
+- price :: 70.90 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

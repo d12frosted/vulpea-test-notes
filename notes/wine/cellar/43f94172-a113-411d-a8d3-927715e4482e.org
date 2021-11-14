@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       43f94172-a113-411d-a8d3-927715e4482e
+:END:
+#+title: Novr Rlrt Sfsjhucw Brdubgtv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Sfsjhucw Brdubgtv
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.93
+- sugar :: 16.98
+- price :: 90.67 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: 6.5
+- ratings :: [[id:b68d076a-d954-4146-b9de-d821163bd51a][Novr Rlrt Sfsjhucw Brdubgtv NV - 2007-8-11]]

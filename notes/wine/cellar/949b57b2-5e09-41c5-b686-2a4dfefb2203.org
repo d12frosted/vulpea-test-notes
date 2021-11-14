@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       949b57b2-5e09-41c5-b686-2a4dfefb2203
+:END:
+#+title: Mkmt Fteinmg Ftvtsv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fteinmg Ftvtsv
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 9.01
+- sugar :: 13.63
+- price :: 43.07 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

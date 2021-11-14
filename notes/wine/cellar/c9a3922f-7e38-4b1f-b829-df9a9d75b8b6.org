@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c9a3922f-7e38-4b1f-b829-df9a9d75b8b6
+:END:
+#+title: Njtzvl Xefm Pjqq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xefm Pjqq
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 10.27
+- sugar :: 3.71
+- price :: 16.62 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 7.5
+- ratings :: [[id:19ce48d4-1c5a-4ddf-b965-5ac1f85a2174][Njtzvl Xefm Pjqq NV - 2013-2-16]]

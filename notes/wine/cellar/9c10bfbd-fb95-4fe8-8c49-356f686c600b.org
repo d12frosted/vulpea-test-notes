@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9c10bfbd-fb95-4fe8-8c49-356f686c600b
+:END:
+#+title: Dfsxtmx Pukcl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pukcl
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.17
+- sugar :: 8.96
+- price :: 19.11 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

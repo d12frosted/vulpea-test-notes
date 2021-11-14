@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f47c030b-20ae-491b-9899-e21d8df67096
+:END:
+#+title: Vjjtw Hvrja Vsc Gxdy 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vsc Gxdy
+- vintage :: 1918
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.86
+- sugar :: 1.76
+- price :: 6.96 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

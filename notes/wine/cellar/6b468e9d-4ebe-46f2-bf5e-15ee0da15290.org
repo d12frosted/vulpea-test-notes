@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6b468e9d-4ebe-46f2-bf5e-15ee0da15290
+:END:
+#+title: Vjjtw Hvrja Fkmhfdfp 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Fkmhfdfp
+- vintage :: 1934
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.47
+- sugar :: 1.21
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0cc5380b-0b2f-4387-8b33-1eb6459a59ec
+:END:
+#+title: Miv Zpiqjsor 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Zpiqjsor
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.31
+- sugar :: 18.31
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: duckduckgo
+- rating :: NA

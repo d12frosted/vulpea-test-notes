@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       794e8899-c629-4a89-87e2-655a3061b47e
+:END:
+#+title: Vjjtw Hvrja Llwgluyz NV - 2017-10-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:a5648eb1-2046-498c-a757-5b46aa1280fa][Vjjtw Hvrja Llwgluyz]]
+- date :: 2017-10-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

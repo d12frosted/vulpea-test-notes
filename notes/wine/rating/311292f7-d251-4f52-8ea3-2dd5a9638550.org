@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       311292f7-d251-4f52-8ea3-2dd5a9638550
+:END:
+#+title: Novr Rlrt Zybn 1971 - 2016-3-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:2b096ebc-5f95-4415-bc20-92da25bce1cb][Novr Rlrt Zybn 1971]]
+- date :: 2016-3-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       5b7df08f-cf68-4c34-b1d1-f07b42eb4bad
+:END:
+#+title: Miv Sjxzdsvj 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sjxzdsvj
+- vintage :: 1905
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.75
+- sugar :: 9.17
+- price :: 92.93 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 7.0
+- ratings :: [[id:129649de-e27c-4b39-9fcf-44ef906c3ffc][Miv Sjxzdsvj 1905 - 2017-4-20]]

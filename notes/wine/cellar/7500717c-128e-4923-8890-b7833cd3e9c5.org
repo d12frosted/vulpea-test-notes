@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7500717c-128e-4923-8890-b7833cd3e9c5
+:END:
+#+title: Dseajc Jinm Mxhdcp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Mxhdcp
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.620000000000001
+- price :: 98.24 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:b35640aa-2568-48c6-b91d-1a7e3a34b51e][Dseajc Jinm Mxhdcp NV - 1997-1-5]]

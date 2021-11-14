@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0dc8b247-1d91-4184-84df-47336d399070
+:END:
+#+title: Miv Wdq 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Wdq
+- vintage :: 1952
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.809999999999999
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

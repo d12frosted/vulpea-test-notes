@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c76f01e3-e805-47d4-82df-11b6dec2027e
+:END:
+#+title: Dfsxtmx Eqhsnxdf Oct 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Eqhsnxdf Oct
+- vintage :: 1962
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.08
+- price :: 34.11 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

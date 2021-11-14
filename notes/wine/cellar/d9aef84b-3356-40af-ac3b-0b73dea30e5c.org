@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d9aef84b-3356-40af-ac3b-0b73dea30e5c
+:END:
+#+title: Vjjtw Hvrja Knh 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Knh
+- vintage :: 1938
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.06
+- price :: 72.68 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:e76be9ce-8b2d-45a3-ae1c-58446ab65c8d][Vjjtw Hvrja Knh 1938 - 2020-12-16]]

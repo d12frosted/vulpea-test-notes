@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       50c42f97-606f-4357-a739-2636415becf5
+:END:
+#+title: Rue Blkxper 1929 - 1999-10-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:b4b0f2c5-d879-4eda-9f03-3f122da6160a][Rue Blkxper 1929]]
+- date :: 1999-10-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

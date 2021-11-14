@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c4ccd4c5-2363-42bb-8bc6-6ff82b8abe0a
+:END:
+#+title: Dseajc Jinm Iatekd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Iatekd
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.68
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

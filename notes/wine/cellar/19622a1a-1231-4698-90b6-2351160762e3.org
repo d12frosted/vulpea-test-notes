@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       19622a1a-1231-4698-90b6-2351160762e3
+:END:
+#+title: Vjjtw Hvrja Zxieict 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Zxieict
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.969999999999999
+- sugar :: 5.32
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 2.5
+- ratings :: [[id:b9d7ba8f-ddfe-42f8-a066-ea7a15405c1e][Vjjtw Hvrja Zxieict NV - 2024-8-10]]

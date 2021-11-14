@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c2e346aa-0c8f-4533-bd74-dfcbf17409ce
+:END:
+#+title: Vjjtw Hvrja Jyxbaofo Mnx NV - 2017-7-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:1c2b8112-9f2b-47a8-b30e-e11f972907a0][Vjjtw Hvrja Jyxbaofo Mnx]]
+- date :: 2017-7-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

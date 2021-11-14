@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       373c2913-5346-4bea-a867-edc615c2d729
+:END:
+#+title: Cdeexg Ttx NV - 2013-2-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:519c60c5-b144-4ed8-b3b5-ad98ea01350e][Cdeexg Ttx]]
+- date :: 2013-2-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

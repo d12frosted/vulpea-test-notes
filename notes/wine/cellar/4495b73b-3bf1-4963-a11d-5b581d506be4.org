@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4495b73b-3bf1-4963-a11d-5b581d506be4
+:END:
+#+title: Njtzvl Asnvetcb 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Asnvetcb
+- vintage :: 1976
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.76
+- sugar :: 19.99
+- price :: 67.86 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

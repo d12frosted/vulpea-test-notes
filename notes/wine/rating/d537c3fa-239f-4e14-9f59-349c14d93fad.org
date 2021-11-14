@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d537c3fa-239f-4e14-9f59-349c14d93fad
+:END:
+#+title: Njtzvl Euigyx 1911 - 2017-10-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:1ae1ea66-96d4-4fc4-98bd-605b6b68298e][Njtzvl Euigyx 1911]]
+- date :: 2017-10-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

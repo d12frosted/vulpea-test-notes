@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a1247947-d33f-4f3c-ac5f-ce12b8ac4a86
+:END:
+#+title: Njtzvl Hcho 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hcho
+- vintage :: 1900
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.77
+- price :: 94.26 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:75e30ed3-f848-47ae-a095-92a3da6e4527][Njtzvl Hcho 1900 - 1998-11-11]]

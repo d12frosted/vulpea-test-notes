@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e5723f32-c6b0-4feb-b970-e15fae0e04f9
+:END:
+#+title: Miv Blmjfzy Dhnftdva 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Blmjfzy Dhnftdva
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.56
+- sugar :: 16.26
+- price :: 26.24 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.5
+- ratings :: [[id:9590dd60-0f4b-4bb3-8951-da47de312f42][Miv Blmjfzy Dhnftdva NV - 2006-7-8]]

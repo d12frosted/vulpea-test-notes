@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1ba4822f-34a4-4d3b-9cf3-2b4889d352b3
+:END:
+#+title: Dseajc Jinm Pshqdsw 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Pshqdsw
+- vintage :: 2004
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.94
+- sugar :: 21.01
+- price :: 49.92 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

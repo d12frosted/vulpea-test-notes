@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       19b52f52-b7b3-43c7-86c6-67ccb1a85e33
+:END:
+#+title: Rue Fwsdpk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Fwsdpk
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.24
+- price :: 75.49 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

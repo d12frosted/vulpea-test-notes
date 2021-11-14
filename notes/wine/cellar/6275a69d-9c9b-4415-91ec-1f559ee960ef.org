@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6275a69d-9c9b-4415-91ec-1f559ee960ef
+:END:
+#+title: Dfsxtmx Lbfiw 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Lbfiw
+- vintage :: 2003
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.0
+- sugar :: 17.24
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:fac8fece-2d63-40ed-8416-b714b489d210][Dfsxtmx Lbfiw 2003 - 2010-2-14]]

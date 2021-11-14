@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4f34b7f7-69aa-4714-a151-955bbb7b823c
+:END:
+#+title: Lzf Ida 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ida
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.370000000000001
+- sugar :: 1.05
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4f8179fa-eb18-4afc-8d5c-b873ad76727c
+:END:
+#+title: Novr Rlrt Tciqg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tciqg
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.92
+- price :: 3.10 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b6b4df13-bb88-4ff0-ab5a-e7607b4b9867
+:END:
+#+title: Vjjtw Hvrja Eqtu Vwdkq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Eqtu Vwdkq
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.6
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7cd148ce-f3c8-4867-b7cf-2c92d808d8a2
+:END:
+#+title: Miv Eajjdgm Zuf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Eajjdgm Zuf
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 13.68
+- sugar :: 6.74
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA

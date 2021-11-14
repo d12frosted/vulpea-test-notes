@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       de672244-d859-4fdb-8b98-c3ff7dde90b7
+:END:
+#+title: Dfsxtmx Sbf Wvttszys 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Sbf Wvttszys
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.71
+- sugar :: 2.21
+- price :: 84.03 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.0
+- ratings :: [[id:6a8ba162-2238-4ddc-b925-65cace4807e3][Dfsxtmx Sbf Wvttszys NV - 1998-8-17]]

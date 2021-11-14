@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e2c9b2e7-217c-40fe-bd35-77f04d5449a5
+:END:
+#+title: Dseajc Jinm Rti 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rti
+- vintage :: 1951
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 11.42
+- sugar :: 11.44
+- price :: 19.92 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

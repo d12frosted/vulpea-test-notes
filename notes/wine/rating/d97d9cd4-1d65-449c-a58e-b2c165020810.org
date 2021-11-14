@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d97d9cd4-1d65-449c-a58e-b2c165020810
+:END:
+#+title: Mkmt Xrl NV - 1992-8-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:d2c5adfd-01b7-4b2c-a395-8c2070321cf0][Mkmt Xrl]]
+- date :: 1992-8-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

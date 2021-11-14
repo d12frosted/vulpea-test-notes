@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       ad9c9625-e392-45e0-b300-ef1e30ce5ac9
+:END:
+#+title: Lzf Jdooan 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jdooan
+- vintage :: 1986
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.28
+- sugar :: 21.96
+- price :: 9.88 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.5
+- ratings :: [[id:ece810ad-914c-4aca-b4ea-a28eb71a066a][Lzf Jdooan 1986 - 2004-7-11]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       09424e06-c331-4ea3-b70a-4e074e649d5a
+:END:
+#+title: Dseajc Jinm Qrhw Znn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Qrhw Znn
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.91
+- sugar :: 8.83
+- price :: 17.37 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 8.5
+- ratings :: [[id:891f5791-ecfe-40d9-a29d-0460a5941502][Dseajc Jinm Qrhw Znn NV - 2010-4-10]]

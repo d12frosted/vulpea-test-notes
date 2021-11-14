@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6cf356b5-227a-45d2-b59b-7c0980bda42c
+:END:
+#+title: Dfsxtmx Qlans 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qlans
+- vintage :: 1979
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.21
+- sugar :: 13.62
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

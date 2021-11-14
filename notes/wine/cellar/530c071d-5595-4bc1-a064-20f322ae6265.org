@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       530c071d-5595-4bc1-a064-20f322ae6265
+:END:
+#+title: Rue Uoc Ycgrm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Uoc Ycgrm
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.11
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:fa22dbf1-dc7f-4296-b73a-4dfbc08d8e07][Rue Uoc Ycgrm NV - 2005-1-16]]

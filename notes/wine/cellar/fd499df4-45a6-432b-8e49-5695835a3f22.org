@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fd499df4-45a6-432b-8e49-5695835a3f22
+:END:
+#+title: Lzf Mujnwghc 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mujnwghc
+- vintage :: 1913
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.08
+- price :: 102.04 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:dbc364ef-d49f-487e-b768-845f1c1ec43f][Lzf Mujnwghc 1913 - 2019-5-23]]

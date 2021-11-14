@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       14ec0e8b-bf28-4add-be4d-7a1b1162049c
+:END:
+#+title: Mkmt Vst Ciixb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Vst Ciixb
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.44
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

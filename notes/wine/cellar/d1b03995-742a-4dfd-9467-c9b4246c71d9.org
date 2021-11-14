@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d1b03995-742a-4dfd-9467-c9b4246c71d9
+:END:
+#+title: Lzf Rsxr Ywdtxwws 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Rsxr Ywdtxwws
+- vintage :: 1959
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.05
+- sugar :: 3.0
+- price :: 16.28 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

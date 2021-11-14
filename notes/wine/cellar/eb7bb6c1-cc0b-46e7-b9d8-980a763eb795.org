@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       eb7bb6c1-cc0b-46e7-b9d8-980a763eb795
+:END:
+#+title: Dfsxtmx Dpzgq Dcpdhr 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dpzgq Dcpdhr
+- vintage :: 1964
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.0
+- sugar :: 10.57
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.5
+- ratings :: [[id:d3d83896-105f-4e4b-b043-a0f08b8444e5][Dfsxtmx Dpzgq Dcpdhr 1964 - 1994-1-7]]

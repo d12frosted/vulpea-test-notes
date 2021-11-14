@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       239ed71a-6b9c-419f-acb6-c7bd91e72f15
+:END:
+#+title: Miv Bwqvfsd Xbinaiuf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Bwqvfsd Xbinaiuf
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 9.73
+- price :: 68.77 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:7d128aeb-76bf-4a8e-8982-a6ce42dacaf5][Miv Bwqvfsd Xbinaiuf NV - 2000-6-8]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c59414da-68ca-420c-97ef-a0d5cef7b99b
+:END:
+#+title: Miv Rwaoqrw Swtwijga 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rwaoqrw Swtwijga
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.49
+- sugar :: 22.23
+- price :: 42.00 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

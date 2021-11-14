@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6a892c13-cfa2-4fa9-aaad-8e27470218ba
+:END:
+#+title: Lzf Myhskod Bcymnk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Myhskod Bcymnk
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.870000000000001
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       53a11287-dac7-467d-ba7f-a340b2d01487
+:END:
+#+title: Novr Rlrt Jid Xudysd 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jid Xudysd
+- vintage :: 1979
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.04
+- price :: 86.30 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 1.5
+- ratings :: [[id:287f3d34-4b6f-4b7f-a363-e72f6ae866da][Novr Rlrt Jid Xudysd 1979 - 2004-1-26]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       80c3a38e-dcc3-4635-92b1-46cbd6a9186d
+:END:
+#+title: Novr Rlrt Ppyhkd Hnrs 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ppyhkd Hnrs
+- vintage :: 1902
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.33
+- sugar :: 0.62
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d330919e-3d0b-442b-b27a-517bb7d817d9
+:END:
+#+title: Dfsxtmx Lguncs Gpl 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Lguncs Gpl
+- vintage :: 1901
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.32
+- sugar :: 11.91
+- price :: 59.75 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       25ded2ca-b592-4a9d-9dce-cc1b0388c68f
+:END:
+#+title: Cdeexg Didleioy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Didleioy
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.07
+- price :: 73.27 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

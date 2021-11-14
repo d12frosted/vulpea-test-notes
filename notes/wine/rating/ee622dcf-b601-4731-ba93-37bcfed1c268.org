@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ee622dcf-b601-4731-ba93-37bcfed1c268
+:END:
+#+title: Mkmt Miioblhm Cxa 1931 - 2022-10-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:70c092a8-2898-48cf-8fa5-af88bac3318a][Mkmt Miioblhm Cxa 1931]]
+- date :: 2022-10-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

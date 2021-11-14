@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bbaab729-25c6-49f3-bb35-f28d80596d7c
+:END:
+#+title: Cdeexg Kqiotd Nxgeb 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Kqiotd Nxgeb
+- vintage :: 1903
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 13.73
+- sugar :: 5.55
+- price :: 16.64 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a198ba2b-daba-46cb-abb9-0058c9120054
+:END:
+#+title: Vjjtw Hvrja Sll Xbofk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Sll Xbofk
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 11.03
+- price :: 82.71 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

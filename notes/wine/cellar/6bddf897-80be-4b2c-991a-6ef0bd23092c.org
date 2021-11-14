@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6bddf897-80be-4b2c-991a-6ef0bd23092c
+:END:
+#+title: Rue Mvwanm Wjl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mvwanm Wjl
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.8
+- price :: 9.67 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:7d550dbe-15af-497f-92e6-7c095cce0855][Rue Mvwanm Wjl NV - 2017-10-10]]

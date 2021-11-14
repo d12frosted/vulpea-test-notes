@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       711b9db9-8705-4122-9d95-2e89aeb27396
+:END:
+#+title: Mkmt Jggeis NV - 2012-4-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:7ee5db4d-f342-46c9-ba97-6030e9c05558][Mkmt Jggeis]]
+- date :: 2012-4-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

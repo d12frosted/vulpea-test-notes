@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       64c5390c-f713-49a5-a152-27ba7e0df81a
+:END:
+#+title: Mkmt Fmryuzgn Pnkadn 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fmryuzgn Pnkadn
+- vintage :: 2009
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.39
+- price :: 82.43 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

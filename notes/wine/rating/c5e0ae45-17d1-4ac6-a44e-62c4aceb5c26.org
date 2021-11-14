@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c5e0ae45-17d1-4ac6-a44e-62c4aceb5c26
+:END:
+#+title: Novr Rlrt Vqaj Uytcr NV - 1994-7-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:671b7df5-ace7-4674-9ae9-3e140fc7cd54][Novr Rlrt Vqaj Uytcr]]
+- date :: 1994-7-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

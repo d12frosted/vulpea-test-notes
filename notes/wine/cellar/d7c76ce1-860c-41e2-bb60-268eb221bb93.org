@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d7c76ce1-860c-41e2-bb60-268eb221bb93
+:END:
+#+title: Vjjtw Hvrja Blmb 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Blmb
+- vintage :: 1992
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.2
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

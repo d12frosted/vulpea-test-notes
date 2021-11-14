@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cd47036e-8e1d-45d4-8da1-f24b1a54b16d
+:END:
+#+title: Rue Uxhxl 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Uxhxl
+- vintage :: 1932
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.21
+- sugar :: 20.63
+- price :: 75.16 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       85fcdaa9-72e4-4014-a890-eb12b1a5b0a8
+:END:
+#+title: Cdeexg Jffi 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Jffi
+- vintage :: 1907
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.55
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

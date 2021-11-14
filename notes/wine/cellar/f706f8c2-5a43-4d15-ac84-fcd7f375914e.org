@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f706f8c2-5a43-4d15-ac84-fcd7f375914e
+:END:
+#+title: Cdeexg Bpozrydt Bfbrhc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bpozrydt Bfbrhc
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.23
+- sugar :: 3.62
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

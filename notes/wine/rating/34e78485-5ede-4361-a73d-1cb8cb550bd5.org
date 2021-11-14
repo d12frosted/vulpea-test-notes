@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       34e78485-5ede-4361-a73d-1cb8cb550bd5
+:END:
+#+title: Cdeexg Edvani NV - 2006-12-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:15b21d42-95b7-4cdb-96dc-36f302a2f380][Cdeexg Edvani]]
+- date :: 2006-12-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

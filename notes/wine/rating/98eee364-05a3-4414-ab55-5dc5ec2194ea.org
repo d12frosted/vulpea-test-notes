@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       98eee364-05a3-4414-ab55-5dc5ec2194ea
+:END:
+#+title: Miv Ppcaqg Jjsw NV - 2017-10-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:bf8ffb0c-e47b-4b77-8566-2ef06592310a][Miv Ppcaqg Jjsw]]
+- date :: 2017-10-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

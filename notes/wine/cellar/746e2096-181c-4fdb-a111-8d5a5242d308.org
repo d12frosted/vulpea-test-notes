@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       746e2096-181c-4fdb-a111-8d5a5242d308
+:END:
+#+title: Novr Rlrt Pqe 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Pqe
+- vintage :: 2008
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 13.36
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:e1649226-7d0f-4000-88fa-64b9c4e82f29][Novr Rlrt Pqe 2008 - 1997-11-19]]

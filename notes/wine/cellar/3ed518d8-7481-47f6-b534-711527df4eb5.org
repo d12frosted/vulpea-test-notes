@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3ed518d8-7481-47f6-b534-711527df4eb5
+:END:
+#+title: Dfsxtmx Qih 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qih
+- vintage :: 1930
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.9
+- price :: 61.10 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.5
+- ratings :: [[id:21d9743e-f138-47de-b8cd-cfb367a5d169][Dfsxtmx Qih 1930 - 2020-4-20]]

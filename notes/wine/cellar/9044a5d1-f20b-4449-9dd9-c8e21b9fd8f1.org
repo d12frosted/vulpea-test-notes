@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9044a5d1-f20b-4449-9dd9-c8e21b9fd8f1
+:END:
+#+title: Njtzvl Ihai Jbwwat 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ihai Jbwwat
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.379999999999999
+- sugar :: 5.82
+- price :: 19.29 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:a86a9685-6145-49e5-96b2-be1b330d0d95][Njtzvl Ihai Jbwwat NV - 2016-1-15]]

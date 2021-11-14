@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       05539069-7d95-4de1-b3ab-ef7784a11fa4
+:END:
+#+title: Dfsxtmx Klylzjp 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Klylzjp
+- vintage :: 1901
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.4
+- sugar :: 6.25
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

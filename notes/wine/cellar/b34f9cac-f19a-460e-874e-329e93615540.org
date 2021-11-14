@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b34f9cac-f19a-460e-874e-329e93615540
+:END:
+#+title: Njtzvl Johvdlae Jtvofouy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Johvdlae Jtvofouy
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.69
+- sugar :: 15.63
+- price :: 58.47 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

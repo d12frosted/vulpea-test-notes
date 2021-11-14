@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       37d1660c-86ef-4863-ab36-6884770f5800
+:END:
+#+title: Dseajc Jinm Stmveti Xpwh 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Stmveti Xpwh
+- vintage :: 1932
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.66
+- sugar :: 5.65
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

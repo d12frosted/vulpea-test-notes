@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       acb9ede9-1451-4b4f-8499-55ce4b06996d
+:END:
+#+title: Rue Timb Cjcbnfs 1965 - 2022-2-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:0c34b1b1-eb2d-47d0-838e-1fafe825c615][Rue Timb Cjcbnfs 1965]]
+- date :: 2022-2-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

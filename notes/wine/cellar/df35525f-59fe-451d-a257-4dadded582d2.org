@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       df35525f-59fe-451d-a257-4dadded582d2
+:END:
+#+title: Novr Rlrt Hvelxz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hvelxz
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.53
+- sugar :: 19.99
+- price :: 87.99 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.5
+- ratings :: [[id:19f2de0d-fedc-421d-94f8-37af13a25d35][Novr Rlrt Hvelxz NV - 2021-12-14]]

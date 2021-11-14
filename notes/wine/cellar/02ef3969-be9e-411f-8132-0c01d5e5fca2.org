@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       02ef3969-be9e-411f-8132-0c01d5e5fca2
+:END:
+#+title: Lzf Bgz Xhxycd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Bgz Xhxycd
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.84
+- price :: 49.96 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 3.5
+- ratings :: [[id:455fd9aa-295e-4d4c-bbeb-2fb92b6a212b][Lzf Bgz Xhxycd NV - 2021-2-6]]

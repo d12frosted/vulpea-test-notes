@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6221d12e-0298-41d4-9fb9-4faa419ff28c
+:END:
+#+title: Vjjtw Hvrja Sjhwbft Dnbwymtj 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Sjhwbft Dnbwymtj
+- vintage :: 1915
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.42
+- sugar :: 5.87
+- price :: 95.64 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.5
+- ratings :: [[id:1c8f9053-586b-4bef-88f5-4f5c4683f395][Vjjtw Hvrja Sjhwbft Dnbwymtj 1915 - 1995-8-18]]

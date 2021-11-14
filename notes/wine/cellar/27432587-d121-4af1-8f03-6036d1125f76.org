@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       27432587-d121-4af1-8f03-6036d1125f76
+:END:
+#+title: Novr Rlrt Nnaq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nnaq
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 10.6
+- sugar :: 7.26
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       091c0d11-8508-4177-a631-177f4bd12445
+:END:
+#+title: Dfsxtmx Dxirv 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dxirv
+- vintage :: 1988
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.82
+- price :: 70.34 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

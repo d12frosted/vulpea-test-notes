@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8ea45888-2474-4f45-bf4a-c6e5920ab2dd
+:END:
+#+title: Miv Xyfvs 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xyfvs
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.469999999999999
+- sugar :: 5.21
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.5
+- ratings :: [[id:92ddaeed-6508-468e-86c6-006291a481e0][Miv Xyfvs NV - 1990-3-12]]

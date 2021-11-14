@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ca4d9564-8a6e-4ed1-beac-457058b776e4
+:END:
+#+title: Dseajc Jinm Lholx 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lholx
+- vintage :: 1971
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.28
+- price :: 19.16 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

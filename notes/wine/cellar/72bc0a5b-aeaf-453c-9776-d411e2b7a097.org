@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       72bc0a5b-aeaf-453c-9776-d411e2b7a097
+:END:
+#+title: Lzf Csgtu Sbi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Csgtu Sbi
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.79
+- price :: 36.55 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

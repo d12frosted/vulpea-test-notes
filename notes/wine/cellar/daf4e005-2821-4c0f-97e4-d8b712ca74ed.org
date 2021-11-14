@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       daf4e005-2821-4c0f-97e4-d8b712ca74ed
+:END:
+#+title: Dfsxtmx Nhyuqz Qncwfjfz 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nhyuqz Qncwfjfz
+- vintage :: 1978
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 11.26
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:1e7ce8aa-28c8-4156-bfa0-bbb3ab9ca45f][Dfsxtmx Nhyuqz Qncwfjfz 1978 - 1998-12-26]]

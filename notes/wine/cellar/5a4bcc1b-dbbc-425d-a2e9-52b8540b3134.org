@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5a4bcc1b-dbbc-425d-a2e9-52b8540b3134
+:END:
+#+title: Njtzvl Ropijfu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ropijfu
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.24
+- sugar :: 13.48
+- price :: 36.36 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:1c2a27ab-5772-463a-8c7b-e4fa187d44cb][Njtzvl Ropijfu NV - 1990-5-24]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a04b4bbd-38a9-4203-9300-257dd32f5b05
+:END:
+#+title: Dseajc Jinm Hcdydy Vcpzneh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Hcdydy Vcpzneh
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.72
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

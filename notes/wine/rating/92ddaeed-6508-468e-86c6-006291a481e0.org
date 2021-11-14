@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       92ddaeed-6508-468e-86c6-006291a481e0
+:END:
+#+title: Miv Xyfvs NV - 1990-3-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:8ea45888-2474-4f45-bf4a-c6e5920ab2dd][Miv Xyfvs]]
+- date :: 1990-3-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

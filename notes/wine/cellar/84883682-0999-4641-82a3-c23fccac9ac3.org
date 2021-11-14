@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       84883682-0999-4641-82a3-c23fccac9ac3
+:END:
+#+title: Lzf Yolq 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Yolq
+- vintage :: 1925
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.67
+- sugar :: 6.78
+- price :: 95.22 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

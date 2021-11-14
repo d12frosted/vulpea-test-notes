@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5adc398a-2696-4201-a35f-e6fb2e26de09
+:END:
+#+title: Novr Rlrt Bpo Fkryy NV - 1994-6-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:1a7cae12-e4f0-4bd9-b255-8431f5e9e720][Novr Rlrt Bpo Fkryy]]
+- date :: 1994-6-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

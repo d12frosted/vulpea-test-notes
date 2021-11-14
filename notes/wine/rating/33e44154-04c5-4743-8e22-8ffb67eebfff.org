@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       33e44154-04c5-4743-8e22-8ffb67eebfff
+:END:
+#+title: Dseajc Jinm Enbdvnfe 2010 - 1994-8-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:b1c8ff0e-a16c-4187-ab19-9d48a9e6c699][Dseajc Jinm Enbdvnfe 2010]]
+- date :: 1994-8-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

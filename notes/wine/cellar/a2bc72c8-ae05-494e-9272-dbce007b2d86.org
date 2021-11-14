@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a2bc72c8-ae05-494e-9272-dbce007b2d86
+:END:
+#+title: Rue Mkqkwsgx Tnaiutf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mkqkwsgx Tnaiutf
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.23
+- price :: 42.78 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 6.5
+- ratings :: [[id:29c8f3df-8aa7-42b2-a271-fe82eb14339f][Rue Mkqkwsgx Tnaiutf NV - 2024-12-5]]

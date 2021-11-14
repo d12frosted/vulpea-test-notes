@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       94f77d5c-f775-40af-afb5-8fad9737675f
+:END:
+#+title: Novr Rlrt Flehnykj Atdj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Flehnykj Atdj
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.35
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 3.5
+- ratings :: [[id:dd40dfd8-5620-4806-89b4-6dbb0bb40ba9][Novr Rlrt Flehnykj Atdj NV - 1999-3-11]]

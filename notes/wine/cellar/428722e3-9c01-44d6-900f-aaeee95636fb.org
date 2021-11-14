@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       428722e3-9c01-44d6-900f-aaeee95636fb
+:END:
+#+title: Rue Lsmfitq Hpqyuh 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Lsmfitq Hpqyuh
+- vintage :: 1911
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.05
+- price :: 82.80 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:fb7a6155-f02b-4139-8867-f94e403b79ec][Rue Lsmfitq Hpqyuh 1911 - 1991-10-6]]

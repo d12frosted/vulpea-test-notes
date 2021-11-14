@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1b04d040-1c54-4b2b-882c-c38361f2baf0
+:END:
+#+title: Lzf Srilqn 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Srilqn
+- vintage :: 1926
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.370000000000001
+- sugar :: 7.28
+- price :: 81.17 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

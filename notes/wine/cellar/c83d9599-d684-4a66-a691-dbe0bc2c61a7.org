@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c83d9599-d684-4a66-a691-dbe0bc2c61a7
+:END:
+#+title: Dseajc Jinm Gtr Tlln 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gtr Tlln
+- vintage :: 1901
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.73
+- price :: 96.57 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

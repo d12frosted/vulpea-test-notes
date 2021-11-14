@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c07a6059-795a-4a31-a7a1-6f9e9841f9cc
+:END:
+#+title: Novr Rlrt Frpywuu Betjdwwp 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Frpywuu Betjdwwp
+- vintage :: 1935
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.7
+- sugar :: 21.21
+- price :: 25.23 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

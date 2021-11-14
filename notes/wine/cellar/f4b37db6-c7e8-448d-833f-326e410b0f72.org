@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f4b37db6-c7e8-448d-833f-326e410b0f72
+:END:
+#+title: Dseajc Jinm Efws 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Efws
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.78
+- price :: 92.68 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

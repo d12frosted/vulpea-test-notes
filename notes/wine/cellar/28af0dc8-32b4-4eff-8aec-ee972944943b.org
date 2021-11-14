@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       28af0dc8-32b4-4eff-8aec-ee972944943b
+:END:
+#+title: Novr Rlrt Ese 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ese
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.25
+- sugar :: 17.09
+- price :: 74.54 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

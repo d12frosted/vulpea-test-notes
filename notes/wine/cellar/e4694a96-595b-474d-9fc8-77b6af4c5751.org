@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e4694a96-595b-474d-9fc8-77b6af4c5751
+:END:
+#+title: Dseajc Jinm Cgnlux Wkkk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Cgnlux Wkkk
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.23
+- sugar :: 16.48
+- price :: 8.07 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

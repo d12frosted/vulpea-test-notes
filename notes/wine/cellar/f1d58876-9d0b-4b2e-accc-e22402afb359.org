@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f1d58876-9d0b-4b2e-accc-e22402afb359
+:END:
+#+title: Mkmt Zpk Fyoftgds 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zpk Fyoftgds
+- vintage :: 1945
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.78
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: wikipedia
+- rating :: NA

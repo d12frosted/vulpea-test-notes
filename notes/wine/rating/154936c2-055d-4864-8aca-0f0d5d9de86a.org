@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       154936c2-055d-4864-8aca-0f0d5d9de86a
+:END:
+#+title: Dfsxtmx Ogjnf NV - 2000-9-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:ea27964d-2ec3-45bc-999e-c83a6ea7b0a2][Dfsxtmx Ogjnf]]
+- date :: 2000-9-3
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

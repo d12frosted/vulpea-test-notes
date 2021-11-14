@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c0291214-95e9-40eb-a03c-d639b200c233
+:END:
+#+title: Dfsxtmx Ztothlss 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ztothlss
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.73
+- sugar :: 3.49
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

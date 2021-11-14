@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       45c4e8eb-7a83-4ae0-8f14-fb7354fadadb
+:END:
+#+title: Vjjtw Hvrja Kyszt 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Kyszt
+- vintage :: 1944
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.41
+- sugar :: 4.0
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

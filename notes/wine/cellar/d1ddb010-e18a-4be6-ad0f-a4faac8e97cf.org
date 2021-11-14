@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d1ddb010-e18a-4be6-ad0f-a4faac8e97cf
+:END:
+#+title: Cdeexg Hlxthsn 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Hlxthsn
+- vintage :: 2008
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.2
+- sugar :: 17.18
+- price :: 6.22 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

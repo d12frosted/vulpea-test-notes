@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       453ba107-b56c-4e95-8a07-1b4c4c7063a0
+:END:
+#+title: Miv Jenkbv Jtgi 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Jenkbv Jtgi
+- vintage :: 2014
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.1
+- price :: 99.12 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.5
+- ratings :: [[id:6a55f996-3375-4c29-b779-2c085363a7db][Miv Jenkbv Jtgi 2014 - 1999-1-13]]

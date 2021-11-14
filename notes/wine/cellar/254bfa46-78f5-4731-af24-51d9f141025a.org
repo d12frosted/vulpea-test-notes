@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       254bfa46-78f5-4731-af24-51d9f141025a
+:END:
+#+title: Njtzvl Xvqxkcap 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xvqxkcap
+- vintage :: 1983
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.24
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:f19f2d4f-130c-49b6-86e8-edbfdbcd196f][Njtzvl Xvqxkcap 1983 - 2016-5-28]]

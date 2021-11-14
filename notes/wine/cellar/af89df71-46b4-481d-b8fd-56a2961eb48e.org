@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       af89df71-46b4-481d-b8fd-56a2961eb48e
+:END:
+#+title: Dseajc Jinm Czbnr Lae 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Czbnr Lae
+- vintage :: 1956
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.32
+- sugar :: 13.44
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

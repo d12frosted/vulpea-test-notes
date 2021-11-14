@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       519008b8-93be-4383-aecd-ea3463225690
+:END:
+#+title: Cdeexg Cdxq Kvdyt 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Cdxq Kvdyt
+- vintage :: 1921
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.129999999999999
+- sugar :: 8.88
+- price :: 4.09 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

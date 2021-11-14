@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       86cf96bc-59b5-408b-b29f-7579b2572ee1
+:END:
+#+title: Rue Uhmh 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Uhmh
+- vintage :: 2009
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.72
+- sugar :: 13.73
+- price :: 52.81 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:c7248264-3cc9-4976-a85d-9497de7a4ff9][Rue Uhmh 2009 - 2020-5-11]]

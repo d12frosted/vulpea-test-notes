@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ae30c4bc-87ce-418e-a0d5-4ded4062cc81
+:END:
+#+title: Njtzvl Quty NV - 2023-6-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:f0ea7485-1a69-4faf-93ab-058f377f4c12][Njtzvl Quty]]
+- date :: 2023-6-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

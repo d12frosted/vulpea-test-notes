@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       db93b756-0453-4f26-82c3-bbe63f09d04a
+:END:
+#+title: Mkmt Ndb Nnyijk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ndb Nnyijk
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.44
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f4826ff1-f5ac-4e48-abc8-3d0dc912e8d6
+:END:
+#+title: Mkmt Owfy NV - 1992-5-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:2f8d167e-c9ec-4b1e-a41b-44d047e7e69e][Mkmt Owfy]]
+- date :: 1992-5-19
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

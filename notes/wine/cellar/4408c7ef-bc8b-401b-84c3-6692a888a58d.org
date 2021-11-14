@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4408c7ef-bc8b-401b-84c3-6692a888a58d
+:END:
+#+title: Dseajc Jinm Hktgc Eajusll 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Hktgc Eajusll
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.46
+- sugar :: 1.74
+- price :: 71.98 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

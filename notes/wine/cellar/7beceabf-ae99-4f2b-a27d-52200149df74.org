@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7beceabf-ae99-4f2b-a27d-52200149df74
+:END:
+#+title: Lzf Jubhawh Tzplyvy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jubhawh Tzplyvy
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.64
+- price :: 93.48 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.5
+- ratings :: [[id:5556d1fe-3fe1-45aa-ada6-665d363a0018][Lzf Jubhawh Tzplyvy NV - 1996-12-15]]

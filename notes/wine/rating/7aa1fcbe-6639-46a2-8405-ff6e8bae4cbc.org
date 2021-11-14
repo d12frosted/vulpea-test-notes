@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7aa1fcbe-6639-46a2-8405-ff6e8bae4cbc
+:END:
+#+title: Lzf Aiiqgqe 1906 - 2007-10-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:e08be8c7-6c86-4deb-aee4-177634f0dcee][Lzf Aiiqgqe 1906]]
+- date :: 2007-10-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

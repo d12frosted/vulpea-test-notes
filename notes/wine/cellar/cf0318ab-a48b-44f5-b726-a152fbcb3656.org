@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cf0318ab-a48b-44f5-b726-a152fbcb3656
+:END:
+#+title: Lzf Ouuyfrzs 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ouuyfrzs
+- vintage :: 1911
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.78
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

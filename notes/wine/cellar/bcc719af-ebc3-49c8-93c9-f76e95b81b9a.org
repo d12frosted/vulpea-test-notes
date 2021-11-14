@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bcc719af-ebc3-49c8-93c9-f76e95b81b9a
+:END:
+#+title: Miv Iftngqpb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Iftngqpb
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.92
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

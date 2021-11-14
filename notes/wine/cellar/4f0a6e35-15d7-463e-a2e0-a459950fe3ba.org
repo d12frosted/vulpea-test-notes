@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4f0a6e35-15d7-463e-a2e0-a459950fe3ba
+:END:
+#+title: Rue Ihillo 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ihillo
+- vintage :: 1915
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.58
+- price :: 32.67 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.0
+- ratings :: [[id:2cc59841-9ccd-4d01-9699-741ebc0df9aa][Rue Ihillo 1915 - 2002-6-6]]

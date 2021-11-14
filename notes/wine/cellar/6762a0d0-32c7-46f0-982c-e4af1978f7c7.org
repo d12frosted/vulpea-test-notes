@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6762a0d0-32c7-46f0-982c-e4af1978f7c7
+:END:
+#+title: Rue Uqyjd Gxtbpiky 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Uqyjd Gxtbpiky
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.99
+- price :: 94.09 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

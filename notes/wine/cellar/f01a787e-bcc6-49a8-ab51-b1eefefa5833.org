@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f01a787e-bcc6-49a8-ab51-b1eefefa5833
+:END:
+#+title: Njtzvl Mkeoz Nwwse 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Mkeoz Nwwse
+- vintage :: 1917
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.01
+- price :: 10.48 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: 5.0
+- ratings :: [[id:11ed8381-75de-44cd-a77a-350d5cf655a6][Njtzvl Mkeoz Nwwse 1917 - 2009-9-9]]

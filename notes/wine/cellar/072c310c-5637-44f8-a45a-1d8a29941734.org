@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       072c310c-5637-44f8-a45a-1d8a29941734
+:END:
+#+title: Mkmt Vwtpl 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Vwtpl
+- vintage :: 2014
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.86
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

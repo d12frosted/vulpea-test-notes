@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5dd76d98-bf51-4ab4-a9e3-3458b824fb3c
+:END:
+#+title: Rue Jifs 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jifs
+- vintage :: 1975
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.61
+- sugar :: 15.6
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:d0243850-d87e-4c27-91dd-d8e4ea7dfc53][Rue Jifs 1975 - 2019-3-18]]

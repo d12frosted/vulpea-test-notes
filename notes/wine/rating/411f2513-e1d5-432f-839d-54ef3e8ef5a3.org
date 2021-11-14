@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       411f2513-e1d5-432f-839d-54ef3e8ef5a3
+:END:
+#+title: Dseajc Jinm Dzd Uxjud 1933 - 1992-1-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:0e8a3a97-de4e-40c5-b932-519a71596623][Dseajc Jinm Dzd Uxjud 1933]]
+- date :: 1992-1-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

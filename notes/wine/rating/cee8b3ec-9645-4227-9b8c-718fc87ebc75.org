@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cee8b3ec-9645-4227-9b8c-718fc87ebc75
+:END:
+#+title: Lzf Xpjbby 1960 - 2013-3-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:b868b137-59fa-4731-844a-4aa85e599b6c][Lzf Xpjbby 1960]]
+- date :: 2013-3-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

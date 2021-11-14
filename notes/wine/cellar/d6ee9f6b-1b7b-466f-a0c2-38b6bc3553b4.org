@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d6ee9f6b-1b7b-466f-a0c2-38b6bc3553b4
+:END:
+#+title: Cdeexg Iuudg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Iuudg
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.89
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:8a57a928-cd8d-4472-9e9b-c366772864e4][Cdeexg Iuudg NV - 2018-5-12]]

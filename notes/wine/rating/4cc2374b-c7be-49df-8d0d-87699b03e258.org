@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4cc2374b-c7be-49df-8d0d-87699b03e258
+:END:
+#+title: Mkmt Wkt NV - 2000-12-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:31c9f4a8-9aef-47c4-b80c-30a9de2a3850][Mkmt Wkt]]
+- date :: 2000-12-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

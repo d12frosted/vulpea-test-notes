@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c79cb43d-9968-477b-ab7d-fe26e37f7f84
+:END:
+#+title: Novr Rlrt Rrahhn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rrahhn
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.7
+- sugar :: 17.72
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

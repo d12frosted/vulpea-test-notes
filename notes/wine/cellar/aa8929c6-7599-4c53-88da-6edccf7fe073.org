@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       aa8929c6-7599-4c53-88da-6edccf7fe073
+:END:
+#+title: Cdeexg Qzrrgh 1912
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Qzrrgh
+- vintage :: 1912
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.75
+- price :: 55.64 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

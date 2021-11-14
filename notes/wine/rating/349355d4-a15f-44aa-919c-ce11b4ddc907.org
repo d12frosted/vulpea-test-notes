@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       349355d4-a15f-44aa-919c-ce11b4ddc907
+:END:
+#+title: Dseajc Jinm Ehlnfpq NV - 2015-11-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:e1af4dd7-b99b-46b3-8d04-864c394510ac][Dseajc Jinm Ehlnfpq]]
+- date :: 2015-11-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

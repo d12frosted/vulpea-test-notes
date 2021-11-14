@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e4c44295-9165-4406-a943-d9e81a35fb47
+:END:
+#+title: Dfsxtmx Efvc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Efvc
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 9.75
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

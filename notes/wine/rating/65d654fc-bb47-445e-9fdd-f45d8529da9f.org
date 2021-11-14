@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       65d654fc-bb47-445e-9fdd-f45d8529da9f
+:END:
+#+title: Dseajc Jinm Bitha 1938 - 2015-10-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:583e8c18-a7ac-4870-98d3-8ff8e36b868b][Dseajc Jinm Bitha 1938]]
+- date :: 2015-10-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

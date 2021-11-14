@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       126d1c60-3988-42b9-ac80-0318dda36ffe
+:END:
+#+title: Rue Htz 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Htz
+- vintage :: 1996
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.74
+- sugar :: 7.91
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

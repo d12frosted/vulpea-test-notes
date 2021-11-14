@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       78419b8c-f0e7-4251-8ff0-6d25b55d0186
+:END:
+#+title: Rue Oknvmo NV - 2023-12-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:5bb3e8bb-5214-4bcc-a22b-cfe658106f2b][Rue Oknvmo]]
+- date :: 2023-12-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

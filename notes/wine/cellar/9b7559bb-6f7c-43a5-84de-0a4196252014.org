@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9b7559bb-6f7c-43a5-84de-0a4196252014
+:END:
+#+title: Miv Nipb Rozmx 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Nipb Rozmx
+- vintage :: 1914
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.86
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

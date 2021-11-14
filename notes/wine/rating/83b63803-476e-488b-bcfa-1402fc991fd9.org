@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       83b63803-476e-488b-bcfa-1402fc991fd9
+:END:
+#+title: Cdeexg Vnrj 1977 - 2007-7-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:115c5328-84a0-4572-8ae6-e4f1a4d42f24][Cdeexg Vnrj 1977]]
+- date :: 2007-7-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

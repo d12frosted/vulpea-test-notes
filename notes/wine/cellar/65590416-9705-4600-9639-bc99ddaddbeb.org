@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       65590416-9705-4600-9639-bc99ddaddbeb
+:END:
+#+title: Novr Rlrt Tol Ipv 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tol Ipv
+- vintage :: 2012
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.52
+- sugar :: 1.69
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

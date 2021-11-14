@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       736faaf6-c9c8-4dd7-b0dc-de6e5e5b67a0
+:END:
+#+title: Novr Rlrt Ekm Wrw 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ekm Wrw
+- vintage :: 1915
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.0
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

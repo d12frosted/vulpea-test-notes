@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       18826b14-55a1-4dd1-8205-9730024e9dc7
+:END:
+#+title: Dseajc Jinm Fme NV - 1995-3-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:7bf97ce9-6a31-4442-a835-d7b92cd1e406][Dseajc Jinm Fme]]
+- date :: 1995-3-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

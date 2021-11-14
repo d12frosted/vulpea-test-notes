@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6a1a5abb-e0c5-4f1c-af39-a6f4d7740502
+:END:
+#+title: Lzf Jerwy Ubaozoi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jerwy Ubaozoi
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.8
+- price :: 21.70 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

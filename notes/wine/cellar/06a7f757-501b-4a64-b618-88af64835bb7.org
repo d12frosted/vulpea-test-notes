@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       06a7f757-501b-4a64-b618-88af64835bb7
+:END:
+#+title: Cdeexg Dryov 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Dryov
+- vintage :: 1985
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.69
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:827cd82f-d223-4b05-82b1-90912bd62936][Cdeexg Dryov 1985 - 2022-10-22]]

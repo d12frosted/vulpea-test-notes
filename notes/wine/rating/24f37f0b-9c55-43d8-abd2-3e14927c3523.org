@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       24f37f0b-9c55-43d8-abd2-3e14927c3523
+:END:
+#+title: Novr Rlrt Qhzcgpu Lkuxpnor NV - 1999-7-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:80ab8587-7754-42ba-be86-6e36f2e9d3f9][Novr Rlrt Qhzcgpu Lkuxpnor]]
+- date :: 1999-7-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

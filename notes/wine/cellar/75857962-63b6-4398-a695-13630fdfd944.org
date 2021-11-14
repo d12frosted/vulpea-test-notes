@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       75857962-63b6-4398-a695-13630fdfd944
+:END:
+#+title: Lzf Hyvexkk Wue 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Hyvexkk Wue
+- vintage :: 1909
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.67
+- sugar :: 5.98
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

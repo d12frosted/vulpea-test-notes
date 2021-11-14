@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       aefae6d9-1521-4d5c-82b1-23931256e06c
+:END:
+#+title: Novr Rlrt Wae 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wae
+- vintage :: 1962
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.99
+- sugar :: 18.6
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       68fec694-7acf-4315-8116-307c2e093ece
+:END:
+#+title: Dseajc Jinm Xraxa Fbnileq 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xraxa Fbnileq
+- vintage :: 1958
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.5
+- sugar :: 10.89
+- price :: 35.04 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

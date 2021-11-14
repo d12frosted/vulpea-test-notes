@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       63b7a61d-22e3-4b38-82f0-6c266f7b294f
+:END:
+#+title: Dseajc Jinm Bdunu 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Bdunu
+- vintage :: 1972
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.71
+- price :: 8.96 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       7a2e228d-4288-4aca-a7ed-2e4e38112200
+:END:
+#+title: Novr Rlrt Vrom 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vrom
+- vintage :: 1942
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.9
+- sugar :: 14.01
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:de2de485-616a-4722-a8f2-d4250ad9841c][Novr Rlrt Vrom 1942 - 2003-2-11]]

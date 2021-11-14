@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b1d87a90-cad0-4d73-8627-40add7315d4d
+:END:
+#+title: Mkmt Yeic Owxusko 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Yeic Owxusko
+- vintage :: 1952
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.57
+- sugar :: 20.18
+- price :: 14.24 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:6a068a0d-1d3f-4e98-bba8-9a8c944e8b1b][Mkmt Yeic Owxusko 1952 - 1993-1-5]]

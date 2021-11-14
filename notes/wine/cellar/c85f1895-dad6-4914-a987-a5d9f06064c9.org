@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c85f1895-dad6-4914-a987-a5d9f06064c9
+:END:
+#+title: Novr Rlrt Nti Sotqfcej 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nti Sotqfcej
+- vintage :: 1976
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.45
+- sugar :: 20.37
+- price :: 7.32 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:440b3835-194e-48ae-bbf0-7ca2deaee37c][Novr Rlrt Nti Sotqfcej 1976 - 2008-7-21]]

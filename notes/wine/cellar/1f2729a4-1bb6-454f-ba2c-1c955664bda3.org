@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1f2729a4-1bb6-454f-ba2c-1c955664bda3
+:END:
+#+title: Njtzvl Omizcjqe 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Omizcjqe
+- vintage :: 1944
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.44
+- sugar :: 2.42
+- price :: 7.48 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       870e1d43-b26f-4b48-b2be-a2736dd6c583
+:END:
+#+title: Dseajc Jinm Tkokfqwc Mit 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tkokfqwc Mit
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 11.67
+- sugar :: 10.83
+- price :: 62.79 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

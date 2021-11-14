@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4a7d3205-cda1-443d-b1ac-5a65653dc255
+:END:
+#+title: Lzf Idrh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Idrh
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.83
+- sugar :: 9.8
+- price :: 73.77 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:7cfe29bd-8a4e-47c2-b814-f7cfe4af88d9][Lzf Idrh NV - 1994-5-8]]

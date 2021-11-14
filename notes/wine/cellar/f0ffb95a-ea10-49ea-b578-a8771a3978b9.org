@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f0ffb95a-ea10-49ea-b578-a8771a3978b9
+:END:
+#+title: Vjjtw Hvrja Agy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Agy
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.39
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 6.0
+- ratings :: [[id:35ec9f52-d465-443a-b0fc-51519e7c444b][Vjjtw Hvrja Agy NV - 1992-4-28]]

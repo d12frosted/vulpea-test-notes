@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4a903346-d689-47d2-9376-67517ebf4006
+:END:
+#+title: Cdeexg Apvyuz Dvvzno 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Apvyuz Dvvzno
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.69
+- price :: 74.48 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:b66fd572-a20a-4186-9370-792be8d71cd3][Cdeexg Apvyuz Dvvzno NV - 2005-6-23]]

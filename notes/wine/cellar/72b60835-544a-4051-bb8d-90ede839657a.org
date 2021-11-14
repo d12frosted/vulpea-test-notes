@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       72b60835-544a-4051-bb8d-90ede839657a
+:END:
+#+title: Dseajc Jinm Blggnkr Deaxii 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Blggnkr Deaxii
+- vintage :: 1975
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 10.03
+- sugar :: 3.07
+- price :: 36.94 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:e4528ef7-336e-4190-ad7f-ff0742fe67e7][Dseajc Jinm Blggnkr Deaxii 1975 - 2024-1-21]]

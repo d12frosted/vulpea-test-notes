@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6e3c0f6c-fd00-401a-99e4-60ad0ca037a7
+:END:
+#+title: Rue Uobdcfeo Wudtycsf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Uobdcfeo Wudtycsf
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 10.97
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

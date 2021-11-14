@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ec80b14e-bcf3-4f91-85c5-64f9d5f9421a
+:END:
+#+title: Miv Nuqizy Onwhgmnz 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Nuqizy Onwhgmnz
+- vintage :: 2019
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.7
+- sugar :: 23.9
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

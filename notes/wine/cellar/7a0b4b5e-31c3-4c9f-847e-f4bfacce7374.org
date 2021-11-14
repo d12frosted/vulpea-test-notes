@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7a0b4b5e-31c3-4c9f-847e-f4bfacce7374
+:END:
+#+title: Vjjtw Hvrja Olkpgnr Hptmv 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Olkpgnr Hptmv
+- vintage :: 1984
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 13.190000000000001
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

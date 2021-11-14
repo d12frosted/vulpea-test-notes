@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       109d94a6-7e50-4acb-afa9-2beff5847e8c
+:END:
+#+title: Rue Rovmtmoo 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Rovmtmoo
+- vintage :: 1961
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 10.05
+- sugar :: 21.06
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

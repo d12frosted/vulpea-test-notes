@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d2b69d5a-043e-44c9-aae9-7ccababb9e0d
+:END:
+#+title: Cdeexg Kgzhmvm Itnjxmd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Kgzhmvm Itnjxmd
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.03
+- sugar :: 17.97
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

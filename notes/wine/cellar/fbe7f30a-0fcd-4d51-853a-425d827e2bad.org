@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fbe7f30a-0fcd-4d51-853a-425d827e2bad
+:END:
+#+title: Dseajc Jinm Phi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Phi
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.0
+- sugar :: 12.3
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

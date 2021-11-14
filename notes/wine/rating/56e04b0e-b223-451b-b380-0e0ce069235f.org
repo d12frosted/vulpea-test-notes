@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       56e04b0e-b223-451b-b380-0e0ce069235f
+:END:
+#+title: Lzf Qoppv NV - 2016-9-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:c948c5d6-c023-48bd-a352-a11ea3688e67][Lzf Qoppv]]
+- date :: 2016-9-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

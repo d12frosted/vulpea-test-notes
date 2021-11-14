@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4e1772b8-4a36-4e6c-8136-49f83be174a5
+:END:
+#+title: Miv Mijuve Wusqs 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mijuve Wusqs
+- vintage :: 1954
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.43
+- sugar :: 14.62
+- price :: 10.93 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

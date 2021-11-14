@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1aafa0ab-dedc-4ecb-b67b-8839550d105a
+:END:
+#+title: Dfsxtmx Elp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Elp
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 12.3
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:e8972c2b-75ba-4fd4-8ce4-7b5a64f4974d][Dfsxtmx Elp NV - 2021-7-1]]

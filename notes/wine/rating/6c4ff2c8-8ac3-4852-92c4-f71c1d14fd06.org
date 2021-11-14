@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6c4ff2c8-8ac3-4852-92c4-f71c1d14fd06
+:END:
+#+title: Njtzvl Efggukjk Hsjhl 1989 - 2012-3-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:4216cdbb-e41c-494a-b598-e8acfc40c166][Njtzvl Efggukjk Hsjhl 1989]]
+- date :: 2012-3-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

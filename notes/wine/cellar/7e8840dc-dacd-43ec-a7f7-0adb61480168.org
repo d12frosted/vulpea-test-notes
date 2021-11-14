@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7e8840dc-dacd-43ec-a7f7-0adb61480168
+:END:
+#+title: Miv Tzgx Upqmsm 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Tzgx Upqmsm
+- vintage :: 1907
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.55
+- price :: 89.59 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:3162b60d-4a2a-4188-99c2-79b800b3cf41][Miv Tzgx Upqmsm 1907 - 1993-12-2]]

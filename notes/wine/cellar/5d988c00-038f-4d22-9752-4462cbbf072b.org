@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5d988c00-038f-4d22-9752-4462cbbf072b
+:END:
+#+title: Miv Oftwx Bfsj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Oftwx Bfsj
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 10.09
+- sugar :: 12.35
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.5
+- ratings :: [[id:847b5c16-a348-49e5-8326-d6f26159b8cc][Miv Oftwx Bfsj NV - 2002-11-20]]

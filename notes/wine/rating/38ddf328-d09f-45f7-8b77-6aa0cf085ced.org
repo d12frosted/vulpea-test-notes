@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       38ddf328-d09f-45f7-8b77-6aa0cf085ced
+:END:
+#+title: Mkmt Yrvqh 1924 - 2001-9-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:a683ebcd-786c-4f18-91d0-667ce5feab82][Mkmt Yrvqh 1924]]
+- date :: 2001-9-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

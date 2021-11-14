@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b81511ef-2ee6-4f9a-b62b-3bf004fe44e0
+:END:
+#+title: Njtzvl Mofjgnwp Zbnarrdw 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Mofjgnwp Zbnarrdw
+- vintage :: 1967
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.05
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

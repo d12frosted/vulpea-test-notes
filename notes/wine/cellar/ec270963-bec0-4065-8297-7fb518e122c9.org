@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ec270963-bec0-4065-8297-7fb518e122c9
+:END:
+#+title: Njtzvl Ceod Wbzpcuuj 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ceod Wbzpcuuj
+- vintage :: 1958
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.129999999999999
+- sugar :: 12.6
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:1b558191-2161-402a-b409-81e8ddf585f0][Njtzvl Ceod Wbzpcuuj 1958 - 2020-3-28]]

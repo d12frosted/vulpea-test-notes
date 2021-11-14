@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       98922e78-7a67-4384-83bf-87d6c0561754
+:END:
+#+title: Dfsxtmx Sicpze 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Sicpze
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 10.4
+- sugar :: 20.84
+- price :: 8.34 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

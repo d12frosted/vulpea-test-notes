@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bbd0e843-ecb0-4a68-ab78-bc2dadd5013e
+:END:
+#+title: Vjjtw Hvrja Wxgbh Adee 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Wxgbh Adee
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 10.1
+- price :: 93.88 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:238535af-799e-4ba1-aa0f-4d0e5eccc259][Vjjtw Hvrja Wxgbh Adee NV - 1997-6-23]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       81a09cbe-17c8-4a9f-9541-3e8eabf7fb7d
+:END:
+#+title: Njtzvl Ugrlds 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ugrlds
+- vintage :: 1930
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.42
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

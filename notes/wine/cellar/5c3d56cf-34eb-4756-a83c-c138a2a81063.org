@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5c3d56cf-34eb-4756-a83c-c138a2a81063
+:END:
+#+title: Dfsxtmx Nvt 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nvt
+- vintage :: 1917
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.98
+- sugar :: 8.62
+- price :: 68.63 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:1c519d71-ec2c-4f15-8981-e0fde5ccb44a][Dfsxtmx Nvt 1917 - 2022-11-27]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a8998988-2988-484e-ac75-bf69925bc4f4
+:END:
+#+title: Rue Lwiqyww Ffeame 1930 - 2010-11-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:d13960c4-8c6e-4ca3-94cf-b216cfa03fe4][Rue Lwiqyww Ffeame 1930]]
+- date :: 2010-11-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

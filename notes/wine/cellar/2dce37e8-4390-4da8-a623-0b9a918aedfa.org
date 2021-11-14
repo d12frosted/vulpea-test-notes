@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2dce37e8-4390-4da8-a623-0b9a918aedfa
+:END:
+#+title: Njtzvl Krcqvz Qlw 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Krcqvz Qlw
+- vintage :: 1930
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.4
+- sugar :: 19.41
+- price :: 51.32 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

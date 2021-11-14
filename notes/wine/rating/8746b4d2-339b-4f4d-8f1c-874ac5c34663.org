@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8746b4d2-339b-4f4d-8f1c-874ac5c34663
+:END:
+#+title: Cdeexg Prwel Tggg NV - 1990-6-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:c5a08caa-e80b-45c3-bc6d-9746bb780417][Cdeexg Prwel Tggg]]
+- date :: 1990-6-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

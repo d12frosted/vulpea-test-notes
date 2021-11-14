@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3c349df6-4e4f-4128-b9b7-1991d88022c1
+:END:
+#+title: Mkmt Nlovft Qbcszvfz NV - 2016-1-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:46bbcad4-b911-4469-8687-4f5feecb4661][Mkmt Nlovft Qbcszvfz]]
+- date :: 2016-1-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

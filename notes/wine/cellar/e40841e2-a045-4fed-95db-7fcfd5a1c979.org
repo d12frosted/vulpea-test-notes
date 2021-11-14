@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e40841e2-a045-4fed-95db-7fcfd5a1c979
+:END:
+#+title: Novr Rlrt Jno Knoj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jno Knoj
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.780000000000001
+- price :: 93.87 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:9b6861ce-1ffa-4aa5-937a-92c6101c919c][Novr Rlrt Jno Knoj NV - 2000-5-28]]

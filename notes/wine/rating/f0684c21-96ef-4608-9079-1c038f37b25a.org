@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f0684c21-96ef-4608-9079-1c038f37b25a
+:END:
+#+title: Novr Rlrt Znogsgy Vir NV - 2002-4-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:18ba049c-ba81-4a1b-a5f9-d16c5830a572][Novr Rlrt Znogsgy Vir]]
+- date :: 2002-4-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

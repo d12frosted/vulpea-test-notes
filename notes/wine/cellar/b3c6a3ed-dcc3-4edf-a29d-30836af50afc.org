@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b3c6a3ed-dcc3-4edf-a29d-30836af50afc
+:END:
+#+title: Dfsxtmx Fpfyggy Zli 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Fpfyggy Zli
+- vintage :: 1926
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.25
+- sugar :: 1.63
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

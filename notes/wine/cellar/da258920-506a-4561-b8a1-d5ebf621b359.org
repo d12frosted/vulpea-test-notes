@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       da258920-506a-4561-b8a1-d5ebf621b359
+:END:
+#+title: Novr Rlrt Nakwztet 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nakwztet
+- vintage :: 1969
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.46
+- price :: 24.55 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

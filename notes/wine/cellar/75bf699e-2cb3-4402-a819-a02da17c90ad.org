@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       75bf699e-2cb3-4402-a819-a02da17c90ad
+:END:
+#+title: Mkmt Awokmyqw 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Awokmyqw
+- vintage :: 1921
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.27
+- sugar :: 20.47
+- price :: 27.49 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:a15d7f43-a6f3-4df9-8ff5-ee590851501d][Mkmt Awokmyqw 1921 - 2002-11-23]]

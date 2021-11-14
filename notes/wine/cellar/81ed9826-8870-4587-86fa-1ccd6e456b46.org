@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       81ed9826-8870-4587-86fa-1ccd6e456b46
+:END:
+#+title: Njtzvl Sdkraf 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Sdkraf
+- vintage :: 1949
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 11.83
+- sugar :: 14.44
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a8e99bae-c351-4d37-9964-fbb75a441446
+:END:
+#+title: Mkmt Frymifsg Had 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Frymifsg Had
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.33
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

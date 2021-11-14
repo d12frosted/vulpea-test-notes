@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       59b04087-4ef9-4660-b322-1a80e5f42142
+:END:
+#+title: Njtzvl Jpzwqlb Cyh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Jpzwqlb Cyh
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.54
+- sugar :: 15.8
+- price :: 57.43 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

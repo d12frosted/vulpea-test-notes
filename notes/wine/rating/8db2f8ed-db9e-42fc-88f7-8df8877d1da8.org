@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8db2f8ed-db9e-42fc-88f7-8df8877d1da8
+:END:
+#+title: Njtzvl Lppbpff NV - 2004-7-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:75f3383b-8f7b-49a7-a18b-f8bc0253e017][Njtzvl Lppbpff]]
+- date :: 2004-7-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

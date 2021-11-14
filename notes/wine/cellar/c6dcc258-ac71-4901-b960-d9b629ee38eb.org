@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c6dcc258-ac71-4901-b960-d9b629ee38eb
+:END:
+#+title: Vjjtw Hvrja Vpsw 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vpsw
+- vintage :: 1935
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.49
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

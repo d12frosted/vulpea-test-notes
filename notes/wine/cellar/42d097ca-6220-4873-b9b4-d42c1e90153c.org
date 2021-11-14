@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       42d097ca-6220-4873-b9b4-d42c1e90153c
+:END:
+#+title: Vjjtw Hvrja Jor 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Jor
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.76
+- price :: 93.27 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:cc5a03af-33fd-4fa5-8764-6469073b19b4][Vjjtw Hvrja Jor NV - 1994-3-21]]

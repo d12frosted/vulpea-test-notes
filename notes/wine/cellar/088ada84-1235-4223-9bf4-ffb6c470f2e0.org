@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       088ada84-1235-4223-9bf4-ffb6c470f2e0
+:END:
+#+title: Mkmt Dvgp 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Dvgp
+- vintage :: 1939
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.08
+- sugar :: 19.49
+- price :: 67.57 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

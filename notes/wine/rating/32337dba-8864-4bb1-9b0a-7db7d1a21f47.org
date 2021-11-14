@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       32337dba-8864-4bb1-9b0a-7db7d1a21f47
+:END:
+#+title: Miv Wsbywck Wvymuwy NV - 2018-1-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:e9b57e54-b4a6-433e-9b23-b9f692caaa49][Miv Wsbywck Wvymuwy]]
+- date :: 2018-1-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       875b3a33-39bf-4ecf-a86a-e88b602558bb
+:END:
+#+title: Novr Rlrt Zltlfrss 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Zltlfrss
+- vintage :: 1989
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.84
+- sugar :: 19.24
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

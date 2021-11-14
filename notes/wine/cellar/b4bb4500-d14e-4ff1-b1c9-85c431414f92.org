@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b4bb4500-d14e-4ff1-b1c9-85c431414f92
+:END:
+#+title: Miv Hxaoz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Hxaoz
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.94
+- price :: 6.91 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

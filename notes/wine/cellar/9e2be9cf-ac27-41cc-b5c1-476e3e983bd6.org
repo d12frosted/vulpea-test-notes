@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9e2be9cf-ac27-41cc-b5c1-476e3e983bd6
+:END:
+#+title: Dseajc Jinm Lnfxdm Dngdt 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lnfxdm Dngdt
+- vintage :: 1904
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 13.98
+- sugar :: 17.71
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       930b3289-d606-4b67-8b45-0d60193ec760
+:END:
+#+title: Rue Irisb Met 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Irisb Met
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.41
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

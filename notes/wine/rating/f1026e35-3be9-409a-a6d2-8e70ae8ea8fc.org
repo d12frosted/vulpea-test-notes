@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f1026e35-3be9-409a-a6d2-8e70ae8ea8fc
+:END:
+#+title: Mkmt Rvc Yvd 1901 - 1990-3-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:a7c380bc-79e0-4bb0-9ff1-a0c2814ef8cd][Mkmt Rvc Yvd 1901]]
+- date :: 1990-3-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

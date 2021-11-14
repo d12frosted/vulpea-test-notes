@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ff175212-5fd8-4e92-b14b-ee25ac3c0e35
+:END:
+#+title: Novr Rlrt Fgymooi 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Fgymooi
+- vintage :: 2011
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.33
+- price :: 34.10 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3ae6f2f7-be83-45c1-8716-77754678acb3
+:END:
+#+title: Novr Rlrt Epzvr 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Epzvr
+- vintage :: 2006
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.45
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:9637061c-17aa-438e-869d-5cacf9b6da8c][Novr Rlrt Epzvr 2006 - 1996-8-6]]

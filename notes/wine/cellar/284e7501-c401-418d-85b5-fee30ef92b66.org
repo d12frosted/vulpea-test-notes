@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       284e7501-c401-418d-85b5-fee30ef92b66
+:END:
+#+title: Rue Gaak Qcvjui 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Gaak Qcvjui
+- vintage :: 1903
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.83
+- sugar :: 14.9
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:6b7e4ffc-cc11-44b6-a906-4b8a0aabbfbb][Rue Gaak Qcvjui 1903 - 2017-1-16]]

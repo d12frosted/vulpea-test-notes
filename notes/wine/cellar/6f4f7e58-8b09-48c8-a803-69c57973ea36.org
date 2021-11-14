@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6f4f7e58-8b09-48c8-a803-69c57973ea36
+:END:
+#+title: Dseajc Jinm Kikjlz Bgd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Kikjlz Bgd
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.95
+- sugar :: 13.11
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

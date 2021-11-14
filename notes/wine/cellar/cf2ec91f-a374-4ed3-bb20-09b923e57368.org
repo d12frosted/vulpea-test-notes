@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cf2ec91f-a374-4ed3-bb20-09b923e57368
+:END:
+#+title: Dseajc Jinm Muegsjh Lvns 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Muegsjh Lvns
+- vintage :: 1916
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.9
+- sugar :: 21.61
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:9b788a0c-982d-4e70-a054-90e0bc1c3943][Dseajc Jinm Muegsjh Lvns 1916 - 2024-4-20]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       01df9c43-45a8-487b-aaa1-56e1ed3c9877
+:END:
+#+title: Lzf Cxvi Rolqlvl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Cxvi Rolqlvl
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.120000000000001
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

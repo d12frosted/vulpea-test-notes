@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fccfab38-9501-4a87-b15a-b019796495b6
+:END:
+#+title: Dseajc Jinm Jhwi Cxiyk 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jhwi Cxiyk
+- vintage :: 1948
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.63
+- sugar :: 17.25
+- price :: 22.61 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       155a36ef-ffe5-4405-8f72-daff00da491f
+:END:
+#+title: Dfsxtmx Ilizy Zntlcl 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ilizy Zntlcl
+- vintage :: 1995
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 11.42
+- sugar :: 7.98
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

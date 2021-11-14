@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       1039be1f-b646-4e12-9e25-506e86ec35f3
+:END:
+#+title: Cdeexg Zbinlijj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Zbinlijj
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.34
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

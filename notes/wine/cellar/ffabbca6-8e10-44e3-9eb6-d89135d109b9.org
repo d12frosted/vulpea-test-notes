@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ffabbca6-8e10-44e3-9eb6-d89135d109b9
+:END:
+#+title: Vjjtw Hvrja Sypyc Dfwmu 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Sypyc Dfwmu
+- vintage :: 1951
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.22
+- sugar :: 15.69
+- price :: 82.12 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4751eee3-f7b4-4a52-b362-bcd09dff3936
+:END:
+#+title: Vjjtw Hvrja Efz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Efz
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.36
+- sugar :: 19.56
+- price :: 7.63 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: 7.0
+- ratings :: [[id:83ff5711-9e42-484e-949e-414bc98092e6][Vjjtw Hvrja Efz NV - 2009-7-6]]

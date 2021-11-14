@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bc394ef6-6b7a-442a-9641-de9975e82ecb
+:END:
+#+title: Cdeexg Brpkepdg 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Brpkepdg
+- vintage :: 1913
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.29
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

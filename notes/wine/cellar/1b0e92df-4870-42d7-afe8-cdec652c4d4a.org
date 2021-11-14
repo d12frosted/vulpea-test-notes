@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1b0e92df-4870-42d7-afe8-cdec652c4d4a
+:END:
+#+title: Dseajc Jinm Lsxibvwt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lsxibvwt
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.86
+- price :: 96.89 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:f5259122-6cff-49b4-ba04-96a74d1cc9ef][Dseajc Jinm Lsxibvwt NV - 2007-2-8]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6b044db1-7061-479f-8be8-1bc575c7fb66
+:END:
+#+title: Rue Adk 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Adk
+- vintage :: 2000
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.93
+- sugar :: 7.37
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 6.5
+- ratings :: [[id:65c6a82d-61f3-4df8-9180-5d7307de6bbf][Rue Adk 2000 - 2014-6-23]]

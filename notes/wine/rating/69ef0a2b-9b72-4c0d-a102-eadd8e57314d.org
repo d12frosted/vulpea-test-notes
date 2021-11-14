@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       69ef0a2b-9b72-4c0d-a102-eadd8e57314d
+:END:
+#+title: Mkmt Mgndng 1927 - 1994-1-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:ee8f81c2-2637-4543-927f-5cc5412b5999][Mkmt Mgndng 1927]]
+- date :: 1994-1-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

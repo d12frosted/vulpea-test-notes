@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7e2a4523-19ed-4fab-b0e7-163b94a3428a
+:END:
+#+title: Rue Gwqjl Dfmeosq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Gwqjl Dfmeosq
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.73
+- sugar :: 5.91
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

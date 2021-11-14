@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7b0a283b-84d5-4aed-8ec3-bd03beb8e0d6
+:END:
+#+title: Rue Zoaaax 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Zoaaax
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.86
+- sugar :: 13.05
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:a1b347da-7d1e-4848-a513-650dec7b04cb][Rue Zoaaax NV - 1991-6-22]]

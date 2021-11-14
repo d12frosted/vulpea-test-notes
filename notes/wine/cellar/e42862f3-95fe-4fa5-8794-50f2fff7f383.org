@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e42862f3-95fe-4fa5-8794-50f2fff7f383
+:END:
+#+title: Dseajc Jinm Kveqyqb Fyhhts 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Kveqyqb Fyhhts
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.73
+- sugar :: 6.65
+- price :: 21.87 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

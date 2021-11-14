@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       12b90a54-84f0-4d42-b22f-3659c19ed33d
+:END:
+#+title: Cdeexg Dqdntb Jdkb NV - 1993-6-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:5c8ba18e-088e-47a6-a271-ae2aca7208ac][Cdeexg Dqdntb Jdkb]]
+- date :: 1993-6-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

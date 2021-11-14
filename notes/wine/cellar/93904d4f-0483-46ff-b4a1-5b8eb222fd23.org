@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       93904d4f-0483-46ff-b4a1-5b8eb222fd23
+:END:
+#+title: Rue Jjgvpt 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jjgvpt
+- vintage :: 2012
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.74
+- price :: 48.63 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:3c2600b6-c554-4571-a803-6984a4ce9b10][Rue Jjgvpt 2012 - 2017-3-9]]

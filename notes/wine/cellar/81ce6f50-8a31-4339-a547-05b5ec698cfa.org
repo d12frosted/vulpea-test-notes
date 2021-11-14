@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       81ce6f50-8a31-4339-a547-05b5ec698cfa
+:END:
+#+title: Mkmt Cfboe Auk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Cfboe Auk
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 13.61
+- sugar :: 17.6
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:4c6f1315-bb6c-4b9a-8d6b-8a8cf86d8589][Mkmt Cfboe Auk NV - 2019-3-25]]

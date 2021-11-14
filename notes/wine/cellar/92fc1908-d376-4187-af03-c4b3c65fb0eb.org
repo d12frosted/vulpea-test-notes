@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       92fc1908-d376-4187-af03-c4b3c65fb0eb
+:END:
+#+title: Dfsxtmx Ldv 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ldv
+- vintage :: 1956
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.76
+- sugar :: 15.04
+- price :: 45.34 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

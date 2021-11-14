@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6958dd71-7777-4a0e-804d-420b1f58c653
+:END:
+#+title: Njtzvl Zjuj Iehcb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zjuj Iehcb
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.7
+- sugar :: 0.13
+- price :: 13.43 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

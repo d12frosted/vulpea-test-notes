@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       35fc6db2-63eb-4f65-bd0e-e344788c669c
+:END:
+#+title: Dfsxtmx Ophkinnb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ophkinnb
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.96
+- price :: 93.70 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

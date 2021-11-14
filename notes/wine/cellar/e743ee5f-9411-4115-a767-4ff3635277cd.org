@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e743ee5f-9411-4115-a767-4ff3635277cd
+:END:
+#+title: Miv Ttf Ulk 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ttf Ulk
+- vintage :: 1952
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.26
+- sugar :: 13.9
+- price :: 60.40 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 4.0
+- ratings :: [[id:c114cce8-204a-472a-8e45-b8922520452c][Miv Ttf Ulk 1952 - 1992-11-3]]

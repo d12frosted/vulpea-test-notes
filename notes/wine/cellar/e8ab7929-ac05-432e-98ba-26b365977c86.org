@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e8ab7929-ac05-432e-98ba-26b365977c86
+:END:
+#+title: Dseajc Jinm Aqfx 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Aqfx
+- vintage :: 2004
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.94
+- price :: 46.03 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

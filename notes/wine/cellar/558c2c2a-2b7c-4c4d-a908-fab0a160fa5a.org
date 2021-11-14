@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       558c2c2a-2b7c-4c4d-a908-fab0a160fa5a
+:END:
+#+title: Rue Npgyir Jvgx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Npgyir Jvgx
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.75
+- price :: 45.25 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

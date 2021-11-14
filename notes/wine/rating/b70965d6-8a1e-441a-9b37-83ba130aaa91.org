@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b70965d6-8a1e-441a-9b37-83ba130aaa91
+:END:
+#+title: Dseajc Jinm Ltzj 1967 - 1990-3-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:667e860e-87b6-4bc1-8088-8477b150f814][Dseajc Jinm Ltzj 1967]]
+- date :: 1990-3-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

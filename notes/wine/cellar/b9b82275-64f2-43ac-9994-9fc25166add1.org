@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b9b82275-64f2-43ac-9994-9fc25166add1
+:END:
+#+title: Lzf Thl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Thl
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.08
+- sugar :: 22.44
+- price :: 38.65 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:a6142e6a-391c-4599-8c03-a41b00c6edba][Lzf Thl NV - 1990-7-10]]

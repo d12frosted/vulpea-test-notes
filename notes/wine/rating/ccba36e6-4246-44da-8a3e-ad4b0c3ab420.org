@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ccba36e6-4246-44da-8a3e-ad4b0c3ab420
+:END:
+#+title: Rue Kbkac Jlwr NV - 2016-5-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:a706cf73-8358-49d3-8427-f14e687b1d92][Rue Kbkac Jlwr]]
+- date :: 2016-5-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

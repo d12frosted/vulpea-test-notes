@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ed8f0610-34ce-4131-8037-42737fca1a85
+:END:
+#+title: Novr Rlrt Leazczl Qyen 1966 - 2009-10-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:1c83a51d-7d60-4833-aa85-45603c0793a1][Novr Rlrt Leazczl Qyen 1966]]
+- date :: 2009-10-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

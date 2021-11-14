@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bebb3aef-10e7-40b2-a509-d71ded398033
+:END:
+#+title: Rue Bempfj 1953 - 2015-7-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:39a7925e-cd9a-4026-bd86-905e5bbe245c][Rue Bempfj 1953]]
+- date :: 2015-7-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

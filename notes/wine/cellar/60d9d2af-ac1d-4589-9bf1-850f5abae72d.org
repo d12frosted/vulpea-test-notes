@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       60d9d2af-ac1d-4589-9bf1-850f5abae72d
+:END:
+#+title: Miv Vtzn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vtzn
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.51
+- sugar :: 1.5
+- price :: 8.97 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

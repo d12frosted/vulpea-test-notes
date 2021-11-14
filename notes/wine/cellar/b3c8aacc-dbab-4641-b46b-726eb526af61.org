@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b3c8aacc-dbab-4641-b46b-726eb526af61
+:END:
+#+title: Novr Rlrt Ubn Gkzesb 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ubn Gkzesb
+- vintage :: 1921
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.49
+- sugar :: 18.64
+- price :: 67.31 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

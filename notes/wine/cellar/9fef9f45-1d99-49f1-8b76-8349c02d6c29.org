@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9fef9f45-1d99-49f1-8b76-8349c02d6c29
+:END:
+#+title: Vjjtw Hvrja Bxk 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bxk
+- vintage :: 2007
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 10.42
+- sugar :: 11.56
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

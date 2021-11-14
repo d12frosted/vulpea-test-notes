@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d2a975e8-b281-4399-9d9d-1ba23540ecdf
+:END:
+#+title: Lzf Omwrbhn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Omwrbhn
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 9.11
+- sugar :: 13.56
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

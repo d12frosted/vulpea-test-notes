@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d784b72f-e219-45af-b677-3ad8234695b0
+:END:
+#+title: Dseajc Jinm Yvikce Epnkjtui NV - 2003-8-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:f9775dc1-ab64-4bb6-97a4-143a4ed288a8][Dseajc Jinm Yvikce Epnkjtui]]
+- date :: 2003-8-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

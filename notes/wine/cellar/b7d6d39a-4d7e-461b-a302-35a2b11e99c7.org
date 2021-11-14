@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b7d6d39a-4d7e-461b-a302-35a2b11e99c7
+:END:
+#+title: Novr Rlrt Sebienvw 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Sebienvw
+- vintage :: 1972
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.95
+- sugar :: 11.53
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2c5284ad-0a8f-42c7-bca8-f375ee8216e7
+:END:
+#+title: Lzf Eqpsimz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Eqpsimz
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.72
+- price :: 76.41 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       703b5b14-6a8f-4949-b460-d405183dc064
+:END:
+#+title: Novr Rlrt Cqgjxcc Pwydvbat NV - 1993-8-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:f8db07a3-cf52-4295-ba96-d814483ad3a1][Novr Rlrt Cqgjxcc Pwydvbat]]
+- date :: 1993-8-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

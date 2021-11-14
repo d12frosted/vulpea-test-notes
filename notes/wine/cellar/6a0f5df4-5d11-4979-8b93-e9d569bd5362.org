@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6a0f5df4-5d11-4979-8b93-e9d569bd5362
+:END:
+#+title: Dseajc Jinm Zqtkhnf Ano 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zqtkhnf Ano
+- vintage :: 2002
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 9.13
+- price :: 42.22 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8aa965b0-72c7-41e9-8e4c-66f2effd47c6
+:END:
+#+title: Dfsxtmx Agfxzcwd Qsviu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Agfxzcwd Qsviu
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.45
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 3.0
+- ratings :: [[id:65e1e79a-719b-4b76-9f9b-6c389096e4fd][Dfsxtmx Agfxzcwd Qsviu NV - 2001-4-9]]

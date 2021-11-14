@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e06fb08b-2a8d-465d-8ba9-f2cca9254022
+:END:
+#+title: Dseajc Jinm Zku NV - 1990-11-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:246fa3a2-81f6-4b4d-bec8-a11bcc93104c][Dseajc Jinm Zku]]
+- date :: 1990-11-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

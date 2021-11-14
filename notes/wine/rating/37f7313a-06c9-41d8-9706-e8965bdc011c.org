@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       37f7313a-06c9-41d8-9706-e8965bdc011c
+:END:
+#+title: Dseajc Jinm Hspt NV - 2015-3-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:fdb6c7b1-6f6b-485e-9ec9-c05d667f7b03][Dseajc Jinm Hspt]]
+- date :: 2015-3-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

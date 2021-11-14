@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4856356a-f201-497f-9f60-d00c18ab36ec
+:END:
+#+title: Novr Rlrt Qbvh 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Qbvh
+- vintage :: 1986
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.85
+- sugar :: 11.95
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

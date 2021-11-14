@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0c89e360-a778-4df4-89d6-1411e5e012d1
+:END:
+#+title: Mkmt Mhsz Ayhcg 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Mhsz Ayhcg
+- vintage :: 1958
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.17
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

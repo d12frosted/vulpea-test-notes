@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       38f2a507-7b42-4b55-8c71-c16080ff20ed
+:END:
+#+title: Mkmt Fnvy Eygzhvqu NV - 2017-9-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:dfe7967d-1d12-4a84-bcf1-66782e1b6bb7][Mkmt Fnvy Eygzhvqu]]
+- date :: 2017-9-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

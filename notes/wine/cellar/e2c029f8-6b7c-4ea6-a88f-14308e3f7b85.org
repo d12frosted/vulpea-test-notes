@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e2c029f8-6b7c-4ea6-a88f-14308e3f7b85
+:END:
+#+title: Miv Tflti Xqaup 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Tflti Xqaup
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 10.43
+- sugar :: 4.72
+- price :: 64.86 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       95493ff6-cd97-4a9b-9fe8-12d6243641a6
+:END:
+#+title: Rue Xtsd Vgtrqp 1919 - 2019-12-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:9506e3fd-3dca-48dc-be43-98242b440299][Rue Xtsd Vgtrqp 1919]]
+- date :: 2019-12-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       83d481b3-4aae-47a8-a53c-5b2289dc201a
+:END:
+#+title: Mkmt Ncrgomk 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ncrgomk
+- vintage :: 1945
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.1
+- price :: 51.89 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

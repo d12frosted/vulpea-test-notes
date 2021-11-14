@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1a7cae12-e4f0-4bd9-b255-8431f5e9e720
+:END:
+#+title: Novr Rlrt Bpo Fkryy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bpo Fkryy
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.25
+- price :: 90.34 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:5adc398a-2696-4201-a35f-e6fb2e26de09][Novr Rlrt Bpo Fkryy NV - 1994-6-4]]

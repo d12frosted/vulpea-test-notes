@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       302316f7-f610-4745-b424-36b245ecb4b7
+:END:
+#+title: Cdeexg Mtr 2020 - 2020-2-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:2338e658-5abd-4b5f-8cd9-c3fab1464825][Cdeexg Mtr 2020]]
+- date :: 2020-2-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

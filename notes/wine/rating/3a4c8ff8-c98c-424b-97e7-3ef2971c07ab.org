@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3a4c8ff8-c98c-424b-97e7-3ef2971c07ab
+:END:
+#+title: Novr Rlrt Ydglwqc NV - 2017-5-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:d4cdb6e0-247d-4289-b994-2d7b1e9ac67e][Novr Rlrt Ydglwqc]]
+- date :: 2017-5-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

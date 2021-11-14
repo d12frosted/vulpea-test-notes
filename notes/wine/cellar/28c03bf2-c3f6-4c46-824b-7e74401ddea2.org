@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       28c03bf2-c3f6-4c46-824b-7e74401ddea2
+:END:
+#+title: Lzf Ygnpuqyy 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ygnpuqyy
+- vintage :: 1933
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.84
+- price :: 91.20 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

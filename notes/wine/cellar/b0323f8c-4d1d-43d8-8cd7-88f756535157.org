@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b0323f8c-4d1d-43d8-8cd7-88f756535157
+:END:
+#+title: Dseajc Jinm Kxnteog 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Kxnteog
+- vintage :: 1956
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.51
+- sugar :: 17.99
+- price :: 17.03 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: 4.5
+- ratings :: [[id:9e3e5af5-a1a8-472f-8f3f-b6adca0844cc][Dseajc Jinm Kxnteog 1956 - 2001-9-7]]

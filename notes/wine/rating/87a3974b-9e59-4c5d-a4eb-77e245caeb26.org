@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       87a3974b-9e59-4c5d-a4eb-77e245caeb26
+:END:
+#+title: Dseajc Jinm Ifzs Seq 2018 - 1992-5-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:ec8567df-b9ae-41ae-9a52-ed7ec6ae85a7][Dseajc Jinm Ifzs Seq 2018]]
+- date :: 1992-5-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

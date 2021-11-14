@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9e49dd8b-2511-47ff-a28b-87d10d9035ea
+:END:
+#+title: Dseajc Jinm Fedmmqb Xughf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Fedmmqb Xughf
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.09
+- sugar :: 11.02
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

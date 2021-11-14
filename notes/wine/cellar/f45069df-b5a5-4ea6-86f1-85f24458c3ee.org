@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f45069df-b5a5-4ea6-86f1-85f24458c3ee
+:END:
+#+title: Lzf Zdpabwpu Ltdrcf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Zdpabwpu Ltdrcf
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.72
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

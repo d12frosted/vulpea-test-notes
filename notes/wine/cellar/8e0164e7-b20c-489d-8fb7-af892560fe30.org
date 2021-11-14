@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8e0164e7-b20c-489d-8fb7-af892560fe30
+:END:
+#+title: Novr Rlrt Lnga Rwfklo 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lnga Rwfklo
+- vintage :: 1984
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.2
+- sugar :: 22.58
+- price :: 93.14 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

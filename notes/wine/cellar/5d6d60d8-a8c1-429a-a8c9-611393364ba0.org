@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5d6d60d8-a8c1-429a-a8c9-611393364ba0
+:END:
+#+title: Mkmt Sdeyac 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Sdeyac
+- vintage :: 1962
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.65
+- price :: 38.10 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

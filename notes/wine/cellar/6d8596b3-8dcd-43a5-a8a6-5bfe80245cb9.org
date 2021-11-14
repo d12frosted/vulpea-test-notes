@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6d8596b3-8dcd-43a5-a8a6-5bfe80245cb9
+:END:
+#+title: Cdeexg Efc 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Efc
+- vintage :: 2005
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 11.5
+- sugar :: 19.38
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

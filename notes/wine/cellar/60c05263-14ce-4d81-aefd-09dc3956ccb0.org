@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       60c05263-14ce-4d81-aefd-09dc3956ccb0
+:END:
+#+title: Miv Jqqigaaf Yte 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Jqqigaaf Yte
+- vintage :: 1936
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.71
+- sugar :: 8.07
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

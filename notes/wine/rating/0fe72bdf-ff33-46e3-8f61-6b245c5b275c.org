@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0fe72bdf-ff33-46e3-8f61-6b245c5b275c
+:END:
+#+title: Dfsxtmx Rsa 1922 - 2022-2-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:e7bb9c7e-035a-4528-b2b4-481f7eac0bf2][Dfsxtmx Rsa 1922]]
+- date :: 2022-2-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

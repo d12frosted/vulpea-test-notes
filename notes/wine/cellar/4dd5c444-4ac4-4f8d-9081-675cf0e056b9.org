@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4dd5c444-4ac4-4f8d-9081-675cf0e056b9
+:END:
+#+title: Miv Qza 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Qza
+- vintage :: 1900
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.68
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

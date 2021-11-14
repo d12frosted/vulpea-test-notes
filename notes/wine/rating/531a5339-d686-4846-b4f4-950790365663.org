@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       531a5339-d686-4846-b4f4-950790365663
+:END:
+#+title: Novr Rlrt Spb NV - 2008-9-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:ed89ee0a-b803-4af4-b3ff-7e056705a11d][Novr Rlrt Spb]]
+- date :: 2008-9-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

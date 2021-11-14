@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e5c2fbc2-c823-4c92-b40f-bd3224bffa0b
+:END:
+#+title: Novr Rlrt Avlozu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Avlozu
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.49
+- sugar :: 9.74
+- price :: 77.92 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:8358d15a-5400-4b57-a190-fb383d22b5f0][Novr Rlrt Avlozu NV - 1999-8-15]]

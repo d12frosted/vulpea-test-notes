@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cf06dfa1-3c3f-4a91-8aa8-fd7b39608fe3
+:END:
+#+title: Rue Nuqpkz Luuebqp 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Nuqpkz Luuebqp
+- vintage :: 1901
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 12.73
+- sugar :: 13.31
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

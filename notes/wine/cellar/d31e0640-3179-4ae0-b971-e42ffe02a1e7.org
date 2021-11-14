@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d31e0640-3179-4ae0-b971-e42ffe02a1e7
+:END:
+#+title: Dfsxtmx Plhqwbh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Plhqwbh
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.06
+- sugar :: 7.24
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

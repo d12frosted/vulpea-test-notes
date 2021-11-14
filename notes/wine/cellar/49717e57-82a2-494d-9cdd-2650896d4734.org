@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       49717e57-82a2-494d-9cdd-2650896d4734
+:END:
+#+title: Lzf Vctac Yiecrfx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vctac Yiecrfx
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.09
+- sugar :: 14.36
+- price :: 56.72 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aa1f809c-bc1d-4add-8a22-e2aea0865354
+:END:
+#+title: Cdeexg Wuaj Nqwft 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Wuaj Nqwft
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.11
+- sugar :: 9.38
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.5
+- ratings :: [[id:948819d5-1b1a-4834-bebf-b20ab8cab22c][Cdeexg Wuaj Nqwft NV - 2022-7-2]]

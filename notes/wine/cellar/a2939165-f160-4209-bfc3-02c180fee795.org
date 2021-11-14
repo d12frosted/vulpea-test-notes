@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       a2939165-f160-4209-bfc3-02c180fee795
+:END:
+#+title: Dseajc Jinm Ddddv Vgftmh 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ddddv Vgftmh
+- vintage :: 1973
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.95
+- sugar :: 2.67
+- price :: 61.32 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 6.0
+- ratings :: [[id:a8b98755-cb8a-4361-88e0-510ed9943af8][Dseajc Jinm Ddddv Vgftmh 1973 - 2014-10-15]]

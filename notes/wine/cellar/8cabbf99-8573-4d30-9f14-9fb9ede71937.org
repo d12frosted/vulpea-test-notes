@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8cabbf99-8573-4d30-9f14-9fb9ede71937
+:END:
+#+title: Rue Vxdcxfu 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vxdcxfu
+- vintage :: 1982
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 12.79
+- price :: 63.81 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

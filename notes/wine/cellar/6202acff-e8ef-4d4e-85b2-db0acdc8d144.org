@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6202acff-e8ef-4d4e-85b2-db0acdc8d144
+:END:
+#+title: Njtzvl Ytihsa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ytihsa
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 11.46
+- sugar :: 1.05
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:7adc3b0d-5a66-417d-a08d-6d9b5ffae95c][Njtzvl Ytihsa NV - 2019-3-11]]

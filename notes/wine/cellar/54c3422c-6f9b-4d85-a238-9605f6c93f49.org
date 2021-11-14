@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       54c3422c-6f9b-4d85-a238-9605f6c93f49
+:END:
+#+title: Rue Wct 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Wct
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.2
+- sugar :: 0.23
+- price :: 62.70 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:8c711666-d837-4116-8e2d-c6f482e2dfd8][Rue Wct NV - 2019-1-20]]

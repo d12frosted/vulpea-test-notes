@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       18cc4e60-9fd4-4dd8-b664-7bf8e2bfd8fb
+:END:
+#+title: Novr Rlrt Aslfhph Hxuayq NV - 2012-3-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:563b31ea-152e-4025-922b-e1c9b5e256a1][Novr Rlrt Aslfhph Hxuayq]]
+- date :: 2012-3-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

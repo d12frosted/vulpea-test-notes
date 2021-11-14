@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a5ee9d90-e073-4745-ab5c-e86ebe01dc9c
+:END:
+#+title: Rue Roseaxmt Orejqkt 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Roseaxmt Orejqkt
+- vintage :: 1917
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.75
+- price :: 47.14 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c540c445-be54-4306-9b01-29afaba29ba7
+:END:
+#+title: Novr Rlrt Ttg Dip 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ttg Dip
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.22
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

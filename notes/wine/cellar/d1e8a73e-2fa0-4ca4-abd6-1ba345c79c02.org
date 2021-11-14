@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d1e8a73e-2fa0-4ca4-abd6-1ba345c79c02
+:END:
+#+title: Novr Rlrt Qzudc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Qzudc
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.51
+- price :: 66.20 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: wikipedia
+- rating :: NA

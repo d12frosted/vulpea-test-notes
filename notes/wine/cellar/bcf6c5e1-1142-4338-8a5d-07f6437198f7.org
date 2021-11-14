@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       bcf6c5e1-1142-4338-8a5d-07f6437198f7
+:END:
+#+title: Njtzvl Fbgv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Fbgv
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 12.39
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:8ab515e2-e655-4bbd-9bb1-550159c0f0be][Njtzvl Fbgv NV - 2013-10-24]]

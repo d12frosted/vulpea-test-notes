@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3252310f-9054-42c7-9042-7381abd90732
+:END:
+#+title: Novr Rlrt Bkcavjgi Ugacuid 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bkcavjgi Ugacuid
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.1
+- sugar :: 23.05
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:621ba5c7-a37c-4f28-83bd-b911ac4d0885][Novr Rlrt Bkcavjgi Ugacuid NV - 2016-3-5]]

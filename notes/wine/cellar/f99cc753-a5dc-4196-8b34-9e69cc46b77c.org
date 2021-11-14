@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f99cc753-a5dc-4196-8b34-9e69cc46b77c
+:END:
+#+title: Dseajc Jinm Xzijqf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xzijqf
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.86
+- sugar :: 19.99
+- price :: 97.46 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

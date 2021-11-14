@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c948c5d6-c023-48bd-a352-a11ea3688e67
+:END:
+#+title: Lzf Qoppv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Qoppv
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.81
+- sugar :: 0.54
+- price :: 101.57 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: wikipedia
+- rating :: 3.0
+- ratings :: [[id:56e04b0e-b223-451b-b380-0e0ce069235f][Lzf Qoppv NV - 2016-9-1]]

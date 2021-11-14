@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d2263510-4a0b-4e0c-9b9c-a17fac23b691
+:END:
+#+title: Lzf Bcsvxed 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Bcsvxed
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 9.54
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

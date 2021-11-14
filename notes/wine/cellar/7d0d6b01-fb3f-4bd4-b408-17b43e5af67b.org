@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7d0d6b01-fb3f-4bd4-b408-17b43e5af67b
+:END:
+#+title: Cdeexg Joneti 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Joneti
+- vintage :: 1909
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.08
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:ab31f3ad-6506-4951-aa91-c69f73a335e8][Cdeexg Joneti 1909 - 2011-2-11]]

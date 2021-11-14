@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5980d629-395c-4639-afe4-a4d95de894c2
+:END:
+#+title: Novr Rlrt Sqeaf Wffewf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Sqeaf Wffewf
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 10.93
+- sugar :: 19.19
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 3.0
+- ratings :: [[id:21e851a1-7889-40ea-86bd-6612287ab20d][Novr Rlrt Sqeaf Wffewf NV - 1990-6-1]]

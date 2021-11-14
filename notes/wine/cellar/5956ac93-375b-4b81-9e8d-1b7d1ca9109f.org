@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5956ac93-375b-4b81-9e8d-1b7d1ca9109f
+:END:
+#+title: Vjjtw Hvrja Riotza Lwfzx 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Riotza Lwfzx
+- vintage :: 1982
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 10.9
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       f8db07a3-cf52-4295-ba96-d814483ad3a1
+:END:
+#+title: Novr Rlrt Cqgjxcc Pwydvbat 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Cqgjxcc Pwydvbat
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.46
+- sugar :: 11.68
+- price :: 24.60 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 6.0
+- ratings :: [[id:703b5b14-6a8f-4949-b460-d405183dc064][Novr Rlrt Cqgjxcc Pwydvbat NV - 1993-8-28]]

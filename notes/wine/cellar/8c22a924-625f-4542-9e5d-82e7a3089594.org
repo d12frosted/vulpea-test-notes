@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8c22a924-625f-4542-9e5d-82e7a3089594
+:END:
+#+title: Dfsxtmx Gvnrbal 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gvnrbal
+- vintage :: 1945
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.86
+- price :: 69.35 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

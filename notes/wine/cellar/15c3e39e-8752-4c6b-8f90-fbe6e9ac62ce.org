@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       15c3e39e-8752-4c6b-8f90-fbe6e9ac62ce
+:END:
+#+title: Miv Bjwcjum 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Bjwcjum
+- vintage :: 1925
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.48
+- price :: 64.61 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:dbd35922-6de9-42db-bffc-28b584aec3e4][Miv Bjwcjum 1925 - 2001-11-14]]

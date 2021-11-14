@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       edc67c78-13f6-40d6-99d8-08d4faf84ece
+:END:
+#+title: Mkmt Ree Bwsu NV - 2019-11-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:543d4c04-9af2-442c-b623-da7bb759728b][Mkmt Ree Bwsu]]
+- date :: 2019-11-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

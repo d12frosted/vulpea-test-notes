@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5c6df481-f249-4d0d-8337-764b6c1ce686
+:END:
+#+title: Novr Rlrt Gczndk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Gczndk
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.469999999999999
+- sugar :: 2.63
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

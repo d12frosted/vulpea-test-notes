@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0c8c70c3-9eae-4a8c-b956-c781a62bc02a
+:END:
+#+title: Dfsxtmx Nagwur 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nagwur
+- vintage :: 1959
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.64
+- sugar :: 0.03
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:41b4212c-2bee-48d3-92cd-66e9af83dec7][Dfsxtmx Nagwur 1959 - 2001-4-11]]

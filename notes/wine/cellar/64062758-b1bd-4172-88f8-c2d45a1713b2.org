@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       64062758-b1bd-4172-88f8-c2d45a1713b2
+:END:
+#+title: Mkmt Sij 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Sij
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.0
+- sugar :: 0.13
+- price :: 3.04 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

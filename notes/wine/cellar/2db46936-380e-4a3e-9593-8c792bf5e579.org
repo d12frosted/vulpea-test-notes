@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2db46936-380e-4a3e-9593-8c792bf5e579
+:END:
+#+title: Dseajc Jinm Gbbgquya Bkljlzay 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gbbgquya Bkljlzay
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.15
+- price :: 37.32 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

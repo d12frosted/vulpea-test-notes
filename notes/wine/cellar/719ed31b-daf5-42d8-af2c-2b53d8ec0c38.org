@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       719ed31b-daf5-42d8-af2c-2b53d8ec0c38
+:END:
+#+title: Mkmt Nzdw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Nzdw
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.0
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:5876b3ce-763b-4818-9183-6bdd425e5761][Mkmt Nzdw NV - 2016-1-15]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ea0ccfcc-5ea0-4a6d-af1a-1b07bac896ef
+:END:
+#+title: Vjjtw Hvrja Oonnd Hhqq 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Oonnd Hhqq
+- vintage :: 1926
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.05
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

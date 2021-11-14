@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8b36fabf-a4aa-41b7-8c45-42293efac00c
+:END:
+#+title: Vjjtw Hvrja Yxisesrz 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Yxisesrz
+- vintage :: 1937
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.48
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:592111e9-2f2b-4fea-9845-238b16e26d9a][Vjjtw Hvrja Yxisesrz 1937 - 2001-2-16]]

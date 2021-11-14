@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7f0035d6-137a-473c-9b6f-af51eb7bf954
+:END:
+#+title: Dfsxtmx Pwyyzq Fgf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pwyyzq Fgf
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.26
+- sugar :: 6.36
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       aab6f2ec-6c34-4aae-bd81-43752cf24668
+:END:
+#+title: Rue Cxmuabw Qqgosjt 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Cxmuabw Qqgosjt
+- vintage :: 1957
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.84
+- sugar :: 9.95
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 8.0
+- ratings :: [[id:7c086446-c49d-47fd-9c43-32f06a5039ea][Rue Cxmuabw Qqgosjt 1957 - 2007-8-17]]

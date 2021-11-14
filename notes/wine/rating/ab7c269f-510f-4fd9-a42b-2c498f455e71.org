@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ab7c269f-510f-4fd9-a42b-2c498f455e71
+:END:
+#+title: Cdeexg Ovr Jxlqq 1910 - 2013-9-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:9706093e-0f34-4e08-b646-fe0deddac651][Cdeexg Ovr Jxlqq 1910]]
+- date :: 2013-9-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

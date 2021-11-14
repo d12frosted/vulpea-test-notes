@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1ff2b41b-f8a3-4cee-9267-d7b7bc2c5ecf
+:END:
+#+title: Cdeexg Xfihdlt Cmuyyw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Xfihdlt Cmuyyw
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.71
+- sugar :: 21.09
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:268c1332-7a54-4490-a0a5-da0d4beae8c8][Cdeexg Xfihdlt Cmuyyw NV - 2011-10-21]]

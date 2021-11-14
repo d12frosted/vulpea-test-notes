@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6c8dc241-9ae9-411e-9365-b00905821641
+:END:
+#+title: Dfsxtmx Nqbwmd Vjqkk NV - 1993-2-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:05a0e2d6-ec58-4f0c-bd87-7b7eabe57f1f][Dfsxtmx Nqbwmd Vjqkk]]
+- date :: 1993-2-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

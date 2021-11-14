@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c8eed94a-7a43-42d9-8b1e-253ae9a6e0ed
+:END:
+#+title: Njtzvl Nde Vrotj 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Nde Vrotj
+- vintage :: 1949
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 10.53
+- price :: 69.75 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

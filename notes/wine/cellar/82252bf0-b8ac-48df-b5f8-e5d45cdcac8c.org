@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       82252bf0-b8ac-48df-b5f8-e5d45cdcac8c
+:END:
+#+title: Miv Oaqn Vyzex 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Oaqn Vyzex
+- vintage :: 1933
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 9.11
+- price :: 90.74 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:efdb12db-e2c2-42ad-83f6-755a9b319851][Miv Oaqn Vyzex 1933 - 1993-10-12]]

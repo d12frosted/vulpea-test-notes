@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       09d41c34-a087-4e73-843c-c52ee766830f
+:END:
+#+title: Miv Wgpjtdg 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Wgpjtdg
+- vintage :: 2008
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.34
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

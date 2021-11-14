@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a00ef1b7-3de7-4864-bcbe-c0d44a1bbcbb
+:END:
+#+title: Dseajc Jinm Wdgmttz Zmp 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Wdgmttz Zmp
+- vintage :: 1999
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.86
+- sugar :: 13.59
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 2.0
+- ratings :: [[id:62eabb65-e022-4db6-9807-82153f8b21bd][Dseajc Jinm Wdgmttz Zmp 1999 - 2008-2-2]]

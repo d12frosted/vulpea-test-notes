@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5158b76d-dd87-4ea9-95b1-613cccd1844f
+:END:
+#+title: Mkmt Fhvbesrk Mww 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fhvbesrk Mww
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.72
+- price :: 37.66 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:4b182d48-222f-47a7-8b4e-c157d1b9eb22][Mkmt Fhvbesrk Mww NV - 2003-6-15]]

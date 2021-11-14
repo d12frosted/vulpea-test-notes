@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9a6c8564-9422-4727-a64e-e967ae87aeda
+:END:
+#+title: Rue Ttuc Dnhnmml 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ttuc Dnhnmml
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.629999999999999
+- price :: 59.48 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:28848b9b-1548-40b1-ac46-fa231491b002][Rue Ttuc Dnhnmml NV - 1994-7-9]]

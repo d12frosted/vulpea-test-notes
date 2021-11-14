@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0e3e0cc6-8f7e-4913-9c91-69a5a1b90708
+:END:
+#+title: Lzf Tkoydh Qbdtv 1949 - 2002-4-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:0ee7a952-9cb9-448f-a4dc-84320f709dae][Lzf Tkoydh Qbdtv 1949]]
+- date :: 2002-4-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

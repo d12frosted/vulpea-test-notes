@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       97936173-f5b8-4b5c-9169-6b39d35f3b69
+:END:
+#+title: Lzf Zjj Tldubzbo 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Zjj Tldubzbo
+- vintage :: 1947
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.89
+- price :: 33.11 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

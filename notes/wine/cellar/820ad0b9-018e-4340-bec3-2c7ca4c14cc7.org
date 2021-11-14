@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       820ad0b9-018e-4340-bec3-2c7ca4c14cc7
+:END:
+#+title: Miv Shzr Igfls 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Shzr Igfls
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 10.35
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:997ca3a9-0261-465b-8869-29872c99ddfa][Miv Shzr Igfls NV - 2023-5-6]]

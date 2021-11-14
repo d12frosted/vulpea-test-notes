@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cfde1703-a154-4e44-ba5f-498b95c28e1c
+:END:
+#+title: Lzf Ztw Ewvdc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ztw Ewvdc
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.43
+- price :: 51.87 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.5
+- ratings :: [[id:eae4a382-3c8c-4d50-9024-069383d947ee][Lzf Ztw Ewvdc NV - 2006-12-11]]

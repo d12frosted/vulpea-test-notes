@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       17e22e95-d442-4a7f-b69e-9cd5b60891c8
+:END:
+#+title: Miv Msgrhnnx NV - 2024-1-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:2116b5b8-6102-41af-9177-d04cc21c94bd][Miv Msgrhnnx]]
+- date :: 2024-1-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

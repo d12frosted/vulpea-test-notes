@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       17681a5d-0977-46b2-b213-e256401a842e
+:END:
+#+title: Cdeexg Wxmaz 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Wxmaz
+- vintage :: 2010
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.22
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

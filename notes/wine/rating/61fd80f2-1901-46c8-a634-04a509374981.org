@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       61fd80f2-1901-46c8-a634-04a509374981
+:END:
+#+title: Mkmt Dtnhw Bsrvbmt 1947 - 1992-7-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:002470c6-8479-40c0-94e7-ce1859312b52][Mkmt Dtnhw Bsrvbmt 1947]]
+- date :: 1992-7-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

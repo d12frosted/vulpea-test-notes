@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       43662aa3-8824-40c8-ba98-96e772c281be
+:END:
+#+title: Cdeexg Mkwna 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Mkwna
+- vintage :: 2005
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.35
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

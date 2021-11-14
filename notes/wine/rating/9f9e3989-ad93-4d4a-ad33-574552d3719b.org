@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9f9e3989-ad93-4d4a-ad33-574552d3719b
+:END:
+#+title: Rue Urwcgbxe NV - 2016-4-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:196d965e-5948-4695-93ea-50b486547227][Rue Urwcgbxe]]
+- date :: 2016-4-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

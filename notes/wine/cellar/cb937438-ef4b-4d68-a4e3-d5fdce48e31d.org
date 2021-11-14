@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cb937438-ef4b-4d68-a4e3-d5fdce48e31d
+:END:
+#+title: Lzf Tzqvtedo Maon 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tzqvtedo Maon
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.81
+- sugar :: 12.54
+- price :: 37.45 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:854eb31a-f2a6-44bb-8d84-8bdc6e83884d][Lzf Tzqvtedo Maon NV - 2020-10-5]]

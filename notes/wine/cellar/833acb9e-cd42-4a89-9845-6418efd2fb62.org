@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       833acb9e-cd42-4a89-9845-6418efd2fb62
+:END:
+#+title: Rue Xnv Nkgmuth 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Xnv Nkgmuth
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.92
+- sugar :: 10.38
+- price :: 85.53 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       309125e4-c887-45c6-849c-77681562d94b
+:END:
+#+title: Mkmt Rkprxw 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Rkprxw
+- vintage :: 1953
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.39
+- sugar :: 6.08
+- price :: 84.77 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:257fac7c-3c15-494c-940d-536581d512d2][Mkmt Rkprxw 1953 - 1997-4-11]]

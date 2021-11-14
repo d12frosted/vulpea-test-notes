@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2a6b4305-ab17-417d-ad18-ea2fb98709b7
+:END:
+#+title: Njtzvl Yvdlj Edyj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Yvdlj Edyj
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.3
+- price :: 93.92 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

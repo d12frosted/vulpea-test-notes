@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6610e337-4d1f-4ddc-af43-ed7b7ccc20cf
+:END:
+#+title: Mkmt Wasvu Xhin NV - 2023-1-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:9fa25379-19ad-4bc8-80b8-6b5c0fd44d21][Mkmt Wasvu Xhin]]
+- date :: 2023-1-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

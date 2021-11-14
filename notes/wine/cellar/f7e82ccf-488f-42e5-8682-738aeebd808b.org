@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f7e82ccf-488f-42e5-8682-738aeebd808b
+:END:
+#+title: Dseajc Jinm Cqu Sbzbnelb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Cqu Sbzbnelb
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.23
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:e710c84c-a514-40f1-bf51-7e6aa529546b][Dseajc Jinm Cqu Sbzbnelb NV - 2010-9-6]]

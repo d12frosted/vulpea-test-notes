@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       398a1811-3577-4d92-ab40-87d8b0cc0a46
+:END:
+#+title: Njtzvl Mspkwn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Mspkwn
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 10.47
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

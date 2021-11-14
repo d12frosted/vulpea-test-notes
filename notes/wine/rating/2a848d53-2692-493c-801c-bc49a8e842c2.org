@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2a848d53-2692-493c-801c-bc49a8e842c2
+:END:
+#+title: Miv Abk Mdcmb 1967 - 1995-2-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:fffa3475-b5ba-4b7e-ab15-605d1e249533][Miv Abk Mdcmb 1967]]
+- date :: 1995-2-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

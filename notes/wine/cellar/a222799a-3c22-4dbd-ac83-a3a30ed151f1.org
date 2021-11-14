@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a222799a-3c22-4dbd-ac83-a3a30ed151f1
+:END:
+#+title: Vjjtw Hvrja Bzffbh 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bzffbh
+- vintage :: 1902
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.56
+- sugar :: 15.22
+- price :: 11.68 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

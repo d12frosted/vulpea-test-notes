@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       400a9543-9d74-48f4-a89b-33ba25174dbf
+:END:
+#+title: Dfsxtmx Xmu Qsg 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xmu Qsg
+- vintage :: 1904
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.39
+- sugar :: 7.1
+- price :: 89.48 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

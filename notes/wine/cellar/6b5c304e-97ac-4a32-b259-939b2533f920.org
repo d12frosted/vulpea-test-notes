@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6b5c304e-97ac-4a32-b259-939b2533f920
+:END:
+#+title: Miv Vdziouj Ikzfioal 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vdziouj Ikzfioal
+- vintage :: 1963
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.16
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3981ba17-4f8a-4808-9dd0-5603a85990c4
+:END:
+#+title: Rue Bijzpabp Sthme 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Bijzpabp Sthme
+- vintage :: 1989
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.78
+- sugar :: 16.65
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 7.0
+- ratings :: [[id:385727f7-20bc-43b6-9add-30b1f1cf7190][Rue Bijzpabp Sthme 1989 - 1993-9-23]]

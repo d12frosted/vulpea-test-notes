@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1bf9bc66-fee4-4e37-a8c7-587dc7a3e896
+:END:
+#+title: Novr Rlrt Mxkpbd Jwtu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Mxkpbd Jwtu
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.75
+- sugar :: 7.1
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

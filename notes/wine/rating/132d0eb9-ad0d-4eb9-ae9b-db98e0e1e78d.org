@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       132d0eb9-ad0d-4eb9-ae9b-db98e0e1e78d
+:END:
+#+title: Lzf Uhbvkv NV - 1996-11-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:8f246e73-f56f-4694-bd2a-5560f2edba4a][Lzf Uhbvkv]]
+- date :: 1996-11-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

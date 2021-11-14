@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c1d5e5b1-4783-40ad-adb3-d6757ddf1d91
+:END:
+#+title: Rue Xzmcfgvt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Xzmcfgvt
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 13.379999999999999
+- price :: 100.21 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

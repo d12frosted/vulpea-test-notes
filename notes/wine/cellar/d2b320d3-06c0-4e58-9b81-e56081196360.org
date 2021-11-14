@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d2b320d3-06c0-4e58-9b81-e56081196360
+:END:
+#+title: Njtzvl Yeqzh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Yeqzh
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.51
+- sugar :: 19.6
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:f062cedd-e531-46b5-bc34-4d91ba535440][Njtzvl Yeqzh NV - 2000-11-2]]

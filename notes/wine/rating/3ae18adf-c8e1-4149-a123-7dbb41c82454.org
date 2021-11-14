@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3ae18adf-c8e1-4149-a123-7dbb41c82454
+:END:
+#+title: Mkmt Klp NV - 1997-2-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:d5ae3e4f-8771-41bf-9066-e58bf08e7359][Mkmt Klp]]
+- date :: 1997-2-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

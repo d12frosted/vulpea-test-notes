@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4d3f6718-f948-4272-97bf-10b693d8ac81
+:END:
+#+title: Dfsxtmx Ahta Cpbx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ahta Cpbx
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.1
+- sugar :: 13.62
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: duckduckgo
+- rating :: 2.0
+- ratings :: [[id:de7ae624-27c9-4c44-9863-1848f7d186c1][Dfsxtmx Ahta Cpbx NV - 2019-7-1]]

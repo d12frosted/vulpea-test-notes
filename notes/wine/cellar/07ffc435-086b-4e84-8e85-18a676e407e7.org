@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       07ffc435-086b-4e84-8e85-18a676e407e7
+:END:
+#+title: Miv Kiocxr Xehnct 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Kiocxr Xehnct
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.95
+- sugar :: 15.24
+- price :: 15.54 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

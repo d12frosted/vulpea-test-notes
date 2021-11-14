@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a2f186ea-773d-40ab-bf0c-3db3e018930e
+:END:
+#+title: Dseajc Jinm Ykbiy Iaosvg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ykbiy Iaosvg
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.23
+- sugar :: 20.07
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:033f9976-f0bb-4944-9c26-1e713b755730][Dseajc Jinm Ykbiy Iaosvg NV - 2005-4-17]]

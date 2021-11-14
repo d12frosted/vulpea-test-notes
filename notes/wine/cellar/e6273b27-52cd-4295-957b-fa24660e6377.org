@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e6273b27-52cd-4295-957b-fa24660e6377
+:END:
+#+title: Dseajc Jinm Pfg Djnrgfh 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Pfg Djnrgfh
+- vintage :: 1951
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.91
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

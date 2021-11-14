@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c594b9cb-fc19-47d2-a2f9-7788d14ff632
+:END:
+#+title: Dseajc Jinm Vde 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vde
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.77
+- price :: 42.91 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

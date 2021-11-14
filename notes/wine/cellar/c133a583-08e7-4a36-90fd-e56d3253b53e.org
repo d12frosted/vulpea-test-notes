@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c133a583-08e7-4a36-90fd-e56d3253b53e
+:END:
+#+title: Vjjtw Hvrja Srvdlbo 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Srvdlbo
+- vintage :: 1924
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.19
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3edf1d78-49fd-4e66-b13d-47a4ea20e4d9
+:END:
+#+title: Njtzvl Eolhvc 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Eolhvc
+- vintage :: 1928
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 13.940000000000001
+- price :: 61.37 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

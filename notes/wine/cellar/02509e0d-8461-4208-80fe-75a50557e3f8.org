@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       02509e0d-8461-4208-80fe-75a50557e3f8
+:END:
+#+title: Novr Rlrt Nbwbzb Nzq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nbwbzb Nzq
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.57
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

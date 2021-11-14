@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8a579d0a-d3a0-4596-93fc-34c8ac416ff5
+:END:
+#+title: Rue Trkfileu Yqix 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Trkfileu Yqix
+- vintage :: 2020
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.41
+- price :: 87.10 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

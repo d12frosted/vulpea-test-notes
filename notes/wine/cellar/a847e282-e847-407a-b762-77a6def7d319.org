@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a847e282-e847-407a-b762-77a6def7d319
+:END:
+#+title: Vjjtw Hvrja Bzwq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bzwq
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.65
+- sugar :: 22.87
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 9.0
+- ratings :: [[id:0eced786-f667-46ca-8e3f-f57a9932c46c][Vjjtw Hvrja Bzwq NV - 2021-11-23]]

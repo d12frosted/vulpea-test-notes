@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9740e0bc-a81a-4d78-9159-9172f721f427
+:END:
+#+title: Dseajc Jinm Kwxbb 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Kwxbb
+- vintage :: 1915
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 10.01
+- sugar :: 2.31
+- price :: 84.80 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

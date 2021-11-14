@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       75af7586-f3e9-416c-9bf3-70d8744fe9e1
+:END:
+#+title: Novr Rlrt Raetq 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Raetq
+- vintage :: 1971
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.69
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

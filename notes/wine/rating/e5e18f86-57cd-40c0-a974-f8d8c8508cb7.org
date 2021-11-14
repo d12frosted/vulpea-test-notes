@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e5e18f86-57cd-40c0-a974-f8d8c8508cb7
+:END:
+#+title: Mkmt Biuqnsda 1958 - 2016-1-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:34c24d8f-c585-4718-925b-29f895c55bc5][Mkmt Biuqnsda 1958]]
+- date :: 2016-1-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

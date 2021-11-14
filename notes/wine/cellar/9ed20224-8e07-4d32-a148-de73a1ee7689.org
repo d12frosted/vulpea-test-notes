@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9ed20224-8e07-4d32-a148-de73a1ee7689
+:END:
+#+title: Mkmt Rxewgouy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Rxewgouy
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.17
+- sugar :: 15.63
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8c3f8153-199d-4678-aaa4-65daa36648e7
+:END:
+#+title: Lzf Zvfwqp Tcprr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Zvfwqp Tcprr
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.47
+- sugar :: 8.9
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.5
+- ratings :: [[id:d9bf80d4-b36a-4a19-887b-846c0e0425ec][Lzf Zvfwqp Tcprr NV - 1997-9-3]]

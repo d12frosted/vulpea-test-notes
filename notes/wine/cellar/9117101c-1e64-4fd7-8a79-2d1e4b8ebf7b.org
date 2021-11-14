@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9117101c-1e64-4fd7-8a79-2d1e4b8ebf7b
+:END:
+#+title: Mkmt Nmezet Lajbk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Nmezet Lajbk
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.91
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 1.0
+- ratings :: [[id:a2a7fea2-d7d3-4db8-85d0-908e3ca964f7][Mkmt Nmezet Lajbk NV - 2005-3-17]]

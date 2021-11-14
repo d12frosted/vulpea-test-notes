@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c0c1141e-dceb-4602-a05c-b0b47600ef64
+:END:
+#+title: Dfsxtmx Kvtpiy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kvtpiy
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.54
+- price :: 39.23 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

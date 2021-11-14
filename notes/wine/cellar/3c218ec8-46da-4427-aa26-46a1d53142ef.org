@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3c218ec8-46da-4427-aa26-46a1d53142ef
+:END:
+#+title: Njtzvl Lar 1906
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lar
+- vintage :: 1906
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.06
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

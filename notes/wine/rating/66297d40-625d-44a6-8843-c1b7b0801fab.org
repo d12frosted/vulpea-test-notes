@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       66297d40-625d-44a6-8843-c1b7b0801fab
+:END:
+#+title: Dseajc Jinm Mia 1938 - 2004-11-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:3b7084fb-0c06-4f1e-9b3a-b93bb686de5e][Dseajc Jinm Mia 1938]]
+- date :: 2004-11-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

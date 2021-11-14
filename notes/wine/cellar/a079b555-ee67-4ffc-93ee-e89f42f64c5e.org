@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a079b555-ee67-4ffc-93ee-e89f42f64c5e
+:END:
+#+title: Miv Skiekuuq 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Skiekuuq
+- vintage :: 1903
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.79
+- price :: 14.83 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:8c7e944c-123f-49e0-a834-28ab7bad7900][Miv Skiekuuq 1903 - 2013-11-3]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ef1e6a41-c476-4a8a-9c91-eccef97f2d2c
+:END:
+#+title: Vjjtw Hvrja Ifiyyi NV - 2017-10-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:ca7a3898-2571-4ea3-84df-5abc3bf073a1][Vjjtw Hvrja Ifiyyi]]
+- date :: 2017-10-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

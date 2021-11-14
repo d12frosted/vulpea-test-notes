@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       606d6fa4-ccae-42e2-9ddc-67d5c6ba58a9
+:END:
+#+title: Mkmt Xzi Oqw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Xzi Oqw
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 12.72
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6c2deeb9-bc03-41e0-a5b6-4d30aaaa968a
+:END:
+#+title: Cdeexg Jwu 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Jwu
+- vintage :: 1970
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.9
+- sugar :: 6.56
+- price :: 95.21 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:56d6cc53-f9a7-453b-acdb-28c4ad69fd79][Cdeexg Jwu 1970 - 1994-7-13]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       88f6294f-09e7-4789-a270-559689272797
+:END:
+#+title: Novr Rlrt Ugsoear NV - 1990-1-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:bde2d9a1-811b-45e2-9b47-8412ec980ba7][Novr Rlrt Ugsoear]]
+- date :: 1990-1-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

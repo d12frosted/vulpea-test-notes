@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       34e62ef7-9f14-4f92-be85-7158cc561f86
+:END:
+#+title: Mkmt Sibwyagr 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Sibwyagr
+- vintage :: 1928
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.65
+- sugar :: 17.89
+- price :: 78.59 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: 5.0
+- ratings :: [[id:36a0459f-b793-486b-9a90-755cb1b18c45][Mkmt Sibwyagr 1928 - 2021-4-16]]

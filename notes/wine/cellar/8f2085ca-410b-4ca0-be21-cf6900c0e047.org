@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8f2085ca-410b-4ca0-be21-cf6900c0e047
+:END:
+#+title: Rue Autsyevh Gzklrxte 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Autsyevh Gzklrxte
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.82
+- sugar :: 18.77
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

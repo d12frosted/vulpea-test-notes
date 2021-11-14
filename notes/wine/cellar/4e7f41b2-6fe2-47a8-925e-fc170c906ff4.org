@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4e7f41b2-6fe2-47a8-925e-fc170c906ff4
+:END:
+#+title: Vjjtw Hvrja Hmnhlk Ymwuet 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hmnhlk Ymwuet
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.8
+- sugar :: 18.51
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

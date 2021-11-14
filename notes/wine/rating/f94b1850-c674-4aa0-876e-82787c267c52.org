@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f94b1850-c674-4aa0-876e-82787c267c52
+:END:
+#+title: Dfsxtmx Ilqi NV - 2018-7-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:9c85658d-f70f-4eb0-84ea-10d0a7fd5e4d][Dfsxtmx Ilqi]]
+- date :: 2018-7-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

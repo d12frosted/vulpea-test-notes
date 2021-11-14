@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8131404d-eb62-4dac-871a-967d7aa23411
+:END:
+#+title: Dfsxtmx Gwj Jkuzpnb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gwj Jkuzpnb
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.11
+- sugar :: 10.31
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:c74dc251-f27c-4415-8e43-aef6142abb4d][Dfsxtmx Gwj Jkuzpnb NV - 1998-9-3]]

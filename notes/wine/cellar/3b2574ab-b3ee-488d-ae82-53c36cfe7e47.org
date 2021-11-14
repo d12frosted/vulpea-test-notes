@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3b2574ab-b3ee-488d-ae82-53c36cfe7e47
+:END:
+#+title: Rue Ovsckgg Xue 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ovsckgg Xue
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.51
+- sugar :: 7.75
+- price :: 51.36 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.5
+- ratings :: [[id:b8202c03-66f8-423a-b7ae-74580d3810a8][Rue Ovsckgg Xue NV - 2009-7-11]]

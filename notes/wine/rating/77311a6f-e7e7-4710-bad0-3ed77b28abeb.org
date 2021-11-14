@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       77311a6f-e7e7-4710-bad0-3ed77b28abeb
+:END:
+#+title: Cdeexg Sxmjm NV - 2020-6-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:ed4ce184-c392-4050-bc86-0579c3caf0e7][Cdeexg Sxmjm]]
+- date :: 2020-6-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

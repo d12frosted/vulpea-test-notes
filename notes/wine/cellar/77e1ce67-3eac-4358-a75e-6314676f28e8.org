@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       77e1ce67-3eac-4358-a75e-6314676f28e8
+:END:
+#+title: Dfsxtmx Ufwxi Qaemp 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ufwxi Qaemp
+- vintage :: 1990
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.73
+- sugar :: 4.09
+- price :: 69.19 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 2.0
+- ratings :: [[id:df5a376c-3336-41b0-baa4-15edccdea203][Dfsxtmx Ufwxi Qaemp 1990 - 2001-12-1]]

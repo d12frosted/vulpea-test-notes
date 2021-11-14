@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       255a0e57-377d-42cf-8839-08b0aff5d2fd
+:END:
+#+title: Vjjtw Hvrja Rtn Nagzdcm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Rtn Nagzdcm
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.97
+- price :: 61.87 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

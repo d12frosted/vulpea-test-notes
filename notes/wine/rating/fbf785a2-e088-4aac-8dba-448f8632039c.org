@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fbf785a2-e088-4aac-8dba-448f8632039c
+:END:
+#+title: Rue Vjyvgfal 1975 - 2021-9-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:48874169-5c7c-443e-9b28-e3a9886ea8a0][Rue Vjyvgfal 1975]]
+- date :: 2021-9-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

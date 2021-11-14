@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3bdacf53-7e64-4384-8a47-1a6176b4cad2
+:END:
+#+title: Njtzvl Byqsxfg Mamfq 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Byqsxfg Mamfq
+- vintage :: 1968
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.06
+- sugar :: 18.32
+- price :: 29.16 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:2c31a53d-4edd-4897-b69d-1921309ee9f2][Njtzvl Byqsxfg Mamfq 1968 - 1992-4-18]]

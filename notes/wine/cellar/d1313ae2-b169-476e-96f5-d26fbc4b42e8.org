@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d1313ae2-b169-476e-96f5-d26fbc4b42e8
+:END:
+#+title: Lzf Nbsr Hqq 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Nbsr Hqq
+- vintage :: 1997
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.51
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

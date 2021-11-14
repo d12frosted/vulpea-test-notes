@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       27518f9d-7a45-4b7b-b7a8-d0e34aa3fc16
+:END:
+#+title: Lzf Tdbov NV - 1991-11-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:aa824db9-7be1-4e85-8828-4e3fe4d65384][Lzf Tdbov]]
+- date :: 1991-11-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

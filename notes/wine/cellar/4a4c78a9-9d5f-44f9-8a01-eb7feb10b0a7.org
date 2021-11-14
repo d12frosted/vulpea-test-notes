@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4a4c78a9-9d5f-44f9-8a01-eb7feb10b0a7
+:END:
+#+title: Mkmt Rew Akd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Rew Akd
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 13.059999999999999
+- price :: 74.75 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:1593ccb7-2822-43b9-a3b5-733f1ac59c78][Mkmt Rew Akd NV - 2000-2-28]]

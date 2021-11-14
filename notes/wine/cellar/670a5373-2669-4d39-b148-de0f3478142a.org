@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       670a5373-2669-4d39-b148-de0f3478142a
+:END:
+#+title: Vjjtw Hvrja Enhto 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Enhto
+- vintage :: 1997
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 11.129999999999999
+- price :: 66.44 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: 4.0
+- ratings :: [[id:d7ac4725-4e10-4bff-8b18-c5b9495da5d6][Vjjtw Hvrja Enhto 1997 - 2022-8-27]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2df72c64-021e-479d-a73a-43f4a2fb0730
+:END:
+#+title: Cdeexg Rxxxo Lgaatdtv 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Rxxxo Lgaatdtv
+- vintage :: 2017
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.32
+- sugar :: 10.96
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

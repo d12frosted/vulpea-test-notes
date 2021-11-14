@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       15be6f72-e82d-4aff-8a41-b972e0600958
+:END:
+#+title: Dfsxtmx Rlnjoy Dfmqcoa 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rlnjoy Dfmqcoa
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.92
+- sugar :: 3.75
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:a173076b-f68b-46ec-bc42-e7e62a35b74a][Dfsxtmx Rlnjoy Dfmqcoa NV - 1997-8-7]]

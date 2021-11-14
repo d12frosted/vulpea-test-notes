@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8727b6c5-eca6-4060-a2e8-beec5b6fcf6a
+:END:
+#+title: Dfsxtmx Ftrzwdun 1969 - 2012-9-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:56271f6b-6f75-41a9-aa3f-24cd17988c22][Dfsxtmx Ftrzwdun 1969]]
+- date :: 2012-9-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f1950aee-558c-41f7-a862-83cadf2e110f
+:END:
+#+title: Dseajc Jinm Gsz Lfj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gsz Lfj
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.58
+- price :: 45.18 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 2.0
+- ratings :: [[id:9d6e0748-7b6f-4460-b162-0607c21b8334][Dseajc Jinm Gsz Lfj NV - 2014-7-21]]

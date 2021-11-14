@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       69facc49-0245-4771-ba96-b660123ca409
+:END:
+#+title: Dseajc Jinm Yrdg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Yrdg
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.22
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:df5ab9b6-ece7-40f6-a110-b06531e62a22][Dseajc Jinm Yrdg NV - 2023-12-9]]

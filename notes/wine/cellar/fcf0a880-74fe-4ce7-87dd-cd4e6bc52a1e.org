@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fcf0a880-74fe-4ce7-87dd-cd4e6bc52a1e
+:END:
+#+title: Rue Azwcr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Azwcr
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.94
+- price :: 42.81 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.0
+- ratings :: [[id:afaebef1-82c0-4408-8051-b824f3db195f][Rue Azwcr NV - 2021-11-2]]

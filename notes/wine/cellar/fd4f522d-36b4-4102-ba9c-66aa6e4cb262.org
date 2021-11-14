@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fd4f522d-36b4-4102-ba9c-66aa6e4cb262
+:END:
+#+title: Njtzvl Xninbbmz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xninbbmz
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 13.1
+- sugar :: 10.46
+- price :: 101.24 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

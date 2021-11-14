@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e821b4d3-a169-4474-8f68-6aecec4d56b3
+:END:
+#+title: Lzf Qzbhlw Nhlcjfko 1959 - 2019-1-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:c5cde660-cbe8-4e2b-8493-b4e715ce69cf][Lzf Qzbhlw Nhlcjfko 1959]]
+- date :: 2019-1-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

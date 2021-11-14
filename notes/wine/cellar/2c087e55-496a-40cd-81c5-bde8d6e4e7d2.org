@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2c087e55-496a-40cd-81c5-bde8d6e4e7d2
+:END:
+#+title: Mkmt Ayf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ayf
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.46
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d35d7ba3-ca86-4d0d-a9cd-e2e9f24bd4fb
+:END:
+#+title: Rue Ipethqfw Tedirr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ipethqfw Tedirr
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 11.95
+- sugar :: 14.72
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

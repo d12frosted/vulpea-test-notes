@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4ae04de1-a75c-4656-b3f2-335fc81cd3f4
+:END:
+#+title: Dfsxtmx Onxuxci Icakyoz 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Onxuxci Icakyoz
+- vintage :: 1922
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 11.35
+- sugar :: 21.9
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 7.0
+- ratings :: [[id:93eb4b89-f58d-4c2a-89ba-c026e2e2cfe2][Dfsxtmx Onxuxci Icakyoz 1922 - 2017-10-4]]

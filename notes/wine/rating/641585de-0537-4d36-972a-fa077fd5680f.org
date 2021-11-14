@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       641585de-0537-4d36-972a-fa077fd5680f
+:END:
+#+title: Dfsxtmx Pbi Vfbciy 1979 - 2007-1-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:7341b954-42b4-468b-bd92-9c3ddf27c2af][Dfsxtmx Pbi Vfbciy 1979]]
+- date :: 2007-1-10
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

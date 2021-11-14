@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fd03fd59-5d09-4208-ad7a-aaa124449cca
+:END:
+#+title: Dfsxtmx Domvqm Ocmi 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Domvqm Ocmi
+- vintage :: 1979
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.82
+- sugar :: 16.96
+- price :: 82.21 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

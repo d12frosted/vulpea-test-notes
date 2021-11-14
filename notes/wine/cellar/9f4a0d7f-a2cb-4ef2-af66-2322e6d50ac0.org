@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9f4a0d7f-a2cb-4ef2-af66-2322e6d50ac0
+:END:
+#+title: Mkmt Ifikhnd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ifikhnd
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.1
+- price :: 99.67 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

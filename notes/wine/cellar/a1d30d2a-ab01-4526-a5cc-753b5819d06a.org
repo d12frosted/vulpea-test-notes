@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a1d30d2a-ab01-4526-a5cc-753b5819d06a
+:END:
+#+title: Dseajc Jinm Jgwiqolk Tfxkerc 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jgwiqolk Tfxkerc
+- vintage :: 1987
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.469999999999999
+- price :: 101.16 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

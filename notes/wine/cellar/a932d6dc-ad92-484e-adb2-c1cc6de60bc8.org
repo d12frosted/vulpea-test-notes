@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a932d6dc-ad92-484e-adb2-c1cc6de60bc8
+:END:
+#+title: Cdeexg Pmb 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Pmb
+- vintage :: 1944
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 12.08
+- sugar :: 10.33
+- price :: 80.16 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

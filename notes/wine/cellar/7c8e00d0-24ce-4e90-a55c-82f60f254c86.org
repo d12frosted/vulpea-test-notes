@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       7c8e00d0-24ce-4e90-a55c-82f60f254c86
+:END:
+#+title: Dseajc Jinm Miwcti Tkugjp 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Miwcti Tkugjp
+- vintage :: 1941
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.4
+- price :: 70.90 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:664f0c11-7215-4228-a4f8-69c35056a468][Dseajc Jinm Miwcti Tkugjp 1941 - 2016-4-5]]

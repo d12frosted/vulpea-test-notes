@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b94390a1-8d57-4980-bea5-9393fd297eae
+:END:
+#+title: Mkmt Zfgulgta Jcgqhp 1937 - 1990-3-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:ac90b642-1f3d-4efd-b6a4-d406d2cb62bf][Mkmt Zfgulgta Jcgqhp 1937]]
+- date :: 1990-3-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

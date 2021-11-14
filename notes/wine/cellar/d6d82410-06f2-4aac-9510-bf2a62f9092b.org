@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d6d82410-06f2-4aac-9510-bf2a62f9092b
+:END:
+#+title: Vjjtw Hvrja Epaqf Lpwvj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Epaqf Lpwvj
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.27
+- price :: 62.53 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c144e15c-c9fe-4e90-9dde-8eab30c32117
+:END:
+#+title: Lzf Pfoewg Aaud 1904 - 2015-8-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:0b1e9106-b77e-440c-9d8a-933719e360d0][Lzf Pfoewg Aaud 1904]]
+- date :: 2015-8-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3ba1aa46-6a25-4c54-850b-536f4185d203
+:END:
+#+title: Novr Rlrt Ueddw Usbr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ueddw Usbr
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.870000000000001
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

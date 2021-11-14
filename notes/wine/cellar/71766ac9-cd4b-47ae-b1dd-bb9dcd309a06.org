@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       71766ac9-cd4b-47ae-b1dd-bb9dcd309a06
+:END:
+#+title: Cdeexg Joymx Sgnoqwpf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Joymx Sgnoqwpf
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.04
+- sugar :: 4.0
+- price :: 76.65 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:8108a4a3-1f03-40d2-abb4-cb38881377a1][Cdeexg Joymx Sgnoqwpf NV - 2006-8-12]]

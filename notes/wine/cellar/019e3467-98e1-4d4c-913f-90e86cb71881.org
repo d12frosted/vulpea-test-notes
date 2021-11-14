@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       019e3467-98e1-4d4c-913f-90e86cb71881
+:END:
+#+title: Rue Nbf 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Nbf
+- vintage :: 1972
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.33
+- sugar :: 10.43
+- price :: 94.93 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

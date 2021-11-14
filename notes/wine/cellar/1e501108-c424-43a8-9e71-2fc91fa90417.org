@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1e501108-c424-43a8-9e71-2fc91fa90417
+:END:
+#+title: Dseajc Jinm Obklcov Menzzncy 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Obklcov Menzzncy
+- vintage :: 1978
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.89
+- price :: 5.93 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

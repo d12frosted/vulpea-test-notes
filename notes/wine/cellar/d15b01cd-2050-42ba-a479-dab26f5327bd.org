@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d15b01cd-2050-42ba-a479-dab26f5327bd
+:END:
+#+title: Miv Hse 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Hse
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.15
+- price :: 49.89 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

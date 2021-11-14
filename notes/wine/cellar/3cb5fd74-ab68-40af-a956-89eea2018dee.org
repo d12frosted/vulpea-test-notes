@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3cb5fd74-ab68-40af-a956-89eea2018dee
+:END:
+#+title: Rue Mvn Ficpf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mvn Ficpf
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.49
+- price :: 98.97 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.5
+- ratings :: [[id:ec760d12-8c37-4c4a-8943-ab68cd895ba7][Rue Mvn Ficpf NV - 2014-10-18]]

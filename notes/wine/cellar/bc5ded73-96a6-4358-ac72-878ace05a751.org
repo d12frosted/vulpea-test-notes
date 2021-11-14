@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bc5ded73-96a6-4358-ac72-878ace05a751
+:END:
+#+title: Dfsxtmx Twswof Typuegm 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Twswof Typuegm
+- vintage :: 1992
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 10.01
+- sugar :: 22.58
+- price :: 34.19 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

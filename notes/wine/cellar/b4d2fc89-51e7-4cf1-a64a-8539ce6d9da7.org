@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b4d2fc89-51e7-4cf1-a64a-8539ce6d9da7
+:END:
+#+title: Rue Dewq 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Dewq
+- vintage :: 1982
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.75
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 7.0
+- ratings :: [[id:06a8bd96-9255-472b-a3ff-7f1a761effa4][Rue Dewq 1982 - 2003-4-3]]

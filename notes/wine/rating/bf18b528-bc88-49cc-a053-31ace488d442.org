@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bf18b528-bc88-49cc-a053-31ace488d442
+:END:
+#+title: Cdeexg Ugnhsh NV - 2019-5-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:42eabb53-7e5e-4685-bf19-753a7a56687b][Cdeexg Ugnhsh]]
+- date :: 2019-5-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       572a0921-9895-481e-bee7-421def0f195c
+:END:
+#+title: Vjjtw Hvrja Pkioy Btvzi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pkioy Btvzi
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.58
+- sugar :: 8.72
+- price :: 45.51 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       78e091a3-a4c0-4e61-8431-93198cfbf314
+:END:
+#+title: Dfsxtmx Pfqvg 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pfqvg
+- vintage :: 2011
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.280000000000001
+- sugar :: 11.85
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.0
+- ratings :: [[id:0eea09b3-8043-4996-a614-2e2853b7f31e][Dfsxtmx Pfqvg 2011 - 2021-8-19]]

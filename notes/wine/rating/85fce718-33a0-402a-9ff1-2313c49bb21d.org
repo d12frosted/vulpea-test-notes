@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       85fce718-33a0-402a-9ff1-2313c49bb21d
+:END:
+#+title: Dfsxtmx Gxwncyez Abeob NV - 1992-4-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:0e4aae0a-1386-454b-8130-a8f70f5d6636][Dfsxtmx Gxwncyez Abeob]]
+- date :: 1992-4-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 2
+- score_max :: 20
+- total :: 1.0

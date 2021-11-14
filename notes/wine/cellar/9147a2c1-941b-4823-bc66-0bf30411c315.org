@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9147a2c1-941b-4823-bc66-0bf30411c315
+:END:
+#+title: Novr Rlrt Kftr 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Kftr
+- vintage :: 1950
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.09
+- price :: 71.27 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

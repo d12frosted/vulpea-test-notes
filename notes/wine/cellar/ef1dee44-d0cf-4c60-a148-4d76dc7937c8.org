@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ef1dee44-d0cf-4c60-a148-4d76dc7937c8
+:END:
+#+title: Mkmt Wxhmofu 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Wxhmofu
+- vintage :: 1919
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 13.9
+- sugar :: 13.69
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:39d207cb-979e-40aa-b0b6-079cc7d038ba][Mkmt Wxhmofu 1919 - 2018-12-7]]

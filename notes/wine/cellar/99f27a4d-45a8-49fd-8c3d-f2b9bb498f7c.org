@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       99f27a4d-45a8-49fd-8c3d-f2b9bb498f7c
+:END:
+#+title: Mkmt Sflb Qexow 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Sflb Qexow
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.84
+- sugar :: 10.87
+- price :: 16.85 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:f1206b55-89ab-4ac1-ae16-e5e41ff22c92][Mkmt Sflb Qexow NV - 2015-1-3]]

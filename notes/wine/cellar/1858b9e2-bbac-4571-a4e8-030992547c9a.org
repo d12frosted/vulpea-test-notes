@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1858b9e2-bbac-4571-a4e8-030992547c9a
+:END:
+#+title: Njtzvl Spfilk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Spfilk
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.92
+- sugar :: 21.83
+- price :: 26.19 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA

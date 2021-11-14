@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       498d4e11-6c9a-4ad1-8573-95e18daacd91
+:END:
+#+title: Cdeexg Qeoesbwh 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Qeoesbwh
+- vintage :: 1971
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 9.1
+- sugar :: 16.66
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:5ccd6c5d-0969-4401-8b57-5bd0814db5c1][Cdeexg Qeoesbwh 1971 - 2001-3-3]]

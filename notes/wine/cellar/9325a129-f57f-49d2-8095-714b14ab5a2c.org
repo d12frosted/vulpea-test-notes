@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9325a129-f57f-49d2-8095-714b14ab5a2c
+:END:
+#+title: Cdeexg Ivtf Bkeogqka 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ivtf Bkeogqka
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.059999999999999
+- price :: 40.87 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:29209be9-bfa4-4494-aea1-c6353aa3679c][Cdeexg Ivtf Bkeogqka NV - 2011-8-20]]

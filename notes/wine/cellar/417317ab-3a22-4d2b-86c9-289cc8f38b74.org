@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       417317ab-3a22-4d2b-86c9-289cc8f38b74
+:END:
+#+title: Cdeexg Abgon 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Abgon
+- vintage :: 2012
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.36
+- sugar :: 10.62
+- price :: 30.08 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:7c9fadd8-8c4b-4f0c-988c-91e2a90bea19][Cdeexg Abgon 2012 - 2012-7-11]]

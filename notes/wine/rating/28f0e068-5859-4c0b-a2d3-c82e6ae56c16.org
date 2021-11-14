@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       28f0e068-5859-4c0b-a2d3-c82e6ae56c16
+:END:
+#+title: Vjjtw Hvrja Barees 1945 - 2006-8-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:e1c92c32-2db4-442d-8b7a-69bc6d1c6338][Vjjtw Hvrja Barees 1945]]
+- date :: 2006-8-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

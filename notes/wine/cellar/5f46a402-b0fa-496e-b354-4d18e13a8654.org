@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5f46a402-b0fa-496e-b354-4d18e13a8654
+:END:
+#+title: Dseajc Jinm Cbypuhdf Dlmc 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Cbypuhdf Dlmc
+- vintage :: 1950
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.61
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 7.5
+- ratings :: [[id:562c9603-4220-44ec-8542-4436980113f8][Dseajc Jinm Cbypuhdf Dlmc 1950 - 2006-12-22]]

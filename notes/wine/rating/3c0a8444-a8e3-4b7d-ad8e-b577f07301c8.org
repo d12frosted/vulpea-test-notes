@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3c0a8444-a8e3-4b7d-ad8e-b577f07301c8
+:END:
+#+title: Mkmt Vpyf 2010 - 2017-10-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:5c6a3c64-8a48-4d0e-84d0-23b32ca9f835][Mkmt Vpyf 2010]]
+- date :: 2017-10-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

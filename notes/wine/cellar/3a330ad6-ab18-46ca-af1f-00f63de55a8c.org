@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3a330ad6-ab18-46ca-af1f-00f63de55a8c
+:END:
+#+title: Vjjtw Hvrja Afjkmh 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Afjkmh
+- vintage :: 1908
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.94
+- sugar :: 17.04
+- price :: 88.45 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

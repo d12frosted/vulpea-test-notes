@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       094ce18a-f688-4dbe-9731-d8342282661a
+:END:
+#+title: Dseajc Jinm Yhyowjkf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Yhyowjkf
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.04
+- sugar :: 16.88
+- price :: 76.98 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

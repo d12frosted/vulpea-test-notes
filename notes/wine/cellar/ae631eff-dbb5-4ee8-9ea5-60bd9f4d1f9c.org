@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ae631eff-dbb5-4ee8-9ea5-60bd9f4d1f9c
+:END:
+#+title: Mkmt Tncvzeef Cdm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Tncvzeef Cdm
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.68
+- price :: 93.76 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

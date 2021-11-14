@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       247e20cf-fc2f-44d7-9310-47d62faa8ac7
+:END:
+#+title: Cdeexg Amr Skz 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Amr Skz
+- vintage :: 1992
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.120000000000001
+- price :: 73.71 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: wikipedia
+- rating :: 7.0
+- ratings :: [[id:82bf1aaf-39c3-4648-b437-737dd78555fe][Cdeexg Amr Skz 1992 - 2001-6-19]]

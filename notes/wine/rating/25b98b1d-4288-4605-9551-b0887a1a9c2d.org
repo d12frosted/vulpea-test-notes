@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       25b98b1d-4288-4605-9551-b0887a1a9c2d
+:END:
+#+title: Mkmt Xcw 1995 - 1995-5-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:24f91095-6f06-4de5-8648-a58578a1aae4][Mkmt Xcw 1995]]
+- date :: 1995-5-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

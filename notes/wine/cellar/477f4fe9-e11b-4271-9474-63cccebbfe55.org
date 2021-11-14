@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       477f4fe9-e11b-4271-9474-63cccebbfe55
+:END:
+#+title: Miv Wilb Doi 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Wilb Doi
+- vintage :: 1952
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.89
+- price :: 102.24 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: 2.5
+- ratings :: [[id:92348e5d-cdc6-4696-81bc-6087fbc12ab4][Miv Wilb Doi 1952 - 2016-5-21]]

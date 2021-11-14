@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       74b1590f-2a6d-4e2a-88ab-afbf1669630e
+:END:
+#+title: Mkmt Opz 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Opz
+- vintage :: 2018
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 10.55
+- sugar :: 3.51
+- price :: 8.51 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

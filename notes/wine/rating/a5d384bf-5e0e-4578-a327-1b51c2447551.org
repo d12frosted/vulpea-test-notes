@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a5d384bf-5e0e-4578-a327-1b51c2447551
+:END:
+#+title: Miv Ssguwqnc Umnn 1981 - 2008-10-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:94718604-ddb8-4254-ae1c-99b21a13cccb][Miv Ssguwqnc Umnn 1981]]
+- date :: 2008-10-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

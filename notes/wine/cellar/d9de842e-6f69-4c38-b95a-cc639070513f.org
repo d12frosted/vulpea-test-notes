@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d9de842e-6f69-4c38-b95a-cc639070513f
+:END:
+#+title: Miv Ceukkyoj Djzz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ceukkyoj Djzz
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.84
+- price :: 97.00 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

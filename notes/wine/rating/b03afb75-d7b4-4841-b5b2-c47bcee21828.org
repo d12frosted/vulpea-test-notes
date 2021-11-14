@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b03afb75-d7b4-4841-b5b2-c47bcee21828
+:END:
+#+title: Lzf Xyvflrpx NV - 2018-11-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:2949cc4f-abdf-4b8a-bac8-30130f2cb2c3][Lzf Xyvflrpx]]
+- date :: 2018-11-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

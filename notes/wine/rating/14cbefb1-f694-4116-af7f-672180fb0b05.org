@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       14cbefb1-f694-4116-af7f-672180fb0b05
+:END:
+#+title: Miv Eqsdqo Awva 1957 - 2020-3-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:948c93d7-9c61-4c49-8b16-dd3cbcd07347][Miv Eqsdqo Awva 1957]]
+- date :: 2020-3-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       60a116e4-c695-4ca8-af18-cdbc36cf9535
+:END:
+#+title: Lzf Pjssp Umx 2019 - 2008-2-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:ccb3aa41-9664-4108-9d6a-9ddc45d53ebb][Lzf Pjssp Umx 2019]]
+- date :: 2008-2-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

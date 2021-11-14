@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f9c153ac-ef43-4271-a00a-8beacbaca10d
+:END:
+#+title: Dfsxtmx Wzekwzf Rhjwkjgk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Wzekwzf Rhjwkjgk
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.96
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: wikipedia
+- rating :: 7.5
+- ratings :: [[id:5d33b443-39c9-4552-90b9-35fa0f7bd163][Dfsxtmx Wzekwzf Rhjwkjgk NV - 1993-11-27]]

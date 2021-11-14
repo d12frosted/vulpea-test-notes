@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       37ad7b28-cf01-44f1-81e4-c1427e64c23b
+:END:
+#+title: Novr Rlrt Rvteimr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rvteimr
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.19
+- sugar :: 4.79
+- price :: 91.51 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3f5cb80a-16ea-4866-9d4c-922366f94595
+:END:
+#+title: Cdeexg Jkiu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Jkiu
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.46
+- sugar :: 13.57
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:f993537e-a7de-4b7f-aaa5-b854d565518a][Cdeexg Jkiu NV - 2012-5-12]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d5484505-a8ee-4cd1-b697-8ff98a8198e6
+:END:
+#+title: Novr Rlrt Kwjrlw Ejjeyj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Kwjrlw Ejjeyj
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.86
+- price :: 77.76 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

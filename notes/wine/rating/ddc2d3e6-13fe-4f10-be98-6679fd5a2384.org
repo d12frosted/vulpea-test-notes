@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ddc2d3e6-13fe-4f10-be98-6679fd5a2384
+:END:
+#+title: Lzf Ftzljhjr Zxjpjst NV - 2002-5-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:3eaae8e6-7c30-4786-ac19-d234265619fd][Lzf Ftzljhjr Zxjpjst]]
+- date :: 2002-5-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       90bff409-0cd6-496f-9a05-87ad631746ac
+:END:
+#+title: Miv Vqwrxz Rtawpo NV - 2015-5-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:f783028b-ccd5-49b7-87d8-03f6f4179d7a][Miv Vqwrxz Rtawpo]]
+- date :: 2015-5-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

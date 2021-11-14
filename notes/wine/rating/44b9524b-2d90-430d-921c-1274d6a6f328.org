@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       44b9524b-2d90-430d-921c-1274d6a6f328
+:END:
+#+title: Novr Rlrt Npixcpvb Zmzywlx NV - 1995-12-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:e06fbf37-8686-4e2a-98c5-f58e98996f6b][Novr Rlrt Npixcpvb Zmzywlx]]
+- date :: 1995-12-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

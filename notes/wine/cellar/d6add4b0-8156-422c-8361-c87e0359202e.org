@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d6add4b0-8156-422c-8361-c87e0359202e
+:END:
+#+title: Mkmt Vszvptde 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Vszvptde
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.219999999999999
+- sugar :: 2.36
+- price :: 98.42 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.0
+- ratings :: [[id:6164f410-bbc0-49c6-ab58-ac06ecf12e23][Mkmt Vszvptde NV - 2000-6-1]]

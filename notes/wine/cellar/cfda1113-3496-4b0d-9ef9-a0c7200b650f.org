@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       cfda1113-3496-4b0d-9ef9-a0c7200b650f
+:END:
+#+title: Lzf Bfcn 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Bfcn
+- vintage :: 1951
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.22
+- sugar :: 22.44
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: wikipedia
+- rating :: 7.5
+- ratings :: [[id:1630d712-9bcd-4dfd-8d94-9b50971f2e1c][Lzf Bfcn 1951 - 2022-5-3]]

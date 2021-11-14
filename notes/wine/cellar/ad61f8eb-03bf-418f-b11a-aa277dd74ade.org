@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       ad61f8eb-03bf-418f-b11a-aa277dd74ade
+:END:
+#+title: Mkmt Beowh 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Beowh
+- vintage :: 1962
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.22
+- sugar :: 9.16
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 2.5
+- ratings :: [[id:5ba3db9d-cfb6-4c8d-a96e-6e03ff44c9b9][Mkmt Beowh 1962 - 1992-10-20]]

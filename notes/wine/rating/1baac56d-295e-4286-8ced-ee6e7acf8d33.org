@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1baac56d-295e-4286-8ced-ee6e7acf8d33
+:END:
+#+title: Njtzvl Xceuy 1974 - 2016-9-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:cb7613b7-6694-467c-8f79-1ef4972a8eb3][Njtzvl Xceuy 1974]]
+- date :: 2016-9-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

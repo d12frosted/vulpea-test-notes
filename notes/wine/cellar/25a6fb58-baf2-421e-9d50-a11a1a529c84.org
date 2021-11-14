@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       25a6fb58-baf2-421e-9d50-a11a1a529c84
+:END:
+#+title: Miv Rqjzxrc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rqjzxrc
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.77
+- price :: 8.76 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:a59efa56-5215-4e53-ac94-32a6c601c2ef][Miv Rqjzxrc NV - 2001-1-21]]

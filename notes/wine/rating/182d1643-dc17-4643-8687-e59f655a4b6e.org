@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       182d1643-dc17-4643-8687-e59f655a4b6e
+:END:
+#+title: Dseajc Jinm Jxpliu Uqycewse 1940 - 1997-1-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:f86b673e-7d92-4ec3-bdfb-74a0ba6a1e18][Dseajc Jinm Jxpliu Uqycewse 1940]]
+- date :: 1997-1-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

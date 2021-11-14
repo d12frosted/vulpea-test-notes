@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       999064a5-54d5-4278-a838-e1243535b10e
+:END:
+#+title: Rue Beo 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Beo
+- vintage :: 1922
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.27
+- sugar :: 11.81
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:8679d741-6cef-49b8-a112-26f66f56be3e][Rue Beo 1922 - 1991-3-2]]

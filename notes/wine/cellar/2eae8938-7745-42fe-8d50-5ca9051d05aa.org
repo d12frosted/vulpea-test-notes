@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2eae8938-7745-42fe-8d50-5ca9051d05aa
+:END:
+#+title: Dseajc Jinm Wgzip Isn 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Wgzip Isn
+- vintage :: 1961
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.61
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

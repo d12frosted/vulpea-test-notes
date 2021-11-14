@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9b0d8d03-c804-411e-b1da-74450e33adcd
+:END:
+#+title: Novr Rlrt Jswsgjw 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jswsgjw
+- vintage :: 1971
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.67
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

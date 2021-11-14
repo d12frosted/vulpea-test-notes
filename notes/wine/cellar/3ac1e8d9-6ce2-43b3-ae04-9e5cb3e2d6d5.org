@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3ac1e8d9-6ce2-43b3-ae04-9e5cb3e2d6d5
+:END:
+#+title: Lzf Icavkv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Icavkv
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 12.48
+- sugar :: 20.36
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

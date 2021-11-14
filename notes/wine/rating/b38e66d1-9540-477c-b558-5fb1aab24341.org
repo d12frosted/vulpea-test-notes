@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b38e66d1-9540-477c-b558-5fb1aab24341
+:END:
+#+title: Cdeexg Hzrdmfps 1929 - 2002-7-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:534f6e88-5ad5-43f4-993d-d60d9cd2b364][Cdeexg Hzrdmfps 1929]]
+- date :: 2002-7-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

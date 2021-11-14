@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       74aa211b-246a-4144-bef5-55b057b1376c
+:END:
+#+title: Cdeexg Ukkkrauz Odalb 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ukkkrauz Odalb
+- vintage :: 1900
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.99
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

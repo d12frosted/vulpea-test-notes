@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       fb80baf6-d383-4a07-a334-4d6a64572526
+:END:
+#+title: Dfsxtmx Xnmlxbv Cfeh 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xnmlxbv Cfeh
+- vintage :: 2009
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.68
+- sugar :: 8.03
+- price :: 78.33 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA

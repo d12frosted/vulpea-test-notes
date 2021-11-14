@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6884a90c-69ec-4603-8e80-dd759aa11abe
+:END:
+#+title: Novr Rlrt Wbli 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wbli
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.620000000000001
+- sugar :: 17.47
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

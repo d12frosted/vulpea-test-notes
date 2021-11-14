@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b6746ed8-b1fb-4904-b32a-95a45bb66804
+:END:
+#+title: Cdeexg Xivdglo Pndbftw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Xivdglo Pndbftw
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.31
+- sugar :: 19.65
+- price :: 92.01 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 6.5
+- ratings :: [[id:22fea3e6-33f4-459a-93e0-08552fc30244][Cdeexg Xivdglo Pndbftw NV - 2004-9-24]]

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       611e8787-0d71-4711-b1f0-5d9166d5aefd
+:END:
+#+title: Cdeexg Cdugfzne Hdpqtrs 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Cdugfzne Hdpqtrs
+- vintage :: 1971
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.79
+- sugar :: 13.6
+- price :: 55.07 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:cfbf31df-fa22-4bbf-a57c-2a2bac83e1c2][Cdeexg Cdugfzne Hdpqtrs 1971 - 2020-8-28]]

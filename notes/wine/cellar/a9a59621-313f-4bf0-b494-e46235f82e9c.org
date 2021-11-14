@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a9a59621-313f-4bf0-b494-e46235f82e9c
+:END:
+#+title: Lzf Mdnkcl Nzjkz 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mdnkcl Nzjkz
+- vintage :: 1956
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.620000000000001
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

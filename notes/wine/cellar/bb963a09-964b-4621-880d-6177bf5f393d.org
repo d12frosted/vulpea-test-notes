@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bb963a09-964b-4621-880d-6177bf5f393d
+:END:
+#+title: Rue Vicorr Nshve 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vicorr Nshve
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.06
+- sugar :: 15.98
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:aa4e23ff-7085-4c74-8eee-aa48f6d04b8a][Rue Vicorr Nshve NV - 2013-4-23]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9ad51fe5-5484-4ca8-9ae7-b2504fa30243
+:END:
+#+title: Njtzvl Earabute Fxmkewe 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Earabute Fxmkewe
+- vintage :: 1916
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.41
+- price :: 43.84 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:e7833e20-69b8-4379-8059-4b38fb820628][Njtzvl Earabute Fxmkewe 1916 - 1993-6-18]]

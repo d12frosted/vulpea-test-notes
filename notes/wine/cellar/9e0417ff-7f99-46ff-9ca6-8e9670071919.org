@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9e0417ff-7f99-46ff-9ca6-8e9670071919
+:END:
+#+title: Cdeexg Dwsph Clfvxvln 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Dwsph Clfvxvln
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.29
+- price :: 91.06 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA

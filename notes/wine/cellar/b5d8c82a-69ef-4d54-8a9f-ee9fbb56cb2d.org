@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b5d8c82a-69ef-4d54-8a9f-ee9fbb56cb2d
+:END:
+#+title: Njtzvl Kfy Ucohz 1906
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kfy Ucohz
+- vintage :: 1906
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 10.58
+- price :: 73.60 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

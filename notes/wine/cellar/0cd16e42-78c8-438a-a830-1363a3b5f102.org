@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0cd16e42-78c8-438a-a830-1363a3b5f102
+:END:
+#+title: Novr Rlrt Ncrgdp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ncrgdp
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.51
+- price :: 62.77 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:f7392d76-ae26-44d1-b309-02ee122c061e][Novr Rlrt Ncrgdp NV - 2020-5-22]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       92cb116e-3b63-4bd1-b362-884ef4ded157
+:END:
+#+title: Mkmt Kiefqqm Kobneg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Kiefqqm Kobneg
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.6
+- price :: 53.96 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:bf948425-3666-456b-8e01-62c000e0adbc][Mkmt Kiefqqm Kobneg NV - 2016-4-6]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8f701093-4d53-4a47-a0ae-29c3d733faf4
+:END:
+#+title: Cdeexg Xazfgoxo Crarfl 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Xazfgoxo Crarfl
+- vintage :: 1928
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.11
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

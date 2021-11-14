@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3d61f547-2455-45bd-bed8-03824f5be7b0
+:END:
+#+title: Dfsxtmx Ymg 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ymg
+- vintage :: 1962
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.47
+- sugar :: 21.34
+- price :: 90.29 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:570f2f38-7f87-40c3-8592-bc844268e7d9][Dfsxtmx Ymg 1962 - 1991-9-25]]

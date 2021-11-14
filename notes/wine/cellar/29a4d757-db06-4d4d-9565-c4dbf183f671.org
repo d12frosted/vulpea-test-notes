@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       29a4d757-db06-4d4d-9565-c4dbf183f671
+:END:
+#+title: Cdeexg Qky Lbndyx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Qky Lbndyx
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.28
+- price :: 40.41 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

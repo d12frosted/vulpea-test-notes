@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b2c829d7-8f6c-4b74-bf40-b9789ca33d3b
+:END:
+#+title: Novr Rlrt Pitl NV - 2013-8-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:154aedad-3b96-45cb-a78c-6cef6398dee4][Novr Rlrt Pitl]]
+- date :: 2013-8-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

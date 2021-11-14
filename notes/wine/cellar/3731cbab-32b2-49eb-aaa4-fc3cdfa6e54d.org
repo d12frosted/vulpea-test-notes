@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3731cbab-32b2-49eb-aaa4-fc3cdfa6e54d
+:END:
+#+title: Njtzvl Tszm Cnhmfzv 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Tszm Cnhmfzv
+- vintage :: 1959
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.25
+- sugar :: 18.77
+- price :: 51.07 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

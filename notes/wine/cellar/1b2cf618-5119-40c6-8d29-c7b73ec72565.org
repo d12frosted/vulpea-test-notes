@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1b2cf618-5119-40c6-8d29-c7b73ec72565
+:END:
+#+title: Rue Vefm Fmlgv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vefm Fmlgv
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.26
+- sugar :: 13.93
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a37f0bd2-4d26-4d2a-98c7-2d376ca53200
+:END:
+#+title: Dseajc Jinm Hoqqzcqs Ecr 1923 - 2017-7-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:10b5e172-8793-4af1-9e85-151db45e84b7][Dseajc Jinm Hoqqzcqs Ecr 1923]]
+- date :: 2017-7-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

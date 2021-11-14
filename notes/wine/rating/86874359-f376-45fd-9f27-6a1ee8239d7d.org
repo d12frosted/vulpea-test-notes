@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       86874359-f376-45fd-9f27-6a1ee8239d7d
+:END:
+#+title: Cdeexg Kcdvblwg NV - 2019-5-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:a414c19d-3e3f-42a1-bfb1-5ac8611b6d61][Cdeexg Kcdvblwg]]
+- date :: 2019-5-22
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 1
+- score_max :: 20
+- total :: 0.5

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6e85d97b-8196-422b-a7f0-8bf6230f9a66
+:END:
+#+title: Lzf Fqghgmw Pdzsrz 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Fqghgmw Pdzsrz
+- vintage :: 1985
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.29
+- sugar :: 1.66
+- price :: 11.70 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.5
+- ratings :: [[id:c9b514b6-97c9-4577-96c5-ae0cf208f5bb][Lzf Fqghgmw Pdzsrz 1985 - 1993-8-23]]

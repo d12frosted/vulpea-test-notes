@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       70f94f65-b7ad-487b-9c24-1b2ca79e19dd
+:END:
+#+title: Dseajc Jinm Tafd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tafd
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.92
+- price :: 52.82 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       339768da-bc28-425d-a9b1-5e9203e275df
+:END:
+#+title: Lzf Lkm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Lkm
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.219999999999999
+- price :: 66.89 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

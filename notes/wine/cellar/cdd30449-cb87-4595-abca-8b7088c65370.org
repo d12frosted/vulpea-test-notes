@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cdd30449-cb87-4595-abca-8b7088c65370
+:END:
+#+title: Dfsxtmx Dkialcin Mhenjz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dkialcin Mhenjz
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.82
+- price :: 97.78 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

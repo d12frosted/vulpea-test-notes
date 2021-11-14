@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       30ae422c-716a-46f4-80e7-6b098bad5761
+:END:
+#+title: Dseajc Jinm Jqlaxr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jqlaxr
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.47
+- sugar :: 9.55
+- price :: 66.97 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:dc541db3-0953-45ed-b712-10dce61ca03e][Dseajc Jinm Jqlaxr NV - 2001-7-25]]

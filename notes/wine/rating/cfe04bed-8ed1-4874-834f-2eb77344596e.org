@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cfe04bed-8ed1-4874-834f-2eb77344596e
+:END:
+#+title: Lzf Jpdmrk Xdhpdez NV - 2002-7-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:23fc19df-aeeb-402a-909c-6efd23ce5995][Lzf Jpdmrk Xdhpdez]]
+- date :: 2002-7-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5

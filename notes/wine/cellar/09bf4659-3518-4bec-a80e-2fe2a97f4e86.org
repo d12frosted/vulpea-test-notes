@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       09bf4659-3518-4bec-a80e-2fe2a97f4e86
+:END:
+#+title: Vjjtw Hvrja Rlgdei 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Rlgdei
+- vintage :: 1979
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.82
+- sugar :: 16.61
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:531bf8ac-f5f5-417a-9a1c-2d6d62c6c1e1][Vjjtw Hvrja Rlgdei 1979 - 1996-5-19]]

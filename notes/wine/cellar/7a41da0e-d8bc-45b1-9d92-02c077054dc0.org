@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7a41da0e-d8bc-45b1-9d92-02c077054dc0
+:END:
+#+title: Cdeexg Cimryrqu Lkd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Cimryrqu Lkd
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.65
+- sugar :: 21.02
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

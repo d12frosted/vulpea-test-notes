@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8ce7b997-1aad-43da-b023-171b94370798
+:END:
+#+title: Lzf Jeyw Kpthlz 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jeyw Kpthlz
+- vintage :: 1995
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 9.85
+- sugar :: 4.5
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

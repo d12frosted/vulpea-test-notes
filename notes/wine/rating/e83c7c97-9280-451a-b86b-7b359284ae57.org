@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e83c7c97-9280-451a-b86b-7b359284ae57
+:END:
+#+title: Rue Cuefla 2018 - 2007-1-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:295d4799-0415-4be4-985f-5a7d1c37344a][Rue Cuefla 2018]]
+- date :: 2007-1-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

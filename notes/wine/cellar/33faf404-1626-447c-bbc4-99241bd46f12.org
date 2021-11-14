@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       33faf404-1626-447c-bbc4-99241bd46f12
+:END:
+#+title: Cdeexg Zzfmk Mfitgm 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Zzfmk Mfitgm
+- vintage :: 1955
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.84
+- sugar :: 1.93
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

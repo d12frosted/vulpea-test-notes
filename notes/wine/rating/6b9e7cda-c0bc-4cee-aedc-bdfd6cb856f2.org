@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6b9e7cda-c0bc-4cee-aedc-bdfd6cb856f2
+:END:
+#+title: Njtzvl Qkxxgh Osk 1949 - 2017-8-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:26a97dda-d713-40c1-b3d4-2c45bf357e7e][Njtzvl Qkxxgh Osk 1949]]
+- date :: 2017-8-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

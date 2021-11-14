@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e75ed278-d945-4ee2-b9b9-37850305dff0
+:END:
+#+title: Lzf Yymbgi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Yymbgi
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.47
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

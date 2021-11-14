@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b95efe2b-ea02-486a-96c3-d08aa2de9ef2
+:END:
+#+title: Njtzvl Dvfdvhnw 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Dvfdvhnw
+- vintage :: 1941
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.6
+- sugar :: 2.0
+- price :: 47.53 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 2.5
+- ratings :: [[id:4f49ed82-1cae-42d9-b5a1-ef2efdf97f04][Njtzvl Dvfdvhnw 1941 - 2001-3-21]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1907f3ed-8a9c-427f-a125-f93ab5ab5e91
+:END:
+#+title: Vjjtw Hvrja Aqdy 1936 - 1996-7-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:f3e067ce-f0cb-45c9-9714-47249cb61861][Vjjtw Hvrja Aqdy 1936]]
+- date :: 1996-7-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       52308a47-b005-4f0b-b580-d497f2f7e587
+:END:
+#+title: Lzf Wjmkwrp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Wjmkwrp
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.27
+- sugar :: 16.76
+- price :: 62.76 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

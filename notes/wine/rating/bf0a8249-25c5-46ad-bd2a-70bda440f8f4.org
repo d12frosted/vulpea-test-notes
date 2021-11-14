@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bf0a8249-25c5-46ad-bd2a-70bda440f8f4
+:END:
+#+title: Novr Rlrt Lqmf Dtwapai NV - 2002-11-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:4f164563-4d2a-439a-b011-3520bad83730][Novr Rlrt Lqmf Dtwapai]]
+- date :: 2002-11-28
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c10cf7e3-6260-4224-a0ff-8dd2bd1f4b32
+:END:
+#+title: Novr Rlrt Vqsrqhsd 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vqsrqhsd
+- vintage :: 2007
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.45
+- sugar :: 2.4
+- price :: 43.95 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 1.5
+- ratings :: [[id:3a0e1c2c-4363-4771-bd8f-dfd01be5bdcc][Novr Rlrt Vqsrqhsd 2007 - 1993-4-19]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e307a27d-501c-4690-a680-16f7d12aff5a
+:END:
+#+title: Miv Mqhzqy 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mqhzqy
+- vintage :: 2018
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.42
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

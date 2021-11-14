@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       65cdfc76-8755-4654-a589-4f3d9933fed2
+:END:
+#+title: Dseajc Jinm Uefxrwds 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Uefxrwds
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.66
+- sugar :: 12.81
+- price :: 45.78 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

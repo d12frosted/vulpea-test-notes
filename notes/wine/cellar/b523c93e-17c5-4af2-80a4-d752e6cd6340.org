@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b523c93e-17c5-4af2-80a4-d752e6cd6340
+:END:
+#+title: Rue Lfvgp Twq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Lfvgp Twq
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 13.2
+- price :: 78.37 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:75554376-9cb6-4d25-852d-979ba15751e0][Rue Lfvgp Twq NV - 2017-9-27]]

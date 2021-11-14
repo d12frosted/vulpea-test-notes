@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e06fbf37-8686-4e2a-98c5-f58e98996f6b
+:END:
+#+title: Novr Rlrt Npixcpvb Zmzywlx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Npixcpvb Zmzywlx
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.32
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 7.0
+- ratings :: [[id:44b9524b-2d90-430d-921c-1274d6a6f328][Novr Rlrt Npixcpvb Zmzywlx NV - 1995-12-19]]

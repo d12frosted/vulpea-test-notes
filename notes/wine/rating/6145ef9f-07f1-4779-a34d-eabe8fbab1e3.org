@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6145ef9f-07f1-4779-a34d-eabe8fbab1e3
+:END:
+#+title: Mkmt Fxtrjkyr Ldiokot NV - 2016-6-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:5442e136-3db3-405a-beb2-02af45e81da8][Mkmt Fxtrjkyr Ldiokot]]
+- date :: 2016-6-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

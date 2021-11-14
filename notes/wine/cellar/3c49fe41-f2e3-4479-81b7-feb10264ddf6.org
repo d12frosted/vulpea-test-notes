@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3c49fe41-f2e3-4479-81b7-feb10264ddf6
+:END:
+#+title: Rue Uexvv Xsqvqku 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Uexvv Xsqvqku
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.99
+- sugar :: 11.14
+- price :: 34.18 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

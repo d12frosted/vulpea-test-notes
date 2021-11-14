@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       80f348db-38c5-4f12-8b3b-deac87e5f55a
+:END:
+#+title: Dfsxtmx Vis 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vis
+- vintage :: 1926
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.29
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 6.5
+- ratings :: [[id:7a0aebf9-30c6-41f1-a40f-06af3310113e][Dfsxtmx Vis 1926 - 2018-10-27]]

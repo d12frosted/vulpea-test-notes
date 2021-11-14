@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d71140cc-68ca-4c0c-978b-ba72bcb7ff07
+:END:
+#+title: Mkmt Sqbsn Hqhqbc 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Sqbsn Hqhqbc
+- vintage :: 1955
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.31
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       44079ca2-78ec-4a89-861b-0d509f434025
+:END:
+#+title: Vjjtw Hvrja Vwsdx 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vwsdx
+- vintage :: 1923
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.04
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

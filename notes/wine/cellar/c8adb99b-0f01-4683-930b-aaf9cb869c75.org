@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c8adb99b-0f01-4683-930b-aaf9cb869c75
+:END:
+#+title: Vjjtw Hvrja Msppod 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Msppod
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 9.2
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 7.0
+- ratings :: [[id:bec6bb67-3571-439f-bf3b-6f93b5ddc85b][Vjjtw Hvrja Msppod NV - 2019-9-13]]

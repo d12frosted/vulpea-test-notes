@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       32f736c1-2217-46ee-8f49-cd5998ed963a
+:END:
+#+title: Novr Rlrt Ashhlk Dhlvq 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ashhlk Dhlvq
+- vintage :: 1908
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.22
+- price :: 29.65 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:11097554-ac4e-4b7d-a245-9c774b3dbf54][Novr Rlrt Ashhlk Dhlvq 1908 - 2018-1-23]]

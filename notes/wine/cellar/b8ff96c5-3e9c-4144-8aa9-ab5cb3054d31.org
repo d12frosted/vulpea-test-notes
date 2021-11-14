@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b8ff96c5-3e9c-4144-8aa9-ab5cb3054d31
+:END:
+#+title: Lzf Jom 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jom
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.68
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 3.0
+- ratings :: [[id:59adb2ca-ff28-4412-9651-06f8fdc5207a][Lzf Jom NV - 1999-10-25]]

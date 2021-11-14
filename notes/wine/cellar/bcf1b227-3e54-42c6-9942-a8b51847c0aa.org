@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       bcf1b227-3e54-42c6-9942-a8b51847c0aa
+:END:
+#+title: Miv Cpmeryg Huqmddk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Cpmeryg Huqmddk
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.93
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

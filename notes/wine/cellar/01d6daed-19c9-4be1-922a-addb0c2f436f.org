@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       01d6daed-19c9-4be1-922a-addb0c2f436f
+:END:
+#+title: Mkmt Xjtnft Olciemn 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Xjtnft Olciemn
+- vintage :: 1941
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.2
+- price :: 76.14 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

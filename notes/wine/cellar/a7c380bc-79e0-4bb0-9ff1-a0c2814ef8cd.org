@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a7c380bc-79e0-4bb0-9ff1-a0c2814ef8cd
+:END:
+#+title: Mkmt Rvc Yvd 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Rvc Yvd
+- vintage :: 1901
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 9.71
+- sugar :: 0.69
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 2.5
+- ratings :: [[id:f1026e35-3be9-409a-a6d2-8e70ae8ea8fc][Mkmt Rvc Yvd 1901 - 1990-3-15]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       aff6c5db-a993-4914-8376-17c9e989d41e
+:END:
+#+title: Dseajc Jinm Vvdx Dcjnd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vvdx Dcjnd
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.93
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 2.0
+- ratings :: [[id:365dc481-d0e1-43b1-852a-b4a9e9afd4b5][Dseajc Jinm Vvdx Dcjnd NV - 2006-8-26]]

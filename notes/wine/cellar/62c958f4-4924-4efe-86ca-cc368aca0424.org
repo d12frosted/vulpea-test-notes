@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       62c958f4-4924-4efe-86ca-cc368aca0424
+:END:
+#+title: Cdeexg Ttuaw Kmcd 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ttuaw Kmcd
+- vintage :: 1932
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 9.93
+- sugar :: 15.62
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

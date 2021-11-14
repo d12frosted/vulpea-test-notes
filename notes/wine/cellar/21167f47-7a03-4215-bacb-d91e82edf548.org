@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       21167f47-7a03-4215-bacb-d91e82edf548
+:END:
+#+title: Rue Dpyk Iyvcodb 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Dpyk Iyvcodb
+- vintage :: 2006
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.7
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:432a3e46-687b-4334-8d38-a82d7fd8eec9][Rue Dpyk Iyvcodb 2006 - 1993-2-15]]

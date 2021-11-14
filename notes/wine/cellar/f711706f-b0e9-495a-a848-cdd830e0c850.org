@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f711706f-b0e9-495a-a848-cdd830e0c850
+:END:
+#+title: Dseajc Jinm Fbrjfwrt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Fbrjfwrt
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.92
+- sugar :: 1.88
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.0
+- ratings :: [[id:5affc698-5bf1-4a9a-a013-56c8f256acac][Dseajc Jinm Fbrjfwrt NV - 1992-1-18]]

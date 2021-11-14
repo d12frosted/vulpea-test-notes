@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c273098e-b4fd-4530-a2d3-cf154da806c7
+:END:
+#+title: Njtzvl Tacfoa Uvmjodrr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Tacfoa Uvmjodrr
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.96
+- sugar :: 15.98
+- price :: 70.55 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

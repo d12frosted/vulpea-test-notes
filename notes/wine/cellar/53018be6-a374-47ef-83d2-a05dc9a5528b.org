@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       53018be6-a374-47ef-83d2-a05dc9a5528b
+:END:
+#+title: Dseajc Jinm Lpitpl Otgnp 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lpitpl Otgnp
+- vintage :: 2000
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.870000000000001
+- sugar :: 1.93
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

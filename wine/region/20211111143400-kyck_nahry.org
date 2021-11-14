@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       90078ef5-0e2e-47a7-a368-bb3a1983fe30
-:END:
-#+title: Kyck Nahry
-#+filetags: :wine:region:
-
-

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       12286679-a10a-48de-8edd-4661e1bb1f93
+:END:
+#+title: Vjjtw Hvrja Nwc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Nwc
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 12.52
+- sugar :: 21.08
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.5
+- ratings :: [[id:e484e403-5d06-473e-81b9-ddaa71343405][Vjjtw Hvrja Nwc NV - 2002-1-17]]

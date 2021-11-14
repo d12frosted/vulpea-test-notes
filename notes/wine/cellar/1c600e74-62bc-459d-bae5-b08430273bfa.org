@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1c600e74-62bc-459d-bae5-b08430273bfa
+:END:
+#+title: Miv Lhth Bcut 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Lhth Bcut
+- vintage :: 1962
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.41
+- price :: 89.15 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

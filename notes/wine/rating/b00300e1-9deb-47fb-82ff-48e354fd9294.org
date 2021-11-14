@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b00300e1-9deb-47fb-82ff-48e354fd9294
+:END:
+#+title: Miv Cgtnxe 1956 - 1996-9-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:dca1537f-7dda-4730-962f-316ee6edb0f5][Miv Cgtnxe 1956]]
+- date :: 1996-9-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

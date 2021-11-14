@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       13cff780-b24d-4195-b7bd-679b162817b1
+:END:
+#+title: Rue Lbtitvo 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Lbtitvo
+- vintage :: 1987
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.58
+- sugar :: 14.04
+- price :: 42.76 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

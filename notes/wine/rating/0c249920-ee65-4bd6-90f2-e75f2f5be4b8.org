@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0c249920-ee65-4bd6-90f2-e75f2f5be4b8
+:END:
+#+title: Dfsxtmx Hhtxtfzf NV - 2008-5-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:ef2ee9d6-8f0c-42d0-90b2-8b9a7229329a][Dfsxtmx Hhtxtfzf]]
+- date :: 2008-5-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

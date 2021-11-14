@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bd407819-f6eb-4347-81e3-38031f4b2388
+:END:
+#+title: Njtzvl Izx Gfqkdqr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Izx Gfqkdqr
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.68
+- price :: 23.90 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

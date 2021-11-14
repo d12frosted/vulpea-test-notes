@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8107d8f9-b4e9-46df-aaac-58f2b67a51b7
+:END:
+#+title: Cdeexg Eeohmrww Zbdvhoyp NV - 2009-6-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:1e746765-2bf6-4bb4-aa0d-f02be3aad608][Cdeexg Eeohmrww Zbdvhoyp]]
+- date :: 2009-6-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

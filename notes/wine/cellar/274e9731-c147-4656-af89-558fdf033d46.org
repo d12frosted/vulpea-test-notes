@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       274e9731-c147-4656-af89-558fdf033d46
+:END:
+#+title: Njtzvl Bfuizi Gfmy 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Bfuizi Gfmy
+- vintage :: 1978
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.6
+- sugar :: 4.29
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

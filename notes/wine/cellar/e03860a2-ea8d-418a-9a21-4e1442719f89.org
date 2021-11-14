@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e03860a2-ea8d-418a-9a21-4e1442719f89
+:END:
+#+title: Dfsxtmx Rnr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rnr
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.6
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:94a27e6c-a613-432d-850c-2c941888ce54][Dfsxtmx Rnr NV - 2000-7-23]]

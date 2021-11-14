@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       886886d9-8966-48c9-9cd0-e9219fb5a052
+:END:
+#+title: Njtzvl Qdvplmse Kdcaf 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Qdvplmse Kdcaf
+- vintage :: 1961
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.67
+- sugar :: 15.84
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:89c6b21d-c532-4d04-abcb-fc4af19bae48][Njtzvl Qdvplmse Kdcaf 1961 - 2019-9-28]]

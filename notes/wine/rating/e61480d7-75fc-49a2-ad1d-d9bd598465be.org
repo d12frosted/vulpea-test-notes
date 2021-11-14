@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e61480d7-75fc-49a2-ad1d-d9bd598465be
+:END:
+#+title: Miv Yzxjtva Nagsa 1934 - 1990-6-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:93474a8a-1cf1-44f4-88d7-42974570bc46][Miv Yzxjtva Nagsa 1934]]
+- date :: 1990-6-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

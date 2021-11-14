@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7bdfa184-540f-453b-92b8-3b6819bb6be2
+:END:
+#+title: Rue Muodydr 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Muodydr
+- vintage :: 1929
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.45
+- sugar :: 14.4
+- price :: 76.57 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

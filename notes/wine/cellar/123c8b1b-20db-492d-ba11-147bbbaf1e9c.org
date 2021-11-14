@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       123c8b1b-20db-492d-ba11-147bbbaf1e9c
+:END:
+#+title: Rue Dnvbiwg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Dnvbiwg
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 12.49
+- price :: 96.41 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:edd24d39-1a9b-4fca-95a0-4fe705b22447][Rue Dnvbiwg NV - 2021-4-15]]

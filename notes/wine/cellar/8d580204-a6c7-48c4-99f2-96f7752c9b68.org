@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8d580204-a6c7-48c4-99f2-96f7752c9b68
+:END:
+#+title: Dfsxtmx Glkmmd 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Glkmmd
+- vintage :: 1938
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.71
+- sugar :: 6.84
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

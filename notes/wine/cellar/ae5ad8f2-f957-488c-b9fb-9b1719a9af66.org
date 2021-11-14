@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ae5ad8f2-f957-488c-b9fb-9b1719a9af66
+:END:
+#+title: Mkmt Fqxxpa 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fqxxpa
+- vintage :: 2018
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 13.219999999999999
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

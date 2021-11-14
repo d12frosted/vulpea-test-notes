@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2949cc4f-abdf-4b8a-bac8-30130f2cb2c3
+:END:
+#+title: Lzf Xyvflrpx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Xyvflrpx
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.9
+- sugar :: 2.14
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:b03afb75-d7b4-4841-b5b2-c47bcee21828][Lzf Xyvflrpx NV - 2018-11-1]]

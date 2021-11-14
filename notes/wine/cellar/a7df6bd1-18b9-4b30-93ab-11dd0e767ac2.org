@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a7df6bd1-18b9-4b30-93ab-11dd0e767ac2
+:END:
+#+title: Dseajc Jinm Gbaciunr Phgsbw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gbaciunr Phgsbw
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 10.51
+- sugar :: 1.47
+- price :: 83.04 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

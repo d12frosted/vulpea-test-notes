@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d3e47fe1-4597-49ae-a636-dc45552f753e
+:END:
+#+title: Novr Rlrt Nkehkxkr NV - 2002-10-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:a240324c-8cb5-4477-8090-e091fd775430][Novr Rlrt Nkehkxkr]]
+- date :: 2002-10-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

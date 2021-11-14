@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       eec72349-258f-4bec-9977-5ed29fd473f9
+:END:
+#+title: Novr Rlrt Jmw Epkzubbr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jmw Epkzubbr
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.09
+- sugar :: 16.96
+- price :: 58.12 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

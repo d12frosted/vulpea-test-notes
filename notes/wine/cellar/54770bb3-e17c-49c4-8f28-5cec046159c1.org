@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       54770bb3-e17c-49c4-8f28-5cec046159c1
+:END:
+#+title: Dseajc Jinm Kcki 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Kcki
+- vintage :: 1919
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 12.21
+- sugar :: 16.44
+- price :: 75.41 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:ca20ddfa-d4e5-4617-8b39-fcd09549cb9b][Dseajc Jinm Kcki 1919 - 1990-8-26]]

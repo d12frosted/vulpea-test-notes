@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       25b73422-2bfa-4f21-b236-dcb8367ad591
+:END:
+#+title: Vjjtw Hvrja Tokhlv Llxfvsw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Tokhlv Llxfvsw
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.72
+- price :: 39.92 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5eac44a7-eae8-4a1d-99b8-3c03f8058eda
+:END:
+#+title: Vjjtw Hvrja Vbxqlyt Uuw NV - 2021-10-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:ae593f3f-b8ce-4ba6-866e-e322cb5ae64f][Vjjtw Hvrja Vbxqlyt Uuw]]
+- date :: 2021-10-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f709f1fb-660c-4e4c-b7e4-08a4db5990f1
+:END:
+#+title: Miv Sesizc Ooa 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sesizc Ooa
+- vintage :: 1926
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.48
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

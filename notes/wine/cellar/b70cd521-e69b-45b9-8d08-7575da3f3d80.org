@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b70cd521-e69b-45b9-8d08-7575da3f3d80
+:END:
+#+title: Dfsxtmx Ithbu 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ithbu
+- vintage :: 1920
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.29
+- sugar :: 19.88
+- price :: 46.91 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

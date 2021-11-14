@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f9bfbfb2-a920-4e35-895e-d9a8f9c00388
+:END:
+#+title: Mkmt Paexjg 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Paexjg
+- vintage :: 1979
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 12.25
+- sugar :: 3.48
+- price :: 81.50 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

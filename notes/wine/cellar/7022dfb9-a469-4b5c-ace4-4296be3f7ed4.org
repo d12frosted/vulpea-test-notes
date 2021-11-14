@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7022dfb9-a469-4b5c-ace4-4296be3f7ed4
+:END:
+#+title: Vjjtw Hvrja Fae Sirmb 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Fae Sirmb
+- vintage :: 1934
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.43
+- sugar :: 20.51
+- price :: 35.94 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

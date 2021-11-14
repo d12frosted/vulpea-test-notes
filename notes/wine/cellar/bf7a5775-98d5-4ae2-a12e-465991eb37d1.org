@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bf7a5775-98d5-4ae2-a12e-465991eb37d1
+:END:
+#+title: Mkmt Dgtb Ncxbjv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Dgtb Ncxbjv
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.14
+- price :: 15.37 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:ec2241fc-04bb-43a7-9921-14f77beb74e6][Mkmt Dgtb Ncxbjv NV - 1993-7-14]]

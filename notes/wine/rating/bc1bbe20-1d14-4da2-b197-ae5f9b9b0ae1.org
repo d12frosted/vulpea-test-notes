@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bc1bbe20-1d14-4da2-b197-ae5f9b9b0ae1
+:END:
+#+title: Vjjtw Hvrja Mupgqnbk NV - 2020-5-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:7890f950-4053-489a-b001-36eac2838793][Vjjtw Hvrja Mupgqnbk]]
+- date :: 2020-5-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

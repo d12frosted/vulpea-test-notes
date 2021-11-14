@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ba10c667-9f74-4dd6-8264-dc70291e2b66
+:END:
+#+title: Novr Rlrt Muiigoip 1971 - 2023-1-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:0c43bf30-ac27-458a-8a68-b17104fe6cfd][Novr Rlrt Muiigoip 1971]]
+- date :: 2023-1-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

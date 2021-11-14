@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1064da8e-766f-4829-a6c5-ad0aaccae6f3
+:END:
+#+title: Njtzvl Zrj 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zrj
+- vintage :: 1974
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.82
+- price :: 68.25 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:32e94ebc-0c70-47cc-a9f6-99db6b29de67][Njtzvl Zrj 1974 - 2016-1-22]]

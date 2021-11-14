@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       61e495ec-4f6f-48d4-920d-3b4282aae967
+:END:
+#+title: Rue Liqkzppm Shvlkais 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Liqkzppm Shvlkais
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.15
+- price :: 17.17 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 4.0
+- ratings :: [[id:f9328e39-915a-43bb-b8e6-aabe0811a5a8][Rue Liqkzppm Shvlkais NV - 2011-9-8]]

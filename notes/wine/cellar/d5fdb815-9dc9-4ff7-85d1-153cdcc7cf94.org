@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d5fdb815-9dc9-4ff7-85d1-153cdcc7cf94
+:END:
+#+title: Rue Iefgmc Aohp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Iefgmc Aohp
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.76
+- sugar :: 8.48
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       80f0d807-0c0c-4cac-af5d-3867ab7bea3c
+:END:
+#+title: Dfsxtmx Mwgfqf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mwgfqf
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.2
+- sugar :: 0.59
+- price :: 99.88 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

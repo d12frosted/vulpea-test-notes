@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       35b1c660-3c1f-4a2c-bc18-6f0ec61383ba
+:END:
+#+title: Cdeexg Pngll 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Pngll
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.69
+- price :: 76.27 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:e0d14121-a564-40e1-a63c-13e7f9477123][Cdeexg Pngll NV - 1997-5-21]]

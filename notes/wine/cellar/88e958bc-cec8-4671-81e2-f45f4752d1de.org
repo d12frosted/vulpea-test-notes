@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       88e958bc-cec8-4671-81e2-f45f4752d1de
+:END:
+#+title: Vjjtw Hvrja Yegmpner 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Yegmpner
+- vintage :: 1927
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.32
+- sugar :: 15.24
+- price :: 19.40 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

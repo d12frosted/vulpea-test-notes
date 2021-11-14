@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       42817737-5bb4-4068-b534-5ccecdd5cfe8
+:END:
+#+title: Dfsxtmx Hhzfjfow 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Hhzfjfow
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 9.39
+- sugar :: 0.92
+- price :: 72.30 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: wikipedia
+- rating :: 8.5
+- ratings :: [[id:261f424d-b122-464f-97dc-f718bcf13ffc][Dfsxtmx Hhzfjfow NV - 2024-1-8]]

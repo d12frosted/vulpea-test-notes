@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       d901a88d-a8f4-42bb-8f0c-82c7c96c1b85
+:END:
+#+title: Dseajc Jinm Nfnn Mjdy 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Nfnn Mjdy
+- vintage :: 2005
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.25
+- sugar :: 22.54
+- price :: 75.26 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.5
+- ratings :: [[id:280d992f-8a74-4a31-89a0-45cfab2d88ef][Dseajc Jinm Nfnn Mjdy 2005 - 2001-7-28]]

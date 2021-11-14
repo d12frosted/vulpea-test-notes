@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fa059ac9-0a48-4012-b835-a9a01cfeb787
+:END:
+#+title: Vjjtw Hvrja Idyx Tvokhcqx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Idyx Tvokhcqx
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.25
+- sugar :: 18.71
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

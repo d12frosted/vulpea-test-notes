@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6560e9d9-44fb-4cd7-9461-2cae85b87195
+:END:
+#+title: Rue Wuxv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Wuxv
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 9.46
+- sugar :: 18.61
+- price :: 8.17 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

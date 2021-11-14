@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0e4b39de-72c3-4ae1-92bc-bb6e74e90de3
+:END:
+#+title: Dseajc Jinm Wwleqx Eund 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Wwleqx Eund
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.52
+- price :: 6.98 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

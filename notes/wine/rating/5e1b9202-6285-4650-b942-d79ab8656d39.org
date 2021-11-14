@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5e1b9202-6285-4650-b942-d79ab8656d39
+:END:
+#+title: Miv Mfj Awfttbwn 2014 - 2016-10-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:a00775d9-dcfc-427b-8665-064204226687][Miv Mfj Awfttbwn 2014]]
+- date :: 2016-10-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

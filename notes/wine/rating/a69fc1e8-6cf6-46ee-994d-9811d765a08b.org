@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a69fc1e8-6cf6-46ee-994d-9811d765a08b
+:END:
+#+title: Njtzvl Vwpyzqo Kndkhm 1956 - 2010-12-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:07cbea78-e569-49f1-a30b-aa614d5c4d86][Njtzvl Vwpyzqo Kndkhm 1956]]
+- date :: 2010-12-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

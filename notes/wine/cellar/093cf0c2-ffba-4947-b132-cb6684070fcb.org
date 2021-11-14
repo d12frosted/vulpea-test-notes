@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       093cf0c2-ffba-4947-b132-cb6684070fcb
+:END:
+#+title: Dseajc Jinm Zieojclm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zieojclm
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.65
+- price :: 87.33 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

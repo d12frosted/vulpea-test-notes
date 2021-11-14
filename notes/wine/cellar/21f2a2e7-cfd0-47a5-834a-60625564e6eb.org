@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       21f2a2e7-cfd0-47a5-834a-60625564e6eb
+:END:
+#+title: Vjjtw Hvrja Ezzb Kmavja 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ezzb Kmavja
+- vintage :: 1997
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.2
+- sugar :: 11.78
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

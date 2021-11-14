@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0e4686f4-7e58-4d94-aeae-43e37a30a09f
+:END:
+#+title: Novr Rlrt Odarm Agqim 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Odarm Agqim
+- vintage :: 1996
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.33
+- price :: 96.49 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA

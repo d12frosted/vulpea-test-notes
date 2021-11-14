@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cd7f3ab4-62cc-4c92-96f3-830e0f954a13
+:END:
+#+title: Rue Phekqar NV - 1991-10-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:e2df30cf-e9d4-4e0c-87e9-6e754ff22347][Rue Phekqar]]
+- date :: 1991-10-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

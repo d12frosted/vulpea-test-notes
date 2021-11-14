@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8e5cc2d0-6649-458b-af08-d8858aaa80e0
+:END:
+#+title: Njtzvl Wnhdtner Mgleh 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Wnhdtner Mgleh
+- vintage :: 2011
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.08
+- sugar :: 12.78
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

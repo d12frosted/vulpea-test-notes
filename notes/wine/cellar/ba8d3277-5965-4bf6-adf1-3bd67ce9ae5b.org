@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ba8d3277-5965-4bf6-adf1-3bd67ce9ae5b
+:END:
+#+title: Njtzvl Pql Duwdjjy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Pql Duwdjjy
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.41
+- sugar :: 1.36
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

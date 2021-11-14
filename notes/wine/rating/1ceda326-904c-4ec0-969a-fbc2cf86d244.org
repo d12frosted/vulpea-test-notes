@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1ceda326-904c-4ec0-969a-fbc2cf86d244
+:END:
+#+title: Novr Rlrt Rougujt 2018 - 2000-7-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:8d0a7b85-ac73-45f7-9e81-8e45d5196b46][Novr Rlrt Rougujt 2018]]
+- date :: 2000-7-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

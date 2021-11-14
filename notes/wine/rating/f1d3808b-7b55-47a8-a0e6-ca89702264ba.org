@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f1d3808b-7b55-47a8-a0e6-ca89702264ba
+:END:
+#+title: Lzf Lnemmt Wqhgkr 1975 - 2014-9-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:fb5d80d2-d4e1-4ba8-ae60-4ad4054acea6][Lzf Lnemmt Wqhgkr 1975]]
+- date :: 2014-9-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

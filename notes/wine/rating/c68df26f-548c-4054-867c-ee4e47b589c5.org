@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c68df26f-548c-4054-867c-ee4e47b589c5
+:END:
+#+title: Njtzvl Yuomsoin 1965 - 2022-11-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:d17ff76e-30ad-4ef9-9424-c0ba6acfc19a][Njtzvl Yuomsoin 1965]]
+- date :: 2022-11-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

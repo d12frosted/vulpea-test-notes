@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e25dd430-98e4-40ba-8169-0a0318243a5b
+:END:
+#+title: Dseajc Jinm Gfspqwcq 1906
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gfspqwcq
+- vintage :: 1906
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.14
+- price :: 79.30 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

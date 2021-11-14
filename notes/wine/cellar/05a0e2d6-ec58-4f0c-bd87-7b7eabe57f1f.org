@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       05a0e2d6-ec58-4f0c-bd87-7b7eabe57f1f
+:END:
+#+title: Dfsxtmx Nqbwmd Vjqkk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nqbwmd Vjqkk
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.72
+- sugar :: 8.46
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 6.5
+- ratings :: [[id:6c8dc241-9ae9-411e-9365-b00905821641][Dfsxtmx Nqbwmd Vjqkk NV - 1993-2-21]]

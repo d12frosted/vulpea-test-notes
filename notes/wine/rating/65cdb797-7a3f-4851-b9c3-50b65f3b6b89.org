@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       65cdb797-7a3f-4851-b9c3-50b65f3b6b89
+:END:
+#+title: Lzf Sxnp Gxzj NV - 1990-10-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:183137ee-ace5-4bac-bc88-65b1d6ec7234][Lzf Sxnp Gxzj]]
+- date :: 1990-10-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

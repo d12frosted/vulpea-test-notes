@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a2b5651e-6be3-41ba-83dd-a0a4b15e781c
+:END:
+#+title: Dfsxtmx Xgsutly 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xgsutly
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.77
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:2063c3af-85b6-4da3-b948-e258672413c7][Dfsxtmx Xgsutly NV - 2012-10-15]]

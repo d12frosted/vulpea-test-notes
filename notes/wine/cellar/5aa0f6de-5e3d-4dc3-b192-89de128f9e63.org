@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5aa0f6de-5e3d-4dc3-b192-89de128f9e63
+:END:
+#+title: Njtzvl Qvchm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Qvchm
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.99
+- sugar :: 5.97
+- price :: 60.30 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

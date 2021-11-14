@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f49a6173-343b-46de-959f-d41e090f729e
+:END:
+#+title: Vjjtw Hvrja Mdjvs Uyjxkwt 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mdjvs Uyjxkwt
+- vintage :: 1995
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.06
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:9fcc8170-3473-475b-b616-0bd731088304][Vjjtw Hvrja Mdjvs Uyjxkwt 1995 - 2008-10-21]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       15d99394-22d7-4c79-8138-df000fce89f2
+:END:
+#+title: Mkmt Pun 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Pun
+- vintage :: 1942
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.57
+- sugar :: 8.93
+- price :: 95.64 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

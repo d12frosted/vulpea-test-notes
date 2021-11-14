@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9f8500cc-e6ee-4cd5-953a-c05127a1a9d9
+:END:
+#+title: Mkmt Yjovbbr Hucvfq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Yjovbbr Hucvfq
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.42
+- sugar :: 3.39
+- price :: 19.15 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:32c0a381-d14c-4062-960e-b9609b76e2d9][Mkmt Yjovbbr Hucvfq NV - 2021-8-6]]

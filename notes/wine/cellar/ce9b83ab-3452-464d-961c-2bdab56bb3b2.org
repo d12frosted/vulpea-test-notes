@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ce9b83ab-3452-464d-961c-2bdab56bb3b2
+:END:
+#+title: Novr Rlrt Tazdjj Sqebzx 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tazdjj Sqebzx
+- vintage :: 1931
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.83
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:3d3777a0-c661-4b70-8b2c-c3e9d537715f][Novr Rlrt Tazdjj Sqebzx 1931 - 2021-2-23]]

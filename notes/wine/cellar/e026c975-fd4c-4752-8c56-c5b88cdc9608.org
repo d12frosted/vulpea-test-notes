@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e026c975-fd4c-4752-8c56-c5b88cdc9608
+:END:
+#+title: Dfsxtmx Gadmgkne 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gadmgkne
+- vintage :: 1979
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.91
+- sugar :: 1.08
+- price :: 96.40 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 8.5
+- ratings :: [[id:c8dbeb4b-dd90-4bba-ae7b-eae12afa1855][Dfsxtmx Gadmgkne 1979 - 2001-6-23]]

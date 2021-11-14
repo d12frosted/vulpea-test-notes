@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       81078c7a-b328-41e1-8926-ff6a9bc778b6
+:END:
+#+title: Mkmt Qgluz Jnl NV - 1993-9-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:4791422e-fd0f-4a97-9903-f206878fe8f9][Mkmt Qgluz Jnl]]
+- date :: 1993-9-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

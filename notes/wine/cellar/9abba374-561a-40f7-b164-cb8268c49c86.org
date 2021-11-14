@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9abba374-561a-40f7-b164-cb8268c49c86
+:END:
+#+title: Dseajc Jinm Zhkvig Soryll 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zhkvig Soryll
+- vintage :: 1990
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.27
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

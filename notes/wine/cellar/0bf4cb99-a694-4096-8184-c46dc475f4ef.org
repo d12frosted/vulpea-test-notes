@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0bf4cb99-a694-4096-8184-c46dc475f4ef
+:END:
+#+title: Rue Bxfb 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Bxfb
+- vintage :: 1965
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.55
+- price :: 33.46 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 7.5
+- ratings :: [[id:c0f94b7d-9a51-4f86-8ec2-8665f3e166f3][Rue Bxfb 1965 - 2007-3-12]]

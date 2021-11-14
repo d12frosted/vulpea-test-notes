@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       879731a8-a775-45b5-b7da-c506448395ca
+:END:
+#+title: Rue Hkreupg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hkreupg
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.58
+- price :: 27.41 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

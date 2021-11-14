@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       daff8903-698a-4c18-b137-057e8a62f69f
+:END:
+#+title: Dseajc Jinm Jixvx Eoica 1903 - 2021-2-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:c9cd55dd-6052-41cd-a4cc-00e1fccc1618][Dseajc Jinm Jixvx Eoica 1903]]
+- date :: 2021-2-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

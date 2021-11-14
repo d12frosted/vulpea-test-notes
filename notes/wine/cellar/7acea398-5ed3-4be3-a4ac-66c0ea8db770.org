@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7acea398-5ed3-4be3-a4ac-66c0ea8db770
+:END:
+#+title: Rue Qpqk Asodkw 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qpqk Asodkw
+- vintage :: 1958
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.91
+- sugar :: 12.21
+- price :: 55.64 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

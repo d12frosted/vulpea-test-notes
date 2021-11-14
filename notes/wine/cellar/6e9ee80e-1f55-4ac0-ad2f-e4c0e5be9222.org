@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6e9ee80e-1f55-4ac0-ad2f-e4c0e5be9222
+:END:
+#+title: Miv Yiegz 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Yiegz
+- vintage :: 1948
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.9
+- sugar :: 18.05
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

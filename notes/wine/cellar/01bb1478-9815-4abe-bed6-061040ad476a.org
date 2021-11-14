@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       01bb1478-9815-4abe-bed6-061040ad476a
+:END:
+#+title: Lzf Ppncqjl Yjtgcof 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ppncqjl Yjtgcof
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 12.07
+- price :: 70.03 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

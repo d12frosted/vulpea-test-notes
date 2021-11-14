@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9457f632-9b2f-42a6-ab0e-018686aeae46
+:END:
+#+title: Mkmt Hvp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Hvp
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.59
+- price :: 67.61 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

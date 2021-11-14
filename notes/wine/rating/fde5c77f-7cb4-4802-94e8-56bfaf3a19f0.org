@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fde5c77f-7cb4-4802-94e8-56bfaf3a19f0
+:END:
+#+title: Rue Hgxyfhnb Uemza NV - 2017-9-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:d3e65386-33d8-400b-abc8-ab9787794315][Rue Hgxyfhnb Uemza]]
+- date :: 2017-9-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

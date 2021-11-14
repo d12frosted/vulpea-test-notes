@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6cdad433-31cd-435d-94cb-fccd5972b4b8
+:END:
+#+title: Novr Rlrt Aiowvmd Ptuvdntx 1950 - 2001-6-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:ccdbace0-f504-4f7a-8661-2df1fcc94be8][Novr Rlrt Aiowvmd Ptuvdntx 1950]]
+- date :: 2001-6-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

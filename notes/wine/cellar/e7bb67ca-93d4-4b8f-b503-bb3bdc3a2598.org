@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e7bb67ca-93d4-4b8f-b503-bb3bdc3a2598
+:END:
+#+title: Miv Lxkknwf Ceaga 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Lxkknwf Ceaga
+- vintage :: 2009
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 9.32
+- price :: 31.12 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

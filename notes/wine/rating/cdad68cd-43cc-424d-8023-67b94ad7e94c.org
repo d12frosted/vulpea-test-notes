@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cdad68cd-43cc-424d-8023-67b94ad7e94c
+:END:
+#+title: Cdeexg Uaedtkjd Oqdwshhp NV - 1999-8-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:eda2c02c-1354-449b-929d-2a2105619eca][Cdeexg Uaedtkjd Oqdwshhp]]
+- date :: 1999-8-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

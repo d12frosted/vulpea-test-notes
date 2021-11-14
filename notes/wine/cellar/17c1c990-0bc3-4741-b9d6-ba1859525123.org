@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       17c1c990-0bc3-4741-b9d6-ba1859525123
+:END:
+#+title: Njtzvl Zsioio Acmoea 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zsioio Acmoea
+- vintage :: 1904
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 11.56
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:6c6ba755-4c51-486b-852d-89a18e377b8f][Njtzvl Zsioio Acmoea 1904 - 2020-11-28]]

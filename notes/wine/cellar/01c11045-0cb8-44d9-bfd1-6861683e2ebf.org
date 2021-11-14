@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       01c11045-0cb8-44d9-bfd1-6861683e2ebf
+:END:
+#+title: Novr Rlrt Ydizaa 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ydizaa
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.120000000000001
+- sugar :: 23.01
+- price :: 67.15 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

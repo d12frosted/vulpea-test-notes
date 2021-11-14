@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ac23e3e1-9779-48de-b8e5-2c1c912224cb
+:END:
+#+title: Rue Yuhtwum 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Yuhtwum
+- vintage :: 1925
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.45
+- price :: 46.96 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:4ec64ee7-0513-47c7-8206-147ecc79cc4c][Rue Yuhtwum 1925 - 2001-12-24]]

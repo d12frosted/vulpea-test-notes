@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       869b2317-6ae0-477e-88da-9d42751b77f5
+:END:
+#+title: Njtzvl Bnsnjf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Bnsnjf
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.26
+- sugar :: 4.75
+- price :: 10.04 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:29c7da70-a6bb-4576-ae08-e6dc07bf2181][Njtzvl Bnsnjf NV - 1993-4-9]]

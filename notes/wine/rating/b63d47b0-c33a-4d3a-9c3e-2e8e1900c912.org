@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b63d47b0-c33a-4d3a-9c3e-2e8e1900c912
+:END:
+#+title: Mkmt Bofvfdx 1921 - 2009-4-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:72b09a46-4563-495d-b4db-3380357a80b4][Mkmt Bofvfdx 1921]]
+- date :: 2009-4-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b76d7c66-a9b0-4a00-a380-77b7301808a4
+:END:
+#+title: Mkmt Tukqj Usq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Tukqj Usq
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.08
+- sugar :: 3.78
+- price :: 33.59 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

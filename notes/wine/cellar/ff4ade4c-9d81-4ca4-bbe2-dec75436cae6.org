@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       ff4ade4c-9d81-4ca4-bbe2-dec75436cae6
+:END:
+#+title: Njtzvl Tanavdgu 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Tanavdgu
+- vintage :: 1954
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.91
+- sugar :: 15.08
+- price :: 95.37 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:2c7dcbc7-cdba-4d07-99d0-9c1cc755c629][Njtzvl Tanavdgu 1954 - 2000-9-14]]

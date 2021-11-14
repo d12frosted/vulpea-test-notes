@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cfc5d9ac-3eab-4b05-8331-4e56b5a6482e
+:END:
+#+title: Mkmt Vbaq 1987 - 2018-1-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:efde6e5e-c687-4d7d-989b-d2305b137371][Mkmt Vbaq 1987]]
+- date :: 2018-1-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

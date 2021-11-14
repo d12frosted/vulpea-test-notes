@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       649d93b2-e8f8-4824-97d2-0b6b797fd655
+:END:
+#+title: Dfsxtmx Amslnow Haujituy 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Amslnow Haujituy
+- vintage :: 1986
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.82
+- sugar :: 5.41
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

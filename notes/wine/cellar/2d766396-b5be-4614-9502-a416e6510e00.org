@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2d766396-b5be-4614-9502-a416e6510e00
+:END:
+#+title: Dseajc Jinm Vhsn 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vhsn
+- vintage :: 1940
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.65
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

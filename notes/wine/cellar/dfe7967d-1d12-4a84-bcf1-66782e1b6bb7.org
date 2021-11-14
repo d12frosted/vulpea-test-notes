@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       dfe7967d-1d12-4a84-bcf1-66782e1b6bb7
+:END:
+#+title: Mkmt Fnvy Eygzhvqu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fnvy Eygzhvqu
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.9
+- sugar :: 1.45
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:38f2a507-7b42-4b55-8c71-c16080ff20ed][Mkmt Fnvy Eygzhvqu NV - 2017-9-26]]

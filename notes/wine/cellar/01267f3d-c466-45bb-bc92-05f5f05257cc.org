@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       01267f3d-c466-45bb-bc92-05f5f05257cc
+:END:
+#+title: Vjjtw Hvrja Prus 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Prus
+- vintage :: 1973
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.91
+- sugar :: 14.32
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

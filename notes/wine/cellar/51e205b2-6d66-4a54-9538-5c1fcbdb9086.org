@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       51e205b2-6d66-4a54-9538-5c1fcbdb9086
+:END:
+#+title: Miv Ikm Vtbhqcv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ikm Vtbhqcv
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.15
+- sugar :: 16.57
+- price :: 7.16 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

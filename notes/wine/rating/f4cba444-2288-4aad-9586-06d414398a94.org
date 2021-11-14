@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f4cba444-2288-4aad-9586-06d414398a94
+:END:
+#+title: Dseajc Jinm Taofwnq Zxhnbeu 1917 - 2017-5-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:89804242-382c-4699-b9c7-8767264de8ef][Dseajc Jinm Taofwnq Zxhnbeu 1917]]
+- date :: 2017-5-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

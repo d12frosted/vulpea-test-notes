@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9f57359d-05ae-4b19-beb4-4a43f1646099
+:END:
+#+title: Dfsxtmx Osdpzmq 1938 - 2017-10-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:0490069f-77b5-467a-b2fa-708d15116bc1][Dfsxtmx Osdpzmq 1938]]
+- date :: 2017-10-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

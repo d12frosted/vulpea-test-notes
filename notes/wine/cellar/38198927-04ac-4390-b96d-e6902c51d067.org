@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       38198927-04ac-4390-b96d-e6902c51d067
+:END:
+#+title: Lzf Nnfai Rcizkvq 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Nnfai Rcizkvq
+- vintage :: 1996
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.08
+- sugar :: 0.09
+- price :: 84.87 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c3daefc6-c998-4f87-af9e-9ba42d717514
+:END:
+#+title: Vjjtw Hvrja Puk Btwzhfk 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Puk Btwzhfk
+- vintage :: 1903
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.86
+- sugar :: 22.7
+- price :: 6.13 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 7.0
+- ratings :: [[id:18b51e49-62fa-4a8b-8b36-1077918cfadc][Vjjtw Hvrja Puk Btwzhfk 1903 - 1995-9-25]]

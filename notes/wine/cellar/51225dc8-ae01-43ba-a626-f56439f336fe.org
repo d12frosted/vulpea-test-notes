@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       51225dc8-ae01-43ba-a626-f56439f336fe
+:END:
+#+title: Lzf Tmu Mqr 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tmu Mqr
+- vintage :: 1987
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.129999999999999
+- sugar :: 2.91
+- price :: 89.19 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 7.5
+- ratings :: [[id:dff821d9-ca3a-4d17-86fe-3ab1c7066c55][Lzf Tmu Mqr 1987 - 2014-1-19]]

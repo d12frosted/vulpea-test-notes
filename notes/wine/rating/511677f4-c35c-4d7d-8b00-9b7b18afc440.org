@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       511677f4-c35c-4d7d-8b00-9b7b18afc440
+:END:
+#+title: Njtzvl Gjqr NV - 1999-6-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:61c9aecc-1c70-43c7-bbbc-3f5a001c72e3][Njtzvl Gjqr]]
+- date :: 1999-6-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ca3b1208-f77b-499d-a2fe-8303fb29bf0f
+:END:
+#+title: Cdeexg Mfbf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Mfbf
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.76
+- sugar :: 7.73
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

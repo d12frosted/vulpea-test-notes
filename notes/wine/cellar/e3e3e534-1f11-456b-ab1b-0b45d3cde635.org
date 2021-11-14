@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e3e3e534-1f11-456b-ab1b-0b45d3cde635
+:END:
+#+title: Vjjtw Hvrja Csb Wiol 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Csb Wiol
+- vintage :: 1942
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.98
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:bdc41918-72a3-41a6-bc57-7cbc0c6c0c4f][Vjjtw Hvrja Csb Wiol 1942 - 2004-5-21]]

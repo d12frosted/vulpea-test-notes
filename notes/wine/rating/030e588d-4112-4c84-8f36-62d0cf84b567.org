@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       030e588d-4112-4c84-8f36-62d0cf84b567
+:END:
+#+title: Miv Dfrouxnp 1999 - 1992-2-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:4bf73fde-668b-4841-8199-d38e2f1980c4][Miv Dfrouxnp 1999]]
+- date :: 1992-2-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

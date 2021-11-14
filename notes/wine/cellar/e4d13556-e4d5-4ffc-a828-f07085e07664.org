@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e4d13556-e4d5-4ffc-a828-f07085e07664
+:END:
+#+title: Njtzvl Szf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Szf
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.7
+- sugar :: 18.47
+- price :: 41.55 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

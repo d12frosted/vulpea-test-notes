@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       40b5b58a-c40f-4f4b-aca6-805a767630e1
+:END:
+#+title: Lzf Vfbmyq 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vfbmyq
+- vintage :: 1933
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.94
+- sugar :: 1.69
+- price :: 39.08 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.0
+- ratings :: [[id:59a91421-8b79-48c1-9e40-d4e3f6c19492][Lzf Vfbmyq 1933 - 2016-9-11]]

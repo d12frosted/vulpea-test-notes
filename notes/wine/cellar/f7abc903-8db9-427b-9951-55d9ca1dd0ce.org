@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f7abc903-8db9-427b-9951-55d9ca1dd0ce
+:END:
+#+title: Mkmt Ecmbb 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ecmbb
+- vintage :: 2005
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.34
+- sugar :: 13.03
+- price :: 43.97 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:0d3de034-0302-4d40-9399-0c67daa3c21d][Mkmt Ecmbb 2005 - 2023-3-25]]

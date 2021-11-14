@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8bd3b786-d702-4b80-9e82-4a5fd761cc7b
+:END:
+#+title: Mkmt Zery Nipcnus 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zery Nipcnus
+- vintage :: 1991
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.530000000000001
+- sugar :: 6.26
+- price :: 75.32 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

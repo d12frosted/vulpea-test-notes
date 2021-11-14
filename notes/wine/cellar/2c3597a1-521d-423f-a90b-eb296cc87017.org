@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2c3597a1-521d-423f-a90b-eb296cc87017
+:END:
+#+title: Njtzvl Wzhhuzbx Vgopf 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Wzhhuzbx Vgopf
+- vintage :: 1976
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.32
+- sugar :: 22.65
+- price :: 79.62 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

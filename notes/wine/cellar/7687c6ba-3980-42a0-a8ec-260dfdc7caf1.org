@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7687c6ba-3980-42a0-a8ec-260dfdc7caf1
+:END:
+#+title: Rue Nbg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Nbg
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.11
+- price :: 91.00 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

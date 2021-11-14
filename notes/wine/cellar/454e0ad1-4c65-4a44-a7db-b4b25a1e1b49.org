@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       454e0ad1-4c65-4a44-a7db-b4b25a1e1b49
+:END:
+#+title: Dfsxtmx Vlfjyc 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vlfjyc
+- vintage :: 1973
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.2
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 4.0
+- ratings :: [[id:6b0bd0ea-774b-4ceb-a7c3-8740bad167cf][Dfsxtmx Vlfjyc 1973 - 1992-9-20]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       edd24d39-1a9b-4fca-95a0-4fe705b22447
+:END:
+#+title: Rue Dnvbiwg NV - 2021-4-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:123c8b1b-20db-492d-ba11-147bbbaf1e9c][Rue Dnvbiwg]]
+- date :: 2021-4-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

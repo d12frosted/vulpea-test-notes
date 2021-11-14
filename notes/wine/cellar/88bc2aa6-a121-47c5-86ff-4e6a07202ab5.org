@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       88bc2aa6-a121-47c5-86ff-4e6a07202ab5
+:END:
+#+title: Dseajc Jinm Jdzkmqe Tcgy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jdzkmqe Tcgy
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.95
+- sugar :: 21.11
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

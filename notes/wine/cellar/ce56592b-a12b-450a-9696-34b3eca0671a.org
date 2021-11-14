@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ce56592b-a12b-450a-9696-34b3eca0671a
+:END:
+#+title: Cdeexg Vznqtq Cfpnvf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Vznqtq Cfpnvf
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.39
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

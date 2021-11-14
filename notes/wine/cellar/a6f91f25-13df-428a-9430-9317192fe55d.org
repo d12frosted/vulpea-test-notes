@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a6f91f25-13df-428a-9430-9317192fe55d
+:END:
+#+title: Dfsxtmx Omevdl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Omevdl
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 10.5
+- sugar :: 11.1
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:301455f9-2b52-488c-bb82-55f8f9e590ee][Dfsxtmx Omevdl NV - 2016-11-22]]

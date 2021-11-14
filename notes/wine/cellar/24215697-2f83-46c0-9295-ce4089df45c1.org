@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       24215697-2f83-46c0-9295-ce4089df45c1
+:END:
+#+title: Dseajc Jinm Gmu Tyohmu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gmu Tyohmu
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.82
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 7.0
+- ratings :: [[id:dd3c968a-acc9-4c30-8e3a-1efc6ce40f8f][Dseajc Jinm Gmu Tyohmu NV - 2010-1-25]]

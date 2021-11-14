@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       965bf3ac-415b-48c1-9471-75f6cb6d2e0a
+:END:
+#+title: Dseajc Jinm Atoa 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Atoa
+- vintage :: 1949
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 9.03
+- price :: 38.00 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 6.0
+- ratings :: [[id:831851f2-43e0-4ecb-8cd0-1eb554354e4e][Dseajc Jinm Atoa 1949 - 2022-8-11]]

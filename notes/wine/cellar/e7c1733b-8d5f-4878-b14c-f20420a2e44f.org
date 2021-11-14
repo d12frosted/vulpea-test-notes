@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e7c1733b-8d5f-4878-b14c-f20420a2e44f
+:END:
+#+title: Rue Qswu Raizpot 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qswu Raizpot
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.89
+- sugar :: 3.6
+- price :: 99.61 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b59e8afe-70ad-4a82-a750-f3c7f5832fd2
+:END:
+#+title: Novr Rlrt Prahpvq 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Prahpvq
+- vintage :: 1936
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.58
+- sugar :: 10.6
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

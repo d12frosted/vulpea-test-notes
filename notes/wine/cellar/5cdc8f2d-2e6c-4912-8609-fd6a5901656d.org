@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5cdc8f2d-2e6c-4912-8609-fd6a5901656d
+:END:
+#+title: Rue Qjlj 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qjlj
+- vintage :: 1987
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.059999999999999
+- sugar :: 0.7
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

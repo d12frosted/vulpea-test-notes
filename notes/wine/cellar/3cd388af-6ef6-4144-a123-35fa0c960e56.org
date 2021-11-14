@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3cd388af-6ef6-4144-a123-35fa0c960e56
+:END:
+#+title: Vjjtw Hvrja Ykvlyo Bmyviqny 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ykvlyo Bmyviqny
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.55
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 3.5
+- ratings :: [[id:e2961bdf-6e5a-42a6-bd80-447c531a613f][Vjjtw Hvrja Ykvlyo Bmyviqny NV - 2020-2-26]]

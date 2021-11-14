@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5a93bbe7-5d03-474a-9345-f52c9a510e4e
+:END:
+#+title: Vjjtw Hvrja Lrirntr Sofnlugw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Lrirntr Sofnlugw
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 10.86
+- price :: 89.66 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:19e54f17-a84a-4a9b-b46d-75cc38070994][Vjjtw Hvrja Lrirntr Sofnlugw NV - 2018-10-25]]

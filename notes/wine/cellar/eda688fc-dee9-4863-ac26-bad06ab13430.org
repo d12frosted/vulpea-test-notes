@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       eda688fc-dee9-4863-ac26-bad06ab13430
+:END:
+#+title: Dseajc Jinm Dmpskrwd Tqhfj 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Dmpskrwd Tqhfj
+- vintage :: 1952
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.74
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:28fe9e5e-4ebf-4a54-b4bc-057335a742bb][Dseajc Jinm Dmpskrwd Tqhfj 1952 - 1994-1-1]]

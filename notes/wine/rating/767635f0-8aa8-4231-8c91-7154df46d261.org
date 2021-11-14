@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       767635f0-8aa8-4231-8c91-7154df46d261
+:END:
+#+title: Vjjtw Hvrja Vwbgd Cghld NV - 1994-4-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:e64cda06-bb99-44bb-8608-06807d34d65f][Vjjtw Hvrja Vwbgd Cghld]]
+- date :: 1994-4-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       65af00fd-a5e4-4a88-87e6-0286f6a9a608
+:END:
+#+title: Njtzvl Eup Qtbyf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Eup Qtbyf
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.83
+- sugar :: 4.78
+- price :: 40.04 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: wikipedia
+- rating :: NA

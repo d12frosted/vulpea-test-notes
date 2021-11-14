@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       277567ac-bcca-4b6f-ac96-35e970609ea1
+:END:
+#+title: Mkmt Jnbuyah 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Jnbuyah
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.78
+- sugar :: 3.52
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

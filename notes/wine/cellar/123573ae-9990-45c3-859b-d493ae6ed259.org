@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       123573ae-9990-45c3-859b-d493ae6ed259
+:END:
+#+title: Lzf Dyzttjmh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Dyzttjmh
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.76
+- sugar :: 7.19
+- price :: 27.15 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

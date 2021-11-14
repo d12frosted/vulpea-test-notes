@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       13abff4c-c8bf-4cd5-a77e-73a3ad54a602
+:END:
+#+title: Njtzvl Afkjfp Tttwbnmc 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Afkjfp Tttwbnmc
+- vintage :: 1966
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.22
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

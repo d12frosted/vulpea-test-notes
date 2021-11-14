@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c249914f-a450-4b82-801e-a1275a29bcbc
+:END:
+#+title: Dseajc Jinm Zuwtnav 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zuwtnav
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.94
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:92080e6d-d76e-4b10-9761-497f180e1a57][Dseajc Jinm Zuwtnav NV - 1998-9-2]]

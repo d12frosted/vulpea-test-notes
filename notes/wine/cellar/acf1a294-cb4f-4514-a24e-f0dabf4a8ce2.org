@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       acf1a294-cb4f-4514-a24e-f0dabf4a8ce2
+:END:
+#+title: Lzf Zxqnql 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Zxqnql
+- vintage :: 2000
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 10.379999999999999
+- sugar :: 23.68
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:344ea965-2c09-45b9-9640-886ee5dabf02][Lzf Zxqnql 2000 - 1999-1-23]]

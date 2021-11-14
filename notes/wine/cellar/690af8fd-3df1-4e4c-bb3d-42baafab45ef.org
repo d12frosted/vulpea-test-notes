@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       690af8fd-3df1-4e4c-bb3d-42baafab45ef
+:END:
+#+title: Rue Mhrupzfl Zwaco 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mhrupzfl Zwaco
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 12.78
+- sugar :: 18.45
+- price :: 15.25 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:e166940b-eb76-4da6-96d3-635a91e6c0fd][Rue Mhrupzfl Zwaco NV - 2022-11-4]]

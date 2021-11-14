@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       25b0617b-8049-4b49-83af-b9b1a420c0df
+:END:
+#+title: Dfsxtmx Lap 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Lap
+- vintage :: 1961
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.82
+- sugar :: 3.35
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 6.5
+- ratings :: [[id:b69b1b3c-b8fa-42e5-b572-7e3ce4eb908b][Dfsxtmx Lap 1961 - 1997-10-13]]

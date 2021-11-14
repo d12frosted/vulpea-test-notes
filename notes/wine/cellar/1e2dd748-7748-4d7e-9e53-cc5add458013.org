@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1e2dd748-7748-4d7e-9e53-cc5add458013
+:END:
+#+title: Vjjtw Hvrja Ylecban 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ylecban
+- vintage :: 1966
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.29
+- price :: 43.20 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

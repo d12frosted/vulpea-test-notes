@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       20272915-47a0-4a32-abbb-ddccd14a33f1
+:END:
+#+title: Lzf Gerey 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Gerey
+- vintage :: 1955
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.36
+- sugar :: 6.61
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

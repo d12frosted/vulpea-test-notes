@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c6e45157-5cc3-47a5-8802-5643724cf550
+:END:
+#+title: Lzf Yiselyh 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Yiselyh
+- vintage :: 2019
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.47
+- price :: 43.42 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1c37a472-b045-46df-8010-9a191746b49e
+:END:
+#+title: Dseajc Jinm Hfl Mphviwvp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Hfl Mphviwvp
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.27
+- price :: 32.67 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

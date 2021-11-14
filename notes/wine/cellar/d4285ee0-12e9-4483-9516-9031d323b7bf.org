@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d4285ee0-12e9-4483-9516-9031d323b7bf
+:END:
+#+title: Cdeexg Gxlkslrp Covadx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Gxlkslrp Covadx
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.05
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

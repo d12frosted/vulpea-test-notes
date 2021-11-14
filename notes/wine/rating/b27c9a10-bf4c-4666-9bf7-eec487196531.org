@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b27c9a10-bf4c-4666-9bf7-eec487196531
+:END:
+#+title: Dfsxtmx Soy Qlny NV - 1995-4-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:6444662e-ecbe-4dd4-bdb7-baebea688b7f][Dfsxtmx Soy Qlny]]
+- date :: 1995-4-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

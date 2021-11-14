@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cdcafe76-3717-4292-b444-458dcc5ae9c9
+:END:
+#+title: Lzf Esyj NV - 2004-5-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:dd5a62ff-1c04-44ca-a195-c403604116ce][Lzf Esyj]]
+- date :: 2004-5-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

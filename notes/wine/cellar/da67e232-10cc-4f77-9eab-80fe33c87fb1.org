@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       da67e232-10cc-4f77-9eab-80fe33c87fb1
+:END:
+#+title: Njtzvl Gmurs Xbhp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Gmurs Xbhp
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.9
+- sugar :: 4.73
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       26dad28b-3b83-4cd4-9e84-7ed5f5278fa2
+:END:
+#+title: Rue Osleq Ivfe NV - 2011-9-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:05764edc-8472-4491-abba-9480015e9a85][Rue Osleq Ivfe]]
+- date :: 2011-9-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

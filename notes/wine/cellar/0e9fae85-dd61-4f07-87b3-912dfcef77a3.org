@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0e9fae85-dd61-4f07-87b3-912dfcef77a3
+:END:
+#+title: Miv Rod 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rod
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.26
+- sugar :: 7.96
+- price :: 18.47 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 2.5
+- ratings :: [[id:4a4b4881-cabd-47fc-a1ed-70102b3dc551][Miv Rod NV - 2002-11-21]]

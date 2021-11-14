@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2a79a39f-3db0-4cf0-810e-e52ac98c5fd2
+:END:
+#+title: Njtzvl Gdlijp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Gdlijp
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.77
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:5b8c4df1-c74d-4885-aac0-276410305181][Njtzvl Gdlijp NV - 2000-10-12]]

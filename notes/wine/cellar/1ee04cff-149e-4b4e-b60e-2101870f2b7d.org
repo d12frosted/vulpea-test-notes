@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1ee04cff-149e-4b4e-b60e-2101870f2b7d
+:END:
+#+title: Dseajc Jinm Rbz Auihow 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rbz Auihow
+- vintage :: 1974
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.35
+- sugar :: 22.11
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

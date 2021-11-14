@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       66dd5020-8066-4453-b34e-69eeaa2209bc
-:END:
-#+title: Mabtcl Miuoflx
-#+filetags: :wine:producer:
-
-

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       ca4f0068-95e9-4219-9ace-97d87282c622
+:END:
+#+title: Novr Rlrt Vqwnlrf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vqwnlrf
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.93
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

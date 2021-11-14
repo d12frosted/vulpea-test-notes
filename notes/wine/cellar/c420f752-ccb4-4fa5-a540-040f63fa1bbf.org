@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c420f752-ccb4-4fa5-a540-040f63fa1bbf
+:END:
+#+title: Mkmt Ebgwp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ebgwp
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.96
+- price :: 34.89 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.0
+- ratings :: [[id:65d5684b-0efa-458e-a134-4922d0636b0b][Mkmt Ebgwp NV - 2004-9-11]]

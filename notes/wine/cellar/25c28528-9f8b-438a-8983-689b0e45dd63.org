@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       25c28528-9f8b-438a-8983-689b0e45dd63
+:END:
+#+title: Vjjtw Hvrja Ufbkka Sginoejw 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ufbkka Sginoejw
+- vintage :: 1937
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 10.94
+- sugar :: 0.9
+- price :: 22.92 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA

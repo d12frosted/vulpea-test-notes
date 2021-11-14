@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       266ea727-8e77-4961-9842-52d3f856ccdc
+:END:
+#+title: Novr Rlrt Owmxm Kpalxhz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Owmxm Kpalxhz
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.13
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:c60ed378-c3ae-464e-b571-54d11a7c82c4][Novr Rlrt Owmxm Kpalxhz NV - 1994-11-26]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       22479f23-84d3-458c-8991-99212b4394b6
+:END:
+#+title: Cdeexg Mpjcbrkv 1941 - 1990-11-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:05ba9045-7c2a-4ee4-90c7-27a2640e62b6][Cdeexg Mpjcbrkv 1941]]
+- date :: 1990-11-1
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

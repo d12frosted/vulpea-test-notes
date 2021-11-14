@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d2ae27a5-c845-407e-b69c-00244926d2ec
+:END:
+#+title: Dseajc Jinm Ifae Qqglsdl NV - 2007-4-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:4a6a1a54-90e9-44b8-ab8e-6aa8a04d7bf2][Dseajc Jinm Ifae Qqglsdl]]
+- date :: 2007-4-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

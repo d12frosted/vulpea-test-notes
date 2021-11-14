@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4527369b-7a3c-42ef-a248-7bb1c5984fc1
+:END:
+#+title: Lzf Jekwa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jekwa
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.86
+- sugar :: 10.97
+- price :: 24.19 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:69cf3eec-a614-4fa0-82c0-3f530bdabc30][Lzf Jekwa NV - 1993-9-28]]

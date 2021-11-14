@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f3cf7939-1419-4f8c-9d10-8f492935ec0f
+:END:
+#+title: Vjjtw Hvrja Qrjmyk Nhejpj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Qrjmyk Nhejpj
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.27
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.5
+- ratings :: [[id:6ae474cc-1965-4d76-98d1-3939235795c7][Vjjtw Hvrja Qrjmyk Nhejpj NV - 1998-3-23]]

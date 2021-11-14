@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1a9fd987-8d62-4357-a577-008834f6b764
+:END:
+#+title: Novr Rlrt Sxhfmkvw 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Sxhfmkvw
+- vintage :: 1915
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 10.82
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

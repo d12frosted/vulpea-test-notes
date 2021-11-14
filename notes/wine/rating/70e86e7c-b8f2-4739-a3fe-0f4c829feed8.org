@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       70e86e7c-b8f2-4739-a3fe-0f4c829feed8
+:END:
+#+title: Dseajc Jinm Ube Scagvir 1938 - 2022-4-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:dea97772-ca7b-4c96-91e5-94c72bb754fb][Dseajc Jinm Ube Scagvir 1938]]
+- date :: 2022-4-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

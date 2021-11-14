@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       eb1b31a0-6603-4cd4-bf1e-8125281027df
+:END:
+#+title: Dfsxtmx Ypufto 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ypufto
+- vintage :: 2018
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.370000000000001
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:db802fc9-cce6-46e8-9763-570a1798a207][Dfsxtmx Ypufto 2018 - 1996-4-13]]

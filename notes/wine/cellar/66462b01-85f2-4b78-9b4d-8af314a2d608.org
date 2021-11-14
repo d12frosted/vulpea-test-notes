@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       66462b01-85f2-4b78-9b4d-8af314a2d608
+:END:
+#+title: Novr Rlrt Leqnlgk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Leqnlgk
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.71
+- price :: 35.21 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

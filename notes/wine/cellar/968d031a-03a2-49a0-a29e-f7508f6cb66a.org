@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       968d031a-03a2-49a0-a29e-f7508f6cb66a
+:END:
+#+title: Novr Rlrt Lzje Hgo 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lzje Hgo
+- vintage :: 1909
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.06
+- sugar :: 4.29
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:e4512444-97fa-4aa4-8b28-942c9da6cdb3][Novr Rlrt Lzje Hgo 1909 - 2007-6-23]]

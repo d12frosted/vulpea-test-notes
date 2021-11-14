@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2c59b7b4-80f9-41c9-b6e0-a1c24f31afcc
+:END:
+#+title: Dfsxtmx Shhewsa Utwwke 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Shhewsa Utwwke
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.5
+- sugar :: 5.87
+- price :: 82.76 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:191e3542-c354-4422-9b05-67baafe9155b][Dfsxtmx Shhewsa Utwwke NV - 2017-10-9]]

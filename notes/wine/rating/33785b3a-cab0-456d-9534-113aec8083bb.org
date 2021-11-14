@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       33785b3a-cab0-456d-9534-113aec8083bb
+:END:
+#+title: Cdeexg Veh Dvwvkxr 2020 - 2023-2-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:33494296-663b-4284-8535-7298d8eadc4c][Cdeexg Veh Dvwvkxr 2020]]
+- date :: 2023-2-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

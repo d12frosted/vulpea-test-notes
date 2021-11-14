@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4a9a5468-9c71-41ce-a0b2-a74f70370e82
+:END:
+#+title: Dfsxtmx Arpfnd 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Arpfnd
+- vintage :: 1910
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.3
+- sugar :: 1.7
+- price :: 61.89 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

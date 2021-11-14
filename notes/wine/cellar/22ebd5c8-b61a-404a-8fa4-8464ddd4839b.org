@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       22ebd5c8-b61a-404a-8fa4-8464ddd4839b
+:END:
+#+title: Dfsxtmx Vwdiimsa Eerzkj 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vwdiimsa Eerzkj
+- vintage :: 1974
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.5
+- sugar :: 12.05
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

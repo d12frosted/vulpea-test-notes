@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b2d56d7e-83b8-400a-8e69-33dc221efaad
+:END:
+#+title: Rue Ztvpttt Sci 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ztvpttt Sci
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.06
+- price :: 45.42 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

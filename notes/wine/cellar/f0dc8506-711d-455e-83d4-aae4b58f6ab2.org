@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f0dc8506-711d-455e-83d4-aae4b58f6ab2
+:END:
+#+title: Novr Rlrt Bnhaz Mgnm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bnhaz Mgnm
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.47
+- sugar :: 11.94
+- price :: 71.77 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

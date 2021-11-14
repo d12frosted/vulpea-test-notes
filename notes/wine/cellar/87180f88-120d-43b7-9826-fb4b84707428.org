@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       87180f88-120d-43b7-9826-fb4b84707428
+:END:
+#+title: Dseajc Jinm Iewxjc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Iewxjc
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.34
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

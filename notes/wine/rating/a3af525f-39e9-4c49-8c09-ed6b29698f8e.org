@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a3af525f-39e9-4c49-8c09-ed6b29698f8e
+:END:
+#+title: Dfsxtmx Dtpjhba NV - 1997-6-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:d6722ee3-ec06-4745-8f7e-39b14f1702f0][Dfsxtmx Dtpjhba]]
+- date :: 1997-6-9
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

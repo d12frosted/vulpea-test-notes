@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       60b99f41-5678-49ca-af5b-4def8b67930c
+:END:
+#+title: Novr Rlrt Vouix 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vouix
+- vintage :: 1950
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.02
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

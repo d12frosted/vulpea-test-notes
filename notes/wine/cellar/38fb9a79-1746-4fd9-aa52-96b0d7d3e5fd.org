@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       38fb9a79-1746-4fd9-aa52-96b0d7d3e5fd
+:END:
+#+title: Dfsxtmx Tozbjgg Wnej 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Tozbjgg Wnej
+- vintage :: 1955
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.030000000000001
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

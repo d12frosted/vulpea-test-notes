@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       642a1769-fa9b-43fd-bd3e-774bf9b1fab2
+:END:
+#+title: Lzf Iruon Cwqxfdqx NV - 2001-2-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:ad16b3d2-4bbd-4683-bf48-27044176552b][Lzf Iruon Cwqxfdqx]]
+- date :: 2001-2-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       eca5101b-1104-4b0c-8b9c-861b0f3da638
+:END:
+#+title: Lzf Elw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Elw
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.37
+- sugar :: 6.8
+- price :: 91.54 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       94842238-d46a-4b12-aef3-dfc47e6d47a4
+:END:
+#+title: Cdeexg Bwlrbxj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bwlrbxj
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.52
+- sugar :: 16.52
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7c8ca184-0415-43f6-9a21-5fff79bee216
+:END:
+#+title: Dfsxtmx Jmnz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Jmnz
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.57
+- price :: 51.24 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

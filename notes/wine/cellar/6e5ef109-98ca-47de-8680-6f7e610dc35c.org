@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6e5ef109-98ca-47de-8680-6f7e610dc35c
+:END:
+#+title: Miv Vnut 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vnut
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.91
+- sugar :: 20.14
+- price :: 45.11 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:0d80349a-f1f5-418b-88eb-dd82d22be699][Miv Vnut NV - 2000-8-6]]

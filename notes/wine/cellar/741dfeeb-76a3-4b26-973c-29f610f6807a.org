@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       741dfeeb-76a3-4b26-973c-29f610f6807a
+:END:
+#+title: Vjjtw Hvrja Skxu 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Skxu
+- vintage :: 1928
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.190000000000001
+- price :: 88.73 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: wikipedia
+- rating :: 3.0
+- ratings :: [[id:24c36e70-cd67-4e31-a79e-371ce3792658][Vjjtw Hvrja Skxu 1928 - 2017-12-20]]

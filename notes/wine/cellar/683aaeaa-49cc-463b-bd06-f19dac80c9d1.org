@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       683aaeaa-49cc-463b-bd06-f19dac80c9d1
+:END:
+#+title: Mkmt Psyoweie 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Psyoweie
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.56
+- sugar :: 17.22
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.5
+- ratings :: [[id:a2f80a65-dd12-4c48-98b5-b272a6f4c7dd][Mkmt Psyoweie NV - 2015-3-2]]

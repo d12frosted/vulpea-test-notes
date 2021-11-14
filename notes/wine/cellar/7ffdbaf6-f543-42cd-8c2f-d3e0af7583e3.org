@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7ffdbaf6-f543-42cd-8c2f-d3e0af7583e3
+:END:
+#+title: Dseajc Jinm Rtzk Voau 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rtzk Voau
+- vintage :: 1917
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.21
+- sugar :: 23.83
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

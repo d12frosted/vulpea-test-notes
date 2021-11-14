@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c8d21407-9038-4e93-aab7-f5c88dc9caef
+:END:
+#+title: Mkmt Qnckzdsw 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Qnckzdsw
+- vintage :: 1926
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.629999999999999
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:2a9c5fa9-3bb1-4b25-a39d-53a614b1b753][Mkmt Qnckzdsw 1926 - 2001-9-17]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9fa25379-19ad-4bc8-80b8-6b5c0fd44d21
+:END:
+#+title: Mkmt Wasvu Xhin 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Wasvu Xhin
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.55
+- sugar :: 10.59
+- price :: 18.06 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 2.5
+- ratings :: [[id:6610e337-4d1f-4ddc-af43-ed7b7ccc20cf][Mkmt Wasvu Xhin NV - 2023-1-2]]

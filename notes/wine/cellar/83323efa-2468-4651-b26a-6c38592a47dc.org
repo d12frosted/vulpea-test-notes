@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       83323efa-2468-4651-b26a-6c38592a47dc
+:END:
+#+title: Dseajc Jinm Umedv 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Umedv
+- vintage :: 1972
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.99
+- price :: 100.63 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 2.5
+- ratings :: [[id:12680c46-5ad7-436c-9d2a-858e01e3aace][Dseajc Jinm Umedv 1972 - 1999-8-5]]

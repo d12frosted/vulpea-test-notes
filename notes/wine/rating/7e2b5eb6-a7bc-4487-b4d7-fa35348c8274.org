@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7e2b5eb6-a7bc-4487-b4d7-fa35348c8274
+:END:
+#+title: Novr Rlrt Stvfpq NV - 2007-11-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:958c4af3-99e0-40d7-b278-5a9c66a3d2de][Novr Rlrt Stvfpq]]
+- date :: 2007-11-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

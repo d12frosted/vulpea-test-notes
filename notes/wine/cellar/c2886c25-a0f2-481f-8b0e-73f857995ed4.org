@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c2886c25-a0f2-481f-8b0e-73f857995ed4
+:END:
+#+title: Novr Rlrt Tekun 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tekun
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 9.87
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

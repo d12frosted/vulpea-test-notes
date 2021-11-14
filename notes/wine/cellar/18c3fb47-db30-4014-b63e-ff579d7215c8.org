@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       18c3fb47-db30-4014-b63e-ff579d7215c8
+:END:
+#+title: Vjjtw Hvrja Pwzkjjx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pwzkjjx
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 12.95
+- sugar :: 13.92
+- price :: 26.99 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: duckduckgo
+- rating :: NA

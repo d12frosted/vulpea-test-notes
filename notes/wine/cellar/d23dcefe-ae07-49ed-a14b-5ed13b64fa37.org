@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d23dcefe-ae07-49ed-a14b-5ed13b64fa37
+:END:
+#+title: Miv Waqzkl 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Waqzkl
+- vintage :: 1908
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.440000000000001
+- sugar :: 9.67
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

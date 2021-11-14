@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       40e695f2-bdc5-49fe-bfee-67ab107ca382
+:END:
+#+title: Lzf Jtwyjna 1967 - 2007-5-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:796965b3-0942-4a6a-bc7e-8888bc0f3bc8][Lzf Jtwyjna 1967]]
+- date :: 2007-5-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

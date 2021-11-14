@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       720250ac-fdcb-4c8c-95a8-ac1e496e1efa
+:END:
+#+title: Dseajc Jinm Gubjzjxy 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gubjzjxy
+- vintage :: 2018
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 13.6
+- sugar :: 2.19
+- price :: 20.64 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

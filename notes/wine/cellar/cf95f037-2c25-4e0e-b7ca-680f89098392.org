@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cf95f037-2c25-4e0e-b7ca-680f89098392
+:END:
+#+title: Miv Vylk Nbr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vylk Nbr
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.35
+- sugar :: 23.36
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

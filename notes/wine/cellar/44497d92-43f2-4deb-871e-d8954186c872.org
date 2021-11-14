@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       44497d92-43f2-4deb-871e-d8954186c872
+:END:
+#+title: Novr Rlrt Bxntnd Begadxqt 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bxntnd Begadxqt
+- vintage :: 1909
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.8
+- sugar :: 1.03
+- price :: 76.36 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

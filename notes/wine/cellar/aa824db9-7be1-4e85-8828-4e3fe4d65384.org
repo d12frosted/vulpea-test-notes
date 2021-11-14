@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       aa824db9-7be1-4e85-8828-4e3fe4d65384
+:END:
+#+title: Lzf Tdbov 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tdbov
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.55
+- sugar :: 1.53
+- price :: 56.63 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:27518f9d-7a45-4b7b-b7a8-d0e34aa3fc16][Lzf Tdbov NV - 1991-11-6]]

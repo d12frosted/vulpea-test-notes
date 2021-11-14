@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       091bebf2-76f7-4f0a-8f82-bbd139192711
+:END:
+#+title: Cdeexg Jqfyopmh Uzxrgjk 1939 - 2003-1-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:cc2b1a3d-178b-48a0-bc9c-ea6074c5e2d4][Cdeexg Jqfyopmh Uzxrgjk 1939]]
+- date :: 2003-1-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

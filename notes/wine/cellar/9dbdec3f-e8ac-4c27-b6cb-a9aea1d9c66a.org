@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9dbdec3f-e8ac-4c27-b6cb-a9aea1d9c66a
+:END:
+#+title: Rue Poqyh Drux 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Poqyh Drux
+- vintage :: 1926
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 11.05
+- sugar :: 18.07
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:7fd438bd-d285-40a4-abb3-98431d391209][Rue Poqyh Drux 1926 - 2021-5-20]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       81dbac93-c99a-4295-9380-0e5fdb699e2a
+:END:
+#+title: Lzf Tjhogybu Khaivtc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tjhogybu Khaivtc
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.620000000000001
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:85c8cbe6-5849-43ff-9cb8-b076efecaa21][Lzf Tjhogybu Khaivtc NV - 2011-10-16]]

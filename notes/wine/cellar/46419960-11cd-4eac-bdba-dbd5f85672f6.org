@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       46419960-11cd-4eac-bdba-dbd5f85672f6
+:END:
+#+title: Dfsxtmx Itgrmpiz 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Itgrmpiz
+- vintage :: 2002
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.06
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

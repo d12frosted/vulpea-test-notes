@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       827cd82f-d223-4b05-82b1-90912bd62936
+:END:
+#+title: Cdeexg Dryov 1985 - 2022-10-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:06a7f757-501b-4a64-b618-88af64835bb7][Cdeexg Dryov 1985]]
+- date :: 2022-10-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

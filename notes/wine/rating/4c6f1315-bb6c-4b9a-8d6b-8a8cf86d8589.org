@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4c6f1315-bb6c-4b9a-8d6b-8a8cf86d8589
+:END:
+#+title: Mkmt Cfboe Auk NV - 2019-3-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:81ce6f50-8a31-4339-a547-05b5ec698cfa][Mkmt Cfboe Auk]]
+- date :: 2019-3-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

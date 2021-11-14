@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3cf9ace9-ccac-4efd-b7a0-527f8776fe08
+:END:
+#+title: Rue Uanj Llgxw 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Uanj Llgxw
+- vintage :: 1973
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.96
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

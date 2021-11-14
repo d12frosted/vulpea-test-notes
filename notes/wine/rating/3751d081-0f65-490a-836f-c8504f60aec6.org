@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3751d081-0f65-490a-836f-c8504f60aec6
+:END:
+#+title: Dfsxtmx Xkbtewa 1940 - 2018-2-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:efea8fa6-65fb-4a6c-8f97-973e578a01e9][Dfsxtmx Xkbtewa 1940]]
+- date :: 2018-2-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

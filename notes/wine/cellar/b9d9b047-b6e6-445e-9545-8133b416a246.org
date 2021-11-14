@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b9d9b047-b6e6-445e-9545-8133b416a246
+:END:
+#+title: Lzf Pklvqay 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Pklvqay
+- vintage :: 1963
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.98
+- price :: 3.78 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

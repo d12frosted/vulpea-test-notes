@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       183ce96d-f79a-41a1-807e-c4f0ab627872
+:END:
+#+title: Dseajc Jinm Deqhwwym Dkhruvr 1936 - 2012-1-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:30a9db7c-195d-4e02-b07b-6def9a7b776d][Dseajc Jinm Deqhwwym Dkhruvr 1936]]
+- date :: 2012-1-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

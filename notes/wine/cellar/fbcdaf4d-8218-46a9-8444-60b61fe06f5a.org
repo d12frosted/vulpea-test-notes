@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fbcdaf4d-8218-46a9-8444-60b61fe06f5a
+:END:
+#+title: Dfsxtmx Pzjsqe Lnxyzs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pzjsqe Lnxyzs
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.19
+- sugar :: 0.43
+- price :: 42.20 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c68e9d10-afef-4397-97ad-febaf1513101
+:END:
+#+title: Dfsxtmx Kzxxoahi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kzxxoahi
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 12.86
+- sugar :: 15.05
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

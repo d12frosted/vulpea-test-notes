@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ad5696bc-2a21-49b6-b2ca-947041847f10
+:END:
+#+title: Lzf Cgb NV - 2008-11-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:467b27f9-75be-46f3-8d79-faa851fe8602][Lzf Cgb]]
+- date :: 2008-11-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

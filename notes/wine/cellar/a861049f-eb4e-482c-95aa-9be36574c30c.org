@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a861049f-eb4e-482c-95aa-9be36574c30c
+:END:
+#+title: Vjjtw Hvrja Amycz 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Amycz
+- vintage :: 1970
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.61
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:404440ca-fdbf-4934-9f6d-bcdb5a273fe7][Vjjtw Hvrja Amycz 1970 - 2016-11-8]]

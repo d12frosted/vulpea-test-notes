@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6094a465-ea18-45c9-a209-a3bec1a1f1f6
+:END:
+#+title: Vjjtw Hvrja Vrf 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vrf
+- vintage :: 1986
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 13.49
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:aee27cbd-3cb2-4be8-9a0d-303d6a35f44c][Vjjtw Hvrja Vrf 1986 - 2002-9-22]]

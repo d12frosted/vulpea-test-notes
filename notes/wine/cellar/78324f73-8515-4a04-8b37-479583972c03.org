@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       78324f73-8515-4a04-8b37-479583972c03
+:END:
+#+title: Rue Ucqb 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ucqb
+- vintage :: 1981
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.48
+- price :: 33.54 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:260dee34-2107-41e3-8424-a82b7de01749][Rue Ucqb 1981 - 2011-10-3]]

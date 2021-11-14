@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9079849a-f168-427f-b25e-1c88d062743f
+:END:
+#+title: Dseajc Jinm Uxnfrb 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Uxnfrb
+- vintage :: 1909
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.68
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:ed6a76cf-242e-41d3-94b7-b5c6deab84dd][Dseajc Jinm Uxnfrb 1909 - 2016-11-18]]

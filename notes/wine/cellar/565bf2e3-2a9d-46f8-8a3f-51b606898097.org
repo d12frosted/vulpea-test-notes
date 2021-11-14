@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       565bf2e3-2a9d-46f8-8a3f-51b606898097
+:END:
+#+title: Dfsxtmx Ilm Iym 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ilm Iym
+- vintage :: 1914
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.3
+- price :: 60.43 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1c5c8b40-d379-4522-9622-349c5af04351
+:END:
+#+title: Mkmt Xxsvb Bkcuufs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Xxsvb Bkcuufs
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.59
+- sugar :: 0.96
+- price :: 89.26 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7354f955-4668-443f-8bab-00cb49668f7b
+:END:
+#+title: Vjjtw Hvrja Cwhbfdn Bhozpm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Cwhbfdn Bhozpm
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.71
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:dd10fe01-e368-4099-bdc8-448edf3770e4][Vjjtw Hvrja Cwhbfdn Bhozpm NV - 1991-4-28]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       80c8613f-b184-4649-a62d-f0d7d2ec3fae
+:END:
+#+title: Miv Okmm Yty 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Okmm Yty
+- vintage :: 2012
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.9
+- price :: 12.57 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 7.5
+- ratings :: [[id:326427d5-c311-4d6a-9072-8ba1c4bde3e6][Miv Okmm Yty 2012 - 2002-1-10]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e6877653-b8f5-4e25-bdfa-be2f5b1b1b7b
+:END:
+#+title: Vjjtw Hvrja Akb Akhjoie 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Akb Akhjoie
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.47
+- sugar :: 4.3
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

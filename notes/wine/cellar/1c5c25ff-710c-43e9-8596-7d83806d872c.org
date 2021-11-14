@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       1c5c25ff-710c-43e9-8596-7d83806d872c
+:END:
+#+title: Cdeexg Fzsp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Fzsp
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.49
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

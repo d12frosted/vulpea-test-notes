@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       110b6d59-f72c-4d80-aa71-7a6623242693
+:END:
+#+title: Lzf Dvk Lyhp 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Dvk Lyhp
+- vintage :: 1942
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.76
+- sugar :: 17.76
+- price :: 35.73 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: duckduckgo
+- rating :: 7.0
+- ratings :: [[id:a64a6948-2d19-4b84-b3d8-a0881d996809][Lzf Dvk Lyhp 1942 - 2001-8-9]]

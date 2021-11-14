@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d515e38f-37ad-42ad-8351-65dbd09abdce
+:END:
+#+title: Lzf Mbpwhhw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mbpwhhw
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.21
+- sugar :: 20.49
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 2.5
+- ratings :: [[id:7c5e1789-e54d-4f60-a147-5330bfb01a38][Lzf Mbpwhhw NV - 2008-7-2]]

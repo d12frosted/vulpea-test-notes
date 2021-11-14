@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       5b3d77ce-2691-41b1-b11b-75fcc1834f42
+:END:
+#+title: Vjjtw Hvrja Elwamza Vagg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Elwamza Vagg
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.120000000000001
+- sugar :: 8.69
+- price :: 10.02 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 7.5
+- ratings :: [[id:d64539b5-a2ea-4239-bfe7-13e527a063d2][Vjjtw Hvrja Elwamza Vagg NV - 2016-9-9]]

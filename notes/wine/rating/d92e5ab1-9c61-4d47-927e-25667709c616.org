@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d92e5ab1-9c61-4d47-927e-25667709c616
+:END:
+#+title: Dfsxtmx Cblimldj Btbj NV - 2024-11-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:e2190f48-7d21-4bba-a33d-3a86b40c1574][Dfsxtmx Cblimldj Btbj]]
+- date :: 2024-11-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

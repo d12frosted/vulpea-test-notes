@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e2eb7e88-084a-485a-b178-b7a5d2e16b71
+:END:
+#+title: Rue Bseg Ibiqjlrv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Bseg Ibiqjlrv
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.98
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

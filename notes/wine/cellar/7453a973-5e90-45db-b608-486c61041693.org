@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7453a973-5e90-45db-b608-486c61041693
+:END:
+#+title: Dfsxtmx Pnsr Hhzynfy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pnsr Hhzynfy
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.64
+- sugar :: 18.99
+- price :: 101.32 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

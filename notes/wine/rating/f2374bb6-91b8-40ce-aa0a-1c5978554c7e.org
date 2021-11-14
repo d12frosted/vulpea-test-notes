@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f2374bb6-91b8-40ce-aa0a-1c5978554c7e
+:END:
+#+title: Njtzvl Jslauol 2020 - 2010-12-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:3d0a1437-1f9d-4215-948a-07ca7c33c8e3][Njtzvl Jslauol 2020]]
+- date :: 2010-12-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

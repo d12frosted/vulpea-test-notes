@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e80435b8-4859-4ca1-a2a1-eb52f1124ff0
+:END:
+#+title: Vjjtw Hvrja Hserwt Xvuisw 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hserwt Xvuisw
+- vintage :: 1989
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.59
+- price :: 70.47 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:6de229c8-447e-4a38-bf08-4cde157dec52][Vjjtw Hvrja Hserwt Xvuisw 1989 - 1993-6-22]]

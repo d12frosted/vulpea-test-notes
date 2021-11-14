@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9a064581-6c9c-4d41-9805-012a7b54cd6a
+:END:
+#+title: Miv Vbctut Bbbbb 2009 - 1999-2-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:fb5bdc1b-3713-4169-9b19-05a82e8bb5e7][Miv Vbctut Bbbbb 2009]]
+- date :: 1999-2-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3ad5bc16-0410-4920-9cbf-057bcce5b93c
+:END:
+#+title: Dseajc Jinm Jrkk 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jrkk
+- vintage :: 2000
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.09
+- sugar :: 6.82
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: wikipedia
+- rating :: NA

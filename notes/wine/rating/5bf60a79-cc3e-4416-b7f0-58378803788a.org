@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5bf60a79-cc3e-4416-b7f0-58378803788a
+:END:
+#+title: Njtzvl Wphjrob NV - 2009-8-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:8fd43023-03f8-4ae7-b5bc-21690acc3578][Njtzvl Wphjrob]]
+- date :: 2009-8-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1df16804-9d0d-4f35-928b-5434287c8f3f
+:END:
+#+title: Vjjtw Hvrja Yxay 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Yxay
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.7
+- sugar :: 21.6
+- price :: 42.44 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

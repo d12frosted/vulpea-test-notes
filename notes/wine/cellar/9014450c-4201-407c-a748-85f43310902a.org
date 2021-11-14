@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9014450c-4201-407c-a748-85f43310902a
+:END:
+#+title: Njtzvl Xpow 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xpow
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.21
+- sugar :: 17.64
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

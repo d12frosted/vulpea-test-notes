@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9662755a-8389-4a37-b539-730500941430
+:END:
+#+title: Miv Nnxvd Qollvvww 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Nnxvd Qollvvww
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.27
+- sugar :: 22.55
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:5856604c-c8ba-4285-a7cb-90b155dc5ac1][Miv Nnxvd Qollvvww NV - 2009-9-20]]

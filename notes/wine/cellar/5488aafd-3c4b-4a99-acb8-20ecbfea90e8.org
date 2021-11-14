@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5488aafd-3c4b-4a99-acb8-20ecbfea90e8
+:END:
+#+title: Njtzvl Xqs Iytteyh 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xqs Iytteyh
+- vintage :: 2004
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.25
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

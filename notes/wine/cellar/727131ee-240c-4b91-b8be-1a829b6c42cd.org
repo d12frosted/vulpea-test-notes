@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       727131ee-240c-4b91-b8be-1a829b6c42cd
+:END:
+#+title: Dseajc Jinm Vkuihwh Xlfftupk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vkuihwh Xlfftupk
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.629999999999999
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:6921c7fc-6845-4ae2-a823-8463cee11756][Dseajc Jinm Vkuihwh Xlfftupk NV - 2004-9-26]]

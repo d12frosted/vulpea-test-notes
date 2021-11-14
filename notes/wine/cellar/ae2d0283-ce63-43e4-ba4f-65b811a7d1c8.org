@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       ae2d0283-ce63-43e4-ba4f-65b811a7d1c8
+:END:
+#+title: Njtzvl Hooswf 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hooswf
+- vintage :: 1920
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.5
+- sugar :: 8.29
+- price :: 68.93 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:600804fd-b8b4-4a63-a6a4-935ab52fadb4][Njtzvl Hooswf 1920 - 2005-6-17]]

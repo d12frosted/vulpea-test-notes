@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       766c1eb0-58ce-4355-b8cc-68266aa88e11
+:END:
+#+title: Vjjtw Hvrja Jcvmxp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Jcvmxp
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.45
+- sugar :: 4.87
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

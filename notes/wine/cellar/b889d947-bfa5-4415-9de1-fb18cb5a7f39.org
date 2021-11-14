@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b889d947-bfa5-4415-9de1-fb18cb5a7f39
+:END:
+#+title: Lzf Exnh Qhe 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Exnh Qhe
+- vintage :: 1942
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.44
+- sugar :: 1.95
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

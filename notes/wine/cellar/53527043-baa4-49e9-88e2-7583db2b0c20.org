@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       53527043-baa4-49e9-88e2-7583db2b0c20
+:END:
+#+title: Dfsxtmx Odsrploq Eocv 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Odsrploq Eocv
+- vintage :: 1981
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.129999999999999
+- sugar :: 20.26
+- price :: 27.87 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

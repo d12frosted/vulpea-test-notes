@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3c44ca17-49bd-442a-abc5-2ef3259a8ed7
+:END:
+#+title: Novr Rlrt Kphglxd Buedwc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Kphglxd Buedwc
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.22
+- sugar :: 2.67
+- price :: 74.29 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

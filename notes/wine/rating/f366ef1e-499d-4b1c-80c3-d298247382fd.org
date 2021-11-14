@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f366ef1e-499d-4b1c-80c3-d298247382fd
+:END:
+#+title: Dfsxtmx Hjjtflob NV - 2008-11-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:142f3da7-1b0e-4f2e-823a-f95791505fb2][Dfsxtmx Hjjtflob]]
+- date :: 2008-11-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

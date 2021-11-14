@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e87e05ae-0c7b-490e-8385-beb3e303a29e
+:END:
+#+title: Dseajc Jinm Jlogaj NV - 2023-10-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:263fd591-9227-42e4-b4ab-26eb84419c7b][Dseajc Jinm Jlogaj]]
+- date :: 2023-10-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4bd3def7-6191-4e11-8018-13c34e9e571b
+:END:
+#+title: Cdeexg Pjfknwn Zmfhzxh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Pjfknwn Zmfhzxh
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.48
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:9426a456-b94c-4014-81bd-c63276da222e][Cdeexg Pjfknwn Zmfhzxh NV - 2006-10-12]]

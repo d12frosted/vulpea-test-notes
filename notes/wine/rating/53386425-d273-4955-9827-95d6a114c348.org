@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       53386425-d273-4955-9827-95d6a114c348
+:END:
+#+title: Rue Ykyz 1988 - 2016-6-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:97317590-d135-449e-99a2-ee99182a7bd3][Rue Ykyz 1988]]
+- date :: 2016-6-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

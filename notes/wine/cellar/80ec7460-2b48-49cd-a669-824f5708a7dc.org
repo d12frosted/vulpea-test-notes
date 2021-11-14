@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       80ec7460-2b48-49cd-a669-824f5708a7dc
+:END:
+#+title: Dseajc Jinm Jphq 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jphq
+- vintage :: 1920
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.03
+- price :: 72.17 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2c882ae8-2763-45e4-8f53-3272715e5c5e
+:END:
+#+title: Cdeexg Hbe Aotrci 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Hbe Aotrci
+- vintage :: 1964
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.21
+- sugar :: 23.83
+- price :: 102.33 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

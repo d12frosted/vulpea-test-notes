@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f9ed20b3-ad74-4a44-a79f-ef235d7b36ee
+:END:
+#+title: Dfsxtmx Grvom 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Grvom
+- vintage :: 2013
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.49
+- price :: 69.83 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

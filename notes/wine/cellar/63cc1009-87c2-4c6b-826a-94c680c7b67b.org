@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       63cc1009-87c2-4c6b-826a-94c680c7b67b
+:END:
+#+title: Mkmt Hydtbuor Hbiebeh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Hydtbuor Hbiebeh
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.55
+- sugar :: 20.52
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:8df96d6d-131d-4359-8635-d532bb6f64f6][Mkmt Hydtbuor Hbiebeh NV - 1996-5-18]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e56854f5-0ec6-4c73-b39a-b33f4e431588
+:END:
+#+title: Dseajc Jinm Lswpohtu Fiuulrn 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lswpohtu Fiuulrn
+- vintage :: 1913
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 12.35
+- price :: 95.72 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1a2b897f-9bd6-48ca-b53f-056e4e3098a5
+:END:
+#+title: Dfsxtmx Mgyhbsd Aabobbra 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mgyhbsd Aabobbra
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.620000000000001
+- price :: 68.89 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

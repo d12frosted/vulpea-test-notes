@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       caf02966-673e-4c93-9cca-f517d87482f7
+:END:
+#+title: Novr Rlrt Ncc Ovxsrbkk 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ncc Ovxsrbkk
+- vintage :: 1974
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.58
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

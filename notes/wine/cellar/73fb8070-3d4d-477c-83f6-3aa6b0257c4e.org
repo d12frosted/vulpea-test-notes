@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       73fb8070-3d4d-477c-83f6-3aa6b0257c4e
+:END:
+#+title: Njtzvl Kqi Sgzh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kqi Sgzh
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.77
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

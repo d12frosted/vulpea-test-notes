@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       03ef480f-5f70-42da-9ba4-b8310cf92c65
+:END:
+#+title: Lzf Dkg Wwlqlt 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Dkg Wwlqlt
+- vintage :: 1997
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.78
+- sugar :: 14.14
+- price :: 90.61 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

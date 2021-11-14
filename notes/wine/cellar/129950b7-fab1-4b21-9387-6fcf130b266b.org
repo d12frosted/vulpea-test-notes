@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       129950b7-fab1-4b21-9387-6fcf130b266b
+:END:
+#+title: Cdeexg Xtaii 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Xtaii
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.02
+- sugar :: 15.47
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       72bf0643-3685-40ef-90fd-9c0046b16e3a
+:END:
+#+title: Cdeexg Ctoaclqu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ctoaclqu
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.26
+- sugar :: 5.23
+- price :: 60.70 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

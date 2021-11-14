@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2d5e876f-6634-4e98-929b-451638719116
+:END:
+#+title: Cdeexg Ddvxigps Dqvgrtsd NV - 1993-8-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:18bb65d9-5a19-4298-81d1-732ed0a5e894][Cdeexg Ddvxigps Dqvgrtsd]]
+- date :: 1993-8-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

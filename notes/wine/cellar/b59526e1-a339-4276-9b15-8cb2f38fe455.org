@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b59526e1-a339-4276-9b15-8cb2f38fe455
+:END:
+#+title: Cdeexg Vvs 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Vvs
+- vintage :: 1965
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.33
+- sugar :: 15.0
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       2c78e76b-b7b5-4f18-b202-f31bcd5da929
+:END:
+#+title: Miv Zmp Gack 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Zmp Gack
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.07
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

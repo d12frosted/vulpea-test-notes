@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6a7e6abf-4c6f-421d-bd8a-1f9a82215527
+:END:
+#+title: Njtzvl Alfjg Oaud 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Alfjg Oaud
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.03
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

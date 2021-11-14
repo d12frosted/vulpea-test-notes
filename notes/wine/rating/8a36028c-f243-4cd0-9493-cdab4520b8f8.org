@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8a36028c-f243-4cd0-9493-cdab4520b8f8
+:END:
+#+title: Njtzvl Ozsly Ofgtef 1968 - 1995-5-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:357fcd0b-8e5d-4e0d-b251-64a96ac597f8][Njtzvl Ozsly Ofgtef 1968]]
+- date :: 1995-5-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

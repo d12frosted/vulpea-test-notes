@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fd491566-3ba8-47e7-9f29-a83a000c675a
+:END:
+#+title: Dseajc Jinm Qacgl 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Qacgl
+- vintage :: 2012
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.89
+- sugar :: 21.14
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:e8aca847-23db-4f2d-aa66-a429b6e14f9d][Dseajc Jinm Qacgl 2012 - 2024-10-23]]

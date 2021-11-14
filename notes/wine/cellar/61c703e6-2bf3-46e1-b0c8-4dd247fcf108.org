@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       61c703e6-2bf3-46e1-b0c8-4dd247fcf108
+:END:
+#+title: Dfsxtmx Vtyrx Uihzwedo 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vtyrx Uihzwedo
+- vintage :: 1947
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.55
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

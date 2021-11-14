@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fdc7ea55-5927-4fe9-accd-bae73ec802c8
+:END:
+#+title: Cdeexg Herujy 1939 - 2007-8-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:af940aa9-1eed-4ac6-9b2b-b7ba14c4e8fe][Cdeexg Herujy 1939]]
+- date :: 2007-8-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

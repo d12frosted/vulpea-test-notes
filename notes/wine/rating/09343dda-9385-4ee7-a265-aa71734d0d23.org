@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       09343dda-9385-4ee7-a265-aa71734d0d23
+:END:
+#+title: Cdeexg Yxdaivz 1919 - 2000-9-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:af10ad90-a0ec-46a5-838a-400dc0a38c0a][Cdeexg Yxdaivz 1919]]
+- date :: 2000-9-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

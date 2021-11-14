@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cd721468-d025-4007-b9cb-b7b988543e4b
+:END:
+#+title: Vjjtw Hvrja Zvrysyeo NV - 2000-2-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:45472f8d-b4cd-4b80-addf-f9ca303b2752][Vjjtw Hvrja Zvrysyeo]]
+- date :: 2000-2-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

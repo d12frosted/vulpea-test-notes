@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       15588b03-7c92-4ce7-bdd8-68e68f05bc1d
+:END:
+#+title: Rue Mwyk Vnsfm 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mwyk Vnsfm
+- vintage :: 1948
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.47
+- sugar :: 8.75
+- price :: 12.12 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

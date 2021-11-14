@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       74726d3e-2c69-4ab5-a3c2-8ed318e483c8
+:END:
+#+title: Dseajc Jinm Vfpwafj Yxgcb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vfpwafj Yxgcb
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.64
+- sugar :: 6.0
+- price :: 43.62 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 6.0
+- ratings :: [[id:01253177-4a56-4760-86c1-a7d815ce55ca][Dseajc Jinm Vfpwafj Yxgcb NV - 2006-4-18]]

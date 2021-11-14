@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cf538d00-e0b5-4f42-8423-25f584e5adc7
+:END:
+#+title: Mkmt Knesizsu Metz 1928 - 2020-3-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:d0bf830d-d798-4f9b-9fcc-19cad12c1a1e][Mkmt Knesizsu Metz 1928]]
+- date :: 2020-3-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

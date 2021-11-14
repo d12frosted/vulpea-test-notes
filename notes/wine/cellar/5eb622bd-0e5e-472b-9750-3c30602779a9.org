@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5eb622bd-0e5e-472b-9750-3c30602779a9
+:END:
+#+title: Lzf Ely Asjb 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ely Asjb
+- vintage :: 1992
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.7
+- price :: 22.93 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

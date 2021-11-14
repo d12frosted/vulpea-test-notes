@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7319f8f2-3bbb-4bd2-a24b-8be0aee65aad
+:END:
+#+title: Njtzvl Euyaw Fisgnz 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Euyaw Fisgnz
+- vintage :: 1942
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.4
+- price :: 11.85 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA
