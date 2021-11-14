@@ -49,17 +49,29 @@
     (let ((db (emacsql-sqlite org-roam-db-location)))
       (message "Count of notes: %s"
                (caar (emacsql db "select count(*) from nodes")))
-      (emacsql db [:pragma (= foreign_keys 0)])
-      (emacsql db (format "update nodes set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
-                          (string-remove-suffix "/" org-roam-directory)))
-      (emacsql db (format "update files set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
-                          (string-remove-suffix "/" org-roam-directory)))
-      (emacsql db (format "update notes set path = '\"' || '%s' || replace(path, '\"', '') || '\"'"
-                          (string-remove-suffix "/" org-roam-directory)))))
+      (when-let* ((res (emacsql db [:select file :from files]))
+                  (some-file (caar res)))
+        (unless (string-prefix-p "/" some-file)
+          (emacsql db [:pragma (= foreign_keys 0)])
+          (emacsql db (format "update nodes set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
+                              (file-name-as-directory org-roam-directory)))
+          (emacsql db (format "update files set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
+                              (file-name-as-directory org-roam-directory)))
+          (emacsql db (format "update notes set path = '\"' || '%s' || replace(path, '\"', '') || '\"'"
+                              (file-name-as-directory org-roam-directory)))))))
   (vulpea-db-autosync-enable)
-  (org-roam-db-autosync-enable)
-  (vino-setup)
-  (vino-db-sync))
+  (org-roam-db-autosync-enable))
+
+(defun relativize-file-paths (db-file dir)
+  "Convert file path in DB-FILE into relative to DIR."
+  (let ((db (emacsql-sqlite db-file)))
+    (emacsql db [:pragma (= foreign_keys 0)])
+    (emacsql db (format "update nodes set file = replace(file, '%s', '')"
+                        (file-name-as-directory dir)))
+    (emacsql db (format "update files set file = replace(file, '%s', '')"
+                        (file-name-as-directory dir)))
+    (emacsql db (format "update notes set path = replace(path, '%s', '')"
+                        (file-name-as-directory dir)))))
 
 
 
@@ -108,7 +120,9 @@ Shuffling is done in place."
 (defun sync-db (dir)
   "Synchronise `org-roam-db' in DIR."
   (let ((notes-dir (expand-file-name "notes" dir)))
-    (init-in notes-dir)))
+    (init-in notes-dir)
+    (relativize-file-paths
+     (expand-file-name "org-roam.db" notes-dir) notes-dir)))
 
 (defun generate-data (dir &optional verbose)
   "Generate test data in DIR.
@@ -173,6 +187,8 @@ DIR/notes can be used as `org-roam-directory'."
                   ("property_4" 5)
                   ("property_5" 6)))))
     (init-in notes-dir)
+    (vino-setup)
+    (vino-db-sync)
     (let* ((producers (generate-producers 10 producers-file))
            (grapes (generate-grapes 20 grapes-file))
            (regions (generate-regions 10 regions-file))
@@ -196,14 +212,8 @@ DIR/notes can be used as `org-roam-directory'."
        verbose))
     (message "Generated %s notes" (caar (org-roam-db-query "select count(*) from nodes")))
     (message "Almost done! Converting paths in org-roam.db into relative...")
-    (let ((db (emacsql-sqlite org-roam-db-location)))
-      (emacsql db [:pragma (= foreign_keys 0)])
-      (emacsql db (format "update nodes set file = replace(file, '%s', '')"
-                          org-roam-directory))
-      (emacsql db (format "update files set file = replace(file, '%s', '')"
-                          org-roam-directory))
-      (emacsql db (format "update notes set path = replace(path, '%s', '')"
-                          org-roam-directory)))))
+    (relativize-file-paths org-roam-db-location
+                           org-roam-directory)))
 
 (defun generate-producers (n filename)
   "Generate N producers and store info in FILENAME."
