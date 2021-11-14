@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c5434ecb-cf61-481a-918c-e5ee8acb4184
+:END:
+#+title: Rue Qpt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qpt
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.85
+- sugar :: 8.59
+- price :: 29.19 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

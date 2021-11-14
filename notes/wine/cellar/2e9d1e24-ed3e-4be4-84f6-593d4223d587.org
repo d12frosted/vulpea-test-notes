@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2e9d1e24-ed3e-4be4-84f6-593d4223d587
+:END:
+#+title: Dfsxtmx Lgiwn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Lgiwn
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 9.47
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

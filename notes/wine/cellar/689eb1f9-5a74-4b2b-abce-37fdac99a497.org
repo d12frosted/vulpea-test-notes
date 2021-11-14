@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       689eb1f9-5a74-4b2b-abce-37fdac99a497
+:END:
+#+title: Dseajc Jinm Zbalvlff 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zbalvlff
+- vintage :: 2009
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.44
+- sugar :: 16.23
+- price :: 69.42 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:58e1dd32-e5db-451c-bc40-c69bd3f33bfd][Dseajc Jinm Zbalvlff 2009 - 1993-2-12]]

@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       97b01cf4-343f-45c3-a90d-8bb18daf5578
-:END:
-#+title: Hgqp Bak
-#+filetags: :wine:appellation:
-
-

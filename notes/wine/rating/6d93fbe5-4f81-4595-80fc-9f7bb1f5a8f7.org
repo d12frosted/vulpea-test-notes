@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6d93fbe5-4f81-4595-80fc-9f7bb1f5a8f7
+:END:
+#+title: Vjjtw Hvrja Ukvfdy Axlob 1945 - 2022-9-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:1ce67ad0-00c4-414e-9b4d-2115eaf4b368][Vjjtw Hvrja Ukvfdy Axlob 1945]]
+- date :: 2022-9-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

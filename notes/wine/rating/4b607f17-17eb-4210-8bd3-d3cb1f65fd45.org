@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4b607f17-17eb-4210-8bd3-d3cb1f65fd45
+:END:
+#+title: Rue Izgj NV - 2013-1-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:d6f579b6-c0b5-4f48-a862-1cf431de1e4d][Rue Izgj]]
+- date :: 2013-1-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

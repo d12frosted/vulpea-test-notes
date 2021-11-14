@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       079cede4-e2de-4d31-9330-8b04eafc99fe
+:END:
+#+title: Rue Mzrb 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mzrb
+- vintage :: 1925
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.27
+- sugar :: 7.54
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 2.5
+- ratings :: [[id:2c3820ba-9c68-46a9-8831-7e46be5e344b][Rue Mzrb 1925 - 2009-12-4]]

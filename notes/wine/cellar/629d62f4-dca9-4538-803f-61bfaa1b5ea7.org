@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       629d62f4-dca9-4538-803f-61bfaa1b5ea7
+:END:
+#+title: Njtzvl Ebaqx Rte 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ebaqx Rte
+- vintage :: 1989
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.4
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:27e07cd3-c6c1-480d-b547-648beeca3e7c][Njtzvl Ebaqx Rte 1989 - 2006-4-12]]

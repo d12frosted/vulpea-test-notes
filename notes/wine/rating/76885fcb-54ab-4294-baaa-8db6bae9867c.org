@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       76885fcb-54ab-4294-baaa-8db6bae9867c
+:END:
+#+title: Mkmt Swcu Waupgr 1942 - 2001-8-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:9fe1c27c-0281-4f50-a665-f8f48d3cf642][Mkmt Swcu Waupgr 1942]]
+- date :: 2001-8-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5

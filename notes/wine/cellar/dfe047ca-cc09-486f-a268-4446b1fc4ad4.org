@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dfe047ca-cc09-486f-a268-4446b1fc4ad4
+:END:
+#+title: Vjjtw Hvrja Gnzhje Mrrkxcqh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Gnzhje Mrrkxcqh
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.98
+- sugar :: 7.37
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:3dabb23f-8972-473e-bbf7-6c853251bff8][Vjjtw Hvrja Gnzhje Mrrkxcqh NV - 2004-6-14]]

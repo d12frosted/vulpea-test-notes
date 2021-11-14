@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b39db2ca-be41-4476-a37a-9f8f555b9b9f
+:END:
+#+title: Rue Hljmvchb Ufzd NV - 1991-7-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:0a02ac67-fea1-472b-8598-891ac29406e3][Rue Hljmvchb Ufzd]]
+- date :: 1991-7-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

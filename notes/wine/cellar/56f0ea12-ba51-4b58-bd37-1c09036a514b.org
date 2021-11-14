@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       56f0ea12-ba51-4b58-bd37-1c09036a514b
+:END:
+#+title: Vjjtw Hvrja Yaogfy 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Yaogfy
+- vintage :: 1960
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.120000000000001
+- sugar :: 16.33
+- price :: 46.37 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 5.5
+- ratings :: [[id:fc65f210-56b0-4d95-ace1-3fd22291c6b4][Vjjtw Hvrja Yaogfy 1960 - 2003-6-12]]

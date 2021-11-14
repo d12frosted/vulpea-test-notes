@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7b68d9fe-bddb-47de-b52e-159414218924
+:END:
+#+title: Njtzvl Lgjh Gdkdwqku 1906 - 2012-7-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:1029f3cd-044a-4fc4-8145-384e9709f988][Njtzvl Lgjh Gdkdwqku 1906]]
+- date :: 2012-7-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

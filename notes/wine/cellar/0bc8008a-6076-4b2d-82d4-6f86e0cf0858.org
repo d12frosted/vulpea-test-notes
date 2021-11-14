@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0bc8008a-6076-4b2d-82d4-6f86e0cf0858
+:END:
+#+title: Dseajc Jinm Mqawtl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Mqawtl
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.46
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:95662c39-9b9b-4dca-b8bd-897c3160f3dd][Dseajc Jinm Mqawtl NV - 2006-10-7]]

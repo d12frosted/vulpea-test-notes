@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c2486932-14df-46f2-8430-0139f8cd70df
+:END:
+#+title: Njtzvl Fona Yuhzho NV - 2014-1-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:fa5adf74-1f30-4181-97cf-29323401fd3b][Njtzvl Fona Yuhzho]]
+- date :: 2014-1-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       68fe9820-3eb1-46a9-bec3-197606d4f4a7
+:END:
+#+title: Lzf Hudwj Hgd 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Hudwj Hgd
+- vintage :: 2007
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.03
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA

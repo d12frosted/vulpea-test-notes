@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5d96c5cf-5542-4634-b34b-146c6dabe1ca
+:END:
+#+title: Cdeexg Cvutfaxj 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Cvutfaxj
+- vintage :: 1960
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.73
+- price :: 92.64 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

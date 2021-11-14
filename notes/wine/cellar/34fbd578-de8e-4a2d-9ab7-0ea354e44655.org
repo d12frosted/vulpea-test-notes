@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       34fbd578-de8e-4a2d-9ab7-0ea354e44655
+:END:
+#+title: Dfsxtmx Ialnimi Qbx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ialnimi Qbx
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.09
+- price :: 14.13 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

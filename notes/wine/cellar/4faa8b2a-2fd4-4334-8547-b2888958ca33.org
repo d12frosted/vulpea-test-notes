@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4faa8b2a-2fd4-4334-8547-b2888958ca33
+:END:
+#+title: Novr Rlrt Revy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Revy
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.21
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

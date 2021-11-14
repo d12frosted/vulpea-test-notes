@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6b4f0a8e-9ddb-4759-9547-5c8976466c6c
+:END:
+#+title: Dfsxtmx Tpopyk Npx 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Tpopyk Npx
+- vintage :: 2005
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.31
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

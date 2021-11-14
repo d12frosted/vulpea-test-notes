@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d00017b2-019d-4111-8753-587bf173d1a5
+:END:
+#+title: Novr Rlrt Vmygkgdd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vmygkgdd
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.83
+- sugar :: 19.27
+- price :: 63.77 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

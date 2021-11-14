@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       845b9570-87f2-4b6e-bf9c-fd160d1b632b
+:END:
+#+title: Dfsxtmx Xbquyh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xbquyh
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.07
+- price :: 67.26 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e78e8f35-3feb-4247-9e5e-a2fcd9ee049d
+:END:
+#+title: Miv Ryskedlg 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ryskedlg
+- vintage :: 1951
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.07
+- sugar :: 17.66
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:d1147d24-3ab6-4ed9-ae2f-5bde09580389][Miv Ryskedlg 1951 - 1998-11-2]]

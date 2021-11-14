@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       055cf198-2690-429c-afcb-0d15e85dd480
+:END:
+#+title: Novr Rlrt Rvbkaow NV - 2008-3-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:53060e33-b194-4eb6-aea4-4f0f49d3a8c1][Novr Rlrt Rvbkaow]]
+- date :: 2008-3-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       624a21ef-1ded-4d4b-909e-2c531b8125ae
+:END:
+#+title: Njtzvl Wev Bxwmeaaw 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Wev Bxwmeaaw
+- vintage :: 1991
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.45
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b40f6f41-cc90-4a88-97c9-c80a8457f954
+:END:
+#+title: Vjjtw Hvrja Dwffoqy Xrs 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dwffoqy Xrs
+- vintage :: 1958
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.75
+- sugar :: 4.34
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

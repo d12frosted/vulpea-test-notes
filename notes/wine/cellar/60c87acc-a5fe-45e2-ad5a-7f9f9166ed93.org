@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       60c87acc-a5fe-45e2-ad5a-7f9f9166ed93
+:END:
+#+title: Njtzvl Kmyhcvrq 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kmyhcvrq
+- vintage :: 1915
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.08
+- sugar :: 3.29
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:254f2d3c-2366-4fec-8c65-df81d0c2ceb4][Njtzvl Kmyhcvrq 1915 - 1992-2-21]]

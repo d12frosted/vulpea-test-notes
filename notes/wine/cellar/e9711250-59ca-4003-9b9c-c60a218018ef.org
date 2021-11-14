@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       e9711250-59ca-4003-9b9c-c60a218018ef
+:END:
+#+title: Novr Rlrt Ger Fyqp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ger Fyqp
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 11.86
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

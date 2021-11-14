@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b09bf211-8bb6-484e-b2a9-456efa7abb2d
+:END:
+#+title: Dfsxtmx Woghzctn 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Woghzctn
+- vintage :: 1985
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.7
+- sugar :: 21.82
+- price :: 38.71 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

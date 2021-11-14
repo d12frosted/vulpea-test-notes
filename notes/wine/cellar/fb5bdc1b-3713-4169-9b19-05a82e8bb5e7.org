@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       fb5bdc1b-3713-4169-9b19-05a82e8bb5e7
+:END:
+#+title: Miv Vbctut Bbbbb 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vbctut Bbbbb
+- vintage :: 2009
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.120000000000001
+- sugar :: 3.25
+- price :: 21.38 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 7.0
+- ratings :: [[id:9a064581-6c9c-4d41-9805-012a7b54cd6a][Miv Vbctut Bbbbb 2009 - 1999-2-23]]

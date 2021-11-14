@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0490069f-77b5-467a-b2fa-708d15116bc1
+:END:
+#+title: Dfsxtmx Osdpzmq 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Osdpzmq
+- vintage :: 1938
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.01
+- sugar :: 20.29
+- price :: 21.32 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:9f57359d-05ae-4b19-beb4-4a43f1646099][Dfsxtmx Osdpzmq 1938 - 2017-10-9]]

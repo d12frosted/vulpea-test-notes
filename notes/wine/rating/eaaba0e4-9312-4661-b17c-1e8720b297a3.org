@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       eaaba0e4-9312-4661-b17c-1e8720b297a3
+:END:
+#+title: Dseajc Jinm Ijoaxk NV - 2019-10-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:482e10b0-2657-437a-b817-478e38786b5f][Dseajc Jinm Ijoaxk]]
+- date :: 2019-10-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       70bf63fe-c10d-4b37-a4b5-f0bd2014d28e
+:END:
+#+title: Vjjtw Hvrja Dmsenzfr NV - 2003-4-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:677fe028-7d0f-4e3f-a923-a29597387a27][Vjjtw Hvrja Dmsenzfr]]
+- date :: 2003-4-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

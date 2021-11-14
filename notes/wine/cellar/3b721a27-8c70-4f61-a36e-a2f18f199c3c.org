@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3b721a27-8c70-4f61-a36e-a2f18f199c3c
+:END:
+#+title: Vjjtw Hvrja Ufwfoq Qjr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ufwfoq Qjr
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.9
+- sugar :: 10.68
+- price :: 18.83 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

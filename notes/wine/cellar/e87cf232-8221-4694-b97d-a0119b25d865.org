@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e87cf232-8221-4694-b97d-a0119b25d865
+:END:
+#+title: Vjjtw Hvrja Vpdm Bucdhdr 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vpdm Bucdhdr
+- vintage :: 1958
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.68
+- sugar :: 5.35
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dd1b078a-6518-4224-8b4f-a44e25f445b2
+:END:
+#+title: Dfsxtmx Zwazahrk Qosq 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Zwazahrk Qosq
+- vintage :: 2000
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.18
+- sugar :: 8.1
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:a3ca4da9-ed53-4814-8e89-c43e150997b8][Dfsxtmx Zwazahrk Qosq 2000 - 2004-10-8]]

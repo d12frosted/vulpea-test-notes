@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b71069c4-77ac-466b-9a37-f052cd15bc01
+:END:
+#+title: Njtzvl Hahx Fch NV - 2018-12-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:e2c30d6c-6d7b-4a75-8f6b-d250b9395149][Njtzvl Hahx Fch]]
+- date :: 2018-12-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ae936a2b-6112-469a-a76f-cd3e8aa49163
+:END:
+#+title: Lzf Mxifpu 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mxifpu
+- vintage :: 1936
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 10.08
+- sugar :: 22.46
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:56e42683-63c3-48dd-99a3-e13d643b0b2c][Lzf Mxifpu 1936 - 2000-6-26]]

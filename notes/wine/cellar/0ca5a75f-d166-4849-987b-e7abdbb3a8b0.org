@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0ca5a75f-d166-4849-987b-e7abdbb3a8b0
+:END:
+#+title: Dseajc Jinm Dpnfwpwa Enzvk 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Dpnfwpwa Enzvk
+- vintage :: 1964
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.93
+- price :: 66.44 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

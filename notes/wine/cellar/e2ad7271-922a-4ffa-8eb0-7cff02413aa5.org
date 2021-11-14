@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e2ad7271-922a-4ffa-8eb0-7cff02413aa5
+:END:
+#+title: Vjjtw Hvrja Skjel Ftmwwmq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Skjel Ftmwwmq
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.809999999999999
+- price :: 71.65 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.0
+- ratings :: [[id:ebdc709b-8cff-4660-9d14-d7ea8b996aa9][Vjjtw Hvrja Skjel Ftmwwmq NV - 1991-3-11]]

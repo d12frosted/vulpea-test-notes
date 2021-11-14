@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       be77454c-984a-4e91-8f8a-a7e036d1925e
+:END:
+#+title: Njtzvl Aexcsxvp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Aexcsxvp
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.52
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cb68ba96-46cc-4b83-bff2-9383986f9a84
+:END:
+#+title: Njtzvl Xeuph Ueblu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xeuph Ueblu
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 9.04
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 5.0
+- ratings :: [[id:00d44a69-716b-4c02-b6d9-d9480e4abf5a][Njtzvl Xeuph Ueblu NV - 2010-2-18]]

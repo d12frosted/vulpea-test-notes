@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       560dfe90-d464-4066-982c-8ca59662ec4d
+:END:
+#+title: Miv Xhjtxodq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xhjtxodq
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.83
+- price :: 100.51 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA

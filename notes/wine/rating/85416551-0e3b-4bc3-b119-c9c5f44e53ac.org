@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       85416551-0e3b-4bc3-b119-c9c5f44e53ac
+:END:
+#+title: Cdeexg Zligywpn NV - 2012-6-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:c75ad123-88ac-40e3-b672-459f523e5ad9][Cdeexg Zligywpn]]
+- date :: 2012-6-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

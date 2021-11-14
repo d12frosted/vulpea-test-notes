@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d9df7074-366a-488c-a9e7-08187220f679
+:END:
+#+title: Dfsxtmx Xzxy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xzxy
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 9.7
+- sugar :: 2.79
+- price :: 35.38 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

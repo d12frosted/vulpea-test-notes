@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0db783de-4d81-49bf-87fe-be6f6b14a4aa
+:END:
+#+title: Novr Rlrt Uswny Pccgwide 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Uswny Pccgwide
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 10.54
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 8.5
+- ratings :: [[id:ea773572-34d4-4bc9-91ed-35b25ee628aa][Novr Rlrt Uswny Pccgwide NV - 2003-5-15]]

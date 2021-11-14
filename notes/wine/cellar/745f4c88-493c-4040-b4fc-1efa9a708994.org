@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       745f4c88-493c-4040-b4fc-1efa9a708994
+:END:
+#+title: Cdeexg Ccnpm Uct 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ccnpm Uct
+- vintage :: 1921
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 10.85
+- price :: 69.13 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:453ed1cb-12bd-4d2c-8761-75e611079fae][Cdeexg Ccnpm Uct 1921 - 2017-8-20]]

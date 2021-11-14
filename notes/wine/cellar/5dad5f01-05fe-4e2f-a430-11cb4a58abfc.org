@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5dad5f01-05fe-4e2f-a430-11cb4a58abfc
+:END:
+#+title: Cdeexg Sctevekf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Sctevekf
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.53
+- sugar :: 22.3
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:ba13f4e7-b3d2-4c89-a6d3-0ce35789ee0e][Cdeexg Sctevekf NV - 1996-10-23]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5f990aae-2052-440f-b73b-eb2ff2a13d0a
+:END:
+#+title: Dfsxtmx Uufc 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Uufc
+- vintage :: 1995
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.84
+- sugar :: 8.88
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 7.5
+- ratings :: [[id:f8db8112-d0d3-472a-afe9-1eb177104504][Dfsxtmx Uufc 1995 - 2001-8-13]]

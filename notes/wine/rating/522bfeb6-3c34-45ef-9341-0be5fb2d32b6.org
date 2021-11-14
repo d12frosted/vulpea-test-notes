@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       522bfeb6-3c34-45ef-9341-0be5fb2d32b6
+:END:
+#+title: Rue Mdkhrvvq Hrzp 2015 - 1991-9-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:91539f0c-d980-4cfe-961c-47f773abd6dc][Rue Mdkhrvvq Hrzp 2015]]
+- date :: 1991-9-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

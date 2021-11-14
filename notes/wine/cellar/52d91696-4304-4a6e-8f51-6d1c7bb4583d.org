@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       52d91696-4304-4a6e-8f51-6d1c7bb4583d
+:END:
+#+title: Vjjtw Hvrja Mwcmprg 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mwcmprg
+- vintage :: 1945
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.46
+- price :: 48.50 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:421d0a92-96cd-4bb6-a539-cb80afaee04b][Vjjtw Hvrja Mwcmprg 1945 - 2002-9-9]]

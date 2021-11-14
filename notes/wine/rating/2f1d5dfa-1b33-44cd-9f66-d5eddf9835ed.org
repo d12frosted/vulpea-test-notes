@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2f1d5dfa-1b33-44cd-9f66-d5eddf9835ed
+:END:
+#+title: Lzf Qjxqsf Rmtlvvu NV - 2012-8-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:ced02425-411d-4bbc-bc6d-c7db6a2b1f19][Lzf Qjxqsf Rmtlvvu]]
+- date :: 2012-8-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

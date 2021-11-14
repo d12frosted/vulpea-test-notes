@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9577022a-b8a3-45c3-bfbb-c6a6e2a413f5
+:END:
+#+title: Rue Vgushlvo Ghn 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vgushlvo Ghn
+- vintage :: 2005
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.32
+- sugar :: 3.5
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

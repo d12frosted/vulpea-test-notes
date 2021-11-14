@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       49a89aa1-329b-4063-8109-5c0248b08792
+:END:
+#+title: Rue Djxubj Xyz 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Djxubj Xyz
+- vintage :: 1928
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.43
+- sugar :: 11.01
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       63584d4e-2b5b-4014-8a3d-3025c5b7f6dc
+:END:
+#+title: Cdeexg Nolkfm Fwf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Nolkfm Fwf
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.35
+- price :: 7.11 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       acddb73b-25d0-413e-b9e5-797e5bdd69fe
+:END:
+#+title: Vjjtw Hvrja Rfjycdx Dnzfehj 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Rfjycdx Dnzfehj
+- vintage :: 1997
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.68
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       413056ee-800b-44b6-be2c-933598174e97
+:END:
+#+title: Miv Vayg Inc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vayg Inc
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.65
+- sugar :: 17.57
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: duckduckgo
+- rating :: NA

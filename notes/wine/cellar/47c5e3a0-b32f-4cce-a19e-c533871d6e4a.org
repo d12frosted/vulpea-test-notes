@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       47c5e3a0-b32f-4cce-a19e-c533871d6e4a
+:END:
+#+title: Rue Ron Nmatav 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ron Nmatav
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.15
+- sugar :: 23.29
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

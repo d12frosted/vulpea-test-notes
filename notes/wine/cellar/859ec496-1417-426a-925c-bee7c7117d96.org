@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       859ec496-1417-426a-925c-bee7c7117d96
+:END:
+#+title: Dseajc Jinm Qdquudm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Qdquudm
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 9.92
+- sugar :: 21.28
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

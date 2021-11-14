@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       221e98fe-deac-4ae7-8ee6-f94c0c387cc8
+:END:
+#+title: Cdeexg Bcyxnbw 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bcyxnbw
+- vintage :: 1993
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.51
+- price :: 6.54 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

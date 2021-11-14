@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       79143d29-551c-4ccd-9a81-cefa622664d8
+:END:
+#+title: Novr Rlrt Qmzdkiuu Edv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Qmzdkiuu Edv
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 9.6
+- sugar :: 18.69
+- price :: 93.32 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

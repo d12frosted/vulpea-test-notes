@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       65f0fbb8-696a-479c-a2e2-59260c7fbf54
+:END:
+#+title: Miv Iyu Nqkcsk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Iyu Nqkcsk
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.17
+- price :: 13.67 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 2.5
+- ratings :: [[id:180bcb46-6a07-43ff-bc9f-0609b3cb6631][Miv Iyu Nqkcsk NV - 2024-9-26]]

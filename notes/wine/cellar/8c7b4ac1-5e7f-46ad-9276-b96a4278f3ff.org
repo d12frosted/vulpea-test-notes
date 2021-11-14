@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8c7b4ac1-5e7f-46ad-9276-b96a4278f3ff
+:END:
+#+title: Vjjtw Hvrja Oqwgb Ttshzb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Oqwgb Ttshzb
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.19
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1c0c5498-bc66-4e94-afd1-2c2953cb83b2
+:END:
+#+title: Miv Kugfw Kgfcw 1902 - 1992-4-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:050dc8a0-0357-490b-ab09-af88e2312ce4][Miv Kugfw Kgfcw 1902]]
+- date :: 1992-4-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       58392d7d-f32a-4ff6-9354-16de18bcee0d
+:END:
+#+title: Dseajc Jinm Tudf Wazq 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tudf Wazq
+- vintage :: 1921
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.28
+- sugar :: 0.76
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

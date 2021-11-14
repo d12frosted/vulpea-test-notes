@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b9408fe7-fb17-4673-9998-da0930138179
+:END:
+#+title: Novr Rlrt Dosfoyp Bbvnuac 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Dosfoyp Bbvnuac
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.66
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:7cec6400-534b-4dec-ab11-77523f4970bd][Novr Rlrt Dosfoyp Bbvnuac NV - 1998-2-8]]

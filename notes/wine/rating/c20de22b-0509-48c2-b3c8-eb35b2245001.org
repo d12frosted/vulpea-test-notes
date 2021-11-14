@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c20de22b-0509-48c2-b3c8-eb35b2245001
+:END:
+#+title: Miv Bgy NV - 2002-1-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:04570ce1-aa1f-4a59-8fdb-ebde3bfb6ccf][Miv Bgy]]
+- date :: 2002-1-24
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

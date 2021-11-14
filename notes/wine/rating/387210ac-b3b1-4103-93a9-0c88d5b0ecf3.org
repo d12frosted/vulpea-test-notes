@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       387210ac-b3b1-4103-93a9-0c88d5b0ecf3
+:END:
+#+title: Cdeexg Ywyu NV - 2010-8-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:7856ce83-33b2-4e1f-8c1b-0c534aa6f575][Cdeexg Ywyu]]
+- date :: 2010-8-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b8f12acc-d8af-42e7-9c51-120aa69d3b91
+:END:
+#+title: Rue Pvyr Ddwijkx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Pvyr Ddwijkx
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.93
+- sugar :: 23.3
+- price :: 71.73 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:95dbe0b1-3125-46ad-a3fe-c44f5d2ddd85][Rue Pvyr Ddwijkx NV - 2000-3-19]]

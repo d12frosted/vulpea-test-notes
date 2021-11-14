@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c9bc6251-bdff-4753-8962-e57b24964de3
+:END:
+#+title: Mkmt Xxxia Siprglp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Xxxia Siprglp
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.54
+- sugar :: 11.76
+- price :: 38.58 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

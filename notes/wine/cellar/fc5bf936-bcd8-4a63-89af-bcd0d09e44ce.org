@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fc5bf936-bcd8-4a63-89af-bcd0d09e44ce
+:END:
+#+title: Mkmt Jjfrsfz 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Jjfrsfz
+- vintage :: 1900
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.27
+- sugar :: 5.34
+- price :: 101.67 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:f0dc703a-35b6-4d78-9b38-ec31b5a8cbf9][Mkmt Jjfrsfz 1900 - 2002-10-16]]

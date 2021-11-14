@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d3c5f60f-589a-439d-b112-95c2aefa370c
+:END:
+#+title: Dseajc Jinm Tbgtws Crxzy 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tbgtws Crxzy
+- vintage :: 1931
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.15
+- price :: 82.00 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dc198367-a8f2-44f7-bfd7-5ab6033a9bca
+:END:
+#+title: Cdeexg Pxlppjr NV - 2004-12-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:b6b45db7-6e8c-4b96-9e29-e06c5eb815fb][Cdeexg Pxlppjr]]
+- date :: 2004-12-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

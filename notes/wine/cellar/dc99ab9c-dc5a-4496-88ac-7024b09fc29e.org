@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dc99ab9c-dc5a-4496-88ac-7024b09fc29e
+:END:
+#+title: Dseajc Jinm Zbfyejsx Isnfxye 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zbfyejsx Isnfxye
+- vintage :: 1965
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 9.66
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:657c6481-584d-4af6-8e0a-9e7751115e6e][Dseajc Jinm Zbfyejsx Isnfxye 1965 - 2001-4-23]]

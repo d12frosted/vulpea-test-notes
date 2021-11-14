@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c6ded961-8835-426a-a913-d300022a8d5a
+:END:
+#+title: Miv Jrdpkee 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Jrdpkee
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.82
+- sugar :: 16.95
+- price :: 41.31 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

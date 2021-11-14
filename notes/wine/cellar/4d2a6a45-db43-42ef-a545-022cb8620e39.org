@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4d2a6a45-db43-42ef-a545-022cb8620e39
+:END:
+#+title: Miv Izdn 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Izdn
+- vintage :: 1987
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.69
+- sugar :: 20.54
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

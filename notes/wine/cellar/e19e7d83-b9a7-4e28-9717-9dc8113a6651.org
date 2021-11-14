@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e19e7d83-b9a7-4e28-9717-9dc8113a6651
+:END:
+#+title: Miv Gbfjmr 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Gbfjmr
+- vintage :: 1952
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.3
+- price :: 15.51 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:9b8ad4b8-4758-4930-9c34-cbf7a387715e][Miv Gbfjmr 1952 - 2003-3-18]]

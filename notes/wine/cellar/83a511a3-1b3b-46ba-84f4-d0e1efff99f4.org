@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       83a511a3-1b3b-46ba-84f4-d0e1efff99f4
+:END:
+#+title: Njtzvl Vnj 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Vnj
+- vintage :: 1902
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.52
+- sugar :: 23.71
+- price :: 21.82 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:7c60d6b2-18c8-4b4a-b148-df80fa73a91a][Njtzvl Vnj 1902 - 2022-7-22]]

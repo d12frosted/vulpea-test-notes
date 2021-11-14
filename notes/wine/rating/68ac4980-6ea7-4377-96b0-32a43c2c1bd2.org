@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       68ac4980-6ea7-4377-96b0-32a43c2c1bd2
+:END:
+#+title: Dfsxtmx Iax NV - 2003-10-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:d239bca2-f562-48b2-b605-952466f3cee8][Dfsxtmx Iax]]
+- date :: 2003-10-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

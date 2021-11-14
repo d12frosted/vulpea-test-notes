@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       23e85559-4429-49ec-ae53-f1ad72a483c5
+:END:
+#+title: Cdeexg Slze Wgyda 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Slze Wgyda
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.21
+- sugar :: 4.13
+- price :: 81.49 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

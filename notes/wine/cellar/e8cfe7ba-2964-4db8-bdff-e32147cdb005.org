@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e8cfe7ba-2964-4db8-bdff-e32147cdb005
+:END:
+#+title: Lzf Kgcchec Solg 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Kgcchec Solg
+- vintage :: 1981
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.06
+- sugar :: 11.76
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 7.5
+- ratings :: [[id:51b2f3ca-b099-48f7-b944-c6882be41932][Lzf Kgcchec Solg 1981 - 1991-5-1]]

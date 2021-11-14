@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       77409408-a27c-4383-816e-5b5fa95e1ae2
+:END:
+#+title: Rue Zvavglwl Cebn 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Zvavglwl Cebn
+- vintage :: 1985
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 9.04
+- sugar :: 16.1
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

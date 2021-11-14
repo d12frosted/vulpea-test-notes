@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       76aec46b-199d-4ee2-b118-4eae20fd60b0
+:END:
+#+title: Mkmt Zasqvikq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zasqvikq
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.6
+- sugar :: 5.03
+- price :: 24.50 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       99baec75-506d-4a10-9b4d-e9960257ae4c
+:END:
+#+title: Dfsxtmx Xayvchr Oatdx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xayvchr Oatdx
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.74
+- sugar :: 9.9
+- price :: 63.39 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

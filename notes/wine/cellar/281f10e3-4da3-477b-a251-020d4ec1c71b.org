@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       281f10e3-4da3-477b-a251-020d4ec1c71b
+:END:
+#+title: Cdeexg Banap 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Banap
+- vintage :: 1962
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.45
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:ef59aeda-29b4-4dd3-9b88-691e7bcb9ef7][Cdeexg Banap 1962 - 2024-6-6]]

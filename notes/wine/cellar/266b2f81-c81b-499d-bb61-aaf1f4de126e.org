@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       266b2f81-c81b-499d-bb61-aaf1f4de126e
+:END:
+#+title: Mkmt Fqjwzfso 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fqjwzfso
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.03
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

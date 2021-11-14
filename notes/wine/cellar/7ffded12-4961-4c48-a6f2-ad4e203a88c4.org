@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7ffded12-4961-4c48-a6f2-ad4e203a88c4
+:END:
+#+title: Dseajc Jinm Xipomnc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xipomnc
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.17
+- price :: 51.12 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.0
+- ratings :: [[id:c1aab306-d863-4c94-8833-da7ec70fa21f][Dseajc Jinm Xipomnc NV - 2015-11-1]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c2bc1b04-497c-428b-a050-f4d2f9c0e94b
+:END:
+#+title: Dfsxtmx Lwvem 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Lwvem
+- vintage :: 1924
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 12.379999999999999
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

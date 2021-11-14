@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1a72c576-053d-4146-9f05-c461a44226dd
+:END:
+#+title: Dfsxtmx Mjano Vfg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mjano Vfg
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.13
+- sugar :: 8.19
+- price :: 53.56 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

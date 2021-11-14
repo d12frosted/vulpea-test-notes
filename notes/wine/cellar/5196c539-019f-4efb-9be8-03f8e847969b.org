@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5196c539-019f-4efb-9be8-03f8e847969b
+:END:
+#+title: Lzf Gqekcjni Lakzvuf 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Gqekcjni Lakzvuf
+- vintage :: 1968
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 12.41
+- sugar :: 1.85
+- price :: 66.75 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

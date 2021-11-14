@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1c8f9053-586b-4bef-88f5-4f5c4683f395
+:END:
+#+title: Vjjtw Hvrja Sjhwbft Dnbwymtj 1915 - 1995-8-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:6221d12e-0298-41d4-9fb9-4faa419ff28c][Vjjtw Hvrja Sjhwbft Dnbwymtj 1915]]
+- date :: 1995-8-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

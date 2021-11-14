@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9e9667b8-fdf1-4a89-a99c-0533fada95b8
+:END:
+#+title: Miv Xmmhzna Phga 1902 - 2023-3-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:1c4d3545-da72-41ac-a839-de41f008ca08][Miv Xmmhzna Phga 1902]]
+- date :: 2023-3-11
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

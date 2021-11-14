@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3276b8bc-e19c-48bb-84cf-1c15e37096f2
+:END:
+#+title: Njtzvl Yyyxvc Grdv 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Yyyxvc Grdv
+- vintage :: 1910
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.17
+- sugar :: 4.03
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

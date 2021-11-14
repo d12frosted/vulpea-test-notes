@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       868ab3b2-a787-4676-9bf0-277dbd577dac
+:END:
+#+title: Rue Dekark 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Dekark
+- vintage :: 1935
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.45
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.0
+- ratings :: [[id:0497fecd-ac7d-48aa-96a9-d502b94510a3][Rue Dekark 1935 - 2011-1-7]]

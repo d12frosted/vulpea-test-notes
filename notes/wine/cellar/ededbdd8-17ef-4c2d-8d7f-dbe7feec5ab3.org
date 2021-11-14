@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ededbdd8-17ef-4c2d-8d7f-dbe7feec5ab3
+:END:
+#+title: Rue Jpf Qgxzdw 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jpf Qgxzdw
+- vintage :: 1904
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.04
+- price :: 33.03 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

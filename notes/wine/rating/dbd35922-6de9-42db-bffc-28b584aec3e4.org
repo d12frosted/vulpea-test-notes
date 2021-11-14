@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dbd35922-6de9-42db-bffc-28b584aec3e4
+:END:
+#+title: Miv Bjwcjum 1925 - 2001-11-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:15c3e39e-8752-4c6b-8f90-fbe6e9ac62ce][Miv Bjwcjum 1925]]
+- date :: 2001-11-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

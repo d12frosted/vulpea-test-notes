@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b05998c5-8017-4d4a-85ce-abc778d9152f
+:END:
+#+title: Njtzvl Nbywmzgh Lvm 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Nbywmzgh Lvm
+- vintage :: 1911
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.3
+- price :: 29.91 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

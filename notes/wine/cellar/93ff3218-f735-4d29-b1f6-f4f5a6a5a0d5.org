@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       93ff3218-f735-4d29-b1f6-f4f5a6a5a0d5
+:END:
+#+title: Miv Sqa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sqa
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.379999999999999
+- sugar :: 9.83
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:bbe2c760-7b07-488c-aa7d-bf6749667beb][Miv Sqa NV - 2007-11-25]]

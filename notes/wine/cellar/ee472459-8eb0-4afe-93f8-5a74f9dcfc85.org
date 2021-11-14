@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       ee472459-8eb0-4afe-93f8-5a74f9dcfc85
+:END:
+#+title: Cdeexg Ybiizxz 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ybiizxz
+- vintage :: 1900
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.22
+- sugar :: 19.87
+- price :: 41.75 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.5
+- ratings :: [[id:69e43f32-2bf2-413f-beb3-0f56558c4024][Cdeexg Ybiizxz 1900 - 2021-6-23]]

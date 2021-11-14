@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       781cf835-4d94-4b38-b1a9-b617502567de
+:END:
+#+title: Miv Lfa 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Lfa
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 11.06
+- price :: 63.52 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

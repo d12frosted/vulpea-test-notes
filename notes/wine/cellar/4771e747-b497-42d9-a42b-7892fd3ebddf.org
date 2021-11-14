@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4771e747-b497-42d9-a42b-7892fd3ebddf
+:END:
+#+title: Miv Ynnve 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ynnve
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.89
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.0
+- ratings :: [[id:e6bd48ea-0d43-4dfb-80c7-92f6cc2fe6e8][Miv Ynnve NV - 2012-6-19]]

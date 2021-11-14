@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cf83338d-8271-4d92-83a9-a9915ce55222
+:END:
+#+title: Vjjtw Hvrja Kprp 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Kprp
+- vintage :: 1992
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.73
+- sugar :: 14.37
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

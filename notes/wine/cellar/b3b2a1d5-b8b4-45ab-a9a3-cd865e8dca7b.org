@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b3b2a1d5-b8b4-45ab-a9a3-cd865e8dca7b
+:END:
+#+title: Vjjtw Hvrja Njhj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Njhj
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.99
+- sugar :: 2.1
+- price :: 80.34 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 2.0
+- ratings :: [[id:4d27696e-be5f-43da-8312-9922aaf5db0b][Vjjtw Hvrja Njhj NV - 1998-7-19]]

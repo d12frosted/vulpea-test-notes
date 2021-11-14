@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6ad146f2-739a-4191-a4f0-c1371ffe2c57
+:END:
+#+title: Dfsxtmx Fgorwvhl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Fgorwvhl
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.29
+- sugar :: 21.87
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 6.0
+- ratings :: [[id:039f1578-149a-4466-8d50-cf222cb62feb][Dfsxtmx Fgorwvhl NV - 2003-3-5]]

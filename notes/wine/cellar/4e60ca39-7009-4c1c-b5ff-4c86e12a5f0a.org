@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4e60ca39-7009-4c1c-b5ff-4c86e12a5f0a
+:END:
+#+title: Novr Rlrt Ybk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ybk
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.72
+- price :: 69.94 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

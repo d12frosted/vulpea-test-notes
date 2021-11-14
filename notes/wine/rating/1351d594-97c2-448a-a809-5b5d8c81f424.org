@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1351d594-97c2-448a-a809-5b5d8c81f424
+:END:
+#+title: Cdeexg Svxmx NV - 2005-7-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:caf7b038-f23c-403a-a90e-9e3c0368520c][Cdeexg Svxmx]]
+- date :: 2005-7-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

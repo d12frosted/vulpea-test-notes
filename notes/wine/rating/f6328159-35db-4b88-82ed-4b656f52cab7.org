@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f6328159-35db-4b88-82ed-4b656f52cab7
+:END:
+#+title: Dfsxtmx Xpoid NV - 2013-9-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:adec2305-dfa2-4997-8cf3-1d3108059772][Dfsxtmx Xpoid]]
+- date :: 2013-9-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

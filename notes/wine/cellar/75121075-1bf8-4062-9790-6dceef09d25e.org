@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       75121075-1bf8-4062-9790-6dceef09d25e
+:END:
+#+title: Dfsxtmx Cnmo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Cnmo
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 13.8
+- sugar :: 14.64
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:1be0580b-b681-43e4-ae90-e5766a465563][Dfsxtmx Cnmo NV - 2003-6-5]]

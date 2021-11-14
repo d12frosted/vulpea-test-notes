@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       aea6142e-82bb-4135-8416-89ed9d097691
+:END:
+#+title: Rue Radmv Lvyxo 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Radmv Lvyxo
+- vintage :: 1982
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.870000000000001
+- sugar :: 9.9
+- price :: 7.80 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

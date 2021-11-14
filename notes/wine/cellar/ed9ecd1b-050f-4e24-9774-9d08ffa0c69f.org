@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ed9ecd1b-050f-4e24-9774-9d08ffa0c69f
+:END:
+#+title: Miv Mke 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mke
+- vintage :: 1972
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.93
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

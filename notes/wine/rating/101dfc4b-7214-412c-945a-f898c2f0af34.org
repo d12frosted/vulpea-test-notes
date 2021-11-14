@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       101dfc4b-7214-412c-945a-f898c2f0af34
+:END:
+#+title: Lzf Eufs 1993 - 2018-3-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:6820deb2-d6d3-417d-a673-625758aee05b][Lzf Eufs 1993]]
+- date :: 2018-3-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

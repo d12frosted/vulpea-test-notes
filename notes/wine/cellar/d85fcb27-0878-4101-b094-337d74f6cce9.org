@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d85fcb27-0878-4101-b094-337d74f6cce9
+:END:
+#+title: Miv Baylt Hqbrv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Baylt Hqbrv
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.38
+- sugar :: 4.96
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

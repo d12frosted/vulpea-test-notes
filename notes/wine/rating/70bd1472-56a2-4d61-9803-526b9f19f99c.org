@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       70bd1472-56a2-4d61-9803-526b9f19f99c
+:END:
+#+title: Vjjtw Hvrja Plpbuw NV - 1999-8-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:746dd4c4-52e9-4e70-a1f9-cc1cf1565cb3][Vjjtw Hvrja Plpbuw]]
+- date :: 1999-8-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       b5a8ee38-9740-4631-80e1-d89f60839c31
+:END:
+#+title: Vjjtw Hvrja Lonub Nhap 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Lonub Nhap
+- vintage :: 1964
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 13.64
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

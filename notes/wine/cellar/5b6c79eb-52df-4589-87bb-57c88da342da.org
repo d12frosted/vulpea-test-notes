@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5b6c79eb-52df-4589-87bb-57c88da342da
+:END:
+#+title: Dfsxtmx Djlcuaxg 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Djlcuaxg
+- vintage :: 1918
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.72
+- price :: 38.45 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

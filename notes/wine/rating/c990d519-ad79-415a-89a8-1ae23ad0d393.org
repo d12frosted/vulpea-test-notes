@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c990d519-ad79-415a-89a8-1ae23ad0d393
+:END:
+#+title: Njtzvl Iupoahqe NV - 1993-2-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:35df5164-0e2d-453a-9f9d-c4549d0da2bc][Njtzvl Iupoahqe]]
+- date :: 1993-2-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

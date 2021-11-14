@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       15a78978-6163-4547-9e9a-52cb32c8d9a9
+:END:
+#+title: Njtzvl Hcuacv 1908 - 2003-1-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:daaf78cf-6489-4da4-bcc9-2c8d331f12cb][Njtzvl Hcuacv 1908]]
+- date :: 2003-1-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

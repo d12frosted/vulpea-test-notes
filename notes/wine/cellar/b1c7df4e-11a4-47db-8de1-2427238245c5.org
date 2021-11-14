@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b1c7df4e-11a4-47db-8de1-2427238245c5
+:END:
+#+title: Rue Fcq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Fcq
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.32
+- sugar :: 11.8
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

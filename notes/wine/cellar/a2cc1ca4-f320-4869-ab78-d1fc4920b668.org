@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a2cc1ca4-f320-4869-ab78-d1fc4920b668
+:END:
+#+title: Dfsxtmx Unylgap Ufsltwr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Unylgap Ufsltwr
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.879999999999999
+- price :: 26.98 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

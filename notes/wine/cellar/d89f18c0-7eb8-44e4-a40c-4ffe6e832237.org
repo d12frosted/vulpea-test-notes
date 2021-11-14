@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d89f18c0-7eb8-44e4-a40c-4ffe6e832237
+:END:
+#+title: Cdeexg Iwhe 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Iwhe
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.41
+- sugar :: 9.74
+- price :: 61.77 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:ac07a3a5-e721-45b6-8a97-e231dc682c9a][Cdeexg Iwhe NV - 2017-8-22]]

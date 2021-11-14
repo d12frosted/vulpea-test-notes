@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7856ce83-33b2-4e1f-8c1b-0c534aa6f575
+:END:
+#+title: Cdeexg Ywyu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ywyu
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.33
+- sugar :: 19.84
+- price :: 25.12 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 3.0
+- ratings :: [[id:387210ac-b3b1-4103-93a9-0c88d5b0ecf3][Cdeexg Ywyu NV - 2010-8-13]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ae2f9722-86ca-4418-8aca-97685bb35862
+:END:
+#+title: Njtzvl Vuuqcvy Zexk 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Vuuqcvy Zexk
+- vintage :: 2009
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.66
+- sugar :: 17.98
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:e59cc4a5-3c4b-49a9-8fac-9ee404dafda8][Njtzvl Vuuqcvy Zexk 2009 - 2024-3-14]]

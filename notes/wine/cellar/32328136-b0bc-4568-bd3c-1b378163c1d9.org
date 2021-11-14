@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       32328136-b0bc-4568-bd3c-1b378163c1d9
+:END:
+#+title: Miv Thjpksd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Thjpksd
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.68
+- sugar :: 5.27
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

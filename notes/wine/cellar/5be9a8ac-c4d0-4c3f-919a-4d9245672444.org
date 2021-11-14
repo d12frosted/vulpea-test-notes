@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5be9a8ac-c4d0-4c3f-919a-4d9245672444
+:END:
+#+title: Vjjtw Hvrja Prn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Prn
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.620000000000001
+- sugar :: 17.18
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

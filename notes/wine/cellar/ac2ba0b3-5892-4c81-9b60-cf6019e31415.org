@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ac2ba0b3-5892-4c81-9b60-cf6019e31415
+:END:
+#+title: Dfsxtmx Twxepr Kjo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Twxepr Kjo
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.74
+- sugar :: 15.59
+- price :: 15.94 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

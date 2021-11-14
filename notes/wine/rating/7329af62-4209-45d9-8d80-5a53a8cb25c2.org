@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7329af62-4209-45d9-8d80-5a53a8cb25c2
+:END:
+#+title: Mkmt Rnngjcp NV - 1996-7-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:1579e2f8-b5e4-42ac-ae28-be066b9abda1][Mkmt Rnngjcp]]
+- date :: 1996-7-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

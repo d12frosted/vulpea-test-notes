@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ea25def3-0ce2-4989-b970-a707a8b8f9c3
+:END:
+#+title: Lzf Vlo Bglxtw 1947 - 2002-2-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:dcd6b77d-bed8-4a67-9701-cddf7e162c25][Lzf Vlo Bglxtw 1947]]
+- date :: 2002-2-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

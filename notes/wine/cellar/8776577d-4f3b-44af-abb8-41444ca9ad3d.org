@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8776577d-4f3b-44af-abb8-41444ca9ad3d
+:END:
+#+title: Vjjtw Hvrja Wzpbdmwz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Wzpbdmwz
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.46
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:7fdc1ac1-fa5d-45db-8df6-ea967e8a297c][Vjjtw Hvrja Wzpbdmwz NV - 2012-6-3]]

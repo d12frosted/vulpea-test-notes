@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a0855449-6090-4d8e-a003-b3a4404e3d70
+:END:
+#+title: Dfsxtmx Ltb Rzsv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ltb Rzsv
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.17
+- sugar :: 12.87
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

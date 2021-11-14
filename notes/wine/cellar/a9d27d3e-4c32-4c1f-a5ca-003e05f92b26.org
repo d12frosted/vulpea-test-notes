@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a9d27d3e-4c32-4c1f-a5ca-003e05f92b26
+:END:
+#+title: Mkmt Mkjwzkfl 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Mkjwzkfl
+- vintage :: 1902
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 11.98
+- sugar :: 7.09
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

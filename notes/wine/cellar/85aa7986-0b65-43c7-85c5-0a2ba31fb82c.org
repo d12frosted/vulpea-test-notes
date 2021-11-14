@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       85aa7986-0b65-43c7-85c5-0a2ba31fb82c
+:END:
+#+title: Dseajc Jinm Zxvhbob Swfq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zxvhbob Swfq
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.54
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

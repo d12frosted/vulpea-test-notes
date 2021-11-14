@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ab91f37d-ce58-4491-b4a6-04847f42e990
+:END:
+#+title: Njtzvl Ypjomuou 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ypjomuou
+- vintage :: 1986
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.54
+- price :: 63.68 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

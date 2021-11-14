@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       70fee5f1-4c57-4413-9964-6cac9cffc576
+:END:
+#+title: Njtzvl Hrnznp Hsa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hrnznp Hsa
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.49
+- sugar :: 5.45
+- price :: 32.79 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

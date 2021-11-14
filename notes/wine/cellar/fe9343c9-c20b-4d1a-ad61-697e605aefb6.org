@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fe9343c9-c20b-4d1a-ad61-697e605aefb6
+:END:
+#+title: Njtzvl Hnkk Gyxj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hnkk Gyxj
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.370000000000001
+- price :: 46.52 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: 2.0
+- ratings :: [[id:5d40a785-14e9-4025-b03d-b4eab9488fe4][Njtzvl Hnkk Gyxj NV - 2008-12-26]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9aa290e6-d3ca-44dc-98cb-1e35e435d66b
+:END:
+#+title: Njtzvl Mxl Sljv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Mxl Sljv
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.440000000000001
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

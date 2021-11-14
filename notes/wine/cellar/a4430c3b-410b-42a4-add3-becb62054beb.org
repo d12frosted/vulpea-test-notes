@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a4430c3b-410b-42a4-add3-becb62054beb
+:END:
+#+title: Cdeexg Bytzscs Vctxipan 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bytzscs Vctxipan
+- vintage :: 1996
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.85
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

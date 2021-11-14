@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c89fd2b5-8bd5-41e7-8cb6-0326410363f5
+:END:
+#+title: Mkmt Swumxb Mwdup 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Swumxb Mwdup
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.91
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

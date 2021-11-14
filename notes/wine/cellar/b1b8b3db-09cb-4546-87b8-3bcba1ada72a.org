@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b1b8b3db-09cb-4546-87b8-3bcba1ada72a
+:END:
+#+title: Vjjtw Hvrja Yhpck 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Yhpck
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.41
+- sugar :: 10.62
+- price :: 17.98 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 2.5
+- ratings :: [[id:80b87476-e2d4-40ec-9ae4-75fdb1a56615][Vjjtw Hvrja Yhpck NV - 1999-12-25]]

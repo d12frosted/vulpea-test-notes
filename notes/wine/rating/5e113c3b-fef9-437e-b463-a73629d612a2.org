@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5e113c3b-fef9-437e-b463-a73629d612a2
+:END:
+#+title: Miv Zwmc 1911 - 2023-11-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:64cae550-cd43-4af9-84d2-d878d534ab9a][Miv Zwmc 1911]]
+- date :: 2023-11-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

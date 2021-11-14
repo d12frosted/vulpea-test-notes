@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8dc4f340-6a49-4a89-aee0-3b221d710634
+:END:
+#+title: Dseajc Jinm Aokho Nozrpfos 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Aokho Nozrpfos
+- vintage :: 1955
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 9.39
+- price :: 49.52 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

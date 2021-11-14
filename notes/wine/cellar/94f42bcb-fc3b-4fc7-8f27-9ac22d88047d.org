@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       94f42bcb-fc3b-4fc7-8f27-9ac22d88047d
+:END:
+#+title: Rue Agtd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Agtd
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.14
+- price :: 92.55 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

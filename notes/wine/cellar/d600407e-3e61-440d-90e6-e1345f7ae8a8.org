@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d600407e-3e61-440d-90e6-e1345f7ae8a8
+:END:
+#+title: Novr Rlrt Lbp Qvgzbc 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lbp Qvgzbc
+- vintage :: 1907
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.06
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

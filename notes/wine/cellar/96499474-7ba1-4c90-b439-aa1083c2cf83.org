@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       96499474-7ba1-4c90-b439-aa1083c2cf83
+:END:
+#+title: Novr Rlrt Vrx 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vrx
+- vintage :: 1946
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.69
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.0
+- ratings :: [[id:9465131f-7731-4358-8be0-73ea46a44ddb][Novr Rlrt Vrx 1946 - 2011-2-28]]

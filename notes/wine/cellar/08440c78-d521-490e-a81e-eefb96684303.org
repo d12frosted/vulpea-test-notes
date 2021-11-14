@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       08440c78-d521-490e-a81e-eefb96684303
+:END:
+#+title: Novr Rlrt Pcixp 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Pcixp
+- vintage :: 1916
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.85
+- price :: 8.64 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

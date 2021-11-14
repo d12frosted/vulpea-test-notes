@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       4c56501b-c77f-416a-9768-53f324a8f6ec
+:END:
+#+title: Miv Msew Yqsqhq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Msew Yqsqhq
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.309999999999999
+- sugar :: 1.61
+- price :: 44.34 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 8.0
+- ratings :: [[id:23e4306b-1959-48ee-9a93-ac8098673b43][Miv Msew Yqsqhq NV - 2004-2-13]]

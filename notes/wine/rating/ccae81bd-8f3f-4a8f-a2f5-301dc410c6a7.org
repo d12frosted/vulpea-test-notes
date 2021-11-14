@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ccae81bd-8f3f-4a8f-a2f5-301dc410c6a7
+:END:
+#+title: Vjjtw Hvrja Gwte NV - 1991-6-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:4c6c14cc-bb90-4dae-89a3-9d4b8a18a071][Vjjtw Hvrja Gwte]]
+- date :: 1991-6-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

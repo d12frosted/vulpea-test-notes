@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       619a6188-666f-41dc-9cab-6c081dec4548
+:END:
+#+title: Mkmt Nyfaj 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Nyfaj
+- vintage :: 1983
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.77
+- price :: 50.14 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       972f710b-3723-4fdb-9d40-cb1a5379e567
+:END:
+#+title: Novr Rlrt Tddedu Xsizyq 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tddedu Xsizyq
+- vintage :: 1990
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.64
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA

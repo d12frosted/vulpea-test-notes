@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ee82ef32-e922-4003-b6e1-c38315eaba92
+:END:
+#+title: Novr Rlrt Fbuvvfes Jwakzo 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Fbuvvfes Jwakzo
+- vintage :: 1920
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.08
+- sugar :: 17.11
+- price :: 56.82 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

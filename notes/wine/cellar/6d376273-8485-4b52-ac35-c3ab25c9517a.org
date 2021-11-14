@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6d376273-8485-4b52-ac35-c3ab25c9517a
+:END:
+#+title: Miv Wdzok 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Wdzok
+- vintage :: 1960
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.25
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:1179ccbb-7531-432b-b2cb-ef82aa2f350c][Miv Wdzok 1960 - 2001-2-24]]

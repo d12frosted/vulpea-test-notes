@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d34f15e2-c9da-41d2-b6bc-e91fe45799cb
+:END:
+#+title: Vjjtw Hvrja Oxt 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Oxt
+- vintage :: 1945
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.15
+- sugar :: 3.85
+- price :: 11.10 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

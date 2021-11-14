@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       921c528f-1788-47e3-9c8c-103bc6ba721d
+:END:
+#+title: Novr Rlrt Udqgbc Axqzj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Udqgbc Axqzj
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.66
+- sugar :: 18.18
+- price :: 53.35 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

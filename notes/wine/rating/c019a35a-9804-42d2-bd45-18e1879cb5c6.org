@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c019a35a-9804-42d2-bd45-18e1879cb5c6
+:END:
+#+title: Mkmt Yyijodkl 1918 - 1994-6-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:a318a199-446e-46c8-b7d5-505740566272][Mkmt Yyijodkl 1918]]
+- date :: 1994-6-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

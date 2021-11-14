@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       caa26880-5454-46ad-b477-4af80f62f1cc
+:END:
+#+title: Dfsxtmx Iiw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Iiw
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.07
+- price :: 24.18 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

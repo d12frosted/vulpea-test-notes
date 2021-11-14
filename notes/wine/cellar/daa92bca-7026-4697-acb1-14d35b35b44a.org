@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       daa92bca-7026-4697-acb1-14d35b35b44a
+:END:
+#+title: Njtzvl Fzhesg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Fzhesg
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.940000000000001
+- price :: 67.34 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:35092d58-83bc-4402-a08a-c011378480fb][Njtzvl Fzhesg NV - 1997-8-23]]

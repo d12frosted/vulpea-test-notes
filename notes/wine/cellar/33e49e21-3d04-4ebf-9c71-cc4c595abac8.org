@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       33e49e21-3d04-4ebf-9c71-cc4c595abac8
+:END:
+#+title: Rue Mhgnmpit Ovnbc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mhgnmpit Ovnbc
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.870000000000001
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:0bf5357e-2f67-4b33-8491-4f6d245ae9cc][Rue Mhgnmpit Ovnbc NV - 1998-4-21]]

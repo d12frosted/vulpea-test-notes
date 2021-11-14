@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e7a72442-10bb-4495-9ea4-e450c255628d
+:END:
+#+title: Lzf Xzbdwce Rqbprity 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Xzbdwce Rqbprity
+- vintage :: 1904
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 9.83
+- sugar :: 4.0
+- price :: 63.79 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:9edd4d24-aef4-47e0-aa99-801d72f79781][Lzf Xzbdwce Rqbprity 1904 - 2000-10-26]]

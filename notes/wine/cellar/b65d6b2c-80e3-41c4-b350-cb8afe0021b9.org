@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b65d6b2c-80e3-41c4-b350-cb8afe0021b9
+:END:
+#+title: Njtzvl Pbq Wnz 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Pbq Wnz
+- vintage :: 1943
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.94
+- price :: 37.90 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

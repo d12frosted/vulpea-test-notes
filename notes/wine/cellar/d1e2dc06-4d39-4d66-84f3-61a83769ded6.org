@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d1e2dc06-4d39-4d66-84f3-61a83769ded6
+:END:
+#+title: Njtzvl Sbbh Onmrfy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Sbbh Onmrfy
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.24
+- price :: 12.90 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

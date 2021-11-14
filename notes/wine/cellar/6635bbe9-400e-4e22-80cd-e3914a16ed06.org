@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6635bbe9-400e-4e22-80cd-e3914a16ed06
+:END:
+#+title: Dfsxtmx Wks 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Wks
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 12.17
+- price :: 53.24 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

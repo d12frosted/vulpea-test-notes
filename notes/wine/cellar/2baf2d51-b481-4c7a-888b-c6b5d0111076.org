@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2baf2d51-b481-4c7a-888b-c6b5d0111076
+:END:
+#+title: Vjjtw Hvrja Mru Kmvsojn 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mru Kmvsojn
+- vintage :: 1951
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.26
+- sugar :: 16.64
+- price :: 91.94 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:e9990202-e7c8-4b7e-9bb9-0897f3bc0ffb][Vjjtw Hvrja Mru Kmvsojn 1951 - 2006-9-1]]

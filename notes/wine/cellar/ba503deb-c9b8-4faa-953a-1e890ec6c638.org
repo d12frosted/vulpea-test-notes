@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ba503deb-c9b8-4faa-953a-1e890ec6c638
+:END:
+#+title: Cdeexg Zviwhh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Zviwhh
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 11.22
+- sugar :: 11.77
+- price :: 91.64 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

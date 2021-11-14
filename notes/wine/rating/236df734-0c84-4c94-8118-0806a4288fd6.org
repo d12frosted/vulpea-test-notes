@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       236df734-0c84-4c94-8118-0806a4288fd6
+:END:
+#+title: Njtzvl Rkcdjoaw Uoyzvjw NV - 2014-8-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:59cfba93-16fe-4897-b7fc-27cf31e3c209][Njtzvl Rkcdjoaw Uoyzvjw]]
+- date :: 2014-8-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

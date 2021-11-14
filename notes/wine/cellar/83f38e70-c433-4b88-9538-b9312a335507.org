@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       83f38e70-c433-4b88-9538-b9312a335507
+:END:
+#+title: Miv Nvn Kjob 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Nvn Kjob
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.43
+- sugar :: 9.25
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:6e3e82d9-e1e8-4671-9958-47e2cfb78eb0][Miv Nvn Kjob NV - 2016-8-25]]

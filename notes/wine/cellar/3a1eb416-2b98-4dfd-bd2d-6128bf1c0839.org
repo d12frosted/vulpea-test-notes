@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3a1eb416-2b98-4dfd-bd2d-6128bf1c0839
+:END:
+#+title: Miv Fyjgy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Fyjgy
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.64
+- price :: 4.82 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 6.5
+- ratings :: [[id:7d9a2264-4bf5-4e5e-bfba-b0227f47f4d7][Miv Fyjgy NV - 2012-4-6]]

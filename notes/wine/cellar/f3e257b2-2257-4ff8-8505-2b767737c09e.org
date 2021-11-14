@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f3e257b2-2257-4ff8-8505-2b767737c09e
+:END:
+#+title: Lzf Aguvb Uqzygzbc 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Aguvb Uqzygzbc
+- vintage :: 1917
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.8
+- sugar :: 21.01
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 3.0
+- ratings :: [[id:070e8103-3398-45bd-a7f9-6942a63cc86b][Lzf Aguvb Uqzygzbc 1917 - 2020-6-27]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       867b67de-896b-45cc-8660-a2206e86720d
+:END:
+#+title: Novr Rlrt Umhuu Luevp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Umhuu Luevp
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.14
+- sugar :: 23.27
+- price :: 39.97 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

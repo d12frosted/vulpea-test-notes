@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a66ecde5-dd6a-4c47-9f91-9b689d90b0da
+:END:
+#+title: Novr Rlrt Xfhfr 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Xfhfr
+- vintage :: 1980
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.82
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

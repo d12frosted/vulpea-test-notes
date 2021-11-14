@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f8943e61-acca-4871-8362-a1d7982276a2
+:END:
+#+title: Vjjtw Hvrja Wougnnq Pjxf NV - 2013-6-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:6f48fc8b-f1a2-4241-b1f4-7e63a2d99504][Vjjtw Hvrja Wougnnq Pjxf]]
+- date :: 2013-6-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

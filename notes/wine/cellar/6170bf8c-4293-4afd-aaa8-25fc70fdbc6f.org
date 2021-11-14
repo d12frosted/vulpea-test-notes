@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6170bf8c-4293-4afd-aaa8-25fc70fdbc6f
+:END:
+#+title: Dfsxtmx Lejdlo 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Lejdlo
+- vintage :: 2015
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 12.77
+- sugar :: 20.99
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

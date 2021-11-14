@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       89b3384e-e51e-4123-935b-0638500b68d9
+:END:
+#+title: Mkmt Abgf Eteylv 1950 - 2009-4-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:c284758b-ef24-4056-9b6f-b3ccbe304661][Mkmt Abgf Eteylv 1950]]
+- date :: 2009-4-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

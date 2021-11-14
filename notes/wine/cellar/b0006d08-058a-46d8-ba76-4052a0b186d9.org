@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b0006d08-058a-46d8-ba76-4052a0b186d9
+:END:
+#+title: Cdeexg Ulndwqcb Oec 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ulndwqcb Oec
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 9.46
+- sugar :: 16.82
+- price :: 53.54 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

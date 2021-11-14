@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e3fb76a2-bf69-4199-86a5-23731dbb9767
+:END:
+#+title: Rue Khqdnwig Ihl 1944 - 2008-8-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:0fbc9240-c874-4a1b-b9ec-e5f7fb5ef038][Rue Khqdnwig Ihl 1944]]
+- date :: 2008-8-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

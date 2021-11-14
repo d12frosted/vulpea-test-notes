@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       06ea7d78-9927-452a-865e-d3fb67b661db
+:END:
+#+title: Lzf Czv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Czv
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 9.87
+- price :: 35.92 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.0
+- ratings :: [[id:701b18c4-6b04-406b-bc10-695bc8147a1c][Lzf Czv NV - 2022-7-7]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       620eb798-1c66-4052-8157-c1e29fd94440
+:END:
+#+title: Dfsxtmx Kdrzkx Btzte 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kdrzkx Btzte
+- vintage :: 2011
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 11.72
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

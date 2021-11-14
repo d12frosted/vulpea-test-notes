@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       743a33d6-9613-4560-b0d1-8a3f7f73c502
+:END:
+#+title: Lzf Krhbrfg 1982 - 1992-7-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:3ee1db7a-bebe-4b47-b7b1-1c48526f4dad][Lzf Krhbrfg 1982]]
+- date :: 1992-7-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

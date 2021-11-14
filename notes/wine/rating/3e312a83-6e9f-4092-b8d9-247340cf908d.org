@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3e312a83-6e9f-4092-b8d9-247340cf908d
+:END:
+#+title: Cdeexg Xzbfbwmh Lfow NV - 2020-4-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:4f4ee65a-2bc6-4724-8f34-31de0447c3b4][Cdeexg Xzbfbwmh Lfow]]
+- date :: 2020-4-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

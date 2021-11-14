@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bf854302-492c-4de2-bf27-46f8c1d7def9
+:END:
+#+title: Novr Rlrt Wohihs Aweijid 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wohihs Aweijid
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.34
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

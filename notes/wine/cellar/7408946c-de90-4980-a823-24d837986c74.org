@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7408946c-de90-4980-a823-24d837986c74
+:END:
+#+title: Rue Dbfghb Rkx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Dbfghb Rkx
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.45
+- price :: 71.55 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

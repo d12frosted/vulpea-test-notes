@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2fc3f102-47ba-40f9-8cdf-fee755be1f6d
+:END:
+#+title: Dseajc Jinm Zldtq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zldtq
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 12.6
+- sugar :: 9.5
+- price :: 29.98 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

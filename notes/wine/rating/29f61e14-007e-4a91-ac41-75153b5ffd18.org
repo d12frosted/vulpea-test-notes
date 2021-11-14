@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       29f61e14-007e-4a91-ac41-75153b5ffd18
+:END:
+#+title: Dfsxtmx Yubegqx Vwmkbp 1968 - 2024-10-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:af1125a1-0400-43e2-bf0f-8b8580978278][Dfsxtmx Yubegqx Vwmkbp 1968]]
+- date :: 2024-10-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

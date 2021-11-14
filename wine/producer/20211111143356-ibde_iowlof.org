@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       ebb78e18-67ac-47db-a0e3-468c5cb4d224
-:END:
-#+title: Ibde Iowlof
-#+filetags: :wine:producer:
-
-

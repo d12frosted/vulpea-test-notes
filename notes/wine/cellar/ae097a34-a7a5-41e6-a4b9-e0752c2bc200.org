@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ae097a34-a7a5-41e6-a4b9-e0752c2bc200
+:END:
+#+title: Lzf Cgtuwrt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Cgtuwrt
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.72
+- sugar :: 1.07
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b703114d-e6f9-4a74-8b78-75661d32eec8
+:END:
+#+title: Dseajc Jinm Oymj 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Oymj
+- vintage :: 1964
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.52
+- sugar :: 2.85
+- price :: 20.97 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

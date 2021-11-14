@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ff26092c-51dd-49b0-8f25-917b0840d71d
+:END:
+#+title: Cdeexg Wtpdnm 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Wtpdnm
+- vintage :: 1936
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.5
+- price :: 17.92 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

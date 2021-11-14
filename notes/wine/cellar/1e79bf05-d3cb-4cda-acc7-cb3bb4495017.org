@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1e79bf05-d3cb-4cda-acc7-cb3bb4495017
+:END:
+#+title: Vjjtw Hvrja Ugn Pnb 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ugn Pnb
+- vintage :: 2015
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.85
+- sugar :: 16.6
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:ba07ad60-f341-443e-82ac-4dde7d25c8b1][Vjjtw Hvrja Ugn Pnb 2015 - 2006-6-4]]

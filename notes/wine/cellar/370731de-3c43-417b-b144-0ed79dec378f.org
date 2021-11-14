@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       370731de-3c43-417b-b144-0ed79dec378f
+:END:
+#+title: Njtzvl Ewv Owdrcjgt 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ewv Owdrcjgt
+- vintage :: 1968
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 10.42
+- sugar :: 12.77
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:d6ce93f4-5562-412f-a354-d8bd5e35ae97][Njtzvl Ewv Owdrcjgt 1968 - 2019-4-12]]

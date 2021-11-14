@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d72f1cd9-4375-4b9f-9039-398b07e9273b
+:END:
+#+title: Vjjtw Hvrja Mpo Rgguchg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mpo Rgguchg
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.129999999999999
+- sugar :: 4.24
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:df4a6e35-9da2-4892-8a20-dcc3e15b49cf][Vjjtw Hvrja Mpo Rgguchg NV - 2022-3-17]]

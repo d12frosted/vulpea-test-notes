@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bc7186b4-51ca-4933-a377-5a603aaf6697
+:END:
+#+title: Miv Gsp 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Gsp
+- vintage :: 1909
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.74
+- sugar :: 5.16
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

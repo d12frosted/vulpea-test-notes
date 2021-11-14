@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       17971b90-aaed-4a66-9ed3-83624fe12007
+:END:
+#+title: Rue Qgqvs Piaxgxeq 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qgqvs Piaxgxeq
+- vintage :: 1990
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.77
+- price :: 3.16 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

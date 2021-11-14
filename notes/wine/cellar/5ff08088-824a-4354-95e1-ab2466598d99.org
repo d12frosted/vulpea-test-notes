@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5ff08088-824a-4354-95e1-ab2466598d99
+:END:
+#+title: Njtzvl Biib Kcoqe 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Biib Kcoqe
+- vintage :: 2013
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.09
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

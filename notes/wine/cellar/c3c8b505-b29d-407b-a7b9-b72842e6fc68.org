@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c3c8b505-b29d-407b-a7b9-b72842e6fc68
+:END:
+#+title: Njtzvl Xqndxyom 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xqndxyom
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.13
+- price :: 17.25 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

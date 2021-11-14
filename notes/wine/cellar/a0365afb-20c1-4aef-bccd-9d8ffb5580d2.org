@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a0365afb-20c1-4aef-bccd-9d8ffb5580d2
+:END:
+#+title: Rue Ogwtbp Oiyv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ogwtbp Oiyv
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.190000000000001
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:e3444463-1cbc-4249-aed7-2c02b2050840][Rue Ogwtbp Oiyv NV - 1992-7-14]]

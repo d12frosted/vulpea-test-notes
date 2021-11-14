@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5494e800-bb0a-4f68-acac-abd7d2c4059e
+:END:
+#+title: Lzf Puvfdnnr Gwgh 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Puvfdnnr Gwgh
+- vintage :: 1960
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.22
+- sugar :: 11.06
+- price :: 11.88 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

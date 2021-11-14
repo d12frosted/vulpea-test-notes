@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       4a8e2012-57e9-4b23-9dc7-59c64cc4ab09
+:END:
+#+title: Cdeexg Xdpcad Xqhvqnzz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Xdpcad Xqhvqnzz
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.71
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

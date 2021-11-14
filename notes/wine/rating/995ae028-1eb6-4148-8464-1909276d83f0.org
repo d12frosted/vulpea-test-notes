@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       995ae028-1eb6-4148-8464-1909276d83f0
+:END:
+#+title: Dseajc Jinm Bgheo NV - 2010-9-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:761f0d14-27b6-4ac0-b7ca-3382d8370647][Dseajc Jinm Bgheo]]
+- date :: 2010-9-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

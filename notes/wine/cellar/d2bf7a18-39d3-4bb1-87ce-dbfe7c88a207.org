@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d2bf7a18-39d3-4bb1-87ce-dbfe7c88a207
+:END:
+#+title: Novr Rlrt Ctyomatl 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ctyomatl
+- vintage :: 1942
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 10.629999999999999
+- sugar :: 19.23
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:7c0fdb04-b9ab-45f9-936b-0c7ac8d8e0ec][Novr Rlrt Ctyomatl 1942 - 1992-11-28]]

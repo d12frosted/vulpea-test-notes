@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4ec61ac4-5650-4bae-a07b-faae3482cc44
+:END:
+#+title: Dseajc Jinm Cbicltte 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Cbicltte
+- vintage :: 1901
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.33
+- sugar :: 17.57
+- price :: 37.17 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

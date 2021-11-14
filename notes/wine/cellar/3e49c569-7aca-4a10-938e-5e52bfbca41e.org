@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3e49c569-7aca-4a10-938e-5e52bfbca41e
+:END:
+#+title: Vjjtw Hvrja Hcrbi 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hcrbi
+- vintage :: 1946
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.68
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

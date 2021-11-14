@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7b701e26-f2c0-4d98-9c07-763e48c1da43
+:END:
+#+title: Novr Rlrt Ocw Edyl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ocw Edyl
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.01
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:b090dd9a-4c98-45cc-92a8-26fa280fbd08][Novr Rlrt Ocw Edyl NV - 2014-11-9]]

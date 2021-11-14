@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b56af77b-97fe-41af-af70-741e254e902a
+:END:
+#+title: Vjjtw Hvrja Cfz Lsroabw 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Cfz Lsroabw
+- vintage :: 1999
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.23
+- sugar :: 13.59
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:79806d9b-ea08-4597-afe1-d6185cdb0cc5][Vjjtw Hvrja Cfz Lsroabw 1999 - 2011-11-18]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3c4aaabb-f1be-4154-b5fd-be57ec281463
+:END:
+#+title: Dseajc Jinm Cpfypil Vfpgugwr 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Cpfypil Vfpgugwr
+- vintage :: 1976
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 10.42
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:e35e5ee2-b9a0-4c37-a3c9-54561a29635a][Dseajc Jinm Cpfypil Vfpgugwr 1976 - 1993-11-7]]

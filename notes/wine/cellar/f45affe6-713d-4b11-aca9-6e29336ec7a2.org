@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f45affe6-713d-4b11-aca9-6e29336ec7a2
+:END:
+#+title: Dseajc Jinm Nnm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Nnm
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.29
+- sugar :: 10.62
+- price :: 35.81 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:875cfe23-6aaf-4ee6-a986-08df2091b5c3][Dseajc Jinm Nnm NV - 2001-4-28]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6df2e116-9f49-4afc-a528-ff767773ce6b
+:END:
+#+title: Dfsxtmx Xbmgv 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xbmgv
+- vintage :: 1958
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.99
+- sugar :: 5.02
+- price :: 12.45 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

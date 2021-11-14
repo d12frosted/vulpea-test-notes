@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       442fefe8-b0dd-47f1-bdf7-4f8fff796b23
+:END:
+#+title: Dfsxtmx Wmm Jwxll 1945 - 2020-3-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:bdb7c3be-d36c-4dee-98ac-0ac04eecbd39][Dfsxtmx Wmm Jwxll 1945]]
+- date :: 2020-3-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bc080dae-b504-4292-8016-70f374d90a27
+:END:
+#+title: Cdeexg Irlqbgi Ejcjgee NV - 2020-10-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:51bb779f-c0a8-488d-a3ef-a95548f499b5][Cdeexg Irlqbgi Ejcjgee]]
+- date :: 2020-10-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

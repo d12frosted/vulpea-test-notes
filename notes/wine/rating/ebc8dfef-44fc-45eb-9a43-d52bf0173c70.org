@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ebc8dfef-44fc-45eb-9a43-d52bf0173c70
+:END:
+#+title: Mkmt Cmycq 2014 - 2015-1-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:7df3c6de-e02b-4566-a994-ba69b3fc10da][Mkmt Cmycq 2014]]
+- date :: 2015-1-25
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

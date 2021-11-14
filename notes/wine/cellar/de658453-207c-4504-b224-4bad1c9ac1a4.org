@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       de658453-207c-4504-b224-4bad1c9ac1a4
+:END:
+#+title: Miv Ncxiws 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ncxiws
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 13.21
+- price :: 73.66 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       582a3658-bfcd-4c76-bb42-19b0758a11c7
+:END:
+#+title: Dfsxtmx Oid Uctet 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Oid Uctet
+- vintage :: 1918
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.65
+- price :: 54.56 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

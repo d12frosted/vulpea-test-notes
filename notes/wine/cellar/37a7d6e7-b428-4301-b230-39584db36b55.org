@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       37a7d6e7-b428-4301-b230-39584db36b55
+:END:
+#+title: Miv Zhmcp Rwjl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Zhmcp Rwjl
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.36
+- sugar :: 11.51
+- price :: 7.54 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

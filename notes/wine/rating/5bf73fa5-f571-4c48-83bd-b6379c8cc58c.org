@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5bf73fa5-f571-4c48-83bd-b6379c8cc58c
+:END:
+#+title: Miv Ufftj NV - 1999-3-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:42d22c12-c2bc-4281-a454-ef76a4246244][Miv Ufftj]]
+- date :: 1999-3-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

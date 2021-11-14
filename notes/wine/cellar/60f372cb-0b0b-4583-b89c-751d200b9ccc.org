@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       60f372cb-0b0b-4583-b89c-751d200b9ccc
+:END:
+#+title: Novr Rlrt Pfxui Ssnpte 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Pfxui Ssnpte
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 9.04
+- sugar :: 7.05
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 5.5
+- ratings :: [[id:548a71a1-e8e6-413d-8839-f209edd287f9][Novr Rlrt Pfxui Ssnpte NV - 1992-12-21]]

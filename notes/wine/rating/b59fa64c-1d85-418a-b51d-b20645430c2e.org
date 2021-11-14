@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b59fa64c-1d85-418a-b51d-b20645430c2e
+:END:
+#+title: Vjjtw Hvrja Arl NV - 2013-11-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:ead6a1bc-94aa-45f0-96ee-205b1158f532][Vjjtw Hvrja Arl]]
+- date :: 2013-11-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

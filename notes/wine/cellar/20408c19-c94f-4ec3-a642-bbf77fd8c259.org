@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       20408c19-c94f-4ec3-a642-bbf77fd8c259
+:END:
+#+title: Miv Dckwd 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Dckwd
+- vintage :: 2006
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 11.55
+- sugar :: 23.46
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 1.5
+- ratings :: [[id:4e52a6eb-0394-4204-86de-5ab4e1a1ff39][Miv Dckwd 2006 - 2005-10-4]]

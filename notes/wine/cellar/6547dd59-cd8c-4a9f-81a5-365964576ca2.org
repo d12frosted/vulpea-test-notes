@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6547dd59-cd8c-4a9f-81a5-365964576ca2
+:END:
+#+title: Vjjtw Hvrja Xachpj 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Xachpj
+- vintage :: 2015
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.1
+- price :: 60.28 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:f03aa0b5-9f5c-4b0e-b7ea-7619d3f74d5e][Vjjtw Hvrja Xachpj 2015 - 2000-11-26]]

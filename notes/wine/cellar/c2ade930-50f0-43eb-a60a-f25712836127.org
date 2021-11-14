@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c2ade930-50f0-43eb-a60a-f25712836127
+:END:
+#+title: Novr Rlrt Berhzlvm Xilckvv 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Berhzlvm Xilckvv
+- vintage :: 1944
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.61
+- price :: 87.39 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b14f9505-590b-4eff-9a4c-501009991d36
+:END:
+#+title: Novr Rlrt Kfiwawr Anutlmts 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Kfiwawr Anutlmts
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.17
+- sugar :: 17.84
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       31f6491d-d9f3-47c0-b7d6-4ea35c6ae870
+:END:
+#+title: Miv Qxrlymz Rvq 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Qxrlymz Rvq
+- vintage :: 1908
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.65
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

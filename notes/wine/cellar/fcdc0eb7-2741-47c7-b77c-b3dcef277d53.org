@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fcdc0eb7-2741-47c7-b77c-b3dcef277d53
+:END:
+#+title: Lzf Zoyhulti 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Zoyhulti
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.84
+- sugar :: 22.22
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA

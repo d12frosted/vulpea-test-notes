@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       13722601-6dc2-4a2c-abdc-1b80518a262c
+:END:
+#+title: Vjjtw Hvrja Dcdeqrbv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dcdeqrbv
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.74
+- price :: 47.94 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

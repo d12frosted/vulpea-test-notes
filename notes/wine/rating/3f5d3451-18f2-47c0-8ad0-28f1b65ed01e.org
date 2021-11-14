@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3f5d3451-18f2-47c0-8ad0-28f1b65ed01e
+:END:
+#+title: Rue Zwt 1901 - 1994-8-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:e210e9ce-02ba-43b5-bff1-a75d676dd17c][Rue Zwt 1901]]
+- date :: 1994-8-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

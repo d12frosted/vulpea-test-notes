@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       13acabf5-af9d-4b32-a9bb-fd78119649cd
+:END:
+#+title: Mkmt Dpzlr Rlx 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Dpzlr Rlx
+- vintage :: 1981
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 11.74
+- price :: 59.16 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

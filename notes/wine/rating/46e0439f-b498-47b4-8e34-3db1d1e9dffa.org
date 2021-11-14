@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       46e0439f-b498-47b4-8e34-3db1d1e9dffa
+:END:
+#+title: Dfsxtmx Iebob Cykoaqae 1900 - 2008-1-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:7839257c-8b8c-4c2c-a665-42174a27f376][Dfsxtmx Iebob Cykoaqae 1900]]
+- date :: 2008-1-15
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

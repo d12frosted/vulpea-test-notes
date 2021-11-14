@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a3890a6c-906f-4dcb-96a9-82097b2147ac
+:END:
+#+title: Dfsxtmx Pytjq Hfw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pytjq Hfw
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.59
+- sugar :: 6.17
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

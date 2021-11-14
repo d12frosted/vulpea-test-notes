@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       641d9845-e38d-4e8e-96d1-505392555e7e
+:END:
+#+title: Njtzvl Netdryl Emuv 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Netdryl Emuv
+- vintage :: 1909
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.24
+- sugar :: 19.68
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:e8859f78-65f1-47de-8443-d2b40a37a662][Njtzvl Netdryl Emuv 1909 - 2009-9-19]]

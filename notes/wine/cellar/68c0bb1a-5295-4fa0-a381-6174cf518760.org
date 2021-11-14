@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       68c0bb1a-5295-4fa0-a381-6174cf518760
+:END:
+#+title: Dseajc Jinm Rzohmscn Zpncsfxb 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rzohmscn Zpncsfxb
+- vintage :: 1924
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.97
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

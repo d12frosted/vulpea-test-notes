@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1fd8f468-0f00-43d0-a4c5-cbfa8dcdad76
+:END:
+#+title: Dfsxtmx Kpn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kpn
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.45
+- sugar :: 16.21
+- price :: 56.30 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:11cb5eac-6f07-4f04-930f-86ff9442a9d5][Dfsxtmx Kpn NV - 2024-8-12]]

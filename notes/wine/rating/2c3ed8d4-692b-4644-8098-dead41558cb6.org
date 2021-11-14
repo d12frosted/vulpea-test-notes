@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2c3ed8d4-692b-4644-8098-dead41558cb6
+:END:
+#+title: Vjjtw Hvrja Pmmrt Fcp 1912 - 1997-10-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:5277026c-0c6e-4d26-8502-803da8813997][Vjjtw Hvrja Pmmrt Fcp 1912]]
+- date :: 1997-10-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3ef4fe31-c693-43a2-a463-733fdc9b54c1
+:END:
+#+title: Miv Yutoxkjg Ydfsbbaj 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Yutoxkjg Ydfsbbaj
+- vintage :: 1957
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.39
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:35fe7524-fe44-42f4-921a-f90e44ba3075][Miv Yutoxkjg Ydfsbbaj 1957 - 2016-7-25]]

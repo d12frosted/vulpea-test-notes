@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dfa24a5b-3a00-477b-a241-b7f4c30265a8
+:END:
+#+title: Vjjtw Hvrja Hfffgbs Xhu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hfffgbs Xhu
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.44
+- sugar :: 18.77
+- price :: 63.10 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

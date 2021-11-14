@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1630d712-9bcd-4dfd-8d94-9b50971f2e1c
+:END:
+#+title: Lzf Bfcn 1951 - 2022-5-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:cfda1113-3496-4b0d-9ef9-a0c7200b650f][Lzf Bfcn 1951]]
+- date :: 2022-5-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

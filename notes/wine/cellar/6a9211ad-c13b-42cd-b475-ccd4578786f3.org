@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6a9211ad-c13b-42cd-b475-ccd4578786f3
+:END:
+#+title: Miv Gsccmzii Mggcdfl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Gsccmzii Mggcdfl
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.969999999999999
+- sugar :: 12.69
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

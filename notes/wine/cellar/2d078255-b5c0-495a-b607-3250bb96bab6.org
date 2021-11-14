@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2d078255-b5c0-495a-b607-3250bb96bab6
+:END:
+#+title: Njtzvl Nrdns Gbxyfrku 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Nrdns Gbxyfrku
+- vintage :: 1976
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.42
+- price :: 78.03 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

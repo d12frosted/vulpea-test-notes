@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8035d3aa-a1aa-4ac5-8871-b4b6437ed16f
+:END:
+#+title: Lzf Btuh Pshq 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Btuh Pshq
+- vintage :: 1902
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.51
+- sugar :: 16.47
+- price :: 7.18 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

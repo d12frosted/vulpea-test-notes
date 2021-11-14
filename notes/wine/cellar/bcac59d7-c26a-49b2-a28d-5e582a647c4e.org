@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bcac59d7-c26a-49b2-a28d-5e582a647c4e
+:END:
+#+title: Dseajc Jinm Hfkqg Sori 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Hfkqg Sori
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.47
+- sugar :: 7.48
+- price :: 56.73 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

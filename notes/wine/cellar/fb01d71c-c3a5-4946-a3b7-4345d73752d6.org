@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fb01d71c-c3a5-4946-a3b7-4345d73752d6
+:END:
+#+title: Rue Vdmwsipc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vdmwsipc
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.370000000000001
+- sugar :: 19.23
+- price :: 18.45 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

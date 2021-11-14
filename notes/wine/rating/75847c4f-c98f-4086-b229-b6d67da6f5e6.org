@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       75847c4f-c98f-4086-b229-b6d67da6f5e6
+:END:
+#+title: Mkmt Owcz 1919 - 2005-2-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:d634ec97-39d1-4f11-9675-4ca513c44134][Mkmt Owcz 1919]]
+- date :: 2005-2-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

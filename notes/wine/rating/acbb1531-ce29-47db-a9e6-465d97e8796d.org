@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       acbb1531-ce29-47db-a9e6-465d97e8796d
+:END:
+#+title: Dfsxtmx Wba Rztjm 1920 - 2005-9-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:6f59a23e-91ce-4086-9a43-780e06f2708e][Dfsxtmx Wba Rztjm 1920]]
+- date :: 2005-9-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

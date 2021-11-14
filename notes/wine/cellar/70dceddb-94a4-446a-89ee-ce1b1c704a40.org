@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       70dceddb-94a4-446a-89ee-ce1b1c704a40
+:END:
+#+title: Njtzvl Axndl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Axndl
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 9.87
+- sugar :: 15.34
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:f69f6c50-31d2-455f-89ec-2f1277e2c23e][Njtzvl Axndl NV - 2007-10-13]]

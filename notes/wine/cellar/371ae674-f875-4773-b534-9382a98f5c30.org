@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       371ae674-f875-4773-b534-9382a98f5c30
+:END:
+#+title: Dseajc Jinm Cmy 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Cmy
+- vintage :: 1910
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.34
+- price :: 5.09 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

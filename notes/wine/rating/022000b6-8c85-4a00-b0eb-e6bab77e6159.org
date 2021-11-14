@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       022000b6-8c85-4a00-b0eb-e6bab77e6159
+:END:
+#+title: Vjjtw Hvrja Aun NV - 1993-3-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:6e008982-d247-407a-ac19-d79d9dfced97][Vjjtw Hvrja Aun]]
+- date :: 1993-3-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

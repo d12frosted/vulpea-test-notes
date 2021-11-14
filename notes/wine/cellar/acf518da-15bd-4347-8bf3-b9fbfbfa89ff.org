@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       acf518da-15bd-4347-8bf3-b9fbfbfa89ff
+:END:
+#+title: Mkmt Hehlzb 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Hehlzb
+- vintage :: 1963
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.120000000000001
+- price :: 69.08 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       81e13a7c-f1a7-49b2-824c-31f3f63ea0b1
+:END:
+#+title: Dfsxtmx Xai Obsnjnu 1970 - 2009-10-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:b5476632-8081-4610-9f63-9a82c0980ee5][Dfsxtmx Xai Obsnjnu 1970]]
+- date :: 2009-10-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

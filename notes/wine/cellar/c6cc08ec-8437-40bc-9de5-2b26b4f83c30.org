@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c6cc08ec-8437-40bc-9de5-2b26b4f83c30
+:END:
+#+title: Dfsxtmx Nfdzpkvp 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nfdzpkvp
+- vintage :: 2018
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.129999999999999
+- sugar :: 9.66
+- price :: 43.63 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 8.5
+- ratings :: [[id:a8ec0991-3be9-439b-9d1a-2407ad0c72b1][Dfsxtmx Nfdzpkvp 2018 - 2011-1-20]]

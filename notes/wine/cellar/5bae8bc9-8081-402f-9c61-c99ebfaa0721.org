@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5bae8bc9-8081-402f-9c61-c99ebfaa0721
+:END:
+#+title: Rue Ccfg 1912
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ccfg
+- vintage :: 1912
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.92
+- sugar :: 20.23
+- price :: 92.53 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

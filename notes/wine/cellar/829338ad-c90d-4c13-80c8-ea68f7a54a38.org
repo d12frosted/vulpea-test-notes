@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       829338ad-c90d-4c13-80c8-ea68f7a54a38
+:END:
+#+title: Vjjtw Hvrja Pydpdk 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pydpdk
+- vintage :: 1983
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.7
+- price :: 75.44 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d4dd86c8-cc71-4fac-832a-4d2ef417bdf2
+:END:
+#+title: Dfsxtmx Rmtpj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rmtpj
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.15
+- price :: 53.52 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:ea2f0eb3-4945-496c-8a0f-4340a2693846][Dfsxtmx Rmtpj NV - 2022-4-16]]

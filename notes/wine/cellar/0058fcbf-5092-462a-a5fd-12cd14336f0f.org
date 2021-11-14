@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0058fcbf-5092-462a-a5fd-12cd14336f0f
+:END:
+#+title: Miv Kru Qxws 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Kru Qxws
+- vintage :: 2009
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.17
+- sugar :: 2.18
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

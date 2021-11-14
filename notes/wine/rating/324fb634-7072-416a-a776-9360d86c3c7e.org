@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       324fb634-7072-416a-a776-9360d86c3c7e
+:END:
+#+title: Mkmt Zkguiy Bjbaip NV - 2011-2-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:42cb04cd-4598-4f94-b952-676cbe6413c6][Mkmt Zkguiy Bjbaip]]
+- date :: 2011-2-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

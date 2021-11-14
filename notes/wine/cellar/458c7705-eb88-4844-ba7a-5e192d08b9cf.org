@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       458c7705-eb88-4844-ba7a-5e192d08b9cf
+:END:
+#+title: Dseajc Jinm Eenicmn Uxakr 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Eenicmn Uxakr
+- vintage :: 2013
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.379999999999999
+- sugar :: 17.55
+- price :: 68.41 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

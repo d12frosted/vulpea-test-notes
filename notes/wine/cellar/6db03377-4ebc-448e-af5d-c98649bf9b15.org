@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6db03377-4ebc-448e-af5d-c98649bf9b15
+:END:
+#+title: Njtzvl Amgitf Oktoo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Amgitf Oktoo
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.02
+- sugar :: 22.22
+- price :: 26.45 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

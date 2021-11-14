@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       105d8b86-5b99-4ced-a5a6-4e2916505633
+:END:
+#+title: Njtzvl Wsnck NV - 2009-6-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:71bc3d73-fb22-4c8f-b52b-0f92f0511b54][Njtzvl Wsnck]]
+- date :: 2009-6-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

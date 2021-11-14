@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       566b355e-4798-4bb4-9411-a2075e170eb3
+:END:
+#+title: Vjjtw Hvrja Dfuajx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dfuajx
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.35
+- price :: 33.14 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:66193647-d14e-46ad-b4aa-06e4052ebfed][Vjjtw Hvrja Dfuajx NV - 2008-9-7]]

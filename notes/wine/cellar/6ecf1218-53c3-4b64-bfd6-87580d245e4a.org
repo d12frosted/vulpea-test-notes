@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6ecf1218-53c3-4b64-bfd6-87580d245e4a
+:END:
+#+title: Dfsxtmx Xhmzwo Fmsl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xhmzwo Fmsl
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.129999999999999
+- price :: 100.83 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:2fad39fa-5f1a-43a2-aac7-a4aeb0aff00a][Dfsxtmx Xhmzwo Fmsl NV - 2002-3-12]]

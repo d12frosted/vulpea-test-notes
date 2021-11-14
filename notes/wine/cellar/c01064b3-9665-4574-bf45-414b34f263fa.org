@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c01064b3-9665-4574-bf45-414b34f263fa
+:END:
+#+title: Lzf Vldbnig 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vldbnig
+- vintage :: 1952
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.07
+- sugar :: 9.92
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

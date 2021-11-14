@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0879b028-7d4e-4b25-92e9-aa1b20f62d6e
+:END:
+#+title: Miv Soeh Dan 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Soeh Dan
+- vintage :: 1981
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 9.0
+- sugar :: 11.77
+- price :: 17.20 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

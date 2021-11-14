@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       117ef0bb-3a7f-449e-9be8-3b06b4aa29b2
+:END:
+#+title: Njtzvl Rlbjxohd Eetgsz 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Rlbjxohd Eetgsz
+- vintage :: 1975
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.02
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 6.5
+- ratings :: [[id:a62681eb-49e7-4b59-a3ac-83700d0427cf][Njtzvl Rlbjxohd Eetgsz 1975 - 2000-1-27]]

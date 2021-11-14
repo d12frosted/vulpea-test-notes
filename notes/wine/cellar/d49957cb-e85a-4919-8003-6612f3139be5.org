@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d49957cb-e85a-4919-8003-6612f3139be5
+:END:
+#+title: Lzf Sorhfz 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Sorhfz
+- vintage :: 1958
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.67
+- sugar :: 12.38
+- price :: 99.22 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:21a6666b-0694-4647-94fa-31fbeedf55f2][Lzf Sorhfz 1958 - 1997-10-1]]

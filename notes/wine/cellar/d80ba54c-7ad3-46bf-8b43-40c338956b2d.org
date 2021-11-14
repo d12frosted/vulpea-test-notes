@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d80ba54c-7ad3-46bf-8b43-40c338956b2d
+:END:
+#+title: Lzf Xkabrtj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Xkabrtj
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.55
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

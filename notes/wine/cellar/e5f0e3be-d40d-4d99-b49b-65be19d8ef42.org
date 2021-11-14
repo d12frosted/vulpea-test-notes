@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e5f0e3be-d40d-4d99-b49b-65be19d8ef42
+:END:
+#+title: Rue Zvjwmtwk Wufvhom 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Zvjwmtwk Wufvhom
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.08
+- sugar :: 11.19
+- price :: 85.35 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:753f6262-40b1-4b4b-b619-cc2d515437c7][Rue Zvjwmtwk Wufvhom NV - 2001-4-11]]

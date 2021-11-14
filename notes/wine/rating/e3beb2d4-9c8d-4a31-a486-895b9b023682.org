@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e3beb2d4-9c8d-4a31-a486-895b9b023682
+:END:
+#+title: Rue Wdbd Zdiw 1902 - 2016-12-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:b50921f1-4b9d-42bb-9791-53ef3f2fb427][Rue Wdbd Zdiw 1902]]
+- date :: 2016-12-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

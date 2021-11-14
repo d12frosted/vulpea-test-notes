@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c712de08-492d-4b50-a4be-d3402baaa909
+:END:
+#+title: Dfsxtmx Xqfuowiv 2003 - 1998-8-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:98d8b172-2016-4b02-ab50-ef2ea4eb0499][Dfsxtmx Xqfuowiv 2003]]
+- date :: 1998-8-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

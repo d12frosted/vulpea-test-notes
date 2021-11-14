@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       798bc92d-fadd-4eb3-abe8-e29a84553515
+:END:
+#+title: Rue Nvyma 1930 - 2009-8-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:cde5d002-1742-4e5e-adcd-1f881da922ae][Rue Nvyma 1930]]
+- date :: 2009-8-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

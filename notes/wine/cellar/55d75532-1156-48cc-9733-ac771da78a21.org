@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       55d75532-1156-48cc-9733-ac771da78a21
+:END:
+#+title: Dseajc Jinm Ewca 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ewca
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 10.81
+- price :: 98.12 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0c6fddfa-d946-4993-a9db-c22dd5e3b103
+:END:
+#+title: Mkmt Byueeoth NV - 2013-8-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:3fd05a26-8363-4b47-baf6-e92617c8ac00][Mkmt Byueeoth]]
+- date :: 2013-8-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

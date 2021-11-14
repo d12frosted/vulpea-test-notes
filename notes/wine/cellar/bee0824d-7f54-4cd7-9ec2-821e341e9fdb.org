@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bee0824d-7f54-4cd7-9ec2-821e341e9fdb
+:END:
+#+title: Lzf Int 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Int
+- vintage :: 1908
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.7
+- sugar :: 12.36
+- price :: 27.89 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

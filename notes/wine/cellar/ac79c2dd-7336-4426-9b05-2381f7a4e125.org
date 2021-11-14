@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ac79c2dd-7336-4426-9b05-2381f7a4e125
+:END:
+#+title: Cdeexg Gywsfgrs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Gywsfgrs
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.73
+- price :: 74.47 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 5.5
+- ratings :: [[id:718539dd-f73c-4081-ae16-41177f9eefb3][Cdeexg Gywsfgrs NV - 1991-10-8]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a4a2aa2d-0650-4fb8-9be5-bbf8b58454b9
+:END:
+#+title: Mkmt Tqyc 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Tqyc
+- vintage :: 1979
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.31
+- sugar :: 6.89
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

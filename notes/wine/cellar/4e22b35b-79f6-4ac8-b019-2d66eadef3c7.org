@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4e22b35b-79f6-4ac8-b019-2d66eadef3c7
+:END:
+#+title: Novr Rlrt Sgkdest 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Sgkdest
+- vintage :: 1987
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 9.65
+- price :: 98.32 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       589eb889-2aa1-42b9-a2b3-eab6f3d53f2c
+:END:
+#+title: Njtzvl Jubcpnc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Jubcpnc
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 13.14
+- sugar :: 21.68
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

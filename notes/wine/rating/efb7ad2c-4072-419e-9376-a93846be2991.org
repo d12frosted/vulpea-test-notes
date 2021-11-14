@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       efb7ad2c-4072-419e-9376-a93846be2991
+:END:
+#+title: Lzf Qkx NV - 2002-4-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:36b54d43-c213-4ff7-87c7-fd05402fcb06][Lzf Qkx]]
+- date :: 2002-4-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       60a2730f-59b4-4826-9927-94db3fe08651
+:END:
+#+title: Njtzvl Uonqq 2011 - 2013-2-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:4d0d5a8a-0318-4c9d-b594-4eeb29ed74dc][Njtzvl Uonqq 2011]]
+- date :: 2013-2-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

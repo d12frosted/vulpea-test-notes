@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8b2d52b5-963e-4bbb-813a-e4e8ae0ffd23
+:END:
+#+title: Novr Rlrt Yqwvwnpg 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Yqwvwnpg
+- vintage :: 2020
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 13.79
+- price :: 65.13 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

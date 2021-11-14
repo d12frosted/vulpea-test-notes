@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       68ad12c9-871a-4a27-aa66-a071d7f6b1e1
+:END:
+#+title: Dseajc Jinm Xlgqj Mhh 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xlgqj Mhh
+- vintage :: 1975
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.17
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:7b4898f3-578f-4ff2-a2c0-9441ae2c5e50][Dseajc Jinm Xlgqj Mhh 1975 - 1990-5-1]]

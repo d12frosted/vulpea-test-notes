@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a244adfe-4b22-4810-9af1-832542e4577b
+:END:
+#+title: Rue Xvhh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Xvhh
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.04
+- price :: 89.81 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

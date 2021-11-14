@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4864e8df-9a08-429d-b835-a79b847acc93
+:END:
+#+title: Miv Ookihyo Dfuwhtd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ookihyo Dfuwhtd
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.75
+- price :: 97.21 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

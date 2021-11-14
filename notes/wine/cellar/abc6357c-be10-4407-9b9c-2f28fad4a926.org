@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       abc6357c-be10-4407-9b9c-2f28fad4a926
+:END:
+#+title: Novr Rlrt Iofds Ueywhv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Iofds Ueywhv
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.07
+- sugar :: 4.18
+- price :: 54.58 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

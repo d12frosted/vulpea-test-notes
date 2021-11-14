@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0767a275-f5f7-4c3d-ac57-0e748940c669
+:END:
+#+title: Njtzvl Qtttsdi Mgkzppg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Qtttsdi Mgkzppg
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.91
+- sugar :: 4.74
+- price :: 16.02 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

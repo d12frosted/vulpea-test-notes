@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       22ff5132-ccd4-41af-8824-c05952f9c72f
+:END:
+#+title: Novr Rlrt Lwybxm Vcxpa 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lwybxm Vcxpa
+- vintage :: 1901
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.99
+- sugar :: 0.93
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

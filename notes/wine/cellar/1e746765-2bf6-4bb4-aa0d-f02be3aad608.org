@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1e746765-2bf6-4bb4-aa0d-f02be3aad608
+:END:
+#+title: Cdeexg Eeohmrww Zbdvhoyp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Eeohmrww Zbdvhoyp
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.87
+- sugar :: 12.31
+- price :: 54.02 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:8107d8f9-b4e9-46df-aaac-58f2b67a51b7][Cdeexg Eeohmrww Zbdvhoyp NV - 2009-6-24]]

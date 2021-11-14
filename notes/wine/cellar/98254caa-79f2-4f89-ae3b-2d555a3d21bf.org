@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       98254caa-79f2-4f89-ae3b-2d555a3d21bf
+:END:
+#+title: Njtzvl Rrxdoxsz Vtqe 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Rrxdoxsz Vtqe
+- vintage :: 1903
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.6
+- sugar :: 19.89
+- price :: 50.35 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

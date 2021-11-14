@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6a91d726-0f06-4d33-8c57-5b864e0b8af8
+:END:
+#+title: Lzf Vnza Hpajru 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vnza Hpajru
+- vintage :: 1921
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.42
+- sugar :: 0.44
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

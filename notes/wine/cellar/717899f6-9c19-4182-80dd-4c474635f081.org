@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       717899f6-9c19-4182-80dd-4c474635f081
+:END:
+#+title: Vjjtw Hvrja Xfnw 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Xfnw
+- vintage :: 1925
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.91
+- price :: 35.47 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:e502010b-4fbe-49fd-8a6c-6185f3638ef7][Vjjtw Hvrja Xfnw 1925 - 1992-5-24]]

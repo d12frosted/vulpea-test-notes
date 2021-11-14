@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9f281989-1958-4d26-9133-5e9f650976a2
+:END:
+#+title: Njtzvl Jctht 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Jctht
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.49
+- sugar :: 9.77
+- price :: 102.33 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

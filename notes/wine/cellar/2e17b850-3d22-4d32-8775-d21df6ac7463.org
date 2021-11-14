@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2e17b850-3d22-4d32-8775-d21df6ac7463
+:END:
+#+title: Dseajc Jinm Lyp Olt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lyp Olt
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.34
+- sugar :: 13.8
+- price :: 98.75 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 7.5
+- ratings :: [[id:ba905468-cb15-45d4-b242-9e4b4f734f3e][Dseajc Jinm Lyp Olt NV - 2011-11-19]]

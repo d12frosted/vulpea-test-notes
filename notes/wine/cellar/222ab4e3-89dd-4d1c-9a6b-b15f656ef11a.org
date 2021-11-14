@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       222ab4e3-89dd-4d1c-9a6b-b15f656ef11a
+:END:
+#+title: Cdeexg Tabqynsg 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Tabqynsg
+- vintage :: 1962
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.71
+- sugar :: 0.21
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

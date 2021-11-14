@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       9957b61d-a406-46cc-a4be-3a916d3e192a
+:END:
+#+title: Njtzvl Dryvaeoc Dyx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Dryvaeoc Dyx
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.59
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dc5d0a22-c7c1-41d1-a686-9884d15d204b
+:END:
+#+title: Vjjtw Hvrja Bdygrwc Fzp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bdygrwc Fzp
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 10.29
+- sugar :: 0.16
+- price :: 97.40 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

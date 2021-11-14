@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c9ac362c-c537-40c4-a567-eadc2b43f12d
+:END:
+#+title: Lzf Ecipsaah Pln 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ecipsaah Pln
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.81
+- sugar :: 14.07
+- price :: 17.01 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.0
+- ratings :: [[id:64153320-c515-49a2-8c4c-2dfe220073a4][Lzf Ecipsaah Pln NV - 2014-1-10]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e2b60dfe-31e5-4898-abe4-f9910b35bcc0
+:END:
+#+title: Mkmt Rdbx NV - 1997-9-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:9aecada2-3f81-4749-9221-1a0972e341cb][Mkmt Rdbx]]
+- date :: 1997-9-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       37dac91e-9b38-4748-b7de-0a499e0ef1ee
+:END:
+#+title: Novr Rlrt Wymejz Pfz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wymejz Pfz
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.58
+- price :: 19.37 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: 7.0
+- ratings :: [[id:1f7b5fb1-a221-4261-9397-38435bdb7bad][Novr Rlrt Wymejz Pfz NV - 1991-10-1]]

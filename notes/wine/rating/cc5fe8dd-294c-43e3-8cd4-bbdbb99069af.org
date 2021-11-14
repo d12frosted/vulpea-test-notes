@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cc5fe8dd-294c-43e3-8cd4-bbdbb99069af
+:END:
+#+title: Lzf Cupyb Gojdkb NV - 2010-8-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:29c90c32-9b1c-4c5e-a502-4a8c446ef40e][Lzf Cupyb Gojdkb]]
+- date :: 2010-8-17
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

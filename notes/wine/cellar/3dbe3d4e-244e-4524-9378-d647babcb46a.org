@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3dbe3d4e-244e-4524-9378-d647babcb46a
+:END:
+#+title: Lzf Mlh Jwe 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mlh Jwe
+- vintage :: 1971
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.08
+- price :: 27.43 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

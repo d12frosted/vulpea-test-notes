@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c5a08caa-e80b-45c3-bc6d-9746bb780417
+:END:
+#+title: Cdeexg Prwel Tggg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Prwel Tggg
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.370000000000001
+- sugar :: 3.11
+- price :: 47.72 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:8746b4d2-339b-4f4d-8f1c-874ac5c34663][Cdeexg Prwel Tggg NV - 1990-6-16]]

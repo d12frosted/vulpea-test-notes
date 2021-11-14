@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a88bccdb-dc5c-4383-b705-93b94b057131
+:END:
+#+title: Rue Yvc 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Yvc
+- vintage :: 2013
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.8
+- sugar :: 0.73
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

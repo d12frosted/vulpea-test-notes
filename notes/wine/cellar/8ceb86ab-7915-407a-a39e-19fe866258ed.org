@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8ceb86ab-7915-407a-a39e-19fe866258ed
+:END:
+#+title: Novr Rlrt Xsak Vawuqh 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Xsak Vawuqh
+- vintage :: 1993
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.940000000000001
+- sugar :: 1.64
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

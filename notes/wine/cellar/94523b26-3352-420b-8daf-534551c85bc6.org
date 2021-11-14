@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       94523b26-3352-420b-8daf-534551c85bc6
+:END:
+#+title: Njtzvl Kew 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kew
+- vintage :: 1995
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.030000000000001
+- sugar :: 16.72
+- price :: 50.88 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:a0ac9544-1e2f-4f27-b684-b44e97c1ab84][Njtzvl Kew 1995 - 2004-12-10]]

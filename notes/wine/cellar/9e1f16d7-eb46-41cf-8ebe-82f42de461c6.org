@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9e1f16d7-eb46-41cf-8ebe-82f42de461c6
+:END:
+#+title: Mkmt Reuviln Zrcajg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Reuviln Zrcajg
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 9.27
+- sugar :: 19.78
+- price :: 88.05 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

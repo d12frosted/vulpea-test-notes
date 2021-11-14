@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       320c7486-9326-440a-9dac-4538b5f42ddd
+:END:
+#+title: Novr Rlrt Asu Wbjvde 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Asu Wbjvde
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 12.92
+- sugar :: 15.01
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 7.0
+- ratings :: [[id:4cc1b216-10e6-4cba-a221-a1a03bb502aa][Novr Rlrt Asu Wbjvde NV - 2000-4-8]]

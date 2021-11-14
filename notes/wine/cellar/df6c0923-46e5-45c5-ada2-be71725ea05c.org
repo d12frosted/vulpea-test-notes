@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       df6c0923-46e5-45c5-ada2-be71725ea05c
+:END:
+#+title: Lzf Mslei Enxwey 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mslei Enxwey
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.9
+- sugar :: 3.73
+- price :: 13.02 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

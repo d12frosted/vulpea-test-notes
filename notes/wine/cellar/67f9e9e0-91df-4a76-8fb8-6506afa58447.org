@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       67f9e9e0-91df-4a76-8fb8-6506afa58447
+:END:
+#+title: Dfsxtmx Gyikx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gyikx
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.11
+- price :: 51.61 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

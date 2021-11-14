@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2fa3589b-7b1c-4fb3-86cb-2c3532bbd2f2
+:END:
+#+title: Lzf Jwxyxl 1906 - 2008-8-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:252e6106-2ae0-4993-baa2-b7cae80e493e][Lzf Jwxyxl 1906]]
+- date :: 2008-8-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

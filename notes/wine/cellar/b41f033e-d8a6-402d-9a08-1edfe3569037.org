@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       b41f033e-d8a6-402d-9a08-1edfe3569037
+:END:
+#+title: Vjjtw Hvrja Ywo Juftjlq 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ywo Juftjlq
+- vintage :: 1905
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.63
+- sugar :: 15.5
+- price :: 101.24 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.0
+- ratings :: [[id:2ac3a61b-efc9-4fd1-816f-6e1dfbb62ba5][Vjjtw Hvrja Ywo Juftjlq 1905 - 2018-9-19]]

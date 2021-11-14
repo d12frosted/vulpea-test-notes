@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4d553ff4-573a-47ee-9169-e91046f8c90a
+:END:
+#+title: Rue Iancj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Iancj
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.14
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

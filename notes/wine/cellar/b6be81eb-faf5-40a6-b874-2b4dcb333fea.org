@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b6be81eb-faf5-40a6-b874-2b4dcb333fea
+:END:
+#+title: Novr Rlrt Ibnxnqg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ibnxnqg
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 11.379999999999999
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2ec3570f-dea5-4fc1-a3e9-c8d0ee6b2326
+:END:
+#+title: Mkmt Lntxyp Xzl 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Lntxyp Xzl
+- vintage :: 2013
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.52
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:56f94546-56b3-43eb-9e36-8c678fa6670b][Mkmt Lntxyp Xzl 2013 - 2024-5-3]]

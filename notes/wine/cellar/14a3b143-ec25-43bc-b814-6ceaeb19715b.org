@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       14a3b143-ec25-43bc-b814-6ceaeb19715b
+:END:
+#+title: Njtzvl Fje Cggdfbyf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Fje Cggdfbyf
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.129999999999999
+- sugar :: 6.25
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

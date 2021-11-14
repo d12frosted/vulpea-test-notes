@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8cd40332-6780-435c-8af2-b86f1129778d
+:END:
+#+title: Njtzvl Ibxeiki 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ibxeiki
+- vintage :: 1981
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.129999999999999
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

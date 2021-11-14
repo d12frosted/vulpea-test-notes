@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       eda4996c-bcfd-40b7-9497-3e08e7983095
+:END:
+#+title: Rue Vvmujonc 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vvmujonc
+- vintage :: 1913
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 11.9
+- sugar :: 19.22
+- price :: 39.24 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

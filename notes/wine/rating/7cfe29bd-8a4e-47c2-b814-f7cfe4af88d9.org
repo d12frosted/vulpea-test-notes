@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7cfe29bd-8a4e-47c2-b814-f7cfe4af88d9
+:END:
+#+title: Lzf Idrh NV - 1994-5-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:4a7d3205-cda1-443d-b1ac-5a65653dc255][Lzf Idrh]]
+- date :: 1994-5-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8b08ce5c-ff3a-4660-973a-a71440a03593
+:END:
+#+title: Dfsxtmx Hnhb Hurz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Hnhb Hurz
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.41
+- sugar :: 13.44
+- price :: 36.53 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 4.5
+- ratings :: [[id:95a0ae9e-2021-490a-beee-ca905d7eff8f][Dfsxtmx Hnhb Hurz NV - 2012-5-13]]

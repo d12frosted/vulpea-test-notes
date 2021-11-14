@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1cf615a0-6b4f-4a76-9d72-a674c798aaa4
+:END:
+#+title: Vjjtw Hvrja Ghc 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ghc
+- vintage :: 1918
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.75
+- sugar :: 8.03
+- price :: 11.03 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

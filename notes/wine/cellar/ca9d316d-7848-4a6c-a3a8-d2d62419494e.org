@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ca9d316d-7848-4a6c-a3a8-d2d62419494e
+:END:
+#+title: Dfsxtmx Ogogjike Vedmg 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ogogjike Vedmg
+- vintage :: 1998
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.35
+- sugar :: 15.04
+- price :: 24.85 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

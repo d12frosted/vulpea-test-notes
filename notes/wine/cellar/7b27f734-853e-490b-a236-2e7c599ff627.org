@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7b27f734-853e-490b-a236-2e7c599ff627
+:END:
+#+title: Dfsxtmx Sckymko 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Sckymko
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.33
+- sugar :: 22.98
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

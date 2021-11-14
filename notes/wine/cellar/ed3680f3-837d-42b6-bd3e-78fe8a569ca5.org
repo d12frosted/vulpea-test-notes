@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ed3680f3-837d-42b6-bd3e-78fe8a569ca5
+:END:
+#+title: Rue Vavexqee 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vavexqee
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.32
+- price :: 53.97 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

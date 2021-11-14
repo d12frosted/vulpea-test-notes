@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       36793032-89a1-4b44-93f3-3bc7b2969a88
+:END:
+#+title: Cdeexg Rpwzshk Odnhc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Rpwzshk Odnhc
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.92
+- sugar :: 12.96
+- price :: 50.24 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.5
+- ratings :: [[id:d2f09dcd-d5f2-40b5-9eac-b94a62cfe68c][Cdeexg Rpwzshk Odnhc NV - 2014-3-24]]

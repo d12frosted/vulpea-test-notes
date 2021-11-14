@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       97e3e55b-d61e-46ec-8075-34098a04bcf9
+:END:
+#+title: Dseajc Jinm Npxg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Npxg
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.43
+- price :: 14.41 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:aba20c4f-8c4f-41ab-aec3-4ca41daca067][Dseajc Jinm Npxg NV - 1999-4-10]]

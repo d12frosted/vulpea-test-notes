@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8d675ac6-7911-44d1-9fab-9a727d70a5c3
+:END:
+#+title: Cdeexg Yjahpo Chzimul 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Yjahpo Chzimul
+- vintage :: 1986
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.53
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

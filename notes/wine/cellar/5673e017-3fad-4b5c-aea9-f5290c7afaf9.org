@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5673e017-3fad-4b5c-aea9-f5290c7afaf9
+:END:
+#+title: Lzf Ihblj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ihblj
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.26
+- price :: 32.26 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

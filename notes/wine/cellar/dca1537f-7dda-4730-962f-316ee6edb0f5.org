@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dca1537f-7dda-4730-962f-316ee6edb0f5
+:END:
+#+title: Miv Cgtnxe 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Cgtnxe
+- vintage :: 1956
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.85
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.5
+- ratings :: [[id:b00300e1-9deb-47fb-82ff-48e354fd9294][Miv Cgtnxe 1956 - 1996-9-3]]

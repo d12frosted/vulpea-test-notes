@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e5f863a2-2d57-47fb-b291-e5a39bdb1944
+:END:
+#+title: Cdeexg Nlxw Alimhqsv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Nlxw Alimhqsv
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.58
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

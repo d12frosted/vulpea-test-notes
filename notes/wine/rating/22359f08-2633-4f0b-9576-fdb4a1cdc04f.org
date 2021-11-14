@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       22359f08-2633-4f0b-9576-fdb4a1cdc04f
+:END:
+#+title: Novr Rlrt Kimros NV - 1991-8-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:ad547aaf-5264-4f44-abc0-5d52006c8b73][Novr Rlrt Kimros]]
+- date :: 1991-8-3
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

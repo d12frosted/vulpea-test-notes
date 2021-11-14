@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b42ae89d-9bae-4c1f-8231-0785be241515
+:END:
+#+title: Dseajc Jinm Vtn 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vtn
+- vintage :: 2015
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.870000000000001
+- price :: 62.80 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

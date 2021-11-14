@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d5f4ecd2-d2ac-4203-80d0-5c47f280f094
+:END:
+#+title: Njtzvl Jjacapfb 1956 - 2022-11-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:82bc75e9-b658-4f89-924f-650831421b14][Njtzvl Jjacapfb 1956]]
+- date :: 2022-11-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

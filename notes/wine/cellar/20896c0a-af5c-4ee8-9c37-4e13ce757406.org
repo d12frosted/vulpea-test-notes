@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       20896c0a-af5c-4ee8-9c37-4e13ce757406
+:END:
+#+title: Mkmt Uzxso 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Uzxso
+- vintage :: 1933
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 12.09
+- sugar :: 0.4
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:79bd9635-9e12-458e-8101-b0d64a0816f8][Mkmt Uzxso 1933 - 2024-10-5]]

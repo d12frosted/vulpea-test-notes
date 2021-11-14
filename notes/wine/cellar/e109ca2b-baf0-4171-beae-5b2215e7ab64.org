@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e109ca2b-baf0-4171-beae-5b2215e7ab64
+:END:
+#+title: Novr Rlrt Thslj Tkdgkcgn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Thslj Tkdgkcgn
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.45
+- price :: 16.80 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 2.5
+- ratings :: [[id:4d94634e-ea5c-4d4b-b060-11579745d0bc][Novr Rlrt Thslj Tkdgkcgn NV - 2021-1-11]]

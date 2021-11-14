@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bcbac7d8-0b80-4b4e-903e-f3e0a32fcc8e
+:END:
+#+title: Vjjtw Hvrja Oba 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Oba
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.75
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 8.0
+- ratings :: [[id:f760e82e-0537-445d-8ba3-fada6ebb0ee3][Vjjtw Hvrja Oba NV - 1998-6-15]]

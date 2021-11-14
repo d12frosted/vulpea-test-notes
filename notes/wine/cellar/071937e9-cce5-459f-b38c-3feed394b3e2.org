@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       071937e9-cce5-459f-b38c-3feed394b3e2
+:END:
+#+title: Rue Fjztyohd Kpy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Fjztyohd Kpy
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.46
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.5
+- ratings :: [[id:e1a5f6fd-2501-4664-94c7-f02ff2d9ed76][Rue Fjztyohd Kpy NV - 2013-6-7]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9f51836e-6e44-42de-98c9-7f2a1e665d16
+:END:
+#+title: Dfsxtmx Xlrz Phakg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xlrz Phakg
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.79
+- sugar :: 10.76
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

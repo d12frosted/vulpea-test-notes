@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       400e1116-da1e-4b3a-99cf-47fec32880d1
+:END:
+#+title: Dfsxtmx Bfvxphul 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Bfvxphul
+- vintage :: 1941
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.29
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       11d2d3e7-a6da-42e2-b46f-c403580256ee
+:END:
+#+title: Rue Qzcmqsq Yfd 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qzcmqsq Yfd
+- vintage :: 1913
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.65
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

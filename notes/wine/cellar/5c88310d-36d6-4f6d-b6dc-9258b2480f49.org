@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5c88310d-36d6-4f6d-b6dc-9258b2480f49
+:END:
+#+title: Vjjtw Hvrja Hxxihk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hxxihk
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.309999999999999
+- sugar :: 5.79
+- price :: 72.55 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.5
+- ratings :: [[id:d3bb2cab-038c-4ae3-8d89-08c0161a4893][Vjjtw Hvrja Hxxihk NV - 1995-8-17]]

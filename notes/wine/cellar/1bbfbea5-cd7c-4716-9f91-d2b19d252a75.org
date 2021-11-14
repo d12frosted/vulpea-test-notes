@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1bbfbea5-cd7c-4716-9f91-d2b19d252a75
+:END:
+#+title: Mkmt Ltnt Yfn 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ltnt Yfn
+- vintage :: 1988
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.22
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

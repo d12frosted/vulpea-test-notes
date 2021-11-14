@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1dc83e5d-f3d7-4cc2-85c9-61f0b8125fd3
+:END:
+#+title: Cdeexg Uqnc Wgey NV - 2018-7-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:4cf899b2-51d2-4c8d-9362-b6495b723d8c][Cdeexg Uqnc Wgey]]
+- date :: 2018-7-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5f685e58-11fb-41a2-81fe-df871f0a34d5
+:END:
+#+title: Dfsxtmx Nxlucnc NV - 2006-8-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:a19db35f-a642-4d34-af20-e2dfc28c0ee3][Dfsxtmx Nxlucnc]]
+- date :: 2006-8-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

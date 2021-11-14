@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       22bcb76b-3599-41fe-a7dc-941319d3c559
+:END:
+#+title: Njtzvl Txjryi 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Txjryi
+- vintage :: 1962
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.49
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2c87fb71-0ce1-46b4-98e1-b0b1c7e4617b
+:END:
+#+title: Novr Rlrt Wereejmn Revrt 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wereejmn Revrt
+- vintage :: 1945
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.54
+- sugar :: 22.92
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

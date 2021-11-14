@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       48f94f2c-68e8-48f2-ac20-37e2a37bf4ff
+:END:
+#+title: Mkmt Dxyqe Yoij 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Dxyqe Yoij
+- vintage :: 2012
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.45
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 9.0
+- ratings :: [[id:5ab9a2ec-cd56-48a5-9ebd-2d660b8ec430][Mkmt Dxyqe Yoij 2012 - 2018-6-25]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b5c1c62d-805a-4bc9-b444-2f2260ccb7b5
+:END:
+#+title: Cdeexg Dfo 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Dfo
+- vintage :: 1976
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.48
+- price :: 19.08 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 6.0
+- ratings :: [[id:e9b2fb4b-c074-4156-beb3-24868c4a922e][Cdeexg Dfo 1976 - 2014-7-12]]

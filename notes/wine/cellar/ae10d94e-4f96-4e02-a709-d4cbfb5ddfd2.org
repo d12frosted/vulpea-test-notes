@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ae10d94e-4f96-4e02-a709-d4cbfb5ddfd2
+:END:
+#+title: Dseajc Jinm Ywbymyb Yokrrnb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ywbymyb Yokrrnb
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.58
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

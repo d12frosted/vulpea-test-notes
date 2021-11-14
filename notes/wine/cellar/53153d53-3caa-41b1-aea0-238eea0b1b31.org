@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       53153d53-3caa-41b1-aea0-238eea0b1b31
+:END:
+#+title: Rue Ysds Dnlh 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ysds Dnlh
+- vintage :: 1908
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.68
+- sugar :: 6.03
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

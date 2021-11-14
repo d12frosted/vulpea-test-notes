@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f2694d29-8753-4289-bb32-c6e1777fd0f8
+:END:
+#+title: Njtzvl Dqzweuw Gpmljmos 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Dqzweuw Gpmljmos
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.78
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

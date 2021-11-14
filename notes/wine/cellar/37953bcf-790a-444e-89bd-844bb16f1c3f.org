@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       37953bcf-790a-444e-89bd-844bb16f1c3f
+:END:
+#+title: Dfsxtmx Gknox Uwl 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gknox Uwl
+- vintage :: 1931
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.68
+- price :: 21.95 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:4d7a06ef-1d2c-473a-aba2-273cc047df91][Dfsxtmx Gknox Uwl 1931 - 2011-9-15]]

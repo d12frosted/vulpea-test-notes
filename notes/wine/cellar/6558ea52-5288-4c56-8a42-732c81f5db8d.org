@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6558ea52-5288-4c56-8a42-732c81f5db8d
+:END:
+#+title: Rue Kzmnrkvg 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kzmnrkvg
+- vintage :: 1921
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.39
+- price :: 43.65 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:aa4035d2-4125-4ec0-96f7-00003cf93dcc][Rue Kzmnrkvg 1921 - 1999-1-23]]

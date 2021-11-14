@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       04ff9740-d0eb-4a51-8da1-1a7345d73841
+:END:
+#+title: Novr Rlrt Qzfopj 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Qzfopj
+- vintage :: 1923
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.17
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:c4fa8a7f-0150-4b7d-a690-6276fae9a9de][Novr Rlrt Qzfopj 1923 - 2014-10-9]]

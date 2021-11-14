@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       90b25df7-ace1-4e5f-a6cd-a7bb5f43ca25
+:END:
+#+title: Njtzvl Xww Yxnsmp NV - 1995-6-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:b3401d1d-d5bb-4522-9848-a6f3fce50695][Njtzvl Xww Yxnsmp]]
+- date :: 1995-6-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

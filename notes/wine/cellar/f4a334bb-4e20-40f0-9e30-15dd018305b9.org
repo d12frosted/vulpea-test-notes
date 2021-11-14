@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f4a334bb-4e20-40f0-9e30-15dd018305b9
+:END:
+#+title: Mkmt Morhjz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Morhjz
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.21
+- sugar :: 20.86
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: duckduckgo
+- rating :: 7.5
+- ratings :: [[id:c93147c1-b960-45cc-b838-21886a01ff45][Mkmt Morhjz NV - 1996-11-22]]

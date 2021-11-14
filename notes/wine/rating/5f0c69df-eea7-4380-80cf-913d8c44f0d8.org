@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5f0c69df-eea7-4380-80cf-913d8c44f0d8
+:END:
+#+title: Vjjtw Hvrja Icqhp NV - 1998-11-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:19b2ec48-4ec9-4e3f-85cc-3c3b2ced968b][Vjjtw Hvrja Icqhp]]
+- date :: 1998-11-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

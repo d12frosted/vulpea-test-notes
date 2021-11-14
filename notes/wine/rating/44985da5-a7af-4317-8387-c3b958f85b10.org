@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       44985da5-a7af-4317-8387-c3b958f85b10
+:END:
+#+title: Dfsxtmx Oqd 1961 - 2000-4-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:a43b4d13-8581-478f-ad68-e4b95cfdcd48][Dfsxtmx Oqd 1961]]
+- date :: 2000-4-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

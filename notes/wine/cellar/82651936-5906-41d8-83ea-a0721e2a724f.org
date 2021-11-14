@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       82651936-5906-41d8-83ea-a0721e2a724f
+:END:
+#+title: Novr Rlrt Irdtrcvz 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Irdtrcvz
+- vintage :: 1966
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.51
+- sugar :: 12.31
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:1042cb53-4474-4b59-a43e-43325bccd27c][Novr Rlrt Irdtrcvz 1966 - 1992-9-13]]

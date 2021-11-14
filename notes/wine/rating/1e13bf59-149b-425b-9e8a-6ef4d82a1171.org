@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1e13bf59-149b-425b-9e8a-6ef4d82a1171
+:END:
+#+title: Dfsxtmx Yrhc Flta NV - 2011-1-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:527a6a91-01dc-4e0e-8f3f-11c20e1f4e0f][Dfsxtmx Yrhc Flta]]
+- date :: 2011-1-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

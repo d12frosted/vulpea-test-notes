@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4616a668-87d4-4a05-97bd-bccabdf415b9
+:END:
+#+title: Cdeexg Uicwpjb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Uicwpjb
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.46
+- sugar :: 6.64
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 7.0
+- ratings :: [[id:f2908233-5438-412b-a8f1-b332e579b4eb][Cdeexg Uicwpjb NV - 2018-3-9]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       bbfbd99c-8de5-46ce-a559-4d2554721473
+:END:
+#+title: Dfsxtmx Rth 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rth
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 10.31
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

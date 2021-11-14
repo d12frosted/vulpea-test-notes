@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       6c8c68a1-dc7b-4b72-91e1-42ca611c52b4
+:END:
+#+title: Novr Rlrt Izmbq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Izmbq
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.93
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: NA

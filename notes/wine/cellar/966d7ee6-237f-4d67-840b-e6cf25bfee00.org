@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       966d7ee6-237f-4d67-840b-e6cf25bfee00
+:END:
+#+title: Cdeexg Uhmn Xunvgcey 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Uhmn Xunvgcey
+- vintage :: 1904
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.95
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

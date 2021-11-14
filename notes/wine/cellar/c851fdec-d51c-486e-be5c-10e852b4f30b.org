@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c851fdec-d51c-486e-be5c-10e852b4f30b
+:END:
+#+title: Rue Ynppts 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ynppts
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.71
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

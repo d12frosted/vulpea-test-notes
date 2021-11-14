@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2ddb448e-d041-40ce-a3f9-43722f1386ae
+:END:
+#+title: Cdeexg Dcwswyv Mlgsmy 1997 - 2004-12-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:fb05e28c-133c-4154-be91-39166c6bbfd3][Cdeexg Dcwswyv Mlgsmy 1997]]
+- date :: 2004-12-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

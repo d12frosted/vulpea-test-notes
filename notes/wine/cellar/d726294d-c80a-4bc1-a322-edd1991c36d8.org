@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d726294d-c80a-4bc1-a322-edd1991c36d8
+:END:
+#+title: Dseajc Jinm Nad Rhysaixy 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Nad Rhysaixy
+- vintage :: 2011
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 9.24
+- sugar :: 21.65
+- price :: 76.21 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e5e3fa6a-388a-42a1-9a47-084fb9567ace
+:END:
+#+title: Vjjtw Hvrja Mgtdvhqm 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mgtdvhqm
+- vintage :: 1945
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.11
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:a377d751-e777-4ffd-add1-7b5bf1d206a8][Vjjtw Hvrja Mgtdvhqm 1945 - 1998-4-12]]

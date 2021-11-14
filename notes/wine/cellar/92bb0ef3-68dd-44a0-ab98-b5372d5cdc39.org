@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       92bb0ef3-68dd-44a0-ab98-b5372d5cdc39
+:END:
+#+title: Rue Ecrvrtnj Brjthee 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ecrvrtnj Brjthee
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.120000000000001
+- sugar :: 1.17
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:f0808a4f-e4ac-43e6-963d-eb0c17990f76][Rue Ecrvrtnj Brjthee NV - 2009-3-27]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0712a090-503e-4f54-bf3a-cb1482167051
+:END:
+#+title: Mkmt Vbri Dgrc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Vbri Dgrc
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.74
+- sugar :: 19.34
+- price :: 31.10 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 8.0
+- ratings :: [[id:5ea742c5-0406-4a01-a50a-b03564a2e06f][Mkmt Vbri Dgrc NV - 1998-3-1]]

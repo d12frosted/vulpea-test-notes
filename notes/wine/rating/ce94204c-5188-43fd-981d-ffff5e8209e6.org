@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ce94204c-5188-43fd-981d-ffff5e8209e6
+:END:
+#+title: Njtzvl Jxdfpug Puxoqif 1988 - 2024-8-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:fd0e7baf-28c1-47bd-a416-8a1b1d44c313][Njtzvl Jxdfpug Puxoqif 1988]]
+- date :: 2024-8-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

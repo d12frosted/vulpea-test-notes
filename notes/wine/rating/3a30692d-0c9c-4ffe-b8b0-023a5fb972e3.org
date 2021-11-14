@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3a30692d-0c9c-4ffe-b8b0-023a5fb972e3
+:END:
+#+title: Miv Dqhfvxe Swpkcwbg NV - 2006-11-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:40807a2d-3bd8-454e-9c3c-19255fb1fe21][Miv Dqhfvxe Swpkcwbg]]
+- date :: 2006-11-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

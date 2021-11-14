@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       251e8cf5-7acb-453c-953c-88a974c13353
+:END:
+#+title: Dfsxtmx Ynlk Vvowaxd 1925 - 2005-9-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:437233fe-6c3d-4cb8-8e05-b1ddc02f64bc][Dfsxtmx Ynlk Vvowaxd 1925]]
+- date :: 2005-9-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

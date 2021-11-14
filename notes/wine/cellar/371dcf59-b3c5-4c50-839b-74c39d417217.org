@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       371dcf59-b3c5-4c50-839b-74c39d417217
+:END:
+#+title: Dseajc Jinm Mntq 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Mntq
+- vintage :: 1921
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.49
+- sugar :: 13.22
+- price :: 57.25 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.5
+- ratings :: [[id:bb187f4c-2a3d-489b-beeb-440d3bc41b56][Dseajc Jinm Mntq 1921 - 2000-11-27]]

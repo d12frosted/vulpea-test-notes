@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       84b592d2-c6f4-446f-bf44-590a63cc110d
+:END:
+#+title: Dfsxtmx Uchtbxkp 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Uchtbxkp
+- vintage :: 1949
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 10.43
+- price :: 62.85 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:85040b2c-b6c0-4fd0-b9b7-1b4c48fbb01f][Dfsxtmx Uchtbxkp 1949 - 1991-2-27]]

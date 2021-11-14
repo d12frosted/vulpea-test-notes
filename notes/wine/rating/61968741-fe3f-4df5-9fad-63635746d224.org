@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       61968741-fe3f-4df5-9fad-63635746d224
+:END:
+#+title: Lzf Ffyasvc NV - 2000-4-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:072a553e-e780-402f-9966-af27fe8cfb6e][Lzf Ffyasvc]]
+- date :: 2000-4-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

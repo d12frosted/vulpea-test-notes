@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       acff37ad-657f-429c-8c7b-6493f7a6720f
+:END:
+#+title: Rue Mhijkbwh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mhijkbwh
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.71
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 5.5
+- ratings :: [[id:db4b6919-eaf5-4d8c-8b3c-1906404eb27e][Rue Mhijkbwh NV - 1992-3-21]]

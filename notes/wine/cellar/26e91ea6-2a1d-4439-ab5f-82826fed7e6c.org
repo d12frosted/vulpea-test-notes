@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       26e91ea6-2a1d-4439-ab5f-82826fed7e6c
+:END:
+#+title: Dfsxtmx Hslsr Enzs 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Hslsr Enzs
+- vintage :: 1938
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 13.85
+- sugar :: 0.16
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

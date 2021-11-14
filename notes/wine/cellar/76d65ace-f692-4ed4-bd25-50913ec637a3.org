@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       76d65ace-f692-4ed4-bd25-50913ec637a3
+:END:
+#+title: Dfsxtmx Kuz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kuz
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.69
+- sugar :: 7.16
+- price :: 84.81 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:d2b37f7b-a96b-4076-abc4-1891b65b2bfe][Dfsxtmx Kuz NV - 2002-5-1]]

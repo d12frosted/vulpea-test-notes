@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b50bc934-7ec1-4472-8e90-8e8d03807de2
+:END:
+#+title: Cdeexg Hzwnnj Kqvxr NV - 2020-10-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:5806e1ee-4bcb-4b95-a168-a73b5c2d3b1c][Cdeexg Hzwnnj Kqvxr]]
+- date :: 2020-10-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

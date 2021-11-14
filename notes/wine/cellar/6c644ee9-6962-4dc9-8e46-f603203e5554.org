@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6c644ee9-6962-4dc9-8e46-f603203e5554
+:END:
+#+title: Vjjtw Hvrja Usggstf Qianznjg 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Usggstf Qianznjg
+- vintage :: 1984
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.91
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

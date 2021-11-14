@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9bb7e85a-bec7-46a1-8ec0-0af8de66c4fc
+:END:
+#+title: Lzf Zft Jytyp 1982 - 1993-4-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:3248a263-f734-44e6-9532-82af0775684f][Lzf Zft Jytyp 1982]]
+- date :: 1993-4-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

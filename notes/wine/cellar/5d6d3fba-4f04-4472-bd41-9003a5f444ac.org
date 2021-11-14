@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5d6d3fba-4f04-4472-bd41-9003a5f444ac
+:END:
+#+title: Vjjtw Hvrja Lxfbuu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Lxfbuu
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.85
+- sugar :: 21.1
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 9.0
+- ratings :: [[id:2fa1b1b1-3963-4fe4-a1e5-6aa3eff986e6][Vjjtw Hvrja Lxfbuu NV - 2022-11-27]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6cc7ff83-281d-49fc-9691-8f94200ee6b2
+:END:
+#+title: Rue Qulhwlk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qulhwlk
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.88
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

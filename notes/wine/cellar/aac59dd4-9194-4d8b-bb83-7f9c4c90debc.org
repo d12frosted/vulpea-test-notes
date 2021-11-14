@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       aac59dd4-9194-4d8b-bb83-7f9c4c90debc
+:END:
+#+title: Cdeexg Qikjb Mmfdq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Qikjb Mmfdq
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.2
+- price :: 64.69 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:e0c78874-d843-4b1f-a578-67f93bd3d608][Cdeexg Qikjb Mmfdq NV - 2013-9-22]]

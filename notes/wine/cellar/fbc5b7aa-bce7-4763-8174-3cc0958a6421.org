@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fbc5b7aa-bce7-4763-8174-3cc0958a6421
+:END:
+#+title: Njtzvl Jxjdhm Yveoqmml 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Jxjdhm Yveoqmml
+- vintage :: 2009
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.72
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:5ac59289-f205-4209-84b6-2576055ce8c9][Njtzvl Jxjdhm Yveoqmml 2009 - 2015-8-7]]

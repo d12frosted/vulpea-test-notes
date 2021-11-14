@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5875a1c2-126f-421e-8acf-9733b43bf5bd
+:END:
+#+title: Miv Mqvmfdff Xpy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mqvmfdff Xpy
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 13.690000000000001
+- price :: 28.43 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

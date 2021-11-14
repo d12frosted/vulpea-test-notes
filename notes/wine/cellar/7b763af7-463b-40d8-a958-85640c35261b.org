@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7b763af7-463b-40d8-a958-85640c35261b
+:END:
+#+title: Cdeexg Dqukbuzb Iqgnc 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Dqukbuzb Iqgnc
+- vintage :: 1942
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.5
+- sugar :: 5.29
+- price :: 14.35 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

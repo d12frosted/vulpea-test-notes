@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       660012d2-fab0-437a-8561-2e773e171efd
+:END:
+#+title: Novr Rlrt Ntdzx Oxduwm NV - 2010-9-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:c103461f-ead6-43ed-bcc4-9911d1b6f595][Novr Rlrt Ntdzx Oxduwm]]
+- date :: 2010-9-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

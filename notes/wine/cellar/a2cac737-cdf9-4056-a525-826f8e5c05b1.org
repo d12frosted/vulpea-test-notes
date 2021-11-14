@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a2cac737-cdf9-4056-a525-826f8e5c05b1
+:END:
+#+title: Novr Rlrt Jsgo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jsgo
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 9.09
+- sugar :: 13.24
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0728a1f0-919d-4808-a256-4d9e4d3e4b43
+:END:
+#+title: Lzf Qzjzidj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Qzjzidj
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.52
+- sugar :: 21.4
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

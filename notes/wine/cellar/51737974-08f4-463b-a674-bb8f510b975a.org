@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       51737974-08f4-463b-a674-bb8f510b975a
+:END:
+#+title: Novr Rlrt Jjng Baqf 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jjng Baqf
+- vintage :: 1986
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.04
+- price :: 45.36 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 2.0
+- ratings :: [[id:f5b702dc-4029-4a31-bdb2-d99bedaec339][Novr Rlrt Jjng Baqf 1986 - 1990-7-13]]

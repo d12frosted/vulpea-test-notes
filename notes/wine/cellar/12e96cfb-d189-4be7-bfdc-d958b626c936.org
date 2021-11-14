@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       12e96cfb-d189-4be7-bfdc-d958b626c936
+:END:
+#+title: Dseajc Jinm Mvkxalk 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Mvkxalk
+- vintage :: 2005
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.6
+- price :: 64.13 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.5
+- ratings :: [[id:1c17a8f1-a99c-4702-bd56-782c32817102][Dseajc Jinm Mvkxalk 2005 - 1996-3-26]]

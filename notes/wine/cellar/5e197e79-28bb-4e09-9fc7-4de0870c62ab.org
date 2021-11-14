@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5e197e79-28bb-4e09-9fc7-4de0870c62ab
+:END:
+#+title: Dseajc Jinm Fzphoc 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Fzphoc
+- vintage :: 1953
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.15
+- price :: 47.59 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

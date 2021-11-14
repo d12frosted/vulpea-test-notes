@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       14ea1b79-d3c6-4c4a-a3b4-6fcbda10683a
+:END:
+#+title: Dfsxtmx Cmnl 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Cmnl
+- vintage :: 1976
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 9.99
+- sugar :: 19.34
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

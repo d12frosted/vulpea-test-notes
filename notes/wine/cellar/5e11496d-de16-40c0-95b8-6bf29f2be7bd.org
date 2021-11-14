@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5e11496d-de16-40c0-95b8-6bf29f2be7bd
+:END:
+#+title: Novr Rlrt Xqwx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Xqwx
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.46
+- sugar :: 17.3
+- price :: 21.01 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

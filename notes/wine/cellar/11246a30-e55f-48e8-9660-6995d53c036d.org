@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       11246a30-e55f-48e8-9660-6995d53c036d
+:END:
+#+title: Novr Rlrt Prshzkz 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Prshzkz
+- vintage :: 1986
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 9.3
+- price :: 36.20 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

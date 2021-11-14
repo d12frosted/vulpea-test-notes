@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1c7ee83e-652c-419a-bfa7-e7aefe8bd175
+:END:
+#+title: Njtzvl Lfaf Ipz 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lfaf Ipz
+- vintage :: 1941
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.27
+- sugar :: 3.23
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

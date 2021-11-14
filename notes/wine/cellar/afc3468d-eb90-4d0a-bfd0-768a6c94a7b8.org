@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       afc3468d-eb90-4d0a-bfd0-768a6c94a7b8
+:END:
+#+title: Rue Sbzqos Xklen 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Sbzqos Xklen
+- vintage :: 1962
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.3
+- sugar :: 3.4
+- price :: 4.41 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

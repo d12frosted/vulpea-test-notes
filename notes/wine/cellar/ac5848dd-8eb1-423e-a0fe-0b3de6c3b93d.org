@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ac5848dd-8eb1-423e-a0fe-0b3de6c3b93d
+:END:
+#+title: Dseajc Jinm Obgialg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Obgialg
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.629999999999999
+- sugar :: 16.1
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 2.5
+- ratings :: [[id:b519a797-f0b4-4385-a2f5-cea8be6dc934][Dseajc Jinm Obgialg NV - 1992-9-5]]

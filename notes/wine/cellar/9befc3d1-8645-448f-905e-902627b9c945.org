@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9befc3d1-8645-448f-905e-902627b9c945
+:END:
+#+title: Novr Rlrt Mjlfeu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Mjlfeu
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.54
+- sugar :: 23.04
+- price :: 25.16 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

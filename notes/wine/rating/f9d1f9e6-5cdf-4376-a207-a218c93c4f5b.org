@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f9d1f9e6-5cdf-4376-a207-a218c93c4f5b
+:END:
+#+title: Njtzvl Alh 1955 - 1999-10-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:f67bdfa8-f618-4b44-bb0e-58bfe89cc891][Njtzvl Alh 1955]]
+- date :: 1999-10-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       623d29f8-016e-443d-b642-57f8c319d1a7
+:END:
+#+title: Novr Rlrt Nsznb Meubvnm 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nsznb Meubvnm
+- vintage :: 1979
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.49
+- price :: 46.35 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

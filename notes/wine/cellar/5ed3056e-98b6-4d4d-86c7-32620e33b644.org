@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5ed3056e-98b6-4d4d-86c7-32620e33b644
+:END:
+#+title: Novr Rlrt Noynyvy Lwgrfjf 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Noynyvy Lwgrfjf
+- vintage :: 2019
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.22
+- sugar :: 4.37
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: 6.0
+- ratings :: [[id:9179616f-de51-4491-b080-1e10720e02b1][Novr Rlrt Noynyvy Lwgrfjf 2019 - 2007-3-28]]

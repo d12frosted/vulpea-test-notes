@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b090dd9a-4c98-45cc-92a8-26fa280fbd08
+:END:
+#+title: Novr Rlrt Ocw Edyl NV - 2014-11-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:7b701e26-f2c0-4d98-9c07-763e48c1da43][Novr Rlrt Ocw Edyl]]
+- date :: 2014-11-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

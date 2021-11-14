@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7163c6d5-6420-422e-b520-47cc4669a97c
+:END:
+#+title: Lzf Tinj Nwpfq NV - 2003-4-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:0c64365b-1bfb-46bb-9c85-3b6bc8b4e73d][Lzf Tinj Nwpfq]]
+- date :: 2003-4-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

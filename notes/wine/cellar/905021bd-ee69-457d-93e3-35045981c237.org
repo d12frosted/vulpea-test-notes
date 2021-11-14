@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       905021bd-ee69-457d-93e3-35045981c237
+:END:
+#+title: Dseajc Jinm Ewwqmjn Qcohi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ewwqmjn Qcohi
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.02
+- sugar :: 10.03
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

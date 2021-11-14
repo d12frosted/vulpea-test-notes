@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bb1f8932-ba86-4c25-b05f-2ba9e0948a16
+:END:
+#+title: Rue Sixb Njrosc 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Sixb Njrosc
+- vintage :: 2004
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.89
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

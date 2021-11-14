@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       1bf740a9-6c00-47d9-83b2-3bc2d30292fd
+:END:
+#+title: Mkmt Top 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Top
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.87
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

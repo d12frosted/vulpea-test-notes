@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e3f0f069-6d7a-4eb2-8751-d1c76364d5f6
+:END:
+#+title: Mkmt Yplwu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Yplwu
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.79
+- sugar :: 18.02
+- price :: 9.58 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

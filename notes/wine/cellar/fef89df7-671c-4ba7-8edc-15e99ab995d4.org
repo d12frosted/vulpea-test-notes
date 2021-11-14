@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fef89df7-671c-4ba7-8edc-15e99ab995d4
+:END:
+#+title: Novr Rlrt Ndsmbecr Cbk 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ndsmbecr Cbk
+- vintage :: 1975
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.93
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 8.0
+- ratings :: [[id:0f96e3e3-f5d0-4fb3-b79e-7e13b75bf643][Novr Rlrt Ndsmbecr Cbk 1975 - 2014-7-20]]

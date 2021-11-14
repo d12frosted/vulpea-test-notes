@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a6a738a8-2993-4d0f-ac83-e5e4de3b7cb1
+:END:
+#+title: Dfsxtmx Iwhvjl Yjw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Iwhvjl Yjw
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.0
+- price :: 56.70 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:e52c3ef9-f470-4867-a8be-549d1cb8bc3d][Dfsxtmx Iwhvjl Yjw NV - 2015-2-17]]

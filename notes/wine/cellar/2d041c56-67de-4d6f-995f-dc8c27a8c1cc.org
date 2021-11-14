@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2d041c56-67de-4d6f-995f-dc8c27a8c1cc
+:END:
+#+title: Lzf Tad Oxckl 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tad Oxckl
+- vintage :: 1928
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 12.879999999999999
+- sugar :: 20.66
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:32984f66-084a-4759-ae69-a3f8dcc0e2b4][Lzf Tad Oxckl 1928 - 2018-2-3]]

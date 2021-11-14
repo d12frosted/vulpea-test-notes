@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4d8d69cb-2495-4c5c-8962-d9c89cad2e9d
+:END:
+#+title: Dfsxtmx Riv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Riv
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 11.26
+- sugar :: 18.47
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

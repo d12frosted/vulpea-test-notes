@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ac214d3a-2d5a-4f82-a9fe-903054120f9c
+:END:
+#+title: Mkmt Nqw 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Nqw
+- vintage :: 2014
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.05
+- price :: 99.70 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

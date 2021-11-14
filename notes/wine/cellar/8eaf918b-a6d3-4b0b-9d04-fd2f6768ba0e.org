@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8eaf918b-a6d3-4b0b-9d04-fd2f6768ba0e
+:END:
+#+title: Miv Bvl Scxvfal 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Bvl Scxvfal
+- vintage :: 1992
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.67
+- sugar :: 8.11
+- price :: 30.31 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:612b4ef8-287c-4e39-afe6-ef4c3858bfea][Miv Bvl Scxvfal 1992 - 2018-7-19]]

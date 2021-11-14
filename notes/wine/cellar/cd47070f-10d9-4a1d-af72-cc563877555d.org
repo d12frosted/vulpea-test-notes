@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cd47070f-10d9-4a1d-af72-cc563877555d
+:END:
+#+title: Novr Rlrt Vydott 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vydott
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.57
+- price :: 62.45 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

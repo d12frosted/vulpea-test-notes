@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0767631a-c5cc-47d1-9e24-152ea1e106e7
+:END:
+#+title: Miv Mysodlm Uugnf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mysodlm Uugnf
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.71
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

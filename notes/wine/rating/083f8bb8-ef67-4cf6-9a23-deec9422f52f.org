@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       083f8bb8-ef67-4cf6-9a23-deec9422f52f
+:END:
+#+title: Miv Edeqpr 1984 - 1993-5-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:74787956-9969-420f-bfeb-8d04a87b755c][Miv Edeqpr 1984]]
+- date :: 1993-5-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

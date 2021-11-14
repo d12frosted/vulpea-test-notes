@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d3bb36dd-2923-4eed-843a-9128757e4410
+:END:
+#+title: Cdeexg Puduhnir 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Puduhnir
+- vintage :: 1993
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 11.379999999999999
+- sugar :: 5.09
+- price :: 56.76 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7b523f60-6b2b-4ec6-8a39-bf44f26d18b4
+:END:
+#+title: Novr Rlrt Bky Mshoivoq 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bky Mshoivoq
+- vintage :: 1916
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 11.14
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

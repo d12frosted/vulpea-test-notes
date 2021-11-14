@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       23fc888d-945f-473f-a5a7-b3f03a4bdbb8
+:END:
+#+title: Vjjtw Hvrja Sadkqdn 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Sadkqdn
+- vintage :: 1945
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 9.6
+- sugar :: 14.66
+- price :: 16.16 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

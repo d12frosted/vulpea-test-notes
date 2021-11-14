@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       af30aeb2-f601-45c1-bcdd-196ff0a22fb1
+:END:
+#+title: Cdeexg Ipmrfosr 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ipmrfosr
+- vintage :: 1937
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.45
+- sugar :: 12.65
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

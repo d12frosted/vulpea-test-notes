@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5bb3e8bb-5214-4bcc-a22b-cfe658106f2b
+:END:
+#+title: Rue Oknvmo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Oknvmo
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.33
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:78419b8c-f0e7-4251-8ff0-6d25b55d0186][Rue Oknvmo NV - 2023-12-6]]

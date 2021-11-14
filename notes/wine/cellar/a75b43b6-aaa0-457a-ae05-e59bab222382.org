@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a75b43b6-aaa0-457a-ae05-e59bab222382
+:END:
+#+title: Novr Rlrt Rdliwp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rdliwp
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.16
+- sugar :: 19.09
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:2a002975-d751-4b0a-92f2-6f5e1446fe59][Novr Rlrt Rdliwp NV - 1993-9-3]]

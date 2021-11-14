@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       83d4391d-e95f-4537-a46c-21fb7f2fd769
-:END:
-#+title: Rpywidc Bspjm
-#+filetags: :wine:region:
-
-

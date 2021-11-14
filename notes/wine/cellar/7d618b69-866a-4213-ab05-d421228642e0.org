@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7d618b69-866a-4213-ab05-d421228642e0
+:END:
+#+title: Njtzvl Ijbwkbws 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ijbwkbws
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.530000000000001
+- sugar :: 3.72
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

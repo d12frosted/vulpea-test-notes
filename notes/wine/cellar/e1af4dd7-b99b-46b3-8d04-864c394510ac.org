@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e1af4dd7-b99b-46b3-8d04-864c394510ac
+:END:
+#+title: Dseajc Jinm Ehlnfpq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ehlnfpq
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.35
+- sugar :: 10.16
+- price :: 31.17 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 3.0
+- ratings :: [[id:349355d4-a15f-44aa-919c-ce11b4ddc907][Dseajc Jinm Ehlnfpq NV - 2015-11-7]]

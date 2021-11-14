@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7619124f-67be-4985-9b64-90c2fe895d6e
+:END:
+#+title: Miv Ytkcq Hmfirlq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ytkcq Hmfirlq
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.07
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.0
+- ratings :: [[id:aa7441b2-6c81-4f38-90d5-a6634077ffa1][Miv Ytkcq Hmfirlq NV - 1999-8-7]]

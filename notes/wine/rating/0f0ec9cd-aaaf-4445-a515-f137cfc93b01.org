@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0f0ec9cd-aaaf-4445-a515-f137cfc93b01
+:END:
+#+title: Cdeexg Sxxy NV - 1992-6-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:2cea2782-dd31-4c87-b6b6-7ae47862516c][Cdeexg Sxxy]]
+- date :: 1992-6-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

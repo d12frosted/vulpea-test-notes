@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7f935c67-311a-497b-bcd6-7ac5821c1208
+:END:
+#+title: Dfsxtmx Ium Pifhekv 1906
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ium Pifhekv
+- vintage :: 1906
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.07
+- sugar :: 9.98
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: wikipedia
+- rating :: 2.5
+- ratings :: [[id:11c4e1bb-7166-4a1f-8aab-2e9f382e0317][Dfsxtmx Ium Pifhekv 1906 - 2002-5-1]]

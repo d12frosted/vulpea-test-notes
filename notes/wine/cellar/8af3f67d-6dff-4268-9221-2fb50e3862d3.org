@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8af3f67d-6dff-4268-9221-2fb50e3862d3
+:END:
+#+title: Dseajc Jinm Scy Fokhgda 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Scy Fokhgda
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.309999999999999
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

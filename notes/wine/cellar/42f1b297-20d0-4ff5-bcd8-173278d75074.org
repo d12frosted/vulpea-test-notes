@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       42f1b297-20d0-4ff5-bcd8-173278d75074
+:END:
+#+title: Lzf Ofpjk Pimg 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ofpjk Pimg
+- vintage :: 1991
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.75
+- sugar :: 3.85
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: 7.5
+- ratings :: [[id:14da78c1-b7b0-44b4-acec-b2c8feec9a65][Lzf Ofpjk Pimg 1991 - 2015-5-19]]

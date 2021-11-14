@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       76f25530-9e14-4b6b-9d22-b34c9b8f30ea
+:END:
+#+title: Njtzvl Hgro Eccmbxti 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hgro Eccmbxti
+- vintage :: 2006
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.33
+- sugar :: 12.78
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

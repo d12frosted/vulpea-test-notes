@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d726c21a-917c-43a8-9340-ee9ec6a04c4d
+:END:
+#+title: Miv Mrxkjtq 1969 - 2022-7-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:6f882be8-ba4a-46a7-8ba9-fd7e82e93a5b][Miv Mrxkjtq 1969]]
+- date :: 2022-7-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

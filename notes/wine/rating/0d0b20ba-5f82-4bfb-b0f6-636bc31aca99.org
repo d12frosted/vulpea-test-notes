@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0d0b20ba-5f82-4bfb-b0f6-636bc31aca99
+:END:
+#+title: Rue Cqgecuu NV - 2011-5-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:e3fdf1c6-887a-47de-9337-7a77ffeb7ca8][Rue Cqgecuu]]
+- date :: 2011-5-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

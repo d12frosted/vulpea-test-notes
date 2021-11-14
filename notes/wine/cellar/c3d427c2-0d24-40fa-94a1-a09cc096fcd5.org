@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c3d427c2-0d24-40fa-94a1-a09cc096fcd5
+:END:
+#+title: Cdeexg Dzpnod 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Dzpnod
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.37
+- sugar :: 4.57
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:df664314-b849-4be3-aa48-c4d8aeedb872][Cdeexg Dzpnod NV - 2012-8-2]]

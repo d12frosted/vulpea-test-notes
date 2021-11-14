@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       aec1e428-b500-409f-b9da-fb1c5e39bec5
+:END:
+#+title: Miv Cruo Gualeg 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Cruo Gualeg
+- vintage :: 1995
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.27
+- price :: 80.83 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

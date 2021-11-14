@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c6b4d452-59d9-487e-be25-d29ce7049623
+:END:
+#+title: Miv Hohw NV - 2016-10-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:d8e2ff44-96ab-4ea5-8e4d-f42d86ab2093][Miv Hohw]]
+- date :: 2016-10-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

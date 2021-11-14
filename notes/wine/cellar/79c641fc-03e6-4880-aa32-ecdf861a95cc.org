@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       79c641fc-03e6-4880-aa32-ecdf861a95cc
+:END:
+#+title: Dfsxtmx Bclhys Kyv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Bclhys Kyv
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.03
+- sugar :: 4.08
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:1e96ea23-f3b1-48a8-b6a9-35f7ffc3797f][Dfsxtmx Bclhys Kyv NV - 2015-8-25]]

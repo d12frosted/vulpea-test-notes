@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d1d5c2be-23c3-4f6b-b55e-e9dace6859b7
+:END:
+#+title: Cdeexg Awjnpluc NV - 2019-3-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:eae8b747-b062-4959-9f04-bcc33a508ba8][Cdeexg Awjnpluc]]
+- date :: 2019-3-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

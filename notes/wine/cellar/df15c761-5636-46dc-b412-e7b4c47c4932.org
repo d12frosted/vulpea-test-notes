@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       df15c761-5636-46dc-b412-e7b4c47c4932
+:END:
+#+title: Njtzvl Omnny 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Omnny
+- vintage :: 1986
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.82
+- sugar :: 1.92
+- price :: 22.00 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

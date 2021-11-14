@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7464b551-3340-4d0d-b5db-e9469a2f764b
+:END:
+#+title: Mkmt Xxfkk Edhppyb 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Xxfkk Edhppyb
+- vintage :: 1966
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.14
+- price :: 4.12 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:e3c05603-a272-4de5-94b4-92da8d5462b5][Mkmt Xxfkk Edhppyb 1966 - 2013-9-23]]

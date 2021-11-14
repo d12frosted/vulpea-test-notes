@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       de2a27bb-b263-4817-9d75-22b788b379eb
+:END:
+#+title: Lzf Eigtx 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Eigtx
+- vintage :: 1981
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.09
+- sugar :: 1.47
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:ebcd3961-4276-477f-8dfc-5483e560037e][Lzf Eigtx 1981 - 1994-7-9]]

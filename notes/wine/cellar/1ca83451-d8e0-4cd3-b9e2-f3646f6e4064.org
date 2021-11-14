@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1ca83451-d8e0-4cd3-b9e2-f3646f6e4064
+:END:
+#+title: Mkmt Uwxyq Kuggus 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Uwxyq Kuggus
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.97
+- price :: 47.39 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

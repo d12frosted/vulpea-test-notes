@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8765c4bb-00a1-44f0-bf33-a7ceffae9512
+:END:
+#+title: Njtzvl Msyxtof Ygnlmu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Msyxtof Ygnlmu
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.72
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 2.5
+- ratings :: [[id:6cd96f23-fa60-4e3f-9cf0-f3966a750291][Njtzvl Msyxtof Ygnlmu NV - 2000-6-1]]

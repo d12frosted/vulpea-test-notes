@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b0eab7d5-6c2b-43da-bcb7-48290816e28f
+:END:
+#+title: Dseajc Jinm Wywbkda 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Wywbkda
+- vintage :: 1980
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.6
+- sugar :: 13.85
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

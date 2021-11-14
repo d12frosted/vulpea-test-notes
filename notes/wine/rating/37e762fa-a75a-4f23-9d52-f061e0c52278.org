@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       37e762fa-a75a-4f23-9d52-f061e0c52278
+:END:
+#+title: Lzf Fgy NV - 2000-4-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:86bfed62-cd69-4a2c-9ad6-22b292e0b749][Lzf Fgy]]
+- date :: 2000-4-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

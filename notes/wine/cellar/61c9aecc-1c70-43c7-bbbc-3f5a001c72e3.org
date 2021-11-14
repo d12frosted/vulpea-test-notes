@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       61c9aecc-1c70-43c7-bbbc-3f5a001c72e3
+:END:
+#+title: Njtzvl Gjqr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Gjqr
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.56
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 2.0
+- ratings :: [[id:511677f4-c35c-4d7d-8b00-9b7b18afc440][Njtzvl Gjqr NV - 1999-6-12]]

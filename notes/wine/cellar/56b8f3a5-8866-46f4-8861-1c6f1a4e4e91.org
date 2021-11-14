@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       56b8f3a5-8866-46f4-8861-1c6f1a4e4e91
+:END:
+#+title: Novr Rlrt Eaytl Jbpsg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Eaytl Jbpsg
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.690000000000001
+- price :: 29.13 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

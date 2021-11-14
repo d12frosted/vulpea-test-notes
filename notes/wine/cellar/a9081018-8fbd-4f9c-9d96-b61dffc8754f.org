@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a9081018-8fbd-4f9c-9d96-b61dffc8754f
+:END:
+#+title: Dseajc Jinm Fso Qbhw 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Fso Qbhw
+- vintage :: 1964
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.75
+- price :: 32.85 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:a999a21c-c034-48c4-a60c-cc2c153459d8][Dseajc Jinm Fso Qbhw 1964 - 2013-2-5]]

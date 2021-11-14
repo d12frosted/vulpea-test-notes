@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5135b097-d8e8-498a-a12d-30cd4e0c52e0
+:END:
+#+title: Novr Rlrt Bnqdx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bnqdx
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.27
+- sugar :: 10.46
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

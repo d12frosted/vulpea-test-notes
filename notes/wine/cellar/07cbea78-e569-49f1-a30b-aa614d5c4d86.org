@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       07cbea78-e569-49f1-a30b-aa614d5c4d86
+:END:
+#+title: Njtzvl Vwpyzqo Kndkhm 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Vwpyzqo Kndkhm
+- vintage :: 1956
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.66
+- sugar :: 23.77
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 7.0
+- ratings :: [[id:a69fc1e8-6cf6-46ee-994d-9811d765a08b][Njtzvl Vwpyzqo Kndkhm 1956 - 2010-12-6]]

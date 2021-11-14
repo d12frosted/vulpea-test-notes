@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3160648d-fa8a-47a6-b76c-64b7a252b2f6
+:END:
+#+title: Rue Ukelf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ukelf
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.9
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

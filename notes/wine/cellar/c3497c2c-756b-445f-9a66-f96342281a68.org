@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c3497c2c-756b-445f-9a66-f96342281a68
+:END:
+#+title: Vjjtw Hvrja Tgpnstvp 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Tgpnstvp
+- vintage :: 1969
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 10.41
+- price :: 42.85 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

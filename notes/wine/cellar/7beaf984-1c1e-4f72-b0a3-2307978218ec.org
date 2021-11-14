@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7beaf984-1c1e-4f72-b0a3-2307978218ec
+:END:
+#+title: Cdeexg Gtiqef 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Gtiqef
+- vintage :: 2020
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.66
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:a0a8653f-c645-443c-917d-5255049974c6][Cdeexg Gtiqef 2020 - 1999-11-19]]

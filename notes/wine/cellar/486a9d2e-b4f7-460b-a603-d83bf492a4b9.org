@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       486a9d2e-b4f7-460b-a603-d83bf492a4b9
+:END:
+#+title: Rue Urmb 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Urmb
+- vintage :: 1991
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.64
+- price :: 31.65 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:197c0f1d-cd3a-4d32-a3a5-bb45bc5f83cd][Rue Urmb 1991 - 1999-7-26]]

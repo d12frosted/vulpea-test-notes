@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0c4539b9-bc16-45e8-adf4-e105e0273ae5
+:END:
+#+title: Vjjtw Hvrja Gvjeue Dfqi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Gvjeue Dfqi
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.82
+- sugar :: 12.68
+- price :: 14.10 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:b365d794-37e1-4b6c-8a9b-fe69e62043be][Vjjtw Hvrja Gvjeue Dfqi NV - 1999-7-8]]

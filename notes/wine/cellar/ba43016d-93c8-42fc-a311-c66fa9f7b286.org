@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ba43016d-93c8-42fc-a311-c66fa9f7b286
+:END:
+#+title: Lzf Vgkv 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vgkv
+- vintage :: 1990
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.41
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

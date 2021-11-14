@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3a7dc449-079e-436d-a8c1-d4f2b62932dd
+:END:
+#+title: Vjjtw Hvrja Nls Wmwfv NV - 1990-7-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:b2b59333-b381-4c9c-878a-09cbbb23c206][Vjjtw Hvrja Nls Wmwfv]]
+- date :: 1990-7-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       249f3147-ef6a-4393-b354-d06506802070
+:END:
+#+title: Dseajc Jinm Wuqdtfrk 1957 - 2006-4-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:b349b3d7-000b-4c53-93d1-a8bf04e153ee][Dseajc Jinm Wuqdtfrk 1957]]
+- date :: 2006-4-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

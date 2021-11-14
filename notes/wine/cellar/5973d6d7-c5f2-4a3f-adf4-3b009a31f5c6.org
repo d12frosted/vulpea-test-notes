@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5973d6d7-c5f2-4a3f-adf4-3b009a31f5c6
+:END:
+#+title: Novr Rlrt Redl Bythoo 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Redl Bythoo
+- vintage :: 1930
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.74
+- price :: 77.77 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:cfdda74a-b65d-4891-83cb-52d609ae80d7][Novr Rlrt Redl Bythoo 1930 - 1998-5-5]]

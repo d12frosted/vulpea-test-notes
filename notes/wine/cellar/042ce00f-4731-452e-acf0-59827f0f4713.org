@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       042ce00f-4731-452e-acf0-59827f0f4713
+:END:
+#+title: Novr Rlrt Omwl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Omwl
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.86
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

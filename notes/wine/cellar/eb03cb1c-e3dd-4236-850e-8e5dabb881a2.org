@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       eb03cb1c-e3dd-4236-850e-8e5dabb881a2
+:END:
+#+title: Rue Kzatxiii 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kzatxiii
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.97
+- sugar :: 11.89
+- price :: 35.97 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

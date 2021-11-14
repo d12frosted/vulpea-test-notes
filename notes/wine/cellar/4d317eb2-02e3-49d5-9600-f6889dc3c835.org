@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4d317eb2-02e3-49d5-9600-f6889dc3c835
+:END:
+#+title: Rue Rseznwa Xqkrpvq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Rseznwa Xqkrpvq
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.03
+- price :: 14.25 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

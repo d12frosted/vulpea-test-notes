@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       54e8eed0-f05e-4656-8fbb-dc00cdf18b76
+:END:
+#+title: Vjjtw Hvrja Cicmyab 1951 - 2006-1-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:d8ed8c39-4efd-45a4-91b4-db34aaedefb0][Vjjtw Hvrja Cicmyab 1951]]
+- date :: 2006-1-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

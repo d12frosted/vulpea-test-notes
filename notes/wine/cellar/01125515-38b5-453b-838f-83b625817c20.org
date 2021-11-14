@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       01125515-38b5-453b-838f-83b625817c20
+:END:
+#+title: Cdeexg Ysneqo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ysneqo
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.07
+- sugar :: 15.58
+- price :: 33.91 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

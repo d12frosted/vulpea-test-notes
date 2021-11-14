@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       b2e80ac4-afce-4e0c-8b8f-badc5553a66f
+:END:
+#+title: Vjjtw Hvrja Fhaopxga 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Fhaopxga
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.01
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       30100630-0bd0-4700-9d93-1874a161c1f3
+:END:
+#+title: Novr Rlrt Idpt Atlexj 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Idpt Atlexj
+- vintage :: 1947
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.71
+- sugar :: 8.7
+- price :: 49.72 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:7f1d59b0-b517-438c-ab70-3be668a3c672][Novr Rlrt Idpt Atlexj 1947 - 2016-1-9]]

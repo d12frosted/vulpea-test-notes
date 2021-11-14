@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       19255509-818f-4f3d-b9d5-149225fd40d6
+:END:
+#+title: Miv Gamy Shpu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Gamy Shpu
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.86
+- sugar :: 16.78
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

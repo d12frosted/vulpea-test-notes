@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       69b47484-043c-4c37-a08f-ee41433339e0
+:END:
+#+title: Miv Ezwlwsdn Agbgo NV - 2008-1-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:07ee8f1e-3b4e-48eb-80f6-b57c2290830a][Miv Ezwlwsdn Agbgo]]
+- date :: 2008-1-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       847b5c16-a348-49e5-8326-d6f26159b8cc
+:END:
+#+title: Miv Oftwx Bfsj NV - 2002-11-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:5d988c00-038f-4d22-9752-4462cbbf072b][Miv Oftwx Bfsj]]
+- date :: 2002-11-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

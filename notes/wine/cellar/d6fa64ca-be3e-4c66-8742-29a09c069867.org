@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d6fa64ca-be3e-4c66-8742-29a09c069867
+:END:
+#+title: Dseajc Jinm Upa 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Upa
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 10.91
+- sugar :: 3.37
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:c7505d24-9430-4a63-8098-2ae74ee3500b][Dseajc Jinm Upa NV - 2016-11-19]]

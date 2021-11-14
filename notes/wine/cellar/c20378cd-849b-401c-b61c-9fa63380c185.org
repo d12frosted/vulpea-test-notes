@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c20378cd-849b-401c-b61c-9fa63380c185
+:END:
+#+title: Miv Vyha 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vyha
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.2
+- price :: 40.58 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:0f4727d6-a6a8-40bf-903d-371f8263de93][Miv Vyha NV - 2009-4-22]]

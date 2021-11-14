@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       05e3fb70-192b-4698-a358-4ba39176aef2
+:END:
+#+title: Miv Nofuwr Jdyxt 1971 - 2004-7-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:aebb13c9-ad85-433e-b601-3f74af3b1fb8][Miv Nofuwr Jdyxt 1971]]
+- date :: 2004-7-20
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

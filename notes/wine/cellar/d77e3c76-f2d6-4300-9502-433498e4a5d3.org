@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d77e3c76-f2d6-4300-9502-433498e4a5d3
+:END:
+#+title: Rue Lba Ztyzkv 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Lba Ztyzkv
+- vintage :: 2008
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 12.33
+- sugar :: 10.81
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

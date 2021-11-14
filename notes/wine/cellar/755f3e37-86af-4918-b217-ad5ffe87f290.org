@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       755f3e37-86af-4918-b217-ad5ffe87f290
+:END:
+#+title: Dseajc Jinm Dwr 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Dwr
+- vintage :: 1917
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.85
+- sugar :: 14.59
+- price :: 62.21 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

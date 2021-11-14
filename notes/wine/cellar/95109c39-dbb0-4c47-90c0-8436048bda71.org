@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       95109c39-dbb0-4c47-90c0-8436048bda71
+:END:
+#+title: Vjjtw Hvrja Radzl Wmjmhqh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Radzl Wmjmhqh
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.54
+- price :: 82.37 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

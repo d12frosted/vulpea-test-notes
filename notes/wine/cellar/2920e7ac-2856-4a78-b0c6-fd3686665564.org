@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2920e7ac-2856-4a78-b0c6-fd3686665564
+:END:
+#+title: Njtzvl Fogfnf 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Fogfnf
+- vintage :: 1930
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.870000000000001
+- price :: 75.08 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:12a782c6-f7f5-47ae-9a29-05d91b04cfbc][Njtzvl Fogfnf 1930 - 2010-6-16]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       45b84f07-0d2f-405c-bd08-d1adc9db1b38
+:END:
+#+title: Njtzvl Lay 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lay
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.129999999999999
+- sugar :: 1.89
+- price :: 64.21 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

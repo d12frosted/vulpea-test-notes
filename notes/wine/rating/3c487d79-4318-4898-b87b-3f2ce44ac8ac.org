@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3c487d79-4318-4898-b87b-3f2ce44ac8ac
+:END:
+#+title: Lzf Lhvkz Mecrzqs NV - 2022-11-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:a4fff1eb-dacd-40d7-b385-a6ad622ed74b][Lzf Lhvkz Mecrzqs]]
+- date :: 2022-11-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

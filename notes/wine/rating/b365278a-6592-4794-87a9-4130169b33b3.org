@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b365278a-6592-4794-87a9-4130169b33b3
+:END:
+#+title: Cdeexg Eutjodew Vpzj 2006 - 1993-8-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:ebd0cf0d-a424-468b-983e-872588932fff][Cdeexg Eutjodew Vpzj 2006]]
+- date :: 1993-8-7
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

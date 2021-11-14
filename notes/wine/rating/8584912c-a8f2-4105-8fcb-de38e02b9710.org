@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8584912c-a8f2-4105-8fcb-de38e02b9710
+:END:
+#+title: Mkmt Edtuted Kmywodr 1952 - 2007-2-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:7e19ff58-1b10-4dd2-abe8-1a5304a102c9][Mkmt Edtuted Kmywodr 1952]]
+- date :: 2007-2-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       cdd40a25-5d7e-4da4-96dd-f46aefd23fc6
+:END:
+#+title: Rue Hjw Wyvumk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hjw Wyvumk
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.4
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

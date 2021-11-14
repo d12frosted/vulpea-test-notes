@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ed0513bf-b192-4d7d-a65d-05eadb1f2f43
+:END:
+#+title: Lzf Zohlcpb Mlnjqccc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Zohlcpb Mlnjqccc
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.51
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 4.5
+- ratings :: [[id:404f9320-0a5f-49d7-848e-db2a99f0204f][Lzf Zohlcpb Mlnjqccc NV - 2017-4-20]]

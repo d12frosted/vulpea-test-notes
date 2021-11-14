@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       33bbbc24-0d41-4b56-9714-0f6ad938453f
+:END:
+#+title: Novr Rlrt Qawcby Uqrdhlj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Qawcby Uqrdhlj
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 13.32
+- sugar :: 19.81
+- price :: 53.80 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:c4954284-4255-4e6d-9e9d-b751e0a7630a][Novr Rlrt Qawcby Uqrdhlj NV - 2024-6-1]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4149dc03-a64b-4f8d-a95f-e9441a98f354
+:END:
+#+title: Miv Wpx Inmkkfak 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Wpx Inmkkfak
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.69
+- sugar :: 12.15
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.0
+- ratings :: [[id:9559d0d7-a50f-4afa-91a0-24996fc4389b][Miv Wpx Inmkkfak NV - 2006-4-10]]

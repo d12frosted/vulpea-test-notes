@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d1384b09-3b47-4899-83c7-191d12c9ef17
+:END:
+#+title: Cdeexg Afu Rwu 1906
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Afu Rwu
+- vintage :: 1906
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.37
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:6997d807-cde8-427f-beeb-807369d8e8ae][Cdeexg Afu Rwu 1906 - 2022-2-25]]

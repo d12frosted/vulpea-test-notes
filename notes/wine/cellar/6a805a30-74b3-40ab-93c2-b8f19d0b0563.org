@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6a805a30-74b3-40ab-93c2-b8f19d0b0563
+:END:
+#+title: Dfsxtmx Npa Smjff 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Npa Smjff
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.11
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:83af128d-061a-4abd-9124-462045c33637][Dfsxtmx Npa Smjff NV - 2019-8-6]]

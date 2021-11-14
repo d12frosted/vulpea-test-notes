@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8ae4ccd2-04df-49af-9d3c-4fbd1c5d0cef
+:END:
+#+title: Lzf Ygrfqyn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ygrfqyn
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 12.120000000000001
+- price :: 79.85 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

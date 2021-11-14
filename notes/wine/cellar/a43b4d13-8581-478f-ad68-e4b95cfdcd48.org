@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a43b4d13-8581-478f-ad68-e4b95cfdcd48
+:END:
+#+title: Dfsxtmx Oqd 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Oqd
+- vintage :: 1961
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.43
+- sugar :: 8.78
+- price :: 18.25 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.0
+- ratings :: [[id:44985da5-a7af-4317-8387-c3b958f85b10][Dfsxtmx Oqd 1961 - 2000-4-14]]

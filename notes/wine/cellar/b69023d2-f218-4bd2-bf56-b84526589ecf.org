@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b69023d2-f218-4bd2-bf56-b84526589ecf
+:END:
+#+title: Miv Huilq Fmhk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Huilq Fmhk
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.95
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 2.0
+- ratings :: [[id:9805ca79-3298-484d-94d5-b5c206b8fc7b][Miv Huilq Fmhk NV - 2001-6-6]]

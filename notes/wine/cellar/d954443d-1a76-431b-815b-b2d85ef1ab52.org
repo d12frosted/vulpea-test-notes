@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d954443d-1a76-431b-815b-b2d85ef1ab52
+:END:
+#+title: Njtzvl Sem Jvx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Sem Jvx
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.56
+- sugar :: 16.67
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

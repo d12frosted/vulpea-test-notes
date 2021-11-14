@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5ac05901-e094-4173-b4bb-a3b35d858503
+:END:
+#+title: Rue Gfk Yicnzp 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Gfk Yicnzp
+- vintage :: 1988
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.81
+- price :: 60.70 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 5.5
+- ratings :: [[id:bdfa90aa-ed8b-44c5-b16d-c351fb5d6da3][Rue Gfk Yicnzp 1988 - 1990-3-27]]

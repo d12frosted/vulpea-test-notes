@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e9fe500a-e0be-4d66-9285-2b89a04744b0
+:END:
+#+title: Rue Ycduwd Xuoqksus 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ycduwd Xuoqksus
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.969999999999999
+- price :: 46.70 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:093b3fd7-3add-46ca-a4b8-a497375180fc][Rue Ycduwd Xuoqksus NV - 1991-9-22]]

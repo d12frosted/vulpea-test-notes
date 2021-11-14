@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4e91cbb2-d716-4c4a-8bbf-5d4916c7d857
+:END:
+#+title: Novr Rlrt Wtfu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wtfu
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 10.65
+- sugar :: 4.0
+- price :: 100.48 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:29384f7c-48e7-4f2b-b35f-99f383fb5f47][Novr Rlrt Wtfu NV - 2021-9-10]]

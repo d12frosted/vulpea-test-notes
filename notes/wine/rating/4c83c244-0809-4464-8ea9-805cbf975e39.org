@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4c83c244-0809-4464-8ea9-805cbf975e39
+:END:
+#+title: Rue Cgydfp Biiov 1944 - 2000-11-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:513a3d01-21a7-464f-8ecf-b3d3575296a4][Rue Cgydfp Biiov 1944]]
+- date :: 2000-11-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

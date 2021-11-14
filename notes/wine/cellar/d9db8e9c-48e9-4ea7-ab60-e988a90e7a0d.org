@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d9db8e9c-48e9-4ea7-ab60-e988a90e7a0d
+:END:
+#+title: Rue Ltsp Mtcyvivp 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ltsp Mtcyvivp
+- vintage :: 1987
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.25
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

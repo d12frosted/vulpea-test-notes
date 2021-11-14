@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aaf7bb38-fc60-42bf-b197-590dbc1c2240
+:END:
+#+title: Vjjtw Hvrja Bbbwyjrt 1902 - 2018-8-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:dcf38937-09cd-4d5c-8ea3-202075fe124a][Vjjtw Hvrja Bbbwyjrt 1902]]
+- date :: 2018-8-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

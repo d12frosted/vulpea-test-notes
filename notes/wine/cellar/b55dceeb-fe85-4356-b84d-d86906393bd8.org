@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b55dceeb-fe85-4356-b84d-d86906393bd8
+:END:
+#+title: Miv Ezvwdt Vkwylu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ezvwdt Vkwylu
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.64
+- sugar :: 20.3
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

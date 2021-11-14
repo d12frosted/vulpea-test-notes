@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       14c0a894-15f4-4db0-9373-0c763d254a61
+:END:
+#+title: Dfsxtmx Whecug Zqwkwsfc 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Whecug Zqwkwsfc
+- vintage :: 2007
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.879999999999999
+- sugar :: 11.47
+- price :: 87.93 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

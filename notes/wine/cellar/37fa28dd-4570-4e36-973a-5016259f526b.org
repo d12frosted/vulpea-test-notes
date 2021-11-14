@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       37fa28dd-4570-4e36-973a-5016259f526b
+:END:
+#+title: Dfsxtmx Pdivogu 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pdivogu
+- vintage :: 1944
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.11
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:9c25ec95-f6ed-492e-a75a-251223d86ea3][Dfsxtmx Pdivogu 1944 - 2008-8-3]]

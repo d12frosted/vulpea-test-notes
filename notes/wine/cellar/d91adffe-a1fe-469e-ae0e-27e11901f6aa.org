@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d91adffe-a1fe-469e-ae0e-27e11901f6aa
+:END:
+#+title: Njtzvl Dyynfn 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Dyynfn
+- vintage :: 1990
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 10.74
+- sugar :: 6.91
+- price :: 43.90 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

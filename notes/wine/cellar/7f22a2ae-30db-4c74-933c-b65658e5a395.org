@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7f22a2ae-30db-4c74-933c-b65658e5a395
+:END:
+#+title: Njtzvl Shvsuwvz Gntpgrd 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Shvsuwvz Gntpgrd
+- vintage :: 1979
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.54
+- price :: 35.11 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

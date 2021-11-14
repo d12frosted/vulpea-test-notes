@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       313a50bb-6e24-48be-9034-501a14f31dc7
+:END:
+#+title: Dseajc Jinm Pxjubcm 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Pxjubcm
+- vintage :: 1917
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.98
+- sugar :: 11.42
+- price :: 99.47 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.0
+- ratings :: [[id:22015154-84fc-40ed-a044-43673e6b3cfe][Dseajc Jinm Pxjubcm 1917 - 2015-12-19]]

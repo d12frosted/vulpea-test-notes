@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cc0dc1df-eedd-47b1-9834-8d93327dffc1
+:END:
+#+title: Dseajc Jinm Cyvbk Ynewzs 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Cyvbk Ynewzs
+- vintage :: 1945
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.14
+- sugar :: 14.92
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

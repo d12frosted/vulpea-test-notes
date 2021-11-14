@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bc9a40c1-b797-410a-8d30-baf15f9b6da2
+:END:
+#+title: Novr Rlrt Ptojtrd 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ptojtrd
+- vintage :: 1972
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.95
+- sugar :: 21.07
+- price :: 13.58 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

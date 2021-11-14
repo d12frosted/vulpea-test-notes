@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5a4deeaa-15e7-42ee-a295-d9d555de0dfd
+:END:
+#+title: Dseajc Jinm Rhqrbdr 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rhqrbdr
+- vintage :: 1974
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.01
+- sugar :: 12.63
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

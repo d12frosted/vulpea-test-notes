@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       36232844-a937-4d8f-be8e-7d6f8f391a88
+:END:
+#+title: Miv Salqdk NV - 2019-10-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:e24c0726-ea5c-4094-9355-934116b74a1b][Miv Salqdk]]
+- date :: 2019-10-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       34eaafdd-9a9b-4890-975c-830838331652
+:END:
+#+title: Miv Enfdm Unojdfl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Enfdm Unojdfl
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.3
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:f587a4e8-85e2-4cd5-87f6-b6cea72675dd][Miv Enfdm Unojdfl NV - 1990-10-11]]

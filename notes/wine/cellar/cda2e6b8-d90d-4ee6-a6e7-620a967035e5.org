@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cda2e6b8-d90d-4ee6-a6e7-620a967035e5
+:END:
+#+title: Dseajc Jinm Pxrcrlhh Lfdfu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Pxrcrlhh Lfdfu
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.45
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:b52e43b1-e27b-4975-8ed1-cbf58653eaae][Dseajc Jinm Pxrcrlhh Lfdfu NV - 1995-2-6]]

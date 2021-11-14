@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7ebf4076-9378-4997-ad21-754185790f7b
+:END:
+#+title: Njtzvl Thbi Omun 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Thbi Omun
+- vintage :: 1999
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 10.75
+- sugar :: 2.59
+- price :: 53.59 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

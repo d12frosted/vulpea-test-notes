@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a0ac9544-1e2f-4f27-b684-b44e97c1ab84
+:END:
+#+title: Njtzvl Kew 1995 - 2004-12-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:94523b26-3352-420b-8daf-534551c85bc6][Njtzvl Kew 1995]]
+- date :: 2004-12-10
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

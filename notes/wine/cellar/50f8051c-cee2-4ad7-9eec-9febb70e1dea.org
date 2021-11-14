@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       50f8051c-cee2-4ad7-9eec-9febb70e1dea
+:END:
+#+title: Dseajc Jinm Nnatgcw 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Nnatgcw
+- vintage :: 2004
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.32
+- sugar :: 12.06
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

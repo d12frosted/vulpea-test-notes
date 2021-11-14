@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9726d6eb-f8ca-432a-8b9e-2bd39142484c
+:END:
+#+title: Vjjtw Hvrja Syrozmd Clh NV - 2015-8-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:724d4bc6-c79c-4efe-a44c-c1bdda9c6671][Vjjtw Hvrja Syrozmd Clh]]
+- date :: 2015-8-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

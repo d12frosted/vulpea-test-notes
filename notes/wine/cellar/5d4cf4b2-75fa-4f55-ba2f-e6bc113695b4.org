@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5d4cf4b2-75fa-4f55-ba2f-e6bc113695b4
+:END:
+#+title: Cdeexg Grzlm Ygs 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Grzlm Ygs
+- vintage :: 1907
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.09
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

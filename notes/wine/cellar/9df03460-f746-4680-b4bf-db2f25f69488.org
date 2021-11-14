@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9df03460-f746-4680-b4bf-db2f25f69488
+:END:
+#+title: Njtzvl Mazdcna Wrejgxt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Mazdcna Wrejgxt
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 10.57
+- sugar :: 2.3
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.5
+- ratings :: [[id:ce6a941f-0e02-4087-a2cc-43839dfadc82][Njtzvl Mazdcna Wrejgxt NV - 2002-6-22]]

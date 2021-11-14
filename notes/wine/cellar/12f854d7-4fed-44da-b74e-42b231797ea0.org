@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       12f854d7-4fed-44da-b74e-42b231797ea0
+:END:
+#+title: Miv Tyig Echkcp 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Tyig Echkcp
+- vintage :: 1933
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.26
+- sugar :: 18.8
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

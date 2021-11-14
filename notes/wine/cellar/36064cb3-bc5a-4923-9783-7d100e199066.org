@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       36064cb3-bc5a-4923-9783-7d100e199066
+:END:
+#+title: Vjjtw Hvrja Iwx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Iwx
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.25
+- price :: 16.74 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

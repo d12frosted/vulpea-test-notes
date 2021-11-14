@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e3676294-7fa6-46f8-a657-1d935c9ba3e5
+:END:
+#+title: Lzf Mugkr NV - 1993-5-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:4db2e542-37ce-48af-ac7a-29a63ce1539b][Lzf Mugkr]]
+- date :: 1993-5-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

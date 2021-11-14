@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       23e4306b-1959-48ee-9a93-ac8098673b43
+:END:
+#+title: Miv Msew Yqsqhq NV - 2004-2-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:4c56501b-c77f-416a-9768-53f324a8f6ec][Miv Msew Yqsqhq]]
+- date :: 2004-2-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

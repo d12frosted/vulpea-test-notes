@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4f164563-4d2a-439a-b011-3520bad83730
+:END:
+#+title: Novr Rlrt Lqmf Dtwapai 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lqmf Dtwapai
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.55
+- sugar :: 3.89
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 8.0
+- ratings :: [[id:bf0a8249-25c5-46ad-bd2a-70bda440f8f4][Novr Rlrt Lqmf Dtwapai NV - 2002-11-28]]

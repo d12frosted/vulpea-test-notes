@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8e6c8f64-bf2f-4794-b781-21d03a07905c
+:END:
+#+title: Njtzvl Jxtfzfn Qroka 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Jxtfzfn Qroka
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.06
+- price :: 42.57 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

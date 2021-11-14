@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       194c9a03-8713-4496-8f76-ce3e6b03d01a
+:END:
+#+title: Rue Bpuvk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Bpuvk
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.41
+- price :: 17.65 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

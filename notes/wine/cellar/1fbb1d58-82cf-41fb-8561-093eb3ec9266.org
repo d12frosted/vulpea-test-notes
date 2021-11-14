@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1fbb1d58-82cf-41fb-8561-093eb3ec9266
+:END:
+#+title: Mkmt Vhawh 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Vhawh
+- vintage :: 1905
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.129999999999999
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 1.5
+- ratings :: [[id:d65ac2b5-85af-457b-901a-cf6d723c98cf][Mkmt Vhawh 1905 - 2010-8-20]]

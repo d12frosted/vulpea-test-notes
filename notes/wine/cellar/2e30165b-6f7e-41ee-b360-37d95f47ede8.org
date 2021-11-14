@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2e30165b-6f7e-41ee-b360-37d95f47ede8
+:END:
+#+title: Dseajc Jinm Rjg Hhjs 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rjg Hhjs
+- vintage :: 1961
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.52
+- sugar :: 20.78
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

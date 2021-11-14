@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7e7fd979-53de-47f1-abd4-989bea5deb84
+:END:
+#+title: Dfsxtmx Rokovdnv Epxpfzs 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rokovdnv Epxpfzs
+- vintage :: 1963
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.93
+- price :: 7.75 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

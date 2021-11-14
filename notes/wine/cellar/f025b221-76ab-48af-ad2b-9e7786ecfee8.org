@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f025b221-76ab-48af-ad2b-9e7786ecfee8
+:END:
+#+title: Novr Rlrt Updkrrab Xuwkfsf 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Updkrrab Xuwkfsf
+- vintage :: 1988
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 10.14
+- sugar :: 11.15
+- price :: 36.16 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

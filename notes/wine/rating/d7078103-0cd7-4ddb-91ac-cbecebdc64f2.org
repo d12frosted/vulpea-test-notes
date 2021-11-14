@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d7078103-0cd7-4ddb-91ac-cbecebdc64f2
+:END:
+#+title: Njtzvl Uqqxcr NV - 1991-4-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:c7fa5b4b-2088-4bda-8926-ba9756b325f0][Njtzvl Uqqxcr]]
+- date :: 1991-4-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

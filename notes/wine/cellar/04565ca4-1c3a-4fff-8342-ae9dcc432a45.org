@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       04565ca4-1c3a-4fff-8342-ae9dcc432a45
+:END:
+#+title: Cdeexg Khagl Kliqj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Khagl Kliqj
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.02
+- sugar :: 14.79
+- price :: 48.76 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

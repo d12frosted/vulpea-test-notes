@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d9186dc6-be55-4ca2-a081-7a6936e24a60
+:END:
+#+title: Novr Rlrt Oym Slfqk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Oym Slfqk
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.33
+- sugar :: 19.65
+- price :: 63.08 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:94e6b92d-8e66-4208-838a-9039d02a5dcf][Novr Rlrt Oym Slfqk NV - 2018-1-24]]

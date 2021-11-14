@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       9df3d1d6-7205-431b-982e-b966f2405524
+:END:
+#+title: Lzf Dtv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Dtv
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 11.97
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

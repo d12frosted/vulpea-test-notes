@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6428c9f4-3412-4c31-a757-2489938f2073
+:END:
+#+title: Cdeexg Wgrjfi Xmclkmg 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Wgrjfi Xmclkmg
+- vintage :: 1958
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.120000000000001
+- price :: 44.68 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

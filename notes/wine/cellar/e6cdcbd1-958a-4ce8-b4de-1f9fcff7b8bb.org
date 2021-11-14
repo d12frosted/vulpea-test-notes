@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e6cdcbd1-958a-4ce8-b4de-1f9fcff7b8bb
+:END:
+#+title: Njtzvl Zhkqzd 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zhkqzd
+- vintage :: 1976
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.7
+- price :: 15.88 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

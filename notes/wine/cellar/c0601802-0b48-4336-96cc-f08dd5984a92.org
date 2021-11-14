@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c0601802-0b48-4336-96cc-f08dd5984a92
+:END:
+#+title: Njtzvl Iarzipk Tlwixys 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Iarzipk Tlwixys
+- vintage :: 1911
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.96
+- sugar :: 6.68
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:52280708-5722-43e8-81ab-fc26b70c2487][Njtzvl Iarzipk Tlwixys 1911 - 2022-4-20]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d870d3bc-e2d4-4742-8fd7-c38bf19eb0bc
+:END:
+#+title: Novr Rlrt Drodheyu NV - 2024-3-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:4829b3d2-fc0f-4e91-9cda-efed32c05f06][Novr Rlrt Drodheyu]]
+- date :: 2024-3-19
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

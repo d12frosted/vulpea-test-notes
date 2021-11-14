@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       eada650b-a682-4672-8490-bb7b44a4eb07
+:END:
+#+title: Rue Xhvw Rbqux 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Xhvw Rbqux
+- vintage :: 1918
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.129999999999999
+- sugar :: 4.64
+- price :: 88.51 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5571fa42-0a58-4792-92ac-4a10d9da9721
+:END:
+#+title: Miv Cqrtzauj Cbpl 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Cqrtzauj Cbpl
+- vintage :: 2020
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.08
+- sugar :: 6.02
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 5.5
+- ratings :: [[id:f8ac2769-f3df-436c-8a7d-eaf89255054f][Miv Cqrtzauj Cbpl 2020 - 1998-1-15]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f3709457-c2ae-474a-94d2-47a2d2e43326
+:END:
+#+title: Lzf Vmq 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vmq
+- vintage :: 2011
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.18
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 2.5
+- ratings :: [[id:6ead290e-8ebc-4e22-abb2-b0b10579cfa4][Lzf Vmq 2011 - 2020-7-21]]

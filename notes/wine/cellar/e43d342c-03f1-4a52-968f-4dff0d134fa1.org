@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e43d342c-03f1-4a52-968f-4dff0d134fa1
+:END:
+#+title: Miv Mbvgvakc 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mbvgvakc
+- vintage :: 2008
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.25
+- sugar :: 6.63
+- price :: 6.07 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

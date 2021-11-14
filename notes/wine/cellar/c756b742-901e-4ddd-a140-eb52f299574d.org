@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c756b742-901e-4ddd-a140-eb52f299574d
+:END:
+#+title: Cdeexg Nbgvxgyd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Nbgvxgyd
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.92
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

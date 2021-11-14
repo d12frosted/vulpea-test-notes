@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       508e3429-08f8-402a-9843-6acc5fd40b03
+:END:
+#+title: Cdeexg Nftjfdir 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Nftjfdir
+- vintage :: 2018
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.6
+- sugar :: 9.03
+- price :: 20.14 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

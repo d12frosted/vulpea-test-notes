@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ee34db2e-b79b-496b-930c-a332b52ea41e
+:END:
+#+title: Rue Aea NV - 2000-8-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:d98ac793-fb8f-4879-aaac-8a1232304bdc][Rue Aea]]
+- date :: 2000-8-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

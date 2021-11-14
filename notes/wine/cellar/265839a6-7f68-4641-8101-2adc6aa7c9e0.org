@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       265839a6-7f68-4641-8101-2adc6aa7c9e0
+:END:
+#+title: Njtzvl Dgcxgi Sbjd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Dgcxgi Sbjd
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.120000000000001
+- sugar :: 11.44
+- price :: 82.07 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:b4dbe5dc-efad-4afd-b79f-09f5e12274fb][Njtzvl Dgcxgi Sbjd NV - 2019-4-8]]

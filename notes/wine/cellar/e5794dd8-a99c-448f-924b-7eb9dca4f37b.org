@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e5794dd8-a99c-448f-924b-7eb9dca4f37b
+:END:
+#+title: Miv Aye 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Aye
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.36
+- sugar :: 13.38
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:2710992f-9e38-4094-88be-09a32edd1d6a][Miv Aye NV - 2017-7-7]]

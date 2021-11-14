@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       526c81b1-cf94-4f68-8e6c-1e3c50df8b8f
+:END:
+#+title: Miv Wcreyl Bhsff 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Wcreyl Bhsff
+- vintage :: 1909
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.31
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:c00eb725-cacc-458e-bd4a-08b6006ade08][Miv Wcreyl Bhsff 1909 - 1990-5-12]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       78729c41-6081-4d5d-b809-49cb3ea1637b
+:END:
+#+title: Novr Rlrt Lrowoiiy Pbvzbuaa 1925 - 2007-6-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:0827d4aa-cb82-4a60-b987-c29151fef56e][Novr Rlrt Lrowoiiy Pbvzbuaa 1925]]
+- date :: 2007-6-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

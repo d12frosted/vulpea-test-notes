@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c37c8302-edd1-406b-b3e3-e3ab7d16edec
+:END:
+#+title: Rue Hiwbdile Push 1933 - 2000-9-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:c2a752c5-a6be-4edb-baf0-a0db122f6a56][Rue Hiwbdile Push 1933]]
+- date :: 2000-9-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

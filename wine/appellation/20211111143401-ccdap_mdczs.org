@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       fdaa579e-3004-45ec-b57d-c3f08b9525da
-:END:
-#+title: Ccdap Mdczs
-#+filetags: :wine:appellation:
-
-

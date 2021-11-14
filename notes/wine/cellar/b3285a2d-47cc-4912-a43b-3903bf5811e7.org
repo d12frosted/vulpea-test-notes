@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b3285a2d-47cc-4912-a43b-3903bf5811e7
+:END:
+#+title: Dfsxtmx Htezgzgr Xrf 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Htezgzgr Xrf
+- vintage :: 1941
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.34
+- price :: 35.08 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

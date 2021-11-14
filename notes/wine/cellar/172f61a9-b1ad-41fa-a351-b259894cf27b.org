@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       172f61a9-b1ad-41fa-a351-b259894cf27b
+:END:
+#+title: Cdeexg Ovkhajov 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ovkhajov
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 11.43
+- sugar :: 22.38
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

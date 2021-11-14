@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9deef074-5782-4b08-a763-796a145cd7a8
+:END:
+#+title: Lzf Ztyro 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ztyro
+- vintage :: 1973
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.77
+- sugar :: 4.13
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:745ae62b-78b7-408a-9c12-e48a96665857][Lzf Ztyro 1973 - 2002-5-14]]

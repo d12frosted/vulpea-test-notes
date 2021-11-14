@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b4969adc-2f6d-4d1b-b610-af87cdec10c9
+:END:
+#+title: Novr Rlrt Wqhyegpj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wqhyegpj
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.2
+- sugar :: 9.7
+- price :: 47.06 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:074bf532-7d09-4042-baba-e719b9057477][Novr Rlrt Wqhyegpj NV - 2024-10-5]]

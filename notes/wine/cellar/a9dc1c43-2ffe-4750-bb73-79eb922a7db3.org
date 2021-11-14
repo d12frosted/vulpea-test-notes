@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a9dc1c43-2ffe-4750-bb73-79eb922a7db3
+:END:
+#+title: Cdeexg Haadwf Ckcydn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Haadwf Ckcydn
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 10.68
+- sugar :: 14.41
+- price :: 41.35 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:33282564-2aad-42d6-bc2b-84ad17d0aab4][Cdeexg Haadwf Ckcydn NV - 2021-11-14]]

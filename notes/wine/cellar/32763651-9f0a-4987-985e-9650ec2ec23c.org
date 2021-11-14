@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       32763651-9f0a-4987-985e-9650ec2ec23c
+:END:
+#+title: Lzf Yrd 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Yrd
+- vintage :: 1905
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.03
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:a7fa2fe8-6cfe-481d-b4a8-70cc7b55720d][Lzf Yrd 1905 - 1994-12-10]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2dcea61f-d084-494d-b6af-6659b3984071
+:END:
+#+title: Lzf Sxngaber 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Sxngaber
+- vintage :: 1966
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.66
+- price :: 18.23 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:c7e9de1a-dea5-43f4-89f4-85be1f42dc6a][Lzf Sxngaber 1966 - 2015-1-28]]

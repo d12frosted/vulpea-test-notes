@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3b0684c8-55ad-4c18-8330-b78940d1502d
+:END:
+#+title: Lzf Evuufali 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Evuufali
+- vintage :: 2020
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 10.1
+- sugar :: 5.73
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

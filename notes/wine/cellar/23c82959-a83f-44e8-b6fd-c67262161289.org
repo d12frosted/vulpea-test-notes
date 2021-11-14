@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       23c82959-a83f-44e8-b6fd-c67262161289
+:END:
+#+title: Dfsxtmx Kzlsit 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kzlsit
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 10.77
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:739a6b63-da93-4842-a71e-1d520613f92e][Dfsxtmx Kzlsit NV - 1993-10-13]]

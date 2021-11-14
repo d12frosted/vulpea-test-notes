@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       efd39a77-471c-412a-9813-57e6b52500e5
+:END:
+#+title: Lzf Lgkuzhi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Lgkuzhi
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 10.82
+- sugar :: 15.36
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.0
+- ratings :: [[id:7b5f1279-3873-4cad-aeff-57a0034dbafd][Lzf Lgkuzhi NV - 1994-11-26]]

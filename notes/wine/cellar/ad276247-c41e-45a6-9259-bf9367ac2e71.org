@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ad276247-c41e-45a6-9259-bf9367ac2e71
+:END:
+#+title: Rue Zbt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Zbt
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.84
+- sugar :: 7.49
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 2.0
+- ratings :: [[id:467488f4-11e1-4b5a-8512-5672534edaee][Rue Zbt NV - 1990-6-27]]

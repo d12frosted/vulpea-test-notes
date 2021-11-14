@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6ffe6708-d4bf-4a58-8a46-a624c831c709
+:END:
+#+title: Njtzvl Ajydp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ajydp
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.55
+- price :: 38.63 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

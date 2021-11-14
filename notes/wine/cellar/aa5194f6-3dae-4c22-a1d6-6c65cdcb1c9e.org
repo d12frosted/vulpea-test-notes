@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aa5194f6-3dae-4c22-a1d6-6c65cdcb1c9e
+:END:
+#+title: Novr Rlrt Azr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Azr
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.78
+- price :: 43.37 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 7.0
+- ratings :: [[id:122db0d6-00d9-42b4-b964-a016c2856aa2][Novr Rlrt Azr NV - 2000-8-18]]

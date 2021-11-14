@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       23be93cf-551f-4e3c-8ce8-384d3a1dcf11
+:END:
+#+title: Cdeexg Sidc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Sidc
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.129999999999999
+- sugar :: 23.26
+- price :: 96.69 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

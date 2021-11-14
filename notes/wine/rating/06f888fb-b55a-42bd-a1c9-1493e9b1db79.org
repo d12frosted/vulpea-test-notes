@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       06f888fb-b55a-42bd-a1c9-1493e9b1db79
+:END:
+#+title: Vjjtw Hvrja Zgulu Zrl 1977 - 2018-10-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:06c2ac90-eeec-459e-8e25-b102f1e0bc9d][Vjjtw Hvrja Zgulu Zrl 1977]]
+- date :: 2018-10-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

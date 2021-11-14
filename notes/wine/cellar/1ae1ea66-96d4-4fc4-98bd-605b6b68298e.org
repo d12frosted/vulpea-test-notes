@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1ae1ea66-96d4-4fc4-98bd-605b6b68298e
+:END:
+#+title: Njtzvl Euigyx 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Euigyx
+- vintage :: 1911
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.07
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 7.5
+- ratings :: [[id:d537c3fa-239f-4e14-9f59-349c14d93fad][Njtzvl Euigyx 1911 - 2017-10-7]]

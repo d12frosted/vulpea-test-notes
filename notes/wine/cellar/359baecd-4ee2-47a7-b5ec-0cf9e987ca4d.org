@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       359baecd-4ee2-47a7-b5ec-0cf9e987ca4d
+:END:
+#+title: Mkmt Xhclrz 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Xhclrz
+- vintage :: 1921
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.39
+- sugar :: 23.48
+- price :: 72.54 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

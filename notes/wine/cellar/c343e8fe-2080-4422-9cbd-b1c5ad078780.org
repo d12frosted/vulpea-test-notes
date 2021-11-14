@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c343e8fe-2080-4422-9cbd-b1c5ad078780
+:END:
+#+title: Njtzvl Rwrsg 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Rwrsg
+- vintage :: 1978
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.04
+- sugar :: 12.25
+- price :: 60.15 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

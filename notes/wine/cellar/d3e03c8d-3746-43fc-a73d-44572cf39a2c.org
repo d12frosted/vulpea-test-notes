@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d3e03c8d-3746-43fc-a73d-44572cf39a2c
+:END:
+#+title: Vjjtw Hvrja Jechl Ujpfd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Jechl Ujpfd
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 9.66
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

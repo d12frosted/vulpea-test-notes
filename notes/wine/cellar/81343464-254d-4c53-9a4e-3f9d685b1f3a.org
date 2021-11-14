@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       81343464-254d-4c53-9a4e-3f9d685b1f3a
+:END:
+#+title: Dseajc Jinm Ikazhpw 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ikazhpw
+- vintage :: 1914
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.7
+- price :: 67.41 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:b0005072-dd33-470c-a1e3-4d5bca472a44][Dseajc Jinm Ikazhpw 1914 - 2021-6-19]]

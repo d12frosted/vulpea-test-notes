@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6ff74888-d1f2-45ea-aaee-1409851978d5
+:END:
+#+title: Njtzvl Kjqifwv Hfhkg 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kjqifwv Hfhkg
+- vintage :: 1937
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.35
+- sugar :: 4.04
+- price :: 77.76 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:4f4576e3-8dfc-4028-95f1-f9d16cfee96c][Njtzvl Kjqifwv Hfhkg 1937 - 2007-8-11]]

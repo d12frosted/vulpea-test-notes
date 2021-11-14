@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d3eee16c-4cf5-41d8-84e8-b89c12ce6a29
+:END:
+#+title: Dseajc Jinm Ysf Wxwcgshk NV - 1994-6-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:a83abd51-a5aa-4a91-9db9-84fe29d4131f][Dseajc Jinm Ysf Wxwcgshk]]
+- date :: 1994-6-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

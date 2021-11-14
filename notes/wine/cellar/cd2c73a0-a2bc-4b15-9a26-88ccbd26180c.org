@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       cd2c73a0-a2bc-4b15-9a26-88ccbd26180c
+:END:
+#+title: Novr Rlrt Udu Gbncqels 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Udu Gbncqels
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.51
+- sugar :: 8.7
+- price :: 95.44 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:93e7ca8c-dcec-4cfa-b963-f76db9df7cec][Novr Rlrt Udu Gbncqels NV - 2004-3-19]]

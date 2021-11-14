@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5e911f13-2ffa-4b7e-a318-e58827294428
+:END:
+#+title: Njtzvl Uexbz Hxnq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Uexbz Hxnq
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.879999999999999
+- price :: 21.72 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:deb701ad-e80f-486e-801f-519349cbe8b1][Njtzvl Uexbz Hxnq NV - 1991-2-28]]

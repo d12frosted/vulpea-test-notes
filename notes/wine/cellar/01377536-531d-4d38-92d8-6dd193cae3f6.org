@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       01377536-531d-4d38-92d8-6dd193cae3f6
+:END:
+#+title: Mkmt Qjumawi 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Qjumawi
+- vintage :: 1922
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.96
+- sugar :: 17.11
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 3.0
+- ratings :: [[id:83ed9b73-8acf-414a-bff8-4806be271d1a][Mkmt Qjumawi 1922 - 2014-7-6]]

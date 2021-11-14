@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fbc486d0-fb20-4b7d-bada-0634d725856c
+:END:
+#+title: Dseajc Jinm Wikhkwl Zsxabtvd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Wikhkwl Zsxabtvd
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.77
+- sugar :: 6.04
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

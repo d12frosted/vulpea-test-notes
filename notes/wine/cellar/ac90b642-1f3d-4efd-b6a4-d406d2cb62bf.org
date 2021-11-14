@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ac90b642-1f3d-4efd-b6a4-d406d2cb62bf
+:END:
+#+title: Mkmt Zfgulgta Jcgqhp 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zfgulgta Jcgqhp
+- vintage :: 1937
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 10.870000000000001
+- sugar :: 21.11
+- price :: 50.91 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:b94390a1-8d57-4980-bea5-9393fd297eae][Mkmt Zfgulgta Jcgqhp 1937 - 1990-3-16]]

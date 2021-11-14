@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b55f8971-1485-4cac-8d03-540cfa5ce87f
+:END:
+#+title: Vjjtw Hvrja Gfgj 1966
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Gfgj
+- vintage :: 1966
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 12.11
+- sugar :: 8.05
+- price :: 39.69 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

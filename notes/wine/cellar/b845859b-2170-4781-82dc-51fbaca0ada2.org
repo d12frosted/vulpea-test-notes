@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b845859b-2170-4781-82dc-51fbaca0ada2
+:END:
+#+title: Lzf Kpjann Ibtfky 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Kpjann Ibtfky
+- vintage :: 1970
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.08
+- price :: 48.30 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: 6.0
+- ratings :: [[id:a1083088-4811-475f-b619-30423f5942f2][Lzf Kpjann Ibtfky 1970 - 2004-11-9]]

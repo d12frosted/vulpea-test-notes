@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       46b3a9ac-1fa6-470e-91a3-df94a054dcdf
+:END:
+#+title: Miv Fgvb 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Fgvb
+- vintage :: 2003
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 10.21
+- price :: 58.55 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

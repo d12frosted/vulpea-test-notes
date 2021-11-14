@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       52df2f16-86af-4ad4-b1f0-a2a42415273d
+:END:
+#+title: Novr Rlrt Vflgzdib Gpl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vflgzdib Gpl
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.06
+- sugar :: 17.45
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

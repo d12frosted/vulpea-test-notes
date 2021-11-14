@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bf442b2b-252c-4de0-8adf-7634b62caee6
+:END:
+#+title: Miv Bonxh Ptpbdjq 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Bonxh Ptpbdjq
+- vintage :: 1901
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 13.42
+- sugar :: 0.43
+- price :: 13.57 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       da98bc94-7dfa-48b8-9e94-ac6857a43a91
+:END:
+#+title: Lzf Iwcigx Gioviha 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Iwcigx Gioviha
+- vintage :: 1978
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.3
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:ba75881b-8cc6-4cef-be1f-431f284f724d][Lzf Iwcigx Gioviha 1978 - 1991-3-1]]

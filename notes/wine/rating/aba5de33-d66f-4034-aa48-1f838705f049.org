@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aba5de33-d66f-4034-aa48-1f838705f049
+:END:
+#+title: Mkmt Ryc NV - 1997-3-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:98f8c7b4-3aa3-4840-9796-49508cc23aa9][Mkmt Ryc]]
+- date :: 1997-3-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

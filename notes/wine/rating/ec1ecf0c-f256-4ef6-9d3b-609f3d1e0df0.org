@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ec1ecf0c-f256-4ef6-9d3b-609f3d1e0df0
+:END:
+#+title: Novr Rlrt Lqpeh NV - 1998-5-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:967477a9-00a5-4740-8381-c6cdc4737cd2][Novr Rlrt Lqpeh]]
+- date :: 1998-5-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

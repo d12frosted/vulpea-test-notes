@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       86ea87e1-cf28-48d0-ad54-e28f4a861423
+:END:
+#+title: Cdeexg Ngcezev Aefjg 1931 - 2009-11-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:f45714d6-d410-4a27-9b0a-abe519dd8b2b][Cdeexg Ngcezev Aefjg 1931]]
+- date :: 2009-11-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

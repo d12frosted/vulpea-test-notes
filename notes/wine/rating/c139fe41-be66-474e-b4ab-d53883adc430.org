@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c139fe41-be66-474e-b4ab-d53883adc430
+:END:
+#+title: Dfsxtmx Heopkm Tgok 1969 - 2021-9-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:0deba180-e4a4-4f6a-960a-22a24f8d1a66][Dfsxtmx Heopkm Tgok 1969]]
+- date :: 2021-9-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

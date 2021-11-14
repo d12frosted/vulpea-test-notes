@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c1e8bfe1-a5e2-4ab1-b924-74e5a0dbf226
+:END:
+#+title: Dfsxtmx Mtvsjx 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mtvsjx
+- vintage :: 1940
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 10.39
+- price :: 71.56 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

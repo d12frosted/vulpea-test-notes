@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       933b2f47-8645-44b6-a078-03e9be69e2e0
+:END:
+#+title: Dseajc Jinm Ptzdei 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ptzdei
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.76
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA

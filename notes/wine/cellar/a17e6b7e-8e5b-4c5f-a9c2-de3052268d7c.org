@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a17e6b7e-8e5b-4c5f-a9c2-de3052268d7c
+:END:
+#+title: Cdeexg Enyr Fvamga 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Enyr Fvamga
+- vintage :: 1982
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.84
+- sugar :: 18.5
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:d23a4fa7-7322-40a6-9121-7da9e604abec][Cdeexg Enyr Fvamga 1982 - 2002-10-25]]

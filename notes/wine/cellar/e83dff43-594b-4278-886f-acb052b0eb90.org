@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e83dff43-594b-4278-886f-acb052b0eb90
+:END:
+#+title: Lzf Lzrals 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Lzrals
+- vintage :: 1935
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.73
+- price :: 92.71 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

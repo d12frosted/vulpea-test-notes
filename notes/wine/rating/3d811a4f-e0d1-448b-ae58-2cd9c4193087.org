@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3d811a4f-e0d1-448b-ae58-2cd9c4193087
+:END:
+#+title: Miv Feqes Unduqrzu NV - 2012-1-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:28728612-c99b-4eb0-9fd3-9e743be81394][Miv Feqes Unduqrzu]]
+- date :: 2012-1-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

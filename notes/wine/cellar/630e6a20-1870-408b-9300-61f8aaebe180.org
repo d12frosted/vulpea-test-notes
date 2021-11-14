@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       630e6a20-1870-408b-9300-61f8aaebe180
+:END:
+#+title: Novr Rlrt Tcw Hcczg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tcw Hcczg
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.04
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

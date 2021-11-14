@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4197db02-7ebb-489d-80b1-30b4e8b96fb3
+:END:
+#+title: Mkmt Yuonsd Vgyxduip 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Yuonsd Vgyxduip
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.26
+- sugar :: 8.28
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

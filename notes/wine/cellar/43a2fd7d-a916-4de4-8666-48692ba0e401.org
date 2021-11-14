@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       43a2fd7d-a916-4de4-8666-48692ba0e401
+:END:
+#+title: Miv Izii 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Izii
+- vintage :: 1936
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.79
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

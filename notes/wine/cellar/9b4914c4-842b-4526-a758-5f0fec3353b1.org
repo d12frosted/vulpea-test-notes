@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9b4914c4-842b-4526-a758-5f0fec3353b1
+:END:
+#+title: Njtzvl Wkf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Wkf
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.24
+- sugar :: 8.24
+- price :: 84.54 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

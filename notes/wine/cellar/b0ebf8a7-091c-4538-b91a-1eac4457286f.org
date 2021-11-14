@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b0ebf8a7-091c-4538-b91a-1eac4457286f
+:END:
+#+title: Dseajc Jinm Fwja Ukdspnq 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Fwja Ukdspnq
+- vintage :: 1961
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.379999999999999
+- sugar :: 12.04
+- price :: 43.71 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:888f4e7e-701e-42f4-b259-efc7fc8d52ce][Dseajc Jinm Fwja Ukdspnq 1961 - 2000-6-22]]

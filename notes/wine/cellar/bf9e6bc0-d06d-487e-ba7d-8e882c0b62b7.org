@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bf9e6bc0-d06d-487e-ba7d-8e882c0b62b7
+:END:
+#+title: Miv Qbnooy Ave 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Qbnooy Ave
+- vintage :: 1990
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.86
+- sugar :: 4.28
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:0addb45e-9632-472e-9862-4ba4807a9623][Miv Qbnooy Ave 1990 - 2004-5-5]]

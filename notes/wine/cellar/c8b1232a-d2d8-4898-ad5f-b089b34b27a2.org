@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c8b1232a-d2d8-4898-ad5f-b089b34b27a2
+:END:
+#+title: Vjjtw Hvrja Bhbt 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bhbt
+- vintage :: 2013
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 9.72
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

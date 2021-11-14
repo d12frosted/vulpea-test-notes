@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       92f50efa-72c4-4f21-b09a-5f201a44a692
+:END:
+#+title: Njtzvl Lxzrdjql Yyykesz 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lxzrdjql Yyykesz
+- vintage :: 2020
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.05
+- sugar :: 20.57
+- price :: 79.09 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

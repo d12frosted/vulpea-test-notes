@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d90eaaba-c263-4094-a772-04c71e9003ce
+:END:
+#+title: Novr Rlrt Npmhnym Ezmt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Npmhnym Ezmt
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.16
+- sugar :: 19.51
+- price :: 5.01 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

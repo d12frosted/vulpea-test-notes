@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d74465bb-149d-4d99-92a9-7a1402b9fe45
+:END:
+#+title: Cdeexg Nhwexqun Mrx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Nhwexqun Mrx
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.129999999999999
+- price :: 79.50 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA

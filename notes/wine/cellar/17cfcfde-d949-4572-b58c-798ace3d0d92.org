@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       17cfcfde-d949-4572-b58c-798ace3d0d92
+:END:
+#+title: Novr Rlrt Somuczx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Somuczx
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.22
+- sugar :: 3.68
+- price :: 78.33 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

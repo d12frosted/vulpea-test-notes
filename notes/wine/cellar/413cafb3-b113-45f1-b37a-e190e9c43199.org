@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       413cafb3-b113-45f1-b37a-e190e9c43199
+:END:
+#+title: Dfsxtmx Hbfigebt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Hbfigebt
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.17
+- price :: 101.03 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

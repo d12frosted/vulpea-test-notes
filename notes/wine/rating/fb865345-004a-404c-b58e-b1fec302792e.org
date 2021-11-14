@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fb865345-004a-404c-b58e-b1fec302792e
+:END:
+#+title: Miv Bgmhlem 1914 - 2009-1-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:65512c01-9402-41eb-b561-3dc7623158d8][Miv Bgmhlem 1914]]
+- date :: 2009-1-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

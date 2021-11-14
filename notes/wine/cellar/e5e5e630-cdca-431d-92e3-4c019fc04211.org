@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e5e5e630-cdca-431d-92e3-4c019fc04211
+:END:
+#+title: Cdeexg Bqf Tmnge 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bqf Tmnge
+- vintage :: 1951
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.71
+- sugar :: 6.77
+- price :: 58.73 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

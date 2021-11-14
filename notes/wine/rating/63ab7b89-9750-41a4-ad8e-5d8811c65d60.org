@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       63ab7b89-9750-41a4-ad8e-5d8811c65d60
+:END:
+#+title: Rue Lleqpgjg Uydwy 1961 - 2005-1-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:6b45ee5a-99bb-477a-af0c-9ee85127ad9b][Rue Lleqpgjg Uydwy 1961]]
+- date :: 2005-1-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

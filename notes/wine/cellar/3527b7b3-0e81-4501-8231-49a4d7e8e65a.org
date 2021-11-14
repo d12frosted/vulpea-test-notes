@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3527b7b3-0e81-4501-8231-49a4d7e8e65a
+:END:
+#+title: Cdeexg Beypdf Ojme 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Beypdf Ojme
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.5
+- sugar :: 21.02
+- price :: 79.76 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

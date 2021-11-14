@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9930c786-e82a-4dd2-a0da-a1165fafea81
+:END:
+#+title: Vjjtw Hvrja Lchieihf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Lchieihf
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.89
+- price :: 84.49 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

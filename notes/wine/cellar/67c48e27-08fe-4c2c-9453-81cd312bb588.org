@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       67c48e27-08fe-4c2c-9453-81cd312bb588
+:END:
+#+title: Rue Zomcpyx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Zomcpyx
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.879999999999999
+- sugar :: 5.89
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.0
+- ratings :: [[id:633d21c0-22c3-4f44-b514-2f5df479c02b][Rue Zomcpyx NV - 2002-3-12]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       50eb4a00-ce6d-48e0-af3d-62451715d8d3
+:END:
+#+title: Miv Mntg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mntg
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.62
+- price :: 14.71 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       13fae8e9-9cfd-46fc-b912-e3540f3fa85c
+:END:
+#+title: Lzf Mxdgiih Mctb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mxdgiih Mctb
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.47
+- price :: 71.03 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:5adb4280-2c82-4c73-b8eb-c224d73a4482][Lzf Mxdgiih Mctb NV - 1993-12-16]]

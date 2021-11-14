@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b5cf87ff-8482-4bf6-83fb-c26243ac096a
+:END:
+#+title: Dseajc Jinm Tsh 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tsh
+- vintage :: 2017
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 9.7
+- sugar :: 6.59
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

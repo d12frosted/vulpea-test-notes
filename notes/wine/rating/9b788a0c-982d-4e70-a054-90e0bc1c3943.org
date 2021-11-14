@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9b788a0c-982d-4e70-a054-90e0bc1c3943
+:END:
+#+title: Dseajc Jinm Muegsjh Lvns 1916 - 2024-4-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:cf2ec91f-a374-4ed3-bb20-09b923e57368][Dseajc Jinm Muegsjh Lvns 1916]]
+- date :: 2024-4-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

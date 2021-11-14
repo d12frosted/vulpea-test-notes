@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bf332a9a-aeb0-4947-873c-c512d5dba055
+:END:
+#+title: Mkmt Clighnu 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Clighnu
+- vintage :: 1919
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 10.76
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

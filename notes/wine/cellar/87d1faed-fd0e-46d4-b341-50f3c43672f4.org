@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       87d1faed-fd0e-46d4-b341-50f3c43672f4
+:END:
+#+title: Cdeexg Ywubru Gxtoiepl 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ywubru Gxtoiepl
+- vintage :: 1926
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.48
+- sugar :: 23.14
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:d134d73f-a9f6-462b-9086-f3df0122346a][Cdeexg Ywubru Gxtoiepl 1926 - 1995-6-14]]

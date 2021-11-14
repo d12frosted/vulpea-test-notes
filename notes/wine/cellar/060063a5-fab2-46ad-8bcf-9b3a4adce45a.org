@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       060063a5-fab2-46ad-8bcf-9b3a4adce45a
+:END:
+#+title: Rue Pybpu Bcqxlpnc 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Pybpu Bcqxlpnc
+- vintage :: 1939
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.26
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

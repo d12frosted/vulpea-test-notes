@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1db7ff5e-5417-4111-9e4a-6ddc4405b8c5
+:END:
+#+title: Miv Nqfzntd Qshcdk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Nqfzntd Qshcdk
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.09
+- sugar :: 23.49
+- price :: 73.74 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

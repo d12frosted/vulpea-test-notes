@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e081ad09-4012-4f1f-90b7-4a174fa980ab
+:END:
+#+title: Dfsxtmx Tyqq Lsjiewyz 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Tyqq Lsjiewyz
+- vintage :: 1965
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.89
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c4745265-efab-420a-b9f6-ac92ec967d34
+:END:
+#+title: Cdeexg Wvs Ssdrw 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Wvs Ssdrw
+- vintage :: 1949
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.0
+- price :: 5.47 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

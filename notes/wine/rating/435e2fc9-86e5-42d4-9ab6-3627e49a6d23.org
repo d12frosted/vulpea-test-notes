@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       435e2fc9-86e5-42d4-9ab6-3627e49a6d23
+:END:
+#+title: Vjjtw Hvrja Rkgsbro Msamhca NV - 1998-1-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:96d3b720-16bf-4961-88cd-9b2825021766][Vjjtw Hvrja Rkgsbro Msamhca]]
+- date :: 1998-1-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 1
+- score_max :: 20
+- total :: 0.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3920fcbf-b84b-438c-8cae-33e75722c60d
+:END:
+#+title: Dfsxtmx Gycb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gycb
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 12.97
+- sugar :: 3.04
+- price :: 10.78 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:6b7929b0-42f4-47f8-becd-39192760b5ea][Dfsxtmx Gycb NV - 1991-8-25]]

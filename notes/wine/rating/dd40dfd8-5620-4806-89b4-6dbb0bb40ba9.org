@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dd40dfd8-5620-4806-89b4-6dbb0bb40ba9
+:END:
+#+title: Novr Rlrt Flehnykj Atdj NV - 1999-3-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:94f77d5c-f775-40af-afb5-8fad9737675f][Novr Rlrt Flehnykj Atdj]]
+- date :: 1999-3-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       977316f6-7ef2-4806-9e71-9f35af1574a1
+:END:
+#+title: Miv Jvug Frvclsan 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Jvug Frvclsan
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.2
+- sugar :: 0.81
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:a2c65dc2-4b19-4d16-87ba-8cb17aaf4199][Miv Jvug Frvclsan NV - 1999-11-28]]

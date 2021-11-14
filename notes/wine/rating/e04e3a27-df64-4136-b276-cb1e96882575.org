@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e04e3a27-df64-4136-b276-cb1e96882575
+:END:
+#+title: Dfsxtmx Jcxxtgt 1912 - 2011-7-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:f74c7b52-6767-4abe-ba06-642d3f1e66d0][Dfsxtmx Jcxxtgt 1912]]
+- date :: 2011-7-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

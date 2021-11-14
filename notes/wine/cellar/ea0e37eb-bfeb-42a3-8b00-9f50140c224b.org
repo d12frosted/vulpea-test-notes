@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ea0e37eb-bfeb-42a3-8b00-9f50140c224b
+:END:
+#+title: Rue Igsypzuw 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Igsypzuw
+- vintage :: 1917
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 10.07
+- price :: 78.27 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

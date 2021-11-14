@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e26a2a13-72df-4ea7-9d8b-a8e6f1474dbc
+:END:
+#+title: Novr Rlrt Lgkabtap Juz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lgkabtap Juz
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.84
+- price :: 69.99 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.0
+- ratings :: [[id:3f8bd881-9c7c-47d2-b943-e73ad16a32cc][Novr Rlrt Lgkabtap Juz NV - 2020-7-28]]

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       9114b91c-1ef5-4914-be0e-21da2ec94e8d
+:END:
+#+title: Miv Yjrj Yxionox 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Yjrj Yxionox
+- vintage :: 2000
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 11.120000000000001
+- sugar :: 16.15
+- price :: 74.43 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.0
+- ratings :: [[id:4d83de3e-db22-49f2-85fd-f878f43334bf][Miv Yjrj Yxionox 2000 - 2005-6-11]]

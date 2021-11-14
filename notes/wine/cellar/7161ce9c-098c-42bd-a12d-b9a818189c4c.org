@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7161ce9c-098c-42bd-a12d-b9a818189c4c
+:END:
+#+title: Cdeexg Javrldg 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Javrldg
+- vintage :: 1921
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.32
+- sugar :: 20.6
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:604552e2-87d2-4ced-ae19-84ac6202f8e4][Cdeexg Javrldg 1921 - 1994-2-9]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       76ee22a7-4c0e-49a6-92f3-28653e14745c
+:END:
+#+title: Novr Rlrt Nacbu 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nacbu
+- vintage :: 1903
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 11.64
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

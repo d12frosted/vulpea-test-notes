@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c363fcc9-713c-4efc-9a60-fc4a9957db74
+:END:
+#+title: Dseajc Jinm Czj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Czj
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.74
+- sugar :: 5.31
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

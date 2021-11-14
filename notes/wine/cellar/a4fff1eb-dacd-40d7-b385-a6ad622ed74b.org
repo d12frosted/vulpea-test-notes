@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a4fff1eb-dacd-40d7-b385-a6ad622ed74b
+:END:
+#+title: Lzf Lhvkz Mecrzqs 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Lhvkz Mecrzqs
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.08
+- price :: 102.87 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.0
+- ratings :: [[id:3c487d79-4318-4898-b87b-3f2ce44ac8ac][Lzf Lhvkz Mecrzqs NV - 2022-11-12]]

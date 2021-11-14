@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3ca476ca-4e96-4a34-9a0f-12e09f655a60
+:END:
+#+title: Rue Taf Tpz 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Taf Tpz
+- vintage :: 1970
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.61
+- sugar :: 7.95
+- price :: 19.53 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

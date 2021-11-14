@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e32f26c1-9a4e-454e-9c02-1a6e74dfac54
+:END:
+#+title: Lzf Kcpg Tnzsg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Kcpg Tnzsg
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.82
+- sugar :: 4.1
+- price :: 96.45 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:20ff4568-5d45-4339-befb-68dc1e171ef2][Lzf Kcpg Tnzsg NV - 2013-7-18]]

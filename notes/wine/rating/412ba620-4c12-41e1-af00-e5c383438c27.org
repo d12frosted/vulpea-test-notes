@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       412ba620-4c12-41e1-af00-e5c383438c27
+:END:
+#+title: Rue Qano Pwa 1907 - 1996-4-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:dbdd71a8-9815-4eb6-b404-ee3d999dea84][Rue Qano Pwa 1907]]
+- date :: 1996-4-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

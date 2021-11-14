@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c6814952-c346-4a12-9d59-000d284cc505
+:END:
+#+title: Novr Rlrt Aza Voxwnxb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Aza Voxwnxb
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.14
+- sugar :: 6.87
+- price :: 58.29 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

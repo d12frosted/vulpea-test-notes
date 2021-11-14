@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       97a4537e-6a8e-4bdc-9e44-48ded318bc3b
+:END:
+#+title: Njtzvl Gkdc Dler NV - 1999-4-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:68a4da88-912b-48d3-94fd-fbf4b679dbf6][Njtzvl Gkdc Dler]]
+- date :: 1999-4-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

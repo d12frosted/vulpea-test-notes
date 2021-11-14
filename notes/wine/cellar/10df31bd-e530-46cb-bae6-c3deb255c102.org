@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       10df31bd-e530-46cb-bae6-c3deb255c102
+:END:
+#+title: Rue Gyoiwof 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Gyoiwof
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.45
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 7.5
+- ratings :: [[id:ac941f02-52dc-4b9d-a174-dd8618fbe60a][Rue Gyoiwof NV - 2000-6-17]]

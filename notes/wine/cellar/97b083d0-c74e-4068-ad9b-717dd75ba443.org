@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       97b083d0-c74e-4068-ad9b-717dd75ba443
+:END:
+#+title: Vjjtw Hvrja Cdp Bfqmry 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Cdp Bfqmry
+- vintage :: 2017
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.99
+- sugar :: 6.44
+- price :: 53.58 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:f3d450ec-0fd6-4053-b9ca-e1fa5d7bdc7f][Vjjtw Hvrja Cdp Bfqmry 2017 - 2023-2-19]]

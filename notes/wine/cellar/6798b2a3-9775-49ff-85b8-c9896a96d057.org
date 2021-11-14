@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6798b2a3-9775-49ff-85b8-c9896a96d057
+:END:
+#+title: Dseajc Jinm Aynrbv Uvboa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Aynrbv Uvboa
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.04
+- price :: 11.93 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

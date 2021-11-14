@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       62e92606-bb27-4d60-b498-837b0f3e3e93
+:END:
+#+title: Mkmt Mun Iypcgnqe 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Mun Iypcgnqe
+- vintage :: 1939
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.98
+- price :: 87.30 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

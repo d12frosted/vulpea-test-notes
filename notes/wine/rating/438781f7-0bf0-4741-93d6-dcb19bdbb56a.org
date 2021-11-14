@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       438781f7-0bf0-4741-93d6-dcb19bdbb56a
+:END:
+#+title: Lzf Ohpnk 1936 - 2006-1-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:a2795e53-5bad-4f28-b091-5155798c6790][Lzf Ohpnk 1936]]
+- date :: 2006-1-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

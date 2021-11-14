@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4ca3ea50-cb03-4309-bcc7-f88b139e1b81
+:END:
+#+title: Vjjtw Hvrja Slqbfbin 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Slqbfbin
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 13.92
+- sugar :: 20.12
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:20f76001-7dd7-4599-84be-4ad5a863ba0c][Vjjtw Hvrja Slqbfbin NV - 1992-2-4]]

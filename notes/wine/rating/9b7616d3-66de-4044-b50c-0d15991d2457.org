@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9b7616d3-66de-4044-b50c-0d15991d2457
+:END:
+#+title: Rue Jobzo 1971 - 2009-2-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:8f01d011-ec71-4a56-a21e-26d6bc5b3d40][Rue Jobzo 1971]]
+- date :: 2009-2-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

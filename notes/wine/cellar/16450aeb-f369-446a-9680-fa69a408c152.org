@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       16450aeb-f369-446a-9680-fa69a408c152
+:END:
+#+title: Dfsxtmx Ibs Ylxrbiq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ibs Ylxrbiq
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.08
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:10851ed4-55ee-4ead-8833-07bbabfe17cb][Dfsxtmx Ibs Ylxrbiq NV - 2018-4-1]]

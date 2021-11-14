@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ba038a8e-a90d-4c51-8e9e-8304deda2835
+:END:
+#+title: Novr Rlrt Qxvtsla Byhjvngi NV - 2012-8-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:d64ceded-308a-4015-b587-745c7d61453f][Novr Rlrt Qxvtsla Byhjvngi]]
+- date :: 2012-8-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

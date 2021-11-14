@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cbaf9cea-d6cb-498a-ae39-7288ae827847
+:END:
+#+title: Dseajc Jinm Etq 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Etq
+- vintage :: 1910
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 10.08
+- price :: 12.01 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.5
+- ratings :: [[id:40e157f8-b3a4-49bf-9118-9926dc10f1d1][Dseajc Jinm Etq 1910 - 1991-4-26]]

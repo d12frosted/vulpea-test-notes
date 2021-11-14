@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       dcdc88d4-e32c-4830-b95e-3e9b39145b49
+:END:
+#+title: Njtzvl Krn Hqx 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Krn Hqx
+- vintage :: 1943
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.41
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:31cf4feb-b261-460d-9598-64cf4caa0825][Njtzvl Krn Hqx 1943 - 2016-2-28]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       db802fc9-cce6-46e8-9763-570a1798a207
+:END:
+#+title: Dfsxtmx Ypufto 2018 - 1996-4-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:eb1b31a0-6603-4cd4-bf1e-8125281027df][Dfsxtmx Ypufto 2018]]
+- date :: 1996-4-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

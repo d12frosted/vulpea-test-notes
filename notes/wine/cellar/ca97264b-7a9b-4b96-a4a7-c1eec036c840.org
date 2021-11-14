@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ca97264b-7a9b-4b96-a4a7-c1eec036c840
+:END:
+#+title: Mkmt Yus 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Yus
+- vintage :: 1920
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.89
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

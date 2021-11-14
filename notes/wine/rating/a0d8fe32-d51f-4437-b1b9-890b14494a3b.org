@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a0d8fe32-d51f-4437-b1b9-890b14494a3b
+:END:
+#+title: Dfsxtmx Tgaj Momjfzyn NV - 1995-10-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:6bddf93a-9ed3-4567-b630-d66651b4fb37][Dfsxtmx Tgaj Momjfzyn]]
+- date :: 1995-10-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

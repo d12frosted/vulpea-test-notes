@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       10aa60be-038e-477b-9c69-d3bcee4e2f74
+:END:
+#+title: Dseajc Jinm Gyan 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gyan
+- vintage :: 2017
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 13.01
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

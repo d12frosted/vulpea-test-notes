@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b3060da7-ecf8-4ea7-b347-5601cc7a15d9
+:END:
+#+title: Lzf Dyt Zhdrv 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Dyt Zhdrv
+- vintage :: 1957
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.04
+- price :: 44.13 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:e84a2cb5-640c-4e47-a455-816b00991fc8][Lzf Dyt Zhdrv 1957 - 2015-2-26]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b0078311-cdf3-4fe8-b14b-19a7057eba0b
+:END:
+#+title: Cdeexg Ura Sukh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ura Sukh
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.55
+- price :: 61.81 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

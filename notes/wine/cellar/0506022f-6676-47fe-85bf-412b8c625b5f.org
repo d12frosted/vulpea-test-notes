@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0506022f-6676-47fe-85bf-412b8c625b5f
+:END:
+#+title: Dseajc Jinm Wbn 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Wbn
+- vintage :: 1970
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.53
+- sugar :: 12.08
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       525d1512-02a0-4f58-94df-30bcaacdf4e0
+:END:
+#+title: Dfsxtmx Qslja 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qslja
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.51
+- sugar :: 22.76
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.0
+- ratings :: [[id:f7ba01e1-4c1f-4655-a875-582447aadddc][Dfsxtmx Qslja NV - 1994-12-19]]

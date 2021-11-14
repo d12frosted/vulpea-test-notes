@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       854d2742-2748-4a20-8a41-8a0749f99788
+:END:
+#+title: Njtzvl Phesmgo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Phesmgo
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.24
+- sugar :: 20.93
+- price :: 49.12 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

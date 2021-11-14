@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d6be8dc4-7273-4308-b98a-bc2296eddcab
+:END:
+#+title: Cdeexg Qjatagf Howq 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Qjatagf Howq
+- vintage :: 1905
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.620000000000001
+- sugar :: 3.32
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

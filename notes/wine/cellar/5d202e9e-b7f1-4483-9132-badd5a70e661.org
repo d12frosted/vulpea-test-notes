@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5d202e9e-b7f1-4483-9132-badd5a70e661
+:END:
+#+title: Rue Lpbfuwzp 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Lpbfuwzp
+- vintage :: 2009
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.61
+- sugar :: 16.52
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

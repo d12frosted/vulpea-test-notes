@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fc7633c4-28e3-4bdf-b9fa-b1c875441213
+:END:
+#+title: Miv Kamq Utar 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Kamq Utar
+- vintage :: 1916
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.04
+- price :: 45.21 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

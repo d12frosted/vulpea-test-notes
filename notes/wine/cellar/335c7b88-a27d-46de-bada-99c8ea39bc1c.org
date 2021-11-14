@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       335c7b88-a27d-46de-bada-99c8ea39bc1c
+:END:
+#+title: Lzf Bodwzrct 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Bodwzrct
+- vintage :: 1932
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.3
+- sugar :: 9.69
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

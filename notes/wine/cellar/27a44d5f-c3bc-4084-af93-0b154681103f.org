@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       27a44d5f-c3bc-4084-af93-0b154681103f
+:END:
+#+title: Cdeexg Faqbf Xyltena 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Faqbf Xyltena
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 12.28
+- sugar :: 14.25
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.5
+- ratings :: [[id:e98a8a33-cfcb-4092-b8e5-3b5936ab2c3c][Cdeexg Faqbf Xyltena NV - 2017-6-6]]

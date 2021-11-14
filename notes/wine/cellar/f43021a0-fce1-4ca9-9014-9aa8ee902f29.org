@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f43021a0-fce1-4ca9-9014-9aa8ee902f29
+:END:
+#+title: Dseajc Jinm Lqnmt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lqnmt
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 11.93
+- sugar :: 8.73
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

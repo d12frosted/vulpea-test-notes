@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       df6b346d-0fc8-441b-9346-16dd6e8e81d9
+:END:
+#+title: Njtzvl Cadwk Ieb 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Cadwk Ieb
+- vintage :: 1934
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.54
+- sugar :: 11.99
+- price :: 17.88 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b9d97116-c8f3-433f-b5bb-cee338517975
+:END:
+#+title: Vjjtw Hvrja Syotjnx 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Syotjnx
+- vintage :: 2009
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.22
+- price :: 89.77 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 4.5
+- ratings :: [[id:df6633c4-6def-411a-b5fc-351e31943d01][Vjjtw Hvrja Syotjnx 2009 - 2014-10-2]]

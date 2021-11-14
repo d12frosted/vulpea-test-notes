@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fe894437-ac82-4d73-80b1-8c09652acd15
+:END:
+#+title: Mkmt Wilkmg 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Wilkmg
+- vintage :: 1973
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.19
+- sugar :: 2.33
+- price :: 14.61 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:9defc87e-9799-4b3d-bd8f-6045e496b554][Mkmt Wilkmg 1973 - 1997-7-22]]

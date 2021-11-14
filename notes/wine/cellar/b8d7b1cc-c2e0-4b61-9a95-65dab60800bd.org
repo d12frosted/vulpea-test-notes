@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b8d7b1cc-c2e0-4b61-9a95-65dab60800bd
+:END:
+#+title: Mkmt Cwbbinza Zdnktca 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Cwbbinza Zdnktca
+- vintage :: 2012
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.52
+- sugar :: 16.34
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:b76ad785-12b5-41ac-8f1d-484c9cc32798][Mkmt Cwbbinza Zdnktca 2012 - 2010-10-19]]

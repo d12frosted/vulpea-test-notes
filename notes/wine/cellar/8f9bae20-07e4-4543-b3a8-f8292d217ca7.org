@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8f9bae20-07e4-4543-b3a8-f8292d217ca7
+:END:
+#+title: Lzf Sqrjwd Huxj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Sqrjwd Huxj
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.47
+- sugar :: 7.46
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

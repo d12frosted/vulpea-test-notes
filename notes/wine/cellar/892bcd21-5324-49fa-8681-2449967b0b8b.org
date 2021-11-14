@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       892bcd21-5324-49fa-8681-2449967b0b8b
+:END:
+#+title: Dfsxtmx Vff Jlopsig 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vff Jlopsig
+- vintage :: 1911
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 9.9
+- price :: 87.75 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:50d0c238-690a-4bf9-8d59-866131cd214d][Dfsxtmx Vff Jlopsig 1911 - 2003-10-19]]

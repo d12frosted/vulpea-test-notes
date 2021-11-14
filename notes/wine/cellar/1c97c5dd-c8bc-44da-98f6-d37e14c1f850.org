@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1c97c5dd-c8bc-44da-98f6-d37e14c1f850
+:END:
+#+title: Dfsxtmx Chcpyuw Elvpfo 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Chcpyuw Elvpfo
+- vintage :: 1949
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.92
+- price :: 29.00 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:dab7b43f-03b5-44c3-9104-d068a9d0bd22][Dfsxtmx Chcpyuw Elvpfo 1949 - 1990-7-23]]

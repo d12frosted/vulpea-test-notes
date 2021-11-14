@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d1f6cafd-565f-499c-a926-1db7138a31ae
+:END:
+#+title: Dseajc Jinm Rwtw Xmlv NV - 1994-7-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:caf1cd2e-5117-4ba0-918a-a85cfe9d7c8c][Dseajc Jinm Rwtw Xmlv]]
+- date :: 1994-7-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

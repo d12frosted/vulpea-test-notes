@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8cd3ade8-f71b-4418-a072-72e3f9742814
+:END:
+#+title: Vjjtw Hvrja Nunyv Jcdam 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Nunyv Jcdam
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.66
+- sugar :: 10.37
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: wikipedia
+- rating :: NA

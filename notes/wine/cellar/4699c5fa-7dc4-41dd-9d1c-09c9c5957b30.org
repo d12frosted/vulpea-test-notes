@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4699c5fa-7dc4-41dd-9d1c-09c9c5957b30
+:END:
+#+title: Vjjtw Hvrja Tqjx Hwvo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Tqjx Hwvo
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.49
+- sugar :: 2.96
+- price :: 75.65 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: 5.5
+- ratings :: [[id:3ae9af38-0a08-4769-87cf-4b662dc7e5fe][Vjjtw Hvrja Tqjx Hwvo NV - 2005-11-9]]

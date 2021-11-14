@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       52bd64f1-b045-49b0-92ba-6113aaf8208e
+:END:
+#+title: Miv Ggmspyr Jtyqryf 1912
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ggmspyr Jtyqryf
+- vintage :: 1912
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.09
+- sugar :: 8.47
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

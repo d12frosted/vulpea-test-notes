@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5ef11ba0-623e-483d-958e-c7201088383d
+:END:
+#+title: Cdeexg Iklbx Fpaaa 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Iklbx Fpaaa
+- vintage :: 1974
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 13.96
+- sugar :: 4.92
+- price :: 40.53 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       8eb44dcd-d9c5-43be-84de-887c79d3d265
+:END:
+#+title: Miv Hqbfrs Xmfjgppb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Hqbfrs Xmfjgppb
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.89
+- sugar :: 21.27
+- price :: 20.95 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.5
+- ratings :: [[id:0eb9b5e3-9245-4a74-8a22-45aa57451335][Miv Hqbfrs Xmfjgppb NV - 1999-10-6]]

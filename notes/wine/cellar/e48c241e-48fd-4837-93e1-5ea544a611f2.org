@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e48c241e-48fd-4837-93e1-5ea544a611f2
+:END:
+#+title: Miv Jcobqx Xqoeyhyl 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Jcobqx Xqoeyhyl
+- vintage :: 1909
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.2
+- sugar :: 3.24
+- price :: 23.18 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

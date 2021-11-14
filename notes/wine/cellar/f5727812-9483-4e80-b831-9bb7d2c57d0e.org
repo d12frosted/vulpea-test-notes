@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f5727812-9483-4e80-b831-9bb7d2c57d0e
+:END:
+#+title: Dseajc Jinm Qjnnc Hrwydc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Qjnnc Hrwydc
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.04
+- sugar :: 20.16
+- price :: 96.92 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.0
+- ratings :: [[id:88dc678e-d039-4177-92b8-e08402bc7fae][Dseajc Jinm Qjnnc Hrwydc NV - 1996-8-7]]

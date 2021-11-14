@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       a2e0ba60-d103-4b07-9a79-4fad12294fcf
+:END:
+#+title: Lzf Lxouhet 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Lxouhet
+- vintage :: 1945
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.64
+- price :: 52.07 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:a283dcbd-549f-40f0-b33b-f9d80a847b95][Lzf Lxouhet 1945 - 1995-10-27]]

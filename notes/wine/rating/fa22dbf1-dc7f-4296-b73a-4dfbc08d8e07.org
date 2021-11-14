@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fa22dbf1-dc7f-4296-b73a-4dfbc08d8e07
+:END:
+#+title: Rue Uoc Ycgrm NV - 2005-1-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:530c071d-5595-4bc1-a064-20f322ae6265][Rue Uoc Ycgrm]]
+- date :: 2005-1-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

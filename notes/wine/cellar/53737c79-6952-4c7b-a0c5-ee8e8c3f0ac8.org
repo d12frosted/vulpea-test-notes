@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       53737c79-6952-4c7b-a0c5-ee8e8c3f0ac8
+:END:
+#+title: Dseajc Jinm Gaqc 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gaqc
+- vintage :: 1982
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.93
+- sugar :: 22.8
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

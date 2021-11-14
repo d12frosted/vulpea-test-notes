@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       61024037-04f1-424d-b008-311bff68e224
+:END:
+#+title: Dseajc Jinm Nepsinir Kfpgjjp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Nepsinir Kfpgjjp
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 13.219999999999999
+- price :: 92.14 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.0
+- ratings :: [[id:44101421-8823-49df-865e-3cd2d77948f9][Dseajc Jinm Nepsinir Kfpgjjp NV - 2011-9-25]]

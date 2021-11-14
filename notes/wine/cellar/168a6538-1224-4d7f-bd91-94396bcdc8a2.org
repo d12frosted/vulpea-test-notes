@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       168a6538-1224-4d7f-bd91-94396bcdc8a2
+:END:
+#+title: Rue Ksheyry 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ksheyry
+- vintage :: 2018
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.36
+- sugar :: 13.34
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: wikipedia
+- rating :: 3.5
+- ratings :: [[id:75423e8e-9b42-475b-8c48-5ce5b30f38e3][Rue Ksheyry 2018 - 2001-6-12]]

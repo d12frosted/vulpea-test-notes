@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       295e1473-578b-4cab-a110-5a9a8255c5e7
+:END:
+#+title: Dfsxtmx Mrsstzan 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mrsstzan
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.03
+- sugar :: 21.92
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

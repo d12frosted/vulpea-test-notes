@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       83d16359-b8d2-49a2-8a25-10b5d5f4f71d
+:END:
+#+title: Vjjtw Hvrja Yibziuih Bahk NV - 2023-12-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:d938f7cd-4509-48fb-931d-c4afa2f3c089][Vjjtw Hvrja Yibziuih Bahk]]
+- date :: 2023-12-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

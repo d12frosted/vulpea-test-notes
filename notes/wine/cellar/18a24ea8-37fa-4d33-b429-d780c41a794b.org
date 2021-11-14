@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       18a24ea8-37fa-4d33-b429-d780c41a794b
+:END:
+#+title: Vjjtw Hvrja Hxpuy 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hxpuy
+- vintage :: 1955
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.940000000000001
+- sugar :: 3.27
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:1ad05280-3d22-4a6f-8221-166b64905629][Vjjtw Hvrja Hxpuy 1955 - 2013-8-18]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4df4fe5a-4400-4807-bd6f-3a30dce253b3
+:END:
+#+title: Mkmt Yzsps 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Yzsps
+- vintage :: 1952
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.02
+- sugar :: 19.57
+- price :: 27.03 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

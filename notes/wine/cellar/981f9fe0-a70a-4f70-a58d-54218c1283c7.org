@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       981f9fe0-a70a-4f70-a58d-54218c1283c7
+:END:
+#+title: Dfsxtmx Fnnyta 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Fnnyta
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.45
+- price :: 22.03 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

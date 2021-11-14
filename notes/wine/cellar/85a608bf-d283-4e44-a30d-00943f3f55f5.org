@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       85a608bf-d283-4e44-a30d-00943f3f55f5
+:END:
+#+title: Dseajc Jinm Bkguo 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Bkguo
+- vintage :: 1925
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.96
+- sugar :: 5.76
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

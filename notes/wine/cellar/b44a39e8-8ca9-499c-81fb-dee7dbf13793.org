@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b44a39e8-8ca9-499c-81fb-dee7dbf13793
+:END:
+#+title: Rue Wqfkijzs Qxwzkdl 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Wqfkijzs Qxwzkdl
+- vintage :: 1997
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.58
+- sugar :: 10.26
+- price :: 95.02 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

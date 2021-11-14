@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       51a102e4-d8a4-44af-91db-e8a0e0549ee6
+:END:
+#+title: Rue Tml 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Tml
+- vintage :: 1970
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.54
+- price :: 98.77 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:93e89c68-d02c-4654-b1a9-625b5e12e7bb][Rue Tml 1970 - 2019-5-4]]

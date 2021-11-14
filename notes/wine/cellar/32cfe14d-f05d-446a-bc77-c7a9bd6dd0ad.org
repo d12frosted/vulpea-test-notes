@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       32cfe14d-f05d-446a-bc77-c7a9bd6dd0ad
+:END:
+#+title: Lzf Dgt 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Dgt
+- vintage :: 2007
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 10.61
+- sugar :: 6.07
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f1b59eea-4e50-4258-be20-4f1d7a6830b2
+:END:
+#+title: Cdeexg Ptnhpni Fyce 1971
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ptnhpni Fyce
+- vintage :: 1971
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 11.91
+- price :: 85.90 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

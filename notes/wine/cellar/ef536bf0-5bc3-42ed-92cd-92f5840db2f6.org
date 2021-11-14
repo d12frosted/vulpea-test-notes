@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ef536bf0-5bc3-42ed-92cd-92f5840db2f6
+:END:
+#+title: Cdeexg Blgzfamc Bbgksbe 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Blgzfamc Bbgksbe
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.42
+- sugar :: 20.61
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:158b46ac-6494-4cd2-bedc-7b276a8c4bc8][Cdeexg Blgzfamc Bbgksbe NV - 2004-7-23]]

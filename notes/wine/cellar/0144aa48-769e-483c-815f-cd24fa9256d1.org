@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0144aa48-769e-483c-815f-cd24fa9256d1
+:END:
+#+title: Vjjtw Hvrja Fgblwh Jowttxua 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Fgblwh Jowttxua
+- vintage :: 1922
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 12.08
+- sugar :: 14.54
+- price :: 38.19 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

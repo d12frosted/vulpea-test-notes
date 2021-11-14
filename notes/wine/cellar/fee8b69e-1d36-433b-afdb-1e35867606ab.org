@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fee8b69e-1d36-433b-afdb-1e35867606ab
+:END:
+#+title: Dseajc Jinm Gpfabgtr Ruy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gpfabgtr Ruy
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.59
+- price :: 52.50 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:5348a76f-3c8f-4f43-b059-88c31cee9637][Dseajc Jinm Gpfabgtr Ruy NV - 2023-5-18]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c2226924-0593-43c5-95cf-b9f41f87e311
+:END:
+#+title: Vjjtw Hvrja Bwhhvsjm Oyabobby 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bwhhvsjm Oyabobby
+- vintage :: 1982
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.32
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

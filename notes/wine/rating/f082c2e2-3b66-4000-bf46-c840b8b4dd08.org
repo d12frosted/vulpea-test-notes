@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f082c2e2-3b66-4000-bf46-c840b8b4dd08
+:END:
+#+title: Rue Iaf NV - 2023-3-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:dbe4d7f1-faea-463e-8f37-dc7356565b83][Rue Iaf]]
+- date :: 2023-3-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

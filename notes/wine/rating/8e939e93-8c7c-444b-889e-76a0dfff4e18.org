@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8e939e93-8c7c-444b-889e-76a0dfff4e18
+:END:
+#+title: Cdeexg Zrflxzg Typwd 1944 - 2002-5-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:db0ba881-92d2-4fc6-a745-ba5f53855b2a][Cdeexg Zrflxzg Typwd 1944]]
+- date :: 2002-5-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

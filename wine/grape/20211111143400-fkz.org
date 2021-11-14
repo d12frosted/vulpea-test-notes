@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       6c156f5b-4aa0-44dd-be21-210977716b8e
-:END:
-#+title: Fkz
-#+filetags: :wine:grape:
-
-

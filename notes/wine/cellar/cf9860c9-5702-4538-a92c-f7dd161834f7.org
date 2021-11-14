@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cf9860c9-5702-4538-a92c-f7dd161834f7
+:END:
+#+title: Dfsxtmx Gqgx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gqgx
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.01
+- price :: 58.14 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:69c6f448-d288-4574-be09-438232f4cb07][Dfsxtmx Gqgx NV - 2002-1-2]]

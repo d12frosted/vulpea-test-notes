@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       51c4374b-5576-4b2e-9da7-4b2642acd2b6
+:END:
+#+title: Novr Rlrt Clz Ttff 1977 - 2023-3-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:c8552b1e-e311-43b4-9d01-e3efca0d0c40][Novr Rlrt Clz Ttff 1977]]
+- date :: 2023-3-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c655b9f2-8bba-4c3a-b9a6-192460f0ed5e
+:END:
+#+title: Dfsxtmx Vwa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vwa
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.91
+- sugar :: 1.41
+- price :: 34.18 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

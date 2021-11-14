@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3a78b182-65d1-4d63-9dcf-78ce0cc70497
+:END:
+#+title: Dfsxtmx Gqf 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gqf
+- vintage :: 1934
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.61
+- sugar :: 16.75
+- price :: 8.72 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e230890e-7421-4109-b85c-de6bafc942bf
+:END:
+#+title: Dseajc Jinm Pjhiy Bjto NV - 2011-2-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:3ad35bb1-48e4-4d5a-a74f-fe0e7d839fb8][Dseajc Jinm Pjhiy Bjto]]
+- date :: 2011-2-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

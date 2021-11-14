@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e2b329f1-9f59-4e61-9d17-05046d8adaaf
+:END:
+#+title: Cdeexg Yrrihzfi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Yrrihzfi
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.92
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

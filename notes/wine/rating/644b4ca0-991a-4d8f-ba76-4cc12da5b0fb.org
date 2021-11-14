@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       644b4ca0-991a-4d8f-ba76-4cc12da5b0fb
+:END:
+#+title: Njtzvl Vbxizfz Ejqtkbi NV - 2024-5-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:faedfb59-fec7-40ab-b13e-df3b82bc12c3][Njtzvl Vbxizfz Ejqtkbi]]
+- date :: 2024-5-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

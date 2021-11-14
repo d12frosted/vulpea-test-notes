@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       98b8d3e8-3f32-4da4-b9ec-527184171177
+:END:
+#+title: Dseajc Jinm Lumyxtx 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lumyxtx
+- vintage :: 1978
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 9.92
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

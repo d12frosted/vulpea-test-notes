@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1205f0f8-cbaf-4618-838d-37c100797aeb
+:END:
+#+title: Rue Ddbsdk Axqwvi 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ddbsdk Axqwvi
+- vintage :: 1980
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.91
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

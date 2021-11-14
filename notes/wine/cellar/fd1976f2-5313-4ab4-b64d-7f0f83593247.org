@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fd1976f2-5313-4ab4-b64d-7f0f83593247
+:END:
+#+title: Vjjtw Hvrja Bykrrhdb 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bykrrhdb
+- vintage :: 1952
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.22
+- sugar :: 8.83
+- price :: 89.58 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

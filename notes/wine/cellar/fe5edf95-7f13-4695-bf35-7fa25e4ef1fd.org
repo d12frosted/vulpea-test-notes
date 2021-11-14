@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fe5edf95-7f13-4695-bf35-7fa25e4ef1fd
+:END:
+#+title: Mkmt Mglywlg 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Mglywlg
+- vintage :: 1953
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.7
+- price :: 76.85 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

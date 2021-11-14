@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6564c296-df06-4505-964c-b3972d05c8ce
+:END:
+#+title: Dfsxtmx Nkr Gmqmujn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nkr Gmqmujn
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.06
+- sugar :: 7.12
+- price :: 43.23 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 2.5
+- ratings :: [[id:323cb301-9f66-4b0f-9a50-5533b1480e2f][Dfsxtmx Nkr Gmqmujn NV - 2020-4-1]]

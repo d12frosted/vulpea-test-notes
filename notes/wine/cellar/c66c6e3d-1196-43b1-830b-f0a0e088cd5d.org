@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c66c6e3d-1196-43b1-830b-f0a0e088cd5d
+:END:
+#+title: Rue Zstgp 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Zstgp
+- vintage :: 1997
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 12.59
+- sugar :: 3.0
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1c4d3545-da72-41ac-a839-de41f008ca08
+:END:
+#+title: Miv Xmmhzna Phga 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xmmhzna Phga
+- vintage :: 1902
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.15
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.0
+- ratings :: [[id:9e9667b8-fdf1-4a89-a99c-0533fada95b8][Miv Xmmhzna Phga 1902 - 2023-3-11]]

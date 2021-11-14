@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3eaae8e6-7c30-4786-ac19-d234265619fd
+:END:
+#+title: Lzf Ftzljhjr Zxjpjst 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ftzljhjr Zxjpjst
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.629999999999999
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:ddc2d3e6-13fe-4f10-be98-6679fd5a2384][Lzf Ftzljhjr Zxjpjst NV - 2002-5-20]]

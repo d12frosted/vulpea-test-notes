@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       be888f96-fc59-4625-b262-b7471bae5d0e
+:END:
+#+title: Lzf Lgyiazla Wruzkwmz 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Lgyiazla Wruzkwmz
+- vintage :: 1969
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.120000000000001
+- price :: 27.58 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:83f6c4fa-77fd-4b10-b75e-671454943a3a][Lzf Lgyiazla Wruzkwmz 1969 - 1991-1-23]]

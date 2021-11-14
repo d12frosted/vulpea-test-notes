@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       85112a7b-868c-4976-a865-bdb0624930ca
+:END:
+#+title: Dseajc Jinm Judbni 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Judbni
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.879999999999999
+- price :: 62.06 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.0
+- ratings :: [[id:a94e42f0-7b9b-4e54-a34c-12628ebd046e][Dseajc Jinm Judbni NV - 2019-4-5]]

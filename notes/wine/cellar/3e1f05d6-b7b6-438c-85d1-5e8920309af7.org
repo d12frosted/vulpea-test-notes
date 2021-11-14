@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3e1f05d6-b7b6-438c-85d1-5e8920309af7
+:END:
+#+title: Njtzvl Rdqrd 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Rdqrd
+- vintage :: 1917
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 9.12
+- sugar :: 15.71
+- price :: 78.72 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:1e7aa97b-bf53-4fee-ad46-1cb92c4d5477][Njtzvl Rdqrd 1917 - 2015-7-11]]

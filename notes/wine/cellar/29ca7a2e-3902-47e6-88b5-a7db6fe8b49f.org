@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       29ca7a2e-3902-47e6-88b5-a7db6fe8b49f
+:END:
+#+title: Cdeexg Gyal 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Gyal
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.04
+- price :: 91.45 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c855d3ea-7989-4680-95c4-06bd48afef2a
+:END:
+#+title: Dfsxtmx Lminwob NV - 2009-3-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:a97d3061-4c53-4fa7-a7a6-34564a0f9b88][Dfsxtmx Lminwob]]
+- date :: 2009-3-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

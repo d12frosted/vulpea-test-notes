@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2c824d9e-fe58-4e7a-b690-216b8d8d67e5
+:END:
+#+title: Dfsxtmx Kcsmrk 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kcsmrk
+- vintage :: 1992
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.7
+- price :: 23.08 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

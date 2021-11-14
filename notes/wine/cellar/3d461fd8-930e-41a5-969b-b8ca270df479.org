@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3d461fd8-930e-41a5-969b-b8ca270df479
+:END:
+#+title: Lzf Tarsj 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tarsj
+- vintage :: 1909
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.55
+- price :: 71.67 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

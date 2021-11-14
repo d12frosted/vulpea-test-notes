@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4683febd-087f-435c-8715-8bbcc89b856a
+:END:
+#+title: Vjjtw Hvrja Uvpg Cxzj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Uvpg Cxzj
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.59
+- price :: 92.06 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:9e61deed-b900-4d6a-bd64-1d5a3cb65186][Vjjtw Hvrja Uvpg Cxzj NV - 2008-11-2]]

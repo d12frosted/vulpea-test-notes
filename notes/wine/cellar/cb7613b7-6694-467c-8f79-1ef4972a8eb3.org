@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cb7613b7-6694-467c-8f79-1ef4972a8eb3
+:END:
+#+title: Njtzvl Xceuy 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xceuy
+- vintage :: 1974
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 12.1
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 7.0
+- ratings :: [[id:1baac56d-295e-4286-8ced-ee6e7acf8d33][Njtzvl Xceuy 1974 - 2016-9-20]]

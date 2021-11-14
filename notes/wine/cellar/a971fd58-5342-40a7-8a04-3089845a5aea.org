@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a971fd58-5342-40a7-8a04-3089845a5aea
+:END:
+#+title: Rue Kqsnlo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kqsnlo
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.39
+- sugar :: 5.23
+- price :: 73.37 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:ab81d026-3a54-4677-a341-e8d02807f562][Rue Kqsnlo NV - 2005-4-23]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6fe81fb2-5bee-494d-9521-9a56ec1b43eb
+:END:
+#+title: Lzf Cqvam 1907 - 2006-8-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:0f816c1b-2f2a-47b9-ac59-0ac4889c9c35][Lzf Cqvam 1907]]
+- date :: 2006-8-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

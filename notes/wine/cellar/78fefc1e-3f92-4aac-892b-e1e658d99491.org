@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       78fefc1e-3f92-4aac-892b-e1e658d99491
+:END:
+#+title: Dseajc Jinm Gzfcaoub 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gzfcaoub
+- vintage :: 1917
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.120000000000001
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:42a10e99-9d03-479c-817b-7c445b98fb3e][Dseajc Jinm Gzfcaoub 1917 - 1997-4-9]]

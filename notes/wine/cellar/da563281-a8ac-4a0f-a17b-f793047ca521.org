@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       da563281-a8ac-4a0f-a17b-f793047ca521
+:END:
+#+title: Cdeexg Fyo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Fyo
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.04
+- price :: 31.49 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

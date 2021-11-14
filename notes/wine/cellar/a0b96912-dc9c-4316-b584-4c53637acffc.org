@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a0b96912-dc9c-4316-b584-4c53637acffc
+:END:
+#+title: Rue Aqwhcmrk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Aqwhcmrk
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.84
+- sugar :: 14.11
+- price :: 80.64 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:adb5e25b-c77d-496e-95d8-aa46bc715c19][Rue Aqwhcmrk NV - 1995-12-24]]

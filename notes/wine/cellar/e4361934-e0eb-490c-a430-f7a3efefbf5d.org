@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e4361934-e0eb-490c-a430-f7a3efefbf5d
+:END:
+#+title: Miv Fblqnlw 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Fblqnlw
+- vintage :: 1938
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.1
+- sugar :: 15.99
+- price :: 23.70 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

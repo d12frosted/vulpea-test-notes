@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a90b84f2-1e93-43d3-9272-6a847f333902
+:END:
+#+title: Lzf Qjfn Ptufsi 2009
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Qjfn Ptufsi
+- vintage :: 2009
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.52
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

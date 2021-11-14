@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       11097554-ac4e-4b7d-a245-9c774b3dbf54
+:END:
+#+title: Novr Rlrt Ashhlk Dhlvq 1908 - 2018-1-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:32f736c1-2217-46ee-8f49-cd5998ed963a][Novr Rlrt Ashhlk Dhlvq 1908]]
+- date :: 2018-1-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

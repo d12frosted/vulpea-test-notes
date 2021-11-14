@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e87c5e00-3f86-4ac0-89e1-e2be709809ca
+:END:
+#+title: Mkmt Dygok Yyonvfs 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Dygok Yyonvfs
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 13.68
+- price :: 37.00 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:aad16e0e-b709-46a7-856b-c32709ead449][Mkmt Dygok Yyonvfs NV - 1990-7-25]]

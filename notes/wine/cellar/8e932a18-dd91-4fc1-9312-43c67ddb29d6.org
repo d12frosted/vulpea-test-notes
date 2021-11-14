@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8e932a18-dd91-4fc1-9312-43c67ddb29d6
+:END:
+#+title: Njtzvl Tlgsrpw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Tlgsrpw
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.96
+- sugar :: 16.18
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

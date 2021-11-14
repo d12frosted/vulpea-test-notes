@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       beb0c7ae-feb7-4c35-b340-d7c406603104
+:END:
+#+title: Njtzvl Ghksyk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ghksyk
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 10.41
+- sugar :: 18.67
+- price :: 63.99 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 8.5
+- ratings :: [[id:97942b69-1afb-4d63-9f17-58fdd9ee3092][Njtzvl Ghksyk NV - 2002-12-19]]

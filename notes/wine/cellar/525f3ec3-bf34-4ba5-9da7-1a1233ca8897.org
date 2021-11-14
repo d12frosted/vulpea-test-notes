@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       525f3ec3-bf34-4ba5-9da7-1a1233ca8897
+:END:
+#+title: Miv Itbl Jufyoe 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Itbl Jufyoe
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.08
+- price :: 6.51 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1bd8a786-6656-4ee0-ac83-9621862673c6
+:END:
+#+title: Dseajc Jinm Xverlot 1976 - 2001-9-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:b899cb85-dd03-4de0-a563-454ac4001030][Dseajc Jinm Xverlot 1976]]
+- date :: 2001-9-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

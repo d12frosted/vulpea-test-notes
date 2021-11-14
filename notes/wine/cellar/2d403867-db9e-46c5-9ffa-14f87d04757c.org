@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2d403867-db9e-46c5-9ffa-14f87d04757c
+:END:
+#+title: Dseajc Jinm Xcgwmzsx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xcgwmzsx
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.54
+- sugar :: 15.81
+- price :: 79.28 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

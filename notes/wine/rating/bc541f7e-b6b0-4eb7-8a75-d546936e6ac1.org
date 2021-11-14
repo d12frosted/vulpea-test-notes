@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bc541f7e-b6b0-4eb7-8a75-d546936e6ac1
+:END:
+#+title: Lzf Iqf Frfxkkmn 2003 - 1999-9-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:f8e5c193-069a-4751-8efc-e81dffb3ee9d][Lzf Iqf Frfxkkmn 2003]]
+- date :: 1999-9-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a346e760-75f8-4135-8ff3-9752b20aaad9
+:END:
+#+title: Novr Rlrt Ohtp 1902 - 2018-11-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:7c3b9d97-cb4c-400b-8c2d-fc753e4f68da][Novr Rlrt Ohtp 1902]]
+- date :: 2018-11-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

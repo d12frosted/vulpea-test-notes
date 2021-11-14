@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5f62ca80-1f6f-4d41-aab8-70dcc7b55553
+:END:
+#+title: Njtzvl Bznz Wqhge NV - 2013-12-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:22faf0ed-368a-40b6-9b21-605451e46cf0][Njtzvl Bznz Wqhge]]
+- date :: 2013-12-24
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

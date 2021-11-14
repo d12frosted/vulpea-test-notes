@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7dfa9c7b-54da-4e72-a6d7-6b1baeeae141
+:END:
+#+title: Mkmt Ocwtpn Chtrjydd 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ocwtpn Chtrjydd
+- vintage :: 2007
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 10.95
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 8.0
+- ratings :: [[id:4855624e-6cfd-470d-9010-5e4728da1c87][Mkmt Ocwtpn Chtrjydd 2007 - 2012-8-24]]

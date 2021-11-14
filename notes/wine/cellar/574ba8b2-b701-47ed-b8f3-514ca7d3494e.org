@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       574ba8b2-b701-47ed-b8f3-514ca7d3494e
+:END:
+#+title: Mkmt Bwbsro 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Bwbsro
+- vintage :: 1916
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.04
+- sugar :: 21.45
+- price :: 13.53 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.0
+- ratings :: [[id:75d9fc3d-a62f-4e91-bb15-cd3ad3f5eb5f][Mkmt Bwbsro 1916 - 1993-2-1]]

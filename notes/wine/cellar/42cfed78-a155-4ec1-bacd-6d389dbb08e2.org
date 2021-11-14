@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       42cfed78-a155-4ec1-bacd-6d389dbb08e2
+:END:
+#+title: Cdeexg Rcfvth Pfbcbr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Rcfvth Pfbcbr
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.690000000000001
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: wikipedia
+- rating :: NA

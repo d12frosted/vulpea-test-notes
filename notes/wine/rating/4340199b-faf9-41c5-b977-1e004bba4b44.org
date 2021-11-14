@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4340199b-faf9-41c5-b977-1e004bba4b44
+:END:
+#+title: Novr Rlrt Gxfm 1958 - 2020-6-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:d0a26d11-706e-4215-b337-50d42b2a5bea][Novr Rlrt Gxfm 1958]]
+- date :: 2020-6-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

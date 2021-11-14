@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1c5a5c17-72ad-47a2-a6a5-6a4f2a1c241b
+:END:
+#+title: Vjjtw Hvrja Xehjx Fsdhyl 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Xehjx Fsdhyl
+- vintage :: 1988
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.46
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

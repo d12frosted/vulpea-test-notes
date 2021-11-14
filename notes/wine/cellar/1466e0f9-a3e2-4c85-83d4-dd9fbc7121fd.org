@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1466e0f9-a3e2-4c85-83d4-dd9fbc7121fd
+:END:
+#+title: Novr Rlrt Zyk 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Zyk
+- vintage :: 2014
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.22
+- price :: 48.57 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:afab6fb1-2157-4255-ad9a-8f054c70fd5d][Novr Rlrt Zyk 2014 - 2015-12-26]]

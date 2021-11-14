@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8d028d6c-b399-4cad-bcf3-db1e23da493b
+:END:
+#+title: Rue Hfi NV - 1995-4-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:15febbcb-4ea7-40d6-9550-03f73baf9b45][Rue Hfi]]
+- date :: 1995-4-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

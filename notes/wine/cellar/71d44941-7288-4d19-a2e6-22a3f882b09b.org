@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       71d44941-7288-4d19-a2e6-22a3f882b09b
+:END:
+#+title: Novr Rlrt Wqfzebv 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wqfzebv
+- vintage :: 1982
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.02
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:f15cbc18-11be-4587-87bd-ff8b45c79476][Novr Rlrt Wqfzebv 1982 - 2012-11-8]]

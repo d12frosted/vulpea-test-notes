@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d239bca2-f562-48b2-b605-952466f3cee8
+:END:
+#+title: Dfsxtmx Iax 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Iax
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.65
+- sugar :: 20.34
+- price :: 101.10 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:68ac4980-6ea7-4377-96b0-32a43c2c1bd2][Dfsxtmx Iax NV - 2003-10-3]]

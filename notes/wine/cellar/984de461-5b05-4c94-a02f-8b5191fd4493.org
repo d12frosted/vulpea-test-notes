@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       984de461-5b05-4c94-a02f-8b5191fd4493
+:END:
+#+title: Njtzvl Gibg 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Gibg
+- vintage :: 1964
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.52
+- sugar :: 2.71
+- price :: 53.66 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:65886d88-f5c7-4bb7-95e3-d1c9a677c812][Njtzvl Gibg 1964 - 2004-5-25]]

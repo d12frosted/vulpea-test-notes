@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       46f472ff-de96-4408-a209-7518965af5ec
+:END:
+#+title: Dfsxtmx Ymdxqbm Yekmlnj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ymdxqbm Yekmlnj
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.26
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 2.5
+- ratings :: [[id:c8db3910-ae49-4595-8270-2cce395d86f1][Dfsxtmx Ymdxqbm Yekmlnj NV - 2004-3-15]]

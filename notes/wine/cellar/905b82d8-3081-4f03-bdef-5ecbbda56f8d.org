@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       905b82d8-3081-4f03-bdef-5ecbbda56f8d
+:END:
+#+title: Rue Vzxjtjoa Duihcx 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vzxjtjoa Duihcx
+- vintage :: 1903
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.46
+- price :: 5.59 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8ad5dd12-4f28-47d9-811f-830a222dae6d
+:END:
+#+title: Dfsxtmx Huatjkxg NV - 1992-4-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:98414808-b77e-47ce-8f00-91dcade26d52][Dfsxtmx Huatjkxg]]
+- date :: 1992-4-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       30f5f011-2426-491e-b752-e1558cac39bb
+:END:
+#+title: Cdeexg Kjhz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Kjhz
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.059999999999999
+- price :: 95.13 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:99c65c01-27e2-4957-953a-fb2047da0865][Cdeexg Kjhz NV - 2018-4-17]]

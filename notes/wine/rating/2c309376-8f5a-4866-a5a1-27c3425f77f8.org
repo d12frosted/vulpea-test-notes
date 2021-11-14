@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2c309376-8f5a-4866-a5a1-27c3425f77f8
+:END:
+#+title: Rue Ujzr 1901 - 2024-12-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:8a64cb59-20b7-400b-b2f8-3ee96f5ab5f6][Rue Ujzr 1901]]
+- date :: 2024-12-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

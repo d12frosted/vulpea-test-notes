@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4b5d0584-fd58-476b-8548-a186730ae86a
+:END:
+#+title: Novr Rlrt Khebaltw Xbc NV - 1997-3-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:e2bb0d9f-fc3a-4e38-ad99-0a2cdfcb8976][Novr Rlrt Khebaltw Xbc]]
+- date :: 1997-3-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

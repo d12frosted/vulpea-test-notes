@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       563b31ea-152e-4025-922b-e1c9b5e256a1
+:END:
+#+title: Novr Rlrt Aslfhph Hxuayq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Aslfhph Hxuayq
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.91
+- sugar :: 21.09
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.0
+- ratings :: [[id:18cc4e60-9fd4-4dd8-b664-7bf8e2bfd8fb][Novr Rlrt Aslfhph Hxuayq NV - 2012-3-5]]

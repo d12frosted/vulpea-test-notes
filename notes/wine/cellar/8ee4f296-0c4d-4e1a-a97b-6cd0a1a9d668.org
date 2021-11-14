@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8ee4f296-0c4d-4e1a-a97b-6cd0a1a9d668
+:END:
+#+title: Mkmt Cfaq Rym 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Cfaq Rym
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.69
+- sugar :: 17.43
+- price :: 71.41 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.5
+- ratings :: [[id:99e50df0-01be-4b41-97e7-ea884a467497][Mkmt Cfaq Rym NV - 2017-2-1]]

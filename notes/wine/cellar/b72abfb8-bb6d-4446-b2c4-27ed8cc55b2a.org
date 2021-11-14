@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b72abfb8-bb6d-4446-b2c4-27ed8cc55b2a
+:END:
+#+title: Njtzvl Obikh Jvbns 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Obikh Jvbns
+- vintage :: 1976
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.120000000000001
+- sugar :: 2.0
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:c0cdcc8c-1516-4392-982c-a136aa08af58][Njtzvl Obikh Jvbns 1976 - 1992-7-18]]

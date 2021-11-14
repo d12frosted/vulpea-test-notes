@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       47318880-dbf3-4b7c-869b-dde94b6b308a
+:END:
+#+title: Miv Gvrxu Fkiqitsp 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Gvrxu Fkiqitsp
+- vintage :: 1961
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 10.81
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:421763f9-341d-4724-beba-7b2801f3c0e2][Miv Gvrxu Fkiqitsp 1961 - 2011-11-4]]

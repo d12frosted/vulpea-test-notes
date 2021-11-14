@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cf8ab027-3709-4231-92d6-7c49a6c8bf65
+:END:
+#+title: Lzf Hmd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Hmd
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.85
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:184dfabe-48df-4dd8-a405-4e043b138a82][Lzf Hmd NV - 2012-7-14]]

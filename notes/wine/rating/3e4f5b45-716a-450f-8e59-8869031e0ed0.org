@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3e4f5b45-716a-450f-8e59-8869031e0ed0
+:END:
+#+title: Njtzvl Xfgqsetj Qjkcw 2019 - 2023-9-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:1c9820bb-0f02-4e0f-9c84-6f816b9c75e9][Njtzvl Xfgqsetj Qjkcw 2019]]
+- date :: 2023-9-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c22391fa-cb98-49ba-94c6-95bca0863ebb
+:END:
+#+title: Dseajc Jinm Udhh Oojs 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Udhh Oojs
+- vintage :: 1972
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.19
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

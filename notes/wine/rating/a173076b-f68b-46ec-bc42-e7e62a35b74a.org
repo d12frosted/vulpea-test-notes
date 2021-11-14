@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a173076b-f68b-46ec-bc42-e7e62a35b74a
+:END:
+#+title: Dfsxtmx Rlnjoy Dfmqcoa NV - 1997-8-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:15be6f72-e82d-4aff-8a41-b972e0600958][Dfsxtmx Rlnjoy Dfmqcoa]]
+- date :: 1997-8-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

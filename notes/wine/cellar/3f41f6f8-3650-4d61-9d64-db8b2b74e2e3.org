@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3f41f6f8-3650-4d61-9d64-db8b2b74e2e3
+:END:
+#+title: Rue Iqts Slsxh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Iqts Slsxh
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.81
+- sugar :: 14.82
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

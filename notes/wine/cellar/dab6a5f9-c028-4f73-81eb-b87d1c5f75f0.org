@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dab6a5f9-c028-4f73-81eb-b87d1c5f75f0
+:END:
+#+title: Vjjtw Hvrja Baaa 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Baaa
+- vintage :: 1972
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.129999999999999
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

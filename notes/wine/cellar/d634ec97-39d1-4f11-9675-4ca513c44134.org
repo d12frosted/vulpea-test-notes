@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d634ec97-39d1-4f11-9675-4ca513c44134
+:END:
+#+title: Mkmt Owcz 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Owcz
+- vintage :: 1919
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 10.44
+- sugar :: 9.72
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:75847c4f-c98f-4086-b229-b6d67da6f5e6][Mkmt Owcz 1919 - 2005-2-18]]

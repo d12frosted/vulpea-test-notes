@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       68f1216a-6297-4c55-94e3-3feecaf78956
+:END:
+#+title: Mkmt Ajfrmszl Ikyexe 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ajfrmszl Ikyexe
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 10.66
+- price :: 13.18 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: wikipedia
+- rating :: 2.5
+- ratings :: [[id:aaa12286-4305-45db-877b-3000c514c84e][Mkmt Ajfrmszl Ikyexe NV - 2019-5-2]]

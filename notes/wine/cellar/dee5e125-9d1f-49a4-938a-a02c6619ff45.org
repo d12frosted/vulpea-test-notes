@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dee5e125-9d1f-49a4-938a-a02c6619ff45
+:END:
+#+title: Cdeexg Gdclxso 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Gdclxso
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.3
+- price :: 8.91 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

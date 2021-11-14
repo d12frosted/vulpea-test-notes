@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       92865988-ad9b-41c7-b34b-f57b05bb1420
+:END:
+#+title: Mkmt Nafraefi 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Nafraefi
+- vintage :: 1979
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 9.36
+- sugar :: 18.01
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:7e3522bb-9d8a-497a-8164-04a2c250c03a][Mkmt Nafraefi 1979 - 2016-3-7]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5069b031-97c5-4813-bc07-fe7e0a897d53
+:END:
+#+title: Rue Mpciu 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Mpciu
+- vintage :: 1919
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.49
+- sugar :: 6.65
+- price :: 78.95 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

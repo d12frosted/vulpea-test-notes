@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7890f950-4053-489a-b001-36eac2838793
+:END:
+#+title: Vjjtw Hvrja Mupgqnbk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mupgqnbk
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.56
+- sugar :: 6.23
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:bc1bbe20-1d14-4da2-b197-ae5f9b9b0ae1][Vjjtw Hvrja Mupgqnbk NV - 2020-5-1]]

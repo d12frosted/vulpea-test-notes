@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       9aaee768-b75d-44a6-b46a-591fd093f17e
+:END:
+#+title: Rue Lstujsbt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Lstujsbt
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 13.2
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

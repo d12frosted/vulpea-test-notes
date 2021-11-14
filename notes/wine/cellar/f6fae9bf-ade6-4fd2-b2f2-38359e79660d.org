@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f6fae9bf-ade6-4fd2-b2f2-38359e79660d
+:END:
+#+title: Njtzvl Itms Lbmcoy 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Itms Lbmcoy
+- vintage :: 2019
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.71
+- sugar :: 1.62
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bd317cd8-89a1-4fbb-b9bb-2f1c96bfa7b8
+:END:
+#+title: Novr Rlrt Llcufiwh Ole 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Llcufiwh Ole
+- vintage :: 1909
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.29
+- price :: 50.92 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ee7673b6-e0d3-4935-84da-1d78356e5c75
+:END:
+#+title: Dseajc Jinm Gvbvf 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gvbvf
+- vintage :: 1948
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.629999999999999
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:56267d4f-9fab-49fb-8567-d51b354313ca][Dseajc Jinm Gvbvf 1948 - 2018-9-17]]

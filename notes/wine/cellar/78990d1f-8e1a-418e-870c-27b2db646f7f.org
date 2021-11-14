@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       78990d1f-8e1a-418e-870c-27b2db646f7f
+:END:
+#+title: Rue Njfitoq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Njfitoq
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.08
+- price :: 82.31 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

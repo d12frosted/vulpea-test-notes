@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       35be589e-2678-4582-bf83-85f951a02665
+:END:
+#+title: Rue Kla Nkbhs 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kla Nkbhs
+- vintage :: 1984
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 11.93
+- sugar :: 15.73
+- price :: 78.52 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0b42897b-1aaf-45c7-89b1-e3b7be2653ca
+:END:
+#+title: Vjjtw Hvrja Lhv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Lhv
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.379999999999999
+- price :: 50.52 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 2.5
+- ratings :: [[id:d7120922-c73d-4f9d-ae3a-853a2029b58f][Vjjtw Hvrja Lhv NV - 2020-6-11]]

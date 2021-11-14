@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b349b3d7-000b-4c53-93d1-a8bf04e153ee
+:END:
+#+title: Dseajc Jinm Wuqdtfrk 1957
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Wuqdtfrk
+- vintage :: 1957
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.969999999999999
+- price :: 91.20 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:249f3147-ef6a-4393-b354-d06506802070][Dseajc Jinm Wuqdtfrk 1957 - 2006-4-28]]

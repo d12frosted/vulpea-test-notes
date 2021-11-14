@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1ba820b4-2140-454e-9022-43c936c50742
+:END:
+#+title: Dfsxtmx Cdylw Yfhuvn 1991 - 1999-5-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:ef2c458a-520e-4de1-9860-51ce5d4b71ac][Dfsxtmx Cdylw Yfhuvn 1991]]
+- date :: 1999-5-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

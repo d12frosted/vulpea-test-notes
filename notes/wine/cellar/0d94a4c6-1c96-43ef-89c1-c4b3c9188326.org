@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0d94a4c6-1c96-43ef-89c1-c4b3c9188326
+:END:
+#+title: Njtzvl Nrbtf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Nrbtf
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.48
+- sugar :: 11.42
+- price :: 72.47 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

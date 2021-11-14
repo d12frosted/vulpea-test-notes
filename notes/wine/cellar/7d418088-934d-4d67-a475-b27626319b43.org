@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7d418088-934d-4d67-a475-b27626319b43
+:END:
+#+title: Vjjtw Hvrja Elyxpvb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Elyxpvb
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.49
+- sugar :: 9.64
+- price :: 19.89 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

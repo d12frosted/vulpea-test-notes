@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       b4824bed-835d-47a6-bb0f-c854cbfd3cd3
-:END:
-#+title: Pmowc Ydeefop
-#+filetags: :wine:region:
-
-

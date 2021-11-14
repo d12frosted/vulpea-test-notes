@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e2d60704-fbf2-4443-aa44-cf7fbd4644bb
+:END:
+#+title: Dfsxtmx Jdvritaw 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Jdvritaw
+- vintage :: 1977
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.77
+- sugar :: 18.53
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

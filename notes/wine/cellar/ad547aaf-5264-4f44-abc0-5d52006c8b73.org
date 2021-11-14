@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ad547aaf-5264-4f44-abc0-5d52006c8b73
+:END:
+#+title: Novr Rlrt Kimros 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Kimros
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.059999999999999
+- price :: 84.41 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.5
+- ratings :: [[id:22359f08-2633-4f0b-9576-fdb4a1cdc04f][Novr Rlrt Kimros NV - 1991-8-3]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bcd79e86-d95c-4114-8273-963d01e7d071
+:END:
+#+title: Vjjtw Hvrja Xixjfbd Caymztj NV - 1993-8-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:f696d271-77ea-4476-9852-dec8dcbf894f][Vjjtw Hvrja Xixjfbd Caymztj]]
+- date :: 1993-8-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

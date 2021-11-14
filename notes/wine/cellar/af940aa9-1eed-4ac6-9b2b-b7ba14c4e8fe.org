@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       af940aa9-1eed-4ac6-9b2b-b7ba14c4e8fe
+:END:
+#+title: Cdeexg Herujy 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Herujy
+- vintage :: 1939
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.77
+- sugar :: 4.64
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:fdc7ea55-5927-4fe9-accd-bae73ec802c8][Cdeexg Herujy 1939 - 2007-8-2]]

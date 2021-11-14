@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       824b08ed-75b1-4d90-8668-3508db2ce884
+:END:
+#+title: Miv Ovwqv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ovwqv
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.19
+- price :: 77.28 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

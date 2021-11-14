@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6cd96f23-fa60-4e3f-9cf0-f3966a750291
+:END:
+#+title: Njtzvl Msyxtof Ygnlmu NV - 2000-6-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:8765c4bb-00a1-44f0-bf33-a7ceffae9512][Njtzvl Msyxtof Ygnlmu]]
+- date :: 2000-6-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

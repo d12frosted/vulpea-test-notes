@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f4bed214-8d00-4a69-8640-cb6ba4a9550f
+:END:
+#+title: Dseajc Jinm Rndkb 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rndkb
+- vintage :: 1959
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 13.49
+- price :: 42.62 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a2c65dc2-4b19-4d16-87ba-8cb17aaf4199
+:END:
+#+title: Miv Jvug Frvclsan NV - 1999-11-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:977316f6-7ef2-4806-9e71-9f35af1574a1][Miv Jvug Frvclsan]]
+- date :: 1999-11-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3edb5151-101f-4402-9786-04bc90b59245
+:END:
+#+title: Dseajc Jinm Junp 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Junp
+- vintage :: 1911
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.29
+- sugar :: 3.12
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       c68c0d9e-54d2-4295-9108-2c1706bbfb2c
+:END:
+#+title: Novr Rlrt Doninuv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Doninuv
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.34
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 8.0
+- ratings :: [[id:c60eb73f-2e96-48cc-b0c1-b1e377e80861][Novr Rlrt Doninuv NV - 1995-11-13]]

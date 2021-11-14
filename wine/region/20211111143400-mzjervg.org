@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       50278f28-f2c5-43f4-b661-0467fe293d49
-:END:
-#+title: Mzjervg
-#+filetags: :wine:region:
-
-

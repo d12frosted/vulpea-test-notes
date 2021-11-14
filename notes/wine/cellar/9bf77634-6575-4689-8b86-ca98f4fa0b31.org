@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9bf77634-6575-4689-8b86-ca98f4fa0b31
+:END:
+#+title: Cdeexg Ieuwug Wprvgavi 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ieuwug Wprvgavi
+- vintage :: 2018
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.79
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:89bc5db5-bf80-4c4f-a83d-8190f04c21ae][Cdeexg Ieuwug Wprvgavi 2018 - 2012-12-9]]

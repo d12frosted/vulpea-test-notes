@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       75eb81d2-40d1-4bda-b946-2467bf3c4cc9
+:END:
+#+title: Dfsxtmx Vxk Vesyd 1956
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vxk Vesyd
+- vintage :: 1956
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.53
+- sugar :: 23.3
+- price :: 90.38 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: duckduckgo
+- rating :: NA

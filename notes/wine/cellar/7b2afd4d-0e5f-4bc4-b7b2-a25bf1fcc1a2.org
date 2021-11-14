@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       7b2afd4d-0e5f-4bc4-b7b2-a25bf1fcc1a2
+:END:
+#+title: Rue Tzla Ddpyz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Tzla Ddpyz
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 11.81
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

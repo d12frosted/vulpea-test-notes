@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2a9c5fa9-3bb1-4b25-a39d-53a614b1b753
+:END:
+#+title: Mkmt Qnckzdsw 1926 - 2001-9-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:c8d21407-9038-4e93-aab7-f5c88dc9caef][Mkmt Qnckzdsw 1926]]
+- date :: 2001-9-17
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

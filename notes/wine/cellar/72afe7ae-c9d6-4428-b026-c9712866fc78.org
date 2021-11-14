@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       72afe7ae-c9d6-4428-b026-c9712866fc78
+:END:
+#+title: Miv Yauu 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Yauu
+- vintage :: 1954
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.77
+- sugar :: 20.72
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

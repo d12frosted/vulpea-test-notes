@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       56080b94-46ca-4718-acc7-b18f0dc1bffb
+:END:
+#+title: Miv Fufs Lpc 2005 - 2005-7-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:f7940142-5a50-46e0-ab40-846fef1f2f96][Miv Fufs Lpc 2005]]
+- date :: 2005-7-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

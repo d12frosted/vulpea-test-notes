@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       40617049-2db3-46b9-af4d-a3408d6fcaab
+:END:
+#+title: Vjjtw Hvrja Huwvsh 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Huwvsh
+- vintage :: 2005
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.54
+- price :: 65.58 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:b5bfbf41-605d-48f4-96b6-2d62781a2e93][Vjjtw Hvrja Huwvsh 2005 - 2014-9-1]]

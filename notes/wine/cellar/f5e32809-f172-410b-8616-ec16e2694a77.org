@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f5e32809-f172-410b-8616-ec16e2694a77
+:END:
+#+title: Njtzvl Zdgujsci 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zdgujsci
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.280000000000001
+- price :: 88.44 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.0
+- ratings :: [[id:f93cb470-a0fc-41ef-b342-8b7c502bff3b][Njtzvl Zdgujsci NV - 2018-8-6]]

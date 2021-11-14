@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c8262502-c6b5-4baa-8517-5a8e0dc5b548
+:END:
+#+title: Mkmt Gshjavy Nrr 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Gshjavy Nrr
+- vintage :: 1978
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.4
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

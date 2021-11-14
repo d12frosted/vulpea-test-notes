@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       92d53456-a9d1-4d93-85ac-23d916d71dad
+:END:
+#+title: Rue Fbkqb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Fbkqb
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.04
+- sugar :: 18.06
+- price :: 45.90 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:945bc4d7-ac87-465b-b96a-7e93311f5828][Rue Fbkqb NV - 2020-12-4]]

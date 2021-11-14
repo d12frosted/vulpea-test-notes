@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       be55ceb5-2f8a-4fbb-8cc0-b6aceac87f1f
+:END:
+#+title: Dfsxtmx Wcepmt Wgdxzk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Wcepmt Wgdxzk
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.55
+- sugar :: 6.49
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

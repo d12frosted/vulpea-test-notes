@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6f6acaf1-d17d-40ea-8e3d-28d70472642c
+:END:
+#+title: Rue Ogjli 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ogjli
+- vintage :: 1908
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.030000000000001
+- sugar :: 14.63
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

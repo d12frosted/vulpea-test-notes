@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       91baffed-1824-4819-a6c0-5472a363fea0
+:END:
+#+title: Cdeexg Amkrojk Ueeo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Amkrojk Ueeo
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.64
+- sugar :: 3.5
+- price :: 4.50 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

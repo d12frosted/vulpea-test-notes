@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       be0ba7ff-57b9-4f2f-87b0-0c79f20644bb
+:END:
+#+title: Vjjtw Hvrja Nnkcqw Pywufy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Nnkcqw Pywufy
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 9.12
+- sugar :: 1.32
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

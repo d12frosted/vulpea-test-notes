@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e7eca11f-97c0-4cf6-937e-83fc94245eda
+:END:
+#+title: Novr Rlrt Hvjwukjs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hvjwukjs
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 11.24
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:462cc4a9-e36e-40dc-9a18-b3adb8dea891][Novr Rlrt Hvjwukjs NV - 1998-5-15]]

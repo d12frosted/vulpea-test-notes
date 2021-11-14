@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       99297aa7-a8b9-40af-9d5f-e4b1d5fdd2ca
+:END:
+#+title: Dseajc Jinm Xtymvlt Ighxscxh NV - 1993-5-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:5c758d76-1b01-4b69-a210-d440a533a8ea][Dseajc Jinm Xtymvlt Ighxscxh]]
+- date :: 1993-5-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

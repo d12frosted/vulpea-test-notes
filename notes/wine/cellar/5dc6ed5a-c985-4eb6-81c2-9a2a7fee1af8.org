@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5dc6ed5a-c985-4eb6-81c2-9a2a7fee1af8
+:END:
+#+title: Rue Ljhqph Suqmp 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ljhqph Suqmp
+- vintage :: 1913
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.96
+- sugar :: 19.93
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

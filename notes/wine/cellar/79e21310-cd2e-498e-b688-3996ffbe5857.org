@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       79e21310-cd2e-498e-b688-3996ffbe5857
+:END:
+#+title: Rue Tqwpto Lluzaudq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Tqwpto Lluzaudq
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.85
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

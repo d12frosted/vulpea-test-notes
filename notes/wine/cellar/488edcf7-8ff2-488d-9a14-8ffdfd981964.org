@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       488edcf7-8ff2-488d-9a14-8ffdfd981964
+:END:
+#+title: Vjjtw Hvrja Ywnruu 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ywnruu
+- vintage :: 1903
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.25
+- sugar :: 4.92
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

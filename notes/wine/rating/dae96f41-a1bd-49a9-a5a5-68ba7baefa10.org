@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dae96f41-a1bd-49a9-a5a5-68ba7baefa10
+:END:
+#+title: Lzf Btqnrp Zmgkryy 2018 - 1994-3-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:45898184-f3fa-4e93-9d4d-bd661a00a77b][Lzf Btqnrp Zmgkryy 2018]]
+- date :: 1994-3-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

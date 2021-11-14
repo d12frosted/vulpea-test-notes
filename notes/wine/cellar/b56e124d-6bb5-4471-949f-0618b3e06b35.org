@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b56e124d-6bb5-4471-949f-0618b3e06b35
+:END:
+#+title: Novr Rlrt Drvvxdnm 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Drvvxdnm
+- vintage :: 1959
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.42
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 2.5
+- ratings :: [[id:b76b017d-b854-466f-bfc2-7314449df332][Novr Rlrt Drvvxdnm 1959 - 2012-1-14]]

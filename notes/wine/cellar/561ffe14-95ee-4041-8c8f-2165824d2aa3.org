@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       561ffe14-95ee-4041-8c8f-2165824d2aa3
+:END:
+#+title: Vjjtw Hvrja Biw Knz 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Biw Knz
+- vintage :: 1935
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.34
+- price :: 19.38 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

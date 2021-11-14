@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9bdd90cd-df77-48ce-aab0-7171e93aaf21
+:END:
+#+title: Dseajc Jinm Ckdachr 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ckdachr
+- vintage :: 2018
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 12.33
+- sugar :: 14.65
+- price :: 38.92 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

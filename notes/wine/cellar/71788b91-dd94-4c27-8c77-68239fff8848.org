@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       71788b91-dd94-4c27-8c77-68239fff8848
+:END:
+#+title: Vjjtw Hvrja Mbdjz Lkck 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mbdjz Lkck
+- vintage :: 1918
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.870000000000001
+- sugar :: 14.55
+- price :: 8.66 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

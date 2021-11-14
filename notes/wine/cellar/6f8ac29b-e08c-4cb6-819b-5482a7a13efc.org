@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6f8ac29b-e08c-4cb6-819b-5482a7a13efc
+:END:
+#+title: Lzf Yiojwgw Ptsetji 1981
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Yiojwgw Ptsetji
+- vintage :: 1981
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.129999999999999
+- sugar :: 8.87
+- price :: 86.59 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

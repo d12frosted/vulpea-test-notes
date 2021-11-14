@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d1cd613a-e63a-47ee-b3ef-44ed29def2c1
+:END:
+#+title: Miv Npevmtn 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Npevmtn
+- vintage :: 1935
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.02
+- sugar :: 2.02
+- price :: 99.86 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

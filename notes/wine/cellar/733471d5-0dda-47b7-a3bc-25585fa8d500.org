@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       733471d5-0dda-47b7-a3bc-25585fa8d500
+:END:
+#+title: Dfsxtmx Pxxn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pxxn
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.83
+- price :: 85.88 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

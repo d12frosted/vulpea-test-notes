@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       43fce848-7f90-458c-94c6-da7ca79b56ab
+:END:
+#+title: Vjjtw Hvrja Deb Nueis 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Deb Nueis
+- vintage :: 1923
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.87
+- price :: 8.88 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

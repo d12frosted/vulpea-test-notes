@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d259166f-e466-452e-912b-d69c97142711
+:END:
+#+title: Novr Rlrt Fjennjss Ozhu 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Fjennjss Ozhu
+- vintage :: 1939
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.66
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

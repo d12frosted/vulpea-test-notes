@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6b939605-4522-4ffc-9f88-d61ec4312e1a
+:END:
+#+title: Miv Kgqmackr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Kgqmackr
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.07
+- price :: 9.37 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:69a19455-d9eb-4693-bb62-2d479ef87faf][Miv Kgqmackr NV - 1998-6-21]]

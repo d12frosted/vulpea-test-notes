@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aa7de550-2f2b-419a-8e8d-0cbf26f45278
+:END:
+#+title: Novr Rlrt Ecomejo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ecomejo
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.19
+- sugar :: 18.72
+- price :: 95.26 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:931b880e-86bc-46e3-9eb4-c5278fbfd1c5][Novr Rlrt Ecomejo NV - 2013-8-22]]

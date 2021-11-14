@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       38bd04c4-0da6-4ddb-b1e2-85554d8e4612
+:END:
+#+title: Dseajc Jinm Aznqe Igpn NV - 2022-5-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:aba396cd-3100-4b5f-bb4c-3f0b7c20e685][Dseajc Jinm Aznqe Igpn]]
+- date :: 2022-5-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

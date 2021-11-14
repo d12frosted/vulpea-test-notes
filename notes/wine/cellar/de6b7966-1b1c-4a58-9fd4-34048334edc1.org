@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       de6b7966-1b1c-4a58-9fd4-34048334edc1
+:END:
+#+title: Miv Pume Khegn 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Pume Khegn
+- vintage :: 2013
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.0
+- sugar :: 18.92
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 4.0
+- ratings :: [[id:b9b4864c-88c6-461f-a2ee-150bd4dd85da][Miv Pume Khegn 2013 - 2007-2-16]]

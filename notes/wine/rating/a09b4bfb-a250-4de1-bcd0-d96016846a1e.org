@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a09b4bfb-a250-4de1-bcd0-d96016846a1e
+:END:
+#+title: Dfsxtmx Knhs Ydqccp 1934 - 2018-3-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:4527b080-3510-4d75-8469-98999d28ae90][Dfsxtmx Knhs Ydqccp 1934]]
+- date :: 2018-3-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

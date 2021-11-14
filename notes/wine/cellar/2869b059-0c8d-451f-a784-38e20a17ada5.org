@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2869b059-0c8d-451f-a784-38e20a17ada5
+:END:
+#+title: Dseajc Jinm Chgpbjmq 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Chgpbjmq
+- vintage :: 1960
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 11.870000000000001
+- price :: 69.19 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ab8984f0-9cb8-4ddf-ba8b-da3af8d890f1
+:END:
+#+title: Miv Yfb NV - 2024-2-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:4992cc4a-a0b2-4d5d-b72d-d1d0962fa353][Miv Yfb]]
+- date :: 2024-2-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       06492206-f24b-401b-b4d3-972c7527a894
+:END:
+#+title: Dfsxtmx Mipneah Vgzhcr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mipneah Vgzhcr
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.379999999999999
+- sugar :: 1.19
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 7.0
+- ratings :: [[id:1a89bf36-d27a-4bdf-8752-05e1a9474ec1][Dfsxtmx Mipneah Vgzhcr NV - 2022-6-17]]

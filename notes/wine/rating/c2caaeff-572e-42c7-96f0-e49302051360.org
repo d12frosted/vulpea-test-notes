@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c2caaeff-572e-42c7-96f0-e49302051360
+:END:
+#+title: Miv Czp Ebe NV - 2022-5-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:91707fc3-7883-4a96-b78a-c1ba18b06028][Miv Czp Ebe]]
+- date :: 2022-5-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

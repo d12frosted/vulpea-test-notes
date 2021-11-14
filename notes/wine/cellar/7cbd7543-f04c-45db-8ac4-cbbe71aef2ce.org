@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7cbd7543-f04c-45db-8ac4-cbbe71aef2ce
+:END:
+#+title: Mkmt Ppalpwc 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ppalpwc
+- vintage :: 1900
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.17
+- price :: 83.79 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:65988cc1-310b-40f0-99f1-926a9dea25ff][Mkmt Ppalpwc 1900 - 1991-6-6]]

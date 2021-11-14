@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3a823fc2-0e01-4773-8be6-d67872ffbbba
+:END:
+#+title: Novr Rlrt Cepxdjgl 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Cepxdjgl
+- vintage :: 1908
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.99
+- sugar :: 14.79
+- price :: 74.37 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

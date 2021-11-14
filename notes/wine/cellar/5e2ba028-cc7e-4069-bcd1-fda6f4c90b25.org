@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5e2ba028-cc7e-4069-bcd1-fda6f4c90b25
+:END:
+#+title: Miv Rgkifnfv 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rgkifnfv
+- vintage :: 1908
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.56
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

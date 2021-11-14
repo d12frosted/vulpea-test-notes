@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ae987cb8-c44c-43f5-8fe0-3ef09c58db6e
+:END:
+#+title: Miv Suruceqg Geebsux 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Suruceqg Geebsux
+- vintage :: 1921
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.65
+- sugar :: 0.49
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

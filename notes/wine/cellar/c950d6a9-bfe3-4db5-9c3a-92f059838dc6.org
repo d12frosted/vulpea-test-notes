@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c950d6a9-bfe3-4db5-9c3a-92f059838dc6
+:END:
+#+title: Dseajc Jinm Irp Ndmj 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Irp Ndmj
+- vintage :: 1953
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.8
+- sugar :: 3.52
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

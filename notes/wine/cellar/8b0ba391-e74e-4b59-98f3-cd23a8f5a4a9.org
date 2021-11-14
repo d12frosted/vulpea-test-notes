@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8b0ba391-e74e-4b59-98f3-cd23a8f5a4a9
+:END:
+#+title: Rue Nnw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Nnw
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.59
+- price :: 23.48 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

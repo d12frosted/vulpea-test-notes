@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a6faa89c-9ee1-4a8d-9a1e-9538c4abbd9e
+:END:
+#+title: Rue Qdw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Qdw
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.05
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

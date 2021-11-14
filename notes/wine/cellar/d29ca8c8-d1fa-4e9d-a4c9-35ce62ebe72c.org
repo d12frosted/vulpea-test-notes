@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d29ca8c8-d1fa-4e9d-a4c9-35ce62ebe72c
+:END:
+#+title: Rue Dvpgz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Dvpgz
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.18
+- price :: 71.78 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:5178b905-eb85-429d-bacb-eabd53300bc8][Rue Dvpgz NV - 1998-9-22]]

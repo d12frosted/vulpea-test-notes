@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       95422382-cbec-4ce2-b3fd-e676825722e4
+:END:
+#+title: Cdeexg Kzrwobo 1976 - 2017-6-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:21c7d8dc-1e65-4561-8917-4242ca331a58][Cdeexg Kzrwobo 1976]]
+- date :: 2017-6-21
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f3134dc4-2b72-44dd-a8c0-ad05578f870f
+:END:
+#+title: Miv Beodoh Zne 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Beodoh Zne
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.86
+- price :: 7.91 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

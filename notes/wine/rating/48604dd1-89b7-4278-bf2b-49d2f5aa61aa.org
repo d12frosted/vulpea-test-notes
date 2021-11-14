@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       48604dd1-89b7-4278-bf2b-49d2f5aa61aa
+:END:
+#+title: Rue Ubcouxz 2008 - 2024-11-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:b04cbd4e-1c7e-44e4-bc84-bb6168a60c74][Rue Ubcouxz 2008]]
+- date :: 2024-11-19
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

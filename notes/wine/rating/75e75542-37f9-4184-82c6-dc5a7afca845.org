@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       75e75542-37f9-4184-82c6-dc5a7afca845
+:END:
+#+title: Dfsxtmx Wnswum Kdanegqo NV - 2007-6-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:c343aa16-a9c0-4811-b1fd-1d5b3302609b][Dfsxtmx Wnswum Kdanegqo]]
+- date :: 2007-6-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

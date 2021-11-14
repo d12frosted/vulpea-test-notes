@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       94c5e2fa-a969-4984-ba79-256c0fa0a3e9
+:END:
+#+title: Dseajc Jinm Uopkoua 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Uopkoua
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.870000000000001
+- sugar :: 10.6
+- price :: 65.46 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

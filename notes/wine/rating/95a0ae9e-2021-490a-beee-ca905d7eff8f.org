@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       95a0ae9e-2021-490a-beee-ca905d7eff8f
+:END:
+#+title: Dfsxtmx Hnhb Hurz NV - 2012-5-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:8b08ce5c-ff3a-4660-973a-a71440a03593][Dfsxtmx Hnhb Hurz]]
+- date :: 2012-5-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

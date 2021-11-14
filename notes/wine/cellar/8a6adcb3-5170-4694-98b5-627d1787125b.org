@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8a6adcb3-5170-4694-98b5-627d1787125b
+:END:
+#+title: Miv Avcvlot 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Avcvlot
+- vintage :: 2003
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.31
+- sugar :: 21.95
+- price :: 60.64 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:0bc3dd85-54d4-44fa-b72e-48b77924e465][Miv Avcvlot 2003 - 1996-2-10]]

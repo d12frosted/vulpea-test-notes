@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2e52b707-aaca-44fa-b1f3-9c453c9e2917
+:END:
+#+title: Mkmt Zypj Vxtbw 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zypj Vxtbw
+- vintage :: 1904
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.3
+- price :: 27.06 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

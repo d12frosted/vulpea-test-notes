@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7c6dc32d-27f7-4b7b-82d4-0bd520789ef9
+:END:
+#+title: Rue Fsjkfye Wlen 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Fsjkfye Wlen
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.41
+- price :: 96.88 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.0
+- ratings :: [[id:5f99ecc7-644a-4990-aa9c-b53dbb451905][Rue Fsjkfye Wlen NV - 1993-3-2]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ee363ec8-18df-469a-927a-e677595385ba
+:END:
+#+title: Lzf Gdethgz Aqnu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Gdethgz Aqnu
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.26
+- sugar :: 6.67
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

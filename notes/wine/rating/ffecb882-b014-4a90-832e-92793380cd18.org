@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ffecb882-b014-4a90-832e-92793380cd18
+:END:
+#+title: Njtzvl Pbql NV - 2010-10-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:8ecf4e43-64d7-473c-bf66-caa88d4a575b][Njtzvl Pbql]]
+- date :: 2010-10-17
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

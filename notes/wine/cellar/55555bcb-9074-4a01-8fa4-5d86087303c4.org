@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       55555bcb-9074-4a01-8fa4-5d86087303c4
+:END:
+#+title: Cdeexg Zrsu 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Zrsu
+- vintage :: 1925
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.51
+- price :: 30.94 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

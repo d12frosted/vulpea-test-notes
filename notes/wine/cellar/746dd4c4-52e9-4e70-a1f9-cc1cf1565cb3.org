@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       746dd4c4-52e9-4e70-a1f9-cc1cf1565cb3
+:END:
+#+title: Vjjtw Hvrja Plpbuw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Plpbuw
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.32
+- sugar :: 23.74
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 8.5
+- ratings :: [[id:70bd1472-56a2-4d61-9803-526b9f19f99c][Vjjtw Hvrja Plpbuw NV - 1999-8-10]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       42904af1-c4b4-446a-8203-d0a3aa4554ea
+:END:
+#+title: Novr Rlrt Cvyvfu Zlreh NV - 1990-11-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:dd906b48-aa1d-42c5-8419-fe39cd726865][Novr Rlrt Cvyvfu Zlreh]]
+- date :: 1990-11-28
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

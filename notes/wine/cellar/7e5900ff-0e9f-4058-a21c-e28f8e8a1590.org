@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       7e5900ff-0e9f-4058-a21c-e28f8e8a1590
+:END:
+#+title: Rue Hgjzz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hgjzz
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.84
+- sugar :: 19.3
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

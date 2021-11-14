@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f3d297d2-f8c2-4022-8b67-0d10ae9bb879
+:END:
+#+title: Rue Tsovps Nonfbxw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Tsovps Nonfbxw
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.01
+- price :: 102.73 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.5
+- ratings :: [[id:32c03d88-dcf6-4241-916c-363747c9cffe][Rue Tsovps Nonfbxw NV - 2018-6-1]]

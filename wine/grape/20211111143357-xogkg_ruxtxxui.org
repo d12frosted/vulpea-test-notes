@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       f1b86869-96ef-43d4-b197-ca3d209b2a3b
-:END:
-#+title: Xogkg Ruxtxxui
-#+filetags: :wine:grape:
-
-

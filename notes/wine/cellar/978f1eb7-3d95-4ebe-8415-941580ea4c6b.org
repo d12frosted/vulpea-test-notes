@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       978f1eb7-3d95-4ebe-8415-941580ea4c6b
+:END:
+#+title: Dfsxtmx Cjkgby 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Cjkgby
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.36
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

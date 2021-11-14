@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       acd4b50a-1ce3-4496-b0a4-947f9078f4e6
+:END:
+#+title: Dfsxtmx Vqmy Juc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Vqmy Juc
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.98
+- price :: 50.41 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:b312510c-abbc-4329-9e37-f96c1437d982][Dfsxtmx Vqmy Juc NV - 1992-10-1]]

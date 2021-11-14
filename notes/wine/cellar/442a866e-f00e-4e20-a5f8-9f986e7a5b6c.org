@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       442a866e-f00e-4e20-a5f8-9f986e7a5b6c
+:END:
+#+title: Lzf Ppdip 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ppdip
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.42
+- sugar :: 1.48
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:42517198-c502-4f03-9864-198d557d355e][Lzf Ppdip NV - 1997-8-15]]

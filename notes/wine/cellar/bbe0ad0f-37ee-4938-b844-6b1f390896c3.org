@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bbe0ad0f-37ee-4938-b844-6b1f390896c3
+:END:
+#+title: Lzf Efzq Tqubywvj 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Efzq Tqubywvj
+- vintage :: 1945
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.82
+- sugar :: 23.89
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.5
+- ratings :: [[id:2eca5369-2e16-45a9-a465-3bb63d5229e5][Lzf Efzq Tqubywvj 1945 - 2008-6-25]]

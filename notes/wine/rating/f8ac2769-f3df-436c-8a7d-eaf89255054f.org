@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f8ac2769-f3df-436c-8a7d-eaf89255054f
+:END:
+#+title: Miv Cqrtzauj Cbpl 2020 - 1998-1-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:5571fa42-0a58-4792-92ac-4a10d9da9721][Miv Cqrtzauj Cbpl 2020]]
+- date :: 1998-1-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

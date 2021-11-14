@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       209c7892-21b5-4d0e-a63d-268d63718d67
+:END:
+#+title: Njtzvl Uekx Aimnbaar 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Uekx Aimnbaar
+- vintage :: 1974
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.78
+- sugar :: 16.78
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

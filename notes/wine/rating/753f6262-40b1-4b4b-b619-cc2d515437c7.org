@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       753f6262-40b1-4b4b-b619-cc2d515437c7
+:END:
+#+title: Rue Zvjwmtwk Wufvhom NV - 2001-4-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:e5f0e3be-d40d-4d99-b49b-65be19d8ef42][Rue Zvjwmtwk Wufvhom]]
+- date :: 2001-4-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

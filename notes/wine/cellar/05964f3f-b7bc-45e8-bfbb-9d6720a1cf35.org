@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       05964f3f-b7bc-45e8-bfbb-9d6720a1cf35
+:END:
+#+title: Mkmt Mlr Smsk 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Mlr Smsk
+- vintage :: 1928
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.57
+- sugar :: 3.0
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.5
+- ratings :: [[id:9dd4c2ce-b83f-4442-b164-3bf7b07e97c1][Mkmt Mlr Smsk 1928 - 1997-10-15]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0b20e529-c200-4edf-837f-7ac6eb4f2447
+:END:
+#+title: Miv Ottw Zksv 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ottw Zksv
+- vintage :: 2002
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.69
+- price :: 54.72 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:50021ec4-ae55-4540-ba2f-6354a59a1f96][Miv Ottw Zksv 2002 - 1995-10-28]]

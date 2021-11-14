@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1a6f4e71-557d-4263-9f92-4f75b0d70eae
+:END:
+#+title: Rue Ncxvi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ncxvi
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.16
+- sugar :: 0.77
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:86c8e202-e9cf-44f7-9516-f79d57ee21e6][Rue Ncxvi NV - 2008-10-8]]

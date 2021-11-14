@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       12496f25-5c83-4b2b-ab00-1a54cc5ac058
+:END:
+#+title: Dseajc Jinm Eblsx Bstxngee NV - 2024-6-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:849ff33d-08d5-40cc-a428-19e8f31dc340][Dseajc Jinm Eblsx Bstxngee]]
+- date :: 2024-6-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

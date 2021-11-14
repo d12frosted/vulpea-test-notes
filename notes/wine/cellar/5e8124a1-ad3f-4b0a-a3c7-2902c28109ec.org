@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5e8124a1-ad3f-4b0a-a3c7-2902c28109ec
+:END:
+#+title: Cdeexg Nlkn Nncwozvr 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Nlkn Nncwozvr
+- vintage :: 1983
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.78
+- sugar :: 17.87
+- price :: 6.85 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:88c7d0a6-d426-48da-a409-2591324359d5][Cdeexg Nlkn Nncwozvr 1983 - 2013-1-4]]

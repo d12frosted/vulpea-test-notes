@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cc418b9c-627c-4f4e-b147-a52fe0f614fd
+:END:
+#+title: Njtzvl Yagvuufy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Yagvuufy
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.48
+- price :: 96.35 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

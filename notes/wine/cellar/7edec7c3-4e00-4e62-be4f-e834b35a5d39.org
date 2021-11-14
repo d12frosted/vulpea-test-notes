@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7edec7c3-4e00-4e62-be4f-e834b35a5d39
+:END:
+#+title: Vjjtw Hvrja Sahgqk Cgcqlo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Sahgqk Cgcqlo
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.5
+- price :: 37.87 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.5
+- ratings :: [[id:85a213f2-35f2-4fdc-ae45-f62fb04e268f][Vjjtw Hvrja Sahgqk Cgcqlo NV - 2020-4-20]]

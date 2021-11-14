@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       12d8ed1b-4378-4c02-a63f-85c99d3f4500
+:END:
+#+title: Njtzvl Usk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Usk
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 12.71
+- sugar :: 5.93
+- price :: 78.02 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

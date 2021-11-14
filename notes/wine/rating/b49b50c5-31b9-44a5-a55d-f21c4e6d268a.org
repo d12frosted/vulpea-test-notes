@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b49b50c5-31b9-44a5-a55d-f21c4e6d268a
+:END:
+#+title: Rue Xokyfkrf Luheeze NV - 1992-6-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:f4e441ec-3a1a-4a4c-ad6d-d0ea976ffc4d][Rue Xokyfkrf Luheeze]]
+- date :: 1992-6-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

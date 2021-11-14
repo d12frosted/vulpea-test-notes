@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       11e2b71b-48a3-468d-ab1e-5383aa7f62a6
+:END:
+#+title: Lzf Neus Ehmquwp NV - 2022-11-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:7a8fbb23-838a-4ecb-9f2f-a9a1c0f13a2f][Lzf Neus Ehmquwp]]
+- date :: 2022-11-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

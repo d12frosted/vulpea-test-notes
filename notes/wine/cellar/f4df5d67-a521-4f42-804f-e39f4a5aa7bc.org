@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f4df5d67-a521-4f42-804f-e39f4a5aa7bc
+:END:
+#+title: Novr Rlrt Gnvlo 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Gnvlo
+- vintage :: 2014
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.76
+- sugar :: 9.72
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

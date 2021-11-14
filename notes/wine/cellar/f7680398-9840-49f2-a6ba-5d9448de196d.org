@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f7680398-9840-49f2-a6ba-5d9448de196d
+:END:
+#+title: Lzf Uetlq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Uetlq
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.06
+- sugar :: 6.36
+- price :: 56.37 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.0
+- ratings :: [[id:12202f18-f583-40e9-9adb-275eeec8ce99][Lzf Uetlq NV - 2020-10-23]]

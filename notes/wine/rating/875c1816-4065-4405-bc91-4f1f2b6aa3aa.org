@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       875c1816-4065-4405-bc91-4f1f2b6aa3aa
+:END:
+#+title: Miv Ubygqn Mcl NV - 2016-11-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:a8d068aa-7959-4740-acaa-29f27e15ba06][Miv Ubygqn Mcl]]
+- date :: 2016-11-8
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

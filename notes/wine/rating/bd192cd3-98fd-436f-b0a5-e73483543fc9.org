@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bd192cd3-98fd-436f-b0a5-e73483543fc9
+:END:
+#+title: Miv Xdkcrbwx Hlrko 2016 - 1998-4-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:a8aa1385-8cf2-41f1-a8ef-c61ddebb6bda][Miv Xdkcrbwx Hlrko 2016]]
+- date :: 1998-4-10
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

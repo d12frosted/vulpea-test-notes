@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       df8fb6c4-1295-408c-ae7e-6c12bee3912e
+:END:
+#+title: Rue Fpg NV - 1991-11-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:9768357e-38a3-4aff-9acf-e354495ed3b3][Rue Fpg]]
+- date :: 1991-11-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

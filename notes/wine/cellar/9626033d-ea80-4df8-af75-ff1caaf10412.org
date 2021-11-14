@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9626033d-ea80-4df8-af75-ff1caaf10412
+:END:
+#+title: Njtzvl Cap Mmrl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Cap Mmrl
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.22
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bd90899d-8722-4342-929d-d35db1214155
+:END:
+#+title: Dfsxtmx Oev 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Oev
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.21
+- sugar :: 6.97
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:7db30c87-cab1-48dc-bd86-4c9668630721][Dfsxtmx Oev NV - 2013-12-8]]

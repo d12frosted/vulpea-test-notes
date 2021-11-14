@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       633e2cf7-2e00-4489-8cfa-0bf30220bdd7
+:END:
+#+title: Mkmt Kiptsbz Yrrwbi 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Kiptsbz Yrrwbi
+- vintage :: 1970
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.34
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

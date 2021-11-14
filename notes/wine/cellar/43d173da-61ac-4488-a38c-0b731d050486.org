@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       43d173da-61ac-4488-a38c-0b731d050486
+:END:
+#+title: Dseajc Jinm Etjwgoml Qnugy 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Etjwgoml Qnugy
+- vintage :: 1958
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.84
+- sugar :: 10.81
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

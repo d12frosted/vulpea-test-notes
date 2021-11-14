@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       cc123d1a-5cb1-4526-843e-68ea90191343
+:END:
+#+title: Dfsxtmx Btbfozgp Fchspvc 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Btbfozgp Fchspvc
+- vintage :: 1968
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.32
+- sugar :: 19.72
+- price :: 19.07 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:196aafd9-e5f3-4d2b-8574-9e6b8addc7f8][Dfsxtmx Btbfozgp Fchspvc 1968 - 2007-2-24]]

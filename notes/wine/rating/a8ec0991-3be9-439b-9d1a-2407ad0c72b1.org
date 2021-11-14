@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a8ec0991-3be9-439b-9d1a-2407ad0c72b1
+:END:
+#+title: Dfsxtmx Nfdzpkvp 2018 - 2011-1-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:c6cc08ec-8437-40bc-9de5-2b26b4f83c30][Dfsxtmx Nfdzpkvp 2018]]
+- date :: 2011-1-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

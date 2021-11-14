@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       741e6caa-3972-4c11-8b88-a2fb859ff90f
+:END:
+#+title: Cdeexg Ozkv Ymuvm 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ozkv Ymuvm
+- vintage :: 2010
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.22
+- price :: 98.28 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       51d6b289-77bd-4ae4-8d60-2f1ccc2bfadc
+:END:
+#+title: Mkmt Zaghrqsa Spgek 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zaghrqsa Spgek
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.97
+- sugar :: 4.22
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.0
+- ratings :: [[id:f8504092-2f33-48f7-bea5-c82e7ad796af][Mkmt Zaghrqsa Spgek NV - 2001-12-22]]

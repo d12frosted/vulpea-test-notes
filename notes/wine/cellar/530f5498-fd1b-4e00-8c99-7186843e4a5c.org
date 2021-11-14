@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       530f5498-fd1b-4e00-8c99-7186843e4a5c
+:END:
+#+title: Dseajc Jinm Lxqfi 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lxqfi
+- vintage :: 1931
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.89
+- sugar :: 18.93
+- price :: 25.65 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       a8bf83ce-1096-442b-80b5-a257becf3bd7
+:END:
+#+title: Dseajc Jinm Jkxn 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jkxn
+- vintage :: 1925
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.69
+- sugar :: 15.16
+- price :: 20.05 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:e9d95620-0910-4f35-a012-b51863a0f19f][Dseajc Jinm Jkxn 1925 - 2000-9-4]]

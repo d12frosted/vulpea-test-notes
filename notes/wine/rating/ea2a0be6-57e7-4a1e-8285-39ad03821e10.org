@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ea2a0be6-57e7-4a1e-8285-39ad03821e10
+:END:
+#+title: Vjjtw Hvrja Ontmf 1952 - 1990-2-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:ef2d6fc5-6f62-4f12-b9c8-1c0e6e848f80][Vjjtw Hvrja Ontmf 1952]]
+- date :: 1990-2-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

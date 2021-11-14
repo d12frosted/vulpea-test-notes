@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f8089541-07f6-4da1-92d9-d2e87e87e9d5
+:END:
+#+title: Novr Rlrt Qbw Utnqwzry NV - 2006-9-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:6bebfcab-13b7-4089-ac9e-41f7b7822300][Novr Rlrt Qbw Utnqwzry]]
+- date :: 2006-9-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 2
+- score_max :: 20
+- total :: 1.0

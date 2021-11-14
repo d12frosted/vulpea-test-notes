@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       38f81f90-e553-4bbc-adfe-0bf81c95c8fc
+:END:
+#+title: Rue Molu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Molu
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.54
+- sugar :: 22.11
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.0
+- ratings :: [[id:552b6604-f4f3-40c6-975d-258c5d07e406][Rue Molu NV - 1993-12-18]]

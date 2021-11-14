@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       54590727-1c8e-4d4e-8553-27d7f878aa2d
+:END:
+#+title: Miv Uhcgq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Uhcgq
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.84
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 6.5
+- ratings :: [[id:3308aca8-726b-4629-8ca5-4ed074432d84][Miv Uhcgq NV - 1996-7-14]]

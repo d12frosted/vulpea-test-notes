@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f0bc0879-b6fd-44ab-a4f8-417d31581351
+:END:
+#+title: Vjjtw Hvrja Mqyha 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mqyha
+- vintage :: 1927
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.75
+- price :: 83.49 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

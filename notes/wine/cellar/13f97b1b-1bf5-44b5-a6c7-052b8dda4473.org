@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       13f97b1b-1bf5-44b5-a6c7-052b8dda4473
+:END:
+#+title: Rue Yqxkcfdb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Yqxkcfdb
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 13.71
+- sugar :: 2.02
+- price :: 45.21 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

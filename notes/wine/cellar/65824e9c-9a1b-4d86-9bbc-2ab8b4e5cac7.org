@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       65824e9c-9a1b-4d86-9bbc-2ab8b4e5cac7
+:END:
+#+title: Dfsxtmx Zvdv Qqjfo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Zvdv Qqjfo
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.29
+- price :: 97.63 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       67770494-d684-4f2a-84f6-1c5b97d545ae
+:END:
+#+title: Dfsxtmx Pnyla 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pnyla
+- vintage :: 1924
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.57
+- price :: 98.91 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

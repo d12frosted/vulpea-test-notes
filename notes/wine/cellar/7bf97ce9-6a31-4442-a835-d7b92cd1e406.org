@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7bf97ce9-6a31-4442-a835-d7b92cd1e406
+:END:
+#+title: Dseajc Jinm Fme 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Fme
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.05
+- sugar :: 4.01
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 7.0
+- ratings :: [[id:18826b14-55a1-4dd1-8205-9730024e9dc7][Dseajc Jinm Fme NV - 1995-3-21]]

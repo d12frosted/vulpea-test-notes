@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       002470c6-8479-40c0-94e7-ce1859312b52
+:END:
+#+title: Mkmt Dtnhw Bsrvbmt 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Dtnhw Bsrvbmt
+- vintage :: 1947
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.6
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 7.5
+- ratings :: [[id:61fd80f2-1901-46c8-a634-04a509374981][Mkmt Dtnhw Bsrvbmt 1947 - 1992-7-24]]

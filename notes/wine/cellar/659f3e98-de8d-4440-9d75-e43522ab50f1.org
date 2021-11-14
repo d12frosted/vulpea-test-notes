@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       659f3e98-de8d-4440-9d75-e43522ab50f1
+:END:
+#+title: Vjjtw Hvrja Rmzrkiar 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Rmzrkiar
+- vintage :: 1984
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 10.27
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:aca5dbb9-102e-45f0-9c70-cb8b007538c2][Vjjtw Hvrja Rmzrkiar 1984 - 2008-2-13]]

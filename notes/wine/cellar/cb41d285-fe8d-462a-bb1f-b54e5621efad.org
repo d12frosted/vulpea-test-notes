@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cb41d285-fe8d-462a-bb1f-b54e5621efad
+:END:
+#+title: Cdeexg Tbujklwb Nniwwcy 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Tbujklwb Nniwwcy
+- vintage :: 1932
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.370000000000001
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

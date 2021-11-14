@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       030e4c2a-3ddf-49f9-a6cc-59d4570622ff
+:END:
+#+title: Mkmt Brexvvzl Lyuyjxp 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Brexvvzl Lyuyjxp
+- vintage :: 2011
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 12.58
+- sugar :: 17.48
+- price :: 79.71 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

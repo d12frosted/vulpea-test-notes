@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0f92a41a-7ed1-4872-b0da-54316a0deb1b
+:END:
+#+title: Lzf Sxgehpr 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Sxgehpr
+- vintage :: 1973
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 13.49
+- sugar :: 10.27
+- price :: 34.41 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

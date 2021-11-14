@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       719cb55d-eb0a-4e09-9c12-d651e6090afd
+:END:
+#+title: Dseajc Jinm Stqj Bzbqg 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Stqj Bzbqg
+- vintage :: 1970
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.73
+- sugar :: 20.53
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:796fd868-1d74-487d-82a0-a2b6b3ed4d4e][Dseajc Jinm Stqj Bzbqg 1970 - 2012-1-25]]

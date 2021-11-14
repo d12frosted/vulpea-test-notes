@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2fdc3252-a8e0-4abf-8fba-1d4d8d3d0e25
+:END:
+#+title: Lzf Vvrlxki Axvm 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vvrlxki Axvm
+- vintage :: 2013
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.57
+- sugar :: 12.86
+- price :: 28.56 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

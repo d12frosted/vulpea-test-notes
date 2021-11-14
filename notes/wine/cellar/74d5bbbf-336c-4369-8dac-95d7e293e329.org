@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       74d5bbbf-336c-4369-8dac-95d7e293e329
+:END:
+#+title: Cdeexg Oyby 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Oyby
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.51
+- sugar :: 16.05
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

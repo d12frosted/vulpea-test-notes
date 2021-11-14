@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ca2bf462-2c10-403e-80ea-2f23dae05886
+:END:
+#+title: Lzf Abbjhjp Bnc 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Abbjhjp Bnc
+- vintage :: 1988
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 11.29
+- price :: 84.69 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

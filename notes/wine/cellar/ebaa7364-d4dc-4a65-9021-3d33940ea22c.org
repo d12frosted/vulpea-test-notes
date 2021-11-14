@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ebaa7364-d4dc-4a65-9021-3d33940ea22c
+:END:
+#+title: Njtzvl Koo 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Koo
+- vintage :: 1973
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 11.57
+- sugar :: 5.43
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: 2.0
+- ratings :: [[id:8d3296a0-6d1a-4a53-b990-5065b264f406][Njtzvl Koo 1973 - 1992-3-27]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b3e53466-e8a7-4d6e-879a-62759644bda8
+:END:
+#+title: Dfsxtmx Dzkpztff Wgffzja 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dzkpztff Wgffzja
+- vintage :: 1962
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.0
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 7.5
+- ratings :: [[id:1f0477e0-9ab6-4e57-8a1a-e6d3e8b4f68f][Dfsxtmx Dzkpztff Wgffzja 1962 - 1991-6-18]]

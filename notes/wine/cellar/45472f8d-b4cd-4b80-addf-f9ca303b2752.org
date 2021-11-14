@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       45472f8d-b4cd-4b80-addf-f9ca303b2752
+:END:
+#+title: Vjjtw Hvrja Zvrysyeo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Zvrysyeo
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.969999999999999
+- price :: 46.35 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 7.0
+- ratings :: [[id:cd721468-d025-4007-b9cb-b7b988543e4b][Vjjtw Hvrja Zvrysyeo NV - 2000-2-4]]

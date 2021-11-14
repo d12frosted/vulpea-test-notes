@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9f30ed32-dc7f-4d0e-974d-63daddb21f91
+:END:
+#+title: Cdeexg Tzldtuq Bfznpxr 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Tzldtuq Bfznpxr
+- vintage :: 1954
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 11.15
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:ac4029e7-2fa5-45fd-ac2e-908cb80e8a44][Cdeexg Tzldtuq Bfznpxr 1954 - 2015-9-26]]

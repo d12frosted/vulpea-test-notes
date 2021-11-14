@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       972341d8-15b0-4479-b925-098a24788c92
+:END:
+#+title: Vjjtw Hvrja Jnvryc Zwuyi 1987 - 2019-3-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:e758900a-d9d7-4c19-b739-ebf1cbfeb070][Vjjtw Hvrja Jnvryc Zwuyi 1987]]
+- date :: 2019-3-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

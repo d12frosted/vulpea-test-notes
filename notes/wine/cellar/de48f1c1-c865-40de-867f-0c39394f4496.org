@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       de48f1c1-c865-40de-867f-0c39394f4496
+:END:
+#+title: Cdeexg Wofper 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Wofper
+- vintage :: 1998
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.14
+- price :: 17.59 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

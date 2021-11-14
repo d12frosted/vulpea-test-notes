@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       74f093c2-5c8f-4aa8-b05b-c2a629fe5b6d
+:END:
+#+title: Miv Dmmpbpb Tra 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Dmmpbpb Tra
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.4
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3d96e021-d27b-4066-a29c-8a2d82e6de80
+:END:
+#+title: Lzf Mnsb Aafgk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mnsb Aafgk
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 13.43
+- sugar :: 8.21
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

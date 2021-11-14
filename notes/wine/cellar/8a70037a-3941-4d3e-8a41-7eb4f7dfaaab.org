@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8a70037a-3941-4d3e-8a41-7eb4f7dfaaab
+:END:
+#+title: Mkmt Xgtt 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Xgtt
+- vintage :: 2018
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.75
+- sugar :: 6.5
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.0
+- ratings :: [[id:04cd0bd8-91f3-447c-b5b2-5922898ec68c][Mkmt Xgtt 2018 - 2007-10-23]]

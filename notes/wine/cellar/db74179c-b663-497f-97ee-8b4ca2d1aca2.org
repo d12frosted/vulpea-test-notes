@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       db74179c-b663-497f-97ee-8b4ca2d1aca2
+:END:
+#+title: Cdeexg Fvl Dqahu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Fvl Dqahu
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.47
+- sugar :: 22.1
+- price :: 25.61 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:99c07b2b-7a04-474d-81d1-bcf3f759d5d2][Cdeexg Fvl Dqahu NV - 2008-4-10]]

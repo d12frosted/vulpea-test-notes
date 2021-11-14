@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c7193e08-673c-484e-9f18-a9d000b1c684
+:END:
+#+title: Njtzvl Lpont 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lpont
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.66
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: 8.5
+- ratings :: [[id:7c83a258-693f-4292-aed3-7b4c640e975d][Njtzvl Lpont NV - 2000-1-7]]

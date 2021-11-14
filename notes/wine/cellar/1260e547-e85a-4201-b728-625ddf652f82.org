@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1260e547-e85a-4201-b728-625ddf652f82
+:END:
+#+title: Vjjtw Hvrja Gzkfm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Gzkfm
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.53
+- sugar :: 20.81
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

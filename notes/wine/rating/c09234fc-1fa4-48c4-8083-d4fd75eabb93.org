@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c09234fc-1fa4-48c4-8083-d4fd75eabb93
+:END:
+#+title: Rue Qptp 1920 - 2004-5-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:26f21d86-6d2f-47de-b810-0642aefe9286][Rue Qptp 1920]]
+- date :: 2004-5-3
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

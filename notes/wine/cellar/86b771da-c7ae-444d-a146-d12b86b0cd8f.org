@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       86b771da-c7ae-444d-a146-d12b86b0cd8f
+:END:
+#+title: Vjjtw Hvrja Vagzpnl Tfyoh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vagzpnl Tfyoh
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.58
+- sugar :: 6.67
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:1e9fcb91-3fa6-4dcc-af2c-682c592171cb][Vjjtw Hvrja Vagzpnl Tfyoh NV - 2010-3-20]]

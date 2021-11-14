@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d5dd2192-c91d-4f0d-968c-490f0320139b
+:END:
+#+title: Cdeexg Zyeo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Zyeo
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.7
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

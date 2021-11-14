@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       007f7799-7267-456f-b8c3-b9623e24ae2e
+:END:
+#+title: Rue Chedgb 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Chedgb
+- vintage :: 1902
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.45
+- sugar :: 9.09
+- price :: 51.27 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

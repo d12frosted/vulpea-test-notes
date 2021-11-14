@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7fa5dc1a-d183-43e1-870f-739a10220173
+:END:
+#+title: Novr Rlrt Ykdwyjk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ykdwyjk
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.03
+- sugar :: 12.43
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

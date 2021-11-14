@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b1f4ba8a-db14-4e79-a2aa-61745ef17050
+:END:
+#+title: Miv Sipluiul 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sipluiul
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.19
+- sugar :: 14.83
+- price :: 64.87 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 1.5
+- ratings :: [[id:0f1ed543-d96c-4629-9adf-0ca464345ec1][Miv Sipluiul NV - 2007-5-22]]

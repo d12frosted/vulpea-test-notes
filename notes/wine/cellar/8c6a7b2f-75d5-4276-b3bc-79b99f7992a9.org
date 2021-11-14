@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8c6a7b2f-75d5-4276-b3bc-79b99f7992a9
+:END:
+#+title: Novr Rlrt Axhtmu Vyoqomg 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Axhtmu Vyoqomg
+- vintage :: 1901
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.45
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 1.5
+- ratings :: [[id:8fb18116-dc8c-48ac-b8e2-3f97b337100f][Novr Rlrt Axhtmu Vyoqomg 1901 - 1994-3-2]]

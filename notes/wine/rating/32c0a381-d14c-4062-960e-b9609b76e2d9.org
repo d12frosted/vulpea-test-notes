@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       32c0a381-d14c-4062-960e-b9609b76e2d9
+:END:
+#+title: Mkmt Yjovbbr Hucvfq NV - 2021-8-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:9f8500cc-e6ee-4cd5-953a-c05127a1a9d9][Mkmt Yjovbbr Hucvfq]]
+- date :: 2021-8-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

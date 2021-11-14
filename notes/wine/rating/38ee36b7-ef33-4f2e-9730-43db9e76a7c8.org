@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       38ee36b7-ef33-4f2e-9730-43db9e76a7c8
+:END:
+#+title: Novr Rlrt Gqpswfgw Wow NV - 2020-8-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:15909038-0c00-49af-bd29-8cdc10547818][Novr Rlrt Gqpswfgw Wow]]
+- date :: 2020-8-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

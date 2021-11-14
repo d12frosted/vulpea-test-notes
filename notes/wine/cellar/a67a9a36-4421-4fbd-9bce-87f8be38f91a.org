@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a67a9a36-4421-4fbd-9bce-87f8be38f91a
+:END:
+#+title: Dfsxtmx Ihuqtcg 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ihuqtcg
+- vintage :: 2002
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.39
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

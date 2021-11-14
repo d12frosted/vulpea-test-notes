@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d0ac27d3-6cc4-43c9-810f-5d143c58dcba
+:END:
+#+title: Cdeexg Niywkol Neh 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Niywkol Neh
+- vintage :: 1985
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.0
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

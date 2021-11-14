@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       16385025-afd4-4c66-a624-2c7c38368e0e
+:END:
+#+title: Mkmt Xdymlic Ujke NV - 1996-9-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:de0cfd23-7acd-48e3-a464-e1a784b041cd][Mkmt Xdymlic Ujke]]
+- date :: 1996-9-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

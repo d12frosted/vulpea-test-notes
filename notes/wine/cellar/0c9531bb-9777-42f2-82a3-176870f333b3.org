@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0c9531bb-9777-42f2-82a3-176870f333b3
+:END:
+#+title: Dfsxtmx Izszln 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Izszln
+- vintage :: 2002
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.440000000000001
+- price :: 15.98 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f786884d-4881-45be-87b1-ac7292985b76
+:END:
+#+title: Rue Ggqyl Pdv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ggqyl Pdv
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.15
+- price :: 53.61 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

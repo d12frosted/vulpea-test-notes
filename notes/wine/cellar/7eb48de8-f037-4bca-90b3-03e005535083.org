@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7eb48de8-f037-4bca-90b3-03e005535083
+:END:
+#+title: Cdeexg Yccxsfbo 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Yccxsfbo
+- vintage :: 1988
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.370000000000001
+- sugar :: 21.35
+- price :: 22.83 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 7.5
+- ratings :: [[id:0925d194-c981-49de-b105-746285f0f90e][Cdeexg Yccxsfbo 1988 - 2018-12-26]]

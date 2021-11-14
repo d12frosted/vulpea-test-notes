@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1b32c4c8-b8f3-4643-9863-437e59b26f7a
+:END:
+#+title: Njtzvl Ytdrtazq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ytdrtazq
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.870000000000001
+- sugar :: 10.15
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

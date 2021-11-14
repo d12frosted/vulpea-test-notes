@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       09883c31-dff4-4e6d-b269-665c127fd2c5
+:END:
+#+title: Miv Sfqrwreb 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sfqrwreb
+- vintage :: 1937
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.129999999999999
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:f528758c-e88f-4ead-9740-5d5fac5b62eb][Miv Sfqrwreb 1937 - 2005-12-17]]

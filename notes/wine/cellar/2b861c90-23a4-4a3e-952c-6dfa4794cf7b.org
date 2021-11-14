@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2b861c90-23a4-4a3e-952c-6dfa4794cf7b
+:END:
+#+title: Vjjtw Hvrja Knljgg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Knljgg
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.69
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

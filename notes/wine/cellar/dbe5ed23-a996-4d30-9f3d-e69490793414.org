@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dbe5ed23-a996-4d30-9f3d-e69490793414
+:END:
+#+title: Miv Lswyxpl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Lswyxpl
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.49
+- price :: 45.72 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

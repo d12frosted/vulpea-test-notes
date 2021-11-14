@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       debaf262-06a1-4720-88b0-0ce9f7a5eba8
+:END:
+#+title: Miv Dpvou NV - 1992-1-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:1f6b8079-8aa2-4303-bf15-7cbe8b19906c][Miv Dpvou]]
+- date :: 1992-1-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

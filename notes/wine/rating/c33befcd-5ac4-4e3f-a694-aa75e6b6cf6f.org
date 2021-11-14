@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c33befcd-5ac4-4e3f-a694-aa75e6b6cf6f
+:END:
+#+title: Dfsxtmx Oacx NV - 2023-7-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:4853f2b5-df8e-4be3-8e1e-364acc8920a9][Dfsxtmx Oacx]]
+- date :: 2023-7-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

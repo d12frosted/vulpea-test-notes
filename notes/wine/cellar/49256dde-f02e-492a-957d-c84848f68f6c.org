@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       49256dde-f02e-492a-957d-c84848f68f6c
+:END:
+#+title: Vjjtw Hvrja Bmmn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bmmn
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.44
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

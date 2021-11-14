@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b6060da6-7591-4811-b70e-64628dd6ccbd
+:END:
+#+title: Lzf Osym Isiq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Osym Isiq
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 9.64
+- price :: 86.59 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

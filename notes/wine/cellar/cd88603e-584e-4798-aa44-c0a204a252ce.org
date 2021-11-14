@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cd88603e-584e-4798-aa44-c0a204a252ce
+:END:
+#+title: Lzf Hua Zyuflli 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Hua Zyuflli
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.94
+- price :: 17.51 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 6.5
+- ratings :: [[id:a10cc610-ec6d-43a0-ac21-6c41ba0b848d][Lzf Hua Zyuflli NV - 2012-10-4]]

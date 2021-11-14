@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f58794bc-1957-4d25-9e19-8e29710dab01
+:END:
+#+title: Rue Ktwthf Weymzhq NV - 1998-3-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:cb043483-a43d-4b43-a8af-134b3a1fda31][Rue Ktwthf Weymzhq]]
+- date :: 1998-3-10
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

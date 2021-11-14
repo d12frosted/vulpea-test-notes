@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c1dfcd9e-91ab-4ac3-ba5c-88997323117a
+:END:
+#+title: Cdeexg Emh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Emh
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.61
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

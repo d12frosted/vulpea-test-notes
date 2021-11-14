@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a4510499-fa2e-439d-9e46-46e7054c6b05
+:END:
+#+title: Mkmt Vho Ussv 1958 - 1997-4-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:5618dfe4-56d7-461d-be25-4344bd942042][Mkmt Vho Ussv 1958]]
+- date :: 1997-4-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

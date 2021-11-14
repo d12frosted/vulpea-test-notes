@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2a706052-48e2-4e10-abb2-6c10d1dd1088
+:END:
+#+title: Njtzvl Sisca 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Sisca
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.89
+- price :: 66.08 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:dc0aa3b8-379b-4e40-acc7-80036fccdaa9][Njtzvl Sisca NV - 1996-7-6]]

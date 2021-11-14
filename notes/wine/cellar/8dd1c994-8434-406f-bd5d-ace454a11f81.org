@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8dd1c994-8434-406f-bd5d-ace454a11f81
+:END:
+#+title: Mkmt Uulyiglc 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Uulyiglc
+- vintage :: 1997
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.940000000000001
+- price :: 53.83 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

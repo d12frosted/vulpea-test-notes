@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c7edf4cc-8d3f-4a4d-a0de-26db80d1549e
+:END:
+#+title: Dseajc Jinm Fhvaoorg 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Fhvaoorg
+- vintage :: 2000
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.969999999999999
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

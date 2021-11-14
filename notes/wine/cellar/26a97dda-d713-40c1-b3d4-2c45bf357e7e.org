@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       26a97dda-d713-40c1-b3d4-2c45bf357e7e
+:END:
+#+title: Njtzvl Qkxxgh Osk 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Qkxxgh Osk
+- vintage :: 1949
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.89
+- sugar :: 9.07
+- price :: 79.17 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:6b9e7cda-c0bc-4cee-aedc-bdfd6cb856f2][Njtzvl Qkxxgh Osk 1949 - 2017-8-28]]

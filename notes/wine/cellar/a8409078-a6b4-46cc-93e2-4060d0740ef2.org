@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       a8409078-a6b4-46cc-93e2-4060d0740ef2
+:END:
+#+title: Miv Phtuma Pfy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Phtuma Pfy
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 9.11
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

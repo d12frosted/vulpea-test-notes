@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e6b33b01-7a9d-4ce1-a8e9-be803010c3d3
+:END:
+#+title: Miv Daazay Rknu 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Daazay Rknu
+- vintage :: 1998
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.13
+- sugar :: 10.99
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:3a9b24a8-024f-4dcc-82e0-0d7f3eba545d][Miv Daazay Rknu 1998 - 2000-8-8]]

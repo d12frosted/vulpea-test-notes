@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5b1e132a-44ce-4837-af6a-e750bf9f553d
+:END:
+#+title: Lzf Orpbb Zym 1906
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Orpbb Zym
+- vintage :: 1906
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.1
+- sugar :: 7.29
+- price :: 44.96 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

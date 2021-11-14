@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fc044235-3ace-4847-85b0-140eedaaca5f
+:END:
+#+title: Cdeexg Duu Xzyvz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Duu Xzyvz
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.72
+- price :: 62.94 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

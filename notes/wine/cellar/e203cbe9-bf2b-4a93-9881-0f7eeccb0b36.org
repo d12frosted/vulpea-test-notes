@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e203cbe9-bf2b-4a93-9881-0f7eeccb0b36
+:END:
+#+title: Cdeexg Knbyf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Knbyf
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.33
+- price :: 63.76 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 7.0
+- ratings :: [[id:07f2caff-def9-4838-8a75-40c4031dcd94][Cdeexg Knbyf NV - 2007-4-26]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       196815d4-d6b6-4fcd-91a4-490e50f09232
+:END:
+#+title: Lzf Bpahzfs NV - 2012-10-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:9a3fc55a-5ed7-4ce5-a1e9-25f48c40cac7][Lzf Bpahzfs]]
+- date :: 2012-10-13
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

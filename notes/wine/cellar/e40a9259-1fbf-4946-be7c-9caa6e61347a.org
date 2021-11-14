@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e40a9259-1fbf-4946-be7c-9caa6e61347a
+:END:
+#+title: Cdeexg Muas 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Muas
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.47
+- sugar :: 17.84
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

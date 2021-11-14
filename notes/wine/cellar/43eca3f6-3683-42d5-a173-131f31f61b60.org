@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       43eca3f6-3683-42d5-a173-131f31f61b60
+:END:
+#+title: Miv Tiyuweb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Tiyuweb
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.56
+- sugar :: 14.45
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

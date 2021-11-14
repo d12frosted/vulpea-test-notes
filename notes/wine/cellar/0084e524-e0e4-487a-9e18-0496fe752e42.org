@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0084e524-e0e4-487a-9e18-0496fe752e42
+:END:
+#+title: Mkmt Ifis 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ifis
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.64
+- sugar :: 10.51
+- price :: 23.58 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:4eb85afe-cd36-4435-92f2-dae3226544e5][Mkmt Ifis NV - 2007-5-8]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       af1125a1-0400-43e2-bf0f-8b8580978278
+:END:
+#+title: Dfsxtmx Yubegqx Vwmkbp 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Yubegqx Vwmkbp
+- vintage :: 1968
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.2
+- sugar :: 18.32
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:29f61e14-007e-4a91-ac41-75153b5ffd18][Dfsxtmx Yubegqx Vwmkbp 1968 - 2024-10-5]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       00a534f0-159b-4bdc-ae3e-711a8a608b15
+:END:
+#+title: Novr Rlrt Kmkvzm 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Kmkvzm
+- vintage :: 1914
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.86
+- sugar :: 13.45
+- price :: 29.36 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:d9aa3c1e-c96e-43cb-abc1-1abfca8eb2f2][Novr Rlrt Kmkvzm 1914 - 1996-5-20]]

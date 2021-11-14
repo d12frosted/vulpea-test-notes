@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       44394dfb-9f6e-423b-8daa-158e35f9ff37
+:END:
+#+title: Miv Bmescyz 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Bmescyz
+- vintage :: 1963
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.14
+- sugar :: 17.58
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

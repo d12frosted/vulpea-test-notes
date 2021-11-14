@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       75a005aa-2f84-43ee-8ae0-57e5bb9ffab4
+:END:
+#+title: Vjjtw Hvrja Pbam Pkio 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pbam Pkio
+- vintage :: 1913
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.22
+- price :: 35.14 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

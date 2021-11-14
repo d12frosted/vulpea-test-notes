@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       79bd9635-9e12-458e-8101-b0d64a0816f8
+:END:
+#+title: Mkmt Uzxso 1933 - 2024-10-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:20896c0a-af5c-4ee8-9c37-4e13ce757406][Mkmt Uzxso 1933]]
+- date :: 2024-10-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

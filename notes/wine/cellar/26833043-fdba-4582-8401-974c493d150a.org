@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       26833043-fdba-4582-8401-974c493d150a
+:END:
+#+title: Dseajc Jinm Mig 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Mig
+- vintage :: 1938
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.33
+- sugar :: 4.32
+- price :: 90.65 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

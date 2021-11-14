@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2087e7df-64e6-4ebc-8a04-d74fde873046
+:END:
+#+title: Miv Dyyeyk Poqwr 1942 - 2001-10-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:29c67f1c-38ac-49d8-bfc7-a1d62ffff347][Miv Dyyeyk Poqwr 1942]]
+- date :: 2001-10-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

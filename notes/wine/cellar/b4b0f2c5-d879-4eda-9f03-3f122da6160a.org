@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       b4b0f2c5-d879-4eda-9f03-3f122da6160a
+:END:
+#+title: Rue Blkxper 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Blkxper
+- vintage :: 1929
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.01
+- sugar :: 0.43
+- price :: 49.66 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 2.5
+- ratings :: [[id:50c42f97-606f-4357-a739-2636415becf5][Rue Blkxper 1929 - 1999-10-13]]

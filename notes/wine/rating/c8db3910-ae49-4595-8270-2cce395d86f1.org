@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c8db3910-ae49-4595-8270-2cce395d86f1
+:END:
+#+title: Dfsxtmx Ymdxqbm Yekmlnj NV - 2004-3-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:46f472ff-de96-4408-a209-7518965af5ec][Dfsxtmx Ymdxqbm Yekmlnj]]
+- date :: 2004-3-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

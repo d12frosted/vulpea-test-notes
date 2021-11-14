@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       84229f26-610a-4421-8673-09374b4578f7
+:END:
+#+title: Dseajc Jinm Donhkoo NV - 2022-8-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:d22a9848-e044-4294-b00f-8a950b54c0ad][Dseajc Jinm Donhkoo]]
+- date :: 2022-8-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

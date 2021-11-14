@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3bee7c7b-2856-4446-b691-505f1df611e9
+:END:
+#+title: Miv Gfzf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Gfzf
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 13.01
+- sugar :: 7.89
+- price :: 98.50 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

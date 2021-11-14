@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c521ac97-cb3f-41ad-832f-fd2391d49cbe
+:END:
+#+title: Njtzvl Mdv NV - 2022-10-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:c6632141-36d1-4e8e-88e2-7105c7bc6c1e][Njtzvl Mdv]]
+- date :: 2022-10-19
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c55b0043-8ba7-4841-aec1-86203a62b2d8
+:END:
+#+title: Cdeexg Kongacer NV - 2013-2-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:b029a89e-3077-4f63-abed-8b51fd7d4f69][Cdeexg Kongacer]]
+- date :: 2013-2-27
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

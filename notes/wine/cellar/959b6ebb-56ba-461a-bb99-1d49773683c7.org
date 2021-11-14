@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       959b6ebb-56ba-461a-bb99-1d49773683c7
+:END:
+#+title: Dfsxtmx Ihma Hsneumhi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ihma Hsneumhi
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.0
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

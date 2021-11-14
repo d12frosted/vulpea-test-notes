@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ce3b0e6e-254c-487b-a12e-eb660c93a3c3
+:END:
+#+title: Lzf Baamom 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Baamom
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.620000000000001
+- sugar :: 7.43
+- price :: 31.15 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       24b3ac51-7120-4b3f-be21-77e23619fb51
+:END:
+#+title: Mkmt Zoddnddd 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zoddnddd
+- vintage :: 1985
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.28
+- price :: 95.43 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

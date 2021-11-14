@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2c75c443-208c-4d39-85c0-dfec453ca4fe
+:END:
+#+title: Dfsxtmx Gbvdjx Rmeenfal 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gbvdjx Rmeenfal
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.25
+- sugar :: 6.54
+- price :: 52.64 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:e6c757c0-4d50-4a8f-aa21-67da55cd54de][Dfsxtmx Gbvdjx Rmeenfal NV - 2022-1-4]]

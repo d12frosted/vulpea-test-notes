@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cd5cbd0f-65dc-4114-b508-77aaedcbadeb
+:END:
+#+title: Dseajc Jinm Uizetm Kolmxmd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Uizetm Kolmxmd
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.9
+- sugar :: 13.04
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

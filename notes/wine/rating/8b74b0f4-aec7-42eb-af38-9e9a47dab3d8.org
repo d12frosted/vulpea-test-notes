@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8b74b0f4-aec7-42eb-af38-9e9a47dab3d8
+:END:
+#+title: Miv Wdaaiblt Bpk NV - 1993-4-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:253ffcb3-9f30-4567-bc75-14baf8353ec0][Miv Wdaaiblt Bpk]]
+- date :: 1993-4-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

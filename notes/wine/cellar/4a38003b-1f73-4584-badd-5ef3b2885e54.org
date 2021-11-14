@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4a38003b-1f73-4584-badd-5ef3b2885e54
+:END:
+#+title: Rue Gpkdbjk Jbbtqkcb 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Gpkdbjk Jbbtqkcb
+- vintage :: 1948
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.09
+- price :: 6.48 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.0
+- ratings :: [[id:1d4f3653-407a-4f8e-802d-1d8680026d81][Rue Gpkdbjk Jbbtqkcb 1948 - 2007-1-6]]

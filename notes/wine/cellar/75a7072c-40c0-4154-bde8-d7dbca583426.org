@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       75a7072c-40c0-4154-bde8-d7dbca583426
+:END:
+#+title: Dfsxtmx Trvh Vpzvhkw 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Trvh Vpzvhkw
+- vintage :: 1983
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.4
+- price :: 99.05 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e1440441-9624-4c9d-aae3-65611b5b4dc7
+:END:
+#+title: Dseajc Jinm Xwzbhzhk Gxwo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xwzbhzhk Gxwo
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.66
+- sugar :: 1.69
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: wikipedia
+- rating :: 4.5
+- ratings :: [[id:3b9abba0-ad11-4721-aa60-f0ff97bf55c0][Dseajc Jinm Xwzbhzhk Gxwo NV - 2023-9-11]]

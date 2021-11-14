@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       69e43f32-2bf2-413f-beb3-0f56558c4024
+:END:
+#+title: Cdeexg Ybiizxz 1900 - 2021-6-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:ee472459-8eb0-4afe-93f8-5a74f9dcfc85][Cdeexg Ybiizxz 1900]]
+- date :: 2021-6-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

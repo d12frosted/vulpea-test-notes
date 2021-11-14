@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9945e765-9efa-4ada-a3ea-e1e28b3e487f
+:END:
+#+title: Novr Rlrt Vblt 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vblt
+- vintage :: 1991
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 10.49
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

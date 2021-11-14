@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9c5f5085-fb53-4748-a4ed-91e410cf4174
+:END:
+#+title: Cdeexg Qvhkht 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Qvhkht
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.46
+- sugar :: 22.41
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

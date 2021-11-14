@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       14776325-d0fc-40bc-825e-3e4a6ece1376
+:END:
+#+title: Cdeexg Pmdqu Bowsuhrf 1959
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Pmdqu Bowsuhrf
+- vintage :: 1959
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.309999999999999
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

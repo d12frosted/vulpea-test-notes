@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       804d0286-2669-48fe-89b7-09b6876db6ad
+:END:
+#+title: Vjjtw Hvrja Lqgkl Mcyyv 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Lqgkl Mcyyv
+- vintage :: 2019
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.07
+- sugar :: 5.86
+- price :: 90.91 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

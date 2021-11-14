@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0193b154-4362-4c29-b7c4-12d0ae6705f9
+:END:
+#+title: Dfsxtmx Ublpwep 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ublpwep
+- vintage :: 2005
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.969999999999999
+- sugar :: 8.68
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b91de50c-2be8-4150-a4cc-fd4946e52bc2
+:END:
+#+title: Vjjtw Hvrja Adspvskw NV - 2013-6-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:5808f538-2578-48bd-9cd3-1b86bb28ea43][Vjjtw Hvrja Adspvskw]]
+- date :: 2013-6-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

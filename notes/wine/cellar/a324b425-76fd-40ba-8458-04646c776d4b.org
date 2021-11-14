@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a324b425-76fd-40ba-8458-04646c776d4b
+:END:
+#+title: Mkmt Ofk 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ofk
+- vintage :: 1909
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 9.72
+- price :: 29.92 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3b6aa483-518e-4bfe-ae29-070d35f8211e
+:END:
+#+title: Novr Rlrt Vbtrtwvt Vgeca 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vbtrtwvt Vgeca
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.56
+- price :: 39.74 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

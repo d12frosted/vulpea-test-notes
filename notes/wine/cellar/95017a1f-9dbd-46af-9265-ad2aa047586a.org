@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       95017a1f-9dbd-46af-9265-ad2aa047586a
+:END:
+#+title: Miv Xlzrtqz Vciqblel 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xlzrtqz Vciqblel
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.11
+- price :: 101.06 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

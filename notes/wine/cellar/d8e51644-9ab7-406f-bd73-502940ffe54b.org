@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d8e51644-9ab7-406f-bd73-502940ffe54b
+:END:
+#+title: Novr Rlrt Qha Ckjxhbmh 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Qha Ckjxhbmh
+- vintage :: 2020
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 10.19
+- sugar :: 12.33
+- price :: 46.85 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 2.0
+- ratings :: [[id:83783154-46f0-49d2-8931-c1c7db8f6b3d][Novr Rlrt Qha Ckjxhbmh 2020 - 1998-11-8]]

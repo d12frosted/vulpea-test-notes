@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       695a884d-e918-4e58-a476-9aff26f2dda5
+:END:
+#+title: Dfsxtmx Egcmsi Jlbtmma 1912
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Egcmsi Jlbtmma
+- vintage :: 1912
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.14
+- sugar :: 0.18
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

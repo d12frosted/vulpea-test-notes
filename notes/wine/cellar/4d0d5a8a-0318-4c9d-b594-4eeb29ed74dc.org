@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       4d0d5a8a-0318-4c9d-b594-4eeb29ed74dc
+:END:
+#+title: Njtzvl Uonqq 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Uonqq
+- vintage :: 2011
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.65
+- sugar :: 14.4
+- price :: 4.24 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:60a2730f-59b4-4826-9927-94db3fe08651][Njtzvl Uonqq 2011 - 2013-2-4]]

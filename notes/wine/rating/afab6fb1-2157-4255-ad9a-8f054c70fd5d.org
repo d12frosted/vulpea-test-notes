@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       afab6fb1-2157-4255-ad9a-8f054c70fd5d
+:END:
+#+title: Novr Rlrt Zyk 2014 - 2015-12-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:1466e0f9-a3e2-4c85-83d4-dd9fbc7121fd][Novr Rlrt Zyk 2014]]
+- date :: 2015-12-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

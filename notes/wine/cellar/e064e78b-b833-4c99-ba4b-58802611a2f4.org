@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e064e78b-b833-4c99-ba4b-58802611a2f4
+:END:
+#+title: Rue Vza 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vza
+- vintage :: 1921
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.72
+- price :: 93.94 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: 5.5
+- ratings :: [[id:4de9061f-fa82-4868-aff3-01be7a1c3480][Rue Vza 1921 - 2015-1-7]]

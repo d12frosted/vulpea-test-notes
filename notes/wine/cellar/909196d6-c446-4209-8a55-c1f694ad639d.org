@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       909196d6-c446-4209-8a55-c1f694ad639d
+:END:
+#+title: Vjjtw Hvrja Dvch 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dvch
+- vintage :: 1960
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.05
+- price :: 34.37 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:6685b952-5e0b-43ea-9ced-fe52533b6aa3][Vjjtw Hvrja Dvch 1960 - 1999-1-5]]

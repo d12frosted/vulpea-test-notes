@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       94a6ab0b-43d1-4045-bdfc-a8f832bf6541
+:END:
+#+title: Lzf Ilgoz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ilgoz
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.41
+- price :: 80.49 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

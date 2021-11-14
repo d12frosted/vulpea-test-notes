@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2424d112-bae4-4156-8497-e488b07b6212
+:END:
+#+title: Mkmt Rrwiced 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Rrwiced
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.97
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:8b5fbcfc-9bfa-4f3a-b0fd-bab770d8f00f][Mkmt Rrwiced NV - 2000-12-26]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       707be74c-c043-401c-b3ad-7a8378627cc0
+:END:
+#+title: Cdeexg Tznb 1923 - 2008-1-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:fb36a741-5ebd-4370-96f8-40b5eb719810][Cdeexg Tznb 1923]]
+- date :: 2008-1-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

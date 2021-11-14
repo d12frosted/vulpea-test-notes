@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b34116d6-1e94-4481-a604-89ad757b7d63
+:END:
+#+title: Njtzvl Kwyya Xlxkik 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kwyya Xlxkik
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.9
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:9056078f-b63c-48cd-a1ed-a5ae954f263b][Njtzvl Kwyya Xlxkik NV - 2001-12-21]]

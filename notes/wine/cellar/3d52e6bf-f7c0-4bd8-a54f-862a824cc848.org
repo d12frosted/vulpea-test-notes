@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3d52e6bf-f7c0-4bd8-a54f-862a824cc848
+:END:
+#+title: Novr Rlrt Jmqf Yhe 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jmqf Yhe
+- vintage :: 1936
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.76
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

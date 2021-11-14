@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bfc35fb1-5d3a-4ce0-93df-965998d7c947
+:END:
+#+title: Cdeexg Itfnsya 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Itfnsya
+- vintage :: 1943
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.91
+- price :: 21.13 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       58232f12-741f-4325-a477-de9888f3048c
+:END:
+#+title: Rue Bdbr Topdqak 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Bdbr Topdqak
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 13.67
+- sugar :: 0.65
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:c660d0d8-b46e-4dc7-87b9-4524f752acdb][Rue Bdbr Topdqak NV - 2010-3-24]]

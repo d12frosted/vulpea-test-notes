@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3a5404d3-e2f7-4166-beb9-5aa95331964d
+:END:
+#+title: Dseajc Jinm Etvhgxk 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Etvhgxk
+- vintage :: 1928
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.37
+- price :: 20.00 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:86cf36e0-421c-4713-8c95-b83ccade91ac][Dseajc Jinm Etvhgxk 1928 - 2016-11-22]]

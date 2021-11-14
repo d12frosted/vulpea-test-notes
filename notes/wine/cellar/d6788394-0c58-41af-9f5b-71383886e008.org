@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d6788394-0c58-41af-9f5b-71383886e008
+:END:
+#+title: Mkmt Pkc Qrvuiemz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Pkc Qrvuiemz
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.6
+- price :: 44.05 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

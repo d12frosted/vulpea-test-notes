@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cd65d110-be94-461a-b4bd-9a25dcd2517e
+:END:
+#+title: Dseajc Jinm Lgjfch Tqr 1997
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lgjfch Tqr
+- vintage :: 1997
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 12.32
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ea0ba273-9b74-4b69-99b3-eeac6c922b99
+:END:
+#+title: Miv Fol 1920
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Fol
+- vintage :: 1920
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.24
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

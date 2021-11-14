@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       682be2a2-9f48-4744-9d6a-56927e2e56d5
+:END:
+#+title: Vjjtw Hvrja Pyhbc Hhcugon 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pyhbc Hhcugon
+- vintage :: 1961
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 13.18
+- sugar :: 9.08
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

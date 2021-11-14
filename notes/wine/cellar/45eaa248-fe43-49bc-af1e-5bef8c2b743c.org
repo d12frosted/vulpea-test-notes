@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       45eaa248-fe43-49bc-af1e-5bef8c2b743c
+:END:
+#+title: Rue Vqyi 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Vqyi
+- vintage :: 2013
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 12.52
+- sugar :: 16.36
+- price :: 35.79 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:4d6b166e-1837-4524-98d5-8d34696fe82c][Rue Vqyi 2013 - 2010-3-5]]

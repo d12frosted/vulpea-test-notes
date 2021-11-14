@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       118427bd-9884-4352-87b0-2f510149aac0
+:END:
+#+title: Njtzvl Bjyg Etxp 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Bjyg Etxp
+- vintage :: 1985
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.72
+- sugar :: 12.19
+- price :: 86.36 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:dfc737c5-2bbc-4cec-aa0d-c7277a148c8d][Njtzvl Bjyg Etxp 1985 - 2002-7-18]]

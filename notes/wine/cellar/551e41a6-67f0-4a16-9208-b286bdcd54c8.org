@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       551e41a6-67f0-4a16-9208-b286bdcd54c8
+:END:
+#+title: Novr Rlrt Sehqss Aiud 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Sehqss Aiud
+- vintage :: 1961
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.48
+- sugar :: 18.92
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: NA

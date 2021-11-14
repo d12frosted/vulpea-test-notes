@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       95f44529-fd3a-4a16-b310-290ddd1e2af5
+:END:
+#+title: Rue Lebbqdu Pbjo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Lebbqdu Pbjo
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.19
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

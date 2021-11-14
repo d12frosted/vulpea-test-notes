@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3144c772-cfc8-474d-8e83-c389fbf84417
+:END:
+#+title: Miv Kni 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Kni
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 13.21
+- sugar :: 19.82
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

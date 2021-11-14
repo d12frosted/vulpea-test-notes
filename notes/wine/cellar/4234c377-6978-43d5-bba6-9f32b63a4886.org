@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4234c377-6978-43d5-bba6-9f32b63a4886
+:END:
+#+title: Novr Rlrt Qknoo 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Qknoo
+- vintage :: 1986
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 10.81
+- price :: 80.83 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

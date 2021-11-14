@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       c6075417-74e4-4db2-a85d-2a6d50ea4dea
+:END:
+#+title: Vjjtw Hvrja Vgxq Nlk 1961
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vgxq Nlk
+- vintage :: 1961
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.09
+- sugar :: 4.21
+- price :: 9.64 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 8.0
+- ratings :: [[id:8da39217-1ee2-4ecb-9d4e-239cfd95b829][Vjjtw Hvrja Vgxq Nlk 1961 - 2017-10-24]]

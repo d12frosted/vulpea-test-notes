@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5856604c-c8ba-4285-a7cb-90b155dc5ac1
+:END:
+#+title: Miv Nnxvd Qollvvww NV - 2009-9-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:9662755a-8389-4a37-b539-730500941430][Miv Nnxvd Qollvvww]]
+- date :: 2009-9-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

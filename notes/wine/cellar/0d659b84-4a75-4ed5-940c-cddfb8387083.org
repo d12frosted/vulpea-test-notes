@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0d659b84-4a75-4ed5-940c-cddfb8387083
+:END:
+#+title: Dseajc Jinm Dpidsrh Mcdybhor 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Dpidsrh Mcdybhor
+- vintage :: 1968
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.43
+- sugar :: 18.98
+- price :: 17.52 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

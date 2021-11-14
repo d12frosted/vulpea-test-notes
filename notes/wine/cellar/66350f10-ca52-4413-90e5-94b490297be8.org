@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       66350f10-ca52-4413-90e5-94b490297be8
+:END:
+#+title: Vjjtw Hvrja Scpyv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Scpyv
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.67
+- price :: 10.67 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.0
+- ratings :: [[id:74517769-b1dd-4af6-a182-2c834cdbafdc][Vjjtw Hvrja Scpyv NV - 1993-3-26]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       46c8ef4f-5b43-4821-860b-69cd987d24ab
+:END:
+#+title: Lzf Fuv Wmrmkk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Fuv Wmrmkk
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.91
+- price :: 24.52 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

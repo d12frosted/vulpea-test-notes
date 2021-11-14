@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ef556137-7f67-41c0-812c-44061a0a92e6
+:END:
+#+title: Miv Idziqebt 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Idziqebt
+- vintage :: 2017
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.53
+- sugar :: 0.52
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:e30eaedf-bd53-4176-8b37-6c711a593532][Miv Idziqebt 2017 - 2004-7-22]]

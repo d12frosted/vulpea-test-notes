@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c94208f6-0d8a-451f-958b-86c32ce9c9fb
+:END:
+#+title: Miv Qqudgzbx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Qqudgzbx
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.48
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

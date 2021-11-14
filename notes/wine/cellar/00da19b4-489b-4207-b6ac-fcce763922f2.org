@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       00da19b4-489b-4207-b6ac-fcce763922f2
+:END:
+#+title: Miv Mbhnhfh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mbhnhfh
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.29
+- sugar :: 0.69
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

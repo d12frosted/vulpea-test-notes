@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e2c30d6c-6d7b-4a75-8f6b-d250b9395149
+:END:
+#+title: Njtzvl Hahx Fch 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hahx Fch
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.5
+- price :: 90.41 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.0
+- ratings :: [[id:b71069c4-77ac-466b-9a37-f052cd15bc01][Njtzvl Hahx Fch NV - 2018-12-24]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bd002571-189b-4cda-9a12-37a1ce415222
+:END:
+#+title: Dseajc Jinm Dlvwl Rgjo 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Dlvwl Rgjo
+- vintage :: 2019
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.41
+- sugar :: 15.73
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

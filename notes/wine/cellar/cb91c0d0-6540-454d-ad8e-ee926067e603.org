@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cb91c0d0-6540-454d-ad8e-ee926067e603
+:END:
+#+title: Novr Rlrt Fxxyjd Tefpto 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Fxxyjd Tefpto
+- vintage :: 1991
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.59
+- sugar :: 14.57
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 8.0
+- ratings :: [[id:ca794410-505a-425b-b5bd-efb96f1ebae4][Novr Rlrt Fxxyjd Tefpto 1991 - 1993-3-1]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       54714f71-724c-43cb-9eea-e0d8e2b1c03d
+:END:
+#+title: Dfsxtmx Yfdhdlx 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Yfdhdlx
+- vintage :: 1945
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.63
+- sugar :: 20.86
+- price :: 98.73 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

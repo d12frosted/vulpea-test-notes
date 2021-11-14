@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a3054584-42fc-4ee5-bdf1-e714015d0322
+:END:
+#+title: Mkmt Hhvjomkv 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Hhvjomkv
+- vintage :: 2001
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.94
+- sugar :: 1.58
+- price :: 97.27 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       8cc9a092-3e16-46ee-9188-96157432e10c
+:END:
+#+title: Cdeexg Ofx Mwchywi 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ofx Mwchywi
+- vintage :: 1976
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.22
+- sugar :: 3.28
+- price :: 95.27 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

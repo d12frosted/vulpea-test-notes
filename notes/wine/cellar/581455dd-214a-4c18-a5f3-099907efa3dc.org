@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       581455dd-214a-4c18-a5f3-099907efa3dc
+:END:
+#+title: Dseajc Jinm Kgt Igjm 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Kgt Igjm
+- vintage :: 1914
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.51
+- sugar :: 13.51
+- price :: 86.44 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

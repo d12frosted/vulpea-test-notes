@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5e01aa14-f48d-4563-8b89-f0f7b68b7f6b
+:END:
+#+title: Njtzvl Dftigtym Vphuv 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Dftigtym Vphuv
+- vintage :: 1976
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.21
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

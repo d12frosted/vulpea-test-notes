@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       74467f2c-c541-4f8e-82d2-eedc25ddfb77
+:END:
+#+title: Lzf Vjwcjvm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vjwcjvm
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.99
+- price :: 20.68 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

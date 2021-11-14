@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6374b461-a703-4af9-beaa-30c480f40634
+:END:
+#+title: Njtzvl Emppgmw Nmsx 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Emppgmw Nmsx
+- vintage :: 2017
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.83
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:5f2a74f5-8c22-4684-919a-1201a32961ad][Njtzvl Emppgmw Nmsx 2017 - 2023-11-9]]

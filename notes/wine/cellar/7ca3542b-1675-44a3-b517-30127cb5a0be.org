@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7ca3542b-1675-44a3-b517-30127cb5a0be
+:END:
+#+title: Rue Ppsodsxw 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ppsodsxw
+- vintage :: 1909
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.93
+- price :: 18.97 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:bfda5c8c-ec32-4db0-a4c0-54a1e1e8c307][Rue Ppsodsxw 1909 - 1996-12-14]]

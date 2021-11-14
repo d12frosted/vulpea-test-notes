@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d30a7cbf-dc99-4a90-89ac-4ab8420a2d26
+:END:
+#+title: Rue Jlmq 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jlmq
+- vintage :: 1942
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.19
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:e296dbf1-6d3f-49ac-94d2-7166c1b74d9e][Rue Jlmq 1942 - 2023-11-10]]

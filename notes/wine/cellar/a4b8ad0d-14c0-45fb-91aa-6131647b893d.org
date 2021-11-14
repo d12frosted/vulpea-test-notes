@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a4b8ad0d-14c0-45fb-91aa-6131647b893d
+:END:
+#+title: Cdeexg Zbnlnplu Eyp 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Zbnlnplu Eyp
+- vintage :: 1970
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 10.629999999999999
+- sugar :: 7.76
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       47fd4fb3-676c-4914-be74-579abffb77a5
+:END:
+#+title: Mkmt Xoozcnba Qshcmmzu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Xoozcnba Qshcmmzu
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.24
+- sugar :: 9.49
+- price :: 9.72 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

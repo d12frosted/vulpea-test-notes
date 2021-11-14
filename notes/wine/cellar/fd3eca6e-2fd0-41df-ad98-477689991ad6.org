@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fd3eca6e-2fd0-41df-ad98-477689991ad6
+:END:
+#+title: Rue Bbke 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Bbke
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.21
+- price :: 77.80 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 2.0
+- ratings :: [[id:e51385e3-6ef8-45f7-80cd-d8f411e9de7a][Rue Bbke NV - 2002-12-13]]

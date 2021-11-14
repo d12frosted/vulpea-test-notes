@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d8d7f330-432b-49db-8c2b-2f7abc5bff2c
+:END:
+#+title: Rue Pxbl Upacagq 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Pxbl Upacagq
+- vintage :: 1980
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.98
+- price :: 32.75 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: 3.0
+- ratings :: [[id:eb4a2dbe-83fa-4198-88ee-cad9e27f0e00][Rue Pxbl Upacagq 1980 - 1996-10-17]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       fb7473b0-2ce8-4cc1-93c8-1af35866a8a4
+:END:
+#+title: Cdeexg Wmfrln Vlmn 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Wmfrln Vlmn
+- vintage :: 1921
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 10.83
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

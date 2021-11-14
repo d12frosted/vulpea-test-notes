@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2b605033-70f8-444e-a047-a6fd5a701d14
+:END:
+#+title: Mkmt Dvzs 1952 - 2000-11-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:bdb502d5-49b8-49e2-99d2-fd449055450d][Mkmt Dvzs 1952]]
+- date :: 2000-11-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

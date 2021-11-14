@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       14dab250-afe2-4cb6-8f1f-ca291b0f4425
+:END:
+#+title: Novr Rlrt Jhpwncmr 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jhpwncmr
+- vintage :: 1977
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.05
+- sugar :: 0.44
+- price :: 24.07 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

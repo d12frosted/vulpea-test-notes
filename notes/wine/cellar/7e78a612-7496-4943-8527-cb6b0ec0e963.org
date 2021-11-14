@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7e78a612-7496-4943-8527-cb6b0ec0e963
+:END:
+#+title: Njtzvl Gzngtqir Qigyh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Gzngtqir Qigyh
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.61
+- price :: 62.41 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:57b4eaad-6a41-4fb3-8fc3-270c1c81c683][Njtzvl Gzngtqir Qigyh NV - 2001-9-5]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       a08175a4-0bfb-4177-a823-99160e8664e4
+:END:
+#+title: Miv Uds Wpj 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Uds Wpj
+- vintage :: 1952
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.79
+- sugar :: 18.26
+- price :: 102.02 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 8.0
+- ratings :: [[id:8d040889-7750-4a5b-9dd7-4f0d4e6e1d47][Miv Uds Wpj 1952 - 2009-10-20]]

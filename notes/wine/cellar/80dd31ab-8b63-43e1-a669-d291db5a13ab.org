@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       80dd31ab-8b63-43e1-a669-d291db5a13ab
+:END:
+#+title: Miv Orlmjk Cyjpag 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Orlmjk Cyjpag
+- vintage :: 2018
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.11
+- sugar :: 18.18
+- price :: 74.46 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

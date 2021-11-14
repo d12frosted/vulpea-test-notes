@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       240fe546-599e-4971-87b6-1225ded6edc1
+:END:
+#+title: Miv Whhqalc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Whhqalc
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 11.46
+- sugar :: 12.8
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

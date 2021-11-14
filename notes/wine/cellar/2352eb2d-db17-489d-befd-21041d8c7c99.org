@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2352eb2d-db17-489d-befd-21041d8c7c99
+:END:
+#+title: Lzf Tthy Apo 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tthy Apo
+- vintage :: 1941
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.74
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:f2eafdb2-01d4-484d-8348-5b7be1eda741][Lzf Tthy Apo 1941 - 2006-1-25]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6cce7154-cb3a-4723-b3d7-71b5dc63929e
+:END:
+#+title: Rue Txdoc Ymu NV - 2023-1-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:47979206-c546-4cea-96cb-77741af364ff][Rue Txdoc Ymu]]
+- date :: 2023-1-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bd04a883-37a6-44a6-b158-c7518785cc74
+:END:
+#+title: Njtzvl Fkmhw Evrix 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Fkmhw Evrix
+- vintage :: 2013
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.22
+- price :: 89.11 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

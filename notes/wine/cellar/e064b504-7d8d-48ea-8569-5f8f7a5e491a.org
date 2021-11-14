@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e064b504-7d8d-48ea-8569-5f8f7a5e491a
+:END:
+#+title: Njtzvl Znhjlvqc Vzwfnzr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Znhjlvqc Vzwfnzr
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.26
+- price :: 83.65 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: wikipedia
+- rating :: 9.0
+- ratings :: [[id:494735c2-1365-428e-9673-720739e4457c][Njtzvl Znhjlvqc Vzwfnzr NV - 1998-8-17]]

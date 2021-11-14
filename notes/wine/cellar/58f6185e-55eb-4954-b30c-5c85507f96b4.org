@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       58f6185e-55eb-4954-b30c-5c85507f96b4
+:END:
+#+title: Dseajc Jinm Bjxg Sad 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Bjxg Sad
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 9.6
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0a02ac67-fea1-472b-8598-891ac29406e3
+:END:
+#+title: Rue Hljmvchb Ufzd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hljmvchb Ufzd
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.11
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 6.0
+- ratings :: [[id:b39db2ca-be41-4476-a37a-9f8f555b9b9f][Rue Hljmvchb Ufzd NV - 1991-7-13]]

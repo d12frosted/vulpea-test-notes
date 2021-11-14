@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b97071f1-a294-459d-84a2-db1576ad9b66
+:END:
+#+title: Mkmt Lwhs Yxhilp 2014 - 2018-6-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:f1984641-ee49-440e-a059-e4bc030c43cd][Mkmt Lwhs Yxhilp 2014]]
+- date :: 2018-6-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

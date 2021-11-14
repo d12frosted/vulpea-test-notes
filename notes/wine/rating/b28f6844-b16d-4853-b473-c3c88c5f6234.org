@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b28f6844-b16d-4853-b473-c3c88c5f6234
+:END:
+#+title: Novr Rlrt Hjhmg 1901 - 2021-6-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:2f0c95a1-5523-42dc-bcf0-4dcbd7bde185][Novr Rlrt Hjhmg 1901]]
+- date :: 2021-6-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

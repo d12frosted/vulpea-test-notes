@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       107a3d6e-6d63-4957-99ea-81936c08d4b7
+:END:
+#+title: Vjjtw Hvrja Bcxtz Fouydl 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bcxtz Fouydl
+- vintage :: 2014
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.35
+- sugar :: 3.44
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

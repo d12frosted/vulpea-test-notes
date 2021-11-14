@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0a78db35-bb21-4e2a-bdde-32579568d443
+:END:
+#+title: Novr Rlrt Ocpeh 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ocpeh
+- vintage :: 1994
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.79
+- sugar :: 11.64
+- price :: 47.70 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

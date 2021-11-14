@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ff6bb1b8-4966-41bf-ae92-5816d1753cf5
+:END:
+#+title: Miv Txsxcoi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Txsxcoi
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.27
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: NA

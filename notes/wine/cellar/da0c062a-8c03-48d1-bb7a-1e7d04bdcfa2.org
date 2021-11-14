@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       da0c062a-8c03-48d1-bb7a-1e7d04bdcfa2
+:END:
+#+title: Dseajc Jinm Tlzrpbqj Wbobzbh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tlzrpbqj Wbobzbh
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.46
+- sugar :: 13.71
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

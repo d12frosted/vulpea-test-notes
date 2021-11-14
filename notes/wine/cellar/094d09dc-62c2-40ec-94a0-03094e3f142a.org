@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       094d09dc-62c2-40ec-94a0-03094e3f142a
+:END:
+#+title: Vjjtw Hvrja Ecfwmy Qeaol 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ecfwmy Qeaol
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.870000000000001
+- sugar :: 13.45
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

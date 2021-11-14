@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       857d8cf8-c406-4279-98c0-d63755977dcb
+:END:
+#+title: Cdeexg Lleqgtf Jfmg 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Lleqgtf Jfmg
+- vintage :: 1954
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.18
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

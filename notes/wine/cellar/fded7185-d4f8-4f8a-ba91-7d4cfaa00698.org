@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fded7185-d4f8-4f8a-ba91-7d4cfaa00698
+:END:
+#+title: Dfsxtmx Bwq Yamxxl 1910
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Bwq Yamxxl
+- vintage :: 1910
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.46
+- sugar :: 3.47
+- price :: 92.97 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:456eadbf-e427-4f09-93ff-157c0ada22ca][Dfsxtmx Bwq Yamxxl 1910 - 2013-3-6]]

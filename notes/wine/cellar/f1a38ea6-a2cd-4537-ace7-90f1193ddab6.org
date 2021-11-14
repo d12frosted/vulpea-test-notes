@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f1a38ea6-a2cd-4537-ace7-90f1193ddab6
+:END:
+#+title: Novr Rlrt Eydirmpr Jxpq 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Eydirmpr Jxpq
+- vintage :: 2014
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.89
+- price :: 24.98 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

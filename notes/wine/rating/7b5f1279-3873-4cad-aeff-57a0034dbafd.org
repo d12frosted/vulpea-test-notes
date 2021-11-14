@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7b5f1279-3873-4cad-aeff-57a0034dbafd
+:END:
+#+title: Lzf Lgkuzhi NV - 1994-11-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:efd39a77-471c-412a-9813-57e6b52500e5][Lzf Lgkuzhi]]
+- date :: 1994-11-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

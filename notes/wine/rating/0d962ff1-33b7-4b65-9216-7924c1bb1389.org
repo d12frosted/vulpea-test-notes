@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0d962ff1-33b7-4b65-9216-7924c1bb1389
+:END:
+#+title: Rue Kzuse NV - 2024-10-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:75573f14-30da-43f6-a37f-01ce2689dbc7][Rue Kzuse]]
+- date :: 2024-10-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

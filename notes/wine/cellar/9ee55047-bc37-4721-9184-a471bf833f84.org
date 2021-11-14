@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9ee55047-bc37-4721-9184-a471bf833f84
+:END:
+#+title: Cdeexg Mnkxy Dfdn 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Mnkxy Dfdn
+- vintage :: 1955
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.34
+- sugar :: 9.79
+- price :: 40.94 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:7cf8c1fd-3d65-4835-a313-9f58f546cdd4][Cdeexg Mnkxy Dfdn 1955 - 2003-5-20]]

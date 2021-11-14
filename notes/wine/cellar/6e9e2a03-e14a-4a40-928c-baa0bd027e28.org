@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6e9e2a03-e14a-4a40-928c-baa0bd027e28
+:END:
+#+title: Dseajc Jinm Slpd Uvubeo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Slpd Uvubeo
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 13.27
+- price :: 101.96 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

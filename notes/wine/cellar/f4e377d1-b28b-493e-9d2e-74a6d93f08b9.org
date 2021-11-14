@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f4e377d1-b28b-493e-9d2e-74a6d93f08b9
+:END:
+#+title: Dseajc Jinm Pmmgxut 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Pmmgxut
+- vintage :: 1903
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.44
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

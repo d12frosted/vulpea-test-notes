@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       25c72e40-3e6a-4ad4-867d-ffa19b2373b7
+:END:
+#+title: Njtzvl Fgbsr NV - 2015-1-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:35e82786-4427-4556-adbd-1ccd3e4355a5][Njtzvl Fgbsr]]
+- date :: 2015-1-1
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

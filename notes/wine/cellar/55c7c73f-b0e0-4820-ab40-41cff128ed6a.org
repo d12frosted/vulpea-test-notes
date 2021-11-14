@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       55c7c73f-b0e0-4820-ab40-41cff128ed6a
+:END:
+#+title: Dseajc Jinm Jycgblw Vxz 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Jycgblw Vxz
+- vintage :: 1989
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.36
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

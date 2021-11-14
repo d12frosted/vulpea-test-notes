@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6a1d56e5-504d-4694-93b6-8293dc6955d6
+:END:
+#+title: Miv Txl Vuu 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Txl Vuu
+- vintage :: 1918
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.83
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 8.0
+- ratings :: [[id:4067e41c-b94a-48c2-9c6a-93d2ecce60dd][Miv Txl Vuu 1918 - 1996-3-5]]

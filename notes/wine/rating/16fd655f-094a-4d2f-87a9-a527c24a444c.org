@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       16fd655f-094a-4d2f-87a9-a527c24a444c
+:END:
+#+title: Cdeexg Tbbvz 1967 - 1995-11-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:1361c9b3-b20e-4d0e-a798-f46a0e477aa1][Cdeexg Tbbvz 1967]]
+- date :: 1995-11-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

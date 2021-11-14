@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fbb167d2-6110-4d17-9f6a-75553af3aef9
+:END:
+#+title: Njtzvl Ghoppy 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ghoppy
+- vintage :: 1967
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.11
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:f95e1995-a22a-4ab9-83a7-d54c78ded847][Njtzvl Ghoppy 1967 - 1999-1-6]]

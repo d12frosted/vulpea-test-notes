@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9a4de267-dcb8-4231-9893-054119a2521f
+:END:
+#+title: Novr Rlrt Tqhv Bsoenni 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tqhv Bsoenni
+- vintage :: 1939
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.02
+- price :: 16.76 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:40663156-d402-483a-bcd9-fce737d742ef][Novr Rlrt Tqhv Bsoenni 1939 - 2023-8-27]]

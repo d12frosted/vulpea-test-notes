@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5618dfe4-56d7-461d-be25-4344bd942042
+:END:
+#+title: Mkmt Vho Ussv 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Vho Ussv
+- vintage :: 1958
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.64
+- sugar :: 20.27
+- price :: 71.36 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 3.5
+- ratings :: [[id:a4510499-fa2e-439d-9e46-46e7054c6b05][Mkmt Vho Ussv 1958 - 1997-4-1]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       66e2c80c-12e8-438e-a18d-e843d2db2b4e
+:END:
+#+title: Lzf Cankbdt 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Cankbdt
+- vintage :: 1911
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.08
+- sugar :: 10.98
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

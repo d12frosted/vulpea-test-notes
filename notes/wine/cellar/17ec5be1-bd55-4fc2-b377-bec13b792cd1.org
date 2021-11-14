@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       17ec5be1-bd55-4fc2-b377-bec13b792cd1
+:END:
+#+title: Dfsxtmx Gzysz Biei 1932
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gzysz Biei
+- vintage :: 1932
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.56
+- price :: 54.46 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

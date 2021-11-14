@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       245f62d9-ed98-40d2-a1b9-f5d999a680ec
+:END:
+#+title: Dfsxtmx Fgsobuaz Cgk NV - 2021-6-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:0b156128-f577-4e4c-bf2a-a4fd77258e0d][Dfsxtmx Fgsobuaz Cgk]]
+- date :: 2021-6-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

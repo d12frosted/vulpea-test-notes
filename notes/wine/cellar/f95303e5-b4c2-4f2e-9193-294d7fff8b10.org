@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f95303e5-b4c2-4f2e-9193-294d7fff8b10
+:END:
+#+title: Vjjtw Hvrja Wcqk 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Wcqk
+- vintage :: 1919
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.19
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

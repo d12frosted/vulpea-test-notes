@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4f2f5e22-45e4-4e1b-b360-faeda3ac6e0d
+:END:
+#+title: Njtzvl Qombu 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Qombu
+- vintage :: 1982
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.04
+- sugar :: 14.61
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

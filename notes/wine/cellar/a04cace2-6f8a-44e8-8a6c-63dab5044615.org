@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a04cace2-6f8a-44e8-8a6c-63dab5044615
+:END:
+#+title: Lzf Tkd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tkd
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.0
+- sugar :: 12.28
+- price :: 52.58 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

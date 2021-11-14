@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c586613b-58b8-4c12-b638-b5fdaa4b8254
+:END:
+#+title: Dseajc Jinm Clou Vhv NV - 2005-1-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:a7f1d9fe-02ee-44ea-9cc4-da4ab30ae93f][Dseajc Jinm Clou Vhv]]
+- date :: 2005-1-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

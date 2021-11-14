@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       88d6100d-7b99-488f-9fdd-67d01fbdb45b
+:END:
+#+title: Rue Ess 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ess
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.09
+- sugar :: 6.87
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

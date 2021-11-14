@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f2452d17-32dc-4eb3-8690-b8a31521950a
+:END:
+#+title: Vjjtw Hvrja Rjjtt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Rjjtt
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.67
+- price :: 64.42 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:acbd8014-79a3-44d6-b142-3476cbe9342f][Vjjtw Hvrja Rjjtt NV - 2014-2-25]]

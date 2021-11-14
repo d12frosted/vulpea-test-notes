@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       606ce535-34f7-456c-9bbd-4cbf693c70da
+:END:
+#+title: Dseajc Jinm Vxn Xhjsypv 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vxn Xhjsypv
+- vintage :: 1918
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.25
+- sugar :: 17.21
+- price :: 39.03 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

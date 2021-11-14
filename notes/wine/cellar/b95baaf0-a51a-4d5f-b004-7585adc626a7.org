@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b95baaf0-a51a-4d5f-b004-7585adc626a7
+:END:
+#+title: Dseajc Jinm Omtzl Dmpzkza 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Omtzl Dmpzkza
+- vintage :: 1945
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.1
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 1.5
+- ratings :: [[id:55038c40-94ea-4fe0-83ea-41f227ee90a1][Dseajc Jinm Omtzl Dmpzkza 1945 - 2010-1-25]]

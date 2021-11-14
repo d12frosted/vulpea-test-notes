@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e47bf826-70c4-405d-8259-169e640cf56b
+:END:
+#+title: Rue Osyxa Lmgisttl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Osyxa Lmgisttl
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.47
+- price :: 21.94 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

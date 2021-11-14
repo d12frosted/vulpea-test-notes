@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       50df9359-1078-4f04-8e7a-fb5d3fc0ea6e
+:END:
+#+title: Njtzvl Femqzzz Pmghv 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Femqzzz Pmghv
+- vintage :: 1914
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.77
+- price :: 28.41 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:200beeb0-78c4-4d71-96b9-cf852326d735][Njtzvl Femqzzz Pmghv 1914 - 2016-7-10]]

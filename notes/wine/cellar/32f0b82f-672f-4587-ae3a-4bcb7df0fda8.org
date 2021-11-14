@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       32f0b82f-672f-4587-ae3a-4bcb7df0fda8
+:END:
+#+title: Rue Hltket Mjjuevc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hltket Mjjuevc
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.34
+- price :: 67.18 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: 8.0
+- ratings :: [[id:255dc6ca-33f1-43a8-b982-c353fbe9030e][Rue Hltket Mjjuevc NV - 1996-1-17]]

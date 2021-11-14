@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       208f237f-407e-4a08-8b9b-ec3859cb3d1f
+:END:
+#+title: Novr Rlrt Plnazxq 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Plnazxq
+- vintage :: 1942
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.79
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

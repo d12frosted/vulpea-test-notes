@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       879231f6-8949-4e4d-a3e2-6e9b4d5b3fd0
+:END:
+#+title: Cdeexg Phizaz Hwaaz 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Phizaz Hwaaz
+- vintage :: 1979
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.16
+- price :: 58.55 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

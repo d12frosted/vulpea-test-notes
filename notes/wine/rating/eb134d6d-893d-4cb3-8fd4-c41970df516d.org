@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       eb134d6d-893d-4cb3-8fd4-c41970df516d
+:END:
+#+title: Novr Rlrt Ucc NV - 2014-6-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:fb7d367a-243c-414e-98c1-0544d8066d80][Novr Rlrt Ucc]]
+- date :: 2014-6-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

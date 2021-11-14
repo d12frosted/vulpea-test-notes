@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c0b4fa30-3e3e-428f-8744-7e42d289a2b8
+:END:
+#+title: Njtzvl Ajtb Tbiy 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ajtb Tbiy
+- vintage :: 1930
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.45
+- sugar :: 8.95
+- price :: 38.14 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:c4fc93df-b414-4522-afb8-58ce5eec3921][Njtzvl Ajtb Tbiy 1930 - 2001-9-27]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1ceb947c-5d16-4e0f-86bc-02ee267532d1
+:END:
+#+title: Mkmt Eno 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Eno
+- vintage :: 1919
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.27
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: wikipedia
+- rating :: 1.5
+- ratings :: [[id:ee2d0ae6-cfa7-457a-b183-5a3a8589625b][Mkmt Eno 1919 - 2014-5-13]]

@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       92f2029e-9459-4309-af10-3c9973a664fe
+:END:
+#+title: Rue Upq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Upq
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 12.07
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

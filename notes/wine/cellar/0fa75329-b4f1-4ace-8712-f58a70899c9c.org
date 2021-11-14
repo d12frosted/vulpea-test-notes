@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0fa75329-b4f1-4ace-8712-f58a70899c9c
+:END:
+#+title: Cdeexg Gyqjohym 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Gyqjohym
+- vintage :: 1991
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.73
+- sugar :: 1.67
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.0
+- ratings :: [[id:73e88732-2be1-4793-918b-eb07e227da27][Cdeexg Gyqjohym 1991 - 1998-11-3]]

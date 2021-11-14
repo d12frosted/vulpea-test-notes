@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8349873a-4071-4fde-ae6d-f1107d88e26d
+:END:
+#+title: Novr Rlrt Ffsglyo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ffsglyo
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.06
+- price :: 96.65 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:c26b5dc5-d6cd-4626-a7a7-c4ddbba1f7a0][Novr Rlrt Ffsglyo NV - 2014-11-21]]

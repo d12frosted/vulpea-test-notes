@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5348a76f-3c8f-4f43-b059-88c31cee9637
+:END:
+#+title: Dseajc Jinm Gpfabgtr Ruy NV - 2023-5-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:fee8b69e-1d36-433b-afdb-1e35867606ab][Dseajc Jinm Gpfabgtr Ruy]]
+- date :: 2023-5-18
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

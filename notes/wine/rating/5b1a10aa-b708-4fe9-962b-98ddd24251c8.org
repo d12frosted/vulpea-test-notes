@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5b1a10aa-b708-4fe9-962b-98ddd24251c8
+:END:
+#+title: Lzf Fgmnqu 1917 - 2002-7-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:be514e59-3ce2-4ed3-966e-547d2b6878f9][Lzf Fgmnqu 1917]]
+- date :: 2002-7-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

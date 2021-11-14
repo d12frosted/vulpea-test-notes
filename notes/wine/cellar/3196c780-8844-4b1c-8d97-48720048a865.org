@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3196c780-8844-4b1c-8d97-48720048a865
+:END:
+#+title: Dfsxtmx Frwa 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Frwa
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.98
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:223dfe72-d6fb-423e-9766-e8d6a2d3c0c9][Dfsxtmx Frwa NV - 2023-1-17]]

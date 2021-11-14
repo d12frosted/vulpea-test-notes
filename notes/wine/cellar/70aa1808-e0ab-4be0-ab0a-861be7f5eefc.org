@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       70aa1808-e0ab-4be0-ab0a-861be7f5eefc
+:END:
+#+title: Mkmt Ntpyxgfz 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ntpyxgfz
+- vintage :: 1984
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.440000000000001
+- sugar :: 22.11
+- price :: 83.21 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

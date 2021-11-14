@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5a5263fa-1459-4f06-9f1e-732494a8c8d1
+:END:
+#+title: Cdeexg Ukwwehuu Qzgicuh 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ukwwehuu Qzgicuh
+- vintage :: 2006
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.03
+- price :: 77.58 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:cf763761-7dfe-49a7-9ff6-7a3de6ccf45f][Cdeexg Ukwwehuu Qzgicuh 2006 - 2016-10-6]]

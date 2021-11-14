@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d90c9a60-91ec-4dc3-928d-6d88e3b39935
+:END:
+#+title: Novr Rlrt Kkyluglw Ngl 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Kkyluglw Ngl
+- vintage :: 2014
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.09
+- sugar :: 11.57
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: wikipedia
+- rating :: NA

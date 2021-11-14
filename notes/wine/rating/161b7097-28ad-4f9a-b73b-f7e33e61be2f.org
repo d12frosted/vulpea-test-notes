@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       161b7097-28ad-4f9a-b73b-f7e33e61be2f
+:END:
+#+title: Rue Bdkpzull 1951 - 1994-11-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:e50171a9-34f4-495c-9f03-1e16736bc2a3][Rue Bdkpzull 1951]]
+- date :: 1994-11-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

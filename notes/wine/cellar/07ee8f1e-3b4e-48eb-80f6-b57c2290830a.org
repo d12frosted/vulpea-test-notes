@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       07ee8f1e-3b4e-48eb-80f6-b57c2290830a
+:END:
+#+title: Miv Ezwlwsdn Agbgo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ezwlwsdn Agbgo
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.15
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 8.0
+- ratings :: [[id:69b47484-043c-4c37-a08f-ee41433339e0][Miv Ezwlwsdn Agbgo NV - 2008-1-9]]

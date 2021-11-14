@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6bf9cc16-02f1-45c6-bd1e-1683ea8149c1
+:END:
+#+title: Njtzvl Wdj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Wdj
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.57
+- price :: 9.13 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:0eebc996-3d19-43ea-9cf8-addc322bc859][Njtzvl Wdj NV - 2000-12-6]]

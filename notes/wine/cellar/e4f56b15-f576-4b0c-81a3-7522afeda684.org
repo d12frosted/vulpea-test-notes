@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e4f56b15-f576-4b0c-81a3-7522afeda684
+:END:
+#+title: Novr Rlrt Imk 1912
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Imk
+- vintage :: 1912
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 12.68
+- sugar :: 13.86
+- price :: 63.51 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.5
+- ratings :: [[id:672beb66-8dfd-4c00-8ab1-383645131a77][Novr Rlrt Imk 1912 - 2002-7-4]]

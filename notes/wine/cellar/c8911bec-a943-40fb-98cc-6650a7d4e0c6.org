@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c8911bec-a943-40fb-98cc-6650a7d4e0c6
+:END:
+#+title: Dfsxtmx Tcgwaut Mwyseji 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Tcgwaut Mwyseji
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 12.35
+- sugar :: 19.86
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:e765c2a4-7909-4e15-b367-c1e29035ef55][Dfsxtmx Tcgwaut Mwyseji NV - 2021-4-17]]

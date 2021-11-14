@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       88c7d0a6-d426-48da-a409-2591324359d5
+:END:
+#+title: Cdeexg Nlkn Nncwozvr 1983 - 2013-1-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:5e8124a1-ad3f-4b0a-a3c7-2902c28109ec][Cdeexg Nlkn Nncwozvr 1983]]
+- date :: 2013-1-4
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

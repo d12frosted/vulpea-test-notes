@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       86c8bb87-f8d5-420c-9f96-0ab1adfa6f51
+:END:
+#+title: Miv Mevvcj 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Mevvcj
+- vintage :: 1933
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.15
+- price :: 76.51 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:fd444df4-7c78-472c-90a7-571804321d37][Miv Mevvcj 1933 - 1997-12-14]]

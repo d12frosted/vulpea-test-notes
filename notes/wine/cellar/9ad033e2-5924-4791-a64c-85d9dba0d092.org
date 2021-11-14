@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9ad033e2-5924-4791-a64c-85d9dba0d092
+:END:
+#+title: Dfsxtmx Oil 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Oil
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.2
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:d4a5f66a-b720-4cb2-a76b-a5af1638fcb4][Dfsxtmx Oil NV - 2012-7-24]]

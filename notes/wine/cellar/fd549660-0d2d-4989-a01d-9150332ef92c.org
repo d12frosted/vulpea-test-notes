@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fd549660-0d2d-4989-a01d-9150332ef92c
+:END:
+#+title: Dseajc Jinm Oyyd 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Oyyd
+- vintage :: 2011
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 11.42
+- sugar :: 12.46
+- price :: 20.27 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:208da27a-3efe-4ce5-bd66-ee99a92bed2d][Dseajc Jinm Oyyd 2011 - 2013-3-23]]

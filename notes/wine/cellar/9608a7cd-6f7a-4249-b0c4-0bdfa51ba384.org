@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       9608a7cd-6f7a-4249-b0c4-0bdfa51ba384
+:END:
+#+title: Novr Rlrt Zpeipqj 1994
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Zpeipqj
+- vintage :: 1994
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.46
+- sugar :: 1.74
+- price :: 20.04 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.5
+- ratings :: [[id:6228f8dd-8a41-4009-ba9e-f59eb9666639][Novr Rlrt Zpeipqj 1994 - 2012-11-9]]

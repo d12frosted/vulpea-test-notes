@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d22a9848-e044-4294-b00f-8a950b54c0ad
+:END:
+#+title: Dseajc Jinm Donhkoo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Donhkoo
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.73
+- sugar :: 6.29
+- price :: 77.67 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:84229f26-610a-4421-8673-09374b4578f7][Dseajc Jinm Donhkoo NV - 2022-8-24]]

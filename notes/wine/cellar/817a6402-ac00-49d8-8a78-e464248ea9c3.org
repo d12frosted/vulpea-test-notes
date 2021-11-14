@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       817a6402-ac00-49d8-8a78-e464248ea9c3
+:END:
+#+title: Lzf Xiyy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Xiyy
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 10.51
+- sugar :: 2.09
+- price :: 3.29 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 5.5
+- ratings :: [[id:49e5f402-c7fa-4a84-a318-d4cc23f95469][Lzf Xiyy NV - 2006-2-2]]

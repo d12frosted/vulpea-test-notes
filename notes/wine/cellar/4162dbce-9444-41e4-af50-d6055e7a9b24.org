@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4162dbce-9444-41e4-af50-d6055e7a9b24
+:END:
+#+title: Vjjtw Hvrja Fcghbbww Vjirkgir 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Fcghbbww Vjirkgir
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.15
+- sugar :: 22.65
+- price :: 38.59 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

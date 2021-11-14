@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ec602d8b-13f7-46fe-b237-a243a9f22bc2
+:END:
+#+title: Dseajc Jinm Jfyw NV - 2019-1-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:33f790c3-66f3-4291-bf24-2f648d87edf3][Dseajc Jinm Jfyw]]
+- date :: 2019-1-20
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

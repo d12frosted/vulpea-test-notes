@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       35b393fa-6dcd-4217-a8ed-867110938b0c
+:END:
+#+title: Novr Rlrt Ubrowy Cekzuyhg 1979 - 2005-1-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:dcbf9cfe-588e-4443-92d0-0779699629c0][Novr Rlrt Ubrowy Cekzuyhg 1979]]
+- date :: 2005-1-14
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

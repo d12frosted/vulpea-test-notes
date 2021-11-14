@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6cd4793f-8e50-4152-b2f4-d749398983e8
+:END:
+#+title: Vjjtw Hvrja Kuwiwym 1956 - 1995-8-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:a5c79ec5-0217-4592-9155-07ce806f1be0][Vjjtw Hvrja Kuwiwym 1956]]
+- date :: 1995-8-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

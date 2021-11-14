@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       af10ad90-a0ec-46a5-838a-400dc0a38c0a
+:END:
+#+title: Cdeexg Yxdaivz 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Yxdaivz
+- vintage :: 1919
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.83
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:09343dda-9385-4ee7-a265-aa71734d0d23][Cdeexg Yxdaivz 1919 - 2000-9-16]]

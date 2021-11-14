@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5806e1ee-4bcb-4b95-a168-a73b5c2d3b1c
+:END:
+#+title: Cdeexg Hzwnnj Kqvxr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Hzwnnj Kqvxr
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.49
+- price :: 64.83 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:b50bc934-7ec1-4472-8e90-8e8d03807de2][Cdeexg Hzwnnj Kqvxr NV - 2020-10-21]]

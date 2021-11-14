@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       54ea052b-1783-4c1c-bc2b-d1fdb89e821c
+:END:
+#+title: Rue Uccceoui Yvmb 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Uccceoui Yvmb
+- vintage :: 1952
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.35
+- sugar :: 0.43
+- price :: 79.87 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       29f9d1de-e330-4946-9a61-79dc0aa8183f
+:END:
+#+title: Lzf Vzqyis Whmrti NV - 2006-7-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:e7949188-bf2c-43a0-b5c5-2632f04519cc][Lzf Vzqyis Whmrti]]
+- date :: 2006-7-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

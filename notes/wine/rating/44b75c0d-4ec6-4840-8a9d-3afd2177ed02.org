@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       44b75c0d-4ec6-4840-8a9d-3afd2177ed02
+:END:
+#+title: Vjjtw Hvrja Xhiakc Zzibfwa 1964 - 1991-5-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:307a5e6f-572f-4d51-b575-fc7d139fb1dc][Vjjtw Hvrja Xhiakc Zzibfwa 1964]]
+- date :: 1991-5-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

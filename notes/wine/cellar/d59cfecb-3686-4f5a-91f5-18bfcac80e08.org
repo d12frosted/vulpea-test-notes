@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d59cfecb-3686-4f5a-91f5-18bfcac80e08
+:END:
+#+title: Cdeexg Tlbayek Mpfrzckd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Tlbayek Mpfrzckd
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.32
+- price :: 39.36 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:78e839dc-d2e1-476e-ab91-cf43a988391e][Cdeexg Tlbayek Mpfrzckd NV - 1999-6-12]]

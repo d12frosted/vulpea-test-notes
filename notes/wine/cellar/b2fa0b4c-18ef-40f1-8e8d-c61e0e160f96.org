@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b2fa0b4c-18ef-40f1-8e8d-c61e0e160f96
+:END:
+#+title: Miv Azgxfbx 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Azgxfbx
+- vintage :: 1935
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 10.31
+- sugar :: 1.31
+- price :: 36.35 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.0
+- ratings :: [[id:e104bfb7-a052-44fd-a6f8-2ee1dd45b750][Miv Azgxfbx 1935 - 2022-4-15]]

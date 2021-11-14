@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4dedb3f6-ea62-46d4-8092-f422d5c0f391
+:END:
+#+title: Njtzvl Tzsgn Szhfglgw 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Tzsgn Szhfglgw
+- vintage :: 1951
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.49
+- price :: 29.34 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.0
+- ratings :: [[id:b0ae550b-6480-485c-80e2-22b1215951ed][Njtzvl Tzsgn Szhfglgw 1951 - 2003-3-16]]

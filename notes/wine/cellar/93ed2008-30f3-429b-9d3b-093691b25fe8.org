@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       93ed2008-30f3-429b-9d3b-093691b25fe8
+:END:
+#+title: Dseajc Jinm Xedxnxs Jyw 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xedxnxs Jyw
+- vintage :: 1904
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.94
+- sugar :: 21.99
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

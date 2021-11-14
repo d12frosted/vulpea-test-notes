@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       206fe700-5226-4e88-b694-d633b075aa52
+:END:
+#+title: Vjjtw Hvrja Ksl Gvcj 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ksl Gvcj
+- vintage :: 2011
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.53
+- price :: 14.27 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

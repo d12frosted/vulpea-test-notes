@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d55310cb-d67d-41b1-9358-80c76f6c89db
+:END:
+#+title: Miv Ksrardlh Mmvghhgx 2009 - 2016-9-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:65dd609d-7bea-4354-96d9-a65cb5ae234b][Miv Ksrardlh Mmvghhgx 2009]]
+- date :: 2016-9-21
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

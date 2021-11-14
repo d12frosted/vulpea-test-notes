@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       465fe635-d732-4c4b-aff3-00ce4dae5e73
+:END:
+#+title: Dseajc Jinm Walyaten Yiepqxu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Walyaten Yiepqxu
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.55
+- sugar :: 22.18
+- price :: 71.69 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

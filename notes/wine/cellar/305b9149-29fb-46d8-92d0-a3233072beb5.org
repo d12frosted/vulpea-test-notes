@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       305b9149-29fb-46d8-92d0-a3233072beb5
+:END:
+#+title: Lzf Yovce 1948
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Yovce
+- vintage :: 1948
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 9.39
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

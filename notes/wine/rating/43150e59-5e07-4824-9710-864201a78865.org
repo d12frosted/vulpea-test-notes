@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       43150e59-5e07-4824-9710-864201a78865
+:END:
+#+title: Lzf Vsmcuz 1999 - 2010-8-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:55a2c846-d826-4b4e-af6c-4357553b017e][Lzf Vsmcuz 1999]]
+- date :: 2010-8-27
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

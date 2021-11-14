@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       40148391-854c-4123-a080-f8b8d8ed1ea6
+:END:
+#+title: Cdeexg Ysnomv 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ysnomv
+- vintage :: 1914
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.0
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

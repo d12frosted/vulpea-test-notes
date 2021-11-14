@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7e3871cd-497e-4a0b-a4e2-efd6677d8011
+:END:
+#+title: Vjjtw Hvrja Spf 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Spf
+- vintage :: 1968
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 9.48
+- sugar :: 7.56
+- price :: 78.11 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 3.0
+- ratings :: [[id:eb37f4e0-21d6-4041-9170-77269f8414d7][Vjjtw Hvrja Spf 1968 - 2022-2-9]]

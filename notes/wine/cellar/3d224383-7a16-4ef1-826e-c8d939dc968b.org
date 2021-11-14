@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3d224383-7a16-4ef1-826e-c8d939dc968b
+:END:
+#+title: Novr Rlrt Rbpvs 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Rbpvs
+- vintage :: 1944
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.51
+- sugar :: 3.66
+- price :: 79.93 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

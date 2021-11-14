@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       539551a5-7e8e-42b0-bcb4-6cc4258b35b9
+:END:
+#+title: Dseajc Jinm Fgbdyb 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Fgbdyb
+- vintage :: 1962
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.78
+- sugar :: 6.35
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 2.0
+- ratings :: [[id:766e1220-bcfc-4035-96ac-70795a04539e][Dseajc Jinm Fgbdyb 1962 - 2011-4-17]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       cecfb89b-242d-46b2-8d8f-0bb0fd18e9b4
+:END:
+#+title: Dfsxtmx Qdpqzl Vyx 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qdpqzl Vyx
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.59
+- sugar :: 11.39
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: wikipedia
+- rating :: 3.0
+- ratings :: [[id:6a6e4a25-47fe-4f62-87fa-e9a946c3059d][Dfsxtmx Qdpqzl Vyx NV - 1998-1-19]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       640500b2-e9c8-4b3e-a8b9-2e2310c753f5
+:END:
+#+title: Dseajc Jinm Xojd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xojd
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.2
+- sugar :: 12.33
+- price :: 81.93 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

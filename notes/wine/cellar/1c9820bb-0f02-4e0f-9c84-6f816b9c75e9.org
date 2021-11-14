@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1c9820bb-0f02-4e0f-9c84-6f816b9c75e9
+:END:
+#+title: Njtzvl Xfgqsetj Qjkcw 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xfgqsetj Qjkcw
+- vintage :: 2019
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.11
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 8.0
+- ratings :: [[id:3e4f5b45-716a-450f-8e59-8869031e0ed0][Njtzvl Xfgqsetj Qjkcw 2019 - 2023-9-11]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       98ba81e4-42cc-4e25-9053-220e05763290
+:END:
+#+title: Vjjtw Hvrja Pfyvu 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pfyvu
+- vintage :: 1951
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.07
+- sugar :: 13.41
+- price :: 86.98 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:adcde941-23bb-4209-a52b-2681227db223][Vjjtw Hvrja Pfyvu 1951 - 2020-3-26]]

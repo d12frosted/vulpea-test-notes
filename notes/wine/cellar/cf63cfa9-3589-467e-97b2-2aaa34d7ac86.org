@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cf63cfa9-3589-467e-97b2-2aaa34d7ac86
+:END:
+#+title: Dseajc Jinm Ofyvfqor Cuirdwtd 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ofyvfqor Cuirdwtd
+- vintage :: 1901
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 11.19
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

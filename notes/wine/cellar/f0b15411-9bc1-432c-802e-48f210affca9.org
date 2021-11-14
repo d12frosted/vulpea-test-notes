@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f0b15411-9bc1-432c-802e-48f210affca9
+:END:
+#+title: Novr Rlrt Vbivspl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vbivspl
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.71
+- price :: 34.93 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

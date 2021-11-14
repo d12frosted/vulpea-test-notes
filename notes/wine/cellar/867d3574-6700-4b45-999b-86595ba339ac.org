@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       867d3574-6700-4b45-999b-86595ba339ac
+:END:
+#+title: Lzf Jwnjuyg Mso 1938
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jwnjuyg Mso
+- vintage :: 1938
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.01
+- sugar :: 1.85
+- price :: 41.91 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

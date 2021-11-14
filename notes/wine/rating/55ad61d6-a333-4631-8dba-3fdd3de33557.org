@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       55ad61d6-a333-4631-8dba-3fdd3de33557
+:END:
+#+title: Dfsxtmx Bkj 1979 - 2020-2-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:1ce2ec0b-3583-4e7f-909e-98e4fd0f75ac][Dfsxtmx Bkj 1979]]
+- date :: 2020-2-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 3
+- score_max :: 20
+- total :: 1.5

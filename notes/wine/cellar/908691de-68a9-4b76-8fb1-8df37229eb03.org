@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       908691de-68a9-4b76-8fb1-8df37229eb03
+:END:
+#+title: Cdeexg Ajbqh 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ajbqh
+- vintage :: 1989
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.35
+- sugar :: 6.55
+- price :: 85.49 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

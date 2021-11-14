@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8861f693-8fcc-4266-8ea8-ae4e873b8cd6
+:END:
+#+title: Dfsxtmx Jnr Ozlyr NV - 2005-3-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:4b490e96-6241-434a-acff-0cfe04469e12][Dfsxtmx Jnr Ozlyr]]
+- date :: 2005-3-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

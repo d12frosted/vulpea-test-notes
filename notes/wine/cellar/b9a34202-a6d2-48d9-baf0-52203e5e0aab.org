@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b9a34202-a6d2-48d9-baf0-52203e5e0aab
+:END:
+#+title: Lzf Ywqqyyi Czkj 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ywqqyyi Czkj
+- vintage :: 2006
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.76
+- sugar :: 22.34
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

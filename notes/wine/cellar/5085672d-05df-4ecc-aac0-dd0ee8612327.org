@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5085672d-05df-4ecc-aac0-dd0ee8612327
+:END:
+#+title: Njtzvl Hlztcqn Ncw 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hlztcqn Ncw
+- vintage :: 1927
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.05
+- price :: 26.08 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: duckduckgo
+- rating :: NA

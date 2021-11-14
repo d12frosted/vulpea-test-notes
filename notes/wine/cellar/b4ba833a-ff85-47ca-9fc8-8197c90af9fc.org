@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b4ba833a-ff85-47ca-9fc8-8197c90af9fc
+:END:
+#+title: Mkmt Tqdqzsw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Tqdqzsw
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.26
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:31550664-1fe1-4a39-993a-363204009c53][Mkmt Tqdqzsw NV - 2007-2-4]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0a8e5a33-b251-42a2-808c-7887bee56e5f
+:END:
+#+title: Dseajc Jinm Zwgzhxnu Jcd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zwgzhxnu Jcd
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.55
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:14c81239-d7b3-4ff2-874b-a7fc62ec5f59][Dseajc Jinm Zwgzhxnu Jcd NV - 1991-5-23]]

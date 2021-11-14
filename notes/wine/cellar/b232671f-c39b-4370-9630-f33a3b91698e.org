@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b232671f-c39b-4370-9630-f33a3b91698e
+:END:
+#+title: Njtzvl Geqoxq Nwwyooz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Geqoxq Nwwyooz
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.06
+- sugar :: 12.99
+- price :: 76.50 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

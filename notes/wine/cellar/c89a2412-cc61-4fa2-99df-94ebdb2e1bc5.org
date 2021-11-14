@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c89a2412-cc61-4fa2-99df-94ebdb2e1bc5
+:END:
+#+title: Mkmt Dsjimpgr Sjvvh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Dsjimpgr Sjvvh
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.21
+- sugar :: 20.55
+- price :: 51.37 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

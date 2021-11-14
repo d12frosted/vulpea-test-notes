@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aadb6b26-8ad6-4d01-a0aa-ddfc197e8711
+:END:
+#+title: Vjjtw Hvrja Jyzeb Zbejq NV - 1995-8-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:4a2f04d9-ddde-47e8-840a-f3150e0066ba][Vjjtw Hvrja Jyzeb Zbejq]]
+- date :: 1995-8-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

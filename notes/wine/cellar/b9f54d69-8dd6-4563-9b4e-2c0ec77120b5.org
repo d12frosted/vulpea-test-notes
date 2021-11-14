@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b9f54d69-8dd6-4563-9b4e-2c0ec77120b5
+:END:
+#+title: Lzf Ijnv Enw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ijnv Enw
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.8
+- price :: 98.49 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8c3a5c74-e064-4b32-9b6d-af85cb85c2e5
+:END:
+#+title: Dfsxtmx Jwztkjz 1907 - 2005-10-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:6c9abdb1-2bc9-4ecc-b008-d139812eadcd][Dfsxtmx Jwztkjz 1907]]
+- date :: 2005-10-21
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

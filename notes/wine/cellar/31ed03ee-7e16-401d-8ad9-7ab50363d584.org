@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       31ed03ee-7e16-401d-8ad9-7ab50363d584
+:END:
+#+title: Mkmt Dqn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Dqn
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 11.09
+- price :: 28.94 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

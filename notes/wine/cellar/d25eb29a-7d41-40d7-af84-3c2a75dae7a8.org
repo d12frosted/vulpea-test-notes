@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d25eb29a-7d41-40d7-af84-3c2a75dae7a8
+:END:
+#+title: Dseajc Jinm Xdb 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xdb
+- vintage :: 2010
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.04
+- sugar :: 12.43
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

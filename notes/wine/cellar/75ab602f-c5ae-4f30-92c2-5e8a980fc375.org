@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       75ab602f-c5ae-4f30-92c2-5e8a980fc375
+:END:
+#+title: Mkmt Fxut Rjia 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fxut Rjia
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.09
+- sugar :: 18.81
+- price :: 8.71 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:72d4fb40-2d0b-4529-847c-6c811c42fb5f][Mkmt Fxut Rjia NV - 2003-2-20]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d71eeb16-ccf5-479e-a563-e73706ec0898
+:END:
+#+title: Dfsxtmx Tdvjkjem Gmecf 1927
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Tdvjkjem Gmecf
+- vintage :: 1927
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 9.94
+- price :: 36.19 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

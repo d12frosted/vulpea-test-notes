@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d7be8b26-8c8d-459d-9b46-faacb76b1dd9
+:END:
+#+title: Novr Rlrt Ougjo Hisrwtg 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ougjo Hisrwtg
+- vintage :: 1947
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 13.68
+- sugar :: 22.55
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

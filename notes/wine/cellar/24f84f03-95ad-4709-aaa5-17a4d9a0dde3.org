@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       24f84f03-95ad-4709-aaa5-17a4d9a0dde3
+:END:
+#+title: Cdeexg Utbu Ofod 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Utbu Ofod
+- vintage :: 1995
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.56
+- sugar :: 16.04
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:44f41614-5a01-42ff-a297-7b36eb5bc9e5][Cdeexg Utbu Ofod 1995 - 2021-9-21]]

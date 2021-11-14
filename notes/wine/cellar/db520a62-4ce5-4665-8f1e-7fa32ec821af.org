@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       db520a62-4ce5-4665-8f1e-7fa32ec821af
+:END:
+#+title: Novr Rlrt Vhxyhjf Fmnfjo 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vhxyhjf Fmnfjo
+- vintage :: 1900
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 9.7
+- sugar :: 1.06
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

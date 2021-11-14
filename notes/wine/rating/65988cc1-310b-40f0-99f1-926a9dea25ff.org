@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       65988cc1-310b-40f0-99f1-926a9dea25ff
+:END:
+#+title: Mkmt Ppalpwc 1900 - 1991-6-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:7cbd7543-f04c-45db-8ac4-cbbe71aef2ce][Mkmt Ppalpwc 1900]]
+- date :: 1991-6-6
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

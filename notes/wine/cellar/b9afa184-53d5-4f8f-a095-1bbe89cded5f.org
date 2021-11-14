@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b9afa184-53d5-4f8f-a095-1bbe89cded5f
+:END:
+#+title: Lzf Mrdshbm 1955
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Mrdshbm
+- vintage :: 1955
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.83
+- sugar :: 10.15
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.0
+- ratings :: [[id:c6b4f081-6a9c-4cbb-a3dc-a7780a72eb2b][Lzf Mrdshbm 1955 - 1999-5-13]]

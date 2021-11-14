@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a51019b4-582e-48db-8d75-ba896b4dfafb
+:END:
+#+title: Rue Pmpis Aihzrj 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Pmpis Aihzrj
+- vintage :: 1952
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.76
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

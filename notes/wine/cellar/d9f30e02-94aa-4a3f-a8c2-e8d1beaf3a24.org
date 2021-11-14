@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d9f30e02-94aa-4a3f-a8c2-e8d1beaf3a24
+:END:
+#+title: Rue Kvmdxv 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kvmdxv
+- vintage :: 1924
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 9.19
+- sugar :: 5.78
+- price :: 15.89 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 2.0
+- ratings :: [[id:49a7cf5a-145f-4158-ae28-0cbb4e3bac6b][Rue Kvmdxv 1924 - 1993-3-2]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       58dd4380-a16c-46bc-bd32-7eca73ad0b30
+:END:
+#+title: Cdeexg Lbxv Yitlqf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Lbxv Yitlqf
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 13.969999999999999
+- sugar :: 5.23
+- price :: 53.03 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 7.0
+- ratings :: [[id:4f3094cb-6123-4dc9-9d6c-c16e502f6f00][Cdeexg Lbxv Yitlqf NV - 1993-8-25]]

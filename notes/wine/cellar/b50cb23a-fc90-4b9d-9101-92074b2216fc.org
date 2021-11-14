@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b50cb23a-fc90-4b9d-9101-92074b2216fc
+:END:
+#+title: Lzf Oyjb Qsyizly 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Oyjb Qsyizly
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.7
+- sugar :: 9.02
+- price :: 30.16 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.5
+- ratings :: [[id:9fd6ca11-63b1-4f66-8a60-b28d95b3e75a][Lzf Oyjb Qsyizly NV - 2019-6-4]]

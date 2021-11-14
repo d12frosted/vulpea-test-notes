@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0915486f-9f5a-4141-b02b-8bd22e208a38
+:END:
+#+title: Rue Xstpr 1988 - 2023-4-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:a34d0fa3-9a0b-418e-8e4d-2463a64dd23e][Rue Xstpr 1988]]
+- date :: 2023-4-15
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

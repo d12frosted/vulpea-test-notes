@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b240b732-4abd-496d-b0b0-0fa64b3cd4a8
+:END:
+#+title: Miv Rra Mzc 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rra Mzc
+- vintage :: 1915
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.44
+- sugar :: 13.37
+- price :: 89.90 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

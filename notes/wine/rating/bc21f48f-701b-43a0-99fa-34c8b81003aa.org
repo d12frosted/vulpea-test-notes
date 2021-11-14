@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bc21f48f-701b-43a0-99fa-34c8b81003aa
+:END:
+#+title: Lzf Gegfbq NV - 1994-8-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:97c03be5-fd01-4237-94e0-1af6217bdb1c][Lzf Gegfbq]]
+- date :: 1994-8-20
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

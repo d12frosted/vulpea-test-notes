@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ade76574-b502-499d-a9f6-d316ea65dcc5
+:END:
+#+title: Vjjtw Hvrja Zhmf NV - 2023-10-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:b7bb9ad3-8bb8-4036-b44b-7ff3a1d7c51e][Vjjtw Hvrja Zhmf]]
+- date :: 2023-10-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

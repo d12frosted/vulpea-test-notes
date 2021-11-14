@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3ad35bb1-48e4-4d5a-a74f-fe0e7d839fb8
+:END:
+#+title: Dseajc Jinm Pjhiy Bjto 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Pjhiy Bjto
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.7
+- sugar :: 15.54
+- price :: 49.78 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:e230890e-7421-4109-b85c-de6bafc942bf][Dseajc Jinm Pjhiy Bjto NV - 2011-2-26]]

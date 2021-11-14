@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0d8c362f-c997-422a-9ea9-35db97b3e6e1
+:END:
+#+title: Vjjtw Hvrja Myy Sfom 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Myy Sfom
+- vintage :: 1975
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.629999999999999
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

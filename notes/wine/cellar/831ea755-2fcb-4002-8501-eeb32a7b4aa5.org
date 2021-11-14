@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       831ea755-2fcb-4002-8501-eeb32a7b4aa5
+:END:
+#+title: Dseajc Jinm Gfoja 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Gfoja
+- vintage :: 1944
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.72
+- sugar :: 22.35
+- price :: 38.26 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:4266403f-4b00-4d15-b1eb-71d722efd523][Dseajc Jinm Gfoja 1944 - 2006-6-2]]

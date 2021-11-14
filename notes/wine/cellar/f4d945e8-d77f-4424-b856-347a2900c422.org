@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       f4d945e8-d77f-4424-b856-347a2900c422
+:END:
+#+title: Rue Fjegszb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Fjegszb
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 10.75
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA

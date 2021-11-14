@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       fdb387e4-a4cb-4286-9fd9-bfa57e639ed5
+:END:
+#+title: Rue Zvqlsliy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Zvqlsliy
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.02
+- price :: 22.16 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: NA

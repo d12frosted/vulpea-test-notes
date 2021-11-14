@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d4268b25-b2f4-4e6c-93bc-0cbd8b86d398
+:END:
+#+title: Njtzvl Dkejwryt Bjzgwjap 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Dkejwryt Bjzgwjap
+- vintage :: 1941
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.27
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 6.0
+- ratings :: [[id:e96b8190-e15a-4d02-be04-d83b7516ab45][Njtzvl Dkejwryt Bjzgwjap 1941 - 2022-3-1]]

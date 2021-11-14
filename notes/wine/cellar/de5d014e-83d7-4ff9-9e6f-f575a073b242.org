@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       de5d014e-83d7-4ff9-9e6f-f575a073b242
+:END:
+#+title: Njtzvl Clmtizli Sjwjr 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Clmtizli Sjwjr
+- vintage :: 1926
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.1
+- sugar :: 19.33
+- price :: 85.90 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.5
+- ratings :: [[id:85b95d6f-acdf-4ce7-b2f9-f920496066d2][Njtzvl Clmtizli Sjwjr 1926 - 2017-4-10]]

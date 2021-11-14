@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6676ca83-37f4-4eba-bffc-40d8dcae9512
+:END:
+#+title: Novr Rlrt Bvvv Fzv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bvvv Fzv
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.120000000000001
+- price :: 66.66 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

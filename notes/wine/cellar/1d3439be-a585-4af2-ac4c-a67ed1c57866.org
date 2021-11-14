@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1d3439be-a585-4af2-ac4c-a67ed1c57866
+:END:
+#+title: Cdeexg Unhabz Kbbfil 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Unhabz Kbbfil
+- vintage :: 1934
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.85
+- price :: 75.48 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 6.0
+- ratings :: [[id:caae941c-df90-401e-9c55-182ee81fa7e8][Cdeexg Unhabz Kbbfil 1934 - 2004-6-17]]

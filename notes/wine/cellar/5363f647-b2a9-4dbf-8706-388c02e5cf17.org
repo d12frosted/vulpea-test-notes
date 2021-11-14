@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5363f647-b2a9-4dbf-8706-388c02e5cf17
+:END:
+#+title: Novr Rlrt Oyagjs 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Oyagjs
+- vintage :: 1973
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.53
+- sugar :: 11.83
+- price :: 55.20 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

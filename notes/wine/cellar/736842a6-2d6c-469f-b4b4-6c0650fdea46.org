@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       736842a6-2d6c-469f-b4b4-6c0650fdea46
+:END:
+#+title: Rue Hkzu Tgfubt 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hkzu Tgfubt
+- vintage :: 1970
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 9.47
+- sugar :: 1.82
+- price :: 22.88 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

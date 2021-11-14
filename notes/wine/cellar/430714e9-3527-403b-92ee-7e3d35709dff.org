@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       430714e9-3527-403b-92ee-7e3d35709dff
+:END:
+#+title: Vjjtw Hvrja Ftnaur Pdni 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ftnaur Pdni
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.47
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:042af4c5-a083-4e01-8d5f-a8f707661f1b][Vjjtw Hvrja Ftnaur Pdni NV - 1994-1-27]]

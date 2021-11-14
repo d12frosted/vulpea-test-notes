@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f4846d15-4e0f-4ab1-aa7a-7b8a65aa5f2e
+:END:
+#+title: Rue Rhuqtskx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Rhuqtskx
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.91
+- price :: 26.68 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.0
+- ratings :: [[id:de27c4d5-d9c6-4635-a2a1-c94ae21ade12][Rue Rhuqtskx NV - 1998-3-10]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e8e66ed5-2b35-430f-bddc-a429204bbeef
+:END:
+#+title: Dfsxtmx Dcdeu Bohbxott 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dcdeu Bohbxott
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.3
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

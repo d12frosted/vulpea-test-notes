@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5682d5a7-1c98-4a17-88d3-5ba566503c45
+:END:
+#+title: Rue Migjk Ler NV - 2001-8-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:818ac6f8-57e4-4b87-9b36-84297ae517b2][Rue Migjk Ler]]
+- date :: 2001-8-12
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

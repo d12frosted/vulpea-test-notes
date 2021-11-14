@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5affc698-5bf1-4a9a-a013-56c8f256acac
+:END:
+#+title: Dseajc Jinm Fbrjfwrt NV - 1992-1-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:f711706f-b0e9-495a-a848-cdd830e0c850][Dseajc Jinm Fbrjfwrt]]
+- date :: 1992-1-18
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c8552b1e-e311-43b4-9d01-e3efca0d0c40
+:END:
+#+title: Novr Rlrt Clz Ttff 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Clz Ttff
+- vintage :: 1977
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.56
+- sugar :: 13.02
+- price :: 60.54 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: 5.0
+- ratings :: [[id:51c4374b-5576-4b2e-9da7-4b2642acd2b6][Novr Rlrt Clz Ttff 1977 - 2023-3-15]]

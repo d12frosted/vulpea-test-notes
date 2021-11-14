@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       bd7de401-aa57-4117-85f9-003a131b2fb5
+:END:
+#+title: Dfsxtmx Aio Pfny 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Aio Pfny
+- vintage :: 1928
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.27
+- sugar :: 8.71
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.5
+- ratings :: [[id:c62404af-c9dc-4fcc-886e-874470136193][Dfsxtmx Aio Pfny 1928 - 2022-3-23]]

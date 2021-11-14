@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6bebfcab-13b7-4089-ac9e-41f7b7822300
+:END:
+#+title: Novr Rlrt Qbw Utnqwzry 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Qbw Utnqwzry
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 11.04
+- price :: 87.14 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 1.0
+- ratings :: [[id:f8089541-07f6-4da1-92d9-d2e87e87e9d5][Novr Rlrt Qbw Utnqwzry NV - 2006-9-12]]

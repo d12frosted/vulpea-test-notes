@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e8cb87fc-868a-4a5c-b326-a720acb00959
+:END:
+#+title: Mkmt Ujqhqe 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ujqhqe
+- vintage :: 1921
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.94
+- price :: 12.62 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

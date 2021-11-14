@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3c74e358-a438-4fa6-8796-42feaf47460d
+:END:
+#+title: Dfsxtmx Ewvdnw 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ewvdnw
+- vintage :: 1901
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 11.66
+- sugar :: 9.52
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3d5bfe17-7af1-4d07-aab9-8e6c1649e35d
+:END:
+#+title: Miv Ywfjun Mfcaxji 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ywfjun Mfcaxji
+- vintage :: 1958
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.530000000000001
+- sugar :: 19.54
+- price :: 17.75 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

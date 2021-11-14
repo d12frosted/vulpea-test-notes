@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0a6b0204-9ec0-4c2e-9124-fe1d63077fc8
+:END:
+#+title: Novr Rlrt Bdzt Xxqgtpy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bdzt Xxqgtpy
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.91
+- sugar :: 8.09
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

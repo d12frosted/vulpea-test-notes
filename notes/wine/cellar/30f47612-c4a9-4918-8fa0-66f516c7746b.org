@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       30f47612-c4a9-4918-8fa0-66f516c7746b
+:END:
+#+title: Miv Eexm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Eexm
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 10.01
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

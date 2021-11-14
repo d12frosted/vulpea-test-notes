@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       26af520a-5eb1-48c2-bf2a-600f8bba2047
+:END:
+#+title: Cdeexg Rlsnpcqb Inin 1942 - 1992-6-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:5542ecac-236b-4a31-aab8-92baa212d1dd][Cdeexg Rlsnpcqb Inin 1942]]
+- date :: 1992-6-28
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

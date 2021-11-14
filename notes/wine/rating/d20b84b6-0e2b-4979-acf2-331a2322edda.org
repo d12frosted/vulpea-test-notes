@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d20b84b6-0e2b-4979-acf2-331a2322edda
+:END:
+#+title: Njtzvl Upk NV - 2024-2-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:395d4ff9-c86d-4a42-a40b-f1f7ea163991][Njtzvl Upk]]
+- date :: 2024-2-3
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3c4cff06-f533-471b-8bbc-acffc6b1c2a3
+:END:
+#+title: Novr Rlrt Wvd Chtc 1970
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wvd Chtc
+- vintage :: 1970
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.45
+- sugar :: 10.24
+- price :: 25.71 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 2.0
+- ratings :: [[id:8e2b426b-3fe2-43e7-a313-875368321ead][Novr Rlrt Wvd Chtc 1970 - 1993-12-6]]

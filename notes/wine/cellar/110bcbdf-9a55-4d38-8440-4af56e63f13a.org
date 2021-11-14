@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       110bcbdf-9a55-4d38-8440-4af56e63f13a
+:END:
+#+title: Mkmt Fvfk Sfgbyrgy 1906
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fvfk Sfgbyrgy
+- vintage :: 1906
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.08
+- sugar :: 23.99
+- price :: 48.46 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

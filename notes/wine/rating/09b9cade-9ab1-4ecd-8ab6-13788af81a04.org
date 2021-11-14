@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       09b9cade-9ab1-4ecd-8ab6-13788af81a04
+:END:
+#+title: Dfsxtmx Mvhw Evnsvel NV - 2017-12-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:99a728e0-bf56-4262-b81f-712a57667590][Dfsxtmx Mvhw Evnsvel]]
+- date :: 2017-12-23
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

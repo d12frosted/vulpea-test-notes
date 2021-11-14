@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fb5bf119-9f99-4445-a5b8-4005a2f87376
+:END:
+#+title: Miv Zzf Kby 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Zzf Kby
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.49
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.0
+- ratings :: [[id:ab2d337b-606b-4f3a-a76b-bf65808dd911][Miv Zzf Kby NV - 2024-2-10]]

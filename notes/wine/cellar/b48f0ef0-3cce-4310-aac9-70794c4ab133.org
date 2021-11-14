@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b48f0ef0-3cce-4310-aac9-70794c4ab133
+:END:
+#+title: Novr Rlrt Zzcqvzd Ifzttxk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Zzcqvzd Ifzttxk
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.620000000000001
+- sugar :: 16.48
+- price :: 9.08 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

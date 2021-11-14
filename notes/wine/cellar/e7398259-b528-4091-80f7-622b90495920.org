@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e7398259-b528-4091-80f7-622b90495920
+:END:
+#+title: Vjjtw Hvrja Hhygr 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hhygr
+- vintage :: 1930
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.28
+- sugar :: 7.45
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

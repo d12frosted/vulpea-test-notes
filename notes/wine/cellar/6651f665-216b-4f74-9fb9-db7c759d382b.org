@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6651f665-216b-4f74-9fb9-db7c759d382b
+:END:
+#+title: Njtzvl Tvvc Kjcl 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Tvvc Kjcl
+- vintage :: 1988
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.46
+- sugar :: 23.17
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:529e998e-9309-4cd3-ba5b-29c53d60355c][Njtzvl Tvvc Kjcl 1988 - 1992-6-4]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6634f976-cb08-422d-bafe-0760133e9080
+:END:
+#+title: Cdeexg Etig Zeojkz 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Etig Zeojkz
+- vintage :: 1983
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.07
+- sugar :: 11.05
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:41a3a528-7e7d-4a01-a1e2-e376384a6c89][Cdeexg Etig Zeojkz 1983 - 2001-8-21]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       de5e0c76-3fba-417c-9ffa-c12e25fdf7be
+:END:
+#+title: Rue Kojvxn 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kojvxn
+- vintage :: 1936
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.620000000000001
+- sugar :: 13.39
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 2.5
+- ratings :: [[id:45928390-13a2-423d-b8b3-477be8ad245a][Rue Kojvxn 1936 - 1998-5-26]]

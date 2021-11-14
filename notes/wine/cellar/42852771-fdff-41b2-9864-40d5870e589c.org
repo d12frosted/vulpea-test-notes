@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       42852771-fdff-41b2-9864-40d5870e589c
+:END:
+#+title: Dfsxtmx Kexy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kexy
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.129999999999999
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 2.0
+- ratings :: [[id:ab8f590f-c754-4e1f-b17f-bf6d18512631][Dfsxtmx Kexy NV - 1994-2-25]]

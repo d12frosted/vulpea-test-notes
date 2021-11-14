@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f7ac55c0-4230-49c0-a2a7-a6dca38e1041
+:END:
+#+title: Dseajc Jinm Tjmsrs Ywnhvol 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tjmsrs Ywnhvol
+- vintage :: 1907
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.9
+- price :: 50.93 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       320796fb-8d29-4f56-a31f-a50f2b7e5305
+:END:
+#+title: Miv Yqj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Yqj
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.89
+- sugar :: 19.09
+- price :: 44.86 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

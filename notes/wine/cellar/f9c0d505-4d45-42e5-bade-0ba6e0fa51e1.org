@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f9c0d505-4d45-42e5-bade-0ba6e0fa51e1
+:END:
+#+title: Rue Yrwa 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Yrwa
+- vintage :: 1917
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.7
+- price :: 55.39 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d05c5ed4-30be-4cba-9723-482ca28a9a2d
+:END:
+#+title: Rue Icxl Tmhratjg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Icxl Tmhratjg
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.5
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:eba4c1d6-c138-4e8d-a18e-32dc3a311ed0][Rue Icxl Tmhratjg NV - 1993-5-24]]

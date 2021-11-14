@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       c0c52c66-4f45-4232-886f-a154a2dbdbb1
-:END:
-#+title: Pluffc Dozwjpc
-#+filetags: :wine:grape:
-
-

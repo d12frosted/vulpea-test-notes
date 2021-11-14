@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       77627028-fed7-4ac2-b15b-f82888f9e793
+:END:
+#+title: Njtzvl Vqp Wddet 2001 - 2005-5-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:6dcc04a0-ddcb-435c-80b6-965943c75c7c][Njtzvl Vqp Wddet 2001]]
+- date :: 2005-5-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

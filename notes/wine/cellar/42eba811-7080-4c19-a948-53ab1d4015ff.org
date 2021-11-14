@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       42eba811-7080-4c19-a948-53ab1d4015ff
+:END:
+#+title: Miv Xhgje Dnunojvb 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xhgje Dnunojvb
+- vintage :: 1914
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.33
+- price :: 76.46 EUR
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:26d05bab-bae2-4559-80f5-aeb5116ee18f][Miv Xhgje Dnunojvb 1914 - 2024-2-2]]

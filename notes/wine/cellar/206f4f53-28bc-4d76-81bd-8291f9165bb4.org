@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       206f4f53-28bc-4d76-81bd-8291f9165bb4
+:END:
+#+title: Cdeexg Irxxzzy 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Irxxzzy
+- vintage :: 1973
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.23
+- price :: 5.81 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA

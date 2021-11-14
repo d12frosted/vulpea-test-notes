@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       276ee786-933b-40c0-bf6e-e735c951fa72
+:END:
+#+title: Cdeexg Ddul Qcdr 1905 - 1995-5-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:6d6681b8-9b05-4e26-b02e-73328ad533a6][Cdeexg Ddul Qcdr 1905]]
+- date :: 1995-5-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

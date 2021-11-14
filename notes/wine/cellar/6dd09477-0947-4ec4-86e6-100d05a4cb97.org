@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6dd09477-0947-4ec4-86e6-100d05a4cb97
+:END:
+#+title: Miv Nzrg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Nzrg
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.33
+- sugar :: 10.88
+- price :: 70.54 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 2.5
+- ratings :: [[id:3806ce1c-0dd1-45ab-8f02-49f68a335b4c][Miv Nzrg NV - 2004-7-27]]

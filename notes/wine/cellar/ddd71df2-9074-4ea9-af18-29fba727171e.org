@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ddd71df2-9074-4ea9-af18-29fba727171e
+:END:
+#+title: Cdeexg Pblogxx Tejesto 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Pblogxx Tejesto
+- vintage :: 1935
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.02
+- sugar :: 9.56
+- price :: 97.23 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

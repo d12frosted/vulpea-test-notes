@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       729f7ee2-f459-4bde-b661-7adbfa80390d
+:END:
+#+title: Vjjtw Hvrja Egvbmk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Egvbmk
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 13.99
+- price :: 66.97 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:d80d09ea-421c-43a0-9a93-8fb59143e99b][Vjjtw Hvrja Egvbmk NV - 2017-1-10]]

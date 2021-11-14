@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       89461401-b4e4-4cfb-b18e-3c0c7eb10e28
+:END:
+#+title: Vjjtw Hvrja Uawp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Uawp
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.27
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

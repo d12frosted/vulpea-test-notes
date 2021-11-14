@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       34d711d6-60ad-4b8c-8f3e-7fe5e7b1b063
+:END:
+#+title: Rue Hepgzxho 1973
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Hepgzxho
+- vintage :: 1973
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.58
+- price :: 48.30 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:6194b626-b9a2-4af0-9033-991f2a2b53b9][Rue Hepgzxho 1973 - 2011-1-1]]

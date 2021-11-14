@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3e286457-65bd-410e-8810-9586f249bf31
+:END:
+#+title: Miv Sffc 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sffc
+- vintage :: 2015
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.35
+- price :: 84.09 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

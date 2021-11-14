@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       699d9a18-39e8-41d6-8fcc-1dee1b2a4029
+:END:
+#+title: Miv Lctlcl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Lctlcl
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.07
+- sugar :: 7.11
+- price :: 90.38 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

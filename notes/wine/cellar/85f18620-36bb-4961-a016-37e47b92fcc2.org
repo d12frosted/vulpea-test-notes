@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       85f18620-36bb-4961-a016-37e47b92fcc2
+:END:
+#+title: Miv Yxgzk Bbwqz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Yxgzk Bbwqz
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.48
+- sugar :: 5.35
+- price :: 42.93 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

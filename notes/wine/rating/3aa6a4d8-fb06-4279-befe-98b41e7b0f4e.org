@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3aa6a4d8-fb06-4279-befe-98b41e7b0f4e
+:END:
+#+title: Dseajc Jinm Mqnhiiro 2015 - 2004-6-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:3c03f560-b702-4435-b2fa-5a6dd4c00224][Dseajc Jinm Mqnhiiro 2015]]
+- date :: 2004-6-17
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

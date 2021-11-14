@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9edc683e-eb98-41aa-8b8f-7a85a1450cdf
+:END:
+#+title: Novr Rlrt Tvgwyak 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tvgwyak
+- vintage :: 1937
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.29
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:ea3dca70-b7b2-4a57-94b9-83969c8f2433][Novr Rlrt Tvgwyak 1937 - 2010-12-15]]

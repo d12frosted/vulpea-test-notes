@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       c14af5c0-219f-45d0-b234-3a82b1d5b15a
+:END:
+#+title: Dseajc Jinm Zbn Nwpchm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zbn Nwpchm
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.11
+- sugar :: 3.71
+- price :: 83.01 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:e7bf320c-b958-4cf1-a492-c5ffa4e51745][Dseajc Jinm Zbn Nwpchm NV - 2019-6-21]]

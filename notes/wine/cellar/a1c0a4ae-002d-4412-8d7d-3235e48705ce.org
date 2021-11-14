@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a1c0a4ae-002d-4412-8d7d-3235e48705ce
+:END:
+#+title: Mkmt Weqed Rukmwbe 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Weqed Rukmwbe
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.48
+- sugar :: 12.09
+- price :: 77.72 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fbe20512-8a81-4924-8a8a-5bccf2227157
+:END:
+#+title: Novr Rlrt Stqkq Wlsk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Stqkq Wlsk
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.08
+- sugar :: 3.85
+- price :: 53.39 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:bacfc758-243a-410f-b261-243fae3459ba][Novr Rlrt Stqkq Wlsk NV - 2013-1-24]]

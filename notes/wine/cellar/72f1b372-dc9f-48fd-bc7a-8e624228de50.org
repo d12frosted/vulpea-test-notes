@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       72f1b372-dc9f-48fd-bc7a-8e624228de50
+:END:
+#+title: Novr Rlrt Oguksp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Oguksp
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 13.059999999999999
+- sugar :: 0.11
+- price :: 8.57 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

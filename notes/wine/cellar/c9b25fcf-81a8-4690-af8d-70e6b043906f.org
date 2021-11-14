@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c9b25fcf-81a8-4690-af8d-70e6b043906f
+:END:
+#+title: Novr Rlrt Xbbgx 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Xbbgx
+- vintage :: 1951
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.68
+- price :: 4.33 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.0
+- ratings :: [[id:507a5955-2963-426f-a7ac-a46d456003d1][Novr Rlrt Xbbgx 1951 - 1998-7-2]]

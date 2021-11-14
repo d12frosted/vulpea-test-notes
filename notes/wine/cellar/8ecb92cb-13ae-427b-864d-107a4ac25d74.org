@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8ecb92cb-13ae-427b-864d-107a4ac25d74
+:END:
+#+title: Novr Rlrt Jlmo Yhydegbl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jlmo Yhydegbl
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.46
+- sugar :: 2.74
+- price :: 51.92 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:5de1bcf0-84cd-4c77-8648-69134ffc9218][Novr Rlrt Jlmo Yhydegbl NV - 2019-5-11]]

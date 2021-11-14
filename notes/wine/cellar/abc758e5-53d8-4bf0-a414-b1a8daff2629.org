@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       abc758e5-53d8-4bf0-a414-b1a8daff2629
+:END:
+#+title: Novr Rlrt Hunycd Btg 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hunycd Btg
+- vintage :: 2016
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 13.9
+- price :: 22.70 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

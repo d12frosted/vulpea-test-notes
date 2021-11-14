@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       936b2a09-c725-45f3-b34b-4fd0aa7c4cbe
+:END:
+#+title: Dfsxtmx Rrpjs 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rrpjs
+- vintage :: 1996
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 12.76
+- sugar :: 3.45
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: wikipedia
+- rating :: 8.5
+- ratings :: [[id:1b39d365-f281-4bff-af42-818777615ea2][Dfsxtmx Rrpjs 1996 - 2020-6-14]]

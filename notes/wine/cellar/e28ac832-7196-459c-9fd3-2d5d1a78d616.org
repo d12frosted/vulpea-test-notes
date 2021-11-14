@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e28ac832-7196-459c-9fd3-2d5d1a78d616
+:END:
+#+title: Dfsxtmx Tmpp 1900
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Tmpp
+- vintage :: 1900
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 10.43
+- price :: 72.79 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

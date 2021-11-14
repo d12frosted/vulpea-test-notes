@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       eb8719a6-3e8a-4d48-b430-c0cc8e950b3e
+:END:
+#+title: Dfsxtmx Zllnq Nepjjnf 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Zllnq Nepjjnf
+- vintage :: 1901
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.5
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: 5.5
+- ratings :: [[id:97d68c2d-1fe5-4153-b8eb-50f77b7c1c75][Dfsxtmx Zllnq Nepjjnf 1901 - 2011-7-11]]

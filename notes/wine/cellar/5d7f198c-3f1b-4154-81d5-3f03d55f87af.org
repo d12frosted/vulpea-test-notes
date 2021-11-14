@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5d7f198c-3f1b-4154-81d5-3f03d55f87af
+:END:
+#+title: Mkmt Ucnbnwcj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ucnbnwcj
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.219999999999999
+- sugar :: 16.1
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.5
+- ratings :: [[id:65931511-ef17-4fbe-a235-6621b0f09a4c][Mkmt Ucnbnwcj NV - 2001-12-6]]

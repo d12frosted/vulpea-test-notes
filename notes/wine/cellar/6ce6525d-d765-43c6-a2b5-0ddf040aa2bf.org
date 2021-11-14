@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6ce6525d-d765-43c6-a2b5-0ddf040aa2bf
+:END:
+#+title: Njtzvl Iulxq Fhlmus 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Iulxq Fhlmus
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 12.19
+- sugar :: 16.08
+- price :: 7.15 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

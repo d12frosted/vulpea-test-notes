@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d7a19783-ae1f-4a00-b02e-de4f944c5f33
+:END:
+#+title: Vjjtw Hvrja Wzpcsv 1968 - 1996-3-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:d0118cb1-ff7d-4177-baff-52df928ce501][Vjjtw Hvrja Wzpcsv 1968]]
+- date :: 1996-3-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

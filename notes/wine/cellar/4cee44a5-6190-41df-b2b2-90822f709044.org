@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4cee44a5-6190-41df-b2b2-90822f709044
+:END:
+#+title: Njtzvl Zyayp 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zyayp
+- vintage :: 1901
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.73
+- price :: 31.13 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

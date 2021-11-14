@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d0d76427-503c-4ef0-87aa-4993bd7e5bc4
+:END:
+#+title: Mkmt Udovwjhp 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Udovwjhp
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.24
+- sugar :: 1.15
+- price :: 45.34 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 9.0
+- ratings :: [[id:fca1caaf-68e2-4f58-b970-d24ef1dcc68b][Mkmt Udovwjhp NV - 1991-1-5]]

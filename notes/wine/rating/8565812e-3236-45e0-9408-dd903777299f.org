@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8565812e-3236-45e0-9408-dd903777299f
+:END:
+#+title: Lzf Dleowsqa Zllvx 1901 - 1995-1-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:c929f766-82d7-4362-880a-ab23ce074e0f][Lzf Dleowsqa Zllvx 1901]]
+- date :: 1995-1-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

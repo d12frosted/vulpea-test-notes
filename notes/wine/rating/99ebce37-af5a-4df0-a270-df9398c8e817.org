@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       99ebce37-af5a-4df0-a270-df9398c8e817
+:END:
+#+title: Novr Rlrt Sselpg Twiq 1938 - 2006-4-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:8d7970b1-f79b-42a6-9460-4c3d8463c8d8][Novr Rlrt Sselpg Twiq 1938]]
+- date :: 2006-4-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

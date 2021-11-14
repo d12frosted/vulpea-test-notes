@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       382dbc92-5951-476c-beaa-65ce92f15463
+:END:
+#+title: Novr Rlrt Ikpolpvx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ikpolpvx
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 12.51
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

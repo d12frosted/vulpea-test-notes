@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e2b453be-b3ca-4e29-8447-820df4f762c9
+:END:
+#+title: Vjjtw Hvrja Dmnuhqq 2015 - 2020-5-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:b3f9c6be-7f27-4d1a-8b7b-21ebb5217a6c][Vjjtw Hvrja Dmnuhqq 2015]]
+- date :: 2020-5-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

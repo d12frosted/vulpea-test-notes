@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b5572ccb-8174-47af-a93a-75265f345370
+:END:
+#+title: Rue Kieyqs 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kieyqs
+- vintage :: 2001
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.46
+- sugar :: 14.97
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: 7.5
+- ratings :: [[id:243dd573-6404-4ed3-b2cd-b83622e7b8b8][Rue Kieyqs 2001 - 1991-7-11]]

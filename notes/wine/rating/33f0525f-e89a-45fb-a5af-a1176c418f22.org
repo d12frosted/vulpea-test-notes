@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       33f0525f-e89a-45fb-a5af-a1176c418f22
+:END:
+#+title: Miv Suwihkce NV - 1994-10-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:52cee1d5-9112-4ae6-bef8-e11e0e1136f7][Miv Suwihkce]]
+- date :: 1994-10-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ac56d7c6-8c8e-4339-becd-af52a8d15864
+:END:
+#+title: Novr Rlrt Wjv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wjv
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.27
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       45e3d587-8daa-4471-8355-2190412f88d6
+:END:
+#+title: Njtzvl Gbxqmlhm Ctv NV - 2003-8-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:af86a2c9-d502-44f6-9bd2-6886512a7d1c][Njtzvl Gbxqmlhm Ctv]]
+- date :: 2003-8-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b7072ddb-dbdb-4ef1-a6df-78b7e0ea9393
+:END:
+#+title: Rue Ruk Jfo 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ruk Jfo
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.83
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.0
+- ratings :: [[id:3a4eae1a-3bb3-4763-b342-f480f85d3e44][Rue Ruk Jfo NV - 2005-6-7]]

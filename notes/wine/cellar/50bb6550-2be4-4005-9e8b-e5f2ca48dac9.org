@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       50bb6550-2be4-4005-9e8b-e5f2ca48dac9
+:END:
+#+title: Dfsxtmx Gkstkkyv 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gkstkkyv
+- vintage :: 1909
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.04
+- sugar :: 9.2
+- price :: 30.91 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:d3fd166d-b134-44ba-bfd7-9510c8e37bf4][Dfsxtmx Gkstkkyv 1909 - 2004-10-18]]

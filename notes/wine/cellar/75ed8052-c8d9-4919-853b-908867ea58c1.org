@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       75ed8052-c8d9-4919-853b-908867ea58c1
+:END:
+#+title: Vjjtw Hvrja Vzgth 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vzgth
+- vintage :: 1905
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.25
+- sugar :: 18.31
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: NA

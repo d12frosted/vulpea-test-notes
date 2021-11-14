@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       de169e60-4820-423f-a06c-82edb484c051
+:END:
+#+title: Cdeexg Oobcdxr Hdcfwpb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Oobcdxr Hdcfwpb
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.3
+- price :: 88.95 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.0
+- ratings :: [[id:d1edae36-678d-451b-979d-2b12a7d6fc91][Cdeexg Oobcdxr Hdcfwpb NV - 1991-11-13]]

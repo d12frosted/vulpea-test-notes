@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1c9a69cb-1bc4-499b-bb3b-33578d0da8f6
+:END:
+#+title: Novr Rlrt Uqge Fvciif 1984 - 2015-7-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:43de5917-e5e5-426e-8e09-9819e1875af9][Novr Rlrt Uqge Fvciif 1984]]
+- date :: 2015-7-17
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

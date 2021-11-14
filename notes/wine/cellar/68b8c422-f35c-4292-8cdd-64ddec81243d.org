@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       68b8c422-f35c-4292-8cdd-64ddec81243d
+:END:
+#+title: Vjjtw Hvrja Yfqod 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Yfqod
+- vintage :: 2015
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.16
+- sugar :: 4.75
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

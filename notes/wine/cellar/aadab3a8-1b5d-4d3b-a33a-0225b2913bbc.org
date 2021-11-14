@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       aadab3a8-1b5d-4d3b-a33a-0225b2913bbc
+:END:
+#+title: Miv Ttdbbgon Atga 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ttdbbgon Atga
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.95
+- sugar :: 12.75
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

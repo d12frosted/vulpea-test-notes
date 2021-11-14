@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       86d60b24-c7cb-4645-9fdf-635394489616
+:END:
+#+title: Miv Rkduey Imjpa 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rkduey Imjpa
+- vintage :: 2004
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.52
+- price :: 60.28 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.0
+- ratings :: [[id:2e794508-0b40-48d7-9339-23298f1f6981][Miv Rkduey Imjpa 2004 - 2013-9-7]]

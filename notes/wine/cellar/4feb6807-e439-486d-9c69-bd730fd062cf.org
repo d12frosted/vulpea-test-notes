@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4feb6807-e439-486d-9c69-bd730fd062cf
+:END:
+#+title: Dseajc Jinm Yrvjmdai Fevkad 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Yrvjmdai Fevkad
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.8
+- sugar :: 18.24
+- price :: 64.05 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

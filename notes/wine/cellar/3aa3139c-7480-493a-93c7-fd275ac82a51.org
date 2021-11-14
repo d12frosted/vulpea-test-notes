@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       3aa3139c-7480-493a-93c7-fd275ac82a51
+:END:
+#+title: Cdeexg Ehcrsb Srav 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ehcrsb Srav
+- vintage :: 2005
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.6
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

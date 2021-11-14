@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       28a2473c-2c6e-4406-b7da-2049d3d23aad
+:END:
+#+title: Dfsxtmx Aed NV - 2003-10-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:3ced7b7d-4292-4384-b6c7-ceb3e3fe3c1b][Dfsxtmx Aed]]
+- date :: 2003-10-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

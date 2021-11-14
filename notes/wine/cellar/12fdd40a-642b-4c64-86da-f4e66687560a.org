@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       12fdd40a-642b-4c64-86da-f4e66687560a
+:END:
+#+title: Dseajc Jinm Fqomvut 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Fqomvut
+- vintage :: 1975
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.45
+- price :: 93.85 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 7.0
+- ratings :: [[id:1228445e-d53a-43fb-9a57-1c9b9a8cd639][Dseajc Jinm Fqomvut 1975 - 2017-6-5]]

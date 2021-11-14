@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f6b9a828-8ea4-475b-bdcc-173c38f3224e
+:END:
+#+title: Dfsxtmx Yeyfe NV - 2011-9-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:75cb63ed-0e26-49ea-a5a7-656dbfa14a03][Dfsxtmx Yeyfe]]
+- date :: 2011-9-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

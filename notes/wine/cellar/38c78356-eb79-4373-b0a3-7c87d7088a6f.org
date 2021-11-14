@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       38c78356-eb79-4373-b0a3-7c87d7088a6f
+:END:
+#+title: Rue Stkf 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Stkf
+- vintage :: 1917
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.0
+- sugar :: 18.32
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:cadd9dff-dfde-47fa-8378-355a4cc376bf][Rue Stkf 1917 - 1994-8-17]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aaa12286-4305-45db-877b-3000c514c84e
+:END:
+#+title: Mkmt Ajfrmszl Ikyexe NV - 2019-5-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:68f1216a-6297-4c55-94e3-3feecaf78956][Mkmt Ajfrmszl Ikyexe]]
+- date :: 2019-5-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

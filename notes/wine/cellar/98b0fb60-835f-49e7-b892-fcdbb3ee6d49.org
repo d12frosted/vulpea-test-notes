@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       98b0fb60-835f-49e7-b892-fcdbb3ee6d49
+:END:
+#+title: Lzf Rxomar Ljolxgys 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Rxomar Ljolxgys
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.36
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 7.5
+- ratings :: [[id:f8b25678-9e10-4393-a99d-0e187390747c][Lzf Rxomar Ljolxgys NV - 1993-2-24]]

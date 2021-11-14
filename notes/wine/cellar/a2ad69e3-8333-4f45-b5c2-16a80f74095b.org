@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a2ad69e3-8333-4f45-b5c2-16a80f74095b
+:END:
+#+title: Novr Rlrt Kqtwjz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Kqtwjz
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.57
+- price :: 15.18 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

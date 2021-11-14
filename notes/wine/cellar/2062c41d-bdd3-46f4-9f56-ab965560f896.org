@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2062c41d-bdd3-46f4-9f56-ab965560f896
+:END:
+#+title: Miv Vnrd Klhf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vnrd Klhf
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.27
+- sugar :: 19.72
+- price :: 52.14 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 5.0
+- ratings :: [[id:fd0f6903-e7db-464b-bac1-1f91ded2aa99][Miv Vnrd Klhf NV - 2015-2-26]]

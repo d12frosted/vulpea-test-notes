@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ec927f62-f382-44c6-be8a-e67a697f8ed5
+:END:
+#+title: Njtzvl Peocjze Iztfhz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Peocjze Iztfhz
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.559999999999999
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

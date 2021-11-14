@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c39ed5de-f7e9-4bdf-8ffe-12c2f942e175
+:END:
+#+title: Vjjtw Hvrja Ftoil 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ftoil
+- vintage :: 1902
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 10.93
+- sugar :: 20.88
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:9cbe54b5-87d2-4d2f-b8d9-30b1b850efff][Vjjtw Hvrja Ftoil 1902 - 2021-12-28]]

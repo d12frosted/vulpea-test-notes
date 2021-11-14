@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       c6fcdf6d-aeb3-4da8-a0fb-4cc3f2cf44e6
+:END:
+#+title: Dseajc Jinm Ilpyxt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ilpyxt
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.69
+- price :: 47.09 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.5
+- ratings :: [[id:82f26e85-7a30-413f-ba93-c9f8dc00de41][Dseajc Jinm Ilpyxt NV - 2010-9-1]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dc79f9c9-12f1-44cf-a5ca-145510fd4cbf
+:END:
+#+title: Rue Nribcq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Nribcq
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.6
+- sugar :: 5.88
+- price :: 3.42 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

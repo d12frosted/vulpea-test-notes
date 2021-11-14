@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d4589ca6-010b-40a9-9c28-cb33ef85193e
+:END:
+#+title: Njtzvl Frxr 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Frxr
+- vintage :: 1942
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.17
+- sugar :: 4.46
+- price :: 26.08 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

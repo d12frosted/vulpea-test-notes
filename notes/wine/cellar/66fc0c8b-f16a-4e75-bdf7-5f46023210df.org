@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       66fc0c8b-f16a-4e75-bdf7-5f46023210df
+:END:
+#+title: Dseajc Jinm Yjp Vefqzj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Yjp Vefqzj
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.89
+- sugar :: 22.84
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:97f1a680-ccd9-4d31-a69d-ae309e98aaf5][Dseajc Jinm Yjp Vefqzj NV - 2003-9-23]]

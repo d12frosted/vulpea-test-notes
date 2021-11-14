@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5c2926b1-9606-475b-8dd7-5520a8217065
+:END:
+#+title: Miv Rfaahuqi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rfaahuqi
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.93
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 4.0
+- ratings :: [[id:a1aaf45c-d561-418d-9508-2a127d48b616][Miv Rfaahuqi NV - 2024-10-7]]

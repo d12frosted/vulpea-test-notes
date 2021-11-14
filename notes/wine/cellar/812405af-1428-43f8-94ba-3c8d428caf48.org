@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       812405af-1428-43f8-94ba-3c8d428caf48
+:END:
+#+title: Njtzvl Oyvspl Gelgvalb 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Oyvspl Gelgvalb
+- vintage :: 1988
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.31
+- price :: 70.64 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

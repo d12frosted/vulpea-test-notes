@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       33f2909c-3d53-48e4-bce3-7435d091cb5e
+:END:
+#+title: Miv Ckuu Gvrsyxt 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ckuu Gvrsyxt
+- vintage :: 1904
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.84
+- price :: 91.85 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

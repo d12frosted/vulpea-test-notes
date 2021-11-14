@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f18f6434-6cf0-497e-9a03-96b835de5aea
+:END:
+#+title: Njtzvl Eybwco Azj 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Eybwco Azj
+- vintage :: 1960
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.58
+- sugar :: 8.0
+- price :: 96.53 EUR
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- rating :: 3.0
+- ratings :: [[id:96caee66-d181-450e-8d2f-1b73499b14b6][Njtzvl Eybwco Azj 1960 - 2012-7-14]]

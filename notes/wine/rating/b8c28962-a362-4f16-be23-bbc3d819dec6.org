@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b8c28962-a362-4f16-be23-bbc3d819dec6
+:END:
+#+title: Miv Noyssa Frhengj NV - 1999-8-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:ce1dcdc9-ffcf-4c71-adcd-23b8f70b8790][Miv Noyssa Frhengj]]
+- date :: 1999-8-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

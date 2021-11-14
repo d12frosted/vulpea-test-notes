@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b38c8bbd-bbad-406a-bc67-6b7442c6f74d
+:END:
+#+title: Dseajc Jinm Kghthmpc 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Kghthmpc
+- vintage :: 2015
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.07
+- sugar :: 10.84
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

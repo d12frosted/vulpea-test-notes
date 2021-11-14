@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       032ab1a4-ca65-4160-8ed4-8c19ec5ea0e5
+:END:
+#+title: Njtzvl Bktz 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Bktz
+- vintage :: 2003
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.54
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:135b68e1-98b2-4783-b0bf-8ef4fc1f7c4d][Njtzvl Bktz 2003 - 2014-7-19]]

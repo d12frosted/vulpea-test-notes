@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       66619114-dc4c-469b-bf50-8d21937e9388
+:END:
+#+title: Njtzvl Vglg Xnrkd 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Vglg Xnrkd
+- vintage :: 1953
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.42
+- price :: 3.00 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.5
+- ratings :: [[id:cbfab873-6ee7-4825-acaa-6ebba94e920b][Njtzvl Vglg Xnrkd 1953 - 1991-12-12]]

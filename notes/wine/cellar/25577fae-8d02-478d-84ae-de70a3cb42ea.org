@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       25577fae-8d02-478d-84ae-de70a3cb42ea
+:END:
+#+title: Vjjtw Hvrja Vpaob Yoss 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vpaob Yoss
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 13.879999999999999
+- price :: 5.31 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 4.5
+- ratings :: [[id:eda6f886-4baa-4b46-9489-45be52e35780][Vjjtw Hvrja Vpaob Yoss NV - 2022-12-1]]

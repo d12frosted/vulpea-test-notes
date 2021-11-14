@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4e89838d-8227-48ef-8c6d-1b6d7c236e21
+:END:
+#+title: Cdeexg Mzgt Taqyw 1918
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Mzgt Taqyw
+- vintage :: 1918
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.309999999999999
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

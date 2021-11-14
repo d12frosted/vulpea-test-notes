@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       68753c05-2cdb-4fc4-9773-1affccfba7b1
+:END:
+#+title: Dfsxtmx Kxahud Zdtxpfch 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Kxahud Zdtxpfch
+- vintage :: 1901
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 11.379999999999999
+- price :: 42.93 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: duckduckgo
+- rating :: 5.0
+- ratings :: [[id:6755a53e-ec5a-4fda-932e-93cc6c5e9fe4][Dfsxtmx Kxahud Zdtxpfch 1901 - 2004-7-21]]

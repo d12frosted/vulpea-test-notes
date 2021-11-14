@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d8c949c3-d0c9-4572-bcc7-8fa324974645
+:END:
+#+title: Cdeexg Kkvjmc Yqbhhg 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Kkvjmc Yqbhhg
+- vintage :: 1944
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.67
+- sugar :: 12.53
+- price :: 6.88 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

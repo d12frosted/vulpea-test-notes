@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       64712dde-15a5-4ff4-9a20-d4870de9a38f
+:END:
+#+title: Lzf Jtba 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jtba
+- vintage :: 1979
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.33
+- sugar :: 15.74
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1d42348e-c919-4e39-b841-abd2f594cd78
+:END:
+#+title: Dseajc Jinm Lpsz 1946
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lpsz
+- vintage :: 1946
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.01
+- sugar :: 17.78
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: NA

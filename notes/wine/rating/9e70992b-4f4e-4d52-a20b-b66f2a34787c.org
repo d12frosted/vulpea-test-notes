@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9e70992b-4f4e-4d52-a20b-b66f2a34787c
+:END:
+#+title: Dseajc Jinm Hkd 1972 - 1999-10-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:fbb180c9-cd92-425f-a9e3-67da0d56e69c][Dseajc Jinm Hkd 1972]]
+- date :: 1999-10-5
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

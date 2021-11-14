@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       eebb201c-6c9b-43cf-ab9b-08d685684164
+:END:
+#+title: Novr Rlrt Sxd 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Sxd
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.83
+- sugar :: 16.06
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

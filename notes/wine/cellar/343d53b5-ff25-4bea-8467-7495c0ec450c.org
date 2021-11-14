@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       343d53b5-ff25-4bea-8467-7495c0ec450c
+:END:
+#+title: Vjjtw Hvrja Zlxmn Owcjsqa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Zlxmn Owcjsqa
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.55
+- price :: 99.76 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 8.0
+- ratings :: [[id:9ebe17fe-927d-4e02-9733-dd6892d69d3c][Vjjtw Hvrja Zlxmn Owcjsqa NV - 2015-10-11]]

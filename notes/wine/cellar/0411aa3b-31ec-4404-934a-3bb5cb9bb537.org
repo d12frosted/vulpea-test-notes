@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       0411aa3b-31ec-4404-934a-3bb5cb9bb537
+:END:
+#+title: Mkmt Dtcmyni Fptaw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Dtcmyni Fptaw
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.27
+- sugar :: 13.53
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

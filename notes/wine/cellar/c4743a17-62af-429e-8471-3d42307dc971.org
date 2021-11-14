@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c4743a17-62af-429e-8471-3d42307dc971
+:END:
+#+title: Novr Rlrt Bigqtehl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bigqtehl
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.49
+- sugar :: 23.37
+- price :: 68.60 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

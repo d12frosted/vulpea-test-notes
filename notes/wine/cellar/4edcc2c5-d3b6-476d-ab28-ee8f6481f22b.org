@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4edcc2c5-d3b6-476d-ab28-ee8f6481f22b
+:END:
+#+title: Vjjtw Hvrja Qhdsmmps Nhngt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Qhdsmmps Nhngt
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.379999999999999
+- sugar :: 7.78
+- price :: 90.99 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

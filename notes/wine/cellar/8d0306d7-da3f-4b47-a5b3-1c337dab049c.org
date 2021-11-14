@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8d0306d7-da3f-4b47-a5b3-1c337dab049c
+:END:
+#+title: Lzf Urxskfk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Urxskfk
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.05
+- price :: 68.83 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

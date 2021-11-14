@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b3656933-e52e-45ae-a5f2-55b2ffac2d1e
+:END:
+#+title: Njtzvl Kgxnmqpe Qynb 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kgxnmqpe Qynb
+- vintage :: 1969
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.92
+- price :: 60.53 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

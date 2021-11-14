@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       db5936a9-e7ee-45e3-8192-08dabe956e26
+:END:
+#+title: Vjjtw Hvrja Qiw Rgpgk 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Qiw Rgpgk
+- vintage :: 1978
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.93
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

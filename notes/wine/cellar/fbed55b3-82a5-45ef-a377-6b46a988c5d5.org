@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fbed55b3-82a5-45ef-a377-6b46a988c5d5
+:END:
+#+title: Lzf Ugjk Rox 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ugjk Rox
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.76
+- sugar :: 1.63
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

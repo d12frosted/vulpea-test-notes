@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6859fef2-826b-4c3e-b8a3-4c71b4c71438
+:END:
+#+title: Njtzvl Wusjsepp 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Wusjsepp
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.32
+- sugar :: 0.7
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

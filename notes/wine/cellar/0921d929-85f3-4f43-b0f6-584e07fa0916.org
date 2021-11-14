@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0921d929-85f3-4f43-b0f6-584e07fa0916
+:END:
+#+title: Novr Rlrt Nsqt 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nsqt
+- vintage :: 2010
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.45
+- price :: 34.17 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

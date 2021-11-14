@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a81e2216-b0cd-4710-8ebf-f6613184cb34
+:END:
+#+title: Njtzvl Ocm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ocm
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 13.469999999999999
+- price :: 57.05 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: duckduckgo
+- rating :: NA

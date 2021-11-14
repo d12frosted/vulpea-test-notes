@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       26ef7aa0-d28f-4f33-9664-65370d056530
+:END:
+#+title: Lzf Ybysnw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ybysnw
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 10.629999999999999
+- sugar :: 22.28
+- price :: 8.33 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

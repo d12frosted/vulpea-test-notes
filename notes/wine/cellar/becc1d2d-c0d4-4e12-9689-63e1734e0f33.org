@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       becc1d2d-c0d4-4e12-9689-63e1734e0f33
+:END:
+#+title: Novr Rlrt Tpwshivs Eeyy 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tpwshivs Eeyy
+- vintage :: 2017
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.07
+- price :: 83.41 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

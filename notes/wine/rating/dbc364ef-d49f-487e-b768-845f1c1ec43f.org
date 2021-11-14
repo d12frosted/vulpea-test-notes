@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dbc364ef-d49f-487e-b768-845f1c1ec43f
+:END:
+#+title: Lzf Mujnwghc 1913 - 2019-5-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:fd499df4-45a6-432b-8e49-5695835a3f22][Lzf Mujnwghc 1913]]
+- date :: 2019-5-23
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

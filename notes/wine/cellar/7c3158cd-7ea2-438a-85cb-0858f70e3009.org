@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7c3158cd-7ea2-438a-85cb-0858f70e3009
+:END:
+#+title: Lzf Rgfhnp Mjr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Rgfhnp Mjr
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.03
+- price :: 79.96 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

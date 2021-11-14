@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8ca7d1f4-047a-412d-af7f-d50bd6eb5724
+:END:
+#+title: Miv Qwufloc 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Qwufloc
+- vintage :: 1947
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.0
+- sugar :: 11.23
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 4.0
+- ratings :: [[id:68dfb98d-2e5e-4d4f-b0c3-aa3f6aaf9571][Miv Qwufloc 1947 - 2004-6-20]]

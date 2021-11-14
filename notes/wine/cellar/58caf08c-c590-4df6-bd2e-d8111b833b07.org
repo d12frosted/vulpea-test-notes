@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       58caf08c-c590-4df6-bd2e-d8111b833b07
+:END:
+#+title: Novr Rlrt Hxti 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hxti
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.379999999999999
+- sugar :: 7.18
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

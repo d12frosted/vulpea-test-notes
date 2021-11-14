@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       523cb9af-f7ce-4a31-8493-fc5d8868795a
+:END:
+#+title: Cdeexg Wvxaa 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Wvxaa
+- vintage :: 1983
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.78
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:c0d71759-27d0-499e-8fda-f0eb0004914d][Cdeexg Wvxaa 1983 - 2020-12-10]]

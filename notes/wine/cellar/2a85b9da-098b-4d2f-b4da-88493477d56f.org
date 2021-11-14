@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2a85b9da-098b-4d2f-b4da-88493477d56f
+:END:
+#+title: Novr Rlrt Chag 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Chag
+- vintage :: 1922
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 10.2
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

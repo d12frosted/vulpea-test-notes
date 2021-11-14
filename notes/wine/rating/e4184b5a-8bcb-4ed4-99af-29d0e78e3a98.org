@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e4184b5a-8bcb-4ed4-99af-29d0e78e3a98
+:END:
+#+title: Cdeexg Wtmd Tqfwwzm 2003 - 2015-1-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:ef66ea76-a267-4e34-a0cc-24729e5d52c7][Cdeexg Wtmd Tqfwwzm 2003]]
+- date :: 2015-1-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

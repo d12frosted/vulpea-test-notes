@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a7ebc14d-a524-42f1-957d-4ad60a960f93
+:END:
+#+title: Miv Xqciu Yuwbs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Xqciu Yuwbs
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.58
+- price :: 101.79 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:3f3e09c8-407e-487e-8158-fbe459905116][Miv Xqciu Yuwbs NV - 2024-8-12]]

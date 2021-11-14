@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       62eabb65-e022-4db6-9807-82153f8b21bd
+:END:
+#+title: Dseajc Jinm Wdgmttz Zmp 1999 - 2008-2-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:a00ef1b7-3de7-4864-bcbe-c0d44a1bbcbb][Dseajc Jinm Wdgmttz Zmp 1999]]
+- date :: 2008-2-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

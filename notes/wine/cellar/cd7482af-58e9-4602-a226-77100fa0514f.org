@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       cd7482af-58e9-4602-a226-77100fa0514f
+:END:
+#+title: Dfsxtmx Nsmyurzj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nsmyurzj
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.51
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:34cf0d38-e532-4d78-8b3f-32f8dfc1a10d][Dfsxtmx Nsmyurzj NV - 1996-3-19]]

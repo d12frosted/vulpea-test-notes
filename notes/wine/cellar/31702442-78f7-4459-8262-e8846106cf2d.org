@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       31702442-78f7-4459-8262-e8846106cf2d
+:END:
+#+title: Dseajc Jinm Swgnmwc Ehuxiha 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Swgnmwc Ehuxiha
+- vintage :: 2017
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.49
+- price :: 95.13 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:216772ef-eb96-4819-a791-210d08cd73dc][Dseajc Jinm Swgnmwc Ehuxiha 2017 - 2022-12-19]]

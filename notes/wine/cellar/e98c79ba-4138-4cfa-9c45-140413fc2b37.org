@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e98c79ba-4138-4cfa-9c45-140413fc2b37
+:END:
+#+title: Novr Rlrt Lyouy Qfffmfaz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lyouy Qfffmfaz
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.73
+- sugar :: 14.96
+- price :: 38.60 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

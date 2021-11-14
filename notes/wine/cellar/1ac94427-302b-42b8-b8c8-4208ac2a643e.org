@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1ac94427-302b-42b8-b8c8-4208ac2a643e
+:END:
+#+title: Vjjtw Hvrja Pnt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pnt
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.82
+- sugar :: 11.62
+- price :: 29.78 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:eb324b1f-38e2-4567-b7f3-0633502ecd35][Vjjtw Hvrja Pnt NV - 1992-3-21]]

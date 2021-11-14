@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       c3c48381-c535-4147-8deb-b151eb3818e9
+:END:
+#+title: Dfsxtmx Leumd 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Leumd
+- vintage :: 2016
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 12.05
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

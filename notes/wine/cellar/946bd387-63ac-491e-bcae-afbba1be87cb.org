@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       946bd387-63ac-491e-bcae-afbba1be87cb
+:END:
+#+title: Rue Ndcpycp Hgr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ndcpycp Hgr
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.99
+- sugar :: 7.11
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

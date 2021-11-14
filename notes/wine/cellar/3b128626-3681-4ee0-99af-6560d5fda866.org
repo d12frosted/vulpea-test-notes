@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3b128626-3681-4ee0-99af-6560d5fda866
+:END:
+#+title: Lzf Gxzu Wqaxmhfq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Gxzu Wqaxmhfq
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 11.85
+- sugar :: 9.5
+- price :: 69.37 EUR
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

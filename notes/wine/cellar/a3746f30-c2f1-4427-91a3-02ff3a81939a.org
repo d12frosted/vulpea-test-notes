@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a3746f30-c2f1-4427-91a3-02ff3a81939a
+:END:
+#+title: Njtzvl Ngs 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ngs
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.6
+- sugar :: 13.88
+- price :: 24.42 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

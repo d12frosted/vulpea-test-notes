@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       16c920f2-44be-4678-bc2d-ad78a0896ca2
+:END:
+#+title: Novr Rlrt Foketooa Oyzdoyfp 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Foketooa Oyzdoyfp
+- vintage :: 1991
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.46
+- price :: 88.58 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

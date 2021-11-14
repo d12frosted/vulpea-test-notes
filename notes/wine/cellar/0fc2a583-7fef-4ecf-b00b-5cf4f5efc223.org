@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0fc2a583-7fef-4ecf-b00b-5cf4f5efc223
+:END:
+#+title: Rue Ikilv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ikilv
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.8
+- sugar :: 4.81
+- price :: 32.65 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

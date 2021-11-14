@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0d942485-c0e8-4408-a445-3ad07483fba3
+:END:
+#+title: Njtzvl Imydacvj Otrv NV - 2003-6-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:9bc085d5-23d3-46fb-99d1-366cbbe7103f][Njtzvl Imydacvj Otrv]]
+- date :: 2003-6-8
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

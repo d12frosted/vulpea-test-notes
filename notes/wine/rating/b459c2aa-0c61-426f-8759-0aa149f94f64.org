@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b459c2aa-0c61-426f-8759-0aa149f94f64
+:END:
+#+title: Dfsxtmx Opw NV - 2000-1-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:17cf4611-ad46-4bdf-8867-d4a037135cfd][Dfsxtmx Opw]]
+- date :: 2000-1-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8a19c2b8-f2c2-41c0-8334-ef33e9d12575
+:END:
+#+title: Mkmt Ubeuold Rwk 1998
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ubeuold Rwk
+- vintage :: 1998
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 13.67
+- sugar :: 8.04
+- price :: 85.56 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:be1c6621-633e-488a-9020-6973422faafe][Mkmt Ubeuold Rwk 1998 - 2011-6-2]]

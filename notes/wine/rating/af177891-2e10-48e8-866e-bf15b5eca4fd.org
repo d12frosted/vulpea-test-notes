@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       af177891-2e10-48e8-866e-bf15b5eca4fd
+:END:
+#+title: Njtzvl Igsypvvz Sfs NV - 2014-2-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:40316c19-f52a-47b5-9b20-c5805bcd040d][Njtzvl Igsypvvz Sfs]]
+- date :: 2014-2-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

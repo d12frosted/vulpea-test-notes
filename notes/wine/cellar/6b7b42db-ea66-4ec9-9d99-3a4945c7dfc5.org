@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6b7b42db-ea66-4ec9-9d99-3a4945c7dfc5
+:END:
+#+title: Dseajc Jinm Spdivlm 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Spdivlm
+- vintage :: 2013
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.14
+- sugar :: 16.82
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: duckduckgo
+- rating :: NA

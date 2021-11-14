@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1faa9ec5-45c0-4148-b6b5-4539166149d0
+:END:
+#+title: Cdeexg Jlqfmb Bsvwxvya 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Jlqfmb Bsvwxvya
+- vintage :: 1915
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 13.91
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.5
+- ratings :: [[id:12c0234a-a8bb-454d-bc94-18d75e8c3134][Cdeexg Jlqfmb Bsvwxvya 1915 - 1994-7-11]]

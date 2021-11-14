@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3b9abba0-ad11-4721-aa60-f0ff97bf55c0
+:END:
+#+title: Dseajc Jinm Xwzbhzhk Gxwo NV - 2023-9-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:e1440441-9624-4c9d-aae3-65611b5b4dc7][Dseajc Jinm Xwzbhzhk Gxwo]]
+- date :: 2023-9-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

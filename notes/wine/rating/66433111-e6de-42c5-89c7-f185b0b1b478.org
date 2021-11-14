@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       66433111-e6de-42c5-89c7-f185b0b1b478
+:END:
+#+title: Miv Yropv 1902 - 1998-3-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:c7d705b8-d466-4b56-8bcc-c79e4e6b88d8][Miv Yropv 1902]]
+- date :: 1998-3-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

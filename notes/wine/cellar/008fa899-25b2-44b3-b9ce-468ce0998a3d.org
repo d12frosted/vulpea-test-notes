@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       008fa899-25b2-44b3-b9ce-468ce0998a3d
+:END:
+#+title: Rue Eaare Jjutu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Eaare Jjutu
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 10.620000000000001
+- sugar :: 3.72
+- price :: 52.87 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: duckduckgo
+- rating :: NA

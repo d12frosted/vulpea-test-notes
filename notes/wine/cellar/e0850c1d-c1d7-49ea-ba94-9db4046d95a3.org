@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e0850c1d-c1d7-49ea-ba94-9db4046d95a3
+:END:
+#+title: Vjjtw Hvrja Jiuq 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Jiuq
+- vintage :: 1902
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.14
+- price :: 95.58 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

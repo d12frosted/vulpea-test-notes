@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       074bf532-7d09-4042-baba-e719b9057477
+:END:
+#+title: Novr Rlrt Wqhyegpj NV - 2024-10-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:b4969adc-2f6d-4d1b-b610-af87cdec10c9][Novr Rlrt Wqhyegpj]]
+- date :: 2024-10-5
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

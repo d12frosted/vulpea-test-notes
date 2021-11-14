@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d6afc51f-1432-4098-ae63-7ffd5f09fa0d
+:END:
+#+title: Dseajc Jinm Qjcsys 1913
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Qjcsys
+- vintage :: 1913
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 10.65
+- sugar :: 0.5
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

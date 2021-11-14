@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       82d18b1d-1fc2-4e3b-a2a6-bda42b482ea7
+:END:
+#+title: Novr Rlrt Ptldlrp Zvystst 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ptldlrp Zvystst
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 9.01
+- sugar :: 9.18
+- price :: 81.96 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: 8.5
+- ratings :: [[id:97abb9ab-a32d-4e0b-bb84-ccdfe7bdc80d][Novr Rlrt Ptldlrp Zvystst NV - 2012-5-25]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       08566be8-9f3c-44f6-b085-f3274ecb920b
+:END:
+#+title: Cdeexg Sekubc Dcpfnuur 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Sekubc Dcpfnuur
+- vintage :: 1929
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 11.74
+- price :: 70.97 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:82530312-ec6f-4db8-83ed-9f7767172d7c][Cdeexg Sekubc Dcpfnuur 1929 - 2024-4-4]]

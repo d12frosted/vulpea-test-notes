@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       5f054d7b-95d0-44af-81e0-f9e3ecd472fa
+:END:
+#+title: Vjjtw Hvrja Asdmzbtg 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Asdmzbtg
+- vintage :: 1933
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 11.66
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: NA

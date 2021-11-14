@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       40a9b44d-bd5a-41f7-9a59-ef6cf5f3a8e1
+:END:
+#+title: Njtzvl Dugj Jndwivvy 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Dugj Jndwivvy
+- vintage :: 1901
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.15
+- price :: 99.43 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: 8.0
+- ratings :: [[id:1145c8a2-015e-479b-a05e-2df814548c60][Njtzvl Dugj Jndwivvy 1901 - 2012-7-26]]

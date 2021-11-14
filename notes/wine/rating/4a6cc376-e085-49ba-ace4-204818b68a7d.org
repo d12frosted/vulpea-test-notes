@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4a6cc376-e085-49ba-ace4-204818b68a7d
+:END:
+#+title: Cdeexg Okneoqjx NV - 2001-9-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:cf5fab64-a78e-43f8-86fa-4c206bb14e41][Cdeexg Okneoqjx]]
+- date :: 2001-9-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

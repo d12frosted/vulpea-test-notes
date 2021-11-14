@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       02074108-de33-43ff-8a78-50cbbe8de6dd
+:END:
+#+title: Novr Rlrt Lwin 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lwin
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.92
+- sugar :: 6.0
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: wikipedia
+- rating :: 8.5
+- ratings :: [[id:36960f7d-7ad3-431e-9534-c991147e7a55][Novr Rlrt Lwin NV - 2017-7-12]]

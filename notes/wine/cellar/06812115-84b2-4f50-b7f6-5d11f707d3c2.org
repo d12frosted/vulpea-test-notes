@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       06812115-84b2-4f50-b7f6-5d11f707d3c2
+:END:
+#+title: Vjjtw Hvrja Szygbccl Jhtesgc 1979
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Szygbccl Jhtesgc
+- vintage :: 1979
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 13.26
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

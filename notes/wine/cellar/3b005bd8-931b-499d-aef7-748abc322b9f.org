@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3b005bd8-931b-499d-aef7-748abc322b9f
+:END:
+#+title: Lzf Nid Izw 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Nid Izw
+- vintage :: 1931
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.870000000000001
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: 3.0
+- ratings :: [[id:ebd6f227-1224-4417-982d-5b2ca25f5718][Lzf Nid Izw 1931 - 2006-5-26]]

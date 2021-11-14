@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8e624fc6-f5a3-485f-a2c2-f56ff7b8a64e
+:END:
+#+title: Vjjtw Hvrja Boylhtu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Boylhtu
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.780000000000001
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       5af801d9-66de-4ae5-bed1-ef2f9ba5ed27
+:END:
+#+title: Dfsxtmx Awhxwkyh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Awhxwkyh
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 11.27
+- sugar :: 16.42
+- price :: 14.01 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:92f5466f-341f-4150-9eec-b1076525060b][Dfsxtmx Awhxwkyh NV - 2018-2-18]]

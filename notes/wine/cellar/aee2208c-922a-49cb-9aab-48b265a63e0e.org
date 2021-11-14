@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       aee2208c-922a-49cb-9aab-48b265a63e0e
+:END:
+#+title: Lzf Qmqs 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Qmqs
+- vintage :: 1905
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.18
+- price :: 10.87 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.5
+- ratings :: [[id:1e2774a5-c099-4cb5-b0b0-9dbc230e70b4][Lzf Qmqs 1905 - 2005-5-8]]

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       de4b8edb-6c74-43dd-a320-8a94dddc5547
+:END:
+#+title: Dseajc Jinm Wfptugqc 1953
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Wfptugqc
+- vintage :: 1953
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.79
+- sugar :: 19.51
+- price :: 85.90 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.0
+- ratings :: [[id:a35df3f1-2f46-490d-b9fd-a1157d841bc6][Dseajc Jinm Wfptugqc 1953 - 1990-9-28]]

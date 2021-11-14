@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       94ca1cf4-ba87-4372-9a2b-a7c20e5c7ce8
+:END:
+#+title: Mkmt Ewsicf 1976
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ewsicf
+- vintage :: 1976
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.82
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

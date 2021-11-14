@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4527b080-3510-4d75-8469-98999d28ae90
+:END:
+#+title: Dfsxtmx Knhs Ydqccp 1934
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Knhs Ydqccp
+- vintage :: 1934
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.53
+- sugar :: 6.92
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 4.5
+- ratings :: [[id:a09b4bfb-a250-4de1-bcd0-d96016846a1e][Dfsxtmx Knhs Ydqccp 1934 - 2018-3-6]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6d2983b2-5c6c-4970-b879-a48e9990c147
+:END:
+#+title: Novr Rlrt Jgjl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Jgjl
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 9.47
+- sugar :: 11.48
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: 3.0
+- ratings :: [[id:598d3918-ee5d-4e5c-8351-3156dd839a6d][Novr Rlrt Jgjl NV - 2010-5-16]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f9b3d745-120a-484f-b7c9-530262dc9666
+:END:
+#+title: Njtzvl Jzipnq Roehg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Jzipnq Roehg
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 12.43
+- sugar :: 13.24
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.0
+- ratings :: [[id:00e3b04f-b3fd-4b0a-accf-a6eed43c1661][Njtzvl Jzipnq Roehg NV - 1996-11-22]]

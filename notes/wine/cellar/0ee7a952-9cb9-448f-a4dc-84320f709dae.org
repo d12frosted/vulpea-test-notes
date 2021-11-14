@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0ee7a952-9cb9-448f-a4dc-84320f709dae
+:END:
+#+title: Lzf Tkoydh Qbdtv 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tkoydh Qbdtv
+- vintage :: 1949
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.58
+- sugar :: 8.1
+- price :: 28.04 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 7.5
+- ratings :: [[id:0e3e0cc6-8f7e-4913-9c91-69a5a1b90708][Lzf Tkoydh Qbdtv 1949 - 2002-4-15]]

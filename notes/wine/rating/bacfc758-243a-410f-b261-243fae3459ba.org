@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bacfc758-243a-410f-b261-243fae3459ba
+:END:
+#+title: Novr Rlrt Stqkq Wlsk NV - 2013-1-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:fbe20512-8a81-4924-8a8a-5bccf2227157][Novr Rlrt Stqkq Wlsk]]
+- date :: 2013-1-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

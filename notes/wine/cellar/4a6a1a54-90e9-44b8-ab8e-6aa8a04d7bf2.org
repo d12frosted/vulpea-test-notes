@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4a6a1a54-90e9-44b8-ab8e-6aa8a04d7bf2
+:END:
+#+title: Dseajc Jinm Ifae Qqglsdl 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ifae Qqglsdl
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.48
+- sugar :: 9.36
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:d2ae27a5-c845-407e-b69c-00244926d2ec][Dseajc Jinm Ifae Qqglsdl NV - 2007-4-14]]

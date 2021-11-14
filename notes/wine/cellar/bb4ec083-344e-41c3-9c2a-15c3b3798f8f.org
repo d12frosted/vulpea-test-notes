@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bb4ec083-344e-41c3-9c2a-15c3b3798f8f
+:END:
+#+title: Njtzvl Aghhqqz Djrmaaj 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Aghhqqz Djrmaaj
+- vintage :: 1916
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 13.36
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

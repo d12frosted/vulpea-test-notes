@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9502873f-c95b-431b-aa77-c815c5a4b3dc
+:END:
+#+title: Rue Kgr Jrmk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kgr Jrmk
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.89
+- sugar :: 17.83
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:ad299b20-e125-4204-a04f-bc8506a1c821][Rue Kgr Jrmk NV - 2008-12-28]]

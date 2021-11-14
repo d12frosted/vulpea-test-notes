@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       895f4ae0-5386-4967-94e8-4fadb421d265
+:END:
+#+title: Rue Eos 1985 - 2017-9-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:35d193fd-2f88-4ff8-9309-0a26e25de13c][Rue Eos 1985]]
+- date :: 2017-9-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

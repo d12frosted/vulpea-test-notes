@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a6b00eca-5b34-45f6-8d7a-bd5df51be671
+:END:
+#+title: Novr Rlrt Zwe NV - 1992-9-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:8ce1a60d-8e4f-4bbe-a73c-857933283a1b][Novr Rlrt Zwe]]
+- date :: 1992-9-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       52c2d853-da53-4c38-83d7-ccec2b25966e
+:END:
+#+title: Cdeexg Jwqzxx Lfym 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Jwqzxx Lfym
+- vintage :: 2011
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 9.72
+- sugar :: 15.44
+- price :: 64.31 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

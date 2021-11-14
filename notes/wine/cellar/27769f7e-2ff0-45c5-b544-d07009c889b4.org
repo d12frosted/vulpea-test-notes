@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       27769f7e-2ff0-45c5-b544-d07009c889b4
+:END:
+#+title: Mkmt Aekgda 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Aekgda
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 10.5
+- price :: 69.48 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

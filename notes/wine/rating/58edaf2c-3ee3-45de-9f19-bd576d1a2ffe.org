@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       58edaf2c-3ee3-45de-9f19-bd576d1a2ffe
+:END:
+#+title: Rue Uyfjozza Phqaghss NV - 1993-11-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:026a2bc4-f61a-494b-85b5-fff371464668][Rue Uyfjozza Phqaghss]]
+- date :: 1993-11-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

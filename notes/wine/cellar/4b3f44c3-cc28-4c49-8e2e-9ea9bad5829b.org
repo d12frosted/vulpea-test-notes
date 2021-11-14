@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4b3f44c3-cc28-4c49-8e2e-9ea9bad5829b
+:END:
+#+title: Dseajc Jinm Hufw Txsi 1993
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Hufw Txsi
+- vintage :: 1993
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.69
+- sugar :: 9.02
+- price :: 69.74 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

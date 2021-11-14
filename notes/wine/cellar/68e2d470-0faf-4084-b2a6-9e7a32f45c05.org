@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       68e2d470-0faf-4084-b2a6-9e7a32f45c05
+:END:
+#+title: Novr Rlrt Dlcuoz Vdetgtm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Dlcuoz Vdetgtm
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 9.83
+- price :: 40.50 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

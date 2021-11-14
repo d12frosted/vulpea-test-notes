@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dcf38937-09cd-4d5c-8ea3-202075fe124a
+:END:
+#+title: Vjjtw Hvrja Bbbwyjrt 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bbbwyjrt
+- vintage :: 1902
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 13.5
+- price :: 100.90 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: 5.0
+- ratings :: [[id:aaf7bb38-fc60-42bf-b197-590dbc1c2240][Vjjtw Hvrja Bbbwyjrt 1902 - 2018-8-28]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fc711907-4bfd-41d4-8507-aaa14cc4c3f5
+:END:
+#+title: Dseajc Jinm Tjhepjwf Zhy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tjhepjwf Zhy
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.93
+- sugar :: 3.61
+- price :: 77.14 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

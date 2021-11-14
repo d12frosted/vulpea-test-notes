@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ac2e6646-d816-45e6-bd91-409ae6f5b34d
+:END:
+#+title: Mkmt Tuqwo Eqx 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Tuqwo Eqx
+- vintage :: 1907
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 10.05
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7ec8c46a-33c6-444e-aa9e-c2a3dc123bcb
+:END:
+#+title: Mkmt Iaccumw Vfkwplc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Iaccumw Vfkwplc
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.11
+- sugar :: 12.78
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.0
+- ratings :: [[id:a25c3c56-cc08-4d85-82ec-a8ce39dae6a9][Mkmt Iaccumw Vfkwplc NV - 2021-12-22]]

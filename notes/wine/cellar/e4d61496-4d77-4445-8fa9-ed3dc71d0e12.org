@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e4d61496-4d77-4445-8fa9-ed3dc71d0e12
+:END:
+#+title: Rue Ppchxg 1939
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ppchxg
+- vintage :: 1939
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.16
+- sugar :: 11.25
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

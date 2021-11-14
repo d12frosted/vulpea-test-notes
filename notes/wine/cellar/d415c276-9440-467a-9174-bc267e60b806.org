@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d415c276-9440-467a-9174-bc267e60b806
+:END:
+#+title: Dfsxtmx Zfhjjy Wnkifiyq 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Zfhjjy Wnkifiyq
+- vintage :: 1978
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.33
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:d76ac5bc-9d1f-43dc-ae97-fbdd91bfd422][Dfsxtmx Zfhjjy Wnkifiyq 1978 - 2006-12-25]]

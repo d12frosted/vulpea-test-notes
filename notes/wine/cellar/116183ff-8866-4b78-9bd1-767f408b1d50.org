@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       116183ff-8866-4b78-9bd1-767f408b1d50
+:END:
+#+title: Cdeexg Hmw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Hmw
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.08
+- sugar :: 13.25
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 2.5
+- ratings :: [[id:948cf23c-3a2a-4be0-b6a2-928458dfd8e3][Cdeexg Hmw NV - 2010-12-27]]

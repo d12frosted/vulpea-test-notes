@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bb686e16-c5e0-4002-aa21-be940840a4da
+:END:
+#+title: Njtzvl Xiikzwtn 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xiikzwtn
+- vintage :: 1980
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.61
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:0900b4ba-a3ed-4e3c-9bb7-138db205df38][Njtzvl Xiikzwtn 1980 - 2000-7-11]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e7f8a6d1-27df-445d-ae50-336536dd6216
+:END:
+#+title: Vjjtw Hvrja Elxdeexu 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Elxdeexu
+- vintage :: 1924
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 11.39
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 8.0
+- ratings :: [[id:0052dcf3-593e-4b50-a580-248f9f8bda11][Vjjtw Hvrja Elxdeexu 1924 - 1992-10-8]]

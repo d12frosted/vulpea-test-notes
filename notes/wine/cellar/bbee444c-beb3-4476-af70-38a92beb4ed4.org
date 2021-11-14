@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bbee444c-beb3-4476-af70-38a92beb4ed4
+:END:
+#+title: Mkmt Qup Iucc 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Qup Iucc
+- vintage :: 1929
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.32
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

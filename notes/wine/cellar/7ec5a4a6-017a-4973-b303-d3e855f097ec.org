@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7ec5a4a6-017a-4973-b303-d3e855f097ec
+:END:
+#+title: Cdeexg Tihoz Afbheus 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Tihoz Afbheus
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 9.21
+- sugar :: 18.41
+- price :: 47.45 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

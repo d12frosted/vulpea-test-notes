@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       52e2fca9-a6fe-49c3-9eda-ec77f999f945
+:END:
+#+title: Cdeexg Xqngtlqn Wljvpin 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Xqngtlqn Wljvpin
+- vintage :: 1978
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 9.0
+- sugar :: 1.07
+- price :: 95.39 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

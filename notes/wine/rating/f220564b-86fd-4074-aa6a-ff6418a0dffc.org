@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f220564b-86fd-4074-aa6a-ff6418a0dffc
+:END:
+#+title: Mkmt Mefs 1936 - 1993-7-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:70700c08-35dd-4ed7-aa42-b1ab24591690][Mkmt Mefs 1936]]
+- date :: 1993-7-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

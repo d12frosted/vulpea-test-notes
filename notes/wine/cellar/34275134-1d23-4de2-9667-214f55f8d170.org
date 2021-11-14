@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       34275134-1d23-4de2-9667-214f55f8d170
+:END:
+#+title: Mkmt Jflqle 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Jflqle
+- vintage :: 1960
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 13.04
+- price :: 68.24 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

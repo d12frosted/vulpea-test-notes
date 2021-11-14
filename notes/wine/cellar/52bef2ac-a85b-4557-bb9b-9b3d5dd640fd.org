@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       52bef2ac-a85b-4557-bb9b-9b3d5dd640fd
+:END:
+#+title: Vjjtw Hvrja Xivt Mmepbfg 1909
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Xivt Mmepbfg
+- vintage :: 1909
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 10.95
+- sugar :: 19.38
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 1.5
+- ratings :: [[id:4d28fef2-ff55-48e8-898b-76d98662f436][Vjjtw Hvrja Xivt Mmepbfg 1909 - 2021-10-22]]

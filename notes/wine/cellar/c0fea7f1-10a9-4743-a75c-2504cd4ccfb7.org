@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       c0fea7f1-10a9-4743-a75c-2504cd4ccfb7
+:END:
+#+title: Cdeexg Rmywyszb Lglrowxd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Rmywyszb Lglrowxd
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.67
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

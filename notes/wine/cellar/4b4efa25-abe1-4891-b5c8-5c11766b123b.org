@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4b4efa25-abe1-4891-b5c8-5c11766b123b
+:END:
+#+title: Njtzvl Djkjxry Bstxki 1930
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Djkjxry Bstxki
+- vintage :: 1930
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.0
+- sugar :: 5.45
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- rating :: NA

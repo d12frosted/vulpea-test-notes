@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       725596e7-79b1-4c5a-a959-d96cade5b427
+:END:
+#+title: Rue Crs 1985
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Crs
+- vintage :: 1985
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.98
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- rating :: NA

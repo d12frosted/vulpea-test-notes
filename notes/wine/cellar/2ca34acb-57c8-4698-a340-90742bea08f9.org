@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2ca34acb-57c8-4698-a340-90742bea08f9
+:END:
+#+title: Dseajc Jinm Dukvbw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Dukvbw
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.49
+- sugar :: 10.27
+- price :: 92.89 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:e950ca40-3152-43e1-b254-0ee1e7c8d022][Dseajc Jinm Dukvbw NV - 1996-8-14]]

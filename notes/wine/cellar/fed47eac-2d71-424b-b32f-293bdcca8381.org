@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fed47eac-2d71-424b-b32f-293bdcca8381
+:END:
+#+title: Miv Hqut 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Hqut
+- vintage :: 1947
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.04
+- sugar :: 12.06
+- price :: 64.06 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: 5.5
+- ratings :: [[id:37dce849-ed0b-4181-9c82-14cc21aae7e9][Miv Hqut 1947 - 2023-2-12]]

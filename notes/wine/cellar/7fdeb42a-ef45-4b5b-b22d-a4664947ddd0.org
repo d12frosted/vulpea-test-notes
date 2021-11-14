@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7fdeb42a-ef45-4b5b-b22d-a4664947ddd0
+:END:
+#+title: Rue Npvzvgp 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Npvzvgp
+- vintage :: 2003
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.92
+- sugar :: 4.34
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

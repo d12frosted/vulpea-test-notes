@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2bd5c184-ae41-495a-a3c1-214430ba5671
+:END:
+#+title: Dfsxtmx Mjbsbm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mjbsbm
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.8
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:f45c7120-8c32-4e2b-aaa4-a13679653b55][Dfsxtmx Mjbsbm NV - 1996-2-3]]

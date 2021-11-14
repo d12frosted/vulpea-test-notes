@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       64a37c68-deee-458e-af1f-e5a442f54f42
+:END:
+#+title: Vjjtw Hvrja Ijszqkf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ijszqkf
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.01
+- sugar :: 21.89
+- price :: 48.64 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

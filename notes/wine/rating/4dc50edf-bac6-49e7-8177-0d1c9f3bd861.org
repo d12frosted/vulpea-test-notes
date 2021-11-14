@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4dc50edf-bac6-49e7-8177-0d1c9f3bd861
+:END:
+#+title: Njtzvl Qwxclwpf 1931 - 1994-12-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:6897d068-2bed-4644-9ad0-bc9606a2c22d][Njtzvl Qwxclwpf 1931]]
+- date :: 1994-12-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

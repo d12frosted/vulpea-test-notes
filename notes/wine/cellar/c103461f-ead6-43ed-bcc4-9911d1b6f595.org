@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c103461f-ead6-43ed-bcc4-9911d1b6f595
+:END:
+#+title: Novr Rlrt Ntdzx Oxduwm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ntdzx Oxduwm
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.6
+- price :: 29.80 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 7.0
+- ratings :: [[id:660012d2-fab0-437a-8561-2e773e171efd][Novr Rlrt Ntdzx Oxduwm NV - 2010-9-18]]

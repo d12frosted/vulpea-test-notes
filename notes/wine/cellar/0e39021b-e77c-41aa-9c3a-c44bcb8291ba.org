@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0e39021b-e77c-41aa-9c3a-c44bcb8291ba
+:END:
+#+title: Njtzvl Hililb Dsxmgebq 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hililb Dsxmgebq
+- vintage :: 1988
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.16
+- sugar :: 12.02
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

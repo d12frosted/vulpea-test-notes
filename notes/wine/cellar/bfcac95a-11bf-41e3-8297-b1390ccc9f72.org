@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       bfcac95a-11bf-41e3-8297-b1390ccc9f72
+:END:
+#+title: Lzf Gpetdzy 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Gpetdzy
+- vintage :: 1986
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.71
+- price :: 36.55 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

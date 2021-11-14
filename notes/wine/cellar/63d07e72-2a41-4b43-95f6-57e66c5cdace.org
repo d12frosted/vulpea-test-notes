@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       63d07e72-2a41-4b43-95f6-57e66c5cdace
+:END:
+#+title: Dseajc Jinm Noazgd 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Noazgd
+- vintage :: 1996
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.11
+- sugar :: 0.06
+- price :: 40.01 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

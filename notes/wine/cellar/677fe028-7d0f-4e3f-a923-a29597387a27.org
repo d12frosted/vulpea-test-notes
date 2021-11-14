@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       677fe028-7d0f-4e3f-a923-a29597387a27
+:END:
+#+title: Vjjtw Hvrja Dmsenzfr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dmsenzfr
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.48
+- sugar :: 13.22
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 7.0
+- ratings :: [[id:70bf63fe-c10d-4b37-a4b5-f0bd2014d28e][Vjjtw Hvrja Dmsenzfr NV - 2003-4-9]]

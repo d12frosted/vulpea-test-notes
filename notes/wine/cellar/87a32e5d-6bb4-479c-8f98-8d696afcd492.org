@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       87a32e5d-6bb4-479c-8f98-8d696afcd492
+:END:
+#+title: Njtzvl Xmpjzu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Xmpjzu
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 9.84
+- sugar :: 8.69
+- price :: 37.53 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

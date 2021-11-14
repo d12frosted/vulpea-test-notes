@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       07e465c3-9ef0-46a2-b416-e4cf8a323d2e
+:END:
+#+title: Miv Tptmtpac 1924
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Tptmtpac
+- vintage :: 1924
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.45
+- sugar :: 6.34
+- price :: 57.25 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

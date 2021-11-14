@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       93643aa4-3cb3-40bd-a1b3-5ca8adac6235
+:END:
+#+title: Lzf Seeax 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Seeax
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 12.08
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: duckduckgo
+- rating :: 5.5
+- ratings :: [[id:b3270555-80c4-495f-8450-ef50d24695fa][Lzf Seeax NV - 2002-8-1]]

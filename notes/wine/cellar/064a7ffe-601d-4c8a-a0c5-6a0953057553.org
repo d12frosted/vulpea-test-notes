@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       064a7ffe-601d-4c8a-a0c5-6a0953057553
+:END:
+#+title: Miv Ypyttq Bsnlyka 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ypyttq Bsnlyka
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.65
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: NA

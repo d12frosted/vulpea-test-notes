@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       03813ad6-92c6-420d-88b2-f3b438fdeaae
+:END:
+#+title: Dfsxtmx Gvb Poyga 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gvb Poyga
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.04
+- sugar :: 2.94
+- price :: 83.78 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

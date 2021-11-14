@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1f67c6ff-f5be-49f7-bffe-219a80e7d1f9
+:END:
+#+title: Vjjtw Hvrja Hidta Gmduclgo 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hidta Gmduclgo
+- vintage :: 1986
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.11
+- price :: 99.74 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:cb1a1746-31bc-480e-8be2-7c85258ede53][Vjjtw Hvrja Hidta Gmduclgo 1986 - 2001-3-19]]

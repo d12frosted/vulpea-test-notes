@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f3d450ec-0fd6-4053-b9ca-e1fa5d7bdc7f
+:END:
+#+title: Vjjtw Hvrja Cdp Bfqmry 2017 - 2023-2-19
+#+filetags: :wine:rating:
+
+- wine :: [[id:97b083d0-c74e-4068-ad9b-717dd75ba443][Vjjtw Hvrja Cdp Bfqmry 2017]]
+- date :: 2023-2-19
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

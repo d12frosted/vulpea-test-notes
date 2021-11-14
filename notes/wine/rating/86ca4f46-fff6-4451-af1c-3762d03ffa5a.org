@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       86ca4f46-fff6-4451-af1c-3762d03ffa5a
+:END:
+#+title: Cdeexg Ctpde 1906 - 2014-11-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:167895a6-cf88-4db2-9d99-aa1866ec2121][Cdeexg Ctpde 1906]]
+- date :: 2014-11-10
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

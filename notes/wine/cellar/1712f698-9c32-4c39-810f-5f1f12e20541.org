@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1712f698-9c32-4c39-810f-5f1f12e20541
+:END:
+#+title: Cdeexg Msdlpbx 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Msdlpbx
+- vintage :: 1952
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 10.97
+- sugar :: 13.33
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

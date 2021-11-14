@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c1c4a3d4-fca5-45fd-b4f6-e5990592f753
+:END:
+#+title: Miv Smvap Pecncqg 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Smvap Pecncqg
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.86
+- sugar :: 21.06
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:fd9bc714-6608-4f67-9b5f-84dde1132c74][Miv Smvap Pecncqg NV - 2020-10-7]]

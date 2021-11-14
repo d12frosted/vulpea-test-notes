@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d5853dbb-ff49-4cf6-acf2-a2c28ce78817
+:END:
+#+title: Dseajc Jinm Zfu 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zfu
+- vintage :: 1999
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 9.39
+- sugar :: 14.45
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:01d31087-2db8-4d69-ab90-89d8fe1f2128][Dseajc Jinm Zfu 1999 - 1990-3-21]]

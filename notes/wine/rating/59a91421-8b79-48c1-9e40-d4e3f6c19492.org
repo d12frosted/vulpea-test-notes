@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       59a91421-8b79-48c1-9e40-d4e3f6c19492
+:END:
+#+title: Lzf Vfbmyq 1933 - 2016-9-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:40b5b58a-c40f-4f4b-aca6-805a767630e1][Lzf Vfbmyq 1933]]
+- date :: 2016-9-11
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

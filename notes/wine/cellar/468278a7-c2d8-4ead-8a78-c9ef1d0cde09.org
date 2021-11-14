@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       468278a7-c2d8-4ead-8a78-c9ef1d0cde09
+:END:
+#+title: Dfsxtmx Wbaryvhs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Wbaryvhs
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 9.75
+- price :: 17.25 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 8.5
+- ratings :: [[id:67f11243-bacf-4da0-b063-c0f5936acaf8][Dfsxtmx Wbaryvhs NV - 2019-9-5]]

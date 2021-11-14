@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6bb59b75-97f6-4fb9-a26c-8fb5f0a8b7b9
+:END:
+#+title: Novr Rlrt Snw Aav NV - 2020-3-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:d6965fe3-9f93-4423-af93-08ce01108727][Novr Rlrt Snw Aav]]
+- date :: 2020-3-9
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

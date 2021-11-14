@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       17a900a7-8ec3-4601-af0a-a3bfdbf66f08
+:END:
+#+title: Miv Nnydjpb Yppi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Nnydjpb Yppi
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.03
+- sugar :: 16.62
+- price :: 23.05 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

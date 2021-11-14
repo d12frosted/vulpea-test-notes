@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4ed7ff78-14ea-4535-ae1b-d98096b5552a
+:END:
+#+title: Njtzvl Hiwaeum 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hiwaeum
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 12.36
+- price :: 83.06 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 4.0
+- ratings :: [[id:26b48b14-a9c0-426e-9e85-1a08049bffb9][Njtzvl Hiwaeum NV - 2020-8-26]]

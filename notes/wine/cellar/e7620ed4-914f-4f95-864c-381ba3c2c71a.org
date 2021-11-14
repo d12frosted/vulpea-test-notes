@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e7620ed4-914f-4f95-864c-381ba3c2c71a
+:END:
+#+title: Miv Rcjo Pwjzt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rcjo Pwjzt
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 12.370000000000001
+- sugar :: 22.21
+- price :: 100.40 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

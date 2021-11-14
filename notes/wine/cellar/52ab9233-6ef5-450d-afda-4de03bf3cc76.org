@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       52ab9233-6ef5-450d-afda-4de03bf3cc76
+:END:
+#+title: Vjjtw Hvrja Kmbyhtl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Kmbyhtl
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 13.120000000000001
+- price :: 85.49 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

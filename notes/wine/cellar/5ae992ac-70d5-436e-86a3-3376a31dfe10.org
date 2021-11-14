@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5ae992ac-70d5-436e-86a3-3376a31dfe10
+:END:
+#+title: Dseajc Jinm Nlvdjd Mrpsadsn 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Nlvdjd Mrpsadsn
+- vintage :: 1984
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 12.53
+- sugar :: 6.52
+- price :: 47.73 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

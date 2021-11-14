@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       a4abdb40-857d-4431-9bce-a82608ceb04b
+:END:
+#+title: Dseajc Jinm Ufgz Xmphedc 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ufgz Xmphedc
+- vintage :: 1996
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 13.84
+- price :: 52.62 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

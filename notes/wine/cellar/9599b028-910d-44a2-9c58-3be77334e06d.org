@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9599b028-910d-44a2-9c58-3be77334e06d
+:END:
+#+title: Cdeexg Dtlbg Tsqnzv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Dtlbg Tsqnzv
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.0
+- sugar :: 20.44
+- price :: 76.90 EUR
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: 5.0
+- ratings :: [[id:a13e903b-2e02-40d8-a071-0cda3a458484][Cdeexg Dtlbg Tsqnzv NV - 1992-4-14]]

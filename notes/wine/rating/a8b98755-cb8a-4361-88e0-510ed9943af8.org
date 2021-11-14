@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a8b98755-cb8a-4361-88e0-510ed9943af8
+:END:
+#+title: Dseajc Jinm Ddddv Vgftmh 1973 - 2014-10-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:a2939165-f160-4209-bfc3-02c180fee795][Dseajc Jinm Ddddv Vgftmh 1973]]
+- date :: 2014-10-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

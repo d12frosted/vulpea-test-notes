@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       65512c01-9402-41eb-b561-3dc7623158d8
+:END:
+#+title: Miv Bgmhlem 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Bgmhlem
+- vintage :: 1914
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.46
+- sugar :: 22.97
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.5
+- ratings :: [[id:fb865345-004a-404c-b58e-b1fec302792e][Miv Bgmhlem 1914 - 2009-1-3]]

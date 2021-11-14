@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2ac96695-cff9-46e9-89e5-97814c09f15d
+:END:
+#+title: Miv Cgqqgut 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Cgqqgut
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.92
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       124c462f-b71c-47d3-8efc-7fcd2281f300
+:END:
+#+title: Vjjtw Hvrja Euzp 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Euzp
+- vintage :: 1923
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.74
+- price :: 80.42 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

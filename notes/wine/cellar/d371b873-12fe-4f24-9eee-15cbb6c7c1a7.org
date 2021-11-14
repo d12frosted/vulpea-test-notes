@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d371b873-12fe-4f24-9eee-15cbb6c7c1a7
+:END:
+#+title: Dseajc Jinm Ixyzjcs Jfesjluy 1940
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ixyzjcs Jfesjluy
+- vintage :: 1940
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.55
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

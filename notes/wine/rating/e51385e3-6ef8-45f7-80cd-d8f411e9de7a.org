@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e51385e3-6ef8-45f7-80cd-d8f411e9de7a
+:END:
+#+title: Rue Bbke NV - 2002-12-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:fd3eca6e-2fd0-41df-ad98-477689991ad6][Rue Bbke]]
+- date :: 2002-12-13
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

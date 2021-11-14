@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       9668ca81-7bfe-479a-ab18-ce18579c5f95
+:END:
+#+title: Lzf Rwfxt Zdleat 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Rwfxt Zdleat
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 12.89
+- price :: 67.40 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

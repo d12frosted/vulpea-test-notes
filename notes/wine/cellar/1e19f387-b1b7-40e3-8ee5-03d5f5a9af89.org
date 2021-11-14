@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1e19f387-b1b7-40e3-8ee5-03d5f5a9af89
+:END:
+#+title: Novr Rlrt Dybvbav 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Dybvbav
+- vintage :: 1974
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.629999999999999
+- sugar :: 23.96
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9c46479e-48db-413b-bd49-e6e971d5c9c3
+:END:
+#+title: Dseajc Jinm Hegv Mvhan NV - 2016-6-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:64aa68ec-6701-4630-bc0f-53e6689fa15c][Dseajc Jinm Hegv Mvhan]]
+- date :: 2016-6-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

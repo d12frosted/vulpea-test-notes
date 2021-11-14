@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       14c1d3d8-bd7b-44ed-afea-9ecd8b8cba23
+:END:
+#+title: Vjjtw Hvrja Irj 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Irj
+- vintage :: 1916
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.73
+- sugar :: 6.11
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.0
+- ratings :: [[id:2d03ea69-51ca-4589-8e0a-0748c8446276][Vjjtw Hvrja Irj 1916 - 1996-12-25]]

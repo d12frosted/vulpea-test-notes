@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       71320087-fa84-4b52-9df0-f303e80958d0
+:END:
+#+title: Novr Rlrt Exrd Ccawn 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Exrd Ccawn
+- vintage :: 1905
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.02
+- sugar :: 23.03
+- price :: 35.80 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

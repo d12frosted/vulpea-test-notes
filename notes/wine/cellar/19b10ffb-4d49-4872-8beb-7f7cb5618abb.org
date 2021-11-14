@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       19b10ffb-4d49-4872-8beb-7f7cb5618abb
+:END:
+#+title: Cdeexg Lhsleqm Zmpwipnv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Lhsleqm Zmpwipnv
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.15
+- price :: 82.69 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: 5.0
+- ratings :: [[id:ec870f3d-e172-465f-9d25-18f15cf89a34][Cdeexg Lhsleqm Zmpwipnv NV - 2024-5-17]]

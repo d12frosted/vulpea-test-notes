@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7ffadffd-4f42-4741-9482-da0e911fe69e
+:END:
+#+title: Miv Rcjarv 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rcjarv
+- vintage :: 1995
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.02
+- sugar :: 4.94
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

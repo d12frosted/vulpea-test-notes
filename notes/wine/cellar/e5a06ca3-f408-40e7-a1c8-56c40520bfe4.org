@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e5a06ca3-f408-40e7-a1c8-56c40520bfe4
+:END:
+#+title: Dseajc Jinm Nmtaoqqt Ydryvz 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Nmtaoqqt Ydryvz
+- vintage :: 1951
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.62
+- sugar :: 6.6
+- price :: 84.38 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

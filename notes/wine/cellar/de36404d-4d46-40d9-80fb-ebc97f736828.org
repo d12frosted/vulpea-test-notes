@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       de36404d-4d46-40d9-80fb-ebc97f736828
+:END:
+#+title: Miv Uwzotkd Sejipn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Uwzotkd Sejipn
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.03
+- price :: 35.61 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

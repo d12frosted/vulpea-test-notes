@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       d6f579b6-c0b5-4f48-a862-1cf431de1e4d
+:END:
+#+title: Rue Izgj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Izgj
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.95
+- sugar :: 1.21
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 6.5
+- ratings :: [[id:4b607f17-17eb-4210-8bd3-d3cb1f65fd45][Rue Izgj NV - 2013-1-21]]

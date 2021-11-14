@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bd1002dd-6891-4620-83fe-eb96d3dd5bc1
+:END:
+#+title: Vjjtw Hvrja Jxywi 1970 - 2012-2-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:a0e24bba-e5f2-4cf3-a1a2-06c6b3ed6319][Vjjtw Hvrja Jxywi 1970]]
+- date :: 2012-2-4
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

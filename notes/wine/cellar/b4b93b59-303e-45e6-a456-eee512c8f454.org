@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b4b93b59-303e-45e6-a456-eee512c8f454
+:END:
+#+title: Mkmt Twf Izjsixti 1982
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Twf Izjsixti
+- vintage :: 1982
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 9.61
+- price :: 59.53 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

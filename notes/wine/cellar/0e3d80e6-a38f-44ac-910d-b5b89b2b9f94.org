@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0e3d80e6-a38f-44ac-910d-b5b89b2b9f94
+:END:
+#+title: Dfsxtmx Siwcn 1995
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Siwcn
+- vintage :: 1995
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.84
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: NA

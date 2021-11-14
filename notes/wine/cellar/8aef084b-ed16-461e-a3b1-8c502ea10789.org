@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8aef084b-ed16-461e-a3b1-8c502ea10789
+:END:
+#+title: Dseajc Jinm Pls Ppbfocmc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Pls Ppbfocmc
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 13.66
+- sugar :: 6.79
+- price :: 51.97 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

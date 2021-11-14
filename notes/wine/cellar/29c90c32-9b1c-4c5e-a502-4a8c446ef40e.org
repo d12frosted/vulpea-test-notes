@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       29c90c32-9b1c-4c5e-a502-4a8c446ef40e
+:END:
+#+title: Lzf Cupyb Gojdkb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Cupyb Gojdkb
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.43
+- sugar :: 0.7
+- price :: 88.21 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:cc5fe8dd-294c-43e3-8cd4-bbdbb99069af][Lzf Cupyb Gojdkb NV - 2010-8-17]]

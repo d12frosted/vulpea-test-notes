@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7aeb8f18-2adc-4618-908b-7a76aec4d885
+:END:
+#+title: Rue Vycoa NV - 2010-2-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:8b133a47-9eaf-4cee-a3c2-e0aef7fd7600][Rue Vycoa]]
+- date :: 2010-2-2
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

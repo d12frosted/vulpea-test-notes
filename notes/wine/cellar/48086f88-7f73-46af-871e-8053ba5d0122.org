@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       48086f88-7f73-46af-871e-8053ba5d0122
+:END:
+#+title: Cdeexg Iuz Jeljiuz 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Iuz Jeljiuz
+- vintage :: 2011
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.3
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

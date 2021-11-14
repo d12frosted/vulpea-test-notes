@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       e9d65cd5-ef11-4f7b-b198-21e0ba6de6f4
+:END:
+#+title: Miv Ffedm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ffedm
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.11
+- sugar :: 16.0
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

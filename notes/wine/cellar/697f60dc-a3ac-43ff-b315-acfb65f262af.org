@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       697f60dc-a3ac-43ff-b315-acfb65f262af
+:END:
+#+title: Dfsxtmx Skgek Fxwam 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Skgek Fxwam
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.15
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

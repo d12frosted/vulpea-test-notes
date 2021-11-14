@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4b0e38a4-2602-4aa3-96f8-475b72257d2c
+:END:
+#+title: Cdeexg Ewjcttkr Bitqc 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ewjcttkr Bitqc
+- vintage :: 2007
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.23
+- sugar :: 23.28
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

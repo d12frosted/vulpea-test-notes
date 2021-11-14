@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ede326cd-04b0-42f4-b4f6-cd80771914ec
+:END:
+#+title: Cdeexg Bzbyyabc Ahpx 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bzbyyabc Ahpx
+- vintage :: 1921
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.63
+- sugar :: 19.7
+- price :: 59.33 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

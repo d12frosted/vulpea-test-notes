@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cfd210bb-a8d9-4537-b308-574ad41c6fc5
+:END:
+#+title: Dseajc Jinm Vuqtaw 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vuqtaw
+- vintage :: 1986
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 12.1
+- sugar :: 19.9
+- price :: 18.50 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

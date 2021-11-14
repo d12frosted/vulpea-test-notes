@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       357e80f0-322e-4eb1-9149-72be936439c2
+:END:
+#+title: Dseajc Jinm Eneyzb Tqko 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Eneyzb Tqko
+- vintage :: 1945
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.54
+- sugar :: 13.05
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.0
+- ratings :: [[id:a146980d-8785-45c8-9f75-da578504473e][Dseajc Jinm Eneyzb Tqko 1945 - 2003-12-16]]

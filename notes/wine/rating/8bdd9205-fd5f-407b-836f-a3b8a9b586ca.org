@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8bdd9205-fd5f-407b-836f-a3b8a9b586ca
+:END:
+#+title: Mkmt Kuwr 2008 - 2005-11-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:2d232ff9-d548-4be3-bb8e-1930b1235217][Mkmt Kuwr 2008]]
+- date :: 2005-11-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

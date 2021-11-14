@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3ab24aef-04b7-4e28-9bd5-3ebd444588b6
+:END:
+#+title: Cdeexg Flzionqo Soo 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Flzionqo Soo
+- vintage :: 1986
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 13.8
+- sugar :: 23.93
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:3e3f5728-9f09-4c5a-9850-a1f24b3163cd][Cdeexg Flzionqo Soo 1986 - 2006-10-25]]

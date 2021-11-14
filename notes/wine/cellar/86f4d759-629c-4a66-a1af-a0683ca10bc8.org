@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       86f4d759-629c-4a66-a1af-a0683ca10bc8
+:END:
+#+title: Lzf Qmg Hdny 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Qmg Hdny
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.06
+- sugar :: 2.36
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

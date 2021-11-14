@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7d4f3002-e78e-4969-80e3-86c1096f7822
+:END:
+#+title: Njtzvl Qijxazqc Nrlnwuq 1979 - 2000-3-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:c27058f9-28f6-401a-98e7-df4b7bb188e1][Njtzvl Qijxazqc Nrlnwuq 1979]]
+- date :: 2000-3-15
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

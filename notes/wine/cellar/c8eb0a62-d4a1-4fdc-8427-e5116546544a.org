@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c8eb0a62-d4a1-4fdc-8427-e5116546544a
+:END:
+#+title: Dseajc Jinm Zjzblycc Enlxv 1983
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zjzblycc Enlxv
+- vintage :: 1983
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.66
+- sugar :: 8.35
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

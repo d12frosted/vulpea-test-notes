@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6979798f-4b24-479b-bd8d-a964b54b112e
+:END:
+#+title: Miv Sejgsu 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Sejgsu
+- vintage :: 2008
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 10.69
+- sugar :: 20.64
+- price :: 84.06 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:8f5b3d58-8d03-49ee-b324-830a4716346b][Miv Sejgsu 2008 - 1995-11-15]]

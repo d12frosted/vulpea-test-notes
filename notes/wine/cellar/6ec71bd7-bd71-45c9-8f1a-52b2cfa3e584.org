@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6ec71bd7-bd71-45c9-8f1a-52b2cfa3e584
+:END:
+#+title: Njtzvl Hcbwk Eead 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hcbwk Eead
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 12.4
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

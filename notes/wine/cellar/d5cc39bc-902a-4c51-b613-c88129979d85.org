@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d5cc39bc-902a-4c51-b613-c88129979d85
+:END:
+#+title: Cdeexg Bmzep 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bmzep
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 10.7
+- sugar :: 22.9
+- price :: 52.42 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 5.0
+- ratings :: [[id:a7c1259f-b88d-4720-b747-17cb36cc3d96][Cdeexg Bmzep NV - 2010-10-12]]

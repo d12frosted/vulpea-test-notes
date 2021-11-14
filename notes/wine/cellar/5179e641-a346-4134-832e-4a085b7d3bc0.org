@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5179e641-a346-4134-832e-4a085b7d3bc0
+:END:
+#+title: Dfsxtmx Fqljl Qplsfa 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Fqljl Qplsfa
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.64
+- sugar :: 19.12
+- price :: 88.82 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

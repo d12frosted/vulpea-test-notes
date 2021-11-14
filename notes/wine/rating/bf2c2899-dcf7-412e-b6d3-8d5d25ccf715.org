@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bf2c2899-dcf7-412e-b6d3-8d5d25ccf715
+:END:
+#+title: Mkmt Zjpeabvl Acd NV - 2020-9-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:e0663e78-a47c-41ee-8a16-7d92bc1e0e39][Mkmt Zjpeabvl Acd]]
+- date :: 2020-9-14
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

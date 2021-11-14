@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       89a40605-a0d1-4e72-85f3-f4b58a87fdf7
+:END:
+#+title: Dfsxtmx Wteqoo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Wteqoo
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.79
+- sugar :: 11.21
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:f3da423a-4611-467e-ba0a-645d4b13f7b6][Dfsxtmx Wteqoo NV - 1998-4-6]]

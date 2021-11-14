@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       296841f8-2003-4b42-9c98-918db14e587a
+:END:
+#+title: Novr Rlrt Tyxpi 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Tyxpi
+- vintage :: 2015
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 9.44
+- sugar :: 10.3
+- price :: 80.87 EUR
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

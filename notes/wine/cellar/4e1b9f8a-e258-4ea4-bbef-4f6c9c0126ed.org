@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4e1b9f8a-e258-4ea4-bbef-4f6c9c0126ed
+:END:
+#+title: Vjjtw Hvrja Ymqhcbt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ymqhcbt
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.54
+- price :: 73.28 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2f7f4693-1bb6-4c69-94f2-8d27601d79af
+:END:
+#+title: Njtzvl Wspaidpi 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Wspaidpi
+- vintage :: 1902
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.879999999999999
+- price :: 48.57 EUR
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: 4.0
+- ratings :: [[id:eeb63654-2104-4090-a38d-de4b2e115e20][Njtzvl Wspaidpi 1902 - 2023-9-1]]

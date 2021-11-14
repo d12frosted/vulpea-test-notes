@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       22abf51a-fec0-4ee6-a7db-9291618cf9b8
+:END:
+#+title: Mkmt Zywsg Xhq NV - 1996-3-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:188e5bff-4a4b-40b6-94a2-1560154a4d4d][Mkmt Zywsg Xhq]]
+- date :: 1996-3-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

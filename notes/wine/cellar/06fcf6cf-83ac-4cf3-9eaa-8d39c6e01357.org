@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       06fcf6cf-83ac-4cf3-9eaa-8d39c6e01357
+:END:
+#+title: Njtzvl Sabsky Lludjd 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Sabsky Lludjd
+- vintage :: 1915
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 13.61
+- price :: 50.18 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 2.5
+- ratings :: [[id:89ef22bb-f59d-41dd-b7d0-9f6081e8062c][Njtzvl Sabsky Lludjd 1915 - 2000-8-6]]

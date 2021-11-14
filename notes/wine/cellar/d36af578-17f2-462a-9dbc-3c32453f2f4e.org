@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d36af578-17f2-462a-9dbc-3c32453f2f4e
+:END:
+#+title: Novr Rlrt Bdyqwfs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bdyqwfs
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.84
+- sugar :: 6.98
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

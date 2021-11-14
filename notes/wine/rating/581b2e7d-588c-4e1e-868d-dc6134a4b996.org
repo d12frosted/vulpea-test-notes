@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       581b2e7d-588c-4e1e-868d-dc6134a4b996
+:END:
+#+title: Vjjtw Hvrja Lsx NV - 2001-11-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:c725c972-89c4-4d3d-b77c-93313b5d8991][Vjjtw Hvrja Lsx]]
+- date :: 2001-11-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3ccce3c7-0c76-48de-9213-0f8be5ad89ab
+:END:
+#+title: Rue Xzpwc 2007 - 1991-12-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:dd024b54-0be7-4f7a-b4b0-e98ef99987f2][Rue Xzpwc 2007]]
+- date :: 1991-12-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

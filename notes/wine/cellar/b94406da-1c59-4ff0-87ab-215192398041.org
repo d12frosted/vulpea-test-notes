@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b94406da-1c59-4ff0-87ab-215192398041
+:END:
+#+title: Dfsxtmx Xvav 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Xvav
+- vintage :: 1958
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.79
+- sugar :: 9.53
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

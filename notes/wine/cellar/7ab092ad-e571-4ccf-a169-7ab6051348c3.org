@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7ab092ad-e571-4ccf-a169-7ab6051348c3
+:END:
+#+title: Mkmt Lmcggmi 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Lmcggmi
+- vintage :: 1929
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.92
+- sugar :: 2.74
+- price :: 99.20 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:391766d6-54d2-4826-9ad5-a67d2f0bcb1b][Mkmt Lmcggmi 1929 - 1992-12-26]]

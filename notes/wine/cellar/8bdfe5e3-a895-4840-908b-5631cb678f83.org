@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8bdfe5e3-a895-4840-908b-5631cb678f83
+:END:
+#+title: Lzf Jqwbqpme 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jqwbqpme
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 12.86
+- sugar :: 7.83
+- price :: 3.79 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- rating :: NA

@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       55a2c846-d826-4b4e-af6c-4357553b017e
+:END:
+#+title: Lzf Vsmcuz 1999
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vsmcuz
+- vintage :: 1999
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 13.809999999999999
+- sugar :: 20.53
+- price :: 3.63 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: 3.0
+- ratings :: [[id:43150e59-5e07-4824-9710-864201a78865][Lzf Vsmcuz 1999 - 2010-8-27]]

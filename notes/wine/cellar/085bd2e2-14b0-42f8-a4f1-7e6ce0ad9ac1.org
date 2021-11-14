@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       085bd2e2-14b0-42f8-a4f1-7e6ce0ad9ac1
+:END:
+#+title: Njtzvl Qorpxh 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Qorpxh
+- vintage :: 1991
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 12.120000000000001
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:1d0077db-e1e6-41a1-9922-7ecd0eac24b9][Njtzvl Qorpxh 1991 - 2014-2-13]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b977a2cb-ac89-4b73-9c68-90c571253379
+:END:
+#+title: Miv Rjpppx Yzw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rjpppx Yzw
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 11.77
+- price :: 61.80 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

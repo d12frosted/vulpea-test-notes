@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       a54b1caf-c06d-411d-98fe-b9cc3ca80cd6
+:END:
+#+title: Vjjtw Hvrja Pyh Bcns 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pyh Bcns
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.28
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- rating :: NA

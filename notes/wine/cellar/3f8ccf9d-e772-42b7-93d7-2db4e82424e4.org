@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       3f8ccf9d-e772-42b7-93d7-2db4e82424e4
+:END:
+#+title: Dfsxtmx Ilcdd 1952
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ilcdd
+- vintage :: 1952
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.57
+- sugar :: 11.02
+- price :: 42.79 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:07d73050-1801-4626-b32e-253ec4443937][Dfsxtmx Ilcdd 1952 - 2009-8-20]]

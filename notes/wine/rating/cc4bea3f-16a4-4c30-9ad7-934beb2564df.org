@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       cc4bea3f-16a4-4c30-9ad7-934beb2564df
+:END:
+#+title: Novr Rlrt Abxodg 1934 - 2004-6-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:4a5da6aa-79dc-417a-b5c9-f02694f26e72][Novr Rlrt Abxodg 1934]]
+- date :: 2004-6-4
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bea21182-b8bf-4f83-9deb-c16445f82715
+:END:
+#+title: Novr Rlrt Eaqhjzba 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Eaqhjzba
+- vintage :: 1919
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 9.37
+- price :: 50.22 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

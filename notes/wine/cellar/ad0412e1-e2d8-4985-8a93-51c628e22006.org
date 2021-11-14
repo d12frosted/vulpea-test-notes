@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ad0412e1-e2d8-4985-8a93-51c628e22006
+:END:
+#+title: Dfsxtmx Pbx Vrwjno 1926
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Pbx Vrwjno
+- vintage :: 1926
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.370000000000001
+- sugar :: 18.64
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: wikipedia
+- rating :: NA

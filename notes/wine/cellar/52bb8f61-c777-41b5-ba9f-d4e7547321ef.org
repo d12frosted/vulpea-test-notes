@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       52bb8f61-c777-41b5-ba9f-d4e7547321ef
+:END:
+#+title: Dseajc Jinm Nbtkg Wqgc 1944
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Nbtkg Wqgc
+- vintage :: 1944
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 10.89
+- sugar :: 2.38
+- price :: 14.83 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

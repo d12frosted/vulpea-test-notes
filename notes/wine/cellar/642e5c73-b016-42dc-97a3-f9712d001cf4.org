@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       642e5c73-b016-42dc-97a3-f9712d001cf4
+:END:
+#+title: Mkmt Fvjzonq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Fvjzonq
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.59
+- sugar :: 16.15
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

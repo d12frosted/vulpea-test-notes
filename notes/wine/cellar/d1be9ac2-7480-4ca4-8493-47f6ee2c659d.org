@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d1be9ac2-7480-4ca4-8493-47f6ee2c659d
+:END:
+#+title: Njtzvl Vynn Qsy 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Vynn Qsy
+- vintage :: 2013
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 10.51
+- sugar :: 0.92
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

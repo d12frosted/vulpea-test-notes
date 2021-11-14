@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       94f21919-9a2d-46a9-9e76-09a507c3e215
+:END:
+#+title: Njtzvl Bbzavl Gsdxndpk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Bbzavl Gsdxndpk
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 12.31
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:0d4fce1f-f6e1-48a8-8214-32965eb79518][Njtzvl Bbzavl Gsdxndpk NV - 1992-6-12]]

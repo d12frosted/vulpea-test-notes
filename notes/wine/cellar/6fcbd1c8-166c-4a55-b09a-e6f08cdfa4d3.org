@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6fcbd1c8-166c-4a55-b09a-e6f08cdfa4d3
+:END:
+#+title: Mkmt Biry Ecqy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Biry Ecqy
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.52
+- sugar :: 6.56
+- price :: 39.25 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6ad3c4ab-80db-4bb4-aa31-3031cc55c230
+:END:
+#+title: Novr Rlrt Ytkgqgs Jshkyni 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ytkgqgs Jshkyni
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.69
+- sugar :: 8.2
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:0211f871-58e4-4e69-88d8-8c5e85d4e475][Novr Rlrt Ytkgqgs Jshkyni NV - 2014-8-13]]

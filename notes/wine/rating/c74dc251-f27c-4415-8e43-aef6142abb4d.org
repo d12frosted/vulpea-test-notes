@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c74dc251-f27c-4415-8e43-aef6142abb4d
+:END:
+#+title: Dfsxtmx Gwj Jkuzpnb NV - 1998-9-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:8131404d-eb62-4dac-871a-967d7aa23411][Dfsxtmx Gwj Jkuzpnb]]
+- date :: 1998-9-3
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       d5578f4b-95af-4a8d-9b29-d1ae92f3312a
+:END:
+#+title: Lzf Zkruo Ynj 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Zkruo Ynj
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.8
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

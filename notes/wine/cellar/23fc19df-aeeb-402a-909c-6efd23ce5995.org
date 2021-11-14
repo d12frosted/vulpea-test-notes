@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       23fc19df-aeeb-402a-909c-6efd23ce5995
+:END:
+#+title: Lzf Jpdmrk Xdhpdez 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Jpdmrk Xdhpdez
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.99
+- sugar :: 20.68
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 1.5
+- ratings :: [[id:cfe04bed-8ed1-4874-834f-2eb77344596e][Lzf Jpdmrk Xdhpdez NV - 2002-7-6]]

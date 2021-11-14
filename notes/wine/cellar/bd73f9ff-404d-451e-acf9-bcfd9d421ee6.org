@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bd73f9ff-404d-451e-acf9-bcfd9d421ee6
+:END:
+#+title: Lzf Ehjgyg 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ehjgyg
+- vintage :: 2018
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 9.22
+- sugar :: 17.31
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       86a6eedc-ec0c-411a-9607-129cbbe81e0a
+:END:
+#+title: Novr Rlrt Zbxwhpb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Zbxwhpb
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.67
+- sugar :: 5.29
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: 4.0
+- ratings :: [[id:3e29a6bf-34c2-4cb2-b208-ab10bfbc69cc][Novr Rlrt Zbxwhpb NV - 1999-12-7]]

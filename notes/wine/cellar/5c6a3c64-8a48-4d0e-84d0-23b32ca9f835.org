@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5c6a3c64-8a48-4d0e-84d0-23b32ca9f835
+:END:
+#+title: Mkmt Vpyf 2010
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Vpyf
+- vintage :: 2010
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.85
+- sugar :: 6.53
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 7.0
+- ratings :: [[id:3c0a8444-a8e3-4b7d-ad8e-b577f07301c8][Mkmt Vpyf 2010 - 2017-10-26]]

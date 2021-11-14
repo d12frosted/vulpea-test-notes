@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d9849b3d-854d-49ef-84e6-6989577df800
+:END:
+#+title: Dfsxtmx Rfkj Khgfnz 1943
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rfkj Khgfnz
+- vintage :: 1943
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.45
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: wikipedia
+- rating :: 4.0
+- ratings :: [[id:e48c86e6-c90e-4cf2-8249-73ff96bbb62a][Dfsxtmx Rfkj Khgfnz 1943 - 2010-12-1]]

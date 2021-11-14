@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       85a7e71c-da2c-4572-87ff-12ce9c6eba36
+:END:
+#+title: Dseajc Jinm Vwarfagg 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vwarfagg
+- vintage :: 1917
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.94
+- sugar :: 8.64
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 7.5
+- ratings :: [[id:1ffd49e5-deaa-402d-af58-da8da03343bc][Dseajc Jinm Vwarfagg 1917 - 2008-6-6]]

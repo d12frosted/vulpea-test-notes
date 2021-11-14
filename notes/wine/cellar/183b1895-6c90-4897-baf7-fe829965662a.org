@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       183b1895-6c90-4897-baf7-fe829965662a
+:END:
+#+title: Lzf Osivk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Osivk
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 13.059999999999999
+- sugar :: 11.67
+- price :: 84.65 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: NA

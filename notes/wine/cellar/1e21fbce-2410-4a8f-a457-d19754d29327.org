@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1e21fbce-2410-4a8f-a457-d19754d29327
+:END:
+#+title: Lzf Iccidlbg Nztuufzz 1992
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Iccidlbg Nztuufzz
+- vintage :: 1992
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.08
+- sugar :: 22.06
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

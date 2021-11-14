@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5ac03193-e62c-4b05-9ce5-1dbdeebdf6b1
+:END:
+#+title: Dfsxtmx Ippc 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ippc
+- vintage :: 1987
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 11.1
+- sugar :: 9.43
+- price :: 39.23 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 5.0
+- ratings :: [[id:36a1b484-60ff-42db-8c89-27ce90e69590][Dfsxtmx Ippc 1987 - 2020-8-4]]

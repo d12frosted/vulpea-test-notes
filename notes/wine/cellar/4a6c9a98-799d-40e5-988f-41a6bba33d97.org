@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4a6c9a98-799d-40e5-988f-41a6bba33d97
+:END:
+#+title: Lzf Ibmge Sdwuikfs 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ibmge Sdwuikfs
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 9.55
+- price :: 63.92 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: NA

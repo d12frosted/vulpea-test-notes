@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       20c648c0-43cc-46d4-aeb5-8236fdc66caa
+:END:
+#+title: Vjjtw Hvrja Itwx 1974
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Itwx
+- vintage :: 1974
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 9.32
+- sugar :: 20.03
+- price :: 39.97 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

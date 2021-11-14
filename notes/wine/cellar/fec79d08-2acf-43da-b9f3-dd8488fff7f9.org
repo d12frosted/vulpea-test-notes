@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       fec79d08-2acf-43da-b9f3-dd8488fff7f9
+:END:
+#+title: Vjjtw Hvrja Gnnmslbb 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Gnnmslbb
+- vintage :: 1977
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 13.24
+- sugar :: 17.95
+- price :: 39.13 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

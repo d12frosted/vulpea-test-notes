@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8d30493e-5a7e-4292-8277-fb861cbefcb4
+:END:
+#+title: Dseajc Jinm Pzvvdhgf Jhmgul 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Pzvvdhgf Jhmgul
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 9.09
+- sugar :: 12.55
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

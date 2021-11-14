@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2e92ff1d-6e24-4ef6-82ad-c7e9738d12e4
+:END:
+#+title: Njtzvl Zxduyi 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zxduyi
+- vintage :: 1962
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 11.33
+- price :: 85.77 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:b429afb6-c7de-4692-b9a7-df930a37d3c8][Njtzvl Zxduyi 1962 - 1996-8-10]]

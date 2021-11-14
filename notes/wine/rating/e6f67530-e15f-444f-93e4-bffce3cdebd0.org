@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e6f67530-e15f-444f-93e4-bffce3cdebd0
+:END:
+#+title: Vjjtw Hvrja Gntijg Fxlj 1901 - 2023-9-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:1a85351b-d8fc-4af7-af60-b54451b45d13][Vjjtw Hvrja Gntijg Fxlj 1901]]
+- date :: 2023-9-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

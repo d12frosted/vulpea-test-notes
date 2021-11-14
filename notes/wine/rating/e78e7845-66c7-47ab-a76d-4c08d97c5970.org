@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e78e7845-66c7-47ab-a76d-4c08d97c5970
+:END:
+#+title: Novr Rlrt Kjmvxw 1950 - 2003-6-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:0c19aa50-881d-47fc-8197-6a0f5e1c917e][Novr Rlrt Kjmvxw 1950]]
+- date :: 2003-6-16
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       38947ebc-3707-4174-abce-eacff8246106
+:END:
+#+title: Vjjtw Hvrja Fruo NV - 2017-2-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:c834f251-3194-49c2-9113-22f6eb1d94d4][Vjjtw Hvrja Fruo]]
+- date :: 2017-2-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 2
+- score_max :: 20
+- total :: 1.0

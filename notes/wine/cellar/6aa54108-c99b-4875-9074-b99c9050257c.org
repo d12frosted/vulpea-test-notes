@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6aa54108-c99b-4875-9074-b99c9050257c
+:END:
+#+title: Lzf Xjgzug Nvqpzkzx 1978
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Xjgzug Nvqpzkzx
+- vintage :: 1978
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.3
+- sugar :: 21.92
+- acquired :: 9
+- consumed :: 3
+- available :: 6
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:6addfc8b-4c88-4d30-9df2-32f84b037e04][Lzf Xjgzug Nvqpzkzx 1978 - 2023-5-2]]

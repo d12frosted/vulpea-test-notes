@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2c831e15-ba9f-42f1-bb1c-1a8c000f1c8f
+:END:
+#+title: Cdeexg Msyxfa 1968 - 2016-3-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:4bd7348a-3a1d-40a4-9b80-9e982294431a][Cdeexg Msyxfa 1968]]
+- date :: 2016-3-24
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

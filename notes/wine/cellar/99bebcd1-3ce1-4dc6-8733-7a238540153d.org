@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       99bebcd1-3ce1-4dc6-8733-7a238540153d
+:END:
+#+title: Novr Rlrt Oloabolb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Oloabolb
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.79
+- sugar :: 12.13
+- price :: 25.95 EUR
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:2033c74d-e431-46bd-a508-98b69c8bdf23][Novr Rlrt Oloabolb NV - 2011-10-1]]

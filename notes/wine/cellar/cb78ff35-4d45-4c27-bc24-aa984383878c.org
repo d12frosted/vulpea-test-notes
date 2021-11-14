@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       cb78ff35-4d45-4c27-bc24-aa984383878c
+:END:
+#+title: Lzf Ltgivz Qtzcxo 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ltgivz Qtzcxo
+- vintage :: 1911
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.89
+- sugar :: 15.76
+- price :: 83.78 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:31e5d78c-d090-4312-a5a4-0cc8bfad1743][Lzf Ltgivz Qtzcxo 1911 - 2001-1-18]]

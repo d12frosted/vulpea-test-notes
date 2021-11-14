@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fb1224fb-2c3c-497b-b190-b8e49f646659
+:END:
+#+title: Dfsxtmx Rarlwbx 2001
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rarlwbx
+- vintage :: 2001
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 11.92
+- sugar :: 23.13
+- price :: 18.70 EUR
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.0
+- ratings :: [[id:29f0b693-2dcc-4e69-8f58-98290bc819a9][Dfsxtmx Rarlwbx 2001 - 2006-2-2]]

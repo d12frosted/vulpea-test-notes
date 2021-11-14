@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a2f193bb-5142-4ebc-a340-c818cdb26d6f
+:END:
+#+title: Cdeexg Jnwuimt Nlovuke 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Jnwuimt Nlovuke
+- vintage :: 2002
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 10.31
+- sugar :: 18.43
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bd6c4a37-f389-4017-baf7-4703cb7e0e4e
+:END:
+#+title: Njtzvl Stqdrf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Stqdrf
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.72
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

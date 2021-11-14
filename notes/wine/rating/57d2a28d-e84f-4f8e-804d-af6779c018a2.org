@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       57d2a28d-e84f-4f8e-804d-af6779c018a2
+:END:
+#+title: Dfsxtmx Yqpanke 1952 - 2001-4-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:216d46e1-54a8-4ca1-bfe7-211ddfdf8fcd][Dfsxtmx Yqpanke 1952]]
+- date :: 2001-4-13
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       89b5f42e-8ee7-4962-9f7f-49ef8d2e7992
+:END:
+#+title: Njtzvl Hglmdg Nmjdnig 1975
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hglmdg Nmjdnig
+- vintage :: 1975
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 9.36
+- sugar :: 6.07
+- price :: 81.14 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.0
+- ratings :: [[id:5f486633-778a-4ac7-b53f-9dd3c911948b][Njtzvl Hglmdg Nmjdnig 1975 - 2015-2-6]]

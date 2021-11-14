@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       220ca241-f18d-4e4a-a7fa-8ed287d392eb
+:END:
+#+title: Novr Rlrt Vsmb Evsqnxur 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vsmb Evsqnxur
+- vintage :: 2014
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.18
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 5.0
+- ratings :: [[id:2a16a52a-626d-4b61-88c0-4410180a0cac][Novr Rlrt Vsmb Evsqnxur 2014 - 2010-4-28]]

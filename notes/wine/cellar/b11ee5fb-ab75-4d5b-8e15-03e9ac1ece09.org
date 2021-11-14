@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b11ee5fb-ab75-4d5b-8e15-03e9ac1ece09
+:END:
+#+title: Njtzvl Lze Vomnm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lze Vomnm
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.530000000000001
+- sugar :: 11.98
+- price :: 95.33 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:7c6f49eb-c717-48f3-911e-1408f8af143a][Njtzvl Lze Vomnm NV - 2004-3-1]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       bd3d1fed-f51d-44b1-b840-eced6f133ed0
+:END:
+#+title: Lzf Agzbajha Zkc 1931
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Agzbajha Zkc
+- vintage :: 1931
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.33
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:94ccfbce-6668-4e6d-a497-eb4db5b45932][Lzf Agzbajha Zkc 1931 - 2010-10-26]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9e0d7539-a3b3-4411-88cf-2fd7c471ed86
+:END:
+#+title: Cdeexg Zerbgbe NV - 2005-11-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:ab4e864f-d4ca-4fce-94a5-ec8dc7bf627f][Cdeexg Zerbgbe]]
+- date :: 2005-11-6
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

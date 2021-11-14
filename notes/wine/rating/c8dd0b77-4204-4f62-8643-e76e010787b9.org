@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c8dd0b77-4204-4f62-8643-e76e010787b9
+:END:
+#+title: Novr Rlrt Cfyxkpve Pxj NV - 2012-2-4
+#+filetags: :wine:rating:
+
+- wine :: [[id:c03e36cf-1fe2-4ac3-b5aa-e2e730608ec1][Novr Rlrt Cfyxkpve Pxj]]
+- date :: 2012-2-4
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

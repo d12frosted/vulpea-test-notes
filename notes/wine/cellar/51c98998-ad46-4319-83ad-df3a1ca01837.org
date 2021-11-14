@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       51c98998-ad46-4319-83ad-df3a1ca01837
+:END:
+#+title: Vjjtw Hvrja Wap 1915
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Wap
+- vintage :: 1915
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.93
+- price :: 19.80 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

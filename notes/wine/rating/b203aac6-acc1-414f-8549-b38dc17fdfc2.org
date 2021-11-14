@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       b203aac6-acc1-414f-8549-b38dc17fdfc2
+:END:
+#+title: Cdeexg Pjpyzc Fpvyfvzk 1956 - 2001-3-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:f1672fc0-c878-4ae6-a310-8e430389197b][Cdeexg Pjpyzc Fpvyfvzk 1956]]
+- date :: 2001-3-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

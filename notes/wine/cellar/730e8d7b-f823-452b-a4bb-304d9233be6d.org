@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       730e8d7b-f823-452b-a4bb-304d9233be6d
+:END:
+#+title: Njtzvl Juwakb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Juwakb
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 12.97
+- sugar :: 5.13
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a684a407-82be-4631-b686-df2b093d9ce0
+:END:
+#+title: Lzf Nivjvip 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Nivjvip
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.46
+- sugar :: 13.27
+- price :: 20.64 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:d05d1df8-8f51-47ce-a39a-94ed6e69220a][Lzf Nivjvip NV - 2007-6-6]]

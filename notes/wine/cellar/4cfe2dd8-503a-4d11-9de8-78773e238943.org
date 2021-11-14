@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       4cfe2dd8-503a-4d11-9de8-78773e238943
+:END:
+#+title: Vjjtw Hvrja Vrav 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Vrav
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 11.3
+- price :: 87.19 EUR
+- acquired :: 6
+- consumed :: 5
+- available :: 1
+- rating :: NA

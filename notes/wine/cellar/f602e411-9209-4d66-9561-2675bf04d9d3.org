@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       f602e411-9209-4d66-9561-2675bf04d9d3
+:END:
+#+title: Dseajc Jinm Bedtmgzy Vmqretm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Bedtmgzy Vmqretm
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 13.6
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: 5.5
+- ratings :: [[id:47ab8ac0-5d67-4a5a-9439-ad88d1dc3343][Dseajc Jinm Bedtmgzy Vmqretm NV - 2012-10-12]]

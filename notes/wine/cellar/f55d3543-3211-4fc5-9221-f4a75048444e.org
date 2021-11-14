@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       f55d3543-3211-4fc5-9221-f4a75048444e
+:END:
+#+title: Cdeexg Itfbjlk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Itfbjlk
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.73
+- sugar :: 2.72
+- price :: 18.98 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: NA

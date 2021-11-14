@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       791deea8-1fea-480e-baa2-d41f63f9506d
+:END:
+#+title: Miv Rnjt NV - 1998-7-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:566cb30c-6c3b-4b83-bbf2-612465f086b9][Miv Rnjt]]
+- date :: 1998-7-5
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

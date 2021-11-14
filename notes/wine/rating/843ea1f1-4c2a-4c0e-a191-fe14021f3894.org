@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       843ea1f1-4c2a-4c0e-a191-fe14021f3894
+:END:
+#+title: Miv Lnastfwz NV - 2019-8-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:acbb98a3-a824-4004-a92f-f865978752c3][Miv Lnastfwz]]
+- date :: 2019-8-26
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

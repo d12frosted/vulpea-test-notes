@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ba765518-d7d2-49d7-a8bb-806c8941379f
+:END:
+#+title: Dseajc Jinm Aepo 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Aepo
+- vintage :: 1954
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.02
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.5
+- ratings :: [[id:6fe540f2-9af2-46da-80d2-de998667a6f6][Dseajc Jinm Aepo 1954 - 2024-9-3]]

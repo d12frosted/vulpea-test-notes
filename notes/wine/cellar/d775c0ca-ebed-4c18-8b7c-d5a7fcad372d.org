@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d775c0ca-ebed-4c18-8b7c-d5a7fcad372d
+:END:
+#+title: Lzf Pouiwss Meqezry 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Pouiwss Meqezry
+- vintage :: 1914
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.04
+- sugar :: 21.12
+- price :: 59.07 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:8792b7d3-7e48-4c4f-a70b-c3e9a1c9bcc9][Lzf Pouiwss Meqezry 1914 - 2013-11-21]]

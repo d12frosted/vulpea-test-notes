@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1afe118d-2362-4e7d-83e2-dc22da0e57ad
+:END:
+#+title: Mkmt Ucaj Eahrhc 1922
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ucaj Eahrhc
+- vintage :: 1922
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 13.469999999999999
+- sugar :: 13.49
+- price :: 22.34 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 6.5
+- ratings :: [[id:c77cc221-754f-4d03-9ded-c0f63d563f31][Mkmt Ucaj Eahrhc 1922 - 1991-12-6]]

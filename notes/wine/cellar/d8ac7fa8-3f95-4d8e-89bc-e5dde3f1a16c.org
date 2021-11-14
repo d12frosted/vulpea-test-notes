@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d8ac7fa8-3f95-4d8e-89bc-e5dde3f1a16c
+:END:
+#+title: Dseajc Jinm Xgzu 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Xgzu
+- vintage :: 1947
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.43
+- sugar :: 20.14
+- price :: 14.70 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

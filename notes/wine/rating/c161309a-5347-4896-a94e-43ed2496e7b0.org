@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c161309a-5347-4896-a94e-43ed2496e7b0
+:END:
+#+title: Novr Rlrt Pxgbe Clgqb NV - 2010-4-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:91461bc4-97dc-4282-8800-893f9bcc8ef8][Novr Rlrt Pxgbe Clgqb]]
+- date :: 2010-4-2
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

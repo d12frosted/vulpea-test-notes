@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dc0aa3b8-379b-4e40-acc7-80036fccdaa9
+:END:
+#+title: Njtzvl Sisca NV - 1996-7-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:2a706052-48e2-4e10-abb2-6c10d1dd1088][Njtzvl Sisca]]
+- date :: 1996-7-6
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

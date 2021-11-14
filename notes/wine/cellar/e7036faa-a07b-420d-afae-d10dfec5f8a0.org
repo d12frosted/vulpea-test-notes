@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       e7036faa-a07b-420d-afae-d10dfec5f8a0
+:END:
+#+title: Novr Rlrt Qdu 1901
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Qdu
+- vintage :: 1901
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.67
+- price :: 7.32 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

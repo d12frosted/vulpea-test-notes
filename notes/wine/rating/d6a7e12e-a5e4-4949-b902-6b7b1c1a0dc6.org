@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d6a7e12e-a5e4-4949-b902-6b7b1c1a0dc6
+:END:
+#+title: Vjjtw Hvrja Gif Aeaiqt 1959 - 1995-2-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:9ac8c52d-4841-4e0a-b40b-d31fdb87bd0d][Vjjtw Hvrja Gif Aeaiqt 1959]]
+- date :: 1995-2-18
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

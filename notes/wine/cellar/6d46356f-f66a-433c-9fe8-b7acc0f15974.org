@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       6d46356f-f66a-433c-9fe8-b7acc0f15974
+:END:
+#+title: Cdeexg Qvn Sseaoj 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Qvn Sseaoj
+- vintage :: 1941
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 10.32
+- sugar :: 8.59
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

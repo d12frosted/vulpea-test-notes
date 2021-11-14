@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       56930b00-8173-4735-b96c-b13e04f6a276
+:END:
+#+title: Vjjtw Hvrja Hvrrbgb Rdq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hvrrbgb Rdq
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.7
+- sugar :: 8.24
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:ec0ed34e-7e7f-42d9-a548-315dec47476a][Vjjtw Hvrja Hvrrbgb Rdq NV - 2003-2-2]]

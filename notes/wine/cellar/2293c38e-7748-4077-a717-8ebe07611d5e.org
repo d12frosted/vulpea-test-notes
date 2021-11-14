@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2293c38e-7748-4077-a717-8ebe07611d5e
+:END:
+#+title: Vjjtw Hvrja Zpotfr Bqxa 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Zpotfr Bqxa
+- vintage :: 1923
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 11.72
+- sugar :: 16.88
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

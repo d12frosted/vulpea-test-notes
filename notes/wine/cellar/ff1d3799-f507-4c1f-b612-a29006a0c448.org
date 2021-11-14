@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ff1d3799-f507-4c1f-b612-a29006a0c448
+:END:
+#+title: Miv Ofcb Xlx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ofcb Xlx
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.33
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

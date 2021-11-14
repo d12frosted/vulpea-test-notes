@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       351dcbba-0fdf-440d-90bf-0277abbd6279
-:END:
-#+title: Kaywg
-#+filetags: :wine:region:
-
-

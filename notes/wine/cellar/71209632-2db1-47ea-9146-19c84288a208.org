@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       71209632-2db1-47ea-9146-19c84288a208
+:END:
+#+title: Dfsxtmx Yym Nliprfa 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Yym Nliprfa
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 10.95
+- sugar :: 5.62
+- price :: 17.35 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

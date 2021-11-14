@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       4829b3d2-fc0f-4e91-9cda-efed32c05f06
+:END:
+#+title: Novr Rlrt Drodheyu 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Drodheyu
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.8
+- sugar :: 20.15
+- price :: 99.23 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:d870d3bc-e2d4-4742-8fd7-c38bf19eb0bc][Novr Rlrt Drodheyu NV - 2024-3-19]]

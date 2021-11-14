@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       679020a3-2e5e-4087-8841-78f353731f7f
+:END:
+#+title: Mkmt Yph 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Yph
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 11.69
+- price :: 87.74 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

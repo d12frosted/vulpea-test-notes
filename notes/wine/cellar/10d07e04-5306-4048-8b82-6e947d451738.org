@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       10d07e04-5306-4048-8b82-6e947d451738
+:END:
+#+title: Vjjtw Hvrja Rxsouv Nvbdjjws 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Rxsouv Nvbdjjws
+- vintage :: 1964
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 13.92
+- price :: 100.79 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:c28a185f-2f69-460f-af7e-128ee761c386][Vjjtw Hvrja Rxsouv Nvbdjjws 1964 - 2011-12-26]]

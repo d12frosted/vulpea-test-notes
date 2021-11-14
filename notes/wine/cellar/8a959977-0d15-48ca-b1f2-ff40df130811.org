@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8a959977-0d15-48ca-b1f2-ff40df130811
+:END:
+#+title: Vjjtw Hvrja Jxb 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Jxb
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.24
+- sugar :: 12.67
+- price :: 34.25 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

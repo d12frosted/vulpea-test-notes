@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ff19dd98-ad0d-4c9f-937f-918a25be7d3e
+:END:
+#+title: Dfsxtmx Dai 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Dai
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.04
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 4.0
+- ratings :: [[id:8f5c87c0-fa4a-4b46-960b-bed9ac432882][Dfsxtmx Dai NV - 2016-8-7]]

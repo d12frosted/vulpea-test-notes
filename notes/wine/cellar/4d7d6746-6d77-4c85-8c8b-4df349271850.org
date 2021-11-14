@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4d7d6746-6d77-4c85-8c8b-4df349271850
+:END:
+#+title: Lzf Klsmgl 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Klsmgl
+- vintage :: 1958
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.23
+- sugar :: 19.05
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

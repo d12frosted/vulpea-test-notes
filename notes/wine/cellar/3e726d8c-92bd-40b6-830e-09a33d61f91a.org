@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3e726d8c-92bd-40b6-830e-09a33d61f91a
+:END:
+#+title: Novr Rlrt Dvrchygu 1941
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Dvrchygu
+- vintage :: 1941
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 12.06
+- price :: 18.60 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

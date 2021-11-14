@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       04fed889-5933-4ef7-a45b-e2e8855e2083
+:END:
+#+title: Lzf Ngnnizs Vutxgr NV - 2004-1-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:b96047fe-cc3f-46f1-a291-754e135edf56][Lzf Ngnnizs Vutxgr]]
+- date :: 2004-1-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

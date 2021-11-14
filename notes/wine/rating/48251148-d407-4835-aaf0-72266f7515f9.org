@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       48251148-d407-4835-aaf0-72266f7515f9
+:END:
+#+title: Cdeexg Snd 1995 - 2000-3-21
+#+filetags: :wine:rating:
+
+- wine :: [[id:ea2acf5e-35a3-4503-b623-643cbcc7a5b3][Cdeexg Snd 1995]]
+- date :: 2000-3-21
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

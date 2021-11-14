@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       fb7d367a-243c-414e-98c1-0544d8066d80
+:END:
+#+title: Novr Rlrt Ucc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ucc
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 13.17
+- sugar :: 6.48
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 4.0
+- ratings :: [[id:eb134d6d-893d-4cb3-8fd4-c41970df516d][Novr Rlrt Ucc NV - 2014-6-26]]

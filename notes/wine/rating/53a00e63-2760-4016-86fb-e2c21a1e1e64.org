@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       53a00e63-2760-4016-86fb-e2c21a1e1e64
+:END:
+#+title: Dfsxtmx Zvdtva NV - 1990-3-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:36ec9404-7136-443d-98af-fdbd15a80815][Dfsxtmx Zvdtva]]
+- date :: 1990-3-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

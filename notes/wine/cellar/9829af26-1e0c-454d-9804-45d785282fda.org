@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9829af26-1e0c-454d-9804-45d785282fda
+:END:
+#+title: Dfsxtmx Ugztqtpn Okjwir 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ugztqtpn Okjwir
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.86
+- sugar :: 20.05
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 6.5
+- ratings :: [[id:ae21e68c-5919-4536-850a-b5ff5ae367a2][Dfsxtmx Ugztqtpn Okjwir NV - 2002-9-22]]

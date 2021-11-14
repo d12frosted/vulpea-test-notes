@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fc3e81b1-b668-42db-b235-50bbde3d3289
+:END:
+#+title: Rue Nee NV - 2014-4-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:c1fcfa3d-9fdc-40a6-b1bc-e98f97fb4023][Rue Nee]]
+- date :: 2014-4-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

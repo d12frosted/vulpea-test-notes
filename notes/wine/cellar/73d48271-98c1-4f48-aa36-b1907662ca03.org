@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       73d48271-98c1-4f48-aa36-b1907662ca03
+:END:
+#+title: Njtzvl Tth Habqe 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Tth Habqe
+- vintage :: 1936
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.53
+- price :: 98.02 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

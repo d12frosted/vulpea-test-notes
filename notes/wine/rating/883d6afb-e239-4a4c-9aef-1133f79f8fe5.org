@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       883d6afb-e239-4a4c-9aef-1133f79f8fe5
+:END:
+#+title: Njtzvl Yczqun Zdnyyszh 2019 - 2005-2-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:b9b429fe-7554-4547-813d-f58f0fa6487d][Njtzvl Yczqun Zdnyyszh 2019]]
+- date :: 2005-2-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

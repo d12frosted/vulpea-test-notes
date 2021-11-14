@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a9af8f8f-3c24-415d-890c-ad5f2fe2b316
+:END:
+#+title: Lzf Vism Trscy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vism Trscy
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.129999999999999
+- price :: 52.43 EUR
+- acquired :: 7
+- consumed :: 7
+- available :: 0
+- rating :: NA

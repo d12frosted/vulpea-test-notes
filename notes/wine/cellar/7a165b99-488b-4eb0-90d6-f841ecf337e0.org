@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7a165b99-488b-4eb0-90d6-f841ecf337e0
+:END:
+#+title: Rue Gwpux 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Gwpux
+- vintage :: 2012
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.58
+- sugar :: 21.47
+- price :: 99.15 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

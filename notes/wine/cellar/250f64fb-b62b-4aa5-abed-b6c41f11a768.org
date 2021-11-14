@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       250f64fb-b62b-4aa5-abed-b6c41f11a768
+:END:
+#+title: Rue Gjbnh 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Gjbnh
+- vintage :: 1942
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.28
+- sugar :: 23.22
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 2.5
+- ratings :: [[id:56ef1e99-bab2-410f-9fed-5f1cfec410f3][Rue Gjbnh 1942 - 2011-5-14]]

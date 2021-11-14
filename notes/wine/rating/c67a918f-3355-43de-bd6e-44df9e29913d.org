@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c67a918f-3355-43de-bd6e-44df9e29913d
+:END:
+#+title: Njtzvl Zfdgmy 1969 - 1991-10-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:0dce1f33-ad67-4a2e-8804-104711091221][Njtzvl Zfdgmy 1969]]
+- date :: 1991-10-16
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

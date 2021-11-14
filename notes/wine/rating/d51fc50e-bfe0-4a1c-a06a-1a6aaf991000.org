@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d51fc50e-bfe0-4a1c-a06a-1a6aaf991000
+:END:
+#+title: Rue Nay 1963 - 1993-7-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:3db7abd7-0252-4173-a7f5-f57ee5fb53c9][Rue Nay 1963]]
+- date :: 1993-7-23
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d0b32d91-adde-4ff9-a2c3-962dadc804c5
+:END:
+#+title: Mkmt Icohrrdl 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Icohrrdl
+- vintage :: 1996
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 9.01
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 6.0
+- ratings :: [[id:a9bf362e-4413-4a8b-a9bb-b16ed47a5c7a][Mkmt Icohrrdl 1996 - 2011-10-14]]

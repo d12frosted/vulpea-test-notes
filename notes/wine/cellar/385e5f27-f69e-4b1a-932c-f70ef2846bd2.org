@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       385e5f27-f69e-4b1a-932c-f70ef2846bd2
+:END:
+#+title: Lzf Vqlktu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vqlktu
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 11.64
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

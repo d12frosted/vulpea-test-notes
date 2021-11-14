@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e8da6b52-1273-462d-afe9-4fb5abed2349
+:END:
+#+title: Vjjtw Hvrja Atxuqduf Nhud 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Atxuqduf Nhud
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.55
+- price :: 12.67 EUR
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

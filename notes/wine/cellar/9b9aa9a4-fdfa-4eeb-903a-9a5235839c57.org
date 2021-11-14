@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9b9aa9a4-fdfa-4eeb-903a-9a5235839c57
+:END:
+#+title: Lzf Tgfsajw 1950
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Tgfsajw
+- vintage :: 1950
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.54
+- price :: 102.10 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 5.5
+- ratings :: [[id:17a3c623-b054-46b0-a2d5-f6ffaa27a8df][Lzf Tgfsajw 1950 - 2018-9-22]]

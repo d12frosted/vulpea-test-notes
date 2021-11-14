@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       64e348ed-b05c-4f98-a020-47e67972fa6b
+:END:
+#+title: Njtzvl Evvhyso Ufxkzd NV - 2022-7-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:f6468fce-2df2-4553-b628-0202a5f97421][Njtzvl Evvhyso Ufxkzd]]
+- date :: 2022-7-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

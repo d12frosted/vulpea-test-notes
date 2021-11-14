@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a8844045-44f2-45ef-8af1-c3f850829f0f
+:END:
+#+title: Rue Dahpdamw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Dahpdamw
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.879999999999999
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: NA

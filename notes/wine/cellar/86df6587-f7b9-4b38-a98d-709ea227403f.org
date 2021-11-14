@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       86df6587-f7b9-4b38-a98d-709ea227403f
+:END:
+#+title: Dfsxtmx Qpbvxgoo Nkm 1965
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qpbvxgoo Nkm
+- vintage :: 1965
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 11.35
+- price :: 95.72 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: wikipedia
+- rating :: 7.0
+- ratings :: [[id:2ed9bd67-c1a8-4ce0-ac67-01f491edb4e4][Dfsxtmx Qpbvxgoo Nkm 1965 - 1998-8-26]]

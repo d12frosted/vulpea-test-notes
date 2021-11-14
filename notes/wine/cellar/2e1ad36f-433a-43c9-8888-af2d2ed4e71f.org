@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2e1ad36f-433a-43c9-8888-af2d2ed4e71f
+:END:
+#+title: Novr Rlrt Ohichbay 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ohichbay
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.78
+- sugar :: 19.95
+- price :: 28.70 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

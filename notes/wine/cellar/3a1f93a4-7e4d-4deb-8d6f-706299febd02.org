@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3a1f93a4-7e4d-4deb-8d6f-706299febd02
+:END:
+#+title: Njtzvl Hoy Mnwdw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hoy Mnwdw
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 11.51
+- price :: 95.21 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: wikipedia
+- rating :: 7.0
+- ratings :: [[id:48803c80-0932-42d7-ada7-203669259501][Njtzvl Hoy Mnwdw NV - 2007-12-12]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       14153e40-206a-4a54-b881-4467da70809d
+:END:
+#+title: Cdeexg Xphxqbj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Xphxqbj
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.47
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- rating :: NA

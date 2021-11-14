@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4326afde-1ee5-41be-935a-d71ae1a679a9
+:END:
+#+title: Lzf Cwdqupfr Cabfpa 1904 - 2014-7-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:7519eff6-376e-493a-9b6c-77e3a4584050][Lzf Cwdqupfr Cabfpa 1904]]
+- date :: 2014-7-2
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       3254f2a8-44d0-49bb-85a7-3e68b7a471c1
+:END:
+#+title: Rue Idlwzxnc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Idlwzxnc
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 9.48
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:bd2deeea-7d84-4fa2-80d3-a2a6f93a3ae2][Rue Idlwzxnc NV - 2008-2-13]]

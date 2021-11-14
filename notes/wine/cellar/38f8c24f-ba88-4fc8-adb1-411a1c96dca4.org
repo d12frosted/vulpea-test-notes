@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       38f8c24f-ba88-4fc8-adb1-411a1c96dca4
+:END:
+#+title: Mkmt Ergcojg Kmqvp 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Ergcojg Kmqvp
+- vintage :: 1962
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 11.97
+- sugar :: 16.33
+- price :: 102.97 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       344ea965-2c09-45b9-9640-886ee5dabf02
+:END:
+#+title: Lzf Zxqnql 2000 - 1999-1-23
+#+filetags: :wine:rating:
+
+- wine :: [[id:acf1a294-cb4f-4514-a24e-f0dabf4a8ce2][Lzf Zxqnql 2000]]
+- date :: 1999-1-23
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

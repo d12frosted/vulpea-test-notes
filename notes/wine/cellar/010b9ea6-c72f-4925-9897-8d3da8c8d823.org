@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       010b9ea6-c72f-4925-9897-8d3da8c8d823
+:END:
+#+title: Vjjtw Hvrja Hjwv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Hjwv
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.43
+- price :: 9.16 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 5.0
+- ratings :: [[id:2df14758-a5b4-498f-a391-7bd4bb820444][Vjjtw Hvrja Hjwv NV - 2022-10-20]]

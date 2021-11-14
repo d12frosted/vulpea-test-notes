@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       1893764c-6c41-41ba-a876-510a612506f9
+:END:
+#+title: Novr Rlrt Nsvjx Ewqqim 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nsvjx Ewqqim
+- vintage :: 1925
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 13.68
+- sugar :: 12.81
+- acquired :: 7
+- consumed :: 0
+- available :: 7
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 5.0
+- ratings :: [[id:4713a059-373a-4210-b3b5-9ac0cc36887e][Novr Rlrt Nsvjx Ewqqim 1925 - 1990-3-15]]

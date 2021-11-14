@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       00535321-3609-4e11-a6a1-8bc8d44da268
+:END:
+#+title: Rue Fipdi 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Fipdi
+- vintage :: 1963
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 11.23
+- sugar :: 15.83
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:e2f3ef42-6e72-4012-91e0-8db61cfd6e5f][Rue Fipdi 1963 - 1995-10-18]]

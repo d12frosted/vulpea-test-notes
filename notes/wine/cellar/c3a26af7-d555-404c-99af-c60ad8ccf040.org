@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c3a26af7-d555-404c-99af-c60ad8ccf040
+:END:
+#+title: Vjjtw Hvrja Ulwbpi 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ulwbpi
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.93
+- sugar :: 16.08
+- price :: 11.90 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:ad86e37d-1060-4541-bd7e-33581047d1ee][Vjjtw Hvrja Ulwbpi NV - 2003-5-4]]

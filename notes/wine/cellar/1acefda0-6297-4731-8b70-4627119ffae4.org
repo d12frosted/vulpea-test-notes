@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1acefda0-6297-4731-8b70-4627119ffae4
+:END:
+#+title: Novr Rlrt Smaqujn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Smaqujn
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 10.39
+- sugar :: 10.85
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: 7.5
+- ratings :: [[id:961bdd08-825a-4cb1-888d-de6dbed211a2][Novr Rlrt Smaqujn NV - 2020-9-2]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8d3296a0-6d1a-4a53-b990-5065b264f406
+:END:
+#+title: Njtzvl Koo 1973 - 1992-3-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:ebaa7364-d4dc-4a65-9021-3d33940ea22c][Njtzvl Koo 1973]]
+- date :: 1992-3-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

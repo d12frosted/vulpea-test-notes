@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2d173453-f806-4f02-a8a7-fb999f40d330
+:END:
+#+title: Cdeexg Atcecssa 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Atcecssa
+- vintage :: 1917
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.879999999999999
+- sugar :: 21.88
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: wikipedia
+- rating :: NA

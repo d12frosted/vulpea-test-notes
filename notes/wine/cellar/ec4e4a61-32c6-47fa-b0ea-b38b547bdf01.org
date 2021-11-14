@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ec4e4a61-32c6-47fa-b0ea-b38b547bdf01
+:END:
+#+title: Njtzvl Fkwg Orzngeks 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Fkwg Orzngeks
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.82
+- sugar :: 21.34
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- resources :: duckduckgo
+- rating :: 2.0
+- ratings :: [[id:a50e13b9-0f1a-4783-8a18-38ec680b3743][Njtzvl Fkwg Orzngeks NV - 2016-11-23]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       d4a8511e-8757-4beb-b7c3-1db8684ee0f9
+:END:
+#+title: Dfsxtmx Yukgq Btz 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Yukgq Btz
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 11.46
+- price :: 43.28 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4c74e907-452d-414a-8854-7727725046a1
+:END:
+#+title: Lzf Rdprc 1933
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Rdprc
+- vintage :: 1933
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.66
+- price :: 97.53 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 2.0
+- ratings :: [[id:772d818f-42f4-4c0a-bb81-50e2a6cec9fe][Lzf Rdprc 1933 - 2019-8-5]]

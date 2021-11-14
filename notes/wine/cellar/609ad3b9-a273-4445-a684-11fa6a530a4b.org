@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       609ad3b9-a273-4445-a684-11fa6a530a4b
+:END:
+#+title: Lzf Pktogzoa Kpqldls 1921
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Pktogzoa Kpqldls
+- vintage :: 1921
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.4
+- sugar :: 8.33
+- price :: 34.59 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: duckduckgo
+- rating :: NA

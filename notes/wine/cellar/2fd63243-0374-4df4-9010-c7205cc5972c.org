@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       2fd63243-0374-4df4-9010-c7205cc5972c
+:END:
+#+title: Mkmt Zmutys Ivivohmm 1908
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Zmutys Ivivohmm
+- vintage :: 1908
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 11.97
+- sugar :: 3.91
+- price :: 3.74 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

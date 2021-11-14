@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7299ed93-0d7e-4a15-b4a8-b43ae828969f
+:END:
+#+title: Dfsxtmx Mvi Xxpm 1972 - 2001-11-20
+#+filetags: :wine:rating:
+
+- wine :: [[id:3a959682-1df4-482a-a559-719f5c7da212][Dfsxtmx Mvi Xxpm 1972]]
+- date :: 2001-11-20
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

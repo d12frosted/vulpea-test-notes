@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ad31f0a3-d95f-4214-b398-0e5f05c2404b
+:END:
+#+title: Rue Caxlbva Uzfr 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Caxlbva Uzfr
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 9.76
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:fb7adda4-12b9-41b0-a684-a6480d1407b3][Rue Caxlbva Uzfr NV - 2006-12-4]]

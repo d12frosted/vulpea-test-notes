@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       667e860e-87b6-4bc1-8088-8477b150f814
+:END:
+#+title: Dseajc Jinm Ltzj 1967
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Ltzj
+- vintage :: 1967
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.04
+- price :: 24.26 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: 3.5
+- ratings :: [[id:b70965d6-8a1e-441a-9b37-83ba130aaa91][Dseajc Jinm Ltzj 1967 - 1990-3-12]]

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       cf264af1-bf96-4e81-9247-817c73b168e0
+:END:
+#+title: Vjjtw Hvrja Pieob 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pieob
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 12.35
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

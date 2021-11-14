@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       c2a890ce-8bc0-41c9-bce8-eaeb51511820
+:END:
+#+title: Vjjtw Hvrja Uhxbhlw Zfgxkc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Uhxbhlw Zfgxkc
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 11.32
+- sugar :: 9.38
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

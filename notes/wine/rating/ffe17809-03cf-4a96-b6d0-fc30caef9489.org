@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ffe17809-03cf-4a96-b6d0-fc30caef9489
+:END:
+#+title: Dfsxtmx Lbxztkzo 1966 - 2022-6-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:6f4cefba-0341-44ae-8e16-86b9db4351a5][Dfsxtmx Lbxztkzo 1966]]
+- date :: 2022-6-12
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       225accfb-7f0f-4858-8db9-f5cbd5e835e4
+:END:
+#+title: Miv Lci Esfrw 2016
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Lci Esfrw
+- vintage :: 2016
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 12.48
+- sugar :: 21.4
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

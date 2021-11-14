@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       48cbe8ac-e4ca-4f7a-a10a-037108b5d4f0
+:END:
+#+title: Njtzvl Oggi Dwjhjsaf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Oggi Dwjhjsaf
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 10.75
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

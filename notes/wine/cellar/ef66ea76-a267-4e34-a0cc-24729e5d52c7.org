@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ef66ea76-a267-4e34-a0cc-24729e5d52c7
+:END:
+#+title: Cdeexg Wtmd Tqfwwzm 2003
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Wtmd Tqfwwzm
+- vintage :: 2003
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.16
+- price :: 59.88 EUR
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- rating :: 7.5
+- ratings :: [[id:e4184b5a-8bcb-4ed4-99af-29d0e78e3a98][Cdeexg Wtmd Tqfwwzm 2003 - 2015-1-24]]

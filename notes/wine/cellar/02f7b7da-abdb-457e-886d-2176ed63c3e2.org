@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       02f7b7da-abdb-457e-886d-2176ed63c3e2
+:END:
+#+title: Njtzvl Rhvxdh Nzunvpf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Rhvxdh Nzunvpf
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.34
+- price :: 13.65 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

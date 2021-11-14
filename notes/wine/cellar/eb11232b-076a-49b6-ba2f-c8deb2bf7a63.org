@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       eb11232b-076a-49b6-ba2f-c8deb2bf7a63
+:END:
+#+title: Vjjtw Hvrja Mvibm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Mvibm
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 13.08
+- price :: 6.37 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

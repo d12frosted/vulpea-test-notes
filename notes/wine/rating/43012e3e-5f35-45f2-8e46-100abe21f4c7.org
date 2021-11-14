@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       43012e3e-5f35-45f2-8e46-100abe21f4c7
+:END:
+#+title: Njtzvl Iquv Vwpzn 2009 - 2019-8-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:aca46c08-be7d-4a76-8fc4-cd43a5012139][Njtzvl Iquv Vwpzn 2009]]
+- date :: 2019-8-16
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

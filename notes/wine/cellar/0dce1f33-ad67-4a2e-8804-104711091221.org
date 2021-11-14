@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0dce1f33-ad67-4a2e-8804-104711091221
+:END:
+#+title: Njtzvl Zfdgmy 1969
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zfdgmy
+- vintage :: 1969
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 12.45
+- price :: 47.42 EUR
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- resources :: duckduckgo
+- rating :: 4.0
+- ratings :: [[id:c67a918f-3355-43de-bd6e-44df9e29913d][Njtzvl Zfdgmy 1969 - 1991-10-16]]

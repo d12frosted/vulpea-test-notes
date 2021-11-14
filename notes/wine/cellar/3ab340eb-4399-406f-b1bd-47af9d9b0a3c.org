@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3ab340eb-4399-406f-b1bd-47af9d9b0a3c
+:END:
+#+title: Miv Kpqawpjg 1907
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Kpqawpjg
+- vintage :: 1907
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.61
+- sugar :: 12.15
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: 8.0
+- ratings :: [[id:7154c98b-8629-4ebd-bae4-36e9caba9686][Miv Kpqawpjg 1907 - 2002-6-28]]

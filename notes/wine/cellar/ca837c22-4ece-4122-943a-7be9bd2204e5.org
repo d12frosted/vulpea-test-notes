@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ca837c22-4ece-4122-943a-7be9bd2204e5
+:END:
+#+title: Dfsxtmx Mpmxyn 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mpmxyn
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.620000000000001
+- sugar :: 1.98
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- rating :: NA

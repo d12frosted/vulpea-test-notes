@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       898a379c-dbef-4ab2-a3ad-77e417849bfe
+:END:
+#+title: Dfsxtmx Giu Vvdqnztx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Giu Vvdqnztx
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 12.36
+- price :: 89.90 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 2.0
+- ratings :: [[id:da612ab3-e1ab-4e39-b96b-89a8c70d5797][Dfsxtmx Giu Vvdqnztx NV - 2012-12-8]]

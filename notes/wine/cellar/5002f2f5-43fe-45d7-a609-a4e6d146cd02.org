@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5002f2f5-43fe-45d7-a609-a4e6d146cd02
+:END:
+#+title: Miv Vjdt 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vjdt
+- vintage :: 2000
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 12.94
+- sugar :: 3.05
+- price :: 25.95 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 2.0
+- ratings :: [[id:7f7eac9e-32f2-40dd-ab85-b373565f386d][Miv Vjdt 2000 - 2012-4-8]]

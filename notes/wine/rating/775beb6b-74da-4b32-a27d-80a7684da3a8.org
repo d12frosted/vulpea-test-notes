@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       775beb6b-74da-4b32-a27d-80a7684da3a8
+:END:
+#+title: Dseajc Jinm Lpalvp 2008 - 1991-7-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:d26af671-8c0c-4c5f-831b-75526c8cdfdb][Dseajc Jinm Lpalvp 2008]]
+- date :: 1991-7-25
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

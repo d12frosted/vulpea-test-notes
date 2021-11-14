@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6e94802b-effa-4e40-924c-cf27113e9875
+:END:
+#+title: Dseajc Jinm Vgk Vch 1989
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vgk Vch
+- vintage :: 1989
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.93
+- price :: 14.76 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: 5.5
+- ratings :: [[id:29156df1-2025-4e49-af1c-2ea6d9423154][Dseajc Jinm Vgk Vch 1989 - 2005-11-9]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e7ead6b1-2f0e-409b-98a7-537ee0ef26db
+:END:
+#+title: Vjjtw Hvrja Iih Wvgdnrb 1967 - 1993-8-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:f7ce83d7-b9ed-4226-a50b-b3b128daf505][Vjjtw Hvrja Iih Wvgdnrb 1967]]
+- date :: 1993-8-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

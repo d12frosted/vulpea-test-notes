@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e57fa0d0-00ba-4dd2-9fbf-68454a94ae5d
+:END:
+#+title: Miv Ozs NV - 2000-2-24
+#+filetags: :wine:rating:
+
+- wine :: [[id:4ed12da9-b1d9-46e5-88f2-d2d7a654f9e0][Miv Ozs]]
+- date :: 2000-2-24
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 17
+- score_max :: 20
+- total :: 8.5

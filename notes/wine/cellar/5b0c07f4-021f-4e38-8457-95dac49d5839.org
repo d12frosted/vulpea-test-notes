@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5b0c07f4-021f-4e38-8457-95dac49d5839
+:END:
+#+title: Lzf Lgz Snnppvt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Lgz Snnppvt
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.08
+- sugar :: 21.3
+- price :: 64.72 EUR
+- acquired :: 6
+- consumed :: 6
+- available :: 0
+- rating :: NA

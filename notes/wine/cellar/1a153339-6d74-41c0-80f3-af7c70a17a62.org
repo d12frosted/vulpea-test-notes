@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       1a153339-6d74-41c0-80f3-af7c70a17a62
+:END:
+#+title: Mkmt Veyhhom 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Veyhhom
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.24
+- sugar :: 23.92
+- price :: 63.22 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

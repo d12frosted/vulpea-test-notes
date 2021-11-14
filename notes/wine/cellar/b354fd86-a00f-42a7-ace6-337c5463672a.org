@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b354fd86-a00f-42a7-ace6-337c5463672a
+:END:
+#+title: Njtzvl Iozlaz 1923
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Iozlaz
+- vintage :: 1923
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.77
+- price :: 41.40 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

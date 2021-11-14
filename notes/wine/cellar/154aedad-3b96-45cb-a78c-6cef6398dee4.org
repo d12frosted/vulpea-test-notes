@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       154aedad-3b96-45cb-a78c-6cef6398dee4
+:END:
+#+title: Novr Rlrt Pitl 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Pitl
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.33
+- sugar :: 5.44
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:b2c829d7-8f6c-4b74-bf40-b9789ca33d3b][Novr Rlrt Pitl NV - 2013-8-7]]

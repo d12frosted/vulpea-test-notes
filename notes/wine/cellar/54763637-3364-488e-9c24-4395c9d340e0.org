@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       54763637-3364-488e-9c24-4395c9d340e0
+:END:
+#+title: Novr Rlrt Kora Ivg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Kora Ivg
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.29
+- price :: 35.34 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

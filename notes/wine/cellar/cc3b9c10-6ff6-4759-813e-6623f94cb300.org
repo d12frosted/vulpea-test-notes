@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       cc3b9c10-6ff6-4759-813e-6623f94cb300
+:END:
+#+title: Rue Yddxp 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Yddxp
+- vintage :: 1911
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 12.7
+- sugar :: 7.1
+- price :: 11.10 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:d769ec44-cf03-43e0-8c2c-4b98c822b010][Rue Yddxp 1911 - 2019-4-12]]

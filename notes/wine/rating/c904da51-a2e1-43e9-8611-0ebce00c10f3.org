@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c904da51-a2e1-43e9-8611-0ebce00c10f3
+:END:
+#+title: Cdeexg Zhq Sqnx NV - 1995-8-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:8ac81df7-4219-4ee0-8922-2e7585f24da6][Cdeexg Zhq Sqnx]]
+- date :: 1995-8-9
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

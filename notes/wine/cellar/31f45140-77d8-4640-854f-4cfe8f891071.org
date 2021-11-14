@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       31f45140-77d8-4640-854f-4cfe8f891071
+:END:
+#+title: Novr Rlrt Ebptsnjr 1984
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Ebptsnjr
+- vintage :: 1984
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.77
+- price :: 60.92 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

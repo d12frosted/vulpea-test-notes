@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e49954e1-d086-493c-ae25-64dbefdd1509
+:END:
+#+title: Lzf Urmi 2012
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Urmi
+- vintage :: 2012
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 13.51
+- sugar :: 11.03
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

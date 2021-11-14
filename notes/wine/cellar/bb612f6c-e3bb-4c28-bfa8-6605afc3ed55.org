@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bb612f6c-e3bb-4c28-bfa8-6605afc3ed55
+:END:
+#+title: Cdeexg Uhqigznq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Uhqigznq
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.06
+- sugar :: 17.94
+- price :: 74.42 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

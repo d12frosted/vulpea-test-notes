@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       3f006ae6-5440-48d9-8d6a-bde57e75ebce
-:END:
-#+title: Wmczdc
-#+filetags: :wine:appellation:
-
-

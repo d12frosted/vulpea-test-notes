@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       7e3522bb-9d8a-497a-8164-04a2c250c03a
+:END:
+#+title: Mkmt Nafraefi 1979 - 2016-3-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:92865988-ad9b-41c7-b34b-f57b05bb1420][Mkmt Nafraefi 1979]]
+- date :: 2016-3-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

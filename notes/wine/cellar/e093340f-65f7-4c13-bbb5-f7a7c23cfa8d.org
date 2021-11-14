@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e093340f-65f7-4c13-bbb5-f7a7c23cfa8d
+:END:
+#+title: Rue Ihf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ihf
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 9.38
+- price :: 92.57 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: wikipedia
+- rating :: NA

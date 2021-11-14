@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4fe6933f-bc81-4b91-bcc0-2074bedbbe60
+:END:
+#+title: Dfsxtmx Ogd Tdlcfooj 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ogd Tdlcfooj
+- vintage :: 1987
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 12.6
+- sugar :: 15.41
+- price :: 72.36 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 3.5
+- ratings :: [[id:a65dbbb0-f0a7-42bd-8fa4-5b62a2a8356c][Dfsxtmx Ogd Tdlcfooj 1987 - 1995-8-25]]

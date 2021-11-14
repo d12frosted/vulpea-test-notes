@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       e6dd8255-619d-4064-b028-b6ea5fd915e1
+:END:
+#+title: Njtzvl Ltqm Ffwi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ltqm Ffwi
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.85
+- sugar :: 13.28
+- price :: 38.43 EUR
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

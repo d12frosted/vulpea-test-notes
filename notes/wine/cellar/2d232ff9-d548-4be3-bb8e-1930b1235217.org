@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       2d232ff9-d548-4be3-bb8e-1930b1235217
+:END:
+#+title: Mkmt Kuwr 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Kuwr
+- vintage :: 2008
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 12.64
+- price :: 23.98 EUR
+- acquired :: 8
+- consumed :: 8
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 3.5
+- ratings :: [[id:8bdd9205-fd5f-407b-836f-a3b8a9b586ca][Mkmt Kuwr 2008 - 2005-11-26]]

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c2d3d3c7-8eb5-4eaa-abbc-e2be4c046f10
+:END:
+#+title: Cdeexg Pkmmocyl 1916
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Pkmmocyl
+- vintage :: 1916
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.9
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- resources :: duckduckgo
+- rating :: 6.5
+- ratings :: [[id:0c159c43-a2f1-48b1-9d2e-00fa8efe4d8f][Cdeexg Pkmmocyl 1916 - 2015-8-11]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       15ee0d76-8839-4c65-82c5-f9c8ed7aa950
+:END:
+#+title: Lzf Ytozgqj Kia 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Ytozgqj Kia
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 10.0
+- sugar :: 6.05
+- price :: 63.17 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

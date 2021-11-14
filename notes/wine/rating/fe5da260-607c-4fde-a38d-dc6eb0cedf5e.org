@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       fe5da260-607c-4fde-a38d-dc6eb0cedf5e
+:END:
+#+title: Rue Jfkov Equfbiq 1947 - 1998-1-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:9168773e-1e04-4973-a83c-3e213272284e][Rue Jfkov Equfbiq 1947]]
+- date :: 1998-1-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

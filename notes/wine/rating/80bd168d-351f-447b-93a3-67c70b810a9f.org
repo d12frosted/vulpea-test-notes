@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       80bd168d-351f-447b-93a3-67c70b810a9f
+:END:
+#+title: Njtzvl Gavsbbri NV - 2010-9-16
+#+filetags: :wine:rating:
+
+- wine :: [[id:5a6796d6-bd5e-4d40-8c01-994c1b0e3817][Njtzvl Gavsbbri]]
+- date :: 2010-9-16
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

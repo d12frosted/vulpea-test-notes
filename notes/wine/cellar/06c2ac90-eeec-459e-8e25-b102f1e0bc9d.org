@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       06c2ac90-eeec-459e-8e25-b102f1e0bc9d
+:END:
+#+title: Vjjtw Hvrja Zgulu Zrl 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Zgulu Zrl
+- vintage :: 1977
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 11.47
+- sugar :: 7.69
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.0
+- ratings :: [[id:06f888fb-b55a-42bd-a1c9-1493e9b1db79][Vjjtw Hvrja Zgulu Zrl 1977 - 2018-10-24]]

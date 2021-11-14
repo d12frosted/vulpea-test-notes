@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       148cff7f-3a4d-4d68-a476-53e755ba1a97
+:END:
+#+title: Mkmt Aatau 1990
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Aatau
+- vintage :: 1990
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.47
+- price :: 39.19 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 7.5
+- ratings :: [[id:79fcb2a9-70d2-4b16-971f-5d0d313e4059][Mkmt Aatau 1990 - 1999-3-8]]

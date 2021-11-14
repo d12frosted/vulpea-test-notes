@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9c6c696d-076e-4043-805b-6cfa936ef73c
+:END:
+#+title: Cdeexg Ucue Agigkbgw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Ucue Agigkbgw
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.0
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       1f05ef64-a4a4-4fdb-8203-bd6c7ebe35f9
+:END:
+#+title: Dseajc Jinm Aha 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Aha
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.52
+- price :: 90.41 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

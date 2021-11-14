@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       34424d59-f821-4dec-86e5-8f116b0de66c
+:END:
+#+title: Njtzvl Hcs 1935
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hcs
+- vintage :: 1935
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.76
+- sugar :: 9.7
+- price :: 35.64 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

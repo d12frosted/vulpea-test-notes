@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3c116a1c-1481-49b7-96fc-10bb4e1df68d
+:END:
+#+title: Miv Vxiq Uxesq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: demi-sec
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Vxiq Uxesq
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.21
+- sugar :: 2.33
+- price :: 101.41 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

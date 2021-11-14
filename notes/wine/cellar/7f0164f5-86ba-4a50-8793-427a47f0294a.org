@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       7f0164f5-86ba-4a50-8793-427a47f0294a
+:END:
+#+title: Rue Csbudmju Wshuszbf 1917
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Csbudmju Wshuszbf
+- vintage :: 1917
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 10.25
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.5
+- ratings :: [[id:a37afd35-38ca-42ec-8bbf-58a72d29c4dd][Rue Csbudmju Wshuszbf 1917 - 2011-7-21]]

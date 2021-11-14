@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       30eabcee-2528-43ef-af37-25bf4ef0c880
+:END:
+#+title: Novr Rlrt Piqdhxtb 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Piqdhxtb
+- vintage :: 1937
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 10.71
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.5
+- ratings :: [[id:7e13ab2e-07ff-44c8-92a0-e484bab5558c][Novr Rlrt Piqdhxtb 1937 - 2001-9-1]]

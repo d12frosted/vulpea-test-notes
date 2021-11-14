@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       08f584f8-4946-42c0-83e5-1070b359e981
+:END:
+#+title: Mkmt Haqhcc 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Haqhcc
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.21
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 7.0
+- ratings :: [[id:efabd27a-c402-42e2-aa33-6f86132076c4][Mkmt Haqhcc NV - 2021-7-21]]

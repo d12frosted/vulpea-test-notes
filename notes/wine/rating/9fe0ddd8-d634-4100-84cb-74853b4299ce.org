@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       9fe0ddd8-d634-4100-84cb-74853b4299ce
+:END:
+#+title: Dseajc Jinm Zqslqoy Efdlcaws 1963 - 1996-11-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:eef56268-76b3-4d4b-a767-55d69f8d05cd][Dseajc Jinm Zqslqoy Efdlcaws 1963]]
+- date :: 1996-11-14
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

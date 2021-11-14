@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       8693774e-b8a6-429c-99d6-047d015b7d29
+:END:
+#+title: Lzf Bsa Jwrxj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Bsa Jwrxj
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 13.76
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: NA

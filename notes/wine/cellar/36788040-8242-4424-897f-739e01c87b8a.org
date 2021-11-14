@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       36788040-8242-4424-897f-739e01c87b8a
+:END:
+#+title: Njtzvl Fthhba Biti 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Fthhba Biti
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.780000000000001
+- sugar :: 20.14
+- acquired :: 7
+- consumed :: 4
+- available :: 3
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8fc5d18e-fca2-4866-a019-2a893ac13020
+:END:
+#+title: Njtzvl Vdox Ufiggzi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Vdox Ufiggzi
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 13.83
+- sugar :: 5.13
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

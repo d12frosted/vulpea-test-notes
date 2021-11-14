@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       ce0e4995-0a09-4ff7-89da-9bac4c3b7e8c
+:END:
+#+title: Rue Amkcouy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Amkcouy
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 13.530000000000001
+- price :: 23.02 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

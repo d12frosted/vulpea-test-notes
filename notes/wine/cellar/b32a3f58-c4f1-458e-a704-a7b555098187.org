@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b32a3f58-c4f1-458e-a704-a7b555098187
+:END:
+#+title: Mkmt Bfltyxeh 1963
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Bfltyxeh
+- vintage :: 1963
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 12.15
+- sugar :: 4.61
+- price :: 98.88 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- rating :: NA

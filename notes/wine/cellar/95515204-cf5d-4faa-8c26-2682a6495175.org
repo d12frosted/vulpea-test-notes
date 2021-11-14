@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       95515204-cf5d-4faa-8c26-2682a6495175
+:END:
+#+title: Novr Rlrt Bupuxsi 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bupuxsi
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 10.620000000000001
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 3.5
+- ratings :: [[id:1c84019b-2564-40ff-b017-2fb54c7c1985][Novr Rlrt Bupuxsi NV - 1992-6-19]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7d98d758-c64e-4e16-9c91-b37bd7358217
+:END:
+#+title: Vjjtw Hvrja Aaau 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Aaau
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 9.37
+- price :: 94.88 EUR
+- acquired :: 8
+- consumed :: 4
+- available :: 4
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.5
+- ratings :: [[id:73c8dd68-621b-4463-a9aa-2dae173f6df2][Vjjtw Hvrja Aaau NV - 1992-7-7]]

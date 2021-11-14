@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       142f3da7-1b0e-4f2e-823a-f95791505fb2
+:END:
+#+title: Dfsxtmx Hjjtflob 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Hjjtflob
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 13.309999999999999
+- sugar :: 2.02
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 4.5
+- ratings :: [[id:f366ef1e-499d-4b1c-80c3-d298247382fd][Dfsxtmx Hjjtflob NV - 2008-11-27]]

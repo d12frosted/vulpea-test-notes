@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ad7c5246-8093-4b08-ba1b-7c2032c9b8e6
+:END:
+#+title: Vjjtw Hvrja Pzh Tdpnmqgt 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Pzh Tdpnmqgt
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 12.72
+- sugar :: 10.02
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

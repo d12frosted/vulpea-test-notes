@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       76c400d1-7e36-459e-948e-bf5f90098917
+:END:
+#+title: Novr Rlrt Vjoiq Nhgaufcf 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Vjoiq Nhgaufcf
+- vintage :: 1964
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.77
+- sugar :: 13.55
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 5.0
+- ratings :: [[id:78c03e64-6eae-4f54-b41d-23570d83fc32][Novr Rlrt Vjoiq Nhgaufcf 1964 - 1996-2-18]]

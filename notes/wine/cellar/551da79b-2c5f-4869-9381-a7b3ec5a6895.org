@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       551da79b-2c5f-4869-9381-a7b3ec5a6895
+:END:
+#+title: Njtzvl Lppttfa 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Lppttfa
+- vintage :: 1972
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.58
+- sugar :: 12.39
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: duckduckgo
+- rating :: NA

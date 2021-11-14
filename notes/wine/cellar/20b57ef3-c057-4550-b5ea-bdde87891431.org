@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       20b57ef3-c057-4550-b5ea-bdde87891431
+:END:
+#+title: Novr Rlrt Bivkb Xyypvpj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Bivkb Xyypvpj
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 12.59
+- sugar :: 22.99
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

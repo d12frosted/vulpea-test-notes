@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       e0bd452e-7412-4a8f-9663-efea62ad982c
+:END:
+#+title: Vjjtw Hvrja Qor Ioz 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Qor Ioz
+- vintage :: 1914
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 13.45
+- sugar :: 3.4
+- price :: 12.27 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: 8.0
+- ratings :: [[id:92054d00-a51f-4502-ba2f-b696a02025f6][Vjjtw Hvrja Qor Ioz 1914 - 2019-3-19]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8f14a8dd-4e0f-4811-8fbe-8b26ac7cd0d4
+:END:
+#+title: Dfsxtmx Ggp 1947
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ggp
+- vintage :: 1947
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 10.47
+- sugar :: 21.86
+- price :: 44.43 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

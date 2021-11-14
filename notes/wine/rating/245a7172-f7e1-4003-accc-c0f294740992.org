@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       245a7172-f7e1-4003-accc-c0f294740992
+:END:
+#+title: Njtzvl Siwlvrk NV - 1991-6-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:606026e2-404a-47cb-ba2a-1cea1c547e0b][Njtzvl Siwlvrk]]
+- date :: 1991-6-12
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

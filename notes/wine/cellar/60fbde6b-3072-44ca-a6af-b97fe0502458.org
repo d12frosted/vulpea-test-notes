@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       60fbde6b-3072-44ca-a6af-b97fe0502458
+:END:
+#+title: Dfsxtmx Jnmd Ewo 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Jnmd Ewo
+- vintage :: 1972
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.31
+- price :: 37.99 EUR
+- acquired :: 8
+- consumed :: 3
+- available :: 5
+- rating :: NA

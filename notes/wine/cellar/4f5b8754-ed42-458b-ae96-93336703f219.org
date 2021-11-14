@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       4f5b8754-ed42-458b-ae96-93336703f219
+:END:
+#+title: Miv Flquxehl 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Flquxehl
+- vintage :: 1937
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.04
+- price :: 82.56 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

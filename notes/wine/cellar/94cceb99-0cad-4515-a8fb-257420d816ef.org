@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       94cceb99-0cad-4515-a8fb-257420d816ef
+:END:
+#+title: Lzf Sgklvm Bsy 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Sgklvm Bsy
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.72
+- sugar :: 20.19
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

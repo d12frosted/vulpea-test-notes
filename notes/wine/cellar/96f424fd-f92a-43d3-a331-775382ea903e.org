@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       96f424fd-f92a-43d3-a331-775382ea903e
+:END:
+#+title: Rue Shob 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Shob
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- alcohol :: 11.46
+- sugar :: 1.88
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

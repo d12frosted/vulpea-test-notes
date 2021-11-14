@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0e7aa1e1-bd11-4ccb-91b9-b4481b89f269
+:END:
+#+title: Cdeexg Uqhc Efhe 2019
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Uqhc Efhe
+- vintage :: 2019
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.73
+- price :: 74.24 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 4.5
+- ratings :: [[id:c620f216-ba9c-4855-b2a0-c89a672218e9][Cdeexg Uqhc Efhe 2019 - 1991-11-26]]

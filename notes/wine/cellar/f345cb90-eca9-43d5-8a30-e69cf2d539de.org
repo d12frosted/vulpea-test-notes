@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       f345cb90-eca9-43d5-8a30-e69cf2d539de
+:END:
+#+title: Miv Rlkk Ohnubzvm 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Rlkk Ohnubzvm
+- vintage :: 2002
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- alcohol :: 12.68
+- price :: 11.44 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 4.0
+- ratings :: [[id:376276c7-9eec-4198-a2a5-db452acaba5e][Miv Rlkk Ohnubzvm 2002 - 1992-2-28]]

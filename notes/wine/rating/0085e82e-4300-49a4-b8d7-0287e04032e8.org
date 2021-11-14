@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0085e82e-4300-49a4-b8d7-0287e04032e8
+:END:
+#+title: Novr Rlrt Jtuw NV - 2014-9-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:0279eef4-822f-4fc3-985a-81225321d42a][Novr Rlrt Jtuw]]
+- date :: 2014-9-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9c2e5dad-8dff-4ecf-9512-463af5c154b4
+:END:
+#+title: Njtzvl Hadobsn 1949
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Hadobsn
+- vintage :: 1949
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- alcohol :: 12.5
+- sugar :: 22.01
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- rating :: NA

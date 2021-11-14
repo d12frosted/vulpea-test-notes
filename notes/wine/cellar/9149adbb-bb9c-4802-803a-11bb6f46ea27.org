@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       9149adbb-bb9c-4802-803a-11bb6f46ea27
+:END:
+#+title: Rue Loa Kpw 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Loa Kpw
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 12.79
+- price :: 73.23 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: NA

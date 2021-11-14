@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       839dadc6-4f28-4348-9f6e-72fc0ddd43de
+:END:
+#+title: Rue Kzyhhk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kzyhhk
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 10.67
+- sugar :: 4.92
+- price :: 73.97 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- resources :: wikipedia
+- rating :: 3.0
+- ratings :: [[id:41059f19-aa43-4eb0-9039-f34d46033125][Rue Kzyhhk NV - 2020-8-17]]

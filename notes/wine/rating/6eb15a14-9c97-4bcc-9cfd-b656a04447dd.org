@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6eb15a14-9c97-4bcc-9cfd-b656a04447dd
+:END:
+#+title: Miv Zhn NV - 2003-12-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:a7f349c2-c2a6-47ce-8db4-61a5b12853b8][Miv Zhn]]
+- date :: 2003-12-8
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

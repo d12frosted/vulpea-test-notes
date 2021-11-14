@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4d095df8-094d-4b4b-a060-724623c3dd52
+:END:
+#+title: Lzf Kga Ivznwate 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Kga Ivznwate
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 12.98
+- sugar :: 3.62
+- price :: 97.44 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

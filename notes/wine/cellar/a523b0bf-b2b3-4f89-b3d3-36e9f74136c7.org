@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a523b0bf-b2b3-4f89-b3d3-36e9f74136c7
+:END:
+#+title: Njtzvl Qpbl Grhqy 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Qpbl Grhqy
+- vintage :: 1905
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- alcohol :: 13.45
+- sugar :: 13.03
+- price :: 70.65 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: wikipedia
+- rating :: 6.0
+- ratings :: [[id:463cef9f-6fd5-435f-841a-5e0fd13765d9][Njtzvl Qpbl Grhqy 1905 - 2006-10-22]]

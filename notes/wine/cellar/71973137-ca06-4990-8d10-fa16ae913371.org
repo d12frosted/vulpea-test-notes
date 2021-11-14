@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       71973137-ca06-4990-8d10-fa16ae913371
+:END:
+#+title: Dfsxtmx Eikvtjz Xzz 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Eikvtjz Xzz
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:5ea4b773-0993-42c0-ae98-f2ada3e5f5ef][Fdsj]]
+- alcohol :: 10.42
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- rating :: 7.0
+- ratings :: [[id:1fad67bd-6775-46fe-9836-2bfa0ca40ae7][Dfsxtmx Eikvtjz Xzz NV - 1994-4-23]]

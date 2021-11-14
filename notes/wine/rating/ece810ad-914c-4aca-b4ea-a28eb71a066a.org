@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ece810ad-914c-4aca-b4ea-a28eb71a066a
+:END:
+#+title: Lzf Jdooan 1986 - 2004-7-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:ad9c9625-e392-45e0-b300-ef1e30ce5ac9][Lzf Jdooan 1986]]
+- date :: 2004-7-11
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2160882d-392f-42f7-8c2a-3f69cfe7a90c
+:END:
+#+title: Mkmt Seml 1972
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Seml
+- vintage :: 1972
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 12.7
+- sugar :: 0.88
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: 6.5
+- ratings :: [[id:2a5ee023-a509-4fad-9da6-d781be439db3][Mkmt Seml 1972 - 2009-3-26]]

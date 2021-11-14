@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ffc7d285-e466-4a8d-a9cd-2330396c9541
+:END:
+#+title: Novr Rlrt Lqzffm 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Lqzffm
+- vintage :: 1958
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 9.73
+- sugar :: 7.61
+- price :: 44.92 EUR
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

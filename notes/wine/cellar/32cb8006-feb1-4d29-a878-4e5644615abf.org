@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       32cb8006-feb1-4d29-a878-4e5644615abf
+:END:
+#+title: Rue Kpbi 2000
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Kpbi
+- vintage :: 2000
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.49
+- sugar :: 7.25
+- acquired :: 4
+- consumed :: 1
+- available :: 3
+- rating :: NA

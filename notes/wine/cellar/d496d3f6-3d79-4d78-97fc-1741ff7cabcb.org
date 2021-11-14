@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       d496d3f6-3d79-4d78-97fc-1741ff7cabcb
+:END:
+#+title: Novr Rlrt Mxg 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Mxg
+- vintage :: 2006
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:1c2307c4-205a-47d4-84aa-db9c66601507][Mkvwyfz Lojht]]
+- alcohol :: 11.08
+- sugar :: 8.73
+- price :: 52.37 EUR
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:a09d0a5f-2882-432b-a513-74a10a1c47c6][Novr Rlrt Mxg 2006 - 2013-12-25]]

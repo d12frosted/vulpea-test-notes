@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a1f45c89-12d7-4e86-892d-0c42ad36cb61
+:END:
+#+title: Miv Svgv 1996 - 2003-7-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:34d21345-98c0-4ee0-8282-88941982550f][Miv Svgv 1996]]
+- date :: 2003-7-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

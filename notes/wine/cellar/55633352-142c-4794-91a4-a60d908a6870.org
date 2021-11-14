@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       55633352-142c-4794-91a4-a60d908a6870
+:END:
+#+title: Dfsxtmx Mfzb 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Mfzb
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.35
+- acquired :: 7
+- consumed :: 2
+- available :: 5
+- rating :: NA

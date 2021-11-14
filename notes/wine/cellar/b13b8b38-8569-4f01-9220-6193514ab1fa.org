@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b13b8b38-8569-4f01-9220-6193514ab1fa
+:END:
+#+title: Cdeexg Egzj Tvxaefqm 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-sweet
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Egzj Tvxaefqm
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.48
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

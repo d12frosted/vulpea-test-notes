@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       634d8e33-c235-4671-b4f5-119ca67b515a
+:END:
+#+title: Dseajc Jinm Wwiafyys Nhyhpnuc 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Wwiafyys Nhyhpnuc
+- vintage :: 2006
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- alcohol :: 9.92
+- sugar :: 22.63
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.5
+- ratings :: [[id:cad3f706-2479-4384-b9d3-768579e0ef96][Dseajc Jinm Wwiafyys Nhyhpnuc 2006 - 1996-12-6]]

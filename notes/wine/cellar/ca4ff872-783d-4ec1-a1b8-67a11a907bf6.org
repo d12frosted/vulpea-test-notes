@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       ca4ff872-783d-4ec1-a1b8-67a11a907bf6
+:END:
+#+title: Dfsxtmx Oqxgq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Oqxgq
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 11.59
+- sugar :: 6.42
+- price :: 82.15 EUR
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

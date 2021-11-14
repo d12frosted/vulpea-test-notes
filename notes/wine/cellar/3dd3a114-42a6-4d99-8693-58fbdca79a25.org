@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       3dd3a114-42a6-4d99-8693-58fbdca79a25
+:END:
+#+title: Miv Yjgy Ltrkln 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Yjgy Ltrkln
+- vintage :: 1951
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.64
+- sugar :: 14.5
+- price :: 59.04 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: NA

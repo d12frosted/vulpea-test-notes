@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       82c01145-2e34-4e50-bfd0-de87a6af98b1
+:END:
+#+title: Novr Rlrt Vnkzj Oazomlf 1911 - 2002-6-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:88900ac2-92ff-4832-81f6-cd30acd1e999][Novr Rlrt Vnkzj Oazomlf 1911]]
+- date :: 2002-6-1
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

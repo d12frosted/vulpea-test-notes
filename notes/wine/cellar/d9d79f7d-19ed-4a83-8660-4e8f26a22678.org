@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d9d79f7d-19ed-4a83-8660-4e8f26a22678
+:END:
+#+title: Dfsxtmx Ndxqa Lasrvaxv 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ndxqa Lasrvaxv
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.23
+- sugar :: 0.88
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: 2.5
+- ratings :: [[id:3f6042ff-4c4d-44d8-b1f9-a725c7328607][Dfsxtmx Ndxqa Lasrvaxv NV - 2005-11-23]]

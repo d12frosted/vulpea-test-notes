@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ab4e864f-d4ca-4fce-94a5-ec8dc7bf627f
+:END:
+#+title: Cdeexg Zerbgbe 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Zerbgbe
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 11.41
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- rating :: 4.5
+- ratings :: [[id:9e0d7539-a3b3-4411-88cf-2fd7c471ed86][Cdeexg Zerbgbe NV - 2005-11-6]]

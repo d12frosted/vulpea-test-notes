@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c5a0339a-3e3a-47c7-90dc-d7f2381d7b6e
+:END:
+#+title: Njtzvl Vmvdeod 1928
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Vmvdeod
+- vintage :: 1928
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 9.82
+- sugar :: 18.61
+- price :: 25.11 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

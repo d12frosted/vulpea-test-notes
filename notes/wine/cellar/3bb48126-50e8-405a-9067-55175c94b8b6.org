@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3bb48126-50e8-405a-9067-55175c94b8b6
+:END:
+#+title: Lzf Poxieke Zagpdnq 2004
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Poxieke Zagpdnq
+- vintage :: 2004
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 11.76
+- sugar :: 18.42
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- rating :: NA

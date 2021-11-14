@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4165908a-8de5-49f7-915c-245c8658def9
+:END:
+#+title: Vjjtw Hvrja Sqf 2017
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Sqf
+- vintage :: 2017
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.82
+- sugar :: 8.12
+- price :: 82.76 EUR
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

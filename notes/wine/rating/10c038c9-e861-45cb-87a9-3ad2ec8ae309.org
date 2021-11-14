@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       10c038c9-e861-45cb-87a9-3ad2ec8ae309
+:END:
+#+title: Novr Rlrt Htcioi Chlxudd 1996 - 1994-6-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:65dcf400-1cc2-4669-a322-db2165ca310d][Novr Rlrt Htcioi Chlxudd 1996]]
+- date :: 1994-6-25
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

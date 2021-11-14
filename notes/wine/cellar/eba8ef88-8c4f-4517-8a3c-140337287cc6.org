@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       eba8ef88-8c4f-4517-8a3c-140337287cc6
+:END:
+#+title: Novr Rlrt Hrhrf 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Hrhrf
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 13.17
+- acquired :: 9
+- consumed :: 8
+- available :: 1
+- rating :: NA

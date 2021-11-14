@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       598eae0a-d25f-4d4d-93ab-1a8f5ec006ae
+:END:
+#+title: Rue Iveae 1921 - 2018-6-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:59cf1c56-e8f0-41eb-848d-ef3bfbb43582][Rue Iveae 1921]]
+- date :: 2018-6-7
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 5
+- score_max :: 20
+- total :: 2.5

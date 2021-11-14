@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       e6be3ce3-7e48-4b64-a471-f2cda8a8f97c
+:END:
+#+title: Vjjtw Hvrja Cqgcos 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Cqgcos
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 12.9
+- sugar :: 5.58
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: wikipedia
+- rating :: 5.0
+- ratings :: [[id:4e42ea3f-f3f5-40d7-b0ce-7ea0face0a41][Vjjtw Hvrja Cqgcos NV - 2007-3-4]]

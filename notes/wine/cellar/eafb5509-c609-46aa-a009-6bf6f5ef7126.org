@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       eafb5509-c609-46aa-a009-6bf6f5ef7126
+:END:
+#+title: Vjjtw Hvrja Dns Erc 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Dns Erc
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.76
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: 2.0
+- ratings :: [[id:57cea913-abab-4551-baf5-daee8d2fa54e][Vjjtw Hvrja Dns Erc NV - 1994-8-9]]

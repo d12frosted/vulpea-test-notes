@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       034d53cb-4ee3-4b02-a248-1b084e2b7e2a
+:END:
+#+title: Njtzvl Iyoz Gbtnwqel 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Iyoz Gbtnwqel
+- vintage :: 1960
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- alcohol :: 10.8
+- sugar :: 7.22
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: NA

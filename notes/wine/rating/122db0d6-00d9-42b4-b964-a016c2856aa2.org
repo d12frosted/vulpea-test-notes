@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       122db0d6-00d9-42b4-b964-a016c2856aa2
+:END:
+#+title: Novr Rlrt Azr NV - 2000-8-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:aa5194f6-3dae-4c22-a1d6-6c65cdcb1c9e][Novr Rlrt Azr]]
+- date :: 2000-8-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

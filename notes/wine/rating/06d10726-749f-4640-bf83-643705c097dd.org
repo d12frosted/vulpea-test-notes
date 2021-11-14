@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       06d10726-749f-4640-bf83-643705c097dd
+:END:
+#+title: Mkmt Mkwnblxj Ggh 1949 - 2020-10-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:df2f32b8-7fd3-43bb-b84e-f857f3216743][Mkmt Mkwnblxj Ggh 1949]]
+- date :: 2020-10-22
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

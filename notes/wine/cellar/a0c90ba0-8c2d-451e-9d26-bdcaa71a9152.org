@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a0c90ba0-8c2d-451e-9d26-bdcaa71a9152
+:END:
+#+title: Vjjtw Hvrja Frzeu Flrt 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Frzeu Flrt
+- vintage :: 1903
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 9.98
+- acquired :: 5
+- consumed :: 0
+- available :: 5
+- resources :: duckduckgo
+- rating :: 3.0
+- ratings :: [[id:42959766-38d4-4d18-a40a-1325ef519c02][Vjjtw Hvrja Frzeu Flrt 1903 - 1996-5-15]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       2d4e53e8-ed80-4bd6-8c8d-70b2528eed15
+:END:
+#+title: Miv Ggqlfqlo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Ggqlfqlo
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.14
+- sugar :: 21.91
+- price :: 6.00 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: wikipedia
+- rating :: NA

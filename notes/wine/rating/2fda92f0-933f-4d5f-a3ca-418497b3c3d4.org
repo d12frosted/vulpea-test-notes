@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2fda92f0-933f-4d5f-a3ca-418497b3c3d4
+:END:
+#+title: Dseajc Jinm Ahfazl 1983 - 2023-8-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:89eaa85e-a748-4fc0-b991-8111160bdc16][Dseajc Jinm Ahfazl 1983]]
+- date :: 2023-8-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 16
+- score_max :: 20
+- total :: 8.0

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       531c9005-313f-490a-8e33-a6360d81d4b7
+:END:
+#+title: Njtzvl Jxgs Mkktegr 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Jxgs Mkktegr
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.120000000000001
+- sugar :: 15.62
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

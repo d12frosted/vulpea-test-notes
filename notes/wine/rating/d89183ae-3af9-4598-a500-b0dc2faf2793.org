@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d89183ae-3af9-4598-a500-b0dc2faf2793
+:END:
+#+title: Vjjtw Hvrja Znaiau Mmt NV - 1997-10-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:b5515c4d-0dc6-4095-a9a9-4644d2f958fb][Vjjtw Hvrja Znaiau Mmt]]
+- date :: 1997-10-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

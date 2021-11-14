@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       eee2107a-8964-4fe9-9159-5938518ac0ff
+:END:
+#+title: Miv Prustqzl 2006
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Prustqzl
+- vintage :: 2006
+- appellation :: [[id:d19f9dae-d4a0-444e-8b43-b23cab52f935][Mrkbiasf]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.4
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: 4.0
+- ratings :: [[id:0aa11efc-6e51-455d-ad9f-50bb61c9d135][Miv Prustqzl 2006 - 2013-3-20]]

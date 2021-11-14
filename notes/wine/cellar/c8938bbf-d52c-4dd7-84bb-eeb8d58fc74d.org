@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c8938bbf-d52c-4dd7-84bb-eeb8d58fc74d
+:END:
+#+title: Cdeexg Szzwb Fiv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Szzwb Fiv
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.75
+- sugar :: 8.3
+- price :: 88.00 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.5
+- ratings :: [[id:ac2fdaa7-04df-46ac-842a-12900ffde407][Cdeexg Szzwb Fiv NV - 2024-4-26]]

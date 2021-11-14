@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       87e2cfc0-aa17-4e0c-9bd0-dad7d9b671dd
+:END:
+#+title: Lzf Vsqql Ftqpfzvk 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Vsqql Ftqpfzvk
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.08
+- sugar :: 14.94
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

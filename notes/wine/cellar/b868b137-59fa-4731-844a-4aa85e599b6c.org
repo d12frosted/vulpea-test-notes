@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       b868b137-59fa-4731-844a-4aa85e599b6c
+:END:
+#+title: Lzf Xpjbby 1960
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Xpjbby
+- vintage :: 1960
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 10.05
+- price :: 6.55 EUR
+- acquired :: 3
+- consumed :: 1
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.0
+- ratings :: [[id:cee8b3ec-9645-4227-9b8c-718fc87ebc75][Lzf Xpjbby 1960 - 2013-3-2]]

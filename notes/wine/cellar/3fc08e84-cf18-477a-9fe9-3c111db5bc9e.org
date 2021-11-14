@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3fc08e84-cf18-477a-9fe9-3c111db5bc9e
+:END:
+#+title: Novr Rlrt Wrvhnx 2011
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Wrvhnx
+- vintage :: 2011
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 13.85
+- price :: 53.22 EUR
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- rating :: NA

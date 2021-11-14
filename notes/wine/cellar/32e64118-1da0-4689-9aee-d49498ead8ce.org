@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       32e64118-1da0-4689-9aee-d49498ead8ce
+:END:
+#+title: Rue Anrkjj Oppvbgos 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Anrkjj Oppvbgos
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.93
+- sugar :: 5.32
+- price :: 76.06 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- resources :: duckduckgo
+- rating :: 6.0
+- ratings :: [[id:4ed76616-9c6f-47ed-b633-05e0de273f8b][Rue Anrkjj Oppvbgos NV - 1999-2-22]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f9821126-bd4e-4145-ada7-b299f182db42
+:END:
+#+title: Rue Obggfhls 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Obggfhls
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 10.51
+- sugar :: 19.1
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 3.0
+- ratings :: [[id:2cffcba5-167d-4dd2-947c-98eab0f6f07f][Rue Obggfhls NV - 2006-8-9]]

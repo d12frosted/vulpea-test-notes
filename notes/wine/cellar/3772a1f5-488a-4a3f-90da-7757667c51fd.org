@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       3772a1f5-488a-4a3f-90da-7757667c51fd
+:END:
+#+title: Lzf Bqr Rrasuzmt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Bqr Rrasuzmt
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 11.41
+- sugar :: 4.79
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:d151e668-041d-4060-8874-9fb6ba57848a][Lzf Bqr Rrasuzmt NV - 2022-9-13]]

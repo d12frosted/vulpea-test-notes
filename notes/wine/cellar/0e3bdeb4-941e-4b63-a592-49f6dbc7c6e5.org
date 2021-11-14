@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       0e3bdeb4-941e-4b63-a592-49f6dbc7c6e5
+:END:
+#+title: Dseajc Jinm Bta Ewcd 1977
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Bta Ewcd
+- vintage :: 1977
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 11.32
+- sugar :: 20.09
+- price :: 88.41 EUR
+- acquired :: 3
+- consumed :: 3
+- available :: 0
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

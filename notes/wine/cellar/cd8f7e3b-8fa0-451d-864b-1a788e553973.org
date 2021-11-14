@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       cd8f7e3b-8fa0-451d-864b-1a788e553973
+:END:
+#+title: Njtzvl Aaf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Aaf
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:d38d1301-0f6e-4d40-87b6-3bb78b7cc5fc][Kdlfxm]]
+- alcohol :: 9.91
+- sugar :: 1.54
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 3.5
+- ratings :: [[id:03c35f03-9805-4b42-934f-a6218c9fcfdc][Njtzvl Aaf NV - 2001-1-24]]

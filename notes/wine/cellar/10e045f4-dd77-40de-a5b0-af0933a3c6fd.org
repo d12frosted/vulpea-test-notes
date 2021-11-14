@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       10e045f4-dd77-40de-a5b0-af0933a3c6fd
+:END:
+#+title: Miv Osi Bfhy 1954
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Osi Bfhy
+- vintage :: 1954
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 10.129999999999999
+- sugar :: 12.09
+- price :: 14.40 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

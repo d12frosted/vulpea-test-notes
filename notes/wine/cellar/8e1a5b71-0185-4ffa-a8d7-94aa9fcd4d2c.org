@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8e1a5b71-0185-4ffa-a8d7-94aa9fcd4d2c
+:END:
+#+title: Dfsxtmx Ccbbmvv Riim 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Ccbbmvv Riim
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- grapes :: [[id:1a7cf7ef-ca75-498e-b6bb-13bf390fed75][Wykpxre]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 10.2
+- price :: 91.14 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:b2604933-11be-4e5d-a7eb-5e5a60dfd422][Dfsxtmx Ccbbmvv Riim NV - 1999-12-23]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1a64cf51-33d3-4094-8f8c-27811026dccd
+:END:
+#+title: Mkmt Mwitpdxz Nzhpxfk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:e207adc3-dce2-4ba5-9500-b83fcf11ee44][Mkmt]]
+- name :: Mwitpdxz Nzhpxfk
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.34
+- acquired :: 6
+- consumed :: 2
+- available :: 4
+- resources :: duckduckgo
+- rating :: 2.0
+- ratings :: [[id:cfbe391b-8cc8-4a3d-84be-7d7cf17f3403][Mkmt Mwitpdxz Nzhpxfk NV - 1993-9-3]]

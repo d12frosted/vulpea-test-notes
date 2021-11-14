@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3bc9c907-65c7-46af-ada8-5ecb0099c87d
+:END:
+#+title: Rue Vbn Krueib 1975 - 1991-12-17
+#+filetags: :wine:rating:
+
+- wine :: [[id:483e194b-3f61-4016-b987-6394eb0dd3b2][Rue Vbn Krueib 1975]]
+- date :: 1991-12-17
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

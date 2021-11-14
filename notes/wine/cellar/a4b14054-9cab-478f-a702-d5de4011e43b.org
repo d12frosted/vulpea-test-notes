@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       a4b14054-9cab-478f-a702-d5de4011e43b
+:END:
+#+title: Cdeexg Yievx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Yievx
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 12.26
+- price :: 11.91 EUR
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- rating :: 1.5
+- ratings :: [[id:b3d065fa-5481-45c4-aec0-85eec7a969e7][Cdeexg Yievx NV - 1993-11-22]]

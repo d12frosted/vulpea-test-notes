@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       796fe26d-4589-463e-b187-4f13e9b7b507
+:END:
+#+title: Dseajc Jinm Zku 2018
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Zku
+- vintage :: 2018
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 9.67
+- sugar :: 4.99
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- rating :: NA

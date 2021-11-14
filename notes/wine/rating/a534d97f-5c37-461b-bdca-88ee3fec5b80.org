@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a534d97f-5c37-461b-bdca-88ee3fec5b80
+:END:
+#+title: Cdeexg Dqr Bhuid NV - 2003-9-2
+#+filetags: :wine:rating:
+
+- wine :: [[id:8df97b1b-759b-45b2-bb59-0e2efb043133][Cdeexg Dqr Bhuid]]
+- date :: 2003-9-2
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

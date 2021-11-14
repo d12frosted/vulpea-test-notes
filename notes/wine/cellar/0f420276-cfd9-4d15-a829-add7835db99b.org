@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0f420276-cfd9-4d15-a829-add7835db99b
+:END:
+#+title: Njtzvl Movdrf 1986
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Movdrf
+- vintage :: 1986
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.48
+- price :: 20.95 EUR
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- rating :: NA

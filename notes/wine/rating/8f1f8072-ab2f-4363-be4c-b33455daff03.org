@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8f1f8072-ab2f-4363-be4c-b33455daff03
+:END:
+#+title: Cdeexg Kxts 1961 - 1997-5-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:028a47f9-a1de-4d5c-8add-2cfbad97dc72][Cdeexg Kxts 1961]]
+- date :: 1997-5-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9506e3fd-3dca-48dc-be43-98242b440299
+:END:
+#+title: Rue Xtsd Vgtrqp 1919
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Xtsd Vgtrqp
+- vintage :: 1919
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.5
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:95493ff6-cd97-4a9b-9fe8-12d6243641a6][Rue Xtsd Vgtrqp 1919 - 2019-12-24]]

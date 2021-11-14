@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f3e067ce-f0cb-45c9-9714-47249cb61861
+:END:
+#+title: Vjjtw Hvrja Aqdy 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Aqdy
+- vintage :: 1936
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 11.83
+- price :: 92.52 EUR
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 6.5
+- ratings :: [[id:1907f3ed-8a9c-427f-a125-f93ab5ab5e91][Vjjtw Hvrja Aqdy 1936 - 1996-7-14]]

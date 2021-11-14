@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       78f4d69a-45e1-4e35-9d4d-a753412e1270
+:END:
+#+title: Lzf Lilugif 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Lilugif
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 13.07
+- price :: 7.91 EUR
+- acquired :: 5
+- consumed :: 5
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:11845448-1a6c-45de-bb7a-2b16d16f67b7][Lzf Lilugif NV - 1995-3-8]]

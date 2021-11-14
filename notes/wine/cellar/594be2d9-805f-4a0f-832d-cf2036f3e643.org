@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       594be2d9-805f-4a0f-832d-cf2036f3e643
+:END:
+#+title: Miv Hdlz Dvzuhn 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Hdlz Dvzuhn
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 10.35
+- acquired :: 9
+- consumed :: 6
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:89a366d8-7f5b-4a35-b142-14fda923d72a][Miv Hdlz Dvzuhn NV - 2024-5-28]]

@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       dd4cac2d-ccec-4c2c-97f3-b7691ff4d6c0
+:END:
+#+title: Dseajc Jinm Rqcgxa Qdrhaty 1902
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rqcgxa Qdrhaty
+- vintage :: 1902
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 11.09
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

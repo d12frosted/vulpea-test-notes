@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       8f796759-b9e0-4aef-9c65-e205f9f711ad
+:END:
+#+title: Novr Rlrt Nzz 2002
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Nzz
+- vintage :: 2002
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.56
+- price :: 95.85 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: duckduckgo
+- rating :: 3.5
+- ratings :: [[id:167e92d4-e40f-4d5a-9541-ead845e5cdbf][Novr Rlrt Nzz 2002 - 2002-2-28]]

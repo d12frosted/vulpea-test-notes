@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9a6a058d-3ba4-4bb7-9d37-5cad8b6f2d4b
+:END:
+#+title: Miv Zoxadsh 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Zoxadsh
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 9.42
+- sugar :: 1.56
+- price :: 62.79 EUR
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: 9.0
+- ratings :: [[id:ed4a86f7-ff19-43b6-a14c-ed08645b6176][Miv Zoxadsh NV - 2005-3-23]]

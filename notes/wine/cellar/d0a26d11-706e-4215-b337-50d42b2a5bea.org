@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       d0a26d11-706e-4215-b337-50d42b2a5bea
+:END:
+#+title: Novr Rlrt Gxfm 1958
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Gxfm
+- vintage :: 1958
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 10.25
+- sugar :: 18.89
+- price :: 39.70 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 5.0
+- ratings :: [[id:4340199b-faf9-41c5-b977-1e004bba4b44][Novr Rlrt Gxfm 1958 - 2020-6-13]]

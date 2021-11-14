@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       537d0d04-8ebe-4c77-b06a-4bbbc6cd516c
+:END:
+#+title: Rue Tmdy 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Tmdy
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 13.15
+- sugar :: 17.88
+- price :: 60.27 EUR
+- acquired :: 6
+- consumed :: 0
+- available :: 6
+- rating :: NA

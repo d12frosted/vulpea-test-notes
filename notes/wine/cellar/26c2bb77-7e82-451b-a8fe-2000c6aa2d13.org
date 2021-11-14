@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       26c2bb77-7e82-451b-a8fe-2000c6aa2d13
+:END:
+#+title: Dseajc Jinm Tdx Pafnk 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tdx Pafnk
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.31
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

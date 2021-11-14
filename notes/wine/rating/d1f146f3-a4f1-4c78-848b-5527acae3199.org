@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       d1f146f3-a4f1-4c78-848b-5527acae3199
+:END:
+#+title: Dfsxtmx Amclemb NV - 1990-12-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:541141c7-4b39-42c4-8b2d-52c719c03e01][Dfsxtmx Amclemb]]
+- date :: 1990-12-22
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

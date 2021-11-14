@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       285a5441-aced-4240-9b3f-9931f165b8e5
+:END:
+#+title: Njtzvl Ggyjklr 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Ggyjklr
+- vintage :: 1951
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 10.25
+- price :: 90.73 EUR
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: NA

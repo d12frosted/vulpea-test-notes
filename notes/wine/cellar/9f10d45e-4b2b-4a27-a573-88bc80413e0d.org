@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9f10d45e-4b2b-4a27-a573-88bc80413e0d
+:END:
+#+title: Lzf Uvlp Tgxmwutl 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Uvlp Tgxmwutl
+- vintage :: 1996
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.75
+- sugar :: 1.7
+- acquired :: 9
+- consumed :: 0
+- available :: 9
+- rating :: NA

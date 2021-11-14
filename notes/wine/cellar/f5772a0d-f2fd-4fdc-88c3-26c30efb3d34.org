@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f5772a0d-f2fd-4fdc-88c3-26c30efb3d34
+:END:
+#+title: Njtzvl Fhm 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Fhm
+- vintage :: 1980
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- alcohol :: 10.2
+- sugar :: 13.44
+- price :: 21.26 EUR
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 4.5
+- ratings :: [[id:da196652-8c67-4d5c-a16c-8d6461454969][Njtzvl Fhm 1980 - 2011-7-3]]

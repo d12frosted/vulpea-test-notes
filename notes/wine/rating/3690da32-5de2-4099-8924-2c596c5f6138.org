@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3690da32-5de2-4099-8924-2c596c5f6138
+:END:
+#+title: Dfsxtmx Kvhhs 2019 - 2004-7-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:c61de955-1ef8-4508-b7bc-08536b29c8ab][Dfsxtmx Kvhhs 2019]]
+- date :: 2004-7-7
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

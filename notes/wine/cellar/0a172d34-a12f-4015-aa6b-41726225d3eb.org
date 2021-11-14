@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0a172d34-a12f-4015-aa6b-41726225d3eb
+:END:
+#+title: Rue Inwsu Xmehkh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Inwsu Xmehkh
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 9.46
+- acquired :: 1
+- consumed :: 0
+- available :: 1
+- rating :: NA

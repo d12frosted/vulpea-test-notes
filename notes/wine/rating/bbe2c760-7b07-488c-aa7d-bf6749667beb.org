@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       bbe2c760-7b07-488c-aa7d-bf6749667beb
+:END:
+#+title: Miv Sqa NV - 2007-11-25
+#+filetags: :wine:rating:
+
+- wine :: [[id:93ff3218-f735-4d29-b1f6-f4f5a6a5a0d5][Miv Sqa]]
+- date :: 2007-11-25
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

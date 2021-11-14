@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       bb5ba63e-d517-475e-a194-a8fcab754634
+:END:
+#+title: Miv Hymmcxp 2020
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Hymmcxp
+- vintage :: 2020
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 13.46
+- sugar :: 14.32
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 0.5
+- ratings :: [[id:e3f31877-a800-43dc-b438-0f84fe8570de][Miv Hymmcxp 2020 - 2010-3-13]]

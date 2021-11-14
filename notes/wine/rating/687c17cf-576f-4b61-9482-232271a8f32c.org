@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       687c17cf-576f-4b61-9482-232271a8f32c
+:END:
+#+title: Novr Rlrt Codmgo Uklz NV - 1995-4-6
+#+filetags: :wine:rating:
+
+- wine :: [[id:b3dcd85f-ae8c-4023-9c7a-60cc1758408d][Novr Rlrt Codmgo Uklz]]
+- date :: 1995-4-6
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 6
+- score_max :: 20
+- total :: 3.0

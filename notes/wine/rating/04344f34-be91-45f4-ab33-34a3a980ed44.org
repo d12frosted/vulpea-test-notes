@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       04344f34-be91-45f4-ab33-34a3a980ed44
+:END:
+#+title: Rue Iwlbbpe Kbcxoize NV - 2015-4-18
+#+filetags: :wine:rating:
+
+- wine :: [[id:c2fecfd6-aae3-40a2-b16b-d27563d45696][Rue Iwlbbpe Kbcxoize]]
+- date :: 2015-4-18
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

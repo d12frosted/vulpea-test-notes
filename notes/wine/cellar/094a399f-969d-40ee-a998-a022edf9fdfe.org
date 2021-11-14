@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       094a399f-969d-40ee-a998-a022edf9fdfe
+:END:
+#+title: Dfsxtmx Coyhef Ghtfped 2013
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Coyhef Ghtfped
+- vintage :: 2013
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.1
+- sugar :: 2.67
+- acquired :: 2
+- consumed :: 0
+- available :: 2
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dc05ad9a-4544-4a87-8f9f-a97f680a1bf5
+:END:
+#+title: Dfsxtmx Nra Eop NV - 2000-9-12
+#+filetags: :wine:rating:
+
+- wine :: [[id:29b94bdc-88e9-40c8-9332-ef3aa619b1e3][Dfsxtmx Nra Eop]]
+- date :: 2000-9-12
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

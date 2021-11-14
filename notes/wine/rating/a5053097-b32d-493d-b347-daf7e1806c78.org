@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       a5053097-b32d-493d-b347-daf7e1806c78
+:END:
+#+title: Novr Rlrt Bqyybpac Vzwsvbn 1956 - 2014-1-10
+#+filetags: :wine:rating:
+
+- wine :: [[id:45ad38fd-58a3-46fd-a0fb-f6b838a91bd3][Novr Rlrt Bqyybpac Vzwsvbn 1956]]
+- date :: 2014-1-10
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 3
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       6494146b-d953-4131-a56e-ae1beb9e19a3
+:END:
+#+title: Dseajc Jinm Klrzlmy Zorbpx 1925
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Klrzlmy Zorbpx
+- vintage :: 1925
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 9.69
+- acquired :: 9
+- consumed :: 2
+- available :: 7
+- resources :: [[http://www.agricolaocchipinti.it/it/vinicontrada][agricolaocchipinti.it]]
+- rating :: 6.5
+- ratings :: [[id:a7c6c624-0f3b-485c-b572-de44bcf8f89a][Dseajc Jinm Klrzlmy Zorbpx 1925 - 2016-11-22]]

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       8353028d-3717-4242-a1bd-cd5e5193bfbd
+:END:
+#+title: Vjjtw Hvrja Qwb Oeoujtj 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Qwb Oeoujtj
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.22
+- sugar :: 12.61
+- price :: 80.69 EUR
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

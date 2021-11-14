@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       2f64c0bc-26e2-4310-9771-b1f7e5c098c7
+:END:
+#+title: Lzf Smouyt 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Smouyt
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 12.99
+- acquired :: 6
+- consumed :: 4
+- available :: 2
+- rating :: NA

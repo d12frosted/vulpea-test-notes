@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       6b2ca36a-7f14-4133-89a8-a54548ad13ed
-:END:
-#+title: Xhbm
-#+filetags: :wine:producer:
-
-

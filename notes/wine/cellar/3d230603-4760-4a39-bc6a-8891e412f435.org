@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       3d230603-4760-4a39-bc6a-8891e412f435
+:END:
+#+title: Rue Dyxskfq Sgz 1903
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Dyxskfq Sgz
+- vintage :: 1903
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- grapes :: [[id:ec46ddce-7408-4121-9068-adebcc2fb9c8][Ora Iwob]]
+- alcohol :: 13.809999999999999
+- sugar :: 10.95
+- price :: 94.41 EUR
+- acquired :: 9
+- consumed :: 4
+- available :: 5
+- rating :: NA

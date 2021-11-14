@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       14b2ac49-8925-416b-a0c9-48f3d80442d2
+:END:
+#+title: Novr Rlrt Fgoqwjjh Faji 1980
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Fgoqwjjh Faji
+- vintage :: 1980
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 13.629999999999999
+- sugar :: 1.3
+- acquired :: 6
+- consumed :: 3
+- available :: 3
+- resources :: duckduckgo
+- rating :: NA

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       b4db8387-6c8f-4ee5-b53e-264fb275dee1
+:END:
+#+title: Njtzvl Iudtdh 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Iudtdh
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- alcohol :: 12.67
+- sugar :: 14.23
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 6.0
+- ratings :: [[id:dbcd32ec-956e-49e8-b230-9632f03110cf][Njtzvl Iudtdh NV - 2005-2-21]]

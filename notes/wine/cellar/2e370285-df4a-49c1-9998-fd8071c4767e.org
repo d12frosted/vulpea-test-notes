@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       2e370285-df4a-49c1-9998-fd8071c4767e
+:END:
+#+title: Vjjtw Hvrja Rqdl 2005
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Rqdl
+- vintage :: 2005
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 11.72
+- sugar :: 3.41
+- price :: 10.78 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: 6.0
+- ratings :: [[id:7bf87b18-4e01-4245-80cd-4bc7e69bc94b][Vjjtw Hvrja Rqdl 2005 - 2012-9-11]]

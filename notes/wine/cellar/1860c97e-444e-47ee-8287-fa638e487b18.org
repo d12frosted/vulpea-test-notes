@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1860c97e-444e-47ee-8287-fa638e487b18
+:END:
+#+title: Vjjtw Hvrja Njngn 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Njngn
+- vintage :: 2014
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- alcohol :: 9.44
+- price :: 57.91 EUR
+- acquired :: 2
+- consumed :: 1
+- available :: 1
+- rating :: NA

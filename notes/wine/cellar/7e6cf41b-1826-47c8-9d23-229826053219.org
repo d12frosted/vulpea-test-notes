@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       7e6cf41b-1826-47c8-9d23-229826053219
+:END:
+#+title: Rue Esdpcdoa 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Esdpcdoa
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 13.48
+- sugar :: 18.53
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: 3.5
+- ratings :: [[id:de063c3c-5f1d-4b11-b137-b56a941b09c5][Rue Esdpcdoa NV - 2003-5-7]]

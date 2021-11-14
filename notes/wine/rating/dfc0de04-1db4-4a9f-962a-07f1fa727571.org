@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       dfc0de04-1db4-4a9f-962a-07f1fa727571
+:END:
+#+title: Miv Ufgwd Cwyxlvyc 1970 - 1993-10-14
+#+filetags: :wine:rating:
+
+- wine :: [[id:dde7c925-2dcc-4520-b5a5-82e5b8fed9d0][Miv Ufgwd Cwyxlvyc 1970]]
+- date :: 1993-10-14
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

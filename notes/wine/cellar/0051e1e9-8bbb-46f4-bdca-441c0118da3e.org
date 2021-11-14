@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       0051e1e9-8bbb-46f4-bdca-441c0118da3e
+:END:
+#+title: Lzf Cnvvqyu Lotolm 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Cnvvqyu Lotolm
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 11.5
+- price :: 80.62 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- rating :: 9.0
+- ratings :: [[id:95c5aade-4cab-428f-adae-ffdd25393f3e][Lzf Cnvvqyu Lotolm NV - 2019-4-7]]

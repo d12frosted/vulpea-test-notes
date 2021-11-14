@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       56f94546-56b3-43eb-9e36-8c678fa6670b
+:END:
+#+title: Mkmt Lntxyp Xzl 2013 - 2024-5-3
+#+filetags: :wine:rating:
+
+- wine :: [[id:2ec3570f-dea5-4fc1-a3e9-c8d0ee6b2326][Mkmt Lntxyp Xzl 2013]]
+- date :: 2024-5-3
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 14
+- score_max :: 20
+- total :: 7.0

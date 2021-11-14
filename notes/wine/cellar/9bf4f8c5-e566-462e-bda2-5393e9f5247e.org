@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       9bf4f8c5-e566-462e-bda2-5393e9f5247e
+:END:
+#+title: Cdeexg Qpsptm Mkcgzlji 1987
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Qpsptm Mkcgzlji
+- vintage :: 1987
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 10.8
+- sugar :: 23.7
+- price :: 15.49 EUR
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: 5.0
+- ratings :: [[id:6f9bf4c0-41c8-4af7-9fe9-0ee2b8cecafd][Cdeexg Qpsptm Mkcgzlji 1987 - 2016-6-9]]

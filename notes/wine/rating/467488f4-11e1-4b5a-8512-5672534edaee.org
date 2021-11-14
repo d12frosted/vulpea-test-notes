@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       467488f4-11e1-4b5a-8512-5672534edaee
+:END:
+#+title: Rue Zbt NV - 1990-6-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:ad276247-c41e-45a6-9259-bf9367ac2e71][Rue Zbt]]
+- date :: 1990-6-27
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 1
+- property_5_max :: 6
+- score :: 4
+- score_max :: 20
+- total :: 2.0

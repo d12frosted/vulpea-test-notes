@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       a2efea62-91de-44ad-89d6-28ee305ae0ed
+:END:
+#+title: Rue Aqeu 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Aqeu
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:80507594-0199-4237-b6c8-a2210b945272][Oul]]
+- alcohol :: 10.26
+- price :: 22.45 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 4.5
+- ratings :: [[id:7cfcd007-9ec7-431b-8687-ad32010329c6][Rue Aqeu NV - 1992-5-19]]

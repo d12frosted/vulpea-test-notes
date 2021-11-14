@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       b453e23e-90b7-475b-85b8-6ff2c4b9a459
+:END:
+#+title: Dfsxtmx Bik 1905
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Bik
+- vintage :: 1905
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 11.870000000000001
+- sugar :: 7.44
+- price :: 58.32 EUR
+- acquired :: 6
+- consumed :: 1
+- available :: 5
+- rating :: 7.0
+- ratings :: [[id:88c3af25-eb2a-48d0-8638-7f6adfafd4f3][Dfsxtmx Bik 1905 - 1998-8-12]]

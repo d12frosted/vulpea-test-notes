@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f90faaab-c080-4f31-a059-5243b00a944f
+:END:
+#+title: Dseajc Jinm Vfeazyzb Epa 1962
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vfeazyzb Epa
+- vintage :: 1962
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- alcohol :: 9.48
+- price :: 55.79 EUR
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: NA

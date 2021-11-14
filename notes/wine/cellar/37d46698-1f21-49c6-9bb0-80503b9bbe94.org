@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       37d46698-1f21-49c6-9bb0-80503b9bbe94
+:END:
+#+title: Cdeexg Dahyil 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Dahyil
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- alcohol :: 13.879999999999999
+- sugar :: 1.8
+- price :: 53.71 EUR
+- acquired :: 8
+- consumed :: 1
+- available :: 7
+- rating :: 1.5
+- ratings :: [[id:dbf677ca-6edd-47ce-a1fb-97ac1ed40b5f][Cdeexg Dahyil NV - 1997-6-24]]

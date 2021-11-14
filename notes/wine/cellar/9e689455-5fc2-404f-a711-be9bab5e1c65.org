@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       9e689455-5fc2-404f-a711-be9bab5e1c65
+:END:
+#+title: Novr Rlrt Glfxq Oxskbd 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Glfxq Oxskbd
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:6fe6db3e-897e-4419-a233-c71aff3ca4d4][Loza]]
+- alcohol :: 11.379999999999999
+- sugar :: 13.65
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- rating :: NA

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       6b939402-34bd-4ba2-bdd2-8655b8aec8b7
+:END:
+#+title: Rue Ybzcbxz Xia 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Ybzcbxz Xia
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 9.89
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

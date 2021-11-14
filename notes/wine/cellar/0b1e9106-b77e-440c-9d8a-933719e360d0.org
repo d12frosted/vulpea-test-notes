@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       0b1e9106-b77e-440c-9d8a-933719e360d0
+:END:
+#+title: Lzf Pfoewg Aaud 1904
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Pfoewg Aaud
+- vintage :: 1904
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 12.56
+- acquired :: 4
+- consumed :: 4
+- available :: 0
+- rating :: 4.5
+- ratings :: [[id:c144e15c-c9fe-4e90-9dde-8eab30c32117][Lzf Pfoewg Aaud 1904 - 2015-8-28]]

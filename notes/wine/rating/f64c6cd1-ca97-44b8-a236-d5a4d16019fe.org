@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f64c6cd1-ca97-44b8-a236-d5a4d16019fe
+:END:
+#+title: Njtzvl Tyzk Wacpdt NV - 2007-7-15
+#+filetags: :wine:rating:
+
+- wine :: [[id:4329527a-12ad-457c-ac98-5a8b78555e31][Njtzvl Tyzk Wacpdt]]
+- date :: 2007-7-15
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

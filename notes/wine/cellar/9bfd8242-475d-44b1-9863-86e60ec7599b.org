@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9bfd8242-475d-44b1-9863-86e60ec7599b
+:END:
+#+title: Njtzvl Jwpplcq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Jwpplcq
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 10.7
+- acquired :: 5
+- consumed :: 4
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 7.5
+- ratings :: [[id:ffa5b6b2-aae8-43b0-8ccb-3617282be420][Njtzvl Jwpplcq NV - 1997-7-28]]

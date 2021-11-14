@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       e194d6f4-52e8-4c80-b302-d5c24c6aca08
+:END:
+#+title: Vjjtw Hvrja Ocirycj 1934 - 2015-4-13
+#+filetags: :wine:rating:
+
+- wine :: [[id:61376678-05fe-458f-886c-e33ea89886da][Vjjtw Hvrja Ocirycj 1934]]
+- date :: 2015-4-13
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 3
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

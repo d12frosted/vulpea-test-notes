@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       44745724-61ba-432c-874d-64cdf4c233b9
+:END:
+#+title: Njtzvl Jjyped NV - 1990-12-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:f975ba04-1292-49d7-bd08-198c1f8b280a][Njtzvl Jjyped]]
+- date :: 1990-12-26
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

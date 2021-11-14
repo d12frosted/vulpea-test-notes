@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       4c6d5afb-c47c-4863-845a-f9584431c6e2
+:END:
+#+title: Miv Qfkkpbp Tjlgz 2014
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-brut
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Qfkkpbp Tjlgz
+- vintage :: 2014
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 12.44
+- sugar :: 22.88
+- acquired :: 9
+- consumed :: 5
+- available :: 4
+- rating :: 1.0
+- ratings :: [[id:e231f0ef-c62c-4fbc-b450-f002e48ab078][Miv Qfkkpbp Tjlgz 2014 - 1990-8-26]]

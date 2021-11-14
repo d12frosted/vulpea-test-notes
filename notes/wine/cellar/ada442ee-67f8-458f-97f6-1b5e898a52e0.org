@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       ada442ee-67f8-458f-97f6-1b5e898a52e0
+:END:
+#+title: Cdeexg Bckyf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bckyf
+- region :: [[id:f324581e-a286-409a-a862-ce7c232fd236][Cbk Fqgcije]]
+- alcohol :: 11.39
+- sugar :: 19.9
+- price :: 58.47 EUR
+- acquired :: 4
+- consumed :: 2
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

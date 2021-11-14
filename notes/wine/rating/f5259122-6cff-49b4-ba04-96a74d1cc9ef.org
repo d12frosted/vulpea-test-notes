@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       f5259122-6cff-49b4-ba04-96a74d1cc9ef
+:END:
+#+title: Dseajc Jinm Lsxibvwt NV - 2007-2-8
+#+filetags: :wine:rating:
+
+- wine :: [[id:1b0e92df-4870-42d7-afe8-cdec652c4d4a][Dseajc Jinm Lsxibvwt]]
+- date :: 2007-2-8
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 15
+- score_max :: 20
+- total :: 7.5

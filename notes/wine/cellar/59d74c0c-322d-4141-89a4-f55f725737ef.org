@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       59d74c0c-322d-4141-89a4-f55f725737ef
+:END:
+#+title: Vjjtw Hvrja Ejq 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ejq
+- region :: [[id:6899eca1-535e-46a5-befe-e7bcb7f0cc84][Cldk Gsyudo]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 12.629999999999999
+- price :: 71.68 EUR
+- acquired :: 8
+- consumed :: 7
+- available :: 1
+- rating :: NA

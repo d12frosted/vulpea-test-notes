@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       7880954c-9440-4467-9bae-01f6f0bdb222
+:END:
+#+title: Cdeexg Bgcw Nfgxm 2008
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: extra-dry
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bgcw Nfgxm
+- vintage :: 2008
+- appellation :: [[id:b09a00bf-442f-48ff-b924-c7db17b41b22][Itgw]]
+- alcohol :: 13.379999999999999
+- sugar :: 4.96
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

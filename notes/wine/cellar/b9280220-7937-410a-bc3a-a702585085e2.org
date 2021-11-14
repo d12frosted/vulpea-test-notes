@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b9280220-7937-410a-bc3a-a702585085e2
+:END:
+#+title: Dseajc Jinm Rao Doryehwq 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Rao Doryehwq
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:6f66de17-06b0-4719-bf56-7dcea3311421][Xldy Ihtgbnxs]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 13.89
+- sugar :: 11.46
+- acquired :: 5
+- consumed :: 1
+- available :: 4
+- rating :: NA

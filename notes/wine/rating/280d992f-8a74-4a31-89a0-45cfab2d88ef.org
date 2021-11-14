@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       280d992f-8a74-4a31-89a0-45cfab2d88ef
+:END:
+#+title: Dseajc Jinm Nfnn Mjdy 2005 - 2001-7-28
+#+filetags: :wine:rating:
+
+- wine :: [[id:d901a88d-a8f4-42bb-8f0c-82c7c96c1b85][Dseajc Jinm Nfnn Mjdy 2005]]
+- date :: 2001-7-28
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

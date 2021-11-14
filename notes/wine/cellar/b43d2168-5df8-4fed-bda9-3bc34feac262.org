@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       b43d2168-5df8-4fed-bda9-3bc34feac262
+:END:
+#+title: Dfsxtmx Qqapd Xyxazfkw 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Qqapd Xyxazfkw
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- grapes :: [[id:028f5bd7-2270-4c92-b5c3-7d52fdbc1991][Yegwwp]]
+- alcohol :: 9.9
+- sugar :: 12.14
+- acquired :: 8
+- consumed :: 6
+- available :: 2
+- resources :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- rating :: NA

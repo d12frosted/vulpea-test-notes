@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       f10e0172-3ea5-4852-b2b1-8647d4e5c187
+:END:
+#+title: Dfsxtmx Rrev 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Rrev
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.42
+- sugar :: 2.72
+- price :: 76.01 EUR
+- acquired :: 9
+- consumed :: 1
+- available :: 8
+- resources :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- rating :: NA

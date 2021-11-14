@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5e83a7c0-ec9d-43b3-b433-ed608122afae
+:END:
+#+title: Dfsxtmx Iynvb Fki 1996
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Iynvb Fki
+- vintage :: 1996
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- alcohol :: 9.05
+- sugar :: 11.05
+- price :: 89.46 EUR
+- acquired :: 9
+- consumed :: 9
+- available :: 0
+- resources :: duckduckgo
+- rating :: 4.5
+- ratings :: [[id:3e002342-4dbb-474e-837a-f49f843883d6][Dfsxtmx Iynvb Fki 1996 - 1995-10-1]]

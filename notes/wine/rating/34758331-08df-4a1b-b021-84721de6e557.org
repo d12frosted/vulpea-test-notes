@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       34758331-08df-4a1b-b021-84721de6e557
+:END:
+#+title: Novr Rlrt Hoelyv Jesujdg 1975 - 2024-5-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:68cbdc98-cbfa-40c1-86c7-4d6a9578afc4][Novr Rlrt Hoelyv Jesujdg 1975]]
+- date :: 2024-5-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 12
+- score_max :: 20
+- total :: 6.0

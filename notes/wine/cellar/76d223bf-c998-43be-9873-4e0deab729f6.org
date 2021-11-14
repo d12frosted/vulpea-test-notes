@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       76d223bf-c998-43be-9873-4e0deab729f6
+:END:
+#+title: Njtzvl Udmkjxd Dneqjmn 1936
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Udmkjxd Dneqjmn
+- vintage :: 1936
+- appellation :: [[id:09f1dd5f-e331-4d37-ad5f-af52ed341cfe][Nmfvj]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 11.08
+- price :: 61.29 EUR
+- acquired :: 8
+- consumed :: 2
+- available :: 6
+- resources :: wikipedia
+- rating :: NA

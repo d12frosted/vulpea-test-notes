@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       6ad35efc-e785-4568-8fa4-e03964c6ddca
+:END:
+#+title: Lzf Hcibtxo 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Hcibtxo
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- grapes :: [[id:b3147ac1-5066-4244-a046-b13c5c31bc14][Qcjzphm]]
+- grapes :: [[id:9b69dca8-6274-4bbb-9939-414200ada2d5][Mjxkfaw]]
+- alcohol :: 9.95
+- sugar :: 22.1
+- price :: 70.77 EUR
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

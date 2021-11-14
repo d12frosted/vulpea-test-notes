@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0fb44eb0-2d80-4b08-a500-ed8a9e57aa54
+:END:
+#+title: Dfsxtmx Nysj 1988
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Nysj
+- vintage :: 1988
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 9.05
+- price :: 61.33 EUR
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 3.0
+- ratings :: [[id:2d7b1e2f-d462-4209-a61e-2c2367bc902f][Dfsxtmx Nysj 1988 - 2013-1-18]]

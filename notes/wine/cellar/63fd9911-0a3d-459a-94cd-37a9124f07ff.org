@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       63fd9911-0a3d-459a-94cd-37a9124f07ff
+:END:
+#+title: Dseajc Jinm Vhmtdjc 1968
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: sweet
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Vhmtdjc
+- vintage :: 1968
+- appellation :: [[id:e644bfae-1cd9-4c0c-897c-5d719ed4f96c][Nuzz]]
+- alcohol :: 13.79
+- sugar :: 0.67
+- acquired :: 9
+- consumed :: 7
+- available :: 2
+- rating :: NA

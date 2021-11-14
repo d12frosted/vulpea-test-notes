@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       52902489-37ec-4b1a-ab8b-04b8c176242e
+:END:
+#+title: Rue Nugrj Goob NV - 2024-9-27
+#+filetags: :wine:rating:
+
+- wine :: [[id:0e21117b-939c-4cbc-a0ec-abf6937d889c][Rue Nugrj Goob]]
+- date :: 2024-9-27
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

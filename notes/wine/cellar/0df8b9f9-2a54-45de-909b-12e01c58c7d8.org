@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       0df8b9f9-2a54-45de-909b-12e01c58c7d8
+:END:
+#+title: Njtzvl Jjofg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Jjofg
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- alcohol :: 9.64
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- rating :: NA

@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       854eb31a-f2a6-44bb-8d84-8bdc6e83884d
+:END:
+#+title: Lzf Tzqvtedo Maon NV - 2020-10-5
+#+filetags: :wine:rating:
+
+- wine :: [[id:cb937438-ef4b-4d68-a4e3-d5fdce48e31d][Lzf Tzqvtedo Maon]]
+- date :: 2020-10-5
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 0
+- property_4_max :: 5
+- property_5 :: 5
+- property_5_max :: 6
+- score :: 8
+- score_max :: 20
+- total :: 4.0

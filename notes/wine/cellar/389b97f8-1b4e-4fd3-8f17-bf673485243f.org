@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       389b97f8-1b4e-4fd3-8f17-bf673485243f
+:END:
+#+title: Dseajc Jinm Tofw Fpidoihg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Tofw Fpidoihg
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- alcohol :: 12.3
+- acquired :: 3
+- consumed :: 0
+- available :: 3
+- rating :: 3.0
+- ratings :: [[id:1d6ec477-3734-4a0b-bb13-6872ca357410][Dseajc Jinm Tofw Fpidoihg NV - 1992-3-17]]

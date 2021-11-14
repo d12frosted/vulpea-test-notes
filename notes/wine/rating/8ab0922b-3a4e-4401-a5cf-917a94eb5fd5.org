@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8ab0922b-3a4e-4401-a5cf-917a94eb5fd5
+:END:
+#+title: Cdeexg Oodjjg Puqnff NV - 2016-11-1
+#+filetags: :wine:rating:
+
+- wine :: [[id:3d0a587b-f3ea-450c-9fc6-781933a35ab3][Cdeexg Oodjjg Puqnff]]
+- date :: 2016-11-1
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 4
+- property_4_max :: 5
+- property_5 :: 4
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

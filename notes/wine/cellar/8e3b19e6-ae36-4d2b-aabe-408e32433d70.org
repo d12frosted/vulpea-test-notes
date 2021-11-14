@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       8e3b19e6-ae36-4d2b-aabe-408e32433d70
+:END:
+#+title: Novr Rlrt Dfwwm Mmlifbvg 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut-nature
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Dfwwm Mmlifbvg
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 10.85
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

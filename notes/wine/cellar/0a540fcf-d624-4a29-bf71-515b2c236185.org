@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       0a540fcf-d624-4a29-bf71-515b2c236185
+:END:
+#+title: Dfsxtmx Tehcn Yuahngv 1937
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: brut-nature
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Tehcn Yuahngv
+- vintage :: 1937
+- region :: [[id:3e0d68d6-f454-4519-9b50-d5fd280bec06][Lrjgy Yspv]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 10.26
+- sugar :: 18.77
+- price :: 66.96 EUR
+- acquired :: 3
+- consumed :: 2
+- available :: 1
+- rating :: NA

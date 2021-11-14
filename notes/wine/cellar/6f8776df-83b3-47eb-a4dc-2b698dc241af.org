@@ -1,0 +1,23 @@
+:PROPERTIES:
+:ID:       6f8776df-83b3-47eb-a4dc-2b698dc241af
+:END:
+#+title: Rue Riicq 2015
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Riicq
+- vintage :: 2015
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:99af3d3f-6466-453e-bb71-f42cb90dfcfe][Msaels Nrl]]
+- grapes :: [[id:8e923905-2681-494e-b257-963c4822ee1c][Cfsqjrp Wnwucdt]]
+- alcohol :: 12.08
+- sugar :: 3.29
+- price :: 51.13 EUR
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

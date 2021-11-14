@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       039602d8-0cff-4321-9dcc-57dcc07f79f3
+:END:
+#+title: Dfsxtmx Gvvp Pck 
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:9e2716b0-c21c-4062-bf38-aec04bffcd40][Dfsxtmx]]
+- name :: Gvvp Pck
+- appellation :: [[id:77fe6c07-a6e4-43d2-a4c7-543c48f4c764][Wfsjv Zcluzi]]
+- alcohol :: 11.54
+- price :: 35.40 EUR
+- acquired :: 5
+- consumed :: 2
+- available :: 3
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: NA

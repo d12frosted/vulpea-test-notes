@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       6b6d57d3-f77c-4f6e-8335-e964dba48e07
+:END:
+#+title: Cdeexg Bzvneey Cobggozf 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-brut
+- producer :: [[id:9024e06f-ecb1-463a-adc5-ac8496875e94][Cdeexg]]
+- name :: Bzvneey Cobggozf
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- alcohol :: 11.9
+- sugar :: 2.11
+- price :: 102.85 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: NA

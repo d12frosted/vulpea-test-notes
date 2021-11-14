@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       75a441dc-b978-43ba-bd30-825829e68138
+:END:
+#+title: Miv Jso 1991
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: doux
+- producer :: [[id:3d423b96-475a-425b-97de-12035ed6043e][Miv]]
+- name :: Jso
+- vintage :: 1991
+- region :: [[id:c21bb977-ef46-4b07-8d93-faee63114449][Wuxtq]]
+- alcohol :: 13.879999999999999
+- acquired :: 4
+- consumed :: 0
+- available :: 4
+- resources :: wikipedia
+- rating :: NA

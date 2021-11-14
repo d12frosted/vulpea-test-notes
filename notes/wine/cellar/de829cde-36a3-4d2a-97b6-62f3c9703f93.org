@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       de829cde-36a3-4d2a-97b6-62f3c9703f93
+:END:
+#+title: Njtzvl Kexjv 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: doux
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Kexjv
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 9.23
+- acquired :: 4
+- consumed :: 3
+- available :: 1
+- rating :: NA

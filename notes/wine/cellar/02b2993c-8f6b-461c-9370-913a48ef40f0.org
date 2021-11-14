@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       02b2993c-8f6b-461c-9370-913a48ef40f0
+:END:
+#+title: Novr Rlrt Zqpmifod Iwuylqa 1942
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut
+- producer :: [[id:93f85f74-6296-4fc1-ab3b-a0f20a913701][Novr Rlrt]]
+- name :: Zqpmifod Iwuylqa
+- vintage :: 1942
+- appellation :: [[id:6dd53ed2-0169-4442-a4df-6d6443c3482d][Ukbv Dwhbhk]]
+- grapes :: [[id:0ec31d51-1b7a-4904-8409-df9a71823cb7][Lrcw Mlnhne]]
+- alcohol :: 9.12
+- acquired :: 7
+- consumed :: 6
+- available :: 1
+- rating :: NA

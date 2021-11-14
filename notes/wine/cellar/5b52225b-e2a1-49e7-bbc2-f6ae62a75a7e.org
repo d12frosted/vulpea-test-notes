@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       5b52225b-e2a1-49e7-bbc2-f6ae62a75a7e
+:END:
+#+title: Dseajc Jinm Eymmed 1951
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: extra-dry
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Eymmed
+- vintage :: 1951
+- appellation :: [[id:e18dfe59-967c-4f6c-b15b-01e60d00c92c][Cwx Zntumsjv]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 11.15
+- acquired :: 2
+- consumed :: 2
+- available :: 0
+- resources :: duckduckgo
+- rating :: 3.0
+- ratings :: [[id:f133452f-a42d-4c8f-980c-18b7386bd4e7][Dseajc Jinm Eymmed 1951 - 2002-8-11]]

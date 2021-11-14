@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       4c70f9a6-597e-44d9-b8c7-d05c0a436047
+:END:
+#+title: Miv Pdjyax 1928 - 2012-1-11
+#+filetags: :wine:rating:
+
+- wine :: [[id:b5763f1d-c79e-4e6f-b502-b218b0c70c7d][Miv Pdjyax 1928]]
+- date :: 2012-1-11
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 0
+- property_2_max :: 4
+- property_3 :: 2
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

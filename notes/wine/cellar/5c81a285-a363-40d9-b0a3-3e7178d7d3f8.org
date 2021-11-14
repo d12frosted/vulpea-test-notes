@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       5c81a285-a363-40d9-b0a3-3e7178d7d3f8
+:END:
+#+title: Lzf Bcqqpe 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: red
+- sweetness :: doux
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Bcqqpe
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- grapes :: [[id:c6810eb1-8119-4ecd-8ba5-6de417faa701][Hhzvorld]]
+- alcohol :: 11.66
+- sugar :: 9.6
+- acquired :: 7
+- consumed :: 3
+- available :: 4
+- rating :: NA

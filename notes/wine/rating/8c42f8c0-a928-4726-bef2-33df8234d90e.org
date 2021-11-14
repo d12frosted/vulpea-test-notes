@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       8c42f8c0-a928-4726-bef2-33df8234d90e
+:END:
+#+title: Dseajc Jinm Ezsd 1992 - 2002-5-7
+#+filetags: :wine:rating:
+
+- wine :: [[id:a2029603-e447-40cf-91bd-711f21d0d2b5][Dseajc Jinm Ezsd 1992]]
+- date :: 2002-5-7
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 2
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 13
+- score_max :: 20
+- total :: 6.5

@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       ec9512c8-41ed-4df0-90ce-e08b7ca109dc
+:END:
+#+title: Rue Jewcboev Xzb 1964
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: demi-sec
+- producer :: [[id:7d38e078-2a92-488a-a621-416e4dda2c2b][Rue]]
+- name :: Jewcboev Xzb
+- vintage :: 1964
+- region :: [[id:97a30df5-adac-4655-9bac-ea8a9d7f49a7][Skoycvw]]
+- alcohol :: 9.85
+- acquired :: 8
+- consumed :: 5
+- available :: 3
+- rating :: 3.5
+- ratings :: [[id:3450f087-50e2-43b3-a99d-cb001eeeac54][Rue Jewcboev Xzb 1964 - 2013-5-11]]

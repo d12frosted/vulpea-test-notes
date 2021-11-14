@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       c63f8e1e-18e2-4051-87f8-8e61c26aa17f
+:END:
+#+title: Lzf Jfonuhir Alh NV - 1997-6-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:00623209-d2db-44c6-8ffc-a2780c6797c6][Lzf Jfonuhir Alh]]
+- date :: 1997-6-26
+- version :: 1
+- property_1 :: 1
+- property_1_max :: 3
+- property_2 :: 4
+- property_2_max :: 4
+- property_3 :: 1
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 11
+- score_max :: 20
+- total :: 5.5

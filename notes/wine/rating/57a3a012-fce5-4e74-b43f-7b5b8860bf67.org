@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       57a3a012-fce5-4e74-b43f-7b5b8860bf67
+:END:
+#+title: Vjjtw Hvrja Ynklokjf NV - 2010-9-22
+#+filetags: :wine:rating:
+
+- wine :: [[id:897c89c3-ed51-4ce7-9688-562a73bb35dd][Vjjtw Hvrja Ynklokjf]]
+- date :: 2010-9-22
+- version :: 1
+- property_1 :: 3
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 3
+- property_4_max :: 5
+- property_5 :: 2
+- property_5_max :: 6
+- score :: 9
+- score_max :: 20
+- total :: 4.5

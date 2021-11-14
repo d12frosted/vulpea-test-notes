@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       845a96a9-4e69-4d85-a6dc-99c1cc5bf6ef
+:END:
+#+title: Dseajc Jinm Lcotdkib Fduj 2007
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: brut-nature
+- producer :: [[id:ab1a4ceb-b0b4-40d4-80bd-51c0f74b8bb7][Dseajc Jinm]]
+- name :: Lcotdkib Fduj
+- vintage :: 2007
+- region :: [[id:48a86066-f8af-4b04-bfbe-9091d4c65095][Yhob]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:3fa46014-b794-4273-8a98-50eb24c5c4a3][Mks Dtpc]]
+- alcohol :: 12.57
+- acquired :: 1
+- consumed :: 1
+- available :: 0
+- rating :: NA

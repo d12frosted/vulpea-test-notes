@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       ac4029e7-2fa5-45fd-ac2e-908cb80e8a44
+:END:
+#+title: Cdeexg Tzldtuq Bfznpxr 1954 - 2015-9-26
+#+filetags: :wine:rating:
+
+- wine :: [[id:9f30ed32-dc7f-4d0e-974d-63daddb21f91][Cdeexg Tzldtuq Bfznpxr 1954]]
+- date :: 2015-9-26
+- version :: 1
+- property_1 :: 0
+- property_1_max :: 3
+- property_2 :: 2
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 5
+- property_4_max :: 5
+- property_5 :: 0
+- property_5_max :: 6
+- score :: 7
+- score_max :: 20
+- total :: 3.5

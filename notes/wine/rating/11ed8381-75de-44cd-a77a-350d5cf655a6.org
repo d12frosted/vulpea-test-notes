@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       11ed8381-75de-44cd-a77a-350d5cf655a6
+:END:
+#+title: Njtzvl Mkeoz Nwwse 1917 - 2009-9-9
+#+filetags: :wine:rating:
+
+- wine :: [[id:f01a787e-bcc6-49a8-ab51-b1eefefa5833][Njtzvl Mkeoz Nwwse 1917]]
+- date :: 2009-9-9
+- version :: 1
+- property_1 :: 2
+- property_1_max :: 3
+- property_2 :: 1
+- property_2_max :: 4
+- property_3 :: 0
+- property_3_max :: 2
+- property_4 :: 1
+- property_4_max :: 5
+- property_5 :: 6
+- property_5_max :: 6
+- score :: 10
+- score_max :: 20
+- total :: 5.0

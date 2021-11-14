@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       454c3532-1bad-43a5-8812-6cfc24645967
+:END:
+#+title: Njtzvl Zoim Efv 1911
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-sweet
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Zoim Efv
+- vintage :: 1911
+- region :: [[id:a29b37f6-acb4-415d-aac9-6c1751067fd1][Gpcx Mato]]
+- alcohol :: 13.309999999999999
+- price :: 83.90 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 6.0
+- ratings :: [[id:0218727e-2ef0-4303-9d7a-444989f66004][Njtzvl Zoim Efv 1911 - 1995-2-23]]

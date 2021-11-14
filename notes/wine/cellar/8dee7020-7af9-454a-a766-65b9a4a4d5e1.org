@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       8dee7020-7af9-454a-a766-65b9a4a4d5e1
+:END:
+#+title: Vjjtw Hvrja Sbx 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: brut
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Sbx
+- region :: [[id:9977ebaf-25cd-46cd-b2bf-49851d32d8ea][Oiq]]
+- grapes :: [[id:e1e80865-c74e-4dc1-9a40-f9695679a404][Amggq Rrqbk]]
+- grapes :: [[id:9864d95c-42b6-496b-ac72-f119dd7e29a1][Rvlu]]
+- alcohol :: 11.15
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 2.0
+- ratings :: [[id:f61a662b-7e98-40e1-899e-67006873fda7][Vjjtw Hvrja Sbx NV - 2000-3-4]]

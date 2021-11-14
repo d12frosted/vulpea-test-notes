@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       5a6796d6-bd5e-4d40-8c01-994c1b0e3817
+:END:
+#+title: Njtzvl Gavsbbri 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: rose
+- sweetness :: extra-dry
+- producer :: [[id:c35faa17-c27b-4d46-a4d2-4bc6fbbb5291][Njtzvl]]
+- name :: Gavsbbri
+- region :: [[id:f76c4285-50e4-4eae-be7b-4b724498e54c][Dodnaf Hdtf]]
+- grapes :: [[id:e5865fa8-27fe-46c5-a1c5-1ae78b13ca3d][Zhs]]
+- grapes :: [[id:5e620a25-579e-459a-b38f-295be1d507b8][Mdzblbqs]]
+- alcohol :: 10.870000000000001
+- sugar :: 15.11
+- price :: 41.92 EUR
+- acquired :: 0
+- consumed :: 0
+- available :: 0
+- rating :: 5.5
+- ratings :: [[id:80bd168d-351f-447b-93a3-67c70b810a9f][Njtzvl Gavsbbri NV - 2010-9-16]]

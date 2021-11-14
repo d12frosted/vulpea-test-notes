@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       1ce67ad0-00c4-414e-9b4d-2115eaf4b368
+:END:
+#+title: Vjjtw Hvrja Ukvfdy Axlob 1945
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: red
+- sweetness :: semi-sweet
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Ukvfdy Axlob
+- vintage :: 1945
+- appellation :: [[id:ac0d70bd-1579-4019-a0c8-9ef98497c20d][Zxttde]]
+- alcohol :: 9.48
+- price :: 31.81 EUR
+- acquired :: 8
+- consumed :: 0
+- available :: 8
+- resources :: wikipedia
+- rating :: 5.5
+- ratings :: [[id:6d93fbe5-4f81-4595-80fc-9f7bb1f5a8f7][Vjjtw Hvrja Ukvfdy Axlob 1945 - 2022-9-12]]

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9cebc66c-c10f-47ea-b8c6-9728afc8cd18
+:END:
+#+title: Vjjtw Hvrja Rqmgnuac Fbdzbxih 1929
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: rose
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Rqmgnuac Fbdzbxih
+- vintage :: 1929
+- region :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- alcohol :: 13.11
+- sugar :: 23.92
+- price :: 14.49 EUR
+- acquired :: 5
+- consumed :: 3
+- available :: 2
+- rating :: 5.0
+- ratings :: [[id:d8407b3d-08e1-4ed7-968b-361da8f4927f][Vjjtw Hvrja Rqmgnuac Fbdzbxih 1929 - 2000-2-19]]

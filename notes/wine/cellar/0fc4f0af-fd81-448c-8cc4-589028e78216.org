@@ -1,0 +1,20 @@
+:PROPERTIES:
+:ID:       0fc4f0af-fd81-448c-8cc4-589028e78216
+:END:
+#+title: Lzf Fpvhi Nrqlih 
+#+filetags: :wine:cellar:
+
+- carbonation :: sparkling
+- colour :: white
+- sweetness :: dry
+- producer :: [[id:f6d678ef-d7bd-4aea-8795-0cff734d1210][Lzf]]
+- name :: Fpvhi Nrqlih
+- appellation :: [[id:e6d1d0a7-b572-4ce7-941f-18f0c9e80a52][Fqkrs Wpy]]
+- alcohol :: 12.9
+- sugar :: 17.11
+- price :: 55.91 EUR
+- acquired :: 7
+- consumed :: 1
+- available :: 6
+- resources :: wikipedia
+- rating :: NA

@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       9742b334-bfe8-4ca8-81cb-eca60c86a464
+:END:
+#+title: Vjjtw Hvrja Bfjd 1914
+#+filetags: :wine:cellar:
+
+- carbonation :: still
+- colour :: white
+- sweetness :: semi-dry
+- producer :: [[id:df5367bb-018b-4f07-a072-f89a211d4496][Vjjtw Hvrja]]
+- name :: Bfjd
+- vintage :: 1914
+- appellation :: [[id:11fbe38d-382a-4950-abbb-9414ecbb4579][Bdfuntb]]
+- alcohol :: 10.31
+- price :: 42.21 EUR
+- acquired :: 7
+- consumed :: 5
+- available :: 2
+- resources :: [[id:b40bf387-021f-4119-8be0-971615533657][Vly Fqkseqak]]
+- rating :: 5.5
+- ratings :: [[id:3ebb72c2-4126-4193-8c19-3bcf6929b1ef][Vjjtw Hvrja Bfjd 1914 - 2014-9-23]]
