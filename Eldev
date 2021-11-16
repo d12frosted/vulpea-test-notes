@@ -13,8 +13,10 @@
   (when (file-exists-p path)
     (setenv "VINO_PATH" path)))
 
-;; Use local version of org-roam until it is released.
-(eldev-use-local-dependency (getenv "VULPEA_PATH"))
-(eldev-use-local-dependency (getenv "VINO_PATH"))
+;; Use local version of VULPEA and VINO if possible
+(let ((vulpea-path (getenv "VULPEA_PATH")))
+  (eldev-use-local-dependency vulpea-path))
+(let ((vino-path (getenv "VINO_PATH")))
+  (eldev-use-local-dependency vino-path))
 
 (setq-default org-roam-v2-ack t)
