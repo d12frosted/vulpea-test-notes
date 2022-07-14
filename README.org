@@ -3,25 +3,18 @@
 :ID:                     4fe3f346-d3fc-4d88-a641-459a73f21f3a
 :END:
 
-A set of generated notes for testing purposes. Used by [[https://github.com/d12frosted/vulpea][vulpea]] library.
-This repository contains the following items.
+A set of generated notes for testing purposes. Used by [[https://github.com/d12frosted/vulpea][vulpea]] library. This repository contains the following items.
 
 1. Scripts to generate notes and database.
 2. 9k+ generated notes.
-3. =org-roam.db= for these notes. It is included along with notes,
-   because it takes few minutes to build it. In order to make it
-   usable, all file paths are converted into =org-roam-directory=
-   relative file paths. See usage instructions to learn how to restore
-   database. Also keep in mind that this database also contains extra
-   tables defined by [[https://github.com/d12frosted/vulpea][vulpea]] library.
+3. =org-roam.db= for these notes. It is included along with notes, because it takes few minutes to build it. In order to make it usable, all file paths are converted into =org-roam-directory= relative file paths. See usage instructions to learn how to restore database. Also keep in mind that this database also contains extra tables defined by [[https://github.com/d12frosted/vulpea][vulpea]] library.
 
 ** Rebuild org-roam.db
 :PROPERTIES:
 :ID:                     7891b0a7-7449-4bf2-8d4c-b2650751a344
 :END:
 
-If you wish to simply update/synchronise =org-roam.db= file, use the
-following command.
+If you wish to simply update/synchronise =org-roam.db= file, use the following command.
 
 #+begin_src bash
   $ make db
@@ -32,9 +25,7 @@ following command.
 :ID:                     6fcd7cec-b587-4a46-bd81-8dfeec560b7f
 :END:
 
-In case you wish to generate a new set of notes, use the following
-command. Please note that it might take more than an hour (because it
-uses [[https://github.com/d12frosted/vino][vino]] library to create semi-real notes).
+In case you wish to generate a new set of notes, use the following command. Please note that it might take more than an hour (because it uses [[https://github.com/d12frosted/vino][vino]] library to create semi-real notes).
 
 #+begin_src bash
   $ make generate
@@ -45,10 +36,7 @@ uses [[https://github.com/d12frosted/vino][vino]] library to create semi-real no
 :ID:                     4cc6c127-8533-44c4-a91d-1f33562ae0bd
 :END:
 
-Since =org-roam= uses absolute file paths, generally =org-roam.db= is
-not portable. So in order to achieve this, all file paths in
-=org-roam.db= are turned into =org-roam-directory= relative file
-paths. In order to restore them, use the following code in your tests.
+Since =org-roam= uses absolute file paths, generally =org-roam.db= is not portable. So in order to achieve this, all file paths in =org-roam.db= are turned into =org-roam-directory= relative file paths. In order to restore them, use the following code in your tests.
 
 #+begin_src emacs-lisp
   (when (file-exists-p org-roam-db-location)
@@ -64,8 +52,7 @@ paths. In order to restore them, use the following code in your tests.
                           (file-name-as-directory org-roam-directory)))))
 #+end_src
 
-Full example of initialization can be found in [[https://github.com/d12frosted/vulpea/blob/master/test/vulpea-perf-test.el][vulpea-perf-test.el]].
-Just for future-proof reference:
+Full example of initialization can be found in [[https://github.com/d12frosted/vulpea/blob/master/test/vulpea-perf-test.el][vulpea-perf-test.el]]. Just for future-proof reference:
 
 #+begin_src emacs-lisp
   (cl-defun vulpea-perf--init (&key db-file-name
