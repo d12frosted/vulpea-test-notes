@@ -58,6 +58,8 @@
           (emacsql db (format "update files set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
                               (file-name-as-directory org-roam-directory)))
           (emacsql db (format "update notes set path = '\"' || '%s' || replace(path, '\"', '') || '\"'"
+                              (file-name-as-directory org-roam-directory)))
+          (emacsql db (format "update notes set attach = '\"' || '%s' || replace(attach, '\"', '') || '\"'"
                               (file-name-as-directory org-roam-directory)))))))
   (vulpea-db-autosync-enable)
   (org-roam-db-autosync-enable))
@@ -71,6 +73,8 @@
     (emacsql db (format "update files set file = replace(file, '%s', '')"
                         (file-name-as-directory dir)))
     (emacsql db (format "update notes set path = replace(path, '%s', '')"
+                        (file-name-as-directory dir)))
+    (emacsql db (format "update notes set attach = replace(attach, '%s', '')"
                         (file-name-as-directory dir)))))
 
 
