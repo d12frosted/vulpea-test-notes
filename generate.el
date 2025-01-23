@@ -43,10 +43,9 @@
 (defun init-in (dir)
   "Initialize testing environment in DIR."
   (setq org-roam-directory dir
-        org-roam-db-location (expand-file-name "org-roam.db" dir)
-        vino-db-gc-threshold most-positive-fixnum)
+        org-roam-db-location (expand-file-name "org-roam.db" dir))
   (when (file-exists-p org-roam-db-location)
-    (let ((db (emacsql-sqlite org-roam-db-location)))
+    (let ((db (emacsql-sqlite-open org-roam-db-location)))
       (message "Count of notes: %s"
                (caar (emacsql db "select count(*) from nodes")))
       (when-let* ((res (emacsql db [:select file :from files]))
@@ -66,7 +65,7 @@
 
 (defun relativize-file-paths (db-file dir)
   "Convert file path in DB-FILE into relative to DIR."
-  (let ((db (emacsql-sqlite db-file)))
+  (let ((db (emacsql-sqlite-open db-file)))
     (emacsql db [:pragma (= foreign_keys 0)])
     (emacsql db (format "update nodes set file = replace(file, '%s', '')"
                         (file-name-as-directory dir)))
@@ -192,7 +191,6 @@ DIR/notes can be used as `org-roam-directory'."
                   ("property_5" 6)))))
     (init-in notes-dir)
     (vino-setup)
-    (vino-db-sync)
     (let* ((producers (generate-producers 10 producers-file))
            (grapes (generate-grapes 20 grapes-file))
            (regions (generate-regions 10 regions-file))
