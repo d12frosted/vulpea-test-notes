@@ -36,35 +36,31 @@
 ;;; Code:
 
 (require 'vulpea)
+(require 'vulpea-db-sync)
 (require 'vino)
 
 
 
 (defun init-in (dir)
   "Initialize testing environment in DIR."
-  (setq org-roam-directory dir
-        org-roam-db-location (expand-file-name "org-roam.db" dir))
-  (when (file-exists-p org-roam-db-location)
-    (let ((db (emacsql-sqlite-open org-roam-db-location)))
-      (message "Count of notes: %s"
-               (caar (emacsql db "select count(*) from nodes")))
-      (when-let* ((res (emacsql db [:select file :from files]))
+  (setq org-directory dir
+        vulpea-db-sync-directories (list dir)
+        vulpea-db-location (expand-file-name "vulpea.db" dir))
+  (when (file-exists-p vulpea-db-location)
+    (let ((db (emacsql-sqlite-open vulpea-db-location)))
+      (message "Count of vulpea notes: %s"
+               (caar (emacsql db "select count(*) from notes")))
+      (when-let* ((res (emacsql db [:select path :from files]))
                   (some-file (caar res)))
         (unless (string-prefix-p "/" some-file)
-          (emacsql db [:pragma (= foreign_keys 0)])
-          (emacsql db (format "update nodes set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
-                              (file-name-as-directory org-roam-directory)))
-          (emacsql db (format "update files set file = '\"' || '%s' || replace(file, '\"', '') || '\"'"
-                              (file-name-as-directory org-roam-directory)))
-          (emacsql db (format "update notes set path = '\"' || '%s' || replace(path, '\"', '') || '\"'"
-                              (file-name-as-directory org-roam-directory)))
-          (emacsql db (format "update notes set attach = '\"' || '%s' || replace(attach, '\"', '') || '\"'"
-                              (file-name-as-directory org-roam-directory)))))))
-  (vulpea-db-autosync-enable)
-  (org-roam-db-autosync-enable))
+          (emacsql db (format "update files set path = '\"' || '%s' || replace(path, '\"', '') || '\"'"
+                              (file-name-as-directory dir)))))))
+  ;; Enable autosync for both databases
+  (vulpea-db-autosync-mode +1))
 
 (defun relativize-file-paths (db-file dir)
-  "Convert file path in DB-FILE into relative to DIR."
+  "Convert file path in DB-FILE into relative to DIR.
+This works for org-roam.db schema."
   (let ((db (emacsql-sqlite-open db-file)))
     (emacsql db [:pragma (= foreign_keys 0)])
     (emacsql db (format "update nodes set file = replace(file, '%s', '')"
@@ -74,6 +70,13 @@
     (emacsql db (format "update notes set path = replace(path, '%s', '')"
                         (file-name-as-directory dir)))
     (emacsql db (format "update notes set attach = replace(attach, '%s', '')"
+                        (file-name-as-directory dir)))))
+
+(defun relativize-vulpea-db-paths (db-file dir)
+  "Convert file paths in vulpea DB-FILE into relative to DIR.
+This works for vulpea.db schema."
+  (let ((db (emacsql-sqlite-open db-file)))
+    (emacsql db (format "update files set path = replace(path, '%s', '')"
                         (file-name-as-directory dir)))))
 
 
@@ -121,11 +124,29 @@ Shuffling is done in place."
 
 
 (defun sync-db (dir)
-  "Synchronise `org-roam-db' in DIR."
+  "Synchronise `vulpea-db' in DIR."
   (let ((notes-dir (expand-file-name "notes" dir)))
-    (init-in notes-dir)
-    (relativize-file-paths
-     (expand-file-name "org-roam.db" notes-dir) notes-dir)))
+    ;; Set up directories but DON'T enable autosync mode
+    ;; (autosync queues files which won't be processed in eldev exec)
+    (setq org-directory notes-dir
+          vulpea-db-sync-directories (list notes-dir)
+          vulpea-db-location (expand-file-name "vulpea.db" notes-dir))
+
+    ;; Initialize database
+    (message "Initializing vulpea database...")
+    (vulpea-db)
+
+    ;; Sync vulpea database (will use synchronous mode since autosync is off)
+    (message "Syncing vulpea database...")
+    (vulpea-db-sync-update-directory notes-dir)
+    (message "Vulpea database synced with %s notes"
+             (caar (emacsql (vulpea-db) "select count(*) from notes")))
+
+    ;; Relativize paths in vulpea.db
+    (message "Relativizing paths in vulpea.db...")
+    (relativize-vulpea-db-paths
+     (expand-file-name "vulpea.db" notes-dir) notes-dir)
+    (message "Database synchronization complete!")))
 
 (defun generate-data (dir &optional verbose)
   "Generate test data in DIR.
